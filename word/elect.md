@@ -1,7 +1,45 @@
 ---
 layout: word
-title: elect
+title: Is ELECT a Wordle Word?
+head_title: Is ELECT a Wordle Word? Yes – Possible Answer & Meaning
 word: elect
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /iːˈlɛkt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One chosen or set apart.</li><li><strong>Definition 2:</strong> In Calvinist theology, one foreordained to Heaven. In other Christian theologies, someone chosen by God for salvation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To choose or make a decision (to do something)</li><li><strong>Definition 2:</strong> To choose (a candidate) in an election</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Who has been elected in a specified post, but has not yet entered office.<p><strong>Example:</strong> He is the President elect.</p></li><li><strong>Definition 2:</strong> Chosen; taken by preference from among two or more.</li></ul></div></div>"
+description: Yes, ELECT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- eject
+- erect
+- eleet
+phonetic: "/iːˈlɛkt/"
+definitions:
+- pos: noun
+  defs:
+  - text: One chosen or set apart.
+  - text: In Calvinist theology, one foreordained to Heaven. In other Christian theologies,
+      someone chosen by God for salvation.
+- pos: verb
+  defs:
+  - text: To choose or make a decision (to do something)
+  - text: To choose (a candidate) in an election
+- pos: adjective
+  defs:
+  - text: Who has been elected in a specified post, but has not yet entered office.
+    example: He is the President elect.
+  - text: Chosen; taken by preference from among two or more.
 ---
-

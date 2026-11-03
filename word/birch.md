@@ -1,7 +1,44 @@
 ---
 layout: word
-title: birch
+title: Is BIRCH a Wordle Word?
+head_title: 'Is BIRCH a Wordle Word? Yes – Past Answer #808 & Meaning'
 word: birch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜːtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various trees of the genus Betula, native to countries in the Northern Hemisphere.</li><li><strong>Definition 2:</strong> A hard wood taken from the birch tree, typically used to make furniture.</li><li><strong>Definition 3:</strong> A stick, rod or bundle of twigs made from birch wood, used for punishment.</li><li><strong>Definition 4:</strong> A birch-bark canoe.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To punish with a stick, bundle of twigs, or rod made of birch wood.</li><li><strong>Definition 2:</strong> To punish as though one were using a stick, bundle of twigs, or rod made of birch wood.</li></ul></div></div>"
+description: Yes, BIRCH is a valid Wordle word. It was the Wordle answer on September
+  5, 2023 (#808). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 5, 2023 (#808).
+past_answers:
+- date: '2023-09-05'
+  number: 808
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- birth
+- biach
+- mirch
+phonetic: "/bɜːtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various trees of the genus Betula, native to countries in the Northern
+      Hemisphere.
+  - text: A hard wood taken from the birch tree, typically used to make furniture.
+  - text: A stick, rod or bundle of twigs made from birch wood, used for punishment.
+  - text: A birch-bark canoe.
+- pos: verb
+  defs:
+  - text: To punish with a stick, bundle of twigs, or rod made of birch wood.
+  - text: To punish as though one were using a stick, bundle of twigs, or rod made
+      of birch wood.
 ---
-

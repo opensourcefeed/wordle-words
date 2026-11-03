@@ -1,7 +1,47 @@
 ---
 layout: word
-title: hence
+title: Is HENCE a Wordle Word?
+head_title: 'Is HENCE a Wordle Word? Yes – Past Answer #1085 & Meaning'
 word: hence
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɛns/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> From here, from this place, away<p><strong>Example:</strong> Get thee hence, Satan!</p></li><li><strong>Definition 2:</strong> From the living or from this world<p><strong>Example:</strong> After a long battle, my poor daughter was taken hence.</p></li><li><strong>Definition 3:</strong> (of a length of time) in the future from now<p><strong>Example:</strong> A year hence it will be forgotten.</p></li><li><strong>Definition 4:</strong> As a result; therefore, for this reason<p><strong>Example:</strong> I shall go to Japan and hence will not be here in time for the party.</p></li></ul></div></div>"
+description: Yes, HENCE is a valid Wordle word. It was the Wordle answer on June 8,
+  2024 (#1085). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 8, 2024 (#1085).
+past_answers:
+- date: '2024-06-08'
+  number: 1085
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- fence
+- pence
+- hance
+- hench
+- henge
+- mence
+anagrams:
+- neche
+phonetic: "/ˈhɛns/"
+definitions:
+- pos: adverb
+  defs:
+  - text: From here, from this place, away
+    example: Get thee hence, Satan!
+  - text: From the living or from this world
+    example: After a long battle, my poor daughter was taken hence.
+  - text: "(of a length of time) in the future from now"
+    example: A year hence it will be forgotten.
+  - text: As a result; therefore, for this reason
+    example: I shall go to Japan and hence will not be here in time for the party.
 ---
-

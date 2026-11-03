@@ -1,7 +1,57 @@
 ---
 layout: word
-title: pound
+title: Is POUND a Wordle Word?
+head_title: 'Is POUND a Wordle Word? Yes – Past Answer #49 & Meaning'
 word: pound
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /paʊnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A unit of mass equal to 16 avoirdupois ounces (= 453.592 37 g). Today this value is the most common meaning of \"pound\" as a unit of weight.</li><li><strong>Definition 2:</strong> A unit of mass equal to 12 troy ounces (≈ 373.242 g). Today, this is a common unit of weight when measuring precious metals, and is little used elsewhere.</li><li><strong>Definition 3:</strong> The symbol # (octothorpe, hash)</li><li><strong>Definition 4:</strong> The unit of currency used in the United Kingdom and its dependencies. It is divided into 100 pence.</li><li><strong>Definition 5:</strong> Any of various units of currency used in Egypt and Lebanon, and formerly in the Republic of Ireland, Cyprus and Israel.</li><li><strong>Definition 6:</strong> Any of various units of currency formerly used in the United States.<p><strong>Example:</strong> the Rhode Island pound; the New Hampshire pound</p></li><li><strong>Definition 7:</strong> Abbreviation for pound-force, a unit of force/weight. Using this abbreviation to describe pound-force is inaccurate and unscientific.</li></ul></div></div>"
+description: Yes, POUND is a valid Wordle word. It was the Wordle answer on August
+  7, 2021 (#49). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 7, 2021 (#49).
+past_answers:
+- date: '2021-08-07'
+  number: 49
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- bound
+- found
+- hound
+- mound
+- round
+- sound
+- wound
+- lound
+- poind
+- pownd
+trap:
+  pattern: _OUND
+  count: 9
+phonetic: "/paʊnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A unit of mass equal to 16 avoirdupois ounces (= 453.592 37 g). Today this
+      value is the most common meaning of "pound" as a unit of weight.
+  - text: A unit of mass equal to 12 troy ounces (≈ 373.242 g). Today, this is a common
+      unit of weight when measuring precious metals, and is little used elsewhere.
+  - text: 'The symbol # (octothorpe, hash)'
+  - text: The unit of currency used in the United Kingdom and its dependencies. It
+      is divided into 100 pence.
+  - text: Any of various units of currency used in Egypt and Lebanon, and formerly
+      in the Republic of Ireland, Cyprus and Israel.
+  - text: Any of various units of currency formerly used in the United States.
+    example: the Rhode Island pound; the New Hampshire pound
+  - text: Abbreviation for pound-force, a unit of force/weight. Using this abbreviation
+      to describe pound-force is inaccurate and unscientific.
 ---
-

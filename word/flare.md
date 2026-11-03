@@ -1,7 +1,79 @@
 ---
 layout: word
-title: flare
+title: Is FLARE a Wordle Word?
+head_title: 'Is FLARE a Wordle Word? Yes – Past Answer #869 & Meaning'
 word: flare
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden bright light.</li><li><strong>Definition 2:</strong> A source of brightly burning light or intense heat.<p><strong>Example:</strong> solar flare</p></li><li><strong>Definition 3:</strong> A sudden eruption or outbreak; a flare-up.</li><li><strong>Definition 4:</strong> A widening of an object with an otherwise roughly constant width.<p><strong>Example:</strong> During assembly of a flare tube fitting, a flare nut is used to secure the flared tubing’s tapered end to the also tapered fitting, producing a pressure-resistant, leak-tight seal.</p></li><li><strong>Definition 5:</strong> (in plural) Bell-bottom trousers.</li><li><strong>Definition 6:</strong> The transition from downward flight to level flight just before landing.<p><strong>Example:</strong> The captain executed the flare perfectly, and we lightly touched down.</p></li><li><strong>Definition 7:</strong> A low fly ball that is hit in the region between the infielders and the outfielders.<p><strong>Example:</strong> Jones hits a little flare to left that falls for a single.</p></li><li><strong>Definition 8:</strong> A route run by the running back, releasing toward the sideline and then slightly arcing upfield looking for a short pass.</li><li><strong>Definition 9:</strong> Short for lens flare.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause to burn.</li><li><strong>Definition 2:</strong> To cause inflammation; to inflame.</li><li><strong>Definition 3:</strong> To open outward in shape.<p><strong>Example:</strong> The building flared from the third through the seventh floors to occupy the airspace over the entrance plaza. (intransitive)</p></li><li><strong>Definition 4:</strong> To (operate an aircraft to) transition from downward flight to level flight just before landing.</li><li><strong>Definition 5:</strong> To blaze brightly.<p><strong>Example:</strong> The blast furnace flared in the night.</p></li><li><strong>Definition 6:</strong> To shine out with a sudden and unsteady light; to emit a dazzling or painfully bright light.<p><strong>Example:</strong> The candle flared in a sudden draught.</p></li><li><strong>Definition 7:</strong> To shine out with gaudy colours; to be offensively bright or showy.</li><li><strong>Definition 8:</strong> To suddenly happen or intensify.</li><li><strong>Definition 9:</strong> To suddenly erupt in anger.</li><li><strong>Definition 10:</strong> To be exposed to too much light.</li></ul></div></div>"
+description: Yes, FLARE is a valid Wordle word. It was the Wordle answer on November
+  5, 2023 (#869). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 5, 2023 (#869).
+past_answers:
+- date: '2023-11-05'
+  number: 869
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- blare
+- flake
+- flame
+- glare
+- feare
+- flane
+- flary
+- flore
+anagrams:
+- feral
+- farle
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden bright light.
+  - text: A source of brightly burning light or intense heat.
+    example: solar flare
+  - text: A sudden eruption or outbreak; a flare-up.
+  - text: A widening of an object with an otherwise roughly constant width.
+    example: During assembly of a flare tube fitting, a flare nut is used to secure
+      the flared tubing’s tapered end to the also tapered fitting, producing a pressure-resistant,
+      leak-tight seal.
+  - text: "(in plural) Bell-bottom trousers."
+  - text: The transition from downward flight to level flight just before landing.
+    example: The captain executed the flare perfectly, and we lightly touched down.
+  - text: A low fly ball that is hit in the region between the infielders and the
+      outfielders.
+    example: Jones hits a little flare to left that falls for a single.
+  - text: A route run by the running back, releasing toward the sideline and then
+      slightly arcing upfield looking for a short pass.
+  - text: Short for lens flare.
+- pos: verb
+  defs:
+  - text: To cause to burn.
+  - text: To cause inflammation; to inflame.
+  - text: To open outward in shape.
+    example: The building flared from the third through the seventh floors to occupy
+      the airspace over the entrance plaza. (intransitive)
+  - text: To (operate an aircraft to) transition from downward flight to level flight
+      just before landing.
+  - text: To blaze brightly.
+    example: The blast furnace flared in the night.
+  - text: To shine out with a sudden and unsteady light; to emit a dazzling or painfully
+      bright light.
+    example: The candle flared in a sudden draught.
+  - text: To shine out with gaudy colours; to be offensively bright or showy.
+  - text: To suddenly happen or intensify.
+  - text: To suddenly erupt in anger.
+  - text: To be exposed to too much light.
 ---
-

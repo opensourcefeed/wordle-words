@@ -1,7 +1,44 @@
 ---
 layout: word
-title: piano
+title: Is PIANO a Wordle Word?
+head_title: 'Is PIANO a Wordle Word? Yes – Past Answer #885 & Meaning'
 word: piano
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piˈænoʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings<p><strong>Example:</strong> He can play \"Happy Birthday\" on the piano.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Soft, quiet</li><li><strong>Definition 2:</strong> In extended use; quiet, subdued</li></ul></div></div>"
+description: Yes, PIANO is a valid Wordle word. It was the Wordle answer on November
+  21, 2023 (#885). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 21, 2023 (#885).
+past_answers:
+- date: '2023-11-21'
+  number: 885
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- piani
+- pians
+phonetic: "/piˈænoʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A percussive keyboard musical instrument, usually ranging over seven octaves,
+      with white and black colored keys, played by pressing these keys, causing hammers
+      to strike strings
+    example: He can play "Happy Birthday" on the piano.
+- pos: adjective
+  defs:
+  - text: Soft, quiet
+  - text: In extended use; quiet, subdued
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: scamp
+title: Is SCAMP a Wordle Word?
+head_title: Is SCAMP a Wordle Word? Yes – Possible Answer & Meaning
 word: scamp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /skamp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rascal, swindler, or rogue; a ne'er-do-well.</li><li><strong>Definition 2:</strong> A mischievous person, especially a playful, impish youngster.<p><strong>Example:</strong> My nephew is a little scamp who likes to leave lighted firecrackers under the lawnchairs of his dozing elders.</p></li></ul></div></div>"
+description: Yes, SCAMP is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- scalp
+- stamp
+- swamp
+- scams
+- scarp
+- scaup
+anagrams:
+- camps
+phonetic: "/skamp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A rascal, swindler, or rogue; a ne'er-do-well.
+  - text: A mischievous person, especially a playful, impish youngster.
+    example: My nephew is a little scamp who likes to leave lighted firecrackers under
+      the lawnchairs of his dozing elders.
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: balms
+title: Is BALMS a Wordle Word?
+head_title: Is BALMS a Wordle Word? Yes – Valid Guess & Meaning
 word: balms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various aromatic resins exuded from certain plants, especially trees of the genus Commiphora of Africa, Arabia and India and Myroxylon of South America.</li><li><strong>Definition 2:</strong> A plant or tree yielding such substance.</li><li><strong>Definition 3:</strong> Any soothing oil or lotion, especially an aromatic one.<p><strong>Example:</strong> There is a balm in Gilead... (Spiritual)</p></li><li><strong>Definition 4:</strong> Something soothing.<p><strong>Example:</strong> Classical music is a sweet balm for our sorrows.</p></li><li><strong>Definition 5:</strong> The lemon balm, Melissa officinalis</li><li><strong>Definition 6:</strong> Any of a number of other aromatic herbs with a similar citrus-like scent, such as bee balm and horse balm.</li></ul></div></div>"
+description: Yes, BALMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- balmy
+- balas
+- balds
+- bales
+- balks
+- balls
+- balus
+- barms
+- calms
+- halms
+- malms
+- palms
+anagrams:
+- blams
+- lambs
+trap:
+  pattern: BAL_S
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various aromatic resins exuded from certain plants, especially trees
+      of the genus Commiphora of Africa, Arabia and India and Myroxylon of South America.
+  - text: A plant or tree yielding such substance.
+  - text: Any soothing oil or lotion, especially an aromatic one.
+    example: There is a balm in Gilead... (Spiritual)
+  - text: Something soothing.
+    example: Classical music is a sweet balm for our sorrows.
+  - text: The lemon balm, Melissa officinalis
+  - text: Any of a number of other aromatic herbs with a similar citrus-like scent,
+      such as bee balm and horse balm.
 ---
-

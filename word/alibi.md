@@ -1,7 +1,42 @@
 ---
 layout: word
-title: alibi
+title: Is ALIBI a Wordle Word?
+head_title: 'Is ALIBI a Wordle Word? Yes – Past Answer #1828 & Meaning'
 word: alibi
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæl.ə.baɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The plea or mode of defense under which a person on trial for a crime proves or attempts to prove being in another place when the alleged act was committed<p><strong>Example:</strong> to prove an alibi</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To provide an alibi for.</li><li><strong>Definition 2:</strong> To provide an excuse for.</li></ul></div></div>"
+description: Yes, ALIBI is a valid Wordle word. It was the Wordle answer on June 21,
+  2026 (#1828). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 21, 2026 (#1828).
+past_answers:
+- date: '2026-06-21'
+  number: 1828
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - A
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+anagrams:
+- biali
+phonetic: "/ˈæl.ə.baɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The plea or mode of defense under which a person on trial for a crime proves
+      or attempts to prove being in another place when the alleged act was committed
+    example: to prove an alibi
+- pos: verb
+  defs:
+  - text: To provide an alibi for.
+  - text: To provide an excuse for.
 ---
-

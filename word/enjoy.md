@@ -1,7 +1,41 @@
 ---
 layout: word
-title: enjoy
+title: Is ENJOY a Wordle Word?
+head_title: 'Is ENJOY a Wordle Word? Yes – Past Answer #478 & Meaning'
 word: enjoy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ənˈd͡ʒɔɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To receive pleasure or satisfaction from something<p><strong>Example:</strong> Enjoy your holidays!   I enjoy dancing.</p></li><li><strong>Definition 2:</strong> To have the use or benefit of something.<p><strong>Example:</strong> I plan to go travelling while I still enjoy good health.</p></li><li><strong>Definition 3:</strong> To be satisfied or receive pleasure.<p><strong>Example:</strong> I enjoyed a lot.</p></li><li><strong>Definition 4:</strong> To have sexual intercourse with.</li></ul></div></div>"
+description: Yes, ENJOY is a valid Wordle word. It was the Wordle answer on October
+  10, 2022 (#478). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 10, 2022 (#478).
+past_answers:
+- date: '2022-10-10'
+  number: 478
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- envoy
+phonetic: "/ənˈd͡ʒɔɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To receive pleasure or satisfaction from something
+    example: Enjoy your holidays!   I enjoy dancing.
+  - text: To have the use or benefit of something.
+    example: I plan to go travelling while I still enjoy good health.
+  - text: To be satisfied or receive pleasure.
+    example: I enjoyed a lot.
+  - text: To have sexual intercourse with.
 ---
-

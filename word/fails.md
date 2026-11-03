@@ -1,7 +1,89 @@
 ---
 layout: word
-title: fails
+title: Is FAILS a Wordle Word?
+head_title: Is FAILS a Wordle Word? Yes – Valid Guess & Meaning
 word: fails
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /feɪlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Poor quality; substandard workmanship.<p><strong>Example:</strong> The project was full of fail.</p></li><li><strong>Definition 2:</strong> A failure (condition of being unsuccessful)</li><li><strong>Definition 3:</strong> A failure (something incapable of success)</li><li><strong>Definition 4:</strong> A failure, especially of a financial transaction (a termination of an action).</li><li><strong>Definition 5:</strong> A failing grade in an academic examination.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be unsuccessful.<p><strong>Example:</strong> Throughout my life, I have always failed.</p></li><li><strong>Definition 2:</strong> Not to achieve a particular stated goal. (Usage note: The direct object of this word is usually an infinitive.)<p><strong>Example:</strong> The truck failed to start.</p></li><li><strong>Definition 3:</strong> To neglect.<p><strong>Example:</strong> The report fails to take into account all the mitigating factors.</p></li><li><strong>Definition 4:</strong> Of a machine, etc.: to cease to operate correctly.<p><strong>Example:</strong> After running five minutes, the engine failed.</p></li><li><strong>Definition 5:</strong> To be wanting to, to be insufficient for, to disappoint, to desert.</li><li><strong>Definition 6:</strong> To receive one or more non-passing grades in academic pursuits.<p><strong>Example:</strong> I failed English last year.</p></li><li><strong>Definition 7:</strong> To give a student a non-passing grade in an academic endeavour.<p><strong>Example:</strong> The professor failed me because I did not complete any of the course assignments.</p></li><li><strong>Definition 8:</strong> To miss attaining; to lose.</li><li><strong>Definition 9:</strong> To be wanting; to fall short; to be or become deficient in any measure or degree up to total absence.<p><strong>Example:</strong> The crops failed last year.</p></li><li><strong>Definition 10:</strong> To be affected with want; to come short; to lack; to be deficient or unprovided; used with of.</li><li><strong>Definition 11:</strong> To fall away; to become diminished; to decline; to decay; to sink.</li><li><strong>Definition 12:</strong> To deteriorate in respect to vigour, activity, resources, etc.; to become weaker.<p><strong>Example:</strong> A sick man fails.</p></li><li><strong>Definition 13:</strong> To perish; to die; used of a person.</li><li><strong>Definition 14:</strong> To err in judgment; to be mistaken.</li><li><strong>Definition 15:</strong> To become unable to meet one's engagements; especially, to be unable to pay one's debts or discharge one's business obligation; to become bankrupt or insolvent.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece of turf cut from grassland.</li></ul></div></div>"
+description: Yes, FAILS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- bails
+- faiks
+- fains
+- fairs
+- falls
+- farls
+- foils
+- hails
+- jails
+- kails
+- mails
+- nails
+anagrams:
+- alifs
+trap:
+  pattern: _AILS
+  count: 13
+phonetic: "/feɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Poor quality; substandard workmanship.
+    example: The project was full of fail.
+  - text: A failure (condition of being unsuccessful)
+  - text: A failure (something incapable of success)
+  - text: A failure, especially of a financial transaction (a termination of an action).
+  - text: A failing grade in an academic examination.
+- pos: verb
+  defs:
+  - text: To be unsuccessful.
+    example: Throughout my life, I have always failed.
+  - text: 'Not to achieve a particular stated goal. (Usage note: The direct object
+      of this word is usually an infinitive.)'
+    example: The truck failed to start.
+  - text: To neglect.
+    example: The report fails to take into account all the mitigating factors.
+  - text: 'Of a machine, etc.: to cease to operate correctly.'
+    example: After running five minutes, the engine failed.
+  - text: To be wanting to, to be insufficient for, to disappoint, to desert.
+  - text: To receive one or more non-passing grades in academic pursuits.
+    example: I failed English last year.
+  - text: To give a student a non-passing grade in an academic endeavour.
+    example: The professor failed me because I did not complete any of the course
+      assignments.
+  - text: To miss attaining; to lose.
+  - text: To be wanting; to fall short; to be or become deficient in any measure or
+      degree up to total absence.
+    example: The crops failed last year.
+  - text: To be affected with want; to come short; to lack; to be deficient or unprovided;
+      used with of.
+  - text: To fall away; to become diminished; to decline; to decay; to sink.
+  - text: To deteriorate in respect to vigour, activity, resources, etc.; to become
+      weaker.
+    example: A sick man fails.
+  - text: To perish; to die; used of a person.
+  - text: To err in judgment; to be mistaken.
+  - text: To become unable to meet one's engagements; especially, to be unable to
+      pay one's debts or discharge one's business obligation; to become bankrupt or
+      insolvent.
+- pos: noun
+  defs:
+  - text: A piece of turf cut from grassland.
 ---
-

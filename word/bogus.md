@@ -1,7 +1,42 @@
 ---
 layout: word
-title: bogus
+title: Is BOGUS a Wordle Word?
+head_title: Is BOGUS a Wordle Word? Yes – Valid Guess & Meaning
 word: bogus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A liquor made of rum and molasses.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Counterfeit or fake; not genuine.</li><li><strong>Definition 2:</strong> Undesirable or harmful.</li><li><strong>Definition 3:</strong> Incorrect, useless, or broken.</li><li><strong>Definition 4:</strong> Of a totally fictitious issue printed for collectors, often issued on behalf of a non-existent territory or country (not to be confused with forgery, which is an illegitimate copy of a genuine stamp).</li><li><strong>Definition 5:</strong> Based on false or misleading information or unjustified assumptions.<p><strong>Example:</strong> bogus laws</p></li></ul></div></div>"
+description: Yes, BOGUS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- bonus
+- bogue
+- bolus
+definitions:
+- pos: noun
+  defs:
+  - text: A liquor made of rum and molasses.
+- pos: adjective
+  defs:
+  - text: Counterfeit or fake; not genuine.
+  - text: Undesirable or harmful.
+  - text: Incorrect, useless, or broken.
+  - text: Of a totally fictitious issue printed for collectors, often issued on behalf
+      of a non-existent territory or country (not to be confused with forgery, which
+      is an illegitimate copy of a genuine stamp).
+  - text: Based on false or misleading information or unjustified assumptions.
+    example: bogus laws
 ---
-

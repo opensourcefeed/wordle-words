@@ -1,7 +1,51 @@
 ---
 layout: word
-title: auger
+title: Is AUGER a Wordle Word?
+head_title: Is AUGER a Wordle Word? Yes – Valid Guess & Meaning
 word: auger
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɔːɡə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A carpenter's tool for boring holes longer than those bored by a gimlet.</li><li><strong>Definition 2:</strong> A snake or plumber's snake (plumbing tool).</li><li><strong>Definition 3:</strong> A tool used to bore holes in the ground, e.g. for fence posts</li><li><strong>Definition 4:</strong> A hollow drill used to take core samples of soil, ice, etc. for scientific study.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use an auger; to drill a hole using an auger.</li><li><strong>Definition 2:</strong> To proceed in the manner of an auger.</li></ul></div></div>"
+description: Yes, AUGER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- anger
+- augur
+- aeger
+- agger
+- augen
+- auges
+- huger
+- luger
+anagrams:
+- argue
+- rugae
+phonetic: "/ˈɔːɡə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A carpenter's tool for boring holes longer than those bored by a gimlet.
+  - text: A snake or plumber's snake (plumbing tool).
+  - text: A tool used to bore holes in the ground, e.g. for fence posts
+  - text: A hollow drill used to take core samples of soil, ice, etc. for scientific
+      study.
+- pos: verb
+  defs:
+  - text: To use an auger; to drill a hole using an auger.
+  - text: To proceed in the manner of an auger.
 ---
-

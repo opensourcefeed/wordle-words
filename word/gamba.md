@@ -1,7 +1,43 @@
 ---
 layout: word
-title: gamba
+title: Is GAMBA a Wordle Word?
+head_title: Is GAMBA a Wordle Word? Yes – Valid Guess & Meaning
 word: gamba
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rank of organ pipes, so called for a supposed resemblance of the sound to that of a viola da gamba.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stringed instrument related to the violin family, but held in the lap between the legs like a cello, usually with C-holes, a flat back, a fretted neck and six strings, played with an underhanded bow hold.</li></ul></div></div>"
+description: Yes, GAMBA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- gamma
+- gabba
+- gambe
+- gambo
+- gambs
+- garba
+- hamba
+- mamba
+- samba
+definitions:
+- pos: noun
+  defs:
+  - text: A rank of organ pipes, so called for a supposed resemblance of the sound
+      to that of a viola da gamba.
+- pos: noun
+  defs:
+  - text: A stringed instrument related to the violin family, but held in the lap
+      between the legs like a cello, usually with C-holes, a flat back, a fretted
+      neck and six strings, played with an underhanded bow hold.
 ---
-

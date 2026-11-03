@@ -1,7 +1,60 @@
 ---
 layout: word
-title: alien
+title: Is ALIEN a Wordle Word?
+head_title: 'Is ALIEN a Wordle Word? Yes – Past Answer #413 & Meaning'
 word: alien
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈeɪ.li.ən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any life form of extraterrestrial or extradimensional origin.</li><li><strong>Definition 2:</strong> A person, animal, plant, or other thing which is from outside the family, group, organization, or territory under consideration.</li><li><strong>Definition 3:</strong> A foreigner residing in a country.</li><li><strong>Definition 4:</strong> One excluded from certain privileges; one alienated or estranged.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To estrange; to alienate.</li><li><strong>Definition 2:</strong> To transfer the ownership of something.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not belonging to the same country, land, or government, or to the citizens or subjects thereof; foreign.<p><strong>Example:</strong> alien subjects, enemies, property, or shores</p></li><li><strong>Definition 2:</strong> Very unfamiliar, strange, or removed.<p><strong>Example:</strong> principles alien to our religion</p></li><li><strong>Definition 3:</strong> Pertaining to extraterrestrial life.</li></ul></div></div>"
+description: Yes, ALIEN is a valid Wordle word. It was the Wordle answer on August
+  6, 2022 (#413). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 6, 2022 (#413).
+past_answers:
+- date: '2022-08-06'
+  number: 413
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- align
+- allen
+anagrams:
+- aline
+- anile
+- elain
+- liane
+- nelia
+phonetic: "/ˈeɪ.li.ən/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any life form of extraterrestrial or extradimensional origin.
+  - text: A person, animal, plant, or other thing which is from outside the family,
+      group, organization, or territory under consideration.
+  - text: A foreigner residing in a country.
+  - text: One excluded from certain privileges; one alienated or estranged.
+- pos: verb
+  defs:
+  - text: To estrange; to alienate.
+  - text: To transfer the ownership of something.
+- pos: adjective
+  defs:
+  - text: Not belonging to the same country, land, or government, or to the citizens
+      or subjects thereof; foreign.
+    example: alien subjects, enemies, property, or shores
+  - text: Very unfamiliar, strange, or removed.
+    example: principles alien to our religion
+  - text: Pertaining to extraterrestrial life.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: radge
+title: Is RADGE a Wordle Word?
+head_title: Is RADGE a Wordle Word? Yes – Valid Guess & Meaning
 word: radge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹædʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fit of rage.<p><strong>Example:</strong> He hoyed a propa radge when a telt him</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw a fit of rage.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Violent or crazy.<p><strong>Example:</strong> That fight last night was radge</p></li><li><strong>Definition 2:</strong> (Gosforth) amazing or stupendous.<p><strong>Example:</strong> Them burgers in the Brandling Villa are pure radge</p></li></ul></div></div>"
+description: Yes, RADGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- badge
+- range
+- ridge
+- cadge
+- fadge
+- gadge
+- madge
+- radgy
+- vadge
+- wadge
+anagrams:
+- grade
+- garde
+- ragde
+- raged
+trap:
+  pattern: _ADGE
+  count: 8
+phonetic: "/ɹædʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fit of rage.
+    example: He hoyed a propa radge when a telt him
+- pos: verb
+  defs:
+  - text: To throw a fit of rage.
+- pos: adjective
+  defs:
+  - text: Violent or crazy.
+    example: That fight last night was radge
+  - text: "(Gosforth) amazing or stupendous."
+    example: Them burgers in the Brandling Villa are pure radge
 ---
-

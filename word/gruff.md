@@ -1,7 +1,39 @@
 ---
 layout: word
-title: gruff
+title: Is GRUFF a Wordle Word?
+head_title: 'Is GRUFF a Wordle Word? Yes – Past Answer #1624 & Meaning'
 word: gruff
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹʌf/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To speak gruffly.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a rough, surly, and harsh demeanor and nature.</li><li><strong>Definition 2:</strong> Hoarse-voiced.</li></ul></div></div>"
+description: Yes, GRUFF is a valid Wordle word. It was the Wordle answer on November
+  29, 2025 (#1624). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 29, 2025 (#1624).
+past_answers:
+- date: '2025-11-29'
+  number: 1624
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- graff
+- griff
+- grufe
+phonetic: "/ɡɹʌf/"
+definitions:
+- pos: verb
+  defs:
+  - text: To speak gruffly.
+- pos: adjective
+  defs:
+  - text: Having a rough, surly, and harsh demeanor and nature.
+  - text: Hoarse-voiced.
 ---
-

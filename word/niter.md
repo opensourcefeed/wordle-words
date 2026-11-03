@@ -1,7 +1,52 @@
 ---
 layout: word
-title: niter
+title: Is NITER a Wordle Word?
+head_title: Is NITER a Wordle Word? Yes – Valid Guess & Meaning
 word: niter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Native sodium carbonate; natron.</li><li><strong>Definition 2:</strong> A mineral form of potassium nitrate (saltpetre) used in making gunpowder.</li></ul></div></div>"
+description: Yes, NITER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- nicer
+- biter
+- citer
+- kiter
+- liter
+- miter
+- niner
+- nites
+- nixer
+- noter
+- titer
+anagrams:
+- inert
+- inter
+- nitre
+- retin
+- trine
+trap:
+  pattern: _ITER
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Native sodium carbonate; natron.
+  - text: A mineral form of potassium nitrate (saltpetre) used in making gunpowder.
 ---
-

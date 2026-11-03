@@ -1,7 +1,53 @@
 ---
 layout: word
-title: pried
+title: Is PRIED a Wordle Word?
+head_title: Is PRIED a Wordle Word? Yes – Possible Answer & Meaning
 word: pried
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹɑjd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To look where one is not welcome; to be nosy.</li><li><strong>Definition 2:</strong> To keep asking about something that does not concern one.</li><li><strong>Definition 3:</strong> To look closely and curiously at (something closed or not public).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use leverage to open or widen.</li></ul></div></div>"
+description: Yes, PRIED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- cried
+- dried
+- fried
+- plied
+- tried
+- preed
+- prief
+- prier
+- pries
+- wried
+anagrams:
+- pride
+- redip
+- riped
+trap:
+  pattern: _RIED
+  count: 6
+phonetic: "/pɹɑjd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To look where one is not welcome; to be nosy.
+  - text: To keep asking about something that does not concern one.
+  - text: To look closely and curiously at (something closed or not public).
+- pos: verb
+  defs:
+  - text: To use leverage to open or widen.
 ---
-

@@ -1,7 +1,60 @@
 ---
 layout: word
-title: mango
+title: Is MANGO a Wordle Word?
+head_title: 'Is MANGO a Wordle Word? Yes – Past Answer #1362 & Meaning'
 word: mango
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tropical Asian fruit tree, Mangifera indica.</li><li><strong>Definition 2:</strong> The fruit of the mango tree.</li><li><strong>Definition 3:</strong> A pickled vegetable or fruit with a spicy stuffing; a vegetable or fruit which has been mangoed.</li><li><strong>Definition 4:</strong> (chiefly southern Midwest US) A green bell pepper suitable for pickling.</li><li><strong>Definition 5:</strong> A type of muskmelon, Cucumis melo.</li><li><strong>Definition 6:</strong> Any of various hummingbirds of the genus Anthracothorax.</li><li><strong>Definition 7:</strong> A yellow-orange color, like that of mango flesh.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stuff and pickle (a fruit).</li></ul></div></div>"
+description: Yes, MANGO is a valid Wordle word. It was the Wordle answer on March
+  12, 2025 (#1362). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 12, 2025 (#1362).
+past_answers:
+- date: '2025-03-12'
+  number: 1362
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- manga
+- mange
+- mangy
+- tango
+- fango
+- mangi
+- mangs
+- manso
+- manto
+- manzo
+- margo
+- mongo
+anagrams:
+- among
+- ngoma
+trap:
+  pattern: MANG_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A tropical Asian fruit tree, Mangifera indica.
+  - text: The fruit of the mango tree.
+  - text: A pickled vegetable or fruit with a spicy stuffing; a vegetable or fruit
+      which has been mangoed.
+  - text: "(chiefly southern Midwest US) A green bell pepper suitable for pickling."
+  - text: A type of muskmelon, Cucumis melo.
+  - text: Any of various hummingbirds of the genus Anthracothorax.
+  - text: A yellow-orange color, like that of mango flesh.
+- pos: verb
+  defs:
+  - text: To stuff and pickle (a fruit).
 ---
-

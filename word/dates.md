@@ -1,7 +1,96 @@
 ---
 layout: word
-title: dates
+title: Is DATES a Wordle Word?
+head_title: Is DATES a Wordle Word? Yes – Valid Guess & Meaning
 word: dates
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /deɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.<p><strong>Example:</strong> We made a nice cake from dates.</p></li><li><strong>Definition 2:</strong> The date palm.<p><strong>Example:</strong> There were a few dates planted around the house.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The addition to a writing, inscription, coin, etc., which specifies the time (especially the day, month, and year) when the writing or inscription was given, executed, or made.<p><strong>Example:</strong> the date of a letter, of a will, of a deed, of a coin, etc.</p></li><li><strong>Definition 2:</strong> A specific day in time at which a transaction or event takes place, or is appointed to take place; a given point of time.<p><strong>Example:</strong> Do you know the date of the wedding?</p></li><li><strong>Definition 3:</strong> A point in time.<p><strong>Example:</strong> You may need that at a later date.</p></li><li><strong>Definition 4:</strong> Assigned end; conclusion.</li><li><strong>Definition 5:</strong> Given or assigned length of life; duration.</li><li><strong>Definition 6:</strong> A pre-arranged meeting.<p><strong>Example:</strong> I arranged a date with my Australian business partners.</p></li><li><strong>Definition 7:</strong> One's companion for social activities or occasions.<p><strong>Example:</strong> I brought Melinda to the wedding as my date.</p></li><li><strong>Definition 8:</strong> A romantic meeting or outing with a lover or potential lover, or the person so met.<p><strong>Example:</strong> The cinema is a popular place to take someone on a date.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To note the time or place of writing or executing; to express in an instrument the time of its execution.<p><strong>Example:</strong> to date a letter, a bond, a deed, or a charter</p></li><li><strong>Definition 2:</strong> To note or fix the time of (an event); to give the date of.</li><li><strong>Definition 3:</strong> To determine the age of something.<p><strong>Example:</strong> to date the building of the pyramids</p></li><li><strong>Definition 4:</strong> To take (someone) on a date, or a series of dates.</li><li><strong>Definition 5:</strong> (by extension) To have a steady relationship with; to be romantically involved with.</li><li><strong>Definition 6:</strong> (by extension) To have a steady relationship with each other; to be romantically involved with each other.<p><strong>Example:</strong> They met a couple of years ago, but have been dating for about five months.</p></li><li><strong>Definition 7:</strong> To make or become old, especially in such a way as to fall out of fashion, become less appealing or attractive, etc.<p><strong>Example:</strong> The comedian dated himself by making quips about bands from the 1960s.</p></li><li><strong>Definition 8:</strong> (with from) To have beginning; to begin; to be dated or reckoned.</li></ul></div></div>"
+description: Yes, DATES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- bates
+- cates
+- daces
+- dales
+- dames
+- dares
+- dated
+- dater
+- datos
+- dazes
+- dites
+- dotes
+anagrams:
+- stead
+- sated
+- stade
+- tased
+- teads
+- tsade
+trap:
+  pattern: _ATES
+  count: 13
+phonetic: "/deɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of
+      an olive, containing a soft, sweet pulp and enclosing a hard kernel.
+    example: We made a nice cake from dates.
+  - text: The date palm.
+    example: There were a few dates planted around the house.
+- pos: noun
+  defs:
+  - text: The addition to a writing, inscription, coin, etc., which specifies the
+      time (especially the day, month, and year) when the writing or inscription was
+      given, executed, or made.
+    example: the date of a letter, of a will, of a deed, of a coin, etc.
+  - text: A specific day in time at which a transaction or event takes place, or is
+      appointed to take place; a given point of time.
+    example: Do you know the date of the wedding?
+  - text: A point in time.
+    example: You may need that at a later date.
+  - text: Assigned end; conclusion.
+  - text: Given or assigned length of life; duration.
+  - text: A pre-arranged meeting.
+    example: I arranged a date with my Australian business partners.
+  - text: One's companion for social activities or occasions.
+    example: I brought Melinda to the wedding as my date.
+  - text: A romantic meeting or outing with a lover or potential lover, or the person
+      so met.
+    example: The cinema is a popular place to take someone on a date.
+- pos: verb
+  defs:
+  - text: To note the time or place of writing or executing; to express in an instrument
+      the time of its execution.
+    example: to date a letter, a bond, a deed, or a charter
+  - text: To note or fix the time of (an event); to give the date of.
+  - text: To determine the age of something.
+    example: to date the building of the pyramids
+  - text: To take (someone) on a date, or a series of dates.
+  - text: "(by extension) To have a steady relationship with; to be romantically involved
+      with."
+  - text: "(by extension) To have a steady relationship with each other; to be romantically
+      involved with each other."
+    example: They met a couple of years ago, but have been dating for about five months.
+  - text: To make or become old, especially in such a way as to fall out of fashion,
+      become less appealing or attractive, etc.
+    example: The comedian dated himself by making quips about bands from the 1960s.
+  - text: "(with from) To have beginning; to begin; to be dated or reckoned."
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: louis
+title: Is LOUIS a Wordle Word?
+head_title: Is LOUIS a Wordle Word? Yes – Valid Guess & Meaning
 word: louis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any gold or silver coin issued by the French kings from Louis XIII to Louis XVI and bearing their image on the obverse side, particularly the gold louis d'ors, originally a French form of the Spanish doubloon but varying in value between 10 and 24 livres.</li><li><strong>Definition 2:</strong> The louis d'or constitutionnel, a 24-livre gold coin issued by the First French Republic.</li><li><strong>Definition 3:</strong> The franc germinal or napoleon, a similar gold coin issued by Napoleon and bearing his image on the obverse, worth 20 francs.</li></ul></div></div>"
+description: Yes, LOUIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- locis
+- loris
+- louie
+- louns
+- loups
+- lours
+- louts
+- pouis
+definitions:
+- pos: noun
+  defs:
+  - text: Any gold or silver coin issued by the French kings from Louis XIII to Louis
+      XVI and bearing their image on the obverse side, particularly the gold louis
+      d'ors, originally a French form of the Spanish doubloon but varying in value
+      between 10 and 24 livres.
+  - text: The louis d'or constitutionnel, a 24-livre gold coin issued by the First
+      French Republic.
+  - text: The franc germinal or napoleon, a similar gold coin issued by Napoleon and
+      bearing his image on the obverse, worth 20 francs.
 ---
-

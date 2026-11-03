@@ -1,7 +1,36 @@
 ---
 layout: word
-title: ureid
+title: Is UREID a Wordle Word?
+head_title: Is UREID a Wordle Word? Yes – Valid Guess & Meaning
 word: ureid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several classes of (mostly heterocyclic) compounds derived from urea</li></ul></div></div>"
+description: Yes, UREID is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- breid
+- ureic
+- ursid
+anagrams:
+- rudie
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several classes of (mostly heterocyclic) compounds derived from urea
 ---
-

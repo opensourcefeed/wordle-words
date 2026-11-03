@@ -1,7 +1,34 @@
 ---
 layout: word
-title: divis
+title: Is DIVIS a Wordle Word?
+head_title: Is DIVIS a Wordle Word? Yes – Valid Guess & Meaning
 word: divis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The dividend paid out by the Co-op</li></ul></div></div>"
+description: Yes, DIVIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- devis
+- didis
+- divas
+- dives
+- divos
+definitions:
+- pos: noun
+  defs:
+  - text: The dividend paid out by the Co-op
 ---
-

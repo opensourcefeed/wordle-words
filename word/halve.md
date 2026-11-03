@@ -1,7 +1,48 @@
 ---
 layout: word
-title: halve
+title: Is HALVE a Wordle Word?
+head_title: 'Is HALVE a Wordle Word? Yes – Past Answer #1216 & Meaning'
 word: halve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɑːv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reduce to half the original amount.</li><li><strong>Definition 2:</strong> To divide into two halves.</li><li><strong>Definition 3:</strong> To make up half of.</li><li><strong>Definition 4:</strong> To join two pieces of timber etc. by cutting away each for half its thickness at the joining place, and fitting together.</li><li><strong>Definition 5:</strong> In match play, to achieve a tie or draw on.<p><strong>Example:</strong> to halve a hole or a match</p></li></ul></div></div>"
+description: Yes, HALVE is a valid Wordle word. It was the Wordle answer on October
+  17, 2024 (#1216). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 17, 2024 (#1216).
+past_answers:
+- date: '2024-10-17'
+  number: 1216
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- salve
+- valve
+- calve
+- halse
+- halva
+- helve
+anagrams:
+- havel
+phonetic: "/hɑːv/"
+definitions:
+- pos: verb
+  defs:
+  - text: To reduce to half the original amount.
+  - text: To divide into two halves.
+  - text: To make up half of.
+  - text: To join two pieces of timber etc. by cutting away each for half its thickness
+      at the joining place, and fitting together.
+  - text: In match play, to achieve a tie or draw on.
+    example: to halve a hole or a match
 ---
-

@@ -1,7 +1,63 @@
 ---
 layout: word
-title: world
+title: Is WORLD a Wordle Word?
+head_title: 'Is WORLD a Wordle Word? Yes – Past Answer #132 & Meaning'
 word: world
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɝld/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (with \"the\") Human collective existence; existence in general.<p><strong>Example:</strong> There will always be lovers, till the world’s end.</p></li><li><strong>Definition 2:</strong> The Universe.</li><li><strong>Definition 3:</strong> (with \"the\") The Earth.<p><strong>Example:</strong> People are dying of starvation all over the world.</p></li><li><strong>Definition 4:</strong> A planet, especially one which is inhabited or inhabitable.<p><strong>Example:</strong> Our mission is to travel the galaxy and find new worlds.</p></li><li><strong>Definition 5:</strong> A very large extent of country.</li><li><strong>Definition 6:</strong> (speculation) A realm, such as planet, containing one or multiple societies of beings, especially intelligent ones.<p><strong>Example:</strong> the world of Narnia; the Wizarding World of Harry Potter; a zombie world</p></li><li><strong>Definition 7:</strong> An individual or group perspective or social setting.<p><strong>Example:</strong> In the world of boxing, good diet is all-important.</p></li><li><strong>Definition 8:</strong> The part of an operating system distributed with the kernel, consisting of the shell and other programs.</li><li><strong>Definition 9:</strong> A subdivision of a game, consisting of a series of stages or levels that usually share a similar environment or theme.<p><strong>Example:</strong> Have you reached the boss at the end of the ice world?</p></li><li><strong>Definition 10:</strong> The twenty-second trump or major arcana card of the tarot.</li><li><strong>Definition 11:</strong> A great amount.<p><strong>Example:</strong> Taking a break from work seems to have done her a world of good.</p></li><li><strong>Definition 12:</strong> Age, era</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To consider or cause to be considered from a global perspective; to consider as a global whole, rather than making or focussing on national or other distinctions; compare globalise.</li><li><strong>Definition 2:</strong> To make real; to make worldly.</li></ul></div></div>"
+description: Yes, WORLD is a valid Wordle word. It was the Wordle answer on October
+  29, 2021 (#132). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 29, 2021 (#132).
+past_answers:
+- date: '2021-10-29'
+  number: 132
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- would
+- woald
+- woold
+phonetic: "/wɝld/"
+definitions:
+- pos: noun
+  defs:
+  - text: (with "the") Human collective existence; existence in general.
+    example: There will always be lovers, till the world’s end.
+  - text: The Universe.
+  - text: (with "the") The Earth.
+    example: People are dying of starvation all over the world.
+  - text: A planet, especially one which is inhabited or inhabitable.
+    example: Our mission is to travel the galaxy and find new worlds.
+  - text: A very large extent of country.
+  - text: "(speculation) A realm, such as planet, containing one or multiple societies
+      of beings, especially intelligent ones."
+    example: the world of Narnia; the Wizarding World of Harry Potter; a zombie world
+  - text: An individual or group perspective or social setting.
+    example: In the world of boxing, good diet is all-important.
+  - text: The part of an operating system distributed with the kernel, consisting
+      of the shell and other programs.
+  - text: A subdivision of a game, consisting of a series of stages or levels that
+      usually share a similar environment or theme.
+    example: Have you reached the boss at the end of the ice world?
+  - text: The twenty-second trump or major arcana card of the tarot.
+  - text: A great amount.
+    example: Taking a break from work seems to have done her a world of good.
+  - text: Age, era
+- pos: verb
+  defs:
+  - text: To consider or cause to be considered from a global perspective; to consider
+      as a global whole, rather than making or focussing on national or other distinctions;
+      compare globalise.
+  - text: To make real; to make worldly.
 ---
-

@@ -1,7 +1,66 @@
 ---
 layout: word
-title: cheap
+title: Is CHEAP a Wordle Word?
+head_title: 'Is CHEAP a Wordle Word? Yes – Past Answer #1294 & Meaning'
 word: cheap
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /t͡ʃiːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Trade; traffic; chaffer; chaffering.</li><li><strong>Definition 2:</strong> A market; marketplace.</li><li><strong>Definition 3:</strong> Price.</li><li><strong>Definition 4:</strong> A low price; a bargain.</li><li><strong>Definition 5:</strong> Cheapness; lowness of price; abundance of supply.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trade; traffic; bargain; chaffer; ask the price of goods; cheapen goods.</li><li><strong>Definition 2:</strong> To bargain for; chaffer for; ask the price of; offer a price for; cheapen.</li><li><strong>Definition 3:</strong> To buy; purchase.</li><li><strong>Definition 4:</strong> To sell.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Low and/or reduced in price.</li><li><strong>Definition 2:</strong> Of poor quality.</li><li><strong>Definition 3:</strong> Of little worth.</li><li><strong>Definition 4:</strong> (of an action or tactic in a game of skill) Underhand or unfair.<p><strong>Example:</strong> the cheap trick of hiding deadly lava under pushable blocks</p></li><li><strong>Definition 5:</strong> Stingy; mean; excessively frugal.<p><strong>Example:</strong> Insurance is expensive, but don't be so cheap that you risk losing your home because of a fire.</p></li><li><strong>Definition 6:</strong> Trading at a price level which is low relative to historical trends, a similar asset, or (for derivatives) a theoretical value.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Cheaply.</li></ul></div></div>"
+description: Yes, CHEAP is a valid Wordle word. It was the Wordle answer on January
+  3, 2025 (#1294). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 3, 2025 (#1294).
+past_answers:
+- date: '2025-01-03'
+  number: 1294
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- cheat
+- aheap
+- chaap
+- cheep
+- chelp
+anagrams:
+- peach
+- chape
+phonetic: "/t͡ʃiːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: Trade; traffic; chaffer; chaffering.
+  - text: A market; marketplace.
+  - text: Price.
+  - text: A low price; a bargain.
+  - text: Cheapness; lowness of price; abundance of supply.
+- pos: verb
+  defs:
+  - text: To trade; traffic; bargain; chaffer; ask the price of goods; cheapen goods.
+  - text: To bargain for; chaffer for; ask the price of; offer a price for; cheapen.
+  - text: To buy; purchase.
+  - text: To sell.
+- pos: adjective
+  defs:
+  - text: Low and/or reduced in price.
+  - text: Of poor quality.
+  - text: Of little worth.
+  - text: "(of an action or tactic in a game of skill) Underhand or unfair."
+    example: the cheap trick of hiding deadly lava under pushable blocks
+  - text: Stingy; mean; excessively frugal.
+    example: Insurance is expensive, but don't be so cheap that you risk losing your
+      home because of a fire.
+  - text: Trading at a price level which is low relative to historical trends, a similar
+      asset, or (for derivatives) a theoretical value.
+- pos: adverb
+  defs:
+  - text: Cheaply.
 ---
-

@@ -1,7 +1,49 @@
 ---
 layout: word
-title: hoked
+title: Is HOKED a Wordle Word?
+head_title: Is HOKED a Wordle Word? Yes – Valid Guess & Meaning
 word: hoked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ascribe a false or artificial quality to; to pretend falsely to have some quality or to be doing something, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To scrounge, to grub.</li></ul></div></div>"
+description: Yes, HOKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- boked
+- coked
+- hiked
+- hoaed
+- hohed
+- hoied
+- hokes
+- hokey
+- holed
+- homed
+- honed
+- hoped
+trap:
+  pattern: HO_ED
+  count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: To ascribe a false or artificial quality to; to pretend falsely to have
+      some quality or to be doing something, etc.
+- pos: verb
+  defs:
+  - text: To scrounge, to grub.
 ---
-

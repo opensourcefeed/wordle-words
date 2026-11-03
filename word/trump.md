@@ -1,7 +1,55 @@
 ---
 layout: word
-title: trump
+title: Is TRUMP a Wordle Word?
+head_title: Is TRUMP a Wordle Word? Yes – Possible Answer & Meaning
 word: trump
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹʌmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The suit, in a game of cards, that outranks all others.<p><strong>Example:</strong> Diamonds were declared trump(s).</p></li><li><strong>Definition 2:</strong> A playing card of that suit.<p><strong>Example:</strong> He played an even higher trump.</p></li><li><strong>Definition 3:</strong> Something that gives one an advantage, especially one held in reserve.</li><li><strong>Definition 4:</strong> An excellent person; a fine fellow, a good egg.</li><li><strong>Definition 5:</strong> An old card game, almost identical to whist; the game of ruff.</li><li><strong>Definition 6:</strong> A card of the major arcana of the tarot.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play on (a card of another suit) with a trump.<p><strong>Example:</strong> He knew the hand was lost when his ace was trumped.</p></li><li><strong>Definition 2:</strong> To play a trump, or to take a trick with a trump.</li><li><strong>Definition 3:</strong> To get the better of, or finesse, a competitor.</li><li><strong>Definition 4:</strong> To impose unfairly; to palm off.</li><li><strong>Definition 5:</strong> To supersede.<p><strong>Example:</strong> In this election, it would seem issues of national security trumped economic issues.</p></li><li><strong>Definition 6:</strong> To outweigh; be stronger, greater, bigger than or in other way superior to.</li></ul></div></div>"
+description: Yes, TRUMP is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- crump
+- thump
+- tramp
+- frump
+- grump
+- krump
+- tromp
+phonetic: "/tɹʌmp/"
+definitions:
+- pos: noun
+  defs:
+  - text: The suit, in a game of cards, that outranks all others.
+    example: Diamonds were declared trump(s).
+  - text: A playing card of that suit.
+    example: He played an even higher trump.
+  - text: Something that gives one an advantage, especially one held in reserve.
+  - text: An excellent person; a fine fellow, a good egg.
+  - text: An old card game, almost identical to whist; the game of ruff.
+  - text: A card of the major arcana of the tarot.
+- pos: verb
+  defs:
+  - text: To play on (a card of another suit) with a trump.
+    example: He knew the hand was lost when his ace was trumped.
+  - text: To play a trump, or to take a trick with a trump.
+  - text: To get the better of, or finesse, a competitor.
+  - text: To impose unfairly; to palm off.
+  - text: To supersede.
+    example: In this election, it would seem issues of national security trumped economic
+      issues.
+  - text: To outweigh; be stronger, greater, bigger than or in other way superior
+      to.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: wrath
+title: Is WRATH a Wordle Word?
+head_title: 'Is WRATH a Wordle Word? Yes – Past Answer #785 & Meaning'
 word: wrath
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹæθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Great anger.<p><strong>Example:</strong> Homer relates an episode in the Trojan War that reveals the tragic consequences of the wrath of Achilles.</p></li><li><strong>Definition 2:</strong> Punishment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To anger; to enrage.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Wrathful; wroth; very angry.</li></ul></div></div>"
+description: Yes, WRATH is a valid Wordle word. It was the Wordle answer on August
+  13, 2023 (#785). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 13, 2023 (#785).
+past_answers:
+- date: '2023-08-13'
+  number: 785
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- wrate
+- wroth
+anagrams:
+- thraw
+phonetic: "/ɹæθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Great anger.
+    example: Homer relates an episode in the Trojan War that reveals the tragic consequences
+      of the wrath of Achilles.
+  - text: Punishment.
+- pos: verb
+  defs:
+  - text: To anger; to enrage.
+- pos: adjective
+  defs:
+  - text: Wrathful; wroth; very angry.
 ---
-

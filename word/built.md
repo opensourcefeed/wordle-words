@@ -1,7 +1,54 @@
 ---
 layout: word
-title: built
+title: Is BUILT a Wordle Word?
+head_title: 'Is BUILT a Wordle Word? Yes – Past Answer #915 & Meaning'
 word: built
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɪlt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form (something) by combining materials or parts.</li><li><strong>Definition 2:</strong> To develop or give form to (something) according to a plan or process.</li><li><strong>Definition 3:</strong> To increase or strengthen (something) by adding gradually to.</li><li><strong>Definition 4:</strong> To establish a basis for (something).</li><li><strong>Definition 5:</strong> To form by combining materials or parts.</li><li><strong>Definition 6:</strong> To develop in magnitude or extent.</li><li><strong>Definition 7:</strong> To construct (software) by compiling its source code.</li><li><strong>Definition 8:</strong> (of source code) To be converted into software by compilation, usually with minimal human intervention.<p><strong>Example:</strong> This code won't build any more. Have you made any changes?</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Shape; build; form of structure.<p><strong>Example:</strong> the built of a ship</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Well-built, muscular or toned.</li></ul></div></div>"
+description: Yes, BUILT is a valid Wordle word. It was the Wordle answer on December
+  21, 2023 (#915). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 21, 2023 (#915).
+past_answers:
+- date: '2023-12-21'
+  number: 915
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- build
+- guilt
+- quilt
+- buist
+phonetic: "/ˈbɪlt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To form (something) by combining materials or parts.
+  - text: To develop or give form to (something) according to a plan or process.
+  - text: To increase or strengthen (something) by adding gradually to.
+  - text: To establish a basis for (something).
+  - text: To form by combining materials or parts.
+  - text: To develop in magnitude or extent.
+  - text: To construct (software) by compiling its source code.
+  - text: "(of source code) To be converted into software by compilation, usually
+      with minimal human intervention."
+    example: This code won't build any more. Have you made any changes?
+- pos: noun
+  defs:
+  - text: Shape; build; form of structure.
+    example: the built of a ship
+- pos: adjective
+  defs:
+  - text: Well-built, muscular or toned.
 ---
-

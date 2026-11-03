@@ -1,7 +1,42 @@
 ---
 layout: word
-title: envoy
+title: Is ENVOY a Wordle Word?
+head_title: 'Is ENVOY a Wordle Word? Yes – Past Answer #1751 & Meaning'
 word: envoy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛn.vɔɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short stanza at the end of a poem, used either to address a person or to comment on the preceding body of the poem.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A diplomatic agent of the second rank, next in status after an ambassador.</li><li><strong>Definition 2:</strong> A representative.</li><li><strong>Definition 3:</strong> A diplomat.</li><li><strong>Definition 4:</strong> A messenger.</li></ul></div></div>"
+description: Yes, ENVOY is a valid Wordle word. It was the Wordle answer on April
+  5, 2026 (#1751). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 5, 2026 (#1751).
+past_answers:
+- date: '2026-04-05'
+  number: 1751
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- enjoy
+- envoi
+phonetic: "/ˈɛn.vɔɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short stanza at the end of a poem, used either to address a person or
+      to comment on the preceding body of the poem.
+- pos: noun
+  defs:
+  - text: A diplomatic agent of the second rank, next in status after an ambassador.
+  - text: A representative.
+  - text: A diplomat.
+  - text: A messenger.
 ---
-

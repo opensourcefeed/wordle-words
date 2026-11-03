@@ -1,7 +1,55 @@
 ---
 layout: word
-title: hutch
+title: Is HUTCH a Wordle Word?
+head_title: 'Is HUTCH a Wordle Word? Yes – Past Answer #376 & Meaning'
 word: hutch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hʌtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cage for keeping rabbits, guinea pigs, etc.</li><li><strong>Definition 2:</strong> A piece of furniture in which items may be displayed.</li><li><strong>Definition 3:</strong> A measure of two Winchester bushels.</li><li><strong>Definition 4:</strong> The case of a flour bolt.</li><li><strong>Definition 5:</strong> A car on low wheels, in which coal is drawn in the mine and hoisted out of the pit.</li><li><strong>Definition 6:</strong> A jig or trough for ore dressing or washing ore.</li><li><strong>Definition 7:</strong> A baker's kneading-trough.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hoard or lay up, in a chest.</li><li><strong>Definition 2:</strong> To wash (ore) in a box or jig.</li></ul></div></div>"
+description: Yes, HUTCH is a valid Wordle word. It was the Wordle answer on June 30,
+  2022 (#376). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 30, 2022 (#376).
+past_answers:
+- date: '2022-06-30'
+  number: 376
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - H
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- butch
+- dutch
+- hatch
+- hitch
+- hunch
+- cutch
+- hotch
+- kutch
+- mutch
+trap:
+  pattern: _UTCH
+  count: 6
+phonetic: "/hʌtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cage for keeping rabbits, guinea pigs, etc.
+  - text: A piece of furniture in which items may be displayed.
+  - text: A measure of two Winchester bushels.
+  - text: The case of a flour bolt.
+  - text: A car on low wheels, in which coal is drawn in the mine and hoisted out
+      of the pit.
+  - text: A jig or trough for ore dressing or washing ore.
+  - text: A baker's kneading-trough.
+- pos: verb
+  defs:
+  - text: To hoard or lay up, in a chest.
+  - text: To wash (ore) in a box or jig.
 ---
-

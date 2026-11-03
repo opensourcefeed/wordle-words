@@ -1,7 +1,84 @@
 ---
 layout: word
-title: names
+title: Is NAMES a Wordle Word?
+head_title: Is NAMES a Wordle Word? Yes – Valid Guess & Meaning
 word: names
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /neɪmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any nounal word or phrase which indicates a particular person, place, class, or thing.<p><strong>Example:</strong> I've never liked the name my parents gave me so I changed it at the age of twenty.</p></li><li><strong>Definition 2:</strong> Reputation.</li><li><strong>Definition 3:</strong> An abusive or insulting epithet.<p><strong>Example:</strong> Stop calling me names!</p></li><li><strong>Definition 4:</strong> A person (or legal person).</li><li><strong>Definition 5:</strong> Those of a certain name; a race; a family.</li><li><strong>Definition 6:</strong> A unique identifier, generally a string of characters.</li><li><strong>Definition 7:</strong> An investor in Lloyds of London bearing unlimited liability.</li><li><strong>Definition 8:</strong> Authority.<p><strong>Example:</strong> Halt in the name of the law!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (ditransitive) To give a name to.<p><strong>Example:</strong> One visitor named Hou Yugang said he was not too concerned about climate change and Baishui’s melting.</p></li><li><strong>Definition 2:</strong> To mention, specify.<p><strong>Example:</strong> He named his demands.</p></li><li><strong>Definition 3:</strong> To identify as relevant or important<p><strong>Example:</strong> naming the problem</p></li><li><strong>Definition 4:</strong> To publicly implicate.<p><strong>Example:</strong> The painter was named as an accomplice.</p></li><li><strong>Definition 5:</strong> To designate for a role.<p><strong>Example:</strong> My neighbor was named to the steering committee.</p></li><li><strong>Definition 6:</strong> (Westminster system politics) To initiate a process to temporarily remove a member of parliament who is breaking the rules of conduct.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several types of true yam (Dioscorea) used in Caribbean Spanish cooking.</li></ul></div></div>"
+description: Yes, NAMES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- cames
+- dames
+- fames
+- games
+- hames
+- james
+- kames
+- lames
+- nabes
+- nages
+- named
+- namer
+anagrams:
+- amens
+- manes
+- manse
+- means
+- mensa
+- nemas
+- samen
+trap:
+  pattern: _AMES
+  count: 13
+phonetic: "/neɪmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any nounal word or phrase which indicates a particular person, place, class,
+      or thing.
+    example: I've never liked the name my parents gave me so I changed it at the age
+      of twenty.
+  - text: Reputation.
+  - text: An abusive or insulting epithet.
+    example: Stop calling me names!
+  - text: A person (or legal person).
+  - text: Those of a certain name; a race; a family.
+  - text: A unique identifier, generally a string of characters.
+  - text: An investor in Lloyds of London bearing unlimited liability.
+  - text: Authority.
+    example: Halt in the name of the law!
+- pos: verb
+  defs:
+  - text: "(ditransitive) To give a name to."
+    example: One visitor named Hou Yugang said he was not too concerned about climate
+      change and Baishui’s melting.
+  - text: To mention, specify.
+    example: He named his demands.
+  - text: To identify as relevant or important
+    example: naming the problem
+  - text: To publicly implicate.
+    example: The painter was named as an accomplice.
+  - text: To designate for a role.
+    example: My neighbor was named to the steering committee.
+  - text: "(Westminster system politics) To initiate a process to temporarily remove
+      a member of parliament who is breaking the rules of conduct."
+- pos: noun
+  defs:
+  - text: Any of several types of true yam (Dioscorea) used in Caribbean Spanish cooking.
 ---
-

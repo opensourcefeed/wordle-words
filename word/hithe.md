@@ -1,7 +1,42 @@
 ---
 layout: word
-title: hithe
+title: Is HITHE a Wordle Word?
+head_title: Is HITHE a Wordle Word? Yes – Valid Guess & Meaning
 word: hithe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hʌɪð/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A landing-place on a river; a harbour or small port.</li></ul></div></div>"
+description: Yes, HITHE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - H
+  common:
+  - I
+  - T
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- lithe
+- tithe
+- hythe
+- kithe
+- rithe
+- sithe
+- withe
+trap:
+  pattern: _ITHE
+  count: 7
+phonetic: "/hʌɪð/"
+definitions:
+- pos: noun
+  defs:
+  - text: A landing-place on a river; a harbour or small port.
 ---
-

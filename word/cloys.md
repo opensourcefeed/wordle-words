@@ -1,7 +1,45 @@
 ---
 layout: word
-title: cloys
+title: Is CLOYS a Wordle Word?
+head_title: Is CLOYS a Wordle Word? Yes – Valid Guess & Meaning
 word: cloys
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klɔɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fill up or choke up; to stop up.</li><li><strong>Definition 2:</strong> To clog, to glut, or satisfy, as the appetite; to satiate.</li><li><strong>Definition 3:</strong> To fill to loathing; to surfeit.</li></ul></div></div>"
+description: Yes, CLOYS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- clays
+- clods
+- clogs
+- clons
+- clops
+- clots
+- clous
+- clows
+- cloye
+- ploys
+trap:
+  pattern: CLO_S
+  count: 8
+phonetic: "/klɔɪz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To fill up or choke up; to stop up.
+  - text: To clog, to glut, or satisfy, as the appetite; to satiate.
+  - text: To fill to loathing; to surfeit.
 ---
-

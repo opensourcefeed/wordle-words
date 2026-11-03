@@ -1,7 +1,40 @@
 ---
 layout: word
-title: pipet
+title: Is PIPET a Wordle Word?
+head_title: Is PIPET a Wordle Word? Yes – Valid Guess & Meaning
 word: pipet
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small tube, often with an enlargement or bulb in the middle, and usually graduated, used for transferring or delivering measured quantities of a liquid.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To transfer or measure the volume of a liquid using a pipette.</li></ul></div></div>"
+description: Yes, PIPET is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - I
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- piper
+- nipet
+- piped
+- pipes
+- pipit
+definitions:
+- pos: noun
+  defs:
+  - text: A small tube, often with an enlargement or bulb in the middle, and usually
+      graduated, used for transferring or delivering measured quantities of a liquid.
+- pos: verb
+  defs:
+  - text: To transfer or measure the volume of a liquid using a pipette.
 ---
-

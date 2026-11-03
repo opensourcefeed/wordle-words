@@ -1,7 +1,55 @@
 ---
 layout: word
-title: basin
+title: Is BASIN a Wordle Word?
+head_title: 'Is BASIN a Wordle Word? Yes – Past Answer #1078 & Meaning'
 word: basin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbeɪsɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wide bowl for washing, sometimes affixed to a wall</li><li><strong>Definition 2:</strong> A shallow bowl used for a single serving of a drink or liquidy food</li><li><strong>Definition 3:</strong> A depression, natural or artificial, containing water</li><li><strong>Definition 4:</strong> An area of land from which water drains into a common outlet; drainage basin</li><li><strong>Definition 5:</strong> A rock formation scooped out by water erosion</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To create a concavity or depression in.</li><li><strong>Definition 2:</strong> To serve as or become a basin.</li><li><strong>Definition 3:</strong> To shelter or enclose in a basin.</li></ul></div></div>"
+description: Yes, BASIN is a valid Wordle word. It was the Wordle answer on June 1,
+  2024 (#1078). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 1, 2024 (#1078).
+past_answers:
+- date: '2024-06-01'
+  number: 1078
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- basic
+- basil
+- basis
+- basan
+- basen
+- basij
+- bason
+- bavin
+- sasin
+anagrams:
+- nabis
+- naibs
+- sabin
+phonetic: "/ˈbeɪsɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A wide bowl for washing, sometimes affixed to a wall
+  - text: A shallow bowl used for a single serving of a drink or liquidy food
+  - text: A depression, natural or artificial, containing water
+  - text: An area of land from which water drains into a common outlet; drainage basin
+  - text: A rock formation scooped out by water erosion
+- pos: verb
+  defs:
+  - text: To create a concavity or depression in.
+  - text: To serve as or become a basin.
+  - text: To shelter or enclose in a basin.
 ---
-

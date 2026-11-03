@@ -1,7 +1,48 @@
 ---
 layout: word
-title: nutso
+title: Is NUTSO a Wordle Word?
+head_title: Is NUTSO a Wordle Word? Yes – Valid Guess & Meaning
 word: nutso
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnʌtsoʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Crazy person; crackpot or lunatic.</li><li><strong>Definition 2:</strong> Craziness; insanity.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Crazy, insane.</li><li><strong>Definition 2:</strong> Fraught or out of control.</li><li><strong>Definition 3:</strong> Obsessed; overly enthusiastic.</li><li><strong>Definition 4:</strong> Ridiculous; unbelievable or silly.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Madly; extremely or obsessively.</li><li><strong>Definition 2:</strong> In a crazy manner.</li></ul></div></div>"
+description: Yes, NUTSO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- nutsy
+anagrams:
+- snout
+- noust
+- stoun
+- tonus
+- touns
+phonetic: "/ˈnʌtsoʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Crazy person; crackpot or lunatic.
+  - text: Craziness; insanity.
+- pos: adjective
+  defs:
+  - text: Crazy, insane.
+  - text: Fraught or out of control.
+  - text: Obsessed; overly enthusiastic.
+  - text: Ridiculous; unbelievable or silly.
+- pos: adverb
+  defs:
+  - text: Madly; extremely or obsessively.
+  - text: In a crazy manner.
 ---
-

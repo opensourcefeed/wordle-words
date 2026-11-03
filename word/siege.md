@@ -1,7 +1,43 @@
 ---
 layout: word
-title: siege
+title: Is SIEGE a Wordle Word?
+head_title: 'Is SIEGE a Wordle Word? Yes – Past Answer #199 & Meaning'
 word: siege
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /siːdʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (heading) Military action.</li><li><strong>Definition 2:</strong> (heading) A seat.</li><li><strong>Definition 3:</strong> A place with a toilet seat: an outhouse; a lavatory.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assault a blockade of a city or fortress with the intent of conquering by force or attrition; to besiege.</li></ul></div></div>"
+description: Yes, SIEGE is a valid Wordle word. It was the Wordle answer on January
+  4, 2022 (#199). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 4, 2022 (#199).
+past_answers:
+- date: '2022-01-04'
+  number: 199
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- liege
+- sieve
+- singe
+phonetic: "/siːdʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(heading) Military action."
+  - text: "(heading) A seat."
+  - text: 'A place with a toilet seat: an outhouse; a lavatory.'
+- pos: verb
+  defs:
+  - text: To assault a blockade of a city or fortress with the intent of conquering
+      by force or attrition; to besiege.
 ---
-

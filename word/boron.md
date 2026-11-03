@@ -1,7 +1,35 @@
 ---
 layout: word
-title: boron
+title: Is BORON a Wordle Word?
+head_title: Is BORON a Wordle Word? Yes – Valid Guess & Meaning
 word: boron
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɔːˌɹɒn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder.</li><li><strong>Definition 2:</strong> A single atom of this element.</li></ul></div></div>"
+description: Yes, BORON is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- baron
+- moron
+- boson
+phonetic: "/ˈbɔːˌɹɒn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The chemical element (symbol B) with an atomic number of 5, which is a metalloid
+      found in its pure form as a dark amorphous powder.
+  - text: A single atom of this element.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: snaky
+title: Is SNAKY a Wordle Word?
+head_title: 'Is SNAKY a Wordle Word? Yes – Past Answer #786 & Meaning'
 word: snaky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling or relating to snakes.</li><li><strong>Definition 2:</strong> Windy; winding; twisty; sinuous, wavy.<p><strong>Example:</strong> Walking through the snaky passages I was soon completely lost.</p></li><li><strong>Definition 3:</strong> Sly; cunning; deceitful.</li><li><strong>Definition 4:</strong> Covered with serpents; having serpents.</li></ul></div></div>"
+description: Yes, SNAKY is a valid Wordle word. It was the Wordle answer on August
+  14, 2023 (#786). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 14, 2023 (#786).
+past_answers:
+- date: '2023-08-14'
+  number: 786
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- shaky
+- snake
+- snary
+anagrams:
+- yanks
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or relating to snakes.
+  - text: Windy; winding; twisty; sinuous, wavy.
+    example: Walking through the snaky passages I was soon completely lost.
+  - text: Sly; cunning; deceitful.
+  - text: Covered with serpents; having serpents.
 ---
-

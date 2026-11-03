@@ -1,7 +1,41 @@
 ---
 layout: word
-title: gnaws
+title: Is GNAWS a Wordle Word?
+head_title: Is GNAWS a Wordle Word? Yes – Valid Guess & Meaning
 word: gnaws
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bite something persistently, especially something tough.<p><strong>Example:</strong> The dog gnawed the bone until it broke in two.</p></li><li><strong>Definition 2:</strong> To produce excessive anxiety or worry.<p><strong>Example:</strong> Her comment gnawed at me all day and I couldn't think about anything else.</p></li><li><strong>Definition 3:</strong> To corrode; to fret away; to waste.</li></ul></div></div>"
+description: Yes, GNAWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- gnars
+- gnats
+- gnawn
+- gnows
+- snaws
+anagrams:
+- swang
+- wangs
+definitions:
+- pos: verb
+  defs:
+  - text: To bite something persistently, especially something tough.
+    example: The dog gnawed the bone until it broke in two.
+  - text: To produce excessive anxiety or worry.
+    example: Her comment gnawed at me all day and I couldn't think about anything
+      else.
+  - text: To corrode; to fret away; to waste.
 ---
-

@@ -1,7 +1,37 @@
 ---
 layout: word
-title: conge
+title: Is CONGE a Wordle Word?
+head_title: Is CONGE a Wordle Word? Yes – Valid Guess & Meaning
 word: conge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ancient Roman unit of volume in liquid measure consisting of six sextarii or one-eighth amphora (about 118 fluid ounces).</li><li><strong>Definition 2:</strong> An ancient Roman unit of weight under Vespasian equal to the weight of a congius of water.</li></ul></div></div>"
+description: Yes, CONGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- conga
+- congo
+- conne
+- conte
+- longe
+definitions:
+- pos: noun
+  defs:
+  - text: An ancient Roman unit of volume in liquid measure consisting of six sextarii
+      or one-eighth amphora (about 118 fluid ounces).
+  - text: An ancient Roman unit of weight under Vespasian equal to the weight of a
+      congius of water.
 ---
-

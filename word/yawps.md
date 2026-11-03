@@ -1,7 +1,43 @@
 ---
 layout: word
-title: yawps
+title: Is YAWPS a Wordle Word?
+head_title: Is YAWPS a Wordle Word? Yes – Valid Guess & Meaning
 word: yawps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A yelp or bark</li><li><strong>Definition 2:</strong> Loud or coarse talk<p><strong>Example:</strong> I sound my barbaric yawp over the roofs of the world - Walt Whitman</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To yelp, or utter a sharp cry, as in intense pain, or another raucous noise</li><li><strong>Definition 2:</strong> To talk loudly and coarsely</li><li><strong>Definition 3:</strong> Clamor, utter loud complaints</li></ul></div></div>"
+description: Yes, YAWPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- gawps
+- mawps
+- yapps
+- yaups
+- yawls
+- yawns
+anagrams:
+- waspy
+definitions:
+- pos: noun
+  defs:
+  - text: A yelp or bark
+  - text: Loud or coarse talk
+    example: I sound my barbaric yawp over the roofs of the world - Walt Whitman
+- pos: verb
+  defs:
+  - text: To yelp, or utter a sharp cry, as in intense pain, or another raucous noise
+  - text: To talk loudly and coarsely
+  - text: Clamor, utter loud complaints
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: sabot
+title: Is SABOT a Wordle Word?
+head_title: Is SABOT a Wordle Word? Yes – Valid Guess & Meaning
 word: sabot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsæbəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wooden shoe.</li><li><strong>Definition 2:</strong> A carrier around projectile(s) in firearms, cannons and artillery which holds the projectile in precision within the barrel</li></ul></div></div>"
+description: Yes, SABOT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- jabot
+- sabos
+anagrams:
+- boast
+- basto
+- batos
+- boats
+- botas
+- tabos
+phonetic: "/ˈsæbəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A wooden shoe.
+  - text: A carrier around projectile(s) in firearms, cannons and artillery which
+      holds the projectile in precision within the barrel
 ---
-

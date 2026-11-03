@@ -1,7 +1,39 @@
 ---
 layout: word
-title: incus
+title: Is INCUS a Wordle Word?
+head_title: Is INCUS a Wordle Word? Yes – Valid Guess & Meaning
 word: incus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪŋ.kəs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small anvil-shaped bone in the middle ear.</li><li><strong>Definition 2:</strong> An accessory cloud, in the shape of an anvil which forms by spreading at the top of a cumulonimbus.</li></ul></div></div>"
+description: Yes, INCUS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- incur
+- incas
+- incut
+- oncus
+- uncus
+anagrams:
+- usnic
+phonetic: "/ˈɪŋ.kəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small anvil-shaped bone in the middle ear.
+  - text: An accessory cloud, in the shape of an anvil which forms by spreading at
+      the top of a cumulonimbus.
 ---
-

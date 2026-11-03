@@ -1,7 +1,58 @@
 ---
 layout: word
-title: fawns
+title: Is FAWNS a Wordle Word?
+head_title: Is FAWNS a Wordle Word? Yes – Valid Guess & Meaning
 word: fawns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A young deer.</li><li><strong>Definition 2:</strong> A pale brown colour tinted with yellow, like that of a fawn.</li><li><strong>Definition 3:</strong> The young of an animal; a whelp.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give birth to a fawn.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A servile cringe or bow.</li><li><strong>Definition 2:</strong> Base flattery.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To exhibit affection or attempt to please.</li><li><strong>Definition 2:</strong> To seek favour by flattery and obsequious behaviour (with on or upon).</li><li><strong>Definition 3:</strong> (of a dog) To show devotion or submissiveness by wagging its tail, nuzzling, licking, etc.</li></ul></div></div>"
+description: Yes, FAWNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- bawns
+- dawns
+- fains
+- fauns
+- fawny
+- jawns
+- lawns
+- mawns
+- pawns
+- rawns
+- yawns
+- zawns
+trap:
+  pattern: _AWNS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A young deer.
+  - text: A pale brown colour tinted with yellow, like that of a fawn.
+  - text: The young of an animal; a whelp.
+- pos: verb
+  defs:
+  - text: To give birth to a fawn.
+- pos: noun
+  defs:
+  - text: A servile cringe or bow.
+  - text: Base flattery.
+- pos: verb
+  defs:
+  - text: To exhibit affection or attempt to please.
+  - text: To seek favour by flattery and obsequious behaviour (with on or upon).
+  - text: "(of a dog) To show devotion or submissiveness by wagging its tail, nuzzling,
+      licking, etc."
 ---
-

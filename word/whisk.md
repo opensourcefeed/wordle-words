@@ -1,7 +1,59 @@
 ---
 layout: word
-title: whisk
+title: Is WHISK a Wordle Word?
+head_title: 'Is WHISK a Wordle Word? Yes – Past Answer #815 & Meaning'
 word: whisk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /(h)wɪsk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quick, light sweeping motion.<p><strong>Example:</strong> With a quick whisk, she swept the cat from the pantry with her broom.</p></li><li><strong>Definition 2:</strong> A kitchen utensil, made from stiff wire loops fixed to a handle, used for whipping (or a mechanical device with the same function).<p><strong>Example:</strong> He used a whisk to whip up a light and airy souffle.</p></li><li><strong>Definition 3:</strong> A bunch of twigs or hair etc, used as a brush.<p><strong>Example:</strong> Peter dipped the whisk in lather and applied it to his face, so he could start shaving.</p></li><li><strong>Definition 4:</strong> A small handheld broom with a small (or no) handle.<p><strong>Example:</strong> I used a whisk to sweep the counter, then a push-broom for the floor.</p></li><li><strong>Definition 5:</strong> A plane used by coopers for evening chines.</li><li><strong>Definition 6:</strong> A kind of cape, forming part of a woman's dress.</li><li><strong>Definition 7:</strong> An impertinent fellow.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move something with quick light sweeping motions.<p><strong>Example:</strong> Vernon whisked the sawdust from his workbench.</p></li><li><strong>Definition 2:</strong> In cooking, to whip e.g. eggs or cream.<p><strong>Example:</strong> The chef prepared to whisk the egg whites for the angel's food cake.</p></li><li><strong>Definition 3:</strong> To move something rapidly and with no warning.<p><strong>Example:</strong> The governess whisked the children from the room before they could see their presents.</p></li><li><strong>Definition 4:</strong> To move lightly and nimbly.<p><strong>Example:</strong> The children whisked down the road to the fair, laughing and chattering as they went.</p></li></ul></div></div>"
+description: Yes, WHISK is a valid Wordle word. It was the Wordle answer on September
+  12, 2023 (#815). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 12, 2023 (#815).
+past_answers:
+- date: '2023-09-12'
+  number: 815
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- whilk
+- whish
+- whiss
+- whist
+phonetic: "/(h)wɪsk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A quick, light sweeping motion.
+    example: With a quick whisk, she swept the cat from the pantry with her broom.
+  - text: A kitchen utensil, made from stiff wire loops fixed to a handle, used for
+      whipping (or a mechanical device with the same function).
+    example: He used a whisk to whip up a light and airy souffle.
+  - text: A bunch of twigs or hair etc, used as a brush.
+    example: Peter dipped the whisk in lather and applied it to his face, so he could
+      start shaving.
+  - text: A small handheld broom with a small (or no) handle.
+    example: I used a whisk to sweep the counter, then a push-broom for the floor.
+  - text: A plane used by coopers for evening chines.
+  - text: A kind of cape, forming part of a woman's dress.
+  - text: An impertinent fellow.
+- pos: verb
+  defs:
+  - text: To move something with quick light sweeping motions.
+    example: Vernon whisked the sawdust from his workbench.
+  - text: In cooking, to whip e.g. eggs or cream.
+    example: The chef prepared to whisk the egg whites for the angel's food cake.
+  - text: To move something rapidly and with no warning.
+    example: The governess whisked the children from the room before they could see
+      their presents.
+  - text: To move lightly and nimbly.
+    example: The children whisked down the road to the fair, laughing and chattering
+      as they went.
 ---
-

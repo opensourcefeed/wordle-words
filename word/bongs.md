@@ -1,7 +1,64 @@
 ---
 layout: word
-title: bongs
+title: Is BONGS a Wordle Word?
+head_title: Is BONGS a Wordle Word? Yes – Valid Guess & Meaning
 word: bongs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The clang of a large bell.</li><li><strong>Definition 2:</strong> Doorbell chimes.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pull a bell.</li><li><strong>Definition 2:</strong> To ring a doorbell.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vessel, usually made of glass or ceramic and filled with water, used in smoking various substances; especially marijuana or pot.</li><li><strong>Definition 2:</strong> An act of smoking one serving of drugs from a bong.</li><li><strong>Definition 3:</strong> A device for rapidly consuming beer, usually consisting of a funnel or reservoir of beer and a length of tubing.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A very wide piton.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An Australian Aboriginal person.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (thieves' cant) A purse.</li></ul></div></div>"
+description: Yes, BONGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- bongo
+- bonus
+- bangs
+- bings
+- bonds
+- bones
+- bonks
+- boygs
+- bungs
+- dongs
+- gongs
+- hongs
+trap:
+  pattern: _ONGS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: The clang of a large bell.
+  - text: Doorbell chimes.
+- pos: verb
+  defs:
+  - text: To pull a bell.
+  - text: To ring a doorbell.
+- pos: noun
+  defs:
+  - text: A vessel, usually made of glass or ceramic and filled with water, used in
+      smoking various substances; especially marijuana or pot.
+  - text: An act of smoking one serving of drugs from a bong.
+  - text: A device for rapidly consuming beer, usually consisting of a funnel or reservoir
+      of beer and a length of tubing.
+- pos: noun
+  defs:
+  - text: A very wide piton.
+- pos: noun
+  defs:
+  - text: An Australian Aboriginal person.
+- pos: noun
+  defs:
+  - text: "(thieves' cant) A purse."
 ---
-

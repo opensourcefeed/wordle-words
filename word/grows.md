@@ -1,7 +1,56 @@
 ---
 layout: word
-title: grows
+title: Is GROWS a Wordle Word?
+head_title: Is GROWS a Wordle Word? Yes – Valid Guess & Meaning
 word: grows
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹəʊz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become larger, to increase in magnitude.<p><strong>Example:</strong> Children grow quickly.</p></li><li><strong>Definition 2:</strong> To appear or sprout.<p><strong>Example:</strong> A long tail began to grow from his backside.</p></li><li><strong>Definition 3:</strong> To develop, to mature.<p><strong>Example:</strong> As I grew throughout adolescence, I came to appreciate many things about human nature.</p></li><li><strong>Definition 4:</strong> To cause or allow something to become bigger, especially to cultivate plants.<p><strong>Example:</strong> Have you ever grown your hair before?</p></li><li><strong>Definition 5:</strong> To assume a condition or quality over time.<p><strong>Example:</strong> The boy grew wise as he matured.</p></li><li><strong>Definition 6:</strong> To become attached or fixed; to adhere.</li></ul></div></div>"
+description: Yes, GROWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- gross
+- growl
+- grown
+- brows
+- crows
+- drows
+- frows
+- glows
+- gnows
+- grews
+- grogs
+- groks
+trap:
+  pattern: _ROWS
+  count: 8
+phonetic: "/ɡɹəʊz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To become larger, to increase in magnitude.
+    example: Children grow quickly.
+  - text: To appear or sprout.
+    example: A long tail began to grow from his backside.
+  - text: To develop, to mature.
+    example: As I grew throughout adolescence, I came to appreciate many things about
+      human nature.
+  - text: To cause or allow something to become bigger, especially to cultivate plants.
+    example: Have you ever grown your hair before?
+  - text: To assume a condition or quality over time.
+    example: The boy grew wise as he matured.
+  - text: To become attached or fixed; to adhere.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: dived
+title: Is DIVED a Wordle Word?
+head_title: Is DIVED a Wordle Word? Yes – Valid Guess & Meaning
 word: dived
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪ̯vd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To swim under water.</li><li><strong>Definition 2:</strong> To jump into water head-first.</li><li><strong>Definition 3:</strong> To jump headfirst toward the ground or into another substance.<p><strong>Example:</strong> to dive into home plate</p></li><li><strong>Definition 4:</strong> To descend sharply or steeply.</li><li><strong>Definition 5:</strong> (especially with in) To undertake with enthusiasm.<p><strong>Example:</strong> She dove right in and started making improvements.</p></li><li><strong>Definition 6:</strong> To deliberately fall down after a challenge, imitating being fouled, in the hope of getting one's opponent penalised.</li><li><strong>Definition 7:</strong> To cause to descend, dunk; to plunge something into water.</li><li><strong>Definition 8:</strong> To explore by diving; to plunge into.</li><li><strong>Definition 9:</strong> To plunge or to go deeply into any subject, question, business, etc.; to penetrate; to explore.</li></ul></div></div>"
+description: Yes, DIVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- diver
+- diced
+- diked
+- dined
+- dited
+- dives
+- divey
+- doved
+- gived
+- hived
+- jived
+- lived
+trap:
+  pattern: _IVED
+  count: 7
+phonetic: "/ˈdaɪ̯vd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To swim under water.
+  - text: To jump into water head-first.
+  - text: To jump headfirst toward the ground or into another substance.
+    example: to dive into home plate
+  - text: To descend sharply or steeply.
+  - text: "(especially with in) To undertake with enthusiasm."
+    example: She dove right in and started making improvements.
+  - text: To deliberately fall down after a challenge, imitating being fouled, in
+      the hope of getting one's opponent penalised.
+  - text: To cause to descend, dunk; to plunge something into water.
+  - text: To explore by diving; to plunge into.
+  - text: To plunge or to go deeply into any subject, question, business, etc.; to
+      penetrate; to explore.
 ---
-

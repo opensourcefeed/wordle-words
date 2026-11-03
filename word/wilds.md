@@ -1,7 +1,51 @@
 ---
 layout: word
-title: wilds
+title: Is WILDS a Wordle Word?
+head_title: Is WILDS a Wordle Word? Yes – Valid Guess & Meaning
 word: wilds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wood or forest</li><li><strong>Definition 2:</strong> An open country</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The undomesticated state of a wild animal<p><strong>Example:</strong> After mending the lion's leg, we returned him to the wild.</p></li><li><strong>Definition 2:</strong> (chiefly in the plural) a wilderness</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To commit random acts of assault, robbery, and rape in an urban setting, especially as a gang.</li></ul></div></div>"
+description: Yes, WILDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- eilds
+- gilds
+- milds
+- silds
+- walds
+- welds
+- wiles
+- wilis
+- wills
+- wilts
+- winds
+- wolds
+definitions:
+- pos: noun
+  defs:
+  - text: A wood or forest
+  - text: An open country
+- pos: noun
+  defs:
+  - text: The undomesticated state of a wild animal
+    example: After mending the lion's leg, we returned him to the wild.
+  - text: "(chiefly in the plural) a wilderness"
+- pos: verb
+  defs:
+  - text: To commit random acts of assault, robbery, and rape in an urban setting,
+      especially as a gang.
 ---
-

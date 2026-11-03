@@ -1,7 +1,69 @@
 ---
 layout: word
-title: grabs
+title: Is GRABS a Wordle Word?
+head_title: Is GRABS a Wordle Word? Yes – Valid Guess & Meaning
 word: grabs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹæbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden snatch at something.</li><li><strong>Definition 2:</strong> An acquisition by violent or unjust means.</li><li><strong>Definition 3:</strong> A mechanical device that grabs or clutches.</li><li><strong>Definition 4:</strong> A sound bite.</li><li><strong>Definition 5:</strong> That which is seized.</li><li><strong>Definition 6:</strong> A simple card game.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grip suddenly; to seize; to clutch.<p><strong>Example:</strong> I grabbed her hand to pull her back from the cliff edge.</p></li><li><strong>Definition 2:</strong> To make a sudden grasping or clutching motion (at something).<p><strong>Example:</strong> The suspect suddenly broke free and grabbed at the policeman's gun.</p></li><li><strong>Definition 3:</strong> To restrain someone; to arrest.</li><li><strong>Definition 4:</strong> To grip the attention of; to enthrall or interest.<p><strong>Example:</strong> How does that idea grab you?</p></li><li><strong>Definition 5:</strong> To quickly collect or retrieve.</li><li><strong>Definition 6:</strong> To consume something quickly.<p><strong>Example:</strong> Is there time to grab a coffee?</p></li><li><strong>Definition 7:</strong> To take the opportunity of.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A two- or three-masted vessel used on the Malabar coast.</li></ul></div></div>"
+description: Yes, GRABS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- grass
+- crabs
+- drabs
+- frabs
+- grads
+- grams
+- grans
+- grats
+- gravs
+- grays
+- grubs
+- krabs
+anagrams:
+- brags
+- garbs
+trap:
+  pattern: GRA_S
+  count: 8
+phonetic: "/ɡɹæbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden snatch at something.
+  - text: An acquisition by violent or unjust means.
+  - text: A mechanical device that grabs or clutches.
+  - text: A sound bite.
+  - text: That which is seized.
+  - text: A simple card game.
+- pos: verb
+  defs:
+  - text: To grip suddenly; to seize; to clutch.
+    example: I grabbed her hand to pull her back from the cliff edge.
+  - text: To make a sudden grasping or clutching motion (at something).
+    example: The suspect suddenly broke free and grabbed at the policeman's gun.
+  - text: To restrain someone; to arrest.
+  - text: To grip the attention of; to enthrall or interest.
+    example: How does that idea grab you?
+  - text: To quickly collect or retrieve.
+  - text: To consume something quickly.
+    example: Is there time to grab a coffee?
+  - text: To take the opportunity of.
+- pos: noun
+  defs:
+  - text: A two- or three-masted vessel used on the Malabar coast.
 ---
-

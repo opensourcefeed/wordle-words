@@ -1,7 +1,49 @@
 ---
 layout: word
-title: arrow
+title: Is ARROW a Wordle Word?
+head_title: 'Is ARROW a Wordle Word? Yes – Past Answer #1392 & Meaning'
 word: arrow
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæɹ.əʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A projectile consisting of a shaft, a point and a tail with stabilizing fins that is shot from a bow.</li><li><strong>Definition 2:</strong> A sign or symbol used to indicate a direction (e.g. →).</li><li><strong>Definition 3:</strong> A directed edge.</li><li><strong>Definition 4:</strong> A dart.</li><li><strong>Definition 5:</strong> The -> symbol, which has specific meanings in various programming languages.</li><li><strong>Definition 6:</strong> The inflorescence or tassel of a mature sugar cane plant.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move swiftly and directly (like an arrow)</li><li><strong>Definition 2:</strong> To let fly swiftly and directly</li><li><strong>Definition 3:</strong> (of a sugar cane plant) To develop an inflorescence.</li><li><strong>Definition 4:</strong> To navigate using the arrow keys.<p><strong>Example:</strong> Arrow left until you reach the start of the text you want to delete.</p></li></ul></div></div>"
+description: Yes, ARROW is a valid Wordle word. It was the Wordle answer on April
+  11, 2025 (#1392). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 11, 2025 (#1392).
+past_answers:
+- date: '2025-04-11'
+  number: 1392
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- arroz
+phonetic: "/ˈæɹ.əʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A projectile consisting of a shaft, a point and a tail with stabilizing
+      fins that is shot from a bow.
+  - text: A sign or symbol used to indicate a direction (e.g. →).
+  - text: A directed edge.
+  - text: A dart.
+  - text: The -> symbol, which has specific meanings in various programming languages.
+  - text: The inflorescence or tassel of a mature sugar cane plant.
+- pos: verb
+  defs:
+  - text: To move swiftly and directly (like an arrow)
+  - text: To let fly swiftly and directly
+  - text: "(of a sugar cane plant) To develop an inflorescence."
+  - text: To navigate using the arrow keys.
+    example: Arrow left until you reach the start of the text you want to delete.
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: joked
+title: Is JOKED a Wordle Word?
+head_title: Is JOKED a Wordle Word? Yes – Valid Guess & Meaning
 word: joked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To do or say something for amusement rather than seriously.<p><strong>Example:</strong> I didn’t mean what I said — I was only joking.</p></li><li><strong>Definition 2:</strong> (intransitive, followed by with) To dupe in a friendly manner for amusement; to mess with, play with.<p><strong>Example:</strong> Relax, man, I'm just joking with you.</p></li><li><strong>Definition 3:</strong> To make merry with; to make jokes upon; to rally.<p><strong>Example:</strong> to joke a comrade</p></li></ul></div></div>"
+description: Yes, JOKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- joker
+- boked
+- coked
+- hoked
+- jobed
+- jokes
+- jokey
+- joled
+- jowed
+- joyed
+- juked
+- poked
+trap:
+  pattern: _OKED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To do or say something for amusement rather than seriously.
+    example: I didn’t mean what I said — I was only joking.
+  - text: "(intransitive, followed by with) To dupe in a friendly manner for amusement;
+      to mess with, play with."
+    example: Relax, man, I'm just joking with you.
+  - text: To make merry with; to make jokes upon; to rally.
+    example: to joke a comrade
 ---
-

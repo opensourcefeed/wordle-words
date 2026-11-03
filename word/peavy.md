@@ -1,7 +1,37 @@
 ---
 layout: word
-title: peavy
+title: Is PEAVY a Wordle Word?
+head_title: Is PEAVY a Wordle Word? Yes – Valid Guess & Meaning
 word: peavy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tool used to manipulate logs, having a thick wooden handle, a steel point, and a curved hooked arm. Similar to a cant-hook, but shorter and stouter, and with a pointed end.</li></ul></div></div>"
+description: Yes, PEAVY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- heavy
+- leavy
+- peaky
+- peasy
+- peaty
+- pervy
+definitions:
+- pos: noun
+  defs:
+  - text: A tool used to manipulate logs, having a thick wooden handle, a steel point,
+      and a curved hooked arm. Similar to a cant-hook, but shorter and stouter, and
+      with a pointed end.
 ---
-

@@ -1,7 +1,70 @@
 ---
 layout: word
-title: cloud
+title: Is CLOUD a Wordle Word?
+head_title: 'Is CLOUD a Wordle Word? Yes – Past Answer #1199 & Meaning'
 word: cloud
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klaʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rock; boulder; a hill.</li><li><strong>Definition 2:</strong> A visible mass of water droplets suspended in the air.</li><li><strong>Definition 3:</strong> Any mass of dust, steam or smoke resembling such a mass.</li><li><strong>Definition 4:</strong> Anything which makes things foggy or gloomy.</li><li><strong>Definition 5:</strong> Anything unsubstantial.</li><li><strong>Definition 6:</strong> A dark spot on a lighter material or background.</li><li><strong>Definition 7:</strong> A group or swarm, especially suspended above the ground or flying.<p><strong>Example:</strong> He opened the door and was greeted by a cloud of bats.</p></li><li><strong>Definition 8:</strong> An elliptical shape or symbol whose outline is a series of semicircles, supposed to resemble a cloud.<p><strong>Example:</strong> The comic-book character's thoughts appeared in a cloud above his head.</p></li><li><strong>Definition 9:</strong> (with \"the\") The Internet, regarded as an abstract amorphous omnipresent space for processing and storage, the focus of cloud computing.</li><li><strong>Definition 10:</strong> A negative or foreboding aspect of something positive: see every cloud has a silver lining or every silver lining has a cloud.</li><li><strong>Definition 11:</strong> Crystal methamphetamine.</li><li><strong>Definition 12:</strong> A large, loosely-knitted headscarf worn by women.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become foggy or gloomy, or obscured from sight.<p><strong>Example:</strong> The glass clouds when you breathe on it.</p></li><li><strong>Definition 2:</strong> To overspread or hide with a cloud or clouds.<p><strong>Example:</strong> The sky is clouded.</p></li><li><strong>Definition 3:</strong> To make obscure.<p><strong>Example:</strong> All this talk about human rights is clouding the real issue.</p></li><li><strong>Definition 4:</strong> To make less acute or perceptive.<p><strong>Example:</strong> The tears began to well up and cloud my vision.</p></li><li><strong>Definition 5:</strong> To make gloomy or sullen.</li><li><strong>Definition 6:</strong> To blacken; to sully; to stain; to tarnish (reputation or character).</li><li><strong>Definition 7:</strong> To mark with, or darken in, veins or sports; to variegate with colors.<p><strong>Example:</strong> to cloud yarn</p></li><li><strong>Definition 8:</strong> To become marked, darkened or variegated in this way.</li></ul></div></div>"
+description: Yes, CLOUD is a valid Wordle word. It was the Wordle answer on September
+  30, 2024 (#1199). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 30, 2024 (#1199).
+past_answers:
+- date: '2024-09-30'
+  number: 1199
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- aloud
+- clout
+- clour
+- clous
+anagrams:
+- could
+phonetic: "/klaʊd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A rock; boulder; a hill.
+  - text: A visible mass of water droplets suspended in the air.
+  - text: Any mass of dust, steam or smoke resembling such a mass.
+  - text: Anything which makes things foggy or gloomy.
+  - text: Anything unsubstantial.
+  - text: A dark spot on a lighter material or background.
+  - text: A group or swarm, especially suspended above the ground or flying.
+    example: He opened the door and was greeted by a cloud of bats.
+  - text: An elliptical shape or symbol whose outline is a series of semicircles,
+      supposed to resemble a cloud.
+    example: The comic-book character's thoughts appeared in a cloud above his head.
+  - text: (with "the") The Internet, regarded as an abstract amorphous omnipresent
+      space for processing and storage, the focus of cloud computing.
+  - text: 'A negative or foreboding aspect of something positive: see every cloud
+      has a silver lining or every silver lining has a cloud.'
+  - text: Crystal methamphetamine.
+  - text: A large, loosely-knitted headscarf worn by women.
+- pos: verb
+  defs:
+  - text: To become foggy or gloomy, or obscured from sight.
+    example: The glass clouds when you breathe on it.
+  - text: To overspread or hide with a cloud or clouds.
+    example: The sky is clouded.
+  - text: To make obscure.
+    example: All this talk about human rights is clouding the real issue.
+  - text: To make less acute or perceptive.
+    example: The tears began to well up and cloud my vision.
+  - text: To make gloomy or sullen.
+  - text: To blacken; to sully; to stain; to tarnish (reputation or character).
+  - text: To mark with, or darken in, veins or sports; to variegate with colors.
+    example: to cloud yarn
+  - text: To become marked, darkened or variegated in this way.
 ---
-

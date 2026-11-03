@@ -1,7 +1,36 @@
 ---
 layout: word
-title: kaput
+title: Is KAPUT a Wordle Word?
+head_title: Is KAPUT a Wordle Word? Yes – Valid Guess & Meaning
 word: kaput
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kəˈpuːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Out of order; not working.<p><strong>Example:</strong> Her marriage went kaput.</p></li></ul></div></div>"
+description: Yes, KAPUT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- caput
+- kapur
+- kapus
+anagrams:
+- uptak
+phonetic: "/kəˈpuːt/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Out of order; not working.
+    example: Her marriage went kaput.
 ---
-

@@ -1,7 +1,38 @@
 ---
 layout: word
-title: dalek
+title: Is DALEK a Wordle Word?
+head_title: Is DALEK a Wordle Word? Yes – Valid Guess & Meaning
 word: dalek
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A member of a species of extraterrestrial cyborg mutants who appear in the television programme Doctor Who and are known for travelling in metallic shells, having monotone, mechanically distorted voices, repeating a limited number of phrases, and being bent on exterminating other beings mercilessly.</li><li><strong>Definition 2:</strong> One who is dogmatic, unfeeling and determined.</li></ul></div></div>"
+description: Yes, DALEK is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- daled
+- dales
+anagrams:
+- laked
+definitions:
+- pos: noun
+  defs:
+  - text: A member of a species of extraterrestrial cyborg mutants who appear in the
+      television programme Doctor Who and are known for travelling in metallic shells,
+      having monotone, mechanically distorted voices, repeating a limited number of
+      phrases, and being bent on exterminating other beings mercilessly.
+  - text: One who is dogmatic, unfeeling and determined.
 ---
-

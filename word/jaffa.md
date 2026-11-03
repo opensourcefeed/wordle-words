@@ -1,7 +1,32 @@
 ---
 layout: word
-title: jaffa
+title: Is JAFFA a Wordle Word?
+head_title: Is JAFFA a Wordle Word? Yes – Valid Guess & Meaning
 word: jaffa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of sweet orange, normally seedless.</li><li><strong>Definition 2:</strong> An impotent or infertile male.</li><li><strong>Definition 3:</strong> A ball that is very difficult for the batsman to hit because it moves erratically either through the air or off the pitch</li></ul></div></div>"
+description: Yes, JAFFA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - F
+  common:
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 100
+definitions:
+- pos: noun
+  defs:
+  - text: A type of sweet orange, normally seedless.
+  - text: An impotent or infertile male.
+  - text: A ball that is very difficult for the batsman to hit because it moves erratically
+      either through the air or off the pitch
 ---
-

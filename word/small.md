@@ -1,7 +1,65 @@
 ---
 layout: word
-title: small
+title: Is SMALL a Wordle Word?
+head_title: 'Is SMALL a Wordle Word? Yes – Past Answer #914 & Meaning'
 word: small
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /smoːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make little or less.</li><li><strong>Definition 2:</strong> To become small; to dwindle.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not large or big; insignificant; few in number.<p><strong>Example:</strong> A small group.</p></li><li><strong>Definition 2:</strong> Young, as a child.<p><strong>Example:</strong> Remember when the children were small?</p></li><li><strong>Definition 3:</strong> (writing, incomparable) Minuscule or lowercase, referring to written or printed letters.</li><li><strong>Definition 4:</strong> Envincing little worth or ability; not large-minded; paltry; mean.</li><li><strong>Definition 5:</strong> Not prolonged in duration; not extended in time; short.<p><strong>Example:</strong> a small space of time</p></li><li><strong>Definition 6:</strong> Slender, gracefully slim.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a small fashion.</li><li><strong>Definition 2:</strong> In or into small pieces.</li><li><strong>Definition 3:</strong> To a small extent.</li><li><strong>Definition 4:</strong> In a low tone; softly.</li></ul></div></div>"
+description: Yes, SMALL is a valid Wordle word. It was the Wordle answer on December
+  20, 2023 (#914). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 20, 2023 (#914).
+past_answers:
+- date: '2023-12-20'
+  number: 914
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- shall
+- smell
+- stall
+- scall
+- smalm
+- smalt
+- spall
+anagrams:
+- malls
+phonetic: "/smoːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any part of something that is smaller or slimmer than the rest, now usually
+      with anatomical reference to the back.
+- pos: verb
+  defs:
+  - text: To make little or less.
+  - text: To become small; to dwindle.
+- pos: adjective
+  defs:
+  - text: Not large or big; insignificant; few in number.
+    example: A small group.
+  - text: Young, as a child.
+    example: Remember when the children were small?
+  - text: "(writing, incomparable) Minuscule or lowercase, referring to written or
+      printed letters."
+  - text: Envincing little worth or ability; not large-minded; paltry; mean.
+  - text: Not prolonged in duration; not extended in time; short.
+    example: a small space of time
+  - text: Slender, gracefully slim.
+- pos: adverb
+  defs:
+  - text: In a small fashion.
+  - text: In or into small pieces.
+  - text: To a small extent.
+  - text: In a low tone; softly.
 ---
-

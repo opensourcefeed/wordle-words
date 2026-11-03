@@ -1,7 +1,38 @@
 ---
 layout: word
-title: adzed
+title: Is ADZED a Wordle Word?
+head_title: Is ADZED a Wordle Word? Yes – Valid Guess & Meaning
 word: adzed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæd.zəd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shape a material using an adze.</li></ul></div></div>"
+description: Yes, ADZED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- added
+- adred
+- adzes
+anagrams:
+- dazed
+phonetic: "/ˈæd.zəd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To shape a material using an adze.
 ---
-

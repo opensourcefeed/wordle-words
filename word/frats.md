@@ -1,7 +1,51 @@
 ---
 layout: word
-title: frats
+title: Is FRATS a Wordle Word?
+head_title: Is FRATS a Wordle Word? Yes – Valid Guess & Meaning
 word: frats
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɹæts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Shortened form for fraternity, college organization. (Often used as a noun modifier.)<p><strong>Example:</strong> \"All the frats will be there.\"</p></li></ul></div></div>"
+description: Yes, FRATS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- brats
+- drats
+- feats
+- fiats
+- flats
+- frabs
+- frags
+- frais
+- fraps
+- frass
+- frate
+- frati
+anagrams:
+- farts
+- rafts
+trap:
+  pattern: FRA_S
+  count: 8
+phonetic: "/fɹæts/"
+definitions:
+- pos: noun
+  defs:
+  - text: Shortened form for fraternity, college organization. (Often used as a noun
+      modifier.)
+    example: '"All the frats will be there."'
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: panty
+title: Is PANTY a Wordle Word?
+head_title: Is PANTY a Wordle Word? Yes – Valid Guess & Meaning
 word: panty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (in the plural) Short trousers for men, or more usually boys.</li><li><strong>Definition 2:</strong> (usually in the plural, or in compounds) An article of clothing worn as underpants by women.<p><strong>Example:</strong> pantyhose</p></li><li><strong>Definition 3:</strong> A helmet cover.</li></ul></div></div>"
+description: Yes, PANTY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- pansy
+- party
+- pasty
+- patty
+- banty
+- canty
+- janty
+- manty
+- nanty
+- pandy
+- panny
+- panto
+trap:
+  pattern: _ANTY
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: "(in the plural) Short trousers for men, or more usually boys."
+  - text: "(usually in the plural, or in compounds) An article of clothing worn as
+      underpants by women."
+    example: pantyhose
+  - text: A helmet cover.
 ---
-

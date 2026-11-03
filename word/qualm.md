@@ -1,7 +1,46 @@
 ---
 layout: word
-title: qualm
+title: Is QUALM a Wordle Word?
+head_title: 'Is QUALM a Wordle Word? Yes – Past Answer #661 & Meaning'
 word: qualm
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kwɑːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A feeling of apprehension, doubt, fear etc.</li><li><strong>Definition 2:</strong> A sudden sickly feeling; queasiness.</li><li><strong>Definition 3:</strong> A prick of the conscience; a moral scruple, a pang of guilt. (Now often in negative constructions.)<p><strong>Example:</strong> This lawyer has no qualms about saving people who are on the wrong side of the law.</p></li><li><strong>Definition 4:</strong> Mortality; plague; pestilence.</li><li><strong>Definition 5:</strong> A calamity or disaster.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To have a sickly feeling.</li></ul></div></div>"
+description: Yes, QUALM is a valid Wordle word. It was the Wordle answer on April
+  11, 2023 (#661). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 11, 2023 (#661).
+past_answers:
+- date: '2023-04-11'
+  number: 661
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- quale
+- qualy
+phonetic: "/kwɑːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A feeling of apprehension, doubt, fear etc.
+  - text: A sudden sickly feeling; queasiness.
+  - text: A prick of the conscience; a moral scruple, a pang of guilt. (Now often
+      in negative constructions.)
+    example: This lawyer has no qualms about saving people who are on the wrong side
+      of the law.
+  - text: Mortality; plague; pestilence.
+  - text: A calamity or disaster.
+- pos: verb
+  defs:
+  - text: To have a sickly feeling.
 ---
-

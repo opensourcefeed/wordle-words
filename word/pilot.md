@@ -1,7 +1,74 @@
 ---
 layout: word
-title: pilot
+title: Is PILOT a Wordle Word?
+head_title: 'Is PILOT a Wordle Word? Yes – Past Answer #120 & Meaning'
 word: pilot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who steers a ship, a helmsman.</li><li><strong>Definition 2:</strong> A person who knows well the depths and currents of a harbor or coastal area, who is hired by a vessel to help navigate the harbor or coast.</li><li><strong>Definition 3:</strong> A guide book for maritime navigation.</li><li><strong>Definition 4:</strong> An instrument for detecting the compass error.</li><li><strong>Definition 5:</strong> A pilot vehicle.</li><li><strong>Definition 6:</strong> A person authorised to drive such a vehicle during an escort.</li><li><strong>Definition 7:</strong> A guide or escort through an unknown or dangerous area.</li><li><strong>Definition 8:</strong> Something serving as a test or trial.<p><strong>Example:</strong> We would like to run a pilot in your facility before rolling out the program citywide.</p></li><li><strong>Definition 9:</strong> A person who is in charge of the controls of an aircraft.</li><li><strong>Definition 10:</strong> A sample episode of a proposed TV series produced to decide if it should be made or not. If approved, typically the first episode of an actual TV series.</li><li><strong>Definition 11:</strong> A cowcatcher.</li><li><strong>Definition 12:</strong> A pilot light.</li><li><strong>Definition 13:</strong> One who flies a kite.</li><li><strong>Definition 14:</strong> A short plug, sometimes made interchangeable, at the end of a counterbore to guide the tool.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To control (an aircraft or watercraft).</li><li><strong>Definition 2:</strong> To guide (a vessel) through coastal waters.</li><li><strong>Definition 3:</strong> To test or have a preliminary trial of (an idea, a new product, etc.)</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made or used as a test or demonstration of capability.<p><strong>Example:</strong> The pilot plant showed the need for major process changes.</p></li><li><strong>Definition 2:</strong> Used to control or activate another device.<p><strong>Example:</strong> a pilot light</p></li><li><strong>Definition 3:</strong> Being a vehicle to warn other road users of the presence of an oversize vehicle/combination.<p><strong>Example:</strong> a pilot vehicle</p></li></ul></div></div>"
+description: Yes, PILOT is a valid Wordle word. It was the Wordle answer on October
+  17, 2021 (#120). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 17, 2021 (#120).
+past_answers:
+- date: '2021-10-17'
+  number: 120
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- pivot
+- picot
+- pilon
+- pilow
+- pinot
+- pitot
+anagrams:
+- ploit
+definitions:
+- pos: noun
+  defs:
+  - text: A person who steers a ship, a helmsman.
+  - text: A person who knows well the depths and currents of a harbor or coastal area,
+      who is hired by a vessel to help navigate the harbor or coast.
+  - text: A guide book for maritime navigation.
+  - text: An instrument for detecting the compass error.
+  - text: A pilot vehicle.
+  - text: A person authorised to drive such a vehicle during an escort.
+  - text: A guide or escort through an unknown or dangerous area.
+  - text: Something serving as a test or trial.
+    example: We would like to run a pilot in your facility before rolling out the
+      program citywide.
+  - text: A person who is in charge of the controls of an aircraft.
+  - text: A sample episode of a proposed TV series produced to decide if it should
+      be made or not. If approved, typically the first episode of an actual TV series.
+  - text: A cowcatcher.
+  - text: A pilot light.
+  - text: One who flies a kite.
+  - text: A short plug, sometimes made interchangeable, at the end of a counterbore
+      to guide the tool.
+- pos: verb
+  defs:
+  - text: To control (an aircraft or watercraft).
+  - text: To guide (a vessel) through coastal waters.
+  - text: To test or have a preliminary trial of (an idea, a new product, etc.)
+- pos: adjective
+  defs:
+  - text: Made or used as a test or demonstration of capability.
+    example: The pilot plant showed the need for major process changes.
+  - text: Used to control or activate another device.
+    example: a pilot light
+  - text: Being a vehicle to warn other road users of the presence of an oversize
+      vehicle/combination.
+    example: a pilot vehicle
 ---
-

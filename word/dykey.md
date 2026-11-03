@@ -1,7 +1,32 @@
 ---
 layout: word
-title: dykey
+title: Is DYKEY a Wordle Word?
+head_title: Is DYKEY a Wordle Word? Yes – Valid Guess & Meaning
 word: dykey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a woman, whether actually lesbian or not, having stereotypically lesbian characteristics; that looks like a dyke.</li></ul></div></div>"
+description: Yes, DYKEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - Y
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- dikey
+- dyked
+phonetic: "/ˈdaɪki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of a woman, whether actually lesbian or not, having stereotypically lesbian
+      characteristics; that looks like a dyke.
 ---
-

@@ -1,7 +1,62 @@
 ---
 layout: word
-title: pimps
+title: Is PIMPS a Wordle Word?
+head_title: Is PIMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: pimps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɪmps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who solicits customers for prostitution and acts as manager for a group of prostitutes; a pander.</li><li><strong>Definition 2:</strong> A man who can easily attract women.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To act as a procurer of prostitutes; to pander.</li><li><strong>Definition 2:</strong> To prostitute someone.<p><strong>Example:</strong> The smooth-talking, tall man with heavy gold bracelets claimed he could pimp anyone.</p></li><li><strong>Definition 3:</strong> To excessively customize something, especially a vehicle, according to ghetto standards (also pimp out).<p><strong>Example:</strong> You pimped out that motorcycle f'real, dawg.</p></li><li><strong>Definition 4:</strong> To ask progressively harder and ultimately unanswerable questions of a resident or medical student (said of a senior member of the medical staff).</li><li><strong>Definition 5:</strong> To promote, to tout.<p><strong>Example:</strong> I gotta show you this sweet website where you can pimp your blog and get more readers.</p></li><li><strong>Definition 6:</strong> To persuade, smooth talk or trick another into doing something for your benefit.<p><strong>Example:</strong> I pimped her out of $2,000 and she paid for the entire stay at the Bahamas.</p></li></ul></div></div>"
+description: Yes, PIMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- dimps
+- gimps
+- limps
+- nimps
+- pimas
+- pomps
+- pumps
+- simps
+- timps
+- wimps
+trap:
+  pattern: _IMPS
+  count: 8
+phonetic: "/pɪmps/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who solicits customers for prostitution and acts as manager for
+      a group of prostitutes; a pander.
+  - text: A man who can easily attract women.
+- pos: verb
+  defs:
+  - text: To act as a procurer of prostitutes; to pander.
+  - text: To prostitute someone.
+    example: The smooth-talking, tall man with heavy gold bracelets claimed he could
+      pimp anyone.
+  - text: To excessively customize something, especially a vehicle, according to ghetto
+      standards (also pimp out).
+    example: You pimped out that motorcycle f'real, dawg.
+  - text: To ask progressively harder and ultimately unanswerable questions of a resident
+      or medical student (said of a senior member of the medical staff).
+  - text: To promote, to tout.
+    example: I gotta show you this sweet website where you can pimp your blog and
+      get more readers.
+  - text: To persuade, smooth talk or trick another into doing something for your
+      benefit.
+    example: I pimped her out of $2,000 and she paid for the entire stay at the Bahamas.
 ---
-

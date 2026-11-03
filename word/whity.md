@@ -1,7 +1,37 @@
 ---
 layout: word
-title: whity
+title: Is WHITY a Wordle Word?
+head_title: Is WHITY a Wordle Word? Yes – Valid Guess & Meaning
 word: whity
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A white person, a person of European descent.</li><li><strong>Definition 2:</strong> A state or bout of sickness, especially induced by cannabis use.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Close to white in colour.</li></ul></div></div>"
+description: Yes, WHITY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- whiny
+- white
+- whits
+anagrams:
+- withy
+definitions:
+- pos: noun
+  defs:
+  - text: A white person, a person of European descent.
+  - text: A state or bout of sickness, especially induced by cannabis use.
+- pos: adjective
+  defs:
+  - text: Close to white in colour.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: dimps
+title: Is DIMPS a Wordle Word?
+head_title: Is DIMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: dimps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (chiefly Manchester) A small or short cigarette.</li><li><strong>Definition 2:</strong> (by extension) The butt end of a cigarette, before it has been completely smoked; a half-smoked cigarette.</li></ul></div></div>"
+description: Yes, DIMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 80
+neighbours:
+- damps
+- dimes
+- dumps
+- gimps
+- limps
+- nimps
+- pimps
+- simps
+- timps
+- wimps
+trap:
+  pattern: _IMPS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: "(chiefly Manchester) A small or short cigarette."
+  - text: "(by extension) The butt end of a cigarette, before it has been completely
+      smoked; a half-smoked cigarette."
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: exile
+title: Is EXILE a Wordle Word?
+head_title: 'Is EXILE a Wordle Word? Yes – Past Answer #1484 & Meaning'
 word: exile
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛkˌsaɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The state of being banished from one's home or country.<p><strong>Example:</strong> He lived in exile.</p></li><li><strong>Definition 2:</strong> Someone who is banished from their home or country.<p><strong>Example:</strong> She lived as an exile.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To send into exile.</li></ul></div></div>"
+description: Yes, EXILE is a valid Wordle word. It was the Wordle answer on July 12,
+  2025 (#1484). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 12, 2025 (#1484).
+past_answers:
+- date: '2025-07-12'
+  number: 1484
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - I
+  - L
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- axile
+- edile
+- esile
+- exine
+- exite
+phonetic: "/ˈɛkˌsaɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The state of being banished from one's home or country.
+    example: He lived in exile.
+  - text: Someone who is banished from their home or country.
+    example: She lived as an exile.
+- pos: verb
+  defs:
+  - text: To send into exile.
 ---
-

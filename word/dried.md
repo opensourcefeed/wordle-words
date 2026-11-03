@@ -1,7 +1,59 @@
 ---
 layout: word
-title: dried
+title: Is DRIED a Wordle Word?
+head_title: Is DRIED a Wordle Word? Yes – Possible Answer & Meaning
 word: dried
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Without water or moisture, said of something that has previously been wet or moist; resulting from the process of drying.</li><li><strong>Definition 2:</strong> Usually of foods: cured, preserved by drying.<p><strong>Example:</strong> dried fish; dried fruit</p></li><li><strong>Definition 3:</strong> Sold raw and unprocessed.<p><strong>Example:</strong> dried lentils</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lose moisture.<p><strong>Example:</strong> The clothes dried on the line.</p></li><li><strong>Definition 2:</strong> To remove moisture from.<p><strong>Example:</strong> Devin dried her eyes with a handkerchief.</p></li><li><strong>Definition 3:</strong> To be thirsty.</li><li><strong>Definition 4:</strong> To exhaust; to cause to run dry.</li><li><strong>Definition 5:</strong> For an actor to forget his or her lines while performing.</li></ul></div></div>"
+description: Yes, DRIED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- cried
+- drier
+- fried
+- pried
+- tried
+- dreed
+- dries
+- wried
+anagrams:
+- redid
+trap:
+  pattern: _RIED
+  count: 6
+phonetic: "/dɹaɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Without water or moisture, said of something that has previously been wet
+      or moist; resulting from the process of drying.
+  - text: 'Usually of foods: cured, preserved by drying.'
+    example: dried fish; dried fruit
+  - text: Sold raw and unprocessed.
+    example: dried lentils
+- pos: verb
+  defs:
+  - text: To lose moisture.
+    example: The clothes dried on the line.
+  - text: To remove moisture from.
+    example: Devin dried her eyes with a handkerchief.
+  - text: To be thirsty.
+  - text: To exhaust; to cause to run dry.
+  - text: For an actor to forget his or her lines while performing.
 ---
-

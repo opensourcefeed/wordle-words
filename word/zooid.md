@@ -1,7 +1,39 @@
 ---
 layout: word
-title: zooid
+title: Is ZOOID a Wordle Word?
+head_title: Is ZOOID a Wordle Word? Yes – Valid Guess & Meaning
 word: zooid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈzuːɔɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An organic body or cell having locomotion, as a spermatic cell or spermatozoid.</li><li><strong>Definition 2:</strong> An animal in one of its inferior or early stages of development, as one of the intermediate forms in alternate generation.</li><li><strong>Definition 3:</strong> One of the individual animals in a composite group, as of Anthozoa, Hydrozoa, and Bryozoa; — sometimes restricted to those individuals in which the mouth and digestive organs are not developed.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to, or resembling, an animal.</li></ul></div></div>"
+description: Yes, ZOOID is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - I
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 97
+phonetic: "/ˈzuːɔɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An organic body or cell having locomotion, as a spermatic cell or spermatozoid.
+  - text: An animal in one of its inferior or early stages of development, as one
+      of the intermediate forms in alternate generation.
+  - text: One of the individual animals in a composite group, as of Anthozoa, Hydrozoa,
+      and Bryozoa; — sometimes restricted to those individuals in which the mouth
+      and digestive organs are not developed.
+- pos: adjective
+  defs:
+  - text: Relating to, or resembling, an animal.
 ---
-

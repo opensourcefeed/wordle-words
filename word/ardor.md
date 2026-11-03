@@ -1,7 +1,38 @@
 ---
 layout: word
-title: ardor
+title: Is ARDOR a Wordle Word?
+head_title: 'Is ARDOR a Wordle Word? Yes – Past Answer #867 & Meaning'
 word: ardor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Great warmth of feeling; fervor; passion.</li><li><strong>Definition 2:</strong> Spirit; enthusiasm; passion.</li><li><strong>Definition 3:</strong> Intense heat.</li></ul></div></div>"
+description: Yes, ARDOR is a valid Wordle word. It was the Wordle answer on November
+  3, 2023 (#867). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 3, 2023 (#867).
+past_answers:
+- date: '2023-11-03'
+  number: 867
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- arbor
+- armor
+definitions:
+- pos: noun
+  defs:
+  - text: Great warmth of feeling; fervor; passion.
+  - text: Spirit; enthusiasm; passion.
+  - text: Intense heat.
 ---
-

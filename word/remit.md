@@ -1,7 +1,69 @@
 ---
 layout: word
-title: remit
+title: Is REMIT a Wordle Word?
+head_title: 'Is REMIT a Wordle Word? Yes – Past Answer #1622 & Meaning'
 word: remit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈmɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Terms of reference; set of responsibilities; scope.</li><li><strong>Definition 2:</strong> A communication from a superior court to a subordinate court.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To transmit or send (e.g. money in payment); to supply.</li><li><strong>Definition 2:</strong> To forgive, pardon (a wrong, offence, etc.).</li><li><strong>Definition 3:</strong> To refrain from exacting or enforcing.<p><strong>Example:</strong> to remit the performance of an obligation</p></li><li><strong>Definition 4:</strong> To give up; omit; cease doing.</li><li><strong>Definition 5:</strong> To allow (something) to slacken, to relax (one's attention etc.).</li><li><strong>Definition 6:</strong> To show a lessening or abatement (of a specified quality).</li><li><strong>Definition 7:</strong> To diminish, abate.</li><li><strong>Definition 8:</strong> To refer (something or someone) for deliberation, judgment, etc. (to a particular body or person).</li><li><strong>Definition 9:</strong> To send back.</li><li><strong>Definition 10:</strong> To give or deliver up; surrender; resign.</li><li><strong>Definition 11:</strong> To restore or replace.</li><li><strong>Definition 12:</strong> To postpone.</li><li><strong>Definition 13:</strong> To refer (someone to something), direct someone's attention to something.</li></ul></div></div>"
+description: Yes, REMIT is a valid Wordle word. It was the Wordle answer on November
+  27, 2025 (#1622). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 27, 2025 (#1622).
+past_answers:
+- date: '2025-11-27'
+  number: 1622
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - I
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- refit
+- demit
+- rebit
+- recit
+- relit
+- remet
+- remix
+- resit
+anagrams:
+- merit
+- timer
+- miter
+- mitre
+trap:
+  pattern: RE_IT
+  count: 6
+phonetic: "/ɹɪˈmɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Terms of reference; set of responsibilities; scope.
+  - text: A communication from a superior court to a subordinate court.
+- pos: verb
+  defs:
+  - text: To transmit or send (e.g. money in payment); to supply.
+  - text: To forgive, pardon (a wrong, offence, etc.).
+  - text: To refrain from exacting or enforcing.
+    example: to remit the performance of an obligation
+  - text: To give up; omit; cease doing.
+  - text: To allow (something) to slacken, to relax (one's attention etc.).
+  - text: To show a lessening or abatement (of a specified quality).
+  - text: To diminish, abate.
+  - text: To refer (something or someone) for deliberation, judgment, etc. (to a particular
+      body or person).
+  - text: To send back.
+  - text: To give or deliver up; surrender; resign.
+  - text: To restore or replace.
+  - text: To postpone.
+  - text: To refer (someone to something), direct someone's attention to something.
 ---
-

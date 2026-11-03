@@ -1,7 +1,69 @@
 ---
 layout: word
-title: hints
+title: Is HINTS a Wordle Word?
+head_title: Is HINTS a Wordle Word? Yes – Valid Guess & Meaning
 word: hints
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɪnts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A clue.<p><strong>Example:</strong> I needed a hint to complete the crossword.</p></li><li><strong>Definition 2:</strong> A tacit suggestion that avoids a direct statement.<p><strong>Example:</strong> He gave me a hint that my breath smelt.</p></li><li><strong>Definition 3:</strong> A small, barely detectable amount of.<p><strong>Example:</strong> I could taste a hint of lemon in the wine.</p></li><li><strong>Definition 4:</strong> Information in a computer-based font that suggests how the outlines of the font's glyphs should be distorted in order to produce, at specific sizes, a visually appealing pixel-based rendering. Also known as hinting.<p><strong>Example:</strong> This font does not scale well; at small point sizes it has no hinting at all, and the hints that it has for the 10- and 12-point letter 'g' still need work.</p></li><li><strong>Definition 5:</strong> An opportunity; occasion; fit time.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To suggest tacitly without a direct statement; to provide a clue.<p><strong>Example:</strong> She hinted at the possibility of a recount of the votes.</p></li><li><strong>Definition 2:</strong> To bring to mind by a slight mention or remote allusion; to suggest in an indirect manner.<p><strong>Example:</strong> to hint a suspicion</p></li><li><strong>Definition 3:</strong> To develop and add hints to a font.<p><strong>Example:</strong> The typographer worked all day on hinting her new font so it would look good on computer screens.</p></li></ul></div></div>"
+description: Yes, HINTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- bints
+- dints
+- hants
+- hents
+- hilts
+- hinds
+- hings
+- hists
+- hunts
+- lints
+- mints
+- oints
+anagrams:
+- thins
+trap:
+  pattern: _INTS
+  count: 9
+phonetic: "/hɪnts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A clue.
+    example: I needed a hint to complete the crossword.
+  - text: A tacit suggestion that avoids a direct statement.
+    example: He gave me a hint that my breath smelt.
+  - text: A small, barely detectable amount of.
+    example: I could taste a hint of lemon in the wine.
+  - text: Information in a computer-based font that suggests how the outlines of the
+      font's glyphs should be distorted in order to produce, at specific sizes, a
+      visually appealing pixel-based rendering. Also known as hinting.
+    example: This font does not scale well; at small point sizes it has no hinting
+      at all, and the hints that it has for the 10- and 12-point letter 'g' still
+      need work.
+  - text: An opportunity; occasion; fit time.
+- pos: verb
+  defs:
+  - text: To suggest tacitly without a direct statement; to provide a clue.
+    example: She hinted at the possibility of a recount of the votes.
+  - text: To bring to mind by a slight mention or remote allusion; to suggest in an
+      indirect manner.
+    example: to hint a suspicion
+  - text: To develop and add hints to a font.
+    example: The typographer worked all day on hinting her new font so it would look
+      good on computer screens.
 ---
-

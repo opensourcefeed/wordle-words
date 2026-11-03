@@ -1,7 +1,35 @@
 ---
 layout: word
-title: wispy
+title: Is WISPY a Wordle Word?
+head_title: 'Is WISPY a Wordle Word? Yes – Past Answer #1915 & Meaning'
 word: wispy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɪspi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Consisting of or resembling a wisp; like a slender, flexible strand or bundle.<p><strong>Example:</strong> The wispy smoke rose from chimneys all around town.</p></li></ul></div></div>"
+description: Yes, WISPY is a valid Wordle word. It was the Wordle answer on September
+  16, 2026 (#1915). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 16, 2026 (#1915).
+past_answers:
+- date: '2026-09-16'
+  number: 1915
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- wimpy
+- waspy
+- wisps
+phonetic: "/ˈwɪspi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Consisting of or resembling a wisp; like a slender, flexible strand or bundle.
+    example: The wispy smoke rose from chimneys all around town.
 ---
-

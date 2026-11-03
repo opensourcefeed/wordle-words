@@ -1,7 +1,39 @@
 ---
 layout: word
-title: argan
+title: Is ARGAN a Wordle Word?
+head_title: Is ARGAN a Wordle Word? Yes – Valid Guess & Meaning
 word: argan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɑː(ɹ)ɡən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tree (Argania spinosa) of southwestern Morocco, particularly prized for its oil.</li><li><strong>Definition 2:</strong> The fruit of this tree.</li></ul></div></div>"
+description: Yes, ARGAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- organ
+- argal
+- argon
+anagrams:
+- grana
+- nagar
+- ranga
+phonetic: "/ˈɑː(ɹ)ɡən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A tree (Argania spinosa) of southwestern Morocco, particularly prized for
+      its oil.
+  - text: The fruit of this tree.
 ---
-

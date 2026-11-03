@@ -1,7 +1,64 @@
 ---
 layout: word
-title: masts
+title: Is MASTS a Wordle Word?
+head_title: Is MASTS a Wordle Word? Yes – Valid Guess & Meaning
 word: masts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tall, slim post or tower, usually tapering upward, used to support, for example, the sails on a ship, flags, floodlights, meteorological instruments ,or communications equipment such as an aerial, usually supported by guy-wires.</li><li><strong>Definition 2:</strong> A non-judicial punishment (\"NJP\") disciplinary hearing under which a commanding officer studies and disposes of cases involving those under his command.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To supply and fit a mast to (a ship).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The fruit of forest-trees (beech, oak, chestnut, pecan, etc.), especially if having fallen from the tree, used as fodder for pigs and other animals.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of swine and other animals) To feed on forest seed or fruit.</li><li><strong>Definition 2:</strong> (of a population of plants) To vary fruit and seed production in multi-year cycles.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of heavy cue, with the broad end of which one strikes the ball.</li></ul></div></div>"
+description: Yes, MASTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- basts
+- casts
+- easts
+- fasts
+- gasts
+- lasts
+- mafts
+- malts
+- mants
+- marts
+- masas
+- mases
+trap:
+  pattern: _ASTS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A tall, slim post or tower, usually tapering upward, used to support, for
+      example, the sails on a ship, flags, floodlights, meteorological instruments
+      ,or communications equipment such as an aerial, usually supported by guy-wires.
+  - text: A non-judicial punishment ("NJP") disciplinary hearing under which a commanding
+      officer studies and disposes of cases involving those under his command.
+- pos: verb
+  defs:
+  - text: To supply and fit a mast to (a ship).
+- pos: noun
+  defs:
+  - text: The fruit of forest-trees (beech, oak, chestnut, pecan, etc.), especially
+      if having fallen from the tree, used as fodder for pigs and other animals.
+- pos: verb
+  defs:
+  - text: "(of swine and other animals) To feed on forest seed or fruit."
+  - text: "(of a population of plants) To vary fruit and seed production in multi-year
+      cycles."
+- pos: noun
+  defs:
+  - text: A type of heavy cue, with the broad end of which one strikes the ball.
 ---
-

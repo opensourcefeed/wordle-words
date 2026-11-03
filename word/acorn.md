@@ -1,7 +1,46 @@
 ---
 layout: word
-title: acorn
+title: Is ACORN a Wordle Word?
+head_title: 'Is ACORN a Wordle Word? Yes – Past Answer #1153 & Meaning'
 word: acorn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈeɪ.kɔːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The fruit of the oak, being an oval nut growing in a woody cup or cupule.</li><li><strong>Definition 2:</strong> A cone-shaped piece of wood on the point of the spindle above the vane, on the mast-head.</li><li><strong>Definition 3:</strong> See acorn-shell.</li><li><strong>Definition 4:</strong> (usually in the plural) A testicle.</li></ul></div></div>"
+description: Yes, ACORN is a valid Wordle word. It was the Wordle answer on August
+  15, 2024 (#1153). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 15, 2024 (#1153).
+past_answers:
+- date: '2024-08-15'
+  number: 1153
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- adorn
+- scorn
+- aborn
+anagrams:
+- acron
+- caron
+- narco
+- racon
+phonetic: "/ˈeɪ.kɔːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The fruit of the oak, being an oval nut growing in a woody cup or cupule.
+  - text: A cone-shaped piece of wood on the point of the spindle above the vane,
+      on the mast-head.
+  - text: See acorn-shell.
+  - text: "(usually in the plural) A testicle."
 ---
-

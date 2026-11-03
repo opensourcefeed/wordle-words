@@ -1,7 +1,42 @@
 ---
 layout: word
-title: dreys
+title: Is DREYS a Wordle Word?
+head_title: Is DREYS a Wordle Word? Yes – Valid Guess & Meaning
 word: dreys
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A squirrel’s nest, built of twigs in a tree.</li><li><strong>Definition 2:</strong> A possum’s nest, built of twigs and leaves in a tree.</li></ul></div></div>"
+description: Yes, DREYS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- dress
+- breys
+- drays
+- drees
+- dregs
+- dreks
+- greys
+- preys
+- treys
+anagrams:
+- dyers
+- yerds
+definitions:
+- pos: noun
+  defs:
+  - text: A squirrel’s nest, built of twigs in a tree.
+  - text: A possum’s nest, built of twigs and leaves in a tree.
 ---
-

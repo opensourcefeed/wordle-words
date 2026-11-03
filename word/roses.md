@@ -1,7 +1,69 @@
 ---
 layout: word
-title: roses
+title: Is ROSES a Wordle Word?
+head_title: Is ROSES a Wordle Word? Yes – Valid Guess & Meaning
 word: roses
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹoʊzɨz̥/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shrub of the genus Rosa, with red, pink, white or yellow flowers.</li><li><strong>Definition 2:</strong> A flower of the rose plant.</li><li><strong>Definition 3:</strong> A plant or species in the rose family. (Rosaceae)</li><li><strong>Definition 4:</strong> Something resembling a rose flower.</li><li><strong>Definition 5:</strong> The rose flower, usually depicted with five petals, five barbs, and a circular seed.</li><li><strong>Definition 6:</strong> A purplish-red or pink colour, the colour of some rose flowers.</li><li><strong>Definition 7:</strong> A round nozzle for a sprinkling can or hose.</li><li><strong>Definition 8:</strong> The base of a light socket.</li><li><strong>Definition 9:</strong> Any of various large, red-bodied, papilionid butterflies of the genus Pachliopta.</li><li><strong>Definition 10:</strong> Any of various flower-like polar graphs of sinusoids or their squares.</li><li><strong>Definition 11:</strong> A graph with only one vertex.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make rose-coloured; to redden or flush.</li><li><strong>Definition 2:</strong> To perfume, as with roses.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pale pink wine made by removing the dark grape skins at the required point during fermentation.</li></ul></div></div>"
+description: Yes, ROSES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- coses
+- doses
+- hoses
+- koses
+- loses
+- moses
+- noses
+- ooses
+- poses
+- rases
+- reses
+- rises
+anagrams:
+- sores
+trap:
+  pattern: RO_ES
+  count: 13
+phonetic: "/ɹoʊzɨz̥/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shrub of the genus Rosa, with red, pink, white or yellow flowers.
+  - text: A flower of the rose plant.
+  - text: A plant or species in the rose family. (Rosaceae)
+  - text: Something resembling a rose flower.
+  - text: The rose flower, usually depicted with five petals, five barbs, and a circular
+      seed.
+  - text: A purplish-red or pink colour, the colour of some rose flowers.
+  - text: A round nozzle for a sprinkling can or hose.
+  - text: The base of a light socket.
+  - text: Any of various large, red-bodied, papilionid butterflies of the genus Pachliopta.
+  - text: Any of various flower-like polar graphs of sinusoids or their squares.
+  - text: A graph with only one vertex.
+- pos: verb
+  defs:
+  - text: To make rose-coloured; to redden or flush.
+  - text: To perfume, as with roses.
+- pos: noun
+  defs:
+  - text: A pale pink wine made by removing the dark grape skins at the required point
+      during fermentation.
 ---
-

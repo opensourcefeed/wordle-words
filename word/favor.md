@@ -1,7 +1,58 @@
 ---
 layout: word
-title: favor
+title: Is FAVOR a Wordle Word?
+head_title: 'Is FAVOR a Wordle Word? Yes – Past Answer #207 & Meaning'
 word: favor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfeɪvə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind or helpful deed; an instance of voluntarily assisting (someone).<p><strong>Example:</strong> He did me a favor when he took the time to drive me home.</p></li><li><strong>Definition 2:</strong> Goodwill; benevolent regard.<p><strong>Example:</strong> She enjoyed the queen's favor.</p></li><li><strong>Definition 3:</strong> A small gift; a party favor.<p><strong>Example:</strong> A marriage favour is a bunch or knot of white ribbons or white flowers worn at a wedding.</p></li><li><strong>Definition 4:</strong> Mildness or mitigation of punishment; lenity.</li><li><strong>Definition 5:</strong> The object of regard; person or thing favoured.</li><li><strong>Definition 6:</strong> Appearance; look; countenance; face.</li><li><strong>Definition 7:</strong> Partiality; bias.</li><li><strong>Definition 8:</strong> A letter, a written communication.</li><li><strong>Definition 9:</strong> Anything worn publicly as a pledge of a woman's favor.</li><li><strong>Definition 10:</strong> (in the plural) Lovelocks.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To look upon fondly; to prefer.</li><li><strong>Definition 2:</strong> To encourage, conduce to</li><li><strong>Definition 3:</strong> To do a favor [noun sense 1] for; to show beneficence toward.<p><strong>Example:</strong> Would you favor us with a poetry reading?</p></li><li><strong>Definition 4:</strong> To treat with care.<p><strong>Example:</strong> Favoring your sore leg will only injure the other one.</p></li><li><strong>Definition 5:</strong> (including) To resemble, to look like (another person).</li></ul></div></div>"
+description: Yes, FAVOR is a valid Wordle word. It was the Wordle answer on January
+  12, 2022 (#207). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 12, 2022 (#207).
+past_answers:
+- date: '2022-01-12'
+  number: 207
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- savor
+- faver
+phonetic: "/ˈfeɪvə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A kind or helpful deed; an instance of voluntarily assisting (someone).
+    example: He did me a favor when he took the time to drive me home.
+  - text: Goodwill; benevolent regard.
+    example: She enjoyed the queen's favor.
+  - text: A small gift; a party favor.
+    example: A marriage favour is a bunch or knot of white ribbons or white flowers
+      worn at a wedding.
+  - text: Mildness or mitigation of punishment; lenity.
+  - text: The object of regard; person or thing favoured.
+  - text: Appearance; look; countenance; face.
+  - text: Partiality; bias.
+  - text: A letter, a written communication.
+  - text: Anything worn publicly as a pledge of a woman's favor.
+  - text: "(in the plural) Lovelocks."
+- pos: verb
+  defs:
+  - text: To look upon fondly; to prefer.
+  - text: To encourage, conduce to
+  - text: To do a favor [noun sense 1] for; to show beneficence toward.
+    example: Would you favor us with a poetry reading?
+  - text: To treat with care.
+    example: Favoring your sore leg will only injure the other one.
+  - text: "(including) To resemble, to look like (another person)."
 ---
-

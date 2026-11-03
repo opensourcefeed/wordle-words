@@ -1,7 +1,72 @@
 ---
 layout: word
-title: camps
+title: Is CAMPS a Wordle Word?
+head_title: Is CAMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: camps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kæmps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An outdoor place acting as temporary accommodation in tents or other temporary structures.</li><li><strong>Definition 2:</strong> An organised event, often taking place in tents or temporary accommodation.</li><li><strong>Definition 3:</strong> A base of a military group, not necessarily temporary.</li><li><strong>Definition 4:</strong> A single hut or shelter.<p><strong>Example:</strong> a hunter's camp</p></li><li><strong>Definition 5:</strong> The company or body of persons encamped.</li><li><strong>Definition 6:</strong> A group of people with the same strong ideals or political leanings.</li><li><strong>Definition 7:</strong> Campus</li><li><strong>Definition 8:</strong> A summer camp.</li><li><strong>Definition 9:</strong> A prison.</li><li><strong>Definition 10:</strong> A mound of earth in which potatoes and other vegetables are stored for protection against frost</li><li><strong>Definition 11:</strong> Conflict; battle.</li><li><strong>Definition 12:</strong> An ancient game of football, played in some parts of England.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To live in a tent or similar temporary accommodation.<p><strong>Example:</strong> We're planning to camp in the field until Sunday.</p></li><li><strong>Definition 2:</strong> To set up a camp.</li><li><strong>Definition 3:</strong> To afford rest or lodging for.</li><li><strong>Definition 4:</strong> To stay in an advantageous location in a video game, such as next to a power-up's spawning point or in order to guard an area.<p><strong>Example:</strong> Go and camp the flag for the win.</p></li><li><strong>Definition 5:</strong> To fight; contend in battle or in any kind of contest; to strive with others in doing anything; compete.</li><li><strong>Definition 6:</strong> To wrangle; argue.</li></ul></div></div>"
+description: Yes, CAMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- calps
+- camas
+- cames
+- camis
+- camos
+- campi
+- campo
+- campy
+- camus
+- carps
+- caups
+- comps
+anagrams:
+- scamp
+trap:
+  pattern: _AMPS
+  count: 8
+phonetic: "/kæmps/"
+definitions:
+- pos: noun
+  defs:
+  - text: An outdoor place acting as temporary accommodation in tents or other temporary
+      structures.
+  - text: An organised event, often taking place in tents or temporary accommodation.
+  - text: A base of a military group, not necessarily temporary.
+  - text: A single hut or shelter.
+    example: a hunter's camp
+  - text: The company or body of persons encamped.
+  - text: A group of people with the same strong ideals or political leanings.
+  - text: Campus
+  - text: A summer camp.
+  - text: A prison.
+  - text: A mound of earth in which potatoes and other vegetables are stored for protection
+      against frost
+  - text: Conflict; battle.
+  - text: An ancient game of football, played in some parts of England.
+- pos: verb
+  defs:
+  - text: To live in a tent or similar temporary accommodation.
+    example: We're planning to camp in the field until Sunday.
+  - text: To set up a camp.
+  - text: To afford rest or lodging for.
+  - text: To stay in an advantageous location in a video game, such as next to a power-up's
+      spawning point or in order to guard an area.
+    example: Go and camp the flag for the win.
+  - text: To fight; contend in battle or in any kind of contest; to strive with others
+      in doing anything; compete.
+  - text: To wrangle; argue.
 ---
-

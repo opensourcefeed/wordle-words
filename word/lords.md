@@ -1,7 +1,59 @@
 ---
 layout: word
-title: lords
+title: Is LORDS a Wordle Word?
+head_title: Is LORDS a Wordle Word? Yes – Valid Guess & Meaning
 word: lords
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lɔːdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The master of the servants of a household; the master of a feudal manor</li><li><strong>Definition 2:</strong> One possessing similar mastery over others; any feudal superior generally; any nobleman or aristocrat; any chief, prince, or sovereign ruler; in Scotland, a male member of the lowest rank of nobility (the equivalent rank in England is baron)</li><li><strong>Definition 3:</strong> One possessing similar mastery in figurative senses (esp. as lord of ~)</li><li><strong>Definition 4:</strong> The heavenly body considered to possess a dominant influence over an event, time, etc.</li><li><strong>Definition 5:</strong> A hunchback.</li><li><strong>Definition 6:</strong> (via Cockney rhyming slang) Sixpence.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Domineer or act like a lord.</li><li><strong>Definition 2:</strong> To invest with the dignity, power, and privileges of a lord; to grant the title of lord.</li></ul></div></div>"
+description: Yes, LORDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- bords
+- cords
+- fords
+- lards
+- loads
+- loids
+- lordy
+- lores
+- loris
+- sords
+- words
+trap:
+  pattern: _ORDS
+  count: 6
+phonetic: "/lɔːdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The master of the servants of a household; the master of a feudal manor
+  - text: One possessing similar mastery over others; any feudal superior generally;
+      any nobleman or aristocrat; any chief, prince, or sovereign ruler; in Scotland,
+      a male member of the lowest rank of nobility (the equivalent rank in England
+      is baron)
+  - text: One possessing similar mastery in figurative senses (esp. as lord of ~)
+  - text: The heavenly body considered to possess a dominant influence over an event,
+      time, etc.
+  - text: A hunchback.
+  - text: "(via Cockney rhyming slang) Sixpence."
+- pos: verb
+  defs:
+  - text: Domineer or act like a lord.
+  - text: To invest with the dignity, power, and privileges of a lord; to grant the
+      title of lord.
 ---
-

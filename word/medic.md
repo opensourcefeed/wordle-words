@@ -1,7 +1,48 @@
 ---
 layout: word
-title: medic
+title: Is MEDIC a Wordle Word?
+head_title: 'Is MEDIC a Wordle Word? Yes – Past Answer #1148 & Meaning'
 word: medic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A doctor.</li><li><strong>Definition 2:</strong> A paramedic, someone with special training in first aid, especially in the military.</li><li><strong>Definition 3:</strong> A medical student.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or pertaining to medicines; medical.</li></ul></div></div>"
+description: Yes, MEDIC is a valid Wordle word. It was the Wordle answer on August
+  10, 2024 (#1148). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 10, 2024 (#1148).
+past_answers:
+- date: '2024-08-10'
+  number: 1148
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- media
+- medii
+- medin
+- melic
+- memic
+- mesic
+- metic
+anagrams:
+- decim
+- demic
+definitions:
+- pos: noun
+  defs:
+  - text: A doctor.
+  - text: A paramedic, someone with special training in first aid, especially in the
+      military.
+  - text: A medical student.
+- pos: adjective
+  defs:
+  - text: Of or pertaining to medicines; medical.
 ---
-

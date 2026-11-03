@@ -1,7 +1,48 @@
 ---
 layout: word
-title: spree
+title: Is SPREE a Wordle Word?
+head_title: Is SPREE a Wordle Word? Yes – Possible Answer & Meaning
 word: spree
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spɹiː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A merry frolic; especially, a drinking frolic.</li><li><strong>Definition 2:</strong> Uninhibited activity.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To engage in a spree.</li></ul></div></div>"
+description: Yes, SPREE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- scree
+- saree
+- siree
+- soree
+- spred
+- sprew
+- sprue
+anagrams:
+- peers
+- peres
+- perse
+- prees
+- prese
+- speer
+phonetic: "/spɹiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A merry frolic; especially, a drinking frolic.
+  - text: Uninhibited activity.
+- pos: verb
+  defs:
+  - text: To engage in a spree.
 ---
-

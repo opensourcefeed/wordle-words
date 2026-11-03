@@ -1,7 +1,33 @@
 ---
 layout: word
-title: zorro
+title: Is ZORRO a Wordle Word?
+head_title: Is ZORRO a Wordle Word? Yes – Valid Guess & Meaning
 word: zorro
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A South American canid of the genus Lycalopex, visually similar to (and sometimes referred to as) a fox but more closely related to a wolf.</li></ul></div></div>"
+description: Yes, ZORRO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - O
+  - R
+  common:
+  - O
+  - R
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- morro
+definitions:
+- pos: noun
+  defs:
+  - text: A South American canid of the genus Lycalopex, visually similar to (and
+      sometimes referred to as) a fox but more closely related to a wolf.
 ---
-

@@ -1,9 +1,68 @@
 ---
 layout: word
-title: fucks
+title: Is FUCKS a Wordle Word?
+head_title: Is FUCKS a Wordle Word? Yes – Valid Guess & Meaning
 word: fucks
+description: Yes, FUCKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fʌks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of sexual intercourse.</li><li><strong>Definition 2:</strong> A sexual partner, especially a casual one.</li><li><strong>Definition 3:</strong> A highly contemptible person.</li><li><strong>Definition 4:</strong> A thing of no value, a small amount.<p><strong>Example:</strong> I don't give a fuck.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To have sexual intercourse, to copulate.<p><strong>Example:</strong> Fighting for peace is like fucking for virginity.</p></li><li><strong>Definition 2:</strong> To have sexual intercourse with.</li><li><strong>Definition 3:</strong> To insert one’s penis, a dildo or other phallic object, into a specified orifice or cleft.</li><li><strong>Definition 4:</strong> To put in an extremely difficult or impossible situation.<p><strong>Example:</strong> I'm afraid they're gonna fuck you on this one.</p></li><li><strong>Definition 5:</strong> To defraud, deface or otherwise treat badly.<p><strong>Example:</strong> I got fucked at the used car lot.</p></li><li><strong>Definition 6:</strong> Used to express great displeasure with someone or something.<p><strong>Example:</strong> Fuck those jerks, and fuck their stupid rules!</p></li><li><strong>Definition 7:</strong> (usually followed by up) To break, to destroy.</li><li><strong>Definition 8:</strong> To make a joke at one's expense; to make fun of in an embarrassing manner.</li><li><strong>Definition 9:</strong> To throw, to lob something. (angrily)<p><strong>Example:</strong> He fucked the dirty cloth out the window.</p></li><li><strong>Definition 10:</strong> To scold<p><strong>Example:</strong> The sergeant fucked me upside down.</p></li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- bucks
+- cucks
+- ducks
+- fecks
+- fucus
+- funks
+- fusks
+- gucks
+- hucks
+- lucks
+- mucks
+- pucks
+trap:
+  pattern: _UCKS
+  count: 13
+phonetic: "/fʌks/"
+definitions:
+- pos: noun
+  defs:
+  - text: An act of sexual intercourse.
+  - text: A sexual partner, especially a casual one.
+  - text: A highly contemptible person.
+  - text: A thing of no value, a small amount.
+    example: I don't give a fuck.
+- pos: verb
+  defs:
+  - text: To have sexual intercourse, to copulate.
+    example: Fighting for peace is like fucking for virginity.
+  - text: To have sexual intercourse with.
+  - text: To insert one’s penis, a dildo or other phallic object, into a specified
+      orifice or cleft.
+  - text: To put in an extremely difficult or impossible situation.
+    example: I'm afraid they're gonna fuck you on this one.
+  - text: To defraud, deface or otherwise treat badly.
+    example: I got fucked at the used car lot.
+  - text: Used to express great displeasure with someone or something.
+    example: Fuck those jerks, and fuck their stupid rules!
+  - text: "(usually followed by up) To break, to destroy."
+  - text: To make a joke at one's expense; to make fun of in an embarrassing manner.
+  - text: To throw, to lob something. (angrily)
+    example: He fucked the dirty cloth out the window.
+  - text: To scold
+    example: The sergeant fucked me upside down.
 ---
-

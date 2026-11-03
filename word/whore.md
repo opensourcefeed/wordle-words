@@ -1,9 +1,67 @@
 ---
 layout: word
-title: whore
+title: Is WHORE a Wordle Word?
+head_title: Is WHORE a Wordle Word? Yes – Valid Guess & Meaning
 word: whore
+description: Yes, WHORE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɔː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any person (especially a woman) who has sexual intercourse or engages in other sexual activity for payment, especially as a means of livelihood.</li><li><strong>Definition 2:</strong> A person who does, or offers to do, a demeaning or dishonourable activity for money or personal gain; someone who acts in a dishonourable way for personal advantage.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who is sexually promiscuous; a slut.</li><li><strong>Definition 2:</strong> A person who is unscrupulous, especially one who compromises their principles for gain.</li><li><strong>Definition 3:</strong> A person who will violate behavioral standards to achieve something desired.</li><li><strong>Definition 4:</strong> A contemptible person.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prostitute oneself.</li><li><strong>Definition 2:</strong> To engage the services of a prostitute.</li><li><strong>Definition 3:</strong> To pimp; to pander.</li><li><strong>Definition 4:</strong> To promote shamelessly.<p><strong>Example:</strong> Did you see him on that chat show, whoring his new book?</p></li><li><strong>Definition 5:</strong> To pursue false gods.</li><li><strong>Definition 6:</strong> To pursue false goals.</li><li><strong>Definition 7:</strong> To overuse something.<p><strong>Example:</strong> BTW, that guy whuz still an asshole - camping the BFG and whoring the quad - I usually leave BFG maps but stuck around on that one and suicided quite a bit (3 times I got to about -10 frags, then came back to 0...).</p></li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- chore
+- shore
+- where
+- whole
+- whose
+- whare
+- whorl
+- whort
+anagrams:
+- howre
+phonetic: "/hɔː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any person (especially a woman) who has sexual intercourse or engages in
+      other sexual activity for payment, especially as a means of livelihood.
+  - text: A person who does, or offers to do, a demeaning or dishonourable activity
+      for money or personal gain; someone who acts in a dishonourable way for personal
+      advantage.
+- pos: noun
+  defs:
+  - text: A person who is sexually promiscuous; a slut.
+  - text: A person who is unscrupulous, especially one who compromises their principles
+      for gain.
+  - text: A person who will violate behavioral standards to achieve something desired.
+  - text: A contemptible person.
+- pos: verb
+  defs:
+  - text: To prostitute oneself.
+  - text: To engage the services of a prostitute.
+  - text: To pimp; to pander.
+  - text: To promote shamelessly.
+    example: Did you see him on that chat show, whoring his new book?
+  - text: To pursue false gods.
+  - text: To pursue false goals.
+  - text: To overuse something.
+    example: BTW, that guy whuz still an asshole - camping the BFG and whoring the
+      quad - I usually leave BFG maps but stuck around on that one and suicided quite
+      a bit (3 times I got to about -10 frags, then came back to 0...).
 ---
-

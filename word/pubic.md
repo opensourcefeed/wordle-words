@@ -1,7 +1,32 @@
 ---
 layout: word
-title: pubic
+title: Is PUBIC a Wordle Word?
+head_title: Is PUBIC a Wordle Word? Yes – Possible Answer & Meaning
 word: pubic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpjuːbɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, or relating to the area of the body adjacent to the pubis or the pubes.</li></ul></div></div>"
+description: Yes, PUBIC is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- cubic
+- pubis
+- pudic
+phonetic: "/ˈpjuːbɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of, or relating to the area of the body adjacent to the pubis or the pubes.
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: refer
+title: Is REFER a Wordle Word?
+head_title: 'Is REFER a Wordle Word? Yes – Past Answer #1126 & Meaning'
 word: refer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈfɜː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To direct the attention of.</li><li><strong>Definition 2:</strong> To submit to (another person or group) for consideration; to send or direct elsewhere.</li><li><strong>Definition 3:</strong> To place in or under by a mental or rational process; to assign to, as a class, a cause, source, a motive, reason, or ground of explanation.</li><li><strong>Definition 4:</strong> (construed with to) To allude to, make a reference or allusion to.</li><li><strong>Definition 5:</strong> (grammar) To be referential to another element in a sentence.</li><li><strong>Definition 6:</strong> To address a specific location in computer memory.</li><li><strong>Definition 7:</strong> Required to resit an examination.</li></ul></div></div>"
+description: Yes, REFER is a valid Wordle word. It was the Wordle answer on July 19,
+  2024 (#1126). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 19, 2024 (#1126).
+past_answers:
+- date: '2024-07-19'
+  number: 1126
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - R
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- defer
+- refed
+- refel
+- rifer
+- sefer
+anagrams:
+- freer
+- ferer
+- frere
+phonetic: "/ɹɪˈfɜː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To direct the attention of.
+  - text: To submit to (another person or group) for consideration; to send or direct
+      elsewhere.
+  - text: To place in or under by a mental or rational process; to assign to, as a
+      class, a cause, source, a motive, reason, or ground of explanation.
+  - text: "(construed with to) To allude to, make a reference or allusion to."
+  - text: "(grammar) To be referential to another element in a sentence."
+  - text: To address a specific location in computer memory.
+  - text: Required to resit an examination.
 ---
-

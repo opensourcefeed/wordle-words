@@ -1,7 +1,54 @@
 ---
 layout: word
-title: razed
+title: Is RAZED a Wordle Word?
+head_title: Is RAZED a Wordle Word? Yes – Valid Guess & Meaning
 word: razed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To demolish; to level to the ground.</li><li><strong>Definition 2:</strong> To scrape as if with a razor.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Slashed or striped in patterns.</li></ul></div></div>"
+description: Yes, RAZED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- dazed
+- fazed
+- gazed
+- hazed
+- lazed
+- mazed
+- raced
+- raged
+- rahed
+- raked
+- raned
+- raped
+anagrams:
+- dazer
+- zerda
+trap:
+  pattern: RA_ED
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: To demolish; to level to the ground.
+  - text: To scrape as if with a razor.
+- pos: adjective
+  defs:
+  - text: Slashed or striped in patterns.
 ---
-

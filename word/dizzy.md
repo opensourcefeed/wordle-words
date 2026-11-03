@@ -1,7 +1,47 @@
 ---
 layout: word
-title: dizzy
+title: Is DIZZY a Wordle Word?
+head_title: 'Is DIZZY a Wordle Word? Yes – Past Answer #1714 & Meaning'
 word: dizzy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɪzi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make dizzy, to bewilder.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a sensation of whirling, with a tendency to fall; giddy; feeling unbalanced or lightheaded.<p><strong>Example:</strong> I stood up too fast and felt dizzy.</p></li><li><strong>Definition 2:</strong> Producing giddiness.<p><strong>Example:</strong> We climbed to a dizzy height.</p></li><li><strong>Definition 3:</strong> Empty-headed, scatterbrained or frivolous; ditzy.<p><strong>Example:</strong> My new secretary is a dizzy blonde.</p></li></ul></div></div>"
+description: Yes, DIZZY is a valid Wordle word. It was the Wordle answer on February
+  27, 2026 (#1714). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 27, 2026 (#1714).
+past_answers:
+- date: '2026-02-27'
+  number: 1714
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - Z
+  common:
+  - I
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- fizzy
+- bizzy
+- ditzy
+- mizzy
+- tizzy
+phonetic: "/ˈdɪzi/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make dizzy, to bewilder.
+- pos: adjective
+  defs:
+  - text: Having a sensation of whirling, with a tendency to fall; giddy; feeling
+      unbalanced or lightheaded.
+    example: I stood up too fast and felt dizzy.
+  - text: Producing giddiness.
+    example: We climbed to a dizzy height.
+  - text: Empty-headed, scatterbrained or frivolous; ditzy.
+    example: My new secretary is a dizzy blonde.
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: facts
+title: Is FACTS a Wordle Word?
+head_title: Is FACTS a Wordle Word? Yes – Valid Guess & Meaning
 word: facts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something actual as opposed to invented.<p><strong>Example:</strong> In this story, the Gettysburg Address is a fact, but the rest is fiction.</p></li><li><strong>Definition 2:</strong> Something which is real.<p><strong>Example:</strong> Gravity is a fact, not a theory.</p></li><li><strong>Definition 3:</strong> Something concrete used as a basis for further interpretation.<p><strong>Example:</strong> Let's look at the facts of the case before deciding.</p></li><li><strong>Definition 4:</strong> An objective consensus on a fundamental reality that has been agreed upon by a substantial number of experts.<p><strong>Example:</strong> There is no doubting the fact that the Earth orbits the Sun.</p></li><li><strong>Definition 5:</strong> Information about a particular subject, especially actual conditions and/or circumstances.<p><strong>Example:</strong> The facts about space travel.</p></li><li><strong>Definition 6:</strong> An individual value or measurement at the lowest level of granularity in a data warehouse.</li><li><strong>Definition 7:</strong> Action; the realm of action.</li><li><strong>Definition 8:</strong> A wrongful or criminal deed.<p><strong>Example:</strong> He had become an accessory after the fact.</p></li><li><strong>Definition 9:</strong> A feat or meritorious deed.</li></ul></div></div>"
+description: Yes, FACTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- faces
+- facta
+- facto
+- facty
+- farts
+- fasts
+- fauts
+- pacts
+- tacts
+phonetic: "/fæks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something actual as opposed to invented.
+    example: In this story, the Gettysburg Address is a fact, but the rest is fiction.
+  - text: Something which is real.
+    example: Gravity is a fact, not a theory.
+  - text: Something concrete used as a basis for further interpretation.
+    example: Let's look at the facts of the case before deciding.
+  - text: An objective consensus on a fundamental reality that has been agreed upon
+      by a substantial number of experts.
+    example: There is no doubting the fact that the Earth orbits the Sun.
+  - text: Information about a particular subject, especially actual conditions and/or
+      circumstances.
+    example: The facts about space travel.
+  - text: An individual value or measurement at the lowest level of granularity in
+      a data warehouse.
+  - text: Action; the realm of action.
+  - text: A wrongful or criminal deed.
+    example: He had become an accessory after the fact.
+  - text: A feat or meritorious deed.
 ---
-

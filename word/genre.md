@@ -1,7 +1,42 @@
 ---
 layout: word
-title: genre
+title: Is GENRE a Wordle Word?
+head_title: 'Is GENRE a Wordle Word? Yes – Past Answer #896 & Meaning'
 word: genre
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /(d)ʒɒn.ɹə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind; a stylistic category or sort, especially of literature or other artworks.<p><strong>Example:</strong> The computer game Half-Life redefined the first-person shooter genre.</p></li></ul></div></div>"
+description: Yes, GENRE is a valid Wordle word. It was the Wordle answer on December
+  2, 2023 (#896). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 2, 2023 (#896).
+past_answers:
+- date: '2023-12-02'
+  number: 896
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- genie
+- geare
+- genae
+- genro
+anagrams:
+- green
+- gerne
+phonetic: "/(d)ʒɒn.ɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A kind; a stylistic category or sort, especially of literature or other
+      artworks.
+    example: The computer game Half-Life redefined the first-person shooter genre.
 ---
-

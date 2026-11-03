@@ -1,7 +1,49 @@
 ---
 layout: word
-title: uncle
+title: Is UNCLE a Wordle Word?
+head_title: 'Is UNCLE a Wordle Word? Yes – Past Answer #846 & Meaning'
 word: uncle
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʌŋ.kəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The brother or brother-in-law of one’s parent.</li><li><strong>Definition 2:</strong> The male cousin of one’s parent.</li><li><strong>Definition 3:</strong> A companion to one's (usually unmarried) mother.</li><li><strong>Definition 4:</strong> A source of advice, encouragement, or help.</li><li><strong>Definition 5:</strong> A pawnbroker.</li><li><strong>Definition 6:</strong> An affectionate term for a man of an older generation than oneself, especially a friend of one's parents, by means of fictive kin.</li><li><strong>Definition 7:</strong> An older male African-American person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To address somebody by the term uncle.</li><li><strong>Definition 2:</strong> To act like, or as, an uncle.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A cry used to indicate surrender.</li></ul></div></div>"
+description: Yes, UNCLE is a valid Wordle word. It was the Wordle answer on October
+  13, 2023 (#846). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 13, 2023 (#846).
+past_answers:
+- date: '2023-10-13'
+  number: 846
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- ancle
+- incle
+phonetic: "/ˈʌŋ.kəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The brother or brother-in-law of one’s parent.
+  - text: The male cousin of one’s parent.
+  - text: A companion to one's (usually unmarried) mother.
+  - text: A source of advice, encouragement, or help.
+  - text: A pawnbroker.
+  - text: An affectionate term for a man of an older generation than oneself, especially
+      a friend of one's parents, by means of fictive kin.
+  - text: An older male African-American person.
+- pos: verb
+  defs:
+  - text: To address somebody by the term uncle.
+  - text: To act like, or as, an uncle.
+- pos: interjection
+  defs:
+  - text: A cry used to indicate surrender.
 ---
-

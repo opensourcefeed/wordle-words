@@ -1,7 +1,71 @@
 ---
 layout: word
-title: brass
+title: Is BRASS a Wordle Word?
+head_title: 'Is BRASS a Wordle Word? Yes – Past Answer #1181 & Meaning'
 word: brass
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹɑːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A metallic alloy of copper and zinc used in many industrial and plumbing applications.</li><li><strong>Definition 2:</strong> A class of wind instruments, usually made of metal (such as brass), that use vibrations of the player's lips to produce sound; the section of an orchestra that features such instruments</li><li><strong>Definition 3:</strong> Spent shell casings (usually made of brass); the part of the cartridge left over after bullets have been fired.</li><li><strong>Definition 4:</strong> The colour of brass.</li><li><strong>Definition 5:</strong> (used as a singular or plural noun, metonym) High-ranking officers.<p><strong>Example:</strong> The brass are not going to like this.</p></li><li><strong>Definition 6:</strong> A brave or foolhardy attitude; impudence.<p><strong>Example:</strong> You've got a lot of brass telling me to do that!</p></li><li><strong>Definition 7:</strong> Money.</li><li><strong>Definition 8:</strong> Inferior composition.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To coat with brass.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made of brass, of or pertaining to brass.</li><li><strong>Definition 2:</strong> Of the colour of brass.</li><li><strong>Definition 3:</strong> Impertinent, bold: brazen.</li><li><strong>Definition 4:</strong> Bad, annoying; as wordplay applied especially to brass instruments.</li><li><strong>Definition 5:</strong> Of inferior composition.</li></ul></div></div>"
+description: Yes, BRASS is a valid Wordle word. It was the Wordle answer on September
+  12, 2024 (#1181). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 12, 2024 (#1181).
+past_answers:
+- date: '2024-09-12'
+  number: 1181
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- brash
+- crass
+- grass
+- brads
+- braes
+- brags
+- brahs
+- braks
+- brans
+- brast
+- brats
+- braws
+trap:
+  pattern: BRA_S
+  count: 10
+phonetic: "/bɹɑːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A metallic alloy of copper and zinc used in many industrial and plumbing
+      applications.
+  - text: A class of wind instruments, usually made of metal (such as brass), that
+      use vibrations of the player's lips to produce sound; the section of an orchestra
+      that features such instruments
+  - text: Spent shell casings (usually made of brass); the part of the cartridge left
+      over after bullets have been fired.
+  - text: The colour of brass.
+  - text: "(used as a singular or plural noun, metonym) High-ranking officers."
+    example: The brass are not going to like this.
+  - text: A brave or foolhardy attitude; impudence.
+    example: You've got a lot of brass telling me to do that!
+  - text: Money.
+  - text: Inferior composition.
+- pos: verb
+  defs:
+  - text: To coat with brass.
+- pos: adjective
+  defs:
+  - text: Made of brass, of or pertaining to brass.
+  - text: Of the colour of brass.
+  - text: 'Impertinent, bold: brazen.'
+  - text: Bad, annoying; as wordplay applied especially to brass instruments.
+  - text: Of inferior composition.
 ---
-

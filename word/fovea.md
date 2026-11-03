@@ -1,7 +1,34 @@
 ---
 layout: word
-title: fovea
+title: Is FOVEA a Wordle Word?
+head_title: Is FOVEA a Wordle Word? Yes – Valid Guess & Meaning
 word: fovea
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfəʊ.vi.ə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slight depression or pit in a bone or organ.</li><li><strong>Definition 2:</strong> The retinal fovea, or fovea centralis, responsible for sharp central vision.</li></ul></div></div>"
+description: Yes, FOVEA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- hovea
+phonetic: "/ˈfəʊ.vi.ə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A slight depression or pit in a bone or organ.
+  - text: The retinal fovea, or fovea centralis, responsible for sharp central vision.
 ---
-

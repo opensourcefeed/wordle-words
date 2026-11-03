@@ -1,7 +1,41 @@
 ---
 layout: word
-title: bruhs
+title: Is BRUHS a Wordle Word?
+head_title: Is BRUHS a Wordle Word? Yes – Valid Guess & Meaning
 word: bruhs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Brother; a male sibling</li><li><strong>Definition 2:</strong> Brother; a male comrade or friend; one who shares one’s ideals.</li><li><strong>Definition 3:</strong> Brother; usually used to address a male</li><li><strong>Definition 4:</strong> Fratboy or someone that espouses the fraternity bro culture</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The rhesus macaque.</li></ul></div></div>"
+description: Yes, BRUHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- brahs
+- bruts
+- bruvs
+anagrams:
+- brush
+- shrub
+- buhrs
+definitions:
+- pos: noun
+  defs:
+  - text: Brother; a male sibling
+  - text: Brother; a male comrade or friend; one who shares one’s ideals.
+  - text: Brother; usually used to address a male
+  - text: Fratboy or someone that espouses the fraternity bro culture
+- pos: noun
+  defs:
+  - text: The rhesus macaque.
 ---
-

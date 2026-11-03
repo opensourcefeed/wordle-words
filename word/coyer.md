@@ -1,7 +1,51 @@
 ---
 layout: word
-title: coyer
+title: Is COYER a Wordle Word?
+head_title: Is COYER a Wordle Word? Yes – Valid Guess & Meaning
 word: coyer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Bashful, shy, retiring.</li><li><strong>Definition 2:</strong> Quiet, reserved, modest.</li><li><strong>Definition 3:</strong> Reluctant to give details about something sensitive; notably prudish.</li><li><strong>Definition 4:</strong> Pretending shyness or modesty, especially in an insincere or flirtatious way.</li><li><strong>Definition 5:</strong> Soft, gentle, hesitating.</li></ul></div></div>"
+description: Yes, COYER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- corer
+- cover
+- cower
+- foyer
+- coder
+- comer
+- cooer
+- coper
+- coyed
+- cryer
+- toyer
+anagrams:
+- corey
+trap:
+  pattern: CO_ER
+  count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Bashful, shy, retiring.
+  - text: Quiet, reserved, modest.
+  - text: Reluctant to give details about something sensitive; notably prudish.
+  - text: Pretending shyness or modesty, especially in an insincere or flirtatious
+      way.
+  - text: Soft, gentle, hesitating.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: erect
+title: Is ERECT a Wordle Word?
+head_title: Is ERECT a Wordle Word? Yes – Possible Answer & Meaning
 word: erect
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈɹɛkt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Upright; vertical or reaching broadly upwards.</li><li><strong>Definition 2:</strong> (of body parts) Rigid, firm; standing out perpendicularly, especially as the result of stimulation.<p><strong>Example:</strong> The penis should be fully erect before commencing copulation.</p></li><li><strong>Definition 3:</strong> (of a man) Having an erect penis<p><strong>Example:</strong> OK, baby, I'm erect now. Let's get it on!</p></li><li><strong>Definition 4:</strong> Bold; confident; free from depression; undismayed.</li><li><strong>Definition 5:</strong> Directed upward; raised; uplifted.</li><li><strong>Definition 6:</strong> Watchful; alert.</li><li><strong>Definition 7:</strong> Elevated, as the tips of wings, heads of serpents, etc.</li></ul></div></div>"
+description: Yes, ERECT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- eject
+- elect
+- eruct
+anagrams:
+- recte
+- terce
+phonetic: "/ɪˈɹɛkt/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Upright; vertical or reaching broadly upwards.
+  - text: "(of body parts) Rigid, firm; standing out perpendicularly, especially as
+      the result of stimulation."
+    example: The penis should be fully erect before commencing copulation.
+  - text: "(of a man) Having an erect penis"
+    example: OK, baby, I'm erect now. Let's get it on!
+  - text: Bold; confident; free from depression; undismayed.
+  - text: Directed upward; raised; uplifted.
+  - text: Watchful; alert.
+  - text: Elevated, as the tips of wings, heads of serpents, etc.
 ---
-

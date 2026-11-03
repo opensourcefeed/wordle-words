@@ -1,7 +1,77 @@
 ---
 layout: word
-title: cares
+title: Is CARES a Wordle Word?
+head_title: Is CARES a Wordle Word? Yes – Valid Guess & Meaning
 word: cares
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɛəz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Grief, sorrow.</li><li><strong>Definition 2:</strong> Close attention; concern; responsibility.<p><strong>Example:</strong> Care should be taken when holding babies.</p></li><li><strong>Definition 3:</strong> Worry.<p><strong>Example:</strong> I don't have a care in the world.</p></li><li><strong>Definition 4:</strong> Maintenance, upkeep.<p><strong>Example:</strong> dental care</p></li><li><strong>Definition 5:</strong> The treatment of those in need (especially as a profession).</li><li><strong>Definition 6:</strong> The state of being cared for by others.<p><strong>Example:</strong> in care</p></li><li><strong>Definition 7:</strong> The object of watchful attention or anxiety.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be concerned (about), to have an interest (in); to feel concern (about).<p><strong>Example:</strong> \"She doesn't care what you think.\" \"I don't care, I'm still going.\"</p></li><li><strong>Definition 2:</strong> (polite) To want, to desire; to like; to be inclined towards.<p><strong>Example:</strong> I don't care to hear your opinion.</p></li><li><strong>Definition 3:</strong> (with for) To look after or look out for.<p><strong>Example:</strong> He cared for his mother while she was sick.</p></li><li><strong>Definition 4:</strong> To mind; to object.</li></ul></div></div>"
+description: Yes, CARES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- bares
+- cades
+- cafes
+- cages
+- cakes
+- cames
+- canes
+- capes
+- carbs
+- cards
+- cared
+- carer
+anagrams:
+- scare
+- acers
+- acres
+- carse
+- caser
+- escar
+- races
+- sacre
+- scrae
+- serac
+trap:
+  pattern: _ARES
+  count: 14
+phonetic: "/kɛəz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Grief, sorrow.
+  - text: Close attention; concern; responsibility.
+    example: Care should be taken when holding babies.
+  - text: Worry.
+    example: I don't have a care in the world.
+  - text: Maintenance, upkeep.
+    example: dental care
+  - text: The treatment of those in need (especially as a profession).
+  - text: The state of being cared for by others.
+    example: in care
+  - text: The object of watchful attention or anxiety.
+- pos: verb
+  defs:
+  - text: To be concerned (about), to have an interest (in); to feel concern (about).
+    example: '"She doesn''t care what you think." "I don''t care, I''m still going."'
+  - text: "(polite) To want, to desire; to like; to be inclined towards."
+    example: I don't care to hear your opinion.
+  - text: "(with for) To look after or look out for."
+    example: He cared for his mother while she was sick.
+  - text: To mind; to object.
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: sneer
+title: Is SNEER a Wordle Word?
+head_title: Is SNEER a Wordle Word? Yes – Possible Answer & Meaning
 word: sneer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /snɪə̯/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A facial expression where one slightly raises one corner of the upper lip, generally indicating scorn.</li><li><strong>Definition 2:</strong> A display of contempt; scorn.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To raise a corner of the upper lip slightly, especially in scorn</li><li><strong>Definition 2:</strong> To utter with a grimace or contemptuous expression; to say sneeringly.<p><strong>Example:</strong> \"Now here's someone who should attend privilege workshops,\" sneered she.</p></li></ul></div></div>"
+description: Yes, SNEER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- sheer
+- steer
+- skeer
+- sleer
+- sneed
+- snees
+- speer
+- sweer
+anagrams:
+- ernes
+- reens
+trap:
+  pattern: S_EER
+  count: 7
+phonetic: "/snɪə̯/"
+definitions:
+- pos: noun
+  defs:
+  - text: A facial expression where one slightly raises one corner of the upper lip,
+      generally indicating scorn.
+  - text: A display of contempt; scorn.
+- pos: verb
+  defs:
+  - text: To raise a corner of the upper lip slightly, especially in scorn
+  - text: To utter with a grimace or contemptuous expression; to say sneeringly.
+    example: '"Now here''s someone who should attend privilege workshops," sneered
+      she.'
 ---
-

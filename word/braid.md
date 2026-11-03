@@ -1,7 +1,55 @@
 ---
 layout: word
-title: braid
+title: Is BRAID a Wordle Word?
+head_title: 'Is BRAID a Wordle Word? Yes – Past Answer #538 & Meaning'
 word: braid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹeɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden movement; a jerk, a wrench.</li><li><strong>Definition 2:</strong> A weave of three or more strands of fibers, ribbons, cords or hair often for decoration.</li><li><strong>Definition 3:</strong> A stranded wire composed of a number of smaller wires twisted together</li><li><strong>Definition 4:</strong> A tubular sheath made of braided strands of metal placed around a central cable for shielding against electromagnetic interference.</li><li><strong>Definition 5:</strong> A fancy; freak; caprice.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a sudden movement with, to jerk.</li><li><strong>Definition 2:</strong> To start into motion.</li><li><strong>Definition 3:</strong> To weave together, intertwine (strands of fibers, ribbons, etc.); to arrange (hair) in braids.</li><li><strong>Definition 4:</strong> To mix, or make uniformly soft, by beating, rubbing, or straining, as in preparing food.</li><li><strong>Definition 5:</strong> To reproach; to upbraid.</li></ul></div></div>"
+description: Yes, BRAID is a valid Wordle word. It was the Wordle answer on December
+  9, 2022 (#538). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 9, 2022 (#538).
+past_answers:
+- date: '2022-12-09'
+  number: 538
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- brain
+- brand
+- brail
+- breid
+anagrams:
+- rabid
+phonetic: "/bɹeɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden movement; a jerk, a wrench.
+  - text: A weave of three or more strands of fibers, ribbons, cords or hair often
+      for decoration.
+  - text: A stranded wire composed of a number of smaller wires twisted together
+  - text: A tubular sheath made of braided strands of metal placed around a central
+      cable for shielding against electromagnetic interference.
+  - text: A fancy; freak; caprice.
+- pos: verb
+  defs:
+  - text: To make a sudden movement with, to jerk.
+  - text: To start into motion.
+  - text: To weave together, intertwine (strands of fibers, ribbons, etc.); to arrange
+      (hair) in braids.
+  - text: To mix, or make uniformly soft, by beating, rubbing, or straining, as in
+      preparing food.
+  - text: To reproach; to upbraid.
 ---
-

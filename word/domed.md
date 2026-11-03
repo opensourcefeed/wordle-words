@@ -1,7 +1,45 @@
 ---
 layout: word
-title: domed
+title: Is DOMED a Wordle Word?
+head_title: Is DOMED a Wordle Word? Yes – Valid Guess & Meaning
 word: domed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> In the form of a dome.</li></ul></div></div>"
+description: Yes, DOMED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- doled
+- domes
+- doped
+- dosed
+- doted
+- doved
+- dowed
+- doxed
+- dozed
+- homed
+- lomed
+trap:
+  pattern: DO_ED
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: In the form of a dome.
 ---
-

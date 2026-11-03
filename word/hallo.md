@@ -1,7 +1,64 @@
 ---
 layout: word
-title: hallo
+title: Is HALLO a Wordle Word?
+head_title: Is HALLO a Wordle Word? Yes – Valid Guess & Meaning
 word: hallo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The cry \"hallo!\"</li><li><strong>Definition 2:</strong> A shout of exultation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shout, or to call with a loud voice.</li><li><strong>Definition 2:</strong> To chase while shouting \"hallo!\"</li><li><strong>Definition 3:</strong> To cry \"hallo\" (to someone).</li><li><strong>Definition 4:</strong> To shout (something).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A cry of surprise.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.<p><strong>Example:</strong> Hello, everyone.</p></li><li><strong>Definition 2:</strong> A greeting used when answering the telephone.<p><strong>Example:</strong> Hello? How may I help you?</p></li><li><strong>Definition 3:</strong> A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.<p><strong>Example:</strong> Hello? Is anyone there?</p></li><li><strong>Definition 4:</strong> Used sarcastically to imply that the person addressed or referred to has done something the speaker or writer considers to be foolish.<p><strong>Example:</strong> You just tried to start your car with your cell phone. Hello?</p></li><li><strong>Definition 5:</strong> An expression of puzzlement or discovery.<p><strong>Example:</strong> Hello! What’s going on here?</p></li></ul></div></div>"
+description: Yes, HALLO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- hello
+- ballo
+- halls
+- hillo
+- hollo
+- hullo
+anagrams:
+- holla
+definitions:
+- pos: noun
+  defs:
+  - text: The cry "hallo!"
+  - text: A shout of exultation.
+- pos: verb
+  defs:
+  - text: To shout, or to call with a loud voice.
+  - text: To chase while shouting "hallo!"
+  - text: To cry "hallo" (to someone).
+  - text: To shout (something).
+- pos: interjection
+  defs:
+  - text: A cry of surprise.
+- pos: interjection
+  defs:
+  - text: A greeting (salutation) said when meeting someone or acknowledging someone’s
+      arrival or presence.
+    example: Hello, everyone.
+  - text: A greeting used when answering the telephone.
+    example: Hello? How may I help you?
+  - text: A call for response if it is not clear if anyone is present or listening,
+      or if a telephone conversation may have been disconnected.
+    example: Hello? Is anyone there?
+  - text: Used sarcastically to imply that the person addressed or referred to has
+      done something the speaker or writer considers to be foolish.
+    example: You just tried to start your car with your cell phone. Hello?
+  - text: An expression of puzzlement or discovery.
+    example: Hello! What’s going on here?
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: pints
+title: Is PINTS a Wordle Word?
+head_title: Is PINTS a Wordle Word? Yes – Valid Guess & Meaning
 word: pints
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A unit of volume, equivalent to:</li><li><strong>Definition 2:</strong> (metonym) A pint of milk.<p><strong>Example:</strong> Please leave three pints tomorrow, milkman.</p></li><li><strong>Definition 3:</strong> (metonymy) A glass of beer or cider, served by the pint.</li></ul></div></div>"
+description: Yes, PINTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- pinto
+- bints
+- dints
+- hints
+- lints
+- mints
+- oints
+- pants
+- pents
+- piets
+- pinas
+- pinds
+trap:
+  pattern: _INTS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: 'A unit of volume, equivalent to:'
+  - text: "(metonym) A pint of milk."
+    example: Please leave three pints tomorrow, milkman.
+  - text: "(metonymy) A glass of beer or cider, served by the pint."
 ---
-

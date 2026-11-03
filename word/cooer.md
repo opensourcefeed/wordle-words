@@ -1,6 +1,40 @@
 ---
 layout: word
-title: cooer
+title: Is COOER a Wordle Word?
+head_title: Is COOER a Wordle Word? Yes – Valid Guess
 word: cooer
+description: Yes, COOER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- corer
+- cover
+- cower
+- wooer
+- coder
+- comer
+- cooed
+- cooee
+- cooey
+- coper
+- coyer
+trap:
+  pattern: CO_ER
+  count: 8
 ---
-

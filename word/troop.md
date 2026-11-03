@@ -1,7 +1,60 @@
 ---
 layout: word
-title: troop
+title: Is TROOP a Wordle Word?
+head_title: 'Is TROOP a Wordle Word? Yes – Past Answer #1357 & Meaning'
 word: troop
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹuːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (collective) A collection of people; a number; a multitude (in general).</li><li><strong>Definition 2:</strong> A small unit of cavalry or armour commanded by a captain, corresponding to a platoon or company of infantry.</li><li><strong>Definition 3:</strong> A detachment of soldiers or police, especially horse artillery, armour, or state troopers.</li><li><strong>Definition 4:</strong> Soldiers, military forces (usually \"troops\").</li><li><strong>Definition 5:</strong> A company of stageplayers; a troupe.</li><li><strong>Definition 6:</strong> A basic unit of girl or boy scouts, consisting of 6 to 10 youngsters.</li><li><strong>Definition 7:</strong> (collective) A group of baboons.</li><li><strong>Definition 8:</strong> A particular roll of the drum; a quick march.</li><li><strong>Definition 9:</strong> Mushrooms that are in a close group but not close enough to be called a cluster.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move in numbers; to come or gather in crowds or troops.</li><li><strong>Definition 2:</strong> To march on; to go forward in haste.</li><li><strong>Definition 3:</strong> To move or march as if in a crowd.<p><strong>Example:</strong> The children trooped into the room.</p></li></ul></div></div>"
+description: Yes, TROOP is a valid Wordle word. It was the Wordle answer on March
+  7, 2025 (#1357). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 7, 2025 (#1357).
+past_answers:
+- date: '2025-03-07'
+  number: 1357
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - T
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- droop
+- tromp
+- trooz
+anagrams:
+- poort
+- potro
+- proot
+- proto
+- tropo
+phonetic: "/tɹuːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(collective) A collection of people; a number; a multitude (in general)."
+  - text: A small unit of cavalry or armour commanded by a captain, corresponding
+      to a platoon or company of infantry.
+  - text: A detachment of soldiers or police, especially horse artillery, armour,
+      or state troopers.
+  - text: Soldiers, military forces (usually "troops").
+  - text: A company of stageplayers; a troupe.
+  - text: A basic unit of girl or boy scouts, consisting of 6 to 10 youngsters.
+  - text: "(collective) A group of baboons."
+  - text: A particular roll of the drum; a quick march.
+  - text: Mushrooms that are in a close group but not close enough to be called a
+      cluster.
+- pos: verb
+  defs:
+  - text: To move in numbers; to come or gather in crowds or troops.
+  - text: To march on; to go forward in haste.
+  - text: To move or march as if in a crowd.
+    example: The children trooped into the room.
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: mures
+title: Is MURES a Wordle Word?
+head_title: Is MURES a Wordle Word? Yes – Valid Guess & Meaning
 word: mures
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Wall<p><strong>Example:</strong> Hath wrought the mure that should confine it in</p></li><li><strong>Definition 2:</strong> Husks of fruit from which the juice has been squeezed. Perhaps an old spelling of myrrh</li></ul></div></div>"
+description: Yes, MURES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- aures
+- cures
+- dures
+- jures
+- lures
+- mares
+- meres
+- mires
+- mores
+- mules
+- muras
+- mured
+anagrams:
+- serum
+- muser
+- rumes
+trap:
+  pattern: _URES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Wall
+    example: Hath wrought the mure that should confine it in
+  - text: Husks of fruit from which the juice has been squeezed. Perhaps an old spelling
+      of myrrh
 ---
-

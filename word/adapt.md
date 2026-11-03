@@ -1,7 +1,45 @@
 ---
 layout: word
-title: adapt
+title: Is ADAPT a Wordle Word?
+head_title: 'Is ADAPT a Wordle Word? Yes – Past Answer #897 & Meaning'
 word: adapt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈdæpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make suitable; to make to correspond; to fit or suit</li><li><strong>Definition 2:</strong> To fit by alteration; to modify or remodel for a different purpose; to adjust<p><strong>Example:</strong> to adapt a story for the stage</p></li><li><strong>Definition 3:</strong> To make by altering or fitting something else; to produce by change of form or character<p><strong>Example:</strong> a word of an adapted form</p></li><li><strong>Definition 4:</strong> To make oneself comfortable to a new thing.<p><strong>Example:</strong> They could not adapt to the new climate and so perished.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Adapted; fit; suited; suitable.</li></ul></div></div>"
+description: Yes, ADAPT is a valid Wordle word. It was the Wordle answer on December
+  3, 2023 (#897). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 3, 2023 (#897).
+past_answers:
+- date: '2023-12-03'
+  number: 897
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- adept
+- adopt
+phonetic: "/əˈdæpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make suitable; to make to correspond; to fit or suit
+  - text: To fit by alteration; to modify or remodel for a different purpose; to adjust
+    example: to adapt a story for the stage
+  - text: To make by altering or fitting something else; to produce by change of form
+      or character
+    example: a word of an adapted form
+  - text: To make oneself comfortable to a new thing.
+    example: They could not adapt to the new climate and so perished.
+- pos: adjective
+  defs:
+  - text: Adapted; fit; suited; suitable.
 ---
-

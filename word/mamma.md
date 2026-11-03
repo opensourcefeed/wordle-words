@@ -1,7 +1,41 @@
 ---
 layout: word
-title: mamma
+title: Is MAMMA a Wordle Word?
+head_title: Is MAMMA a Wordle Word? Yes – Possible Answer & Meaning
 word: mamma
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmæmə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The milk-secreting organ of female humans and other mammals which includes the mammary gland and the nipple or teat; a breast; an udder. (plural: mammae)</li><li><strong>Definition 2:</strong> An accessory cloud like a mammary in appearance, which can form on the underside of most cloud genera</li></ul></div></div>"
+description: Yes, MAMMA is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 2
+  repeated:
+  - M
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- gamma
+- magma
+- mammy
+- bamma
+- mamba
+- marma
+- momma
+- namma
+phonetic: "/ˈmæmə/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'The milk-secreting organ of female humans and other mammals which includes
+      the mammary gland and the nipple or teat; a breast; an udder. (plural: mammae)'
+  - text: An accessory cloud like a mammary in appearance, which can form on the underside
+      of most cloud genera
 ---
-

@@ -1,7 +1,81 @@
 ---
 layout: word
-title: steel
+title: Is STEEL a Wordle Word?
+head_title: 'Is STEEL a Wordle Word? Yes – Past Answer #1029 & Meaning'
 word: steel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stiːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.</li><li><strong>Definition 2:</strong> Any item made of this metal, particularly including:</li><li><strong>Definition 3:</strong> Medicinal consumption of this metal; chalybeate medicine; (eventually) any iron or iron-treated water consumed as a medical treatment.</li><li><strong>Definition 4:</strong> Varieties of this metal.</li><li><strong>Definition 5:</strong> (colors) The gray hue of this metal; steel-gray, or steel blue.</li><li><strong>Definition 6:</strong> Extreme hardness or resilience.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To edge, cover, or point with steel.</li><li><strong>Definition 2:</strong> To harden or strengthen; to nerve or make obdurate; to fortify against.</li><li><strong>Definition 3:</strong> (of mirrors) To back with steel.</li><li><strong>Definition 4:</strong> To treat a liquid with steel for medicinal purposes.</li><li><strong>Definition 5:</strong> To press with a flat iron.</li><li><strong>Definition 6:</strong> To cause to resemble steel in appearance.</li><li><strong>Definition 7:</strong> To steelify; to turn iron into steel.</li><li><strong>Definition 8:</strong> To electroplate an item, particularly an engraving plate, with a layer of iron.</li><li><strong>Definition 9:</strong> To sharpen with a honing steel.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made of steel.</li><li><strong>Definition 2:</strong> Similar to steel in color, strength, or the like; steely.</li><li><strong>Definition 3:</strong> Of or belonging to the manufacture or trade in steel.</li><li><strong>Definition 4:</strong> Containing steel.</li><li><strong>Definition 5:</strong> Engraved on steel.</li></ul></div></div>"
+description: Yes, STEEL is a valid Wordle word. It was the Wordle answer on April
+  13, 2024 (#1029). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 13, 2024 (#1029).
+past_answers:
+- date: '2024-04-13'
+  number: 1029
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - T
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- steal
+- steed
+- steep
+- steer
+- sheel
+- speel
+- steek
+- steem
+- steen
+- steez
+- steil
+- stell
+anagrams:
+- sleet
+- leets
+- stele
+- teels
+- teles
+trap:
+  pattern: STEE_
+  count: 8
+phonetic: "/stiːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An artificial metal produced from iron, harder and more elastic than elemental
+      iron; used figuratively as a symbol of hardness.
+  - text: 'Any item made of this metal, particularly including:'
+  - text: Medicinal consumption of this metal; chalybeate medicine; (eventually) any
+      iron or iron-treated water consumed as a medical treatment.
+  - text: Varieties of this metal.
+  - text: "(colors) The gray hue of this metal; steel-gray, or steel blue."
+  - text: Extreme hardness or resilience.
+- pos: verb
+  defs:
+  - text: To edge, cover, or point with steel.
+  - text: To harden or strengthen; to nerve or make obdurate; to fortify against.
+  - text: "(of mirrors) To back with steel."
+  - text: To treat a liquid with steel for medicinal purposes.
+  - text: To press with a flat iron.
+  - text: To cause to resemble steel in appearance.
+  - text: To steelify; to turn iron into steel.
+  - text: To electroplate an item, particularly an engraving plate, with a layer of
+      iron.
+  - text: To sharpen with a honing steel.
+- pos: adjective
+  defs:
+  - text: Made of steel.
+  - text: Similar to steel in color, strength, or the like; steely.
+  - text: Of or belonging to the manufacture or trade in steel.
+  - text: Containing steel.
+  - text: Engraved on steel.
 ---
-

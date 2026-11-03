@@ -1,7 +1,31 @@
 ---
 layout: word
-title: kikay
+title: Is KIKAY a Wordle Word?
+head_title: Is KIKAY a Wordle Word? Yes – Valid Guess & Meaning
 word: kikay
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (Philippine English) A flirtatious girl or woman.</li><li><strong>Definition 2:</strong> (Philippine English) A girl or woman interested in beauty products and fashion.</li></ul></div></div>"
+description: Yes, KIKAY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 4
+  repeated:
+  - K
+  common:
+  - I
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+definitions:
+- pos: noun
+  defs:
+  - text: "(Philippine English) A flirtatious girl or woman."
+  - text: "(Philippine English) A girl or woman interested in beauty products and
+      fashion."
 ---
-

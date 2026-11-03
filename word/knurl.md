@@ -1,7 +1,37 @@
 ---
 layout: word
-title: knurl
+title: Is KNURL a Wordle Word?
+head_title: Is KNURL a Wordle Word? Yes – Valid Guess & Meaning
 word: knurl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A contorted knot in wood.</li><li><strong>Definition 2:</strong> A crossgrained protuberance; a nodule; a boss or projection.</li><li><strong>Definition 3:</strong> A lined or crossgrained pattern of ridges or indentations rolled or pressed into a part for grip.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To roll or press a pattern of ridges or indentations into a part for grip.</li></ul></div></div>"
+description: Yes, KNURL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- knarl
+- knurr
+- knurs
+definitions:
+- pos: noun
+  defs:
+  - text: A contorted knot in wood.
+  - text: A crossgrained protuberance; a nodule; a boss or projection.
+  - text: A lined or crossgrained pattern of ridges or indentations rolled or pressed
+      into a part for grip.
+- pos: verb
+  defs:
+  - text: To roll or press a pattern of ridges or indentations into a part for grip.
 ---
-

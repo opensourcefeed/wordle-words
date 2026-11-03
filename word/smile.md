@@ -1,7 +1,67 @@
 ---
 layout: word
-title: smile
+title: Is SMILE a Wordle Word?
+head_title: 'Is SMILE a Wordle Word? Yes – Past Answer #1806 & Meaning'
 word: smile
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsmaɪ.əl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety.<p><strong>Example:</strong> He always puts a smile on my face.</p></li><li><strong>Definition 2:</strong> Favour; propitious regard.<p><strong>Example:</strong> the smile of the gods</p></li><li><strong>Definition 3:</strong> A drink bought by one person for another.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To have (a smile) on one's face.<p><strong>Example:</strong> I don't know what he's smiling about.</p></li><li><strong>Definition 2:</strong> To express by smiling.<p><strong>Example:</strong> to smile consent, or a welcome</p></li><li><strong>Definition 3:</strong> To express amusement, pleasure, or love and kindness.</li><li><strong>Definition 4:</strong> To look cheerful and joyous; to have an appearance suited to excite joy.<p><strong>Example:</strong> The sun smiled down from a clear summer sky.</p></li><li><strong>Definition 5:</strong> To be propitious or favourable; to countenance.<p><strong>Example:</strong> The gods smiled on his labours.</p></li></ul></div></div>"
+description: Yes, SMILE is a valid Wordle word. It was the Wordle answer on September
+  27, 2023 (#830) and May 30, 2026 (#1806). See its meaning, starter rating and similar
+  words.
+status: past
+answer_text: It was the Wordle answer on September 27, 2023 (#830) and May 30, 2026
+  (#1806).
+past_answers:
+- date: '2023-09-27'
+  number: 830
+- date: '2026-05-30'
+  number: 1806
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- smite
+- smily
+- smize
+- spile
+- stile
+- swile
+anagrams:
+- slime
+- limes
+- meils
+- miles
+phonetic: "/ˈsmaɪ.əl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A facial expression comprised by flexing the muscles of both ends of one's
+      mouth, often showing the front teeth, without vocalisation, and in humans is
+      a common involuntary or voluntary expression of happiness, pleasure, amusement
+      or anxiety.
+    example: He always puts a smile on my face.
+  - text: Favour; propitious regard.
+    example: the smile of the gods
+  - text: A drink bought by one person for another.
+- pos: verb
+  defs:
+  - text: To have (a smile) on one's face.
+    example: I don't know what he's smiling about.
+  - text: To express by smiling.
+    example: to smile consent, or a welcome
+  - text: To express amusement, pleasure, or love and kindness.
+  - text: To look cheerful and joyous; to have an appearance suited to excite joy.
+    example: The sun smiled down from a clear summer sky.
+  - text: To be propitious or favourable; to countenance.
+    example: The gods smiled on his labours.
 ---
-

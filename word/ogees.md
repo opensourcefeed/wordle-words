@@ -1,7 +1,42 @@
 ---
 layout: word
-title: ogees
+title: Is OGEES a Wordle Word?
+head_title: Is OGEES a Wordle Word? Yes – Valid Guess & Meaning
 word: ogees
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A double curve in the shape of an elongated S; an object of that shape</li><li><strong>Definition 2:</strong> A pointed arch made from two ogees</li><li><strong>Definition 3:</strong> An inflection point.</li><li><strong>Definition 4:</strong> (aesthetic facial surgery) The malar or cheekbone prominence transitioning into the mid-cheek hollow.</li><li><strong>Definition 5:</strong> (distillation) The bubble-shaped chamber of a pot still that connects the swan neck to the pot and allows distillate to expand, condense, and fall back into the pot.</li></ul></div></div>"
+description: Yes, OGEES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- ogeed
+- ogles
+- ogres
+- omees
+definitions:
+- pos: noun
+  defs:
+  - text: A double curve in the shape of an elongated S; an object of that shape
+  - text: A pointed arch made from two ogees
+  - text: An inflection point.
+  - text: "(aesthetic facial surgery) The malar or cheekbone prominence transitioning
+      into the mid-cheek hollow."
+  - text: "(distillation) The bubble-shaped chamber of a pot still that connects the
+      swan neck to the pot and allows distillate to expand, condense, and fall back
+      into the pot."
 ---
-

@@ -1,7 +1,61 @@
 ---
 layout: word
-title: equal
+title: Is EQUAL a Wordle Word?
+head_title: 'Is EQUAL a Wordle Word? Yes – Past Answer #481 & Meaning'
 word: equal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈiːkwəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person or thing of equal status to others.<p><strong>Example:</strong> This beer has no equal.</p></li><li><strong>Definition 2:</strong> State of being equal; equality.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be equal to, to have the same value as; to correspond to.<p><strong>Example:</strong> Two plus two equals four.</p></li><li><strong>Definition 2:</strong> To make equivalent to; to cause to match.<p><strong>Example:</strong> David equaled the water levels of the bottles, so they now both contain exactly 1 liter.</p></li><li><strong>Definition 3:</strong> To have as its consequence.<p><strong>Example:</strong> Losing this deal equals losing your job.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> The same in all respects.<p><strong>Example:</strong> All men are created equal.</p></li><li><strong>Definition 2:</strong> Exactly identical, having the same value.<p><strong>Example:</strong> All right angles are equal.</p></li><li><strong>Definition 3:</strong> Fair, impartial.</li><li><strong>Definition 4:</strong> Adequate; sufficiently capable or qualified.<p><strong>Example:</strong> This test is pretty tough, but I think I'm equal to it.</p></li><li><strong>Definition 5:</strong> Not variable; equable; uniform; even.<p><strong>Example:</strong> an equal movement</p></li><li><strong>Definition 6:</strong> Intended for voices of one kind only, either all male or all female; not mixed.</li></ul></div></div>"
+description: Yes, EQUAL is a valid Wordle word. It was the Wordle answer on October
+  13, 2022 (#481). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 13, 2022 (#481).
+past_answers:
+- date: '2022-10-13'
+  number: 481
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - L
+  rare:
+  - Q
+  starter_tier: Average
+  starter_top_percent: 27
+anagrams:
+- quale
+phonetic: "/ˈiːkwəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person or thing of equal status to others.
+    example: This beer has no equal.
+  - text: State of being equal; equality.
+- pos: verb
+  defs:
+  - text: To be equal to, to have the same value as; to correspond to.
+    example: Two plus two equals four.
+  - text: To make equivalent to; to cause to match.
+    example: David equaled the water levels of the bottles, so they now both contain
+      exactly 1 liter.
+  - text: To have as its consequence.
+    example: Losing this deal equals losing your job.
+- pos: adjective
+  defs:
+  - text: The same in all respects.
+    example: All men are created equal.
+  - text: Exactly identical, having the same value.
+    example: All right angles are equal.
+  - text: Fair, impartial.
+  - text: Adequate; sufficiently capable or qualified.
+    example: This test is pretty tough, but I think I'm equal to it.
+  - text: Not variable; equable; uniform; even.
+    example: an equal movement
+  - text: Intended for voices of one kind only, either all male or all female; not
+      mixed.
 ---
-

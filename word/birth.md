@@ -1,7 +1,62 @@
 ---
 layout: word
-title: birth
+title: Is BIRTH a Wordle Word?
+head_title: 'Is BIRTH a Wordle Word? Yes – Past Answer #631 & Meaning'
 word: birth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The process of childbearing; the beginning of life.</li><li><strong>Definition 2:</strong> An instance of childbirth.<p><strong>Example:</strong> Intersex babies account for roughly one per cent of all births.</p></li><li><strong>Definition 3:</strong> A beginning or start; a point of origin.<p><strong>Example:</strong> the birth of an empire</p></li><li><strong>Definition 4:</strong> The circumstances of one's background, ancestry, or upbringing.<p><strong>Example:</strong> He was of noble birth, but fortune had not favored him.</p></li><li><strong>Definition 5:</strong> That which is born.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bear or give birth to (a child).</li><li><strong>Definition 2:</strong> To produce, give rise to.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> A familial relationship established by childbirth.<p><strong>Example:</strong> Her birth father left when she was a baby; she was raised by her mother and stepfather.</p></li></ul></div></div>"
+description: Yes, BIRTH is a valid Wordle word. It was the Wordle answer on March
+  12, 2023 (#631). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 12, 2023 (#631).
+past_answers:
+- date: '2023-03-12'
+  number: 631
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- berth
+- birch
+- girth
+- mirth
+- airth
+- firth
+- tirth
+- yirth
+anagrams:
+- brith
+trap:
+  pattern: _IRTH
+  count: 7
+phonetic: "/bɜːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The process of childbearing; the beginning of life.
+  - text: An instance of childbirth.
+    example: Intersex babies account for roughly one per cent of all births.
+  - text: A beginning or start; a point of origin.
+    example: the birth of an empire
+  - text: The circumstances of one's background, ancestry, or upbringing.
+    example: He was of noble birth, but fortune had not favored him.
+  - text: That which is born.
+- pos: verb
+  defs:
+  - text: To bear or give birth to (a child).
+  - text: To produce, give rise to.
+- pos: adjective
+  defs:
+  - text: A familial relationship established by childbirth.
+    example: Her birth father left when she was a baby; she was raised by her mother
+      and stepfather.
 ---
-

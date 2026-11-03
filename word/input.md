@@ -1,7 +1,47 @@
 ---
 layout: word
-title: input
+title: Is INPUT a Wordle Word?
+head_title: 'Is INPUT a Wordle Word? Yes – Past Answer #366 & Meaning'
 word: input
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪnpʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act or process of putting in; infusion.</li><li><strong>Definition 2:</strong> That which is put in, as in an amount.</li><li><strong>Definition 3:</strong> Contribution of work or information, as an opinion or advice.</li><li><strong>Definition 4:</strong> Something fed into a process with the intention of it shaping or affecting the output of that process.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put in; put on.</li><li><strong>Definition 2:</strong> To enter data.<p><strong>Example:</strong> The user inputs his date of birth and the computer displays his age.</p></li><li><strong>Definition 3:</strong> To accept data that is entered.</li></ul></div></div>"
+description: Yes, INPUT is a valid Wordle word. It was the Wordle answer on June 20,
+  2022 (#366). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 20, 2022 (#366).
+past_answers:
+- date: '2022-06-20'
+  number: 366
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- incut
+- unput
+anagrams:
+- putin
+phonetic: "/ˈɪnpʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act or process of putting in; infusion.
+  - text: That which is put in, as in an amount.
+  - text: Contribution of work or information, as an opinion or advice.
+  - text: Something fed into a process with the intention of it shaping or affecting
+      the output of that process.
+- pos: verb
+  defs:
+  - text: To put in; put on.
+  - text: To enter data.
+    example: The user inputs his date of birth and the computer displays his age.
+  - text: To accept data that is entered.
 ---
-

@@ -1,7 +1,70 @@
 ---
 layout: word
-title: cowls
+title: Is COWLS a Wordle Word?
+head_title: Is COWLS a Wordle Word? Yes – Valid Guess & Meaning
 word: cowls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kaʊlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A monk's hood that can be pulled forward to cover the face; a robe with such a hood attached to it.</li><li><strong>Definition 2:</strong> A mask that covers the majority of the head.</li><li><strong>Definition 3:</strong> A thin protective covering over all or part of an engine; also cowling.</li><li><strong>Definition 4:</strong> A usually hood-shaped covering used to increase the draft of a chimney and prevent backflow.</li><li><strong>Definition 5:</strong> A ship's ventilator with a bell-shaped top which can be swivelled to catch the wind and force it below.</li><li><strong>Definition 6:</strong> A vertical projection of a ship's funnel that directs the smoke away from the bridge.</li><li><strong>Definition 7:</strong> (metonymy) A monk.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover with, or as if with, a cowl (hood).</li><li><strong>Definition 2:</strong> To wrap or form (something made of fabric) like a cowl.</li><li><strong>Definition 3:</strong> To make a monk of (a person).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vessel carried on a pole, a soe.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A caul (the amnion which encloses the foetus before birth, especially that part of it which sometimes shrouds a baby’s head at birth).</li></ul></div></div>"
+description: Yes, COWLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- bowls
+- coals
+- coils
+- colls
+- cools
+- cowks
+- cowps
+- dowls
+- fowls
+- gowls
+- howls
+- jowls
+anagrams:
+- scowl
+- clows
+trap:
+  pattern: _OWLS
+  count: 10
+phonetic: "/kaʊlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A monk's hood that can be pulled forward to cover the face; a robe with
+      such a hood attached to it.
+  - text: A mask that covers the majority of the head.
+  - text: A thin protective covering over all or part of an engine; also cowling.
+  - text: A usually hood-shaped covering used to increase the draft of a chimney and
+      prevent backflow.
+  - text: A ship's ventilator with a bell-shaped top which can be swivelled to catch
+      the wind and force it below.
+  - text: A vertical projection of a ship's funnel that directs the smoke away from
+      the bridge.
+  - text: "(metonymy) A monk."
+- pos: verb
+  defs:
+  - text: To cover with, or as if with, a cowl (hood).
+  - text: To wrap or form (something made of fabric) like a cowl.
+  - text: To make a monk of (a person).
+- pos: noun
+  defs:
+  - text: A vessel carried on a pole, a soe.
+- pos: noun
+  defs:
+  - text: A caul (the amnion which encloses the foetus before birth, especially that
+      part of it which sometimes shrouds a baby’s head at birth).
 ---
-

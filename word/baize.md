@@ -1,7 +1,42 @@
 ---
 layout: word
-title: baize
+title: Is BAIZE a Wordle Word?
+head_title: Is BAIZE a Wordle Word? Yes – Valid Guess & Meaning
 word: baize
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /beɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thick, soft, usually woolen cloth resembling felt; often colored green and used for coverings on card tables, billiard and snooker tables, etc.</li><li><strong>Definition 2:</strong> A coarse woolen material with a long nap; usually dyed in plain colors.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover or line with baize.</li></ul></div></div>"
+description: Yes, BAIZE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- maize
+- baile
+- baiza
+- brize
+phonetic: "/beɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thick, soft, usually woolen cloth resembling felt; often colored green
+      and used for coverings on card tables, billiard and snooker tables, etc.
+  - text: A coarse woolen material with a long nap; usually dyed in plain colors.
+- pos: verb
+  defs:
+  - text: To cover or line with baize.
 ---
-

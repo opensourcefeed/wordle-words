@@ -1,7 +1,37 @@
 ---
 layout: word
-title: cymas
+title: Is CYMAS a Wordle Word?
+head_title: Is CYMAS a Wordle Word? Yes – Valid Guess & Meaning
 word: cymas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsaɪməz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A moulding of the cornice, wavelike in form, whose outline consists of a concave and a convex line; an ogee.</li><li><strong>Definition 2:</strong> A cyme.</li></ul></div></div>"
+description: Yes, CYMAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- camas
+- comas
+- cycas
+- cymae
+- cymar
+- cymes
+phonetic: "/ˈsaɪməz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A moulding of the cornice, wavelike in form, whose outline consists of a
+      concave and a convex line; an ogee.
+  - text: A cyme.
 ---
-

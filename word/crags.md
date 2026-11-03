@@ -1,7 +1,51 @@
 ---
 layout: word
-title: crags
+title: Is CRAGS a Wordle Word?
+head_title: Is CRAGS a Wordle Word? Yes – Valid Guess & Meaning
 word: crags
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rocky outcrop; a rugged steep rock or cliff.</li><li><strong>Definition 2:</strong> A rough broken fragment of rock.</li><li><strong>Definition 3:</strong> A partially compacted bed of gravel mixed with shells, of the Tertiary age.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The neck or throat.</li></ul></div></div>"
+description: Yes, CRAGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- crass
+- brags
+- clags
+- crabs
+- crams
+- crans
+- craps
+- craws
+- crays
+- crogs
+- drags
+- frags
+anagrams:
+- scrag
+trap:
+  pattern: CRA_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A rocky outcrop; a rugged steep rock or cliff.
+  - text: A rough broken fragment of rock.
+  - text: A partially compacted bed of gravel mixed with shells, of the Tertiary age.
+- pos: noun
+  defs:
+  - text: The neck or throat.
 ---
-

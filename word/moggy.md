@@ -1,7 +1,85 @@
 ---
 layout: word
-title: moggy
+title: Is MOGGY a Wordle Word?
+head_title: Is MOGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: moggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A young cow or bull.</li><li><strong>Definition 2:</strong> Leather made of the skin of the calf; especially, a fine, light-coloured leather used in bookbinding.</li><li><strong>Definition 3:</strong> A young deer, elephant, seal, whale or giraffe (also used of some other animals).</li><li><strong>Definition 4:</strong> A chunk of ice broken from a larger glacier, ice shelf, or iceberg.</li><li><strong>Definition 5:</strong> A small island, near a larger island.<p><strong>Example:</strong> the Calf of Man</p></li><li><strong>Definition 6:</strong> A cabless railroad engine.</li><li><strong>Definition 7:</strong> An awkward or silly boy or young man; any silly person; a dolt.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The back of the leg below the knee.</li><li><strong>Definition 2:</strong> The muscle in the back of the leg below the knee.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A female child, adolescent, or a young woman.</li><li><strong>Definition 2:</strong> A young female animal.</li><li><strong>Definition 3:</strong> (sometimes offensive) A woman, especially a young woman</li><li><strong>Definition 4:</strong> A female servant; a maid. (see usage notes)</li><li><strong>Definition 5:</strong> A queen (the playing card.)</li><li><strong>Definition 6:</strong> A term of endearment. (see usage notes)</li><li><strong>Definition 7:</strong> One's girlfriend.</li><li><strong>Definition 8:</strong> One's daughter.<p><strong>Example:</strong> Your girl turned up on our doorstep.</p></li><li><strong>Definition 9:</strong> A roebuck two years old.</li><li><strong>Definition 10:</strong> Cocaine, especially in powder form.</li><li><strong>Definition 11:</strong> (somewhat childish) A female (tree, gene, etc).</li><li><strong>Definition 12:</strong> A boy or man who is weak or sentimental.<p><strong>Example:</strong> Don't be such a girl!</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A domestic cat, especially a non-pedigree or unremarkable cat.</li><li><strong>Definition 2:</strong> A kind of cake made with ginger, treacle, etc.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An effigy, typically made of straw and dressed in old clothes, fixed to a pole in a field to deter birds from eating seeds or crops planted there.</li><li><strong>Definition 2:</strong> A tall, thin, awkward person.</li><li><strong>Definition 3:</strong> Anything that appears terrifying but presents no danger.</li><li><strong>Definition 4:</strong> A person clad in rags and tatters.</li><li><strong>Definition 5:</strong> A bird, the black tern.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slut, a sexually promiscuous woman.</li><li><strong>Definition 2:</strong> A dirty and untidy woman.</li></ul></div></div>"
+description: Yes, MOGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- foggy
+- soggy
+- boggy
+- doggy
+- loggy
+- morgy
+- muggy
+- noggy
+- poggy
+trap:
+  pattern: _OGGY
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A young cow or bull.
+  - text: Leather made of the skin of the calf; especially, a fine, light-coloured
+      leather used in bookbinding.
+  - text: A young deer, elephant, seal, whale or giraffe (also used of some other
+      animals).
+  - text: A chunk of ice broken from a larger glacier, ice shelf, or iceberg.
+  - text: A small island, near a larger island.
+    example: the Calf of Man
+  - text: A cabless railroad engine.
+  - text: An awkward or silly boy or young man; any silly person; a dolt.
+- pos: noun
+  defs:
+  - text: The back of the leg below the knee.
+  - text: The muscle in the back of the leg below the knee.
+- pos: noun
+  defs:
+  - text: A female child, adolescent, or a young woman.
+  - text: A young female animal.
+  - text: "(sometimes offensive) A woman, especially a young woman"
+  - text: A female servant; a maid. (see usage notes)
+  - text: A queen (the playing card.)
+  - text: A term of endearment. (see usage notes)
+  - text: One's girlfriend.
+  - text: One's daughter.
+    example: Your girl turned up on our doorstep.
+  - text: A roebuck two years old.
+  - text: Cocaine, especially in powder form.
+  - text: "(somewhat childish) A female (tree, gene, etc)."
+  - text: A boy or man who is weak or sentimental.
+    example: Don't be such a girl!
+- pos: noun
+  defs:
+  - text: A domestic cat, especially a non-pedigree or unremarkable cat.
+  - text: A kind of cake made with ginger, treacle, etc.
+- pos: noun
+  defs:
+  - text: An effigy, typically made of straw and dressed in old clothes, fixed to
+      a pole in a field to deter birds from eating seeds or crops planted there.
+  - text: A tall, thin, awkward person.
+  - text: Anything that appears terrifying but presents no danger.
+  - text: A person clad in rags and tatters.
+  - text: A bird, the black tern.
+- pos: noun
+  defs:
+  - text: A slut, a sexually promiscuous woman.
+  - text: A dirty and untidy woman.
 ---
-

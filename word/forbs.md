@@ -1,7 +1,42 @@
 ---
 layout: word
-title: forbs
+title: Is FORBS a Wordle Word?
+head_title: Is FORBS a Wordle Word? Yes – Valid Guess & Meaning
 word: forbs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any non-woody flowering plant that is not a graminoid (a grass, sedge, or rush).</li></ul></div></div>"
+description: Yes, FORBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- dorbs
+- forby
+- fords
+- fores
+- forks
+- forms
+- forts
+- gorbs
+- sorbs
+trap:
+  pattern: FOR_S
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Any non-woody flowering plant that is not a graminoid (a grass, sedge, or
+      rush).
 ---
-

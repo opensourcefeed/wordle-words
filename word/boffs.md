@@ -1,7 +1,45 @@
 ---
 layout: word
-title: boffs
+title: Is BOFFS a Wordle Word?
+head_title: Is BOFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: boffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To have sexual intercourse (with someone)</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit; to strike.</li></ul></div></div>"
+description: Yes, BOFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- baffs
+- biffs
+- boffo
+- boyfs
+- buffs
+- coffs
+- doffs
+- goffs
+- koffs
+- toffs
+trap:
+  pattern: _OFFS
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To have sexual intercourse (with someone)
+- pos: verb
+  defs:
+  - text: To hit; to strike.
 ---
-

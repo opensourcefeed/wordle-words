@@ -1,7 +1,40 @@
 ---
 layout: word
-title: cooch
+title: Is COOCH a Wordle Word?
+head_title: Is COOCH a Wordle Word? Yes – Valid Guess & Meaning
 word: cooch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The hootchy-kootchy, a type of erotic dance.</li><li><strong>Definition 2:</strong> (chiefly US) The vagina or vulva.</li></ul></div></div>"
+description: Yes, COOCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - C
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- coach
+- conch
+- couch
+- pooch
+- cotch
+- hooch
+- mooch
+anagrams:
+- choco
+phonetic: "/kuːtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The hootchy-kootchy, a type of erotic dance.
+  - text: "(chiefly US) The vagina or vulva."
 ---
-

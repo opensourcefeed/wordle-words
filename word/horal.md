@@ -1,7 +1,44 @@
 ---
 layout: word
-title: horal
+title: Is HORAL a Wordle Word?
+head_title: Is HORAL a Wordle Word? Yes – Valid Guess & Meaning
 word: horal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to an hour, or to hours.</li></ul></div></div>"
+description: Yes, HORAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- coral
+- moral
+- boral
+- goral
+- horah
+- horas
+- loral
+- poral
+- roral
+- soral
+trap:
+  pattern: _ORAL
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to an hour, or to hours.
 ---
-

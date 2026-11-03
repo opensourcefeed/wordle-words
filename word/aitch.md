@@ -1,7 +1,45 @@
 ---
 layout: word
-title: aitch
+title: Is AITCH a Wordle Word?
+head_title: Is AITCH a Wordle Word? Yes – Valid Guess & Meaning
 word: aitch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /eɪtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The name of the Latin-script letter H.</li></ul></div></div>"
+description: Yes, AITCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- ditch
+- hitch
+- pitch
+- witch
+- fitch
+- gitch
+- mitch
+- sitch
+- titch
+anagrams:
+- tachi
+trap:
+  pattern: _ITCH
+  count: 11
+phonetic: "/eɪtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The name of the Latin-script letter H.
 ---
-

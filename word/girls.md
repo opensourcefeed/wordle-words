@@ -1,7 +1,66 @@
 ---
 layout: word
-title: girls
+title: Is GIRLS a Wordle Word?
+head_title: Is GIRLS a Wordle Word? Yes – Valid Guess & Meaning
 word: girls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɜːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A female child, adolescent, or a young woman.</li><li><strong>Definition 2:</strong> A young female animal.</li><li><strong>Definition 3:</strong> (sometimes offensive) A woman, especially a young woman</li><li><strong>Definition 4:</strong> A female servant; a maid. (see usage notes)</li><li><strong>Definition 5:</strong> A queen (the playing card.)</li><li><strong>Definition 6:</strong> A term of endearment. (see usage notes)</li><li><strong>Definition 7:</strong> One's girlfriend.</li><li><strong>Definition 8:</strong> One's daughter.<p><strong>Example:</strong> Your girl turned up on our doorstep.</p></li><li><strong>Definition 9:</strong> A roebuck two years old.</li><li><strong>Definition 10:</strong> Cocaine, especially in powder form.</li><li><strong>Definition 11:</strong> (somewhat childish) A female (tree, gene, etc).</li><li><strong>Definition 12:</strong> A boy or man who is weak or sentimental.<p><strong>Example:</strong> Don't be such a girl!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To feminize or girlify; to gender as a girl or as for girls.</li><li><strong>Definition 2:</strong> (somewhat informal) To staff with or as a girl or girls.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A woman's breasts.</li></ul></div></div>"
+description: Yes, GIRLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- girly
+- birls
+- cirls
+- dirls
+- gills
+- girds
+- girlf
+- girns
+- giros
+- girrs
+- girts
+- grrls
+trap:
+  pattern: _IRLS
+  count: 9
+phonetic: "/ɡɜːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A female child, adolescent, or a young woman.
+  - text: A young female animal.
+  - text: "(sometimes offensive) A woman, especially a young woman"
+  - text: A female servant; a maid. (see usage notes)
+  - text: A queen (the playing card.)
+  - text: A term of endearment. (see usage notes)
+  - text: One's girlfriend.
+  - text: One's daughter.
+    example: Your girl turned up on our doorstep.
+  - text: A roebuck two years old.
+  - text: Cocaine, especially in powder form.
+  - text: "(somewhat childish) A female (tree, gene, etc)."
+  - text: A boy or man who is weak or sentimental.
+    example: Don't be such a girl!
+- pos: verb
+  defs:
+  - text: To feminize or girlify; to gender as a girl or as for girls.
+  - text: "(somewhat informal) To staff with or as a girl or girls."
+- pos: noun
+  defs:
+  - text: A woman's breasts.
 ---
-

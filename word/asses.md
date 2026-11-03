@@ -1,7 +1,57 @@
 ---
 layout: word
-title: asses
+title: Is ASSES a Wordle Word?
+head_title: Is ASSES a Wordle Word? Yes – Valid Guess & Meaning
 word: asses
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæsɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several species of horse-like animals, especially Equus asinus, the domesticated of which are used as beasts of burden.</li><li><strong>Definition 2:</strong> A stupid person.<p><strong>Example:</strong> That new kid left the cap off the syrup bottle again! What an ass.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Buttocks.</li><li><strong>Definition 2:</strong> Sex.<p><strong>Example:</strong> I’m going to go down to the bar and try to get me some ass.</p></li><li><strong>Definition 3:</strong> Anus.</li><li><strong>Definition 4:</strong> Used in similes to express something bad or unpleasant.</li><li><strong>Definition 5:</strong> Used after an adjective to indicate extremes or excessiveness.<p><strong>Example:</strong> That was one big-ass fish!</p></li><li><strong>Definition 6:</strong> (metonymy) One's self or person, chiefly their body.<p><strong>Example:</strong> Get your lazy ass out of bed!</p></li></ul></div></div>"
+description: Yes, ASSES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 3
+  repeated:
+  - S
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- asset
+- akses
+- apses
+- arses
+- ashes
+- assed
+- assez
+- esses
+anagrams:
+- sasse
+- sessa
+phonetic: "/ˈæsɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several species of horse-like animals, especially Equus asinus, the
+      domesticated of which are used as beasts of burden.
+  - text: A stupid person.
+    example: That new kid left the cap off the syrup bottle again! What an ass.
+- pos: noun
+  defs:
+  - text: Buttocks.
+  - text: Sex.
+    example: I’m going to go down to the bar and try to get me some ass.
+  - text: Anus.
+  - text: Used in similes to express something bad or unpleasant.
+  - text: Used after an adjective to indicate extremes or excessiveness.
+    example: That was one big-ass fish!
+  - text: "(metonymy) One's self or person, chiefly their body."
+    example: Get your lazy ass out of bed!
 ---
-

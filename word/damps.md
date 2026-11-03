@@ -1,7 +1,54 @@
 ---
 layout: word
-title: damps
+title: Is DAMPS a Wordle Word?
+head_title: Is DAMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: damps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Moisture; humidity; dampness.</li><li><strong>Definition 2:</strong> Fog; fogginess; vapor.</li><li><strong>Definition 3:</strong> Dejection or depression; something that spoils a positive emotion (such as enjoyment, satisfaction, expectation or courage) or a desired activity.</li><li><strong>Definition 4:</strong> A gaseous product, formed in coal mines, old wells, pits, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dampen; to make moderately wet<p><strong>Example:</strong> to damp cloth</p></li><li><strong>Definition 2:</strong> To put out, as fire; to weaken, restrain, or make dull.</li><li><strong>Definition 3:</strong> To suppress vibrations (mechanical) or oscillations (electrical) by converting energy to heat (or some other form of energy).</li></ul></div></div>"
+description: Yes, DAMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- camps
+- dames
+- damns
+- dampy
+- dimps
+- dumps
+- gamps
+- lamps
+- ramps
+- samps
+- tamps
+- vamps
+trap:
+  pattern: _AMPS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Moisture; humidity; dampness.
+  - text: Fog; fogginess; vapor.
+  - text: Dejection or depression; something that spoils a positive emotion (such
+      as enjoyment, satisfaction, expectation or courage) or a desired activity.
+  - text: A gaseous product, formed in coal mines, old wells, pits, etc.
+- pos: verb
+  defs:
+  - text: To dampen; to make moderately wet
+    example: to damp cloth
+  - text: To put out, as fire; to weaken, restrain, or make dull.
+  - text: To suppress vibrations (mechanical) or oscillations (electrical) by converting
+      energy to heat (or some other form of energy).
 ---
-

@@ -1,7 +1,72 @@
 ---
 layout: word
-title: longs
+title: Is LONGS a Wordle Word?
+head_title: Is LONGS a Wordle Word? Yes – Valid Guess & Meaning
 word: longs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long vowel.</li><li><strong>Definition 2:</strong> A long syllable.</li><li><strong>Definition 3:</strong> A note formerly used in music, one half the length of a large, twice that of a breve.</li><li><strong>Definition 4:</strong> A long integer variable, twice the size of an int, two or four times the size of a short, and half of a long long.</li><li><strong>Definition 5:</strong> An entity with a long position in an asset.<p><strong>Example:</strong> Every uptick made the longs cheer.</p></li><li><strong>Definition 6:</strong> A long-term investment.</li><li><strong>Definition 7:</strong> The long summer vacation at the English universities.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take a long position in.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To await, aspire, desire greatly (something to occur or to be true)<p><strong>Example:</strong> She longed for him to come back.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be appropriate to, to pertain or belong to.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Longitude</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To belong.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Long trousers/pants, as opposed to shorts.</li></ul></div></div>"
+description: Yes, LONGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- bongs
+- dongs
+- gongs
+- hongs
+- jongs
+- lengs
+- lings
+- longa
+- longe
+- lungs
+- nongs
+- pongs
+trap:
+  pattern: _ONGS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A long vowel.
+  - text: A long syllable.
+  - text: A note formerly used in music, one half the length of a large, twice that
+      of a breve.
+  - text: A long integer variable, twice the size of an int, two or four times the
+      size of a short, and half of a long long.
+  - text: An entity with a long position in an asset.
+    example: Every uptick made the longs cheer.
+  - text: A long-term investment.
+  - text: The long summer vacation at the English universities.
+- pos: verb
+  defs:
+  - text: To take a long position in.
+- pos: verb
+  defs:
+  - text: To await, aspire, desire greatly (something to occur or to be true)
+    example: She longed for him to come back.
+- pos: verb
+  defs:
+  - text: To be appropriate to, to pertain or belong to.
+- pos: noun
+  defs:
+  - text: Longitude
+- pos: verb
+  defs:
+  - text: To belong.
+- pos: noun
+  defs:
+  - text: Long trousers/pants, as opposed to shorts.
 ---
-

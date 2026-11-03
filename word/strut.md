@@ -1,7 +1,47 @@
 ---
 layout: word
-title: strut
+title: Is STRUT a Wordle Word?
+head_title: 'Is STRUT a Wordle Word? Yes – Past Answer #1681 & Meaning'
 word: strut
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɹʌt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Protuberance, air pressure</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To swell; protuberate; bulge or spread out.</li><li><strong>Definition 2:</strong> (originally said of fowl) To stand or walk stiffly, with the tail erect and spread out.</li><li><strong>Definition 3:</strong> To walk proudly or haughtily.<p><strong>Example:</strong> He strutted about the yard, thinking himself master of all he surveyed.</p></li><li><strong>Definition 4:</strong> To cause to swell; enlarge; give more importance to.</li><li><strong>Definition 5:</strong> To protrude; cause to bulge.</li></ul></div></div>"
+description: Yes, STRUT is a valid Wordle word. It was the Wordle answer on January
+  25, 2026 (#1681). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 25, 2026 (#1681).
+past_answers:
+- date: '2026-01-25'
+  number: 1681
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- stout
+- strum
+anagrams:
+- trust
+- sturt
+phonetic: "/stɹʌt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Protuberance, air pressure
+- pos: verb
+  defs:
+  - text: To swell; protuberate; bulge or spread out.
+  - text: "(originally said of fowl) To stand or walk stiffly, with the tail erect
+      and spread out."
+  - text: To walk proudly or haughtily.
+    example: He strutted about the yard, thinking himself master of all he surveyed.
+  - text: To cause to swell; enlarge; give more importance to.
+  - text: To protrude; cause to bulge.
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: metro
+title: Is METRO a Wordle Word?
+head_title: 'Is METRO a Wordle Word? Yes – Past Answer #676 & Meaning'
 word: metro
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɛtɹəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An underground railway.</li><li><strong>Definition 2:</strong> A train that runs on such an underground railway.</li><li><strong>Definition 3:</strong> An urban rapid transit light railway</li><li><strong>Definition 4:</strong> A train that runs on such a railway.</li></ul></div></div>"
+description: Yes, METRO is a valid Wordle word. It was the Wordle answer on April
+  26, 2023 (#676). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 26, 2023 (#676).
+past_answers:
+- date: '2023-04-26'
+  number: 676
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  - R
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- retro
+- metho
+- metre
+phonetic: "/ˈmɛtɹəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An underground railway.
+  - text: A train that runs on such an underground railway.
+  - text: An urban rapid transit light railway
+  - text: A train that runs on such a railway.
 ---
-

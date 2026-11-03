@@ -1,7 +1,52 @@
 ---
 layout: word
-title: mason
+title: Is MASON a Wordle Word?
+head_title: 'Is MASON a Wordle Word? Yes – Past Answer #861 & Meaning'
 word: mason
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmeɪsən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bricklayer, one whose occupation is to build with stone or brick</li><li><strong>Definition 2:</strong> One who prepares stone for building purposes.</li><li><strong>Definition 3:</strong> A member of the fraternity of Freemasons. See Freemason.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (normally with a preposition) To build stonework or brickwork about, under, in, over, etc.; to construct by masons<p><strong>Example:</strong> to mason in a kettle or boiler</p></li></ul></div></div>"
+description: Yes, MASON is a valid Wordle word. It was the Wordle answer on October
+  28, 2023 (#861). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 28, 2023 (#861).
+past_answers:
+- date: '2023-10-28'
+  number: 861
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- bason
+- macon
+- maron
+- meson
+- nason
+anagrams:
+- manos
+- manso
+- moans
+- monas
+- nomas
+- soman
+phonetic: "/ˈmeɪsən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bricklayer, one whose occupation is to build with stone or brick
+  - text: One who prepares stone for building purposes.
+  - text: A member of the fraternity of Freemasons. See Freemason.
+- pos: verb
+  defs:
+  - text: "(normally with a preposition) To build stonework or brickwork about, under,
+      in, over, etc.; to construct by masons"
+    example: to mason in a kettle or boiler
 ---
-

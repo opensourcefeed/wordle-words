@@ -1,7 +1,60 @@
 ---
 layout: word
-title: sunny
+title: Is SUNNY a Wordle Word?
+head_title: 'Is SUNNY a Wordle Word? Yes – Past Answer #1317 & Meaning'
 word: sunny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsʌni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sunfish.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of weather or a day) Featuring a lot of sunshine.<p><strong>Example:</strong> Whilst it may be sunny today, the weather forecast is predicting rain.</p></li><li><strong>Definition 2:</strong> (of a place) Receiving a lot of sunshine.<p><strong>Example:</strong> I would describe Spain as sunny, but it's nothing in comparison to the Sahara.</p></li><li><strong>Definition 3:</strong> (of a person or a person's mood) cheerful<p><strong>Example:</strong> a sunny disposition</p></li><li><strong>Definition 4:</strong> Of or relating to the sun; proceeding from, or resembling the sun; shiny; radiant.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Sunny side up</li></ul></div></div>"
+description: Yes, SUNNY is a valid Wordle word. It was the Wordle answer on January
+  26, 2025 (#1317). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 26, 2025 (#1317).
+past_answers:
+- date: '2025-01-26'
+  number: 1317
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - N
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- bunny
+- funny
+- cunny
+- dunny
+- gunny
+- nunny
+- punny
+- runny
+- sonny
+- sunna
+- sunns
+- tunny
+trap:
+  pattern: _UNNY
+  count: 10
+phonetic: "/ˈsʌni/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sunfish.
+- pos: adjective
+  defs:
+  - text: "(of weather or a day) Featuring a lot of sunshine."
+    example: Whilst it may be sunny today, the weather forecast is predicting rain.
+  - text: "(of a place) Receiving a lot of sunshine."
+    example: I would describe Spain as sunny, but it's nothing in comparison to the
+      Sahara.
+  - text: "(of a person or a person's mood) cheerful"
+    example: a sunny disposition
+  - text: Of or relating to the sun; proceeding from, or resembling the sun; shiny;
+      radiant.
+- pos: adverb
+  defs:
+  - text: Sunny side up
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: crier
+title: Is CRIER a Wordle Word?
+head_title: Is CRIER a Wordle Word? Yes – Possible Answer & Meaning
 word: crier
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkraɪə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who cries.</li><li><strong>Definition 2:</strong> An officer who proclaims the orders or directions of a court, or who gives public notice by loud proclamation, such as a town crier.</li></ul></div></div>"
+description: Yes, CRIER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- cried
+- drier
+- brier
+- cries
+- cryer
+- frier
+- prier
+- trier
+- wrier
+anagrams:
+- ricer
+trap:
+  pattern: _RIER
+  count: 7
+phonetic: "/ˈkraɪə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who cries.
+  - text: An officer who proclaims the orders or directions of a court, or who gives
+      public notice by loud proclamation, such as a town crier.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: shirt
+title: Is SHIRT a Wordle Word?
+head_title: Is SHIRT a Wordle Word? Yes – Possible Answer & Meaning
 word: shirt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɜːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.<p><strong>Example:</strong> It can take a while to learn how to iron a shirt properly.</p></li><li><strong>Definition 2:</strong> An interior lining in a blast furnace.</li><li><strong>Definition 3:</strong> A member of the shirt-wearing team in a shirts and skins game.</li></ul></div></div>"
+description: Yes, SHIRT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- shift
+- shire
+- shirk
+- short
+- skirt
+- chirt
+- shart
+- shirr
+- shirs
+- shist
+- snirt
+- spirt
+phonetic: "/ʃɜːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: An article of clothing that is worn on the upper part of the body, and often
+      has sleeves, either long or short, that cover the arms.
+    example: It can take a while to learn how to iron a shirt properly.
+  - text: An interior lining in a blast furnace.
+  - text: A member of the shirt-wearing team in a shirts and skins game.
 ---
-

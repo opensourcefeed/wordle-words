@@ -1,7 +1,44 @@
 ---
 layout: word
-title: fatty
+title: Is FATTY a Wordle Word?
+head_title: Is FATTY a Wordle Word? Yes – Possible Answer & Meaning
 word: fatty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Containing, composed of, or consisting of fat.</li><li><strong>Definition 2:</strong> Like fat; greasy.</li><li><strong>Definition 3:</strong> Literally or figuratively large.</li></ul></div></div>"
+description: Yes, FATTY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- batty
+- catty
+- patty
+- ratty
+- tatty
+- facty
+- fatly
+- hatty
+- matty
+- natty
+trap:
+  pattern: _ATTY
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Containing, composed of, or consisting of fat.
+  - text: Like fat; greasy.
+  - text: Literally or figuratively large.
 ---
-

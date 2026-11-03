@@ -1,7 +1,41 @@
 ---
 layout: word
-title: samey
+title: Is SAMEY a Wordle Word?
+head_title: Is SAMEY a Wordle Word? Yes – Valid Guess & Meaning
 word: samey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈseɪmi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> The same as something else, without variety, monotonous.</li></ul></div></div>"
+description: Yes, SAMEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- gamey
+- mamey
+- samek
+- samel
+- samen
+- sames
+- sammy
+- savey
+anagrams:
+- seamy
+- ysame
+phonetic: "/ˈseɪmi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: The same as something else, without variety, monotonous.
 ---
-

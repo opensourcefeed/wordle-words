@@ -1,7 +1,52 @@
 ---
 layout: word
-title: damns
+title: Is DAMNS a Wordle Word?
+head_title: Is DAMNS a Wordle Word? Yes – Valid Guess & Meaning
 word: damns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dæmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The use of \"damn\" as a curse.<p><strong>Example:</strong> He said a few damns and left.</p></li><li><strong>Definition 2:</strong> A small, negligible quantity, being of little value; a whit or jot.<p><strong>Example:</strong> The new hires aren't worth a damn.</p></li><li><strong>Definition 3:</strong> The smallest amount of concern or consideration.<p><strong>Example:</strong> I don't give a damn.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To condemn to hell.<p><strong>Example:</strong> I damn you eternally, fiend!</p></li><li><strong>Definition 2:</strong> To condemn; to declare guilty; to doom; to adjudge to punishment.</li><li><strong>Definition 3:</strong> To put out of favor; to ruin; to label negatively.<p><strong>Example:</strong> I’m afraid that if I speak out on this, I’ll be damned as a troublemaker.</p></li><li><strong>Definition 4:</strong> To condemn as unfit, harmful, invalid, immoral or illegal.</li><li><strong>Definition 5:</strong> To curse; put a curse upon.<p><strong>Example:</strong> That man stole my wallet. Damn him!</p></li><li><strong>Definition 6:</strong> To invoke damnation; to curse.</li></ul></div></div>"
+description: Yes, DAMNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- dames
+- damna
+- damps
+- darns
+- dawns
+anagrams:
+- mands
+phonetic: "/dæmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The use of "damn" as a curse.
+    example: He said a few damns and left.
+  - text: A small, negligible quantity, being of little value; a whit or jot.
+    example: The new hires aren't worth a damn.
+  - text: The smallest amount of concern or consideration.
+    example: I don't give a damn.
+- pos: verb
+  defs:
+  - text: To condemn to hell.
+    example: I damn you eternally, fiend!
+  - text: To condemn; to declare guilty; to doom; to adjudge to punishment.
+  - text: To put out of favor; to ruin; to label negatively.
+    example: I’m afraid that if I speak out on this, I’ll be damned as a troublemaker.
+  - text: To condemn as unfit, harmful, invalid, immoral or illegal.
+  - text: To curse; put a curse upon.
+    example: That man stole my wallet. Damn him!
+  - text: To invoke damnation; to curse.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: nosey
+title: Is NOSEY a Wordle Word?
+head_title: Is NOSEY a Wordle Word? Yes – Possible Answer & Meaning
 word: nosey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A look at something to satisfy one's curiosity.<p><strong>Example:</strong> I might wander down to the construction site for a nosy at what they're building.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Prying, inquisitive or curious in other’s affairs; tending to snoop or meddle.<p><strong>Example:</strong> They built tall fences, yet the nosy neighbors always seemed to know everything about them.</p></li><li><strong>Definition 2:</strong> Having a large or elongated nose.</li></ul></div></div>"
+description: Yes, NOSEY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- bosey
+- cosey
+- hosey
+- mosey
+- nosed
+- noser
+- noses
+- posey
+anagrams:
+- noyes
+trap:
+  pattern: _OSEY
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A look at something to satisfy one's curiosity.
+    example: I might wander down to the construction site for a nosy at what they're
+      building.
+- pos: adjective
+  defs:
+  - text: Prying, inquisitive or curious in other’s affairs; tending to snoop or meddle.
+    example: They built tall fences, yet the nosy neighbors always seemed to know
+      everything about them.
+  - text: Having a large or elongated nose.
 ---
-

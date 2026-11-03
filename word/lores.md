@@ -1,7 +1,64 @@
 ---
 layout: word
-title: lores
+title: Is LORES a Wordle Word?
+head_title: Is LORES a Wordle Word? Yes – Valid Guess & Meaning
 word: lores
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> All the facts and traditions about a particular subject that have been accumulated over time through education or experience.<p><strong>Example:</strong> the lore of the Ancient Egyptians</p></li><li><strong>Definition 2:</strong> The backstory created around a fictional universe.</li><li><strong>Definition 3:</strong> Workmanship.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The region between the eyes and nostrils of birds, reptiles, and amphibians.</li><li><strong>Definition 2:</strong> The anterior portion of the cheeks of insects.</li></ul></div></div>"
+description: Yes, LORES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- bores
+- cores
+- dores
+- fores
+- gores
+- kores
+- lares
+- leres
+- lobes
+- lodes
+- loges
+- lokes
+anagrams:
+- loser
+- eorls
+- orles
+- relos
+- resol
+- roles
+- soler
+- sorel
+trap:
+  pattern: _ORES
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: All the facts and traditions about a particular subject that have been accumulated
+      over time through education or experience.
+    example: the lore of the Ancient Egyptians
+  - text: The backstory created around a fictional universe.
+  - text: Workmanship.
+- pos: noun
+  defs:
+  - text: The region between the eyes and nostrils of birds, reptiles, and amphibians.
+  - text: The anterior portion of the cheeks of insects.
 ---
-

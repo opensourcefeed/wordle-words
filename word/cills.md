@@ -1,7 +1,62 @@
 ---
 layout: word
-title: cills
+title: Is CILLS a Wordle Word?
+head_title: Is CILLS a Wordle Word? Yes – Valid Guess & Meaning
 word: cills
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (also window sill) A horizontal slat which forms the base of a window.</li><li><strong>Definition 2:</strong> A horizontal, structural member of a building near ground level on a foundation or pilings or lying on the ground in earth-fast construction and bearing the upright portion of a frame. Also called a ground plate, groundsill, sole, sole-plate, mudsill. An interrupted sill fits between posts instead of being below and supporting the posts in timber framing.</li><li><strong>Definition 3:</strong> A horizontal layer of igneous rock between older rock beds.</li><li><strong>Definition 4:</strong> A piece of timber across the bottom of a canal lock for the gates to shut against.</li><li><strong>Definition 5:</strong> A raised area at the base of the nasal aperture in the skull.<p><strong>Example:</strong> the nasal sill</p></li><li><strong>Definition 6:</strong> The inner edge of the bottom of an embrasure.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A young herring.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The shaft or thill of a carriage.</li></ul></div></div>"
+description: Yes, CILLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- bills
+- calls
+- cells
+- ciels
+- cirls
+- colls
+- culls
+- dills
+- fills
+- gills
+- hills
+- jills
+trap:
+  pattern: _ILLS
+  count: 19
+definitions:
+- pos: noun
+  defs:
+  - text: "(also window sill) A horizontal slat which forms the base of a window."
+  - text: A horizontal, structural member of a building near ground level on a foundation
+      or pilings or lying on the ground in earth-fast construction and bearing the
+      upright portion of a frame. Also called a ground plate, groundsill, sole, sole-plate,
+      mudsill. An interrupted sill fits between posts instead of being below and supporting
+      the posts in timber framing.
+  - text: A horizontal layer of igneous rock between older rock beds.
+  - text: A piece of timber across the bottom of a canal lock for the gates to shut
+      against.
+  - text: A raised area at the base of the nasal aperture in the skull.
+    example: the nasal sill
+  - text: The inner edge of the bottom of an embrasure.
+- pos: noun
+  defs:
+  - text: A young herring.
+- pos: noun
+  defs:
+  - text: The shaft or thill of a carriage.
 ---
-

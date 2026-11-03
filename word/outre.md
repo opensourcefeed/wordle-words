@@ -1,7 +1,41 @@
 ---
 layout: word
-title: outre
+title: Is OUTRE a Wordle Word?
+head_title: Is OUTRE a Wordle Word? Yes – Valid Guess & Meaning
 word: outre
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Beyond what is customary or proper; extravagant.</li><li><strong>Definition 2:</strong> Very unconventional.</li></ul></div></div>"
+description: Yes, OUTRE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- outie
+- outro
+anagrams:
+- outer
+- route
+- rouet
+- ruote
+- utero
+definitions:
+- pos: adjective
+  defs:
+  - text: Beyond what is customary or proper; extravagant.
+  - text: Very unconventional.
 ---
-

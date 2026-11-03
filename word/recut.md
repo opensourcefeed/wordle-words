@@ -1,7 +1,41 @@
 ---
 layout: word
-title: recut
+title: Is RECUT a Wordle Word?
+head_title: Is RECUT a Wordle Word? Yes – Possible Answer & Meaning
 word: recut
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut again</li></ul></div></div>"
+description: Yes, RECUT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- rebut
+- recur
+- recit
+- recue
+- reput
+anagrams:
+- truce
+- cruet
+- curet
+- cuter
+- eruct
+definitions:
+- pos: verb
+  defs:
+  - text: To cut again
 ---
-

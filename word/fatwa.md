@@ -1,7 +1,37 @@
 ---
 layout: word
-title: fatwa
+title: Is FATWA a Wordle Word?
+head_title: Is FATWA a Wordle Word? Yes – Valid Guess & Meaning
 word: fatwa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfatwɑː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A legal opinion, decree or ruling issued by a mufti or other Islamic lawyer.<p><strong>Example:</strong> I think the fatwas on that website are totally unreliable.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make somebody the subject of a fatwa, especially a ban or death sentence.</li></ul></div></div>"
+description: Yes, FATWA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- fetwa
+anagrams:
+- tawaf
+phonetic: "/ˈfatwɑː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A legal opinion, decree or ruling issued by a mufti or other Islamic lawyer.
+    example: I think the fatwas on that website are totally unreliable.
+- pos: verb
+  defs:
+  - text: To make somebody the subject of a fatwa, especially a ban or death sentence.
 ---
-

@@ -1,7 +1,35 @@
 ---
 layout: word
-title: ephod
+title: Is EPHOD a Wordle Word?
+head_title: Is EPHOD a Wordle Word? Yes – Valid Guess & Meaning
 word: ephod
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈiː.fɒd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A priestly apron, or breastplate, described in the Bible in Exodus 28: vi - xxx, which only the chief priest of ancient Israel was allowed to wear.</li></ul></div></div>"
+description: Yes, EPHOD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- ephor
+anagrams:
+- hoped
+- pohed
+phonetic: "/ˈiː.fɒd/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A priestly apron, or breastplate, described in the Bible in Exodus 28:
+      vi - xxx, which only the chief priest of ancient Israel was allowed to wear.'
 ---
-

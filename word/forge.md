@@ -1,7 +1,45 @@
 ---
 layout: word
-title: forge
+title: Is FORGE a Wordle Word?
+head_title: 'Is FORGE a Wordle Word? Yes – Past Answer #97 & Meaning'
 word: forge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɔːd͡ʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Furnace or hearth where metals are heated prior to hammering them into shape.</li><li><strong>Definition 2:</strong> Workshop in which metals are shaped by heating and hammering them.</li><li><strong>Definition 3:</strong> The act of beating or working iron or steel.</li></ul></div></div>"
+description: Yes, FORGE is a valid Wordle word. It was the Wordle answer on September
+  24, 2021 (#97). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 24, 2021 (#97).
+past_answers:
+- date: '2021-09-24'
+  number: 97
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- force
+- forgo
+- forte
+- gorge
+- forme
+- forze
+- porge
+anagrams:
+- gofer
+phonetic: "/fɔːd͡ʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Furnace or hearth where metals are heated prior to hammering them into shape.
+  - text: Workshop in which metals are shaped by heating and hammering them.
+  - text: The act of beating or working iron or steel.
 ---
-

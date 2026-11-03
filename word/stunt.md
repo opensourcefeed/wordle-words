@@ -1,7 +1,47 @@
 ---
 layout: word
-title: stunt
+title: Is STUNT a Wordle Word?
+head_title: 'Is STUNT a Wordle Word? Yes – Past Answer #1586 & Meaning'
 word: stunt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stʌnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A daring or dangerous feat, often involving the display of gymnastic skills.</li><li><strong>Definition 2:</strong> Skill</li><li><strong>Definition 3:</strong> A special means of rushing the quarterback done to confuse the opposing team's offensive line.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (cheerleading) To perform a stunt.</li><li><strong>Definition 2:</strong> To show off; to posture.</li></ul></div></div>"
+description: Yes, STUNT is a valid Wordle word. It was the Wordle answer on October
+  22, 2025 (#1586). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 22, 2025 (#1586).
+past_answers:
+- date: '2025-10-22'
+  number: 1586
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- shunt
+- stint
+- stung
+- stunk
+- saunt
+- stent
+- stuns
+- sturt
+phonetic: "/stʌnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A daring or dangerous feat, often involving the display of gymnastic skills.
+  - text: Skill
+  - text: A special means of rushing the quarterback done to confuse the opposing
+      team's offensive line.
+- pos: verb
+  defs:
+  - text: "(cheerleading) To perform a stunt."
+  - text: To show off; to posture.
 ---
-

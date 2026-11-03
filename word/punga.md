@@ -1,7 +1,40 @@
 ---
 layout: word
-title: punga
+title: Is PUNGA a Wordle Word?
+head_title: Is PUNGA a Wordle Word? Yes – Valid Guess & Meaning
 word: punga
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Alsophila dealbata (=Cyathea dealbata), a medium-sized tree fern endemic to New Zealand.</li></ul></div></div>"
+description: Yes, PUNGA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- munga
+- panga
+- pinga
+- ponga
+- pungi
+- pungo
+- pungs
+- pungy
+- punka
+- purga
+- wunga
+definitions:
+- pos: noun
+  defs:
+  - text: Alsophila dealbata (=Cyathea dealbata), a medium-sized tree fern endemic
+      to New Zealand.
 ---
-

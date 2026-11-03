@@ -1,7 +1,65 @@
 ---
 layout: word
-title: baked
+title: Is BAKED a Wordle Word?
+head_title: Is BAKED a Wordle Word? Yes – Valid Guess & Meaning
 word: baked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /beɪkt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (with person as subject) To cook (something) in an oven.<p><strong>Example:</strong> I baked a delicious cherry pie.</p></li><li><strong>Definition 2:</strong> (with baked thing as subject) To be cooked in an oven.<p><strong>Example:</strong> The cake baked at 350°F.</p></li><li><strong>Definition 3:</strong> To be warmed to drying and hardening.<p><strong>Example:</strong> The clay baked in the sun.</p></li><li><strong>Definition 4:</strong> To dry by heat.<p><strong>Example:</strong> They baked the electrical parts lightly to remove moisture.</p></li><li><strong>Definition 5:</strong> To be hot.<p><strong>Example:</strong> I'm baking after that workout in the gym.</p></li><li><strong>Definition 6:</strong> To cause to be hot.</li><li><strong>Definition 7:</strong> To smoke marijuana.</li><li><strong>Definition 8:</strong> To harden by cold.</li><li><strong>Definition 9:</strong> To fix (lighting, reflections, etc.) as part of the texture of an object to improve rendering performance.</li><li><strong>Definition 10:</strong> (with \"in\" or \"into\") To incorporate into something greater.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> That has been cooked by baking.</li><li><strong>Definition 2:</strong> High on cannabis.</li></ul></div></div>"
+description: Yes, BAKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- baker
+- baaed
+- baken
+- bakes
+- baled
+- baned
+- bared
+- based
+- bated
+- bayed
+- biked
+- boked
+trap:
+  pattern: _AKED
+  count: 8
+phonetic: "/beɪkt/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(with person as subject) To cook (something) in an oven."
+    example: I baked a delicious cherry pie.
+  - text: "(with baked thing as subject) To be cooked in an oven."
+    example: The cake baked at 350°F.
+  - text: To be warmed to drying and hardening.
+    example: The clay baked in the sun.
+  - text: To dry by heat.
+    example: They baked the electrical parts lightly to remove moisture.
+  - text: To be hot.
+    example: I'm baking after that workout in the gym.
+  - text: To cause to be hot.
+  - text: To smoke marijuana.
+  - text: To harden by cold.
+  - text: To fix (lighting, reflections, etc.) as part of the texture of an object
+      to improve rendering performance.
+  - text: (with "in" or "into") To incorporate into something greater.
+- pos: adjective
+  defs:
+  - text: That has been cooked by baking.
+  - text: High on cannabis.
 ---
-

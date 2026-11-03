@@ -1,7 +1,47 @@
 ---
 layout: word
-title: funky
+title: Is FUNKY a Wordle Word?
+head_title: 'Is FUNKY a Wordle Word? Yes – Past Answer #1275 & Meaning'
 word: funky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Offbeat, unconventional or eccentric.</li><li><strong>Definition 2:</strong> Not quite right; of questionable quality; not appropriate to the context.</li><li><strong>Definition 3:</strong> Cool; great; excellent.</li><li><strong>Definition 4:</strong> Having or relating to the smell of funk.</li><li><strong>Definition 5:</strong> Relating to or reminiscent of various genres of African American music, especially funk.</li><li><strong>Definition 6:</strong> Relating to, or characterized by, great fear, or funking.</li></ul></div></div>"
+description: Yes, FUNKY is a valid Wordle word. It was the Wordle answer on December
+  15, 2024 (#1275). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 15, 2024 (#1275).
+past_answers:
+- date: '2024-12-15'
+  number: 1275
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- funny
+- hunky
+- fundy
+- funks
+- funsy
+- gunky
+- junky
+- nunky
+- punky
+trap:
+  pattern: _UNKY
+  count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Offbeat, unconventional or eccentric.
+  - text: Not quite right; of questionable quality; not appropriate to the context.
+  - text: Cool; great; excellent.
+  - text: Having or relating to the smell of funk.
+  - text: Relating to or reminiscent of various genres of African American music,
+      especially funk.
+  - text: Relating to, or characterized by, great fear, or funking.
 ---
-

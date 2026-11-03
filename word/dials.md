@@ -1,7 +1,64 @@
 ---
 layout: word
-title: dials
+title: Is DIALS a Wordle Word?
+head_title: Is DIALS a Wordle Word? Yes – Valid Guess & Meaning
 word: dials
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A graduated, circular scale over which a needle moves to show a measurement (such as speed).</li><li><strong>Definition 2:</strong> A clock face.</li><li><strong>Definition 3:</strong> A sundial.</li><li><strong>Definition 4:</strong> A panel on a radio etc showing wavelengths or channels; a knob that is turned to change the wavelength etc.</li><li><strong>Definition 5:</strong> A disk with finger holes on a telephone; used to select the number to be called.</li><li><strong>Definition 6:</strong> A person's face.</li><li><strong>Definition 7:</strong> A miner's compass.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To control or select something with a dial, or (figuratively) as if with a dial.<p><strong>Example:</strong> President Trump has recently dialled down the rhetoric.</p></li><li><strong>Definition 2:</strong> To select a number, or to call someone, on a telephone.<p><strong>Example:</strong> In an emergency dial 999.</p></li><li><strong>Definition 3:</strong> To use a dial or a telephone.<p><strong>Example:</strong> Please be careful when dialling.</p></li></ul></div></div>"
+description: Yes, DIALS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- daals
+- deals
+- dhals
+- diels
+- dills
+- diols
+- dirls
+- duals
+- rials
+- sials
+- vials
+anagrams:
+- dalis
+- laids
+- slaid
+definitions:
+- pos: noun
+  defs:
+  - text: A graduated, circular scale over which a needle moves to show a measurement
+      (such as speed).
+  - text: A clock face.
+  - text: A sundial.
+  - text: A panel on a radio etc showing wavelengths or channels; a knob that is turned
+      to change the wavelength etc.
+  - text: A disk with finger holes on a telephone; used to select the number to be
+      called.
+  - text: A person's face.
+  - text: A miner's compass.
+- pos: verb
+  defs:
+  - text: To control or select something with a dial, or (figuratively) as if with
+      a dial.
+    example: President Trump has recently dialled down the rhetoric.
+  - text: To select a number, or to call someone, on a telephone.
+    example: In an emergency dial 999.
+  - text: To use a dial or a telephone.
+    example: Please be careful when dialling.
 ---
-

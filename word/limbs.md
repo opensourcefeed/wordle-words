@@ -1,7 +1,64 @@
 ---
 layout: word
-title: limbs
+title: Is LIMBS a Wordle Word?
+head_title: Is LIMBS a Wordle Word? Yes – Valid Guess & Meaning
 word: limbs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lɪmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A major appendage of human or animal, used for locomotion (such as an arm, leg or wing).</li><li><strong>Definition 2:</strong> A branch of a tree.</li><li><strong>Definition 3:</strong> The part of the bow, from the handle to the tip.</li><li><strong>Definition 4:</strong> An elementary piece of the mechanism of a lock.</li><li><strong>Definition 5:</strong> A thing or person regarded as a part or member of, or attachment to, something else.</li><li><strong>Definition 6:</strong> The part of a corolla beyond the throat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the limbs from (an animal or tree).<p><strong>Example:</strong> They limbed the felled trees before cutting them into logs.</p></li><li><strong>Definition 2:</strong> To supply with limbs.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The apparent visual edge of a celestial body.<p><strong>Example:</strong> solar limb</p></li><li><strong>Definition 2:</strong> (on a measuring instrument) The graduated edge of a circle or arc.</li><li><strong>Definition 3:</strong> The border or upper spreading part of a monopetalous corolla, or of a petal or sepal; blade.</li></ul></div></div>"
+description: Yes, LIMBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- limbo
+- lambs
+- limas
+- limba
+- limbi
+- limby
+- limes
+- limns
+- limos
+- limps
+- nimbs
+- zimbs
+trap:
+  pattern: LIM_S
+  count: 6
+phonetic: "/lɪmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A major appendage of human or animal, used for locomotion (such as an arm,
+      leg or wing).
+  - text: A branch of a tree.
+  - text: The part of the bow, from the handle to the tip.
+  - text: An elementary piece of the mechanism of a lock.
+  - text: A thing or person regarded as a part or member of, or attachment to, something
+      else.
+  - text: The part of a corolla beyond the throat.
+- pos: verb
+  defs:
+  - text: To remove the limbs from (an animal or tree).
+    example: They limbed the felled trees before cutting them into logs.
+  - text: To supply with limbs.
+- pos: noun
+  defs:
+  - text: The apparent visual edge of a celestial body.
+    example: solar limb
+  - text: "(on a measuring instrument) The graduated edge of a circle or arc."
+  - text: The border or upper spreading part of a monopetalous corolla, or of a petal
+      or sepal; blade.
 ---
-

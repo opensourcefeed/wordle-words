@@ -1,7 +1,125 @@
 ---
 layout: word
-title: jumps
+title: Is JUMPS a Wordle Word?
+head_title: Is JUMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: jumps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dʒʌmps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of jumping; a leap; a spring; a bound.</li><li><strong>Definition 2:</strong> An effort; an attempt; a venture.</li><li><strong>Definition 3:</strong> A dislocation in a stratum; a fault.</li><li><strong>Definition 4:</strong> An abrupt interruption of level in a piece of brickwork or masonry.</li><li><strong>Definition 5:</strong> An instance of propelling oneself upwards.<p><strong>Example:</strong> The boy took a skip and a jump down the lane.</p></li><li><strong>Definition 6:</strong> An object which causes one to jump, a ramp.<p><strong>Example:</strong> He went off a jump.</p></li><li><strong>Definition 7:</strong> An instance of causing oneself to fall from an elevated location.<p><strong>Example:</strong> There were a couple of jumps from the bridge.</p></li><li><strong>Definition 8:</strong> An instance of employing a parachute to leave an aircraft or elevated location.<p><strong>Example:</strong> She was terrified before the jump, but was thrilled to be skydiving.</p></li><li><strong>Definition 9:</strong> An instance of reacting to a sudden stimulus by jerking the body.</li><li><strong>Definition 10:</strong> A jumping move in a board game.<p><strong>Example:</strong> the knight's jump in chess</p></li><li><strong>Definition 11:</strong> A button (of a joypad, joystick or similar device) used to make a video game character jump (propel itself upwards).<p><strong>Example:</strong> Press jump to start.</p></li><li><strong>Definition 12:</strong> An obstacle that forms part of a showjumping course, and that the horse has to jump over cleanly.<p><strong>Example:</strong> Heartless managed the scale the first jump but fell over the second.</p></li><li><strong>Definition 13:</strong> (with on) An early start or an advantage.<p><strong>Example:</strong> He got a jump on the day because he had laid out everything the night before.</p></li><li><strong>Definition 14:</strong> A discontinuity in the graph of a function, where the function is continuous in a punctured interval of the discontinuity.</li><li><strong>Definition 15:</strong> An instance of faster-than-light travel, not observable from ordinary space.</li><li><strong>Definition 16:</strong> A change of the path of execution to a different location.</li><li><strong>Definition 17:</strong> Short for jump-start.<p><strong>Example:</strong> My car won't start. Could you give me a jump?</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.<p><strong>Example:</strong> Kangaroos are known for their ability to jump high.</p></li><li><strong>Definition 2:</strong> To cause oneself to leave an elevated location and fall downward.<p><strong>Example:</strong> She is going to jump from the diving board.</p></li><li><strong>Definition 3:</strong> To pass by a spring or leap; to overleap.<p><strong>Example:</strong> to jump a stream</p></li><li><strong>Definition 4:</strong> To employ a parachute to leave an aircraft or elevated location.</li><li><strong>Definition 5:</strong> To react to a sudden, often unexpected, stimulus (such as a sharp prick or a loud sound) by jerking the body violently.<p><strong>Example:</strong> The sudden sharp sound made me jump.</p></li><li><strong>Definition 6:</strong> To increase sharply, to rise, to shoot up.<p><strong>Example:</strong> Share prices jumped by 10% after the company announced record profits.</p></li><li><strong>Definition 7:</strong> To employ a move in certain board games where one game piece is moved from one legal position to another passing over the position of another piece.<p><strong>Example:</strong> The player's knight jumped the opponent's bishop.</p></li><li><strong>Definition 8:</strong> To move to a position (in a queue/line) that is further forward.<p><strong>Example:</strong> I hate it when people jump the queue.</p></li><li><strong>Definition 9:</strong> To attack suddenly and violently.<p><strong>Example:</strong> The hoodlum jumped a woman in the alley.</p></li><li><strong>Definition 10:</strong> To engage in sexual intercourse with (a person).</li><li><strong>Definition 11:</strong> To cause to jump.<p><strong>Example:</strong> The rider jumped the horse over the fence.</p></li><li><strong>Definition 12:</strong> To move the distance between two opposing subjects.</li><li><strong>Definition 13:</strong> To increase the height of a tower crane by inserting a section at the base of the tower and jacking up everything above it.</li><li><strong>Definition 14:</strong> To increase speed aggressively and without warning.</li><li><strong>Definition 15:</strong> To expose to danger; to risk; to hazard.</li><li><strong>Definition 16:</strong> (smithwork) To join by a buttweld.</li><li><strong>Definition 17:</strong> To thicken or enlarge by endwise blows; to upset.</li><li><strong>Definition 18:</strong> (quarrying) To bore with a jumper.</li><li><strong>Definition 19:</strong> To coincide; to agree; to accord; to tally; followed by with.</li><li><strong>Definition 20:</strong> To start executing code from a different location, rather than following the program counter.</li><li><strong>Definition 21:</strong> To flee; to make one's escape.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind of loose jacket for men.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bodice worn instead of stays by women in the 18th century.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An occasion when a performer or team of them (especially in vaudeville) expects to perform at a theater for a single evening.</li><li><strong>Definition 2:</strong> A single sexual encounter between two individuals, where at least one of the partners has no immediate intention or expectation of establishing a longer-term sexual or romantic relationship. As the phrase implies, the relationship lasts for only one night.</li><li><strong>Definition 3:</strong> Either of the two partners involved in such a single sexual encounter.</li></ul></div></div>"
+description: Yes, JUMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- jumpy
+- bumps
+- dumps
+- gumps
+- humps
+- lumps
+- mumps
+- numps
+- pumps
+- rumps
+- sumps
+- tumps
+trap:
+  pattern: _UMPS
+  count: 13
+phonetic: "/dʒʌmps/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of jumping; a leap; a spring; a bound.
+  - text: An effort; an attempt; a venture.
+  - text: A dislocation in a stratum; a fault.
+  - text: An abrupt interruption of level in a piece of brickwork or masonry.
+  - text: An instance of propelling oneself upwards.
+    example: The boy took a skip and a jump down the lane.
+  - text: An object which causes one to jump, a ramp.
+    example: He went off a jump.
+  - text: An instance of causing oneself to fall from an elevated location.
+    example: There were a couple of jumps from the bridge.
+  - text: An instance of employing a parachute to leave an aircraft or elevated location.
+    example: She was terrified before the jump, but was thrilled to be skydiving.
+  - text: An instance of reacting to a sudden stimulus by jerking the body.
+  - text: A jumping move in a board game.
+    example: the knight's jump in chess
+  - text: A button (of a joypad, joystick or similar device) used to make a video
+      game character jump (propel itself upwards).
+    example: Press jump to start.
+  - text: An obstacle that forms part of a showjumping course, and that the horse
+      has to jump over cleanly.
+    example: Heartless managed the scale the first jump but fell over the second.
+  - text: "(with on) An early start or an advantage."
+    example: He got a jump on the day because he had laid out everything the night
+      before.
+  - text: A discontinuity in the graph of a function, where the function is continuous
+      in a punctured interval of the discontinuity.
+  - text: An instance of faster-than-light travel, not observable from ordinary space.
+  - text: A change of the path of execution to a different location.
+  - text: Short for jump-start.
+    example: My car won't start. Could you give me a jump?
+- pos: verb
+  defs:
+  - text: To propel oneself rapidly upward, downward and/or in any horizontal direction
+      such that momentum causes the body to become airborne.
+    example: Kangaroos are known for their ability to jump high.
+  - text: To cause oneself to leave an elevated location and fall downward.
+    example: She is going to jump from the diving board.
+  - text: To pass by a spring or leap; to overleap.
+    example: to jump a stream
+  - text: To employ a parachute to leave an aircraft or elevated location.
+  - text: To react to a sudden, often unexpected, stimulus (such as a sharp prick
+      or a loud sound) by jerking the body violently.
+    example: The sudden sharp sound made me jump.
+  - text: To increase sharply, to rise, to shoot up.
+    example: Share prices jumped by 10% after the company announced record profits.
+  - text: To employ a move in certain board games where one game piece is moved from
+      one legal position to another passing over the position of another piece.
+    example: The player's knight jumped the opponent's bishop.
+  - text: To move to a position (in a queue/line) that is further forward.
+    example: I hate it when people jump the queue.
+  - text: To attack suddenly and violently.
+    example: The hoodlum jumped a woman in the alley.
+  - text: To engage in sexual intercourse with (a person).
+  - text: To cause to jump.
+    example: The rider jumped the horse over the fence.
+  - text: To move the distance between two opposing subjects.
+  - text: To increase the height of a tower crane by inserting a section at the base
+      of the tower and jacking up everything above it.
+  - text: To increase speed aggressively and without warning.
+  - text: To expose to danger; to risk; to hazard.
+  - text: "(smithwork) To join by a buttweld."
+  - text: To thicken or enlarge by endwise blows; to upset.
+  - text: "(quarrying) To bore with a jumper."
+  - text: To coincide; to agree; to accord; to tally; followed by with.
+  - text: To start executing code from a different location, rather than following
+      the program counter.
+  - text: To flee; to make one's escape.
+- pos: noun
+  defs:
+  - text: A kind of loose jacket for men.
+- pos: noun
+  defs:
+  - text: A bodice worn instead of stays by women in the 18th century.
+- pos: noun
+  defs:
+  - text: An occasion when a performer or team of them (especially in vaudeville)
+      expects to perform at a theater for a single evening.
+  - text: A single sexual encounter between two individuals, where at least one of
+      the partners has no immediate intention or expectation of establishing a longer-term
+      sexual or romantic relationship. As the phrase implies, the relationship lasts
+      for only one night.
+  - text: Either of the two partners involved in such a single sexual encounter.
 ---
-

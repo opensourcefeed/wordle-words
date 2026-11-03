@@ -1,7 +1,36 @@
 ---
 layout: word
-title: fetus
+title: Is FETUS a Wordle Word?
+head_title: Is FETUS a Wordle Word? Yes – Possible Answer & Meaning
 word: fetus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfiːtəs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An unborn or unhatched vertebrate showing signs of the mature animal.</li><li><strong>Definition 2:</strong> A human embryo after the eighth week of gestation.<p><strong>Example:</strong> The sequence is: molecules in reproductive systems, then gametes, zygotes, morulas, blastocysts, and then fetuses.</p></li></ul></div></div>"
+description: Yes, FETUS is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- fetas
+- fetes
+- fetts
+phonetic: "/ˈfiːtəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: An unborn or unhatched vertebrate showing signs of the mature animal.
+  - text: A human embryo after the eighth week of gestation.
+    example: 'The sequence is: molecules in reproductive systems, then gametes, zygotes,
+      morulas, blastocysts, and then fetuses.'
 ---
-

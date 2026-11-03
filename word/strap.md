@@ -1,7 +1,75 @@
 ---
 layout: word
-title: strap
+title: Is STRAP a Wordle Word?
+head_title: 'Is STRAP a Wordle Word? Yes – Past Answer #727 & Meaning'
 word: strap
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɹæp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long, narrow, pliable strip of leather, cloth, or the like.</li><li><strong>Definition 2:</strong> A strip of thick leather used in flogging.</li><li><strong>Definition 3:</strong> Something made of such a strip, or of a part of one, or a combination of two or more for a particular use.</li><li><strong>Definition 4:</strong> A piece of leather, or strip of wood covered with a suitable material, used to hone the sharpened edge of a razor; a strop.</li><li><strong>Definition 5:</strong> A narrow strip of anything, as of iron or brass.</li><li><strong>Definition 6:</strong> The flat part of the corolla in ligulate florets, as those of the white circle in the daisy.</li><li><strong>Definition 7:</strong> The leaf, exclusive of its sheath, in some grasses.</li><li><strong>Definition 8:</strong> A gun, normally a personal firearm such as a pistol or machine pistol.</li><li><strong>Definition 9:</strong> Credit offered to a customer, especially for alcoholic drink.</li><li><strong>Definition 10:</strong> (with \"the\") A championship belt, or by extension, the title.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To beat or chastise with a strap; to whip, to lash.</li><li><strong>Definition 2:</strong> To fasten or bind with a strap.</li><li><strong>Definition 3:</strong> To sharpen by rubbing on a strap, or strop<p><strong>Example:</strong> to strap a razor</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A secondary heading, especially one printed above another.</li><li><strong>Definition 2:</strong> A memorable slogan attached to a commercial brand.</li></ul></div></div>"
+description: Yes, STRAP is a valid Wordle word. It was the Wordle answer on June 16,
+  2023 (#727). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 16, 2023 (#727).
+past_answers:
+- date: '2023-06-16'
+  number: 727
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- scrap
+- straw
+- stray
+- strip
+- strad
+- strae
+- strag
+- strak
+- strep
+- strop
+anagrams:
+- parts
+- prats
+- spart
+- sprat
+- tarps
+- traps
+trap:
+  pattern: STRA_
+  count: 7
+phonetic: "/stɹæp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long, narrow, pliable strip of leather, cloth, or the like.
+  - text: A strip of thick leather used in flogging.
+  - text: Something made of such a strip, or of a part of one, or a combination of
+      two or more for a particular use.
+  - text: A piece of leather, or strip of wood covered with a suitable material, used
+      to hone the sharpened edge of a razor; a strop.
+  - text: A narrow strip of anything, as of iron or brass.
+  - text: The flat part of the corolla in ligulate florets, as those of the white
+      circle in the daisy.
+  - text: The leaf, exclusive of its sheath, in some grasses.
+  - text: A gun, normally a personal firearm such as a pistol or machine pistol.
+  - text: Credit offered to a customer, especially for alcoholic drink.
+  - text: (with "the") A championship belt, or by extension, the title.
+- pos: verb
+  defs:
+  - text: To beat or chastise with a strap; to whip, to lash.
+  - text: To fasten or bind with a strap.
+  - text: To sharpen by rubbing on a strap, or strop
+    example: to strap a razor
+- pos: noun
+  defs:
+  - text: A secondary heading, especially one printed above another.
+  - text: A memorable slogan attached to a commercial brand.
 ---
-

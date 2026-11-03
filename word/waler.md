@@ -1,7 +1,49 @@
 ---
 layout: word
-title: waler
+title: Is WALER a Wordle Word?
+head_title: Is WALER a Wordle Word? Yes – Valid Guess & Meaning
 word: waler
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈweɪlə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A breed of light saddle horse from Australia, once favoured as a warhorse.</li></ul></div></div>"
+description: Yes, WALER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- baler
+- paler
+- wafer
+- wager
+- water
+- waver
+- haler
+- taler
+- wader
+- waker
+- waled
+- wales
+anagrams:
+- lawer
+trap:
+  pattern: WA_ER
+  count: 8
+phonetic: "/ˈweɪlə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A breed of light saddle horse from Australia, once favoured as a warhorse.
 ---
-

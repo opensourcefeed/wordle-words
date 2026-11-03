@@ -1,7 +1,56 @@
 ---
 layout: word
-title: yarks
+title: Is YARKS a Wordle Word?
+head_title: Is YARKS a Wordle Word? Yes – Valid Guess & Meaning
 word: yarks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make ready; prepare.</li><li><strong>Definition 2:</strong> To dispose; be set in order for; be destined or intended for.</li><li><strong>Definition 3:</strong> To set open; open.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To draw (stitches etc.) tight.</li><li><strong>Definition 2:</strong> To hit, strike, especially with a cane or whip.</li><li><strong>Definition 3:</strong> To crack (a whip).</li></ul></div></div>"
+description: Yes, YARKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- barks
+- carks
+- darks
+- harks
+- jarks
+- karks
+- larks
+- marks
+- narks
+- parks
+- rarks
+- sarks
+anagrams:
+- karsy
+- krays
+- kyars
+- sarky
+trap:
+  pattern: _ARKS
+  count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: To make ready; prepare.
+  - text: To dispose; be set in order for; be destined or intended for.
+  - text: To set open; open.
+- pos: verb
+  defs:
+  - text: To draw (stitches etc.) tight.
+  - text: To hit, strike, especially with a cane or whip.
+  - text: To crack (a whip).
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: stilt
+title: Is STILT a Wordle Word?
+head_title: 'Is STILT a Wordle Word? Yes – Past Answer #1479 & Meaning'
 word: stilt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɪlt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Either of two poles with footrests that allow someone to stand or walk above the ground; used mostly by entertainers.</li><li><strong>Definition 2:</strong> A tall pillar or post used to support some structure; often above water.</li><li><strong>Definition 3:</strong> Any of various wading birds of the genera Himantopus and Cladorhynchus, related to the avocet, that have extremely long legs and long thin bills.</li><li><strong>Definition 4:</strong> A crutch.</li><li><strong>Definition 5:</strong> The handle of a plough.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To raise on stilts, or as if on stilts</li></ul></div></div>"
+description: Yes, STILT is a valid Wordle word. It was the Wordle answer on July 7,
+  2025 (#1479). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 7, 2025 (#1479).
+past_answers:
+- date: '2025-07-07'
+  number: 1479
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- spilt
+- still
+- stint
+- atilt
+- stilb
+- stile
+anagrams:
+- tilts
+phonetic: "/stɪlt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Either of two poles with footrests that allow someone to stand or walk above
+      the ground; used mostly by entertainers.
+  - text: A tall pillar or post used to support some structure; often above water.
+  - text: Any of various wading birds of the genera Himantopus and Cladorhynchus,
+      related to the avocet, that have extremely long legs and long thin bills.
+  - text: A crutch.
+  - text: The handle of a plough.
+- pos: verb
+  defs:
+  - text: To raise on stilts, or as if on stilts
 ---
-

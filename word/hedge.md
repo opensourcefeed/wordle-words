@@ -1,7 +1,51 @@
 ---
 layout: word
-title: hedge
+title: Is HEDGE a Wordle Word?
+head_title: Is HEDGE a Wordle Word? Yes – Possible Answer & Meaning
 word: hedge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɛdʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thicket of bushes or other shrubbery, especially one planted as a fence between two portions of land, or to separate the parts of a garden.<p><strong>Example:</strong> He trims the hedge once a week.</p></li><li><strong>Definition 2:</strong> A barrier (often consisting of a line of persons or objects) to protect someone or something from harm.</li><li><strong>Definition 3:</strong> A mound of earth, stone- or turf-faced, often topped with bushes, used as a fence between any two portions of land.</li><li><strong>Definition 4:</strong> A non-committal or intentionally ambiguous statement.</li><li><strong>Definition 5:</strong> Contract or arrangement reducing one's exposure to risk (for example the risk of price movements or interest rate movements).<p><strong>Example:</strong> A hedge is an investment position intended to offset potential losses/gains that may be incurred by a companion investment. In simple language, a hedge is used to reduce any substantial losses/gains suffered by an individual or an organization.</p></li><li><strong>Definition 6:</strong> (noun adjunct) Used attributively, with figurative indication of a person's upbringing, or professional activities, taking place by the side of the road; third-rate.</li></ul></div></div>"
+description: Yes, HEDGE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- ledge
+- wedge
+- hedgy
+- henge
+- kedge
+- sedge
+phonetic: "/hɛdʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thicket of bushes or other shrubbery, especially one planted as a fence
+      between two portions of land, or to separate the parts of a garden.
+    example: He trims the hedge once a week.
+  - text: A barrier (often consisting of a line of persons or objects) to protect
+      someone or something from harm.
+  - text: A mound of earth, stone- or turf-faced, often topped with bushes, used as
+      a fence between any two portions of land.
+  - text: A non-committal or intentionally ambiguous statement.
+  - text: Contract or arrangement reducing one's exposure to risk (for example the
+      risk of price movements or interest rate movements).
+    example: A hedge is an investment position intended to offset potential losses/gains
+      that may be incurred by a companion investment. In simple language, a hedge
+      is used to reduce any substantial losses/gains suffered by an individual or
+      an organization.
+  - text: "(noun adjunct) Used attributively, with figurative indication of a person's
+      upbringing, or professional activities, taking place by the side of the road;
+      third-rate."
 ---
-

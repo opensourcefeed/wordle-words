@@ -1,7 +1,91 @@
 ---
 layout: word
-title: shake
+title: Is SHAKE a Wordle Word?
+head_title: 'Is SHAKE a Wordle Word? Yes – Past Answer #243 & Meaning'
 word: shake
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʃeɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of shaking or being shaken; tremulous or back-and-forth motion.<p><strong>Example:</strong> She replied in the negative, with a shake of her head.</p></li><li><strong>Definition 2:</strong> A milkshake.</li><li><strong>Definition 3:</strong> A beverage made by adding ice cream to a (usually carbonated) drink; a float.</li><li><strong>Definition 4:</strong> Shake cannabis, small, leafy fragments of cannabis that gather at the bottom of a bag of marijuana.</li><li><strong>Definition 5:</strong> (building material) A thin shingle.</li><li><strong>Definition 6:</strong> A crack or split between the growth rings in wood.</li><li><strong>Definition 7:</strong> A fissure in rock or earth.</li><li><strong>Definition 8:</strong> A basic wooden shingle made from split logs, traditionally used for roofing etc.</li><li><strong>Definition 9:</strong> Instant, second. (Especially in two shakes.)</li><li><strong>Definition 10:</strong> One of the staves of a hogshead or barrel taken apart.</li><li><strong>Definition 11:</strong> A rapid alternation of a principal tone with another represented on the next degree of the staff above or below it; a trill.</li><li><strong>Definition 12:</strong> A shook of staves and headings.</li><li><strong>Definition 13:</strong> The redshank, so called from the nodding of its head while on the ground.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause (something) to move rapidly in opposite directions alternatingly.<p><strong>Example:</strong> He shook the can of soda for thirty seconds before delivering it to me, so that, when I popped it open, soda went everywhere.</p></li><li><strong>Definition 2:</strong> To move (one's head) from side to side, especially to indicate refusal, reluctance or disapproval.<p><strong>Example:</strong> Shaking his head, he kept repeating \"No, no, no\".</p></li><li><strong>Definition 3:</strong> To move or remove by agitating; to throw off by a jolting or vibrating motion.<p><strong>Example:</strong> to shake fruit down from a tree</p></li><li><strong>Definition 4:</strong> To disturb emotionally; to shock.<p><strong>Example:</strong> He was shaken by what had happened.</p></li><li><strong>Definition 5:</strong> To lose, evade, or get rid of (something).<p><strong>Example:</strong> I can't shake the feeling that I forgot something.</p></li><li><strong>Definition 6:</strong> To move from side to side.<p><strong>Example:</strong> She shook with grief.</p></li><li><strong>Definition 7:</strong> (usually as \"shake on\") To shake hands.<p><strong>Example:</strong> OK, let's shake on it.</p></li><li><strong>Definition 8:</strong> To dance.<p><strong>Example:</strong> She was shaking it on the dance floor.</p></li><li><strong>Definition 9:</strong> To give a tremulous tone to; to trill.<p><strong>Example:</strong> to shake a note in music</p></li><li><strong>Definition 10:</strong> To threaten to overthrow.<p><strong>Example:</strong> The experience shook my religious belief.</p></li><li><strong>Definition 11:</strong> To be agitated; to lose firmness.</li></ul></div></div>"
+description: Yes, SHAKE is a valid Wordle word. It was the Wordle answer on February
+  17, 2022 (#243). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 17, 2022 (#243).
+past_answers:
+- date: '2022-02-17'
+  number: 243
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- shade
+- shaky
+- shale
+- shame
+- shape
+- share
+- shave
+- snake
+- stake
+- shaka
+- shako
+- shakt
+anagrams:
+- hakes
+trap:
+  pattern: SHA_E
+  count: 7
+phonetic: "/ˈʃeɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of shaking or being shaken; tremulous or back-and-forth motion.
+    example: She replied in the negative, with a shake of her head.
+  - text: A milkshake.
+  - text: A beverage made by adding ice cream to a (usually carbonated) drink; a float.
+  - text: Shake cannabis, small, leafy fragments of cannabis that gather at the bottom
+      of a bag of marijuana.
+  - text: "(building material) A thin shingle."
+  - text: A crack or split between the growth rings in wood.
+  - text: A fissure in rock or earth.
+  - text: A basic wooden shingle made from split logs, traditionally used for roofing
+      etc.
+  - text: Instant, second. (Especially in two shakes.)
+  - text: One of the staves of a hogshead or barrel taken apart.
+  - text: A rapid alternation of a principal tone with another represented on the
+      next degree of the staff above or below it; a trill.
+  - text: A shook of staves and headings.
+  - text: The redshank, so called from the nodding of its head while on the ground.
+- pos: verb
+  defs:
+  - text: To cause (something) to move rapidly in opposite directions alternatingly.
+    example: He shook the can of soda for thirty seconds before delivering it to me,
+      so that, when I popped it open, soda went everywhere.
+  - text: To move (one's head) from side to side, especially to indicate refusal,
+      reluctance or disapproval.
+    example: Shaking his head, he kept repeating "No, no, no".
+  - text: To move or remove by agitating; to throw off by a jolting or vibrating motion.
+    example: to shake fruit down from a tree
+  - text: To disturb emotionally; to shock.
+    example: He was shaken by what had happened.
+  - text: To lose, evade, or get rid of (something).
+    example: I can't shake the feeling that I forgot something.
+  - text: To move from side to side.
+    example: She shook with grief.
+  - text: (usually as "shake on") To shake hands.
+    example: OK, let's shake on it.
+  - text: To dance.
+    example: She was shaking it on the dance floor.
+  - text: To give a tremulous tone to; to trill.
+    example: to shake a note in music
+  - text: To threaten to overthrow.
+    example: The experience shook my religious belief.
+  - text: To be agitated; to lose firmness.
 ---
-

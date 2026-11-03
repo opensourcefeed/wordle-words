@@ -1,7 +1,50 @@
 ---
 layout: word
-title: wreck
+title: Is WRECK a Wordle Word?
+head_title: 'Is WRECK a Wordle Word? Yes – Past Answer #1796 & Meaning'
 word: wreck
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɛk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something or someone that has been ruined.<p><strong>Example:</strong> He was an emotional wreck after the death of his wife.</p></li><li><strong>Definition 2:</strong> The remains of something that has been severely damaged or worn down.</li><li><strong>Definition 3:</strong> An event in which something is damaged through collision.</li><li><strong>Definition 4:</strong> Goods, etc. cast ashore by the sea after a shipwreck.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To destroy violently; to cause severe damage to something, to a point where it no longer works, or is useless.<p><strong>Example:</strong> He wrecked the car in a collision.</p></li><li><strong>Definition 2:</strong> To ruin or dilapidate.</li><li><strong>Definition 3:</strong> To dismantle wrecked vehicles or other objects, to reclaim any useful parts.</li><li><strong>Definition 4:</strong> To involve in a wreck; hence, to cause to suffer ruin; to balk of success, and bring disaster on.</li></ul></div></div>"
+description: Yes, WRECK is a valid Wordle word. It was the Wordle answer on May 20,
+  2026 (#1796). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 20, 2026 (#1796).
+past_answers:
+- date: '2026-05-20'
+  number: 1796
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- wrack
+- wreak
+- dreck
+- treck
+- wrick
+phonetic: "/ˈɹɛk/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something or someone that has been ruined.
+    example: He was an emotional wreck after the death of his wife.
+  - text: The remains of something that has been severely damaged or worn down.
+  - text: An event in which something is damaged through collision.
+  - text: Goods, etc. cast ashore by the sea after a shipwreck.
+- pos: verb
+  defs:
+  - text: To destroy violently; to cause severe damage to something, to a point where
+      it no longer works, or is useless.
+    example: He wrecked the car in a collision.
+  - text: To ruin or dilapidate.
+  - text: To dismantle wrecked vehicles or other objects, to reclaim any useful parts.
+  - text: To involve in a wreck; hence, to cause to suffer ruin; to balk of success,
+      and bring disaster on.
 ---
-

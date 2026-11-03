@@ -1,7 +1,60 @@
 ---
 layout: word
-title: hefts
+title: Is HEFTS a Wordle Word?
+head_title: Is HEFTS a Wordle Word? Yes – Valid Guess & Meaning
 word: hefts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Weight.</li><li><strong>Definition 2:</strong> Heaviness, the feel of weight.<p><strong>Example:</strong> A high quality hammer should have good balance and heft.</p></li><li><strong>Definition 3:</strong> The act or effort of heaving; violent strain or exertion.</li><li><strong>Definition 4:</strong> The greater part or bulk of anything.<p><strong>Example:</strong> The heft of the crop was spoiled.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lift up; especially, to lift something heavy.<p><strong>Example:</strong> He hefted the sack of concrete into the truck.</p></li><li><strong>Definition 2:</strong> To test the weight of something by lifting it.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece of mountain pasture to which a farm animal has become hefted (accustomed).</li><li><strong>Definition 2:</strong> An animal that has become hefted thus.</li><li><strong>Definition 3:</strong> (West of Ireland) Poor condition in sheep caused by mineral deficiency.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (Northern England and Scotland) To make (a farm animal, especially a flock of sheep) accustomed and attached to an area of mountain pasture.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A number of sheets of paper fastened together, as for a notebook.</li><li><strong>Definition 2:</strong> A part of a serial publication.</li></ul></div></div>"
+description: Yes, HEFTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- hefty
+- hafts
+- heats
+- hefte
+- hents
+- hests
+- lefts
+- wefts
+definitions:
+- pos: noun
+  defs:
+  - text: Weight.
+  - text: Heaviness, the feel of weight.
+    example: A high quality hammer should have good balance and heft.
+  - text: The act or effort of heaving; violent strain or exertion.
+  - text: The greater part or bulk of anything.
+    example: The heft of the crop was spoiled.
+- pos: verb
+  defs:
+  - text: To lift up; especially, to lift something heavy.
+    example: He hefted the sack of concrete into the truck.
+  - text: To test the weight of something by lifting it.
+- pos: noun
+  defs:
+  - text: A piece of mountain pasture to which a farm animal has become hefted (accustomed).
+  - text: An animal that has become hefted thus.
+  - text: "(West of Ireland) Poor condition in sheep caused by mineral deficiency."
+- pos: verb
+  defs:
+  - text: "(Northern England and Scotland) To make (a farm animal, especially a flock
+      of sheep) accustomed and attached to an area of mountain pasture."
+- pos: noun
+  defs:
+  - text: A number of sheets of paper fastened together, as for a notebook.
+  - text: A part of a serial publication.
 ---
-

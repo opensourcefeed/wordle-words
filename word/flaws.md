@@ -1,7 +1,53 @@
 ---
 layout: word
-title: flaws
+title: Is FLAWS a Wordle Word?
+head_title: Is FLAWS a Wordle Word? Yes – Valid Guess & Meaning
 word: flaws
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A flake, fragment, or shiver.</li><li><strong>Definition 2:</strong> A thin cake, as of ice.</li><li><strong>Definition 3:</strong> A crack or breach, a gap or fissure; a defect of continuity or cohesion.<p><strong>Example:</strong> That vase has a flaw.</p></li><li><strong>Definition 4:</strong> A defect, fault, or imperfection, especially one that is hidden.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden burst or gust of wind of short duration; windflaw.</li><li><strong>Definition 2:</strong> A storm of short duration.</li><li><strong>Definition 3:</strong> A sudden burst of noise and disorder</li></ul></div></div>"
+description: Yes, FLAWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- blaws
+- claws
+- flabs
+- flags
+- flaks
+- flams
+- flans
+- flaps
+- flats
+- flawn
+- flawy
+- flays
+trap:
+  pattern: FLA_S
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A flake, fragment, or shiver.
+  - text: A thin cake, as of ice.
+  - text: A crack or breach, a gap or fissure; a defect of continuity or cohesion.
+    example: That vase has a flaw.
+  - text: A defect, fault, or imperfection, especially one that is hidden.
+- pos: noun
+  defs:
+  - text: A sudden burst or gust of wind of short duration; windflaw.
+  - text: A storm of short duration.
+  - text: A sudden burst of noise and disorder
 ---
-

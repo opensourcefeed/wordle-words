@@ -1,7 +1,42 @@
 ---
 layout: word
-title: esses
+title: Is ESSES a Wordle Word?
+head_title: Is ESSES a Wordle Word? Yes – Valid Guess & Meaning
 word: esses
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛsɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The name of the Latin-script letter S.</li><li><strong>Definition 2:</strong> Something shaped like the letter S.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move in a changing direction, forming the shape of a letter S.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually plural) A sequence of winding turns.</li></ul></div></div>"
+description: Yes, ESSES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 2
+  repeated:
+  - E
+  - S
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- asses
+- eases
+- erses
+- esnes
+phonetic: "/ˈɛsɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The name of the Latin-script letter S.
+  - text: Something shaped like the letter S.
+- pos: verb
+  defs:
+  - text: To move in a changing direction, forming the shape of a letter S.
+- pos: noun
+  defs:
+  - text: "(usually plural) A sequence of winding turns."
 ---
-

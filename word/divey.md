@@ -1,7 +1,39 @@
 ---
 layout: word
-title: divey
+title: Is DIVEY a Wordle Word?
+head_title: Is DIVEY a Wordle Word? Yes – Valid Guess & Meaning
 word: divey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪvi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the character of a dive, a disreputable bar or nightclub.<p><strong>Example:</strong> That new restaurant is kind of divey.</p></li></ul></div></div>"
+description: Yes, DIVEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- dicey
+- diver
+- dikey
+- dived
+- dives
+- divvy
+- jivey
+- mivey
+phonetic: "/ˈdaɪvi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having the character of a dive, a disreputable bar or nightclub.
+    example: That new restaurant is kind of divey.
 ---
-

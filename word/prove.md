@@ -1,7 +1,75 @@
 ---
 layout: word
-title: prove
+title: Is PROVE a Wordle Word?
+head_title: 'Is PROVE a Wordle Word? Yes – Past Answer #1936 & Meaning'
 word: prove
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹuːv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To proofread.</li><li><strong>Definition 2:</strong> To make resistant, especially to water.</li><li><strong>Definition 3:</strong> To allow yeast-containing dough to rise.</li><li><strong>Definition 4:</strong> To test the activeness of yeast.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The process of dough proofing.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To demonstrate that something is true or viable; to give proof for.<p><strong>Example:</strong> I will prove that my method is more effective than yours.</p></li><li><strong>Definition 2:</strong> To turn out; to manifest.<p><strong>Example:</strong> It proved to be a cold day.</p></li><li><strong>Definition 3:</strong> To turn out to be.<p><strong>Example:</strong> Have an exit strategy should your calculations prove incorrect.</p></li><li><strong>Definition 4:</strong> To put to the test, to make trial of.<p><strong>Example:</strong> The exception proves the rule.</p></li><li><strong>Definition 5:</strong> To ascertain or establish the genuineness or validity of; to verify.<p><strong>Example:</strong> to prove a will</p></li><li><strong>Definition 6:</strong> To experience.</li><li><strong>Definition 7:</strong> To take a trial impression of; to take a proof of.<p><strong>Example:</strong> to prove a page</p></li></ul></div></div>"
+description: Yes, PROVE is a valid Wordle word. It was the Wordle answer on November
+  29, 2021 (#163) and October 7, 2026 (#1936). See its meaning, starter rating and
+  similar words.
+status: past
+answer_text: It was the Wordle answer on November 29, 2021 (#163) and October 7, 2026
+  (#1936).
+past_answers:
+- date: '2021-11-29'
+  number: 163
+- date: '2026-10-07'
+  number: 1936
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- drove
+- grove
+- probe
+- prone
+- prose
+- trove
+- poove
+- preve
+- proke
+- prole
+- prore
+anagrams:
+- pervo
+trap:
+  pattern: PRO_E
+  count: 7
+phonetic: "/pɹuːv/"
+definitions:
+- pos: verb
+  defs:
+  - text: To proofread.
+  - text: To make resistant, especially to water.
+  - text: To allow yeast-containing dough to rise.
+  - text: To test the activeness of yeast.
+- pos: noun
+  defs:
+  - text: The process of dough proofing.
+- pos: verb
+  defs:
+  - text: To demonstrate that something is true or viable; to give proof for.
+    example: I will prove that my method is more effective than yours.
+  - text: To turn out; to manifest.
+    example: It proved to be a cold day.
+  - text: To turn out to be.
+    example: Have an exit strategy should your calculations prove incorrect.
+  - text: To put to the test, to make trial of.
+    example: The exception proves the rule.
+  - text: To ascertain or establish the genuineness or validity of; to verify.
+    example: to prove a will
+  - text: To experience.
+  - text: To take a trial impression of; to take a proof of.
+    example: to prove a page
 ---
-

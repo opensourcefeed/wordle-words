@@ -1,7 +1,31 @@
 ---
 layout: word
-title: nonyl
+title: Is NONYL a Wordle Word?
+head_title: Is NONYL a Wordle Word? Yes – Valid Guess & Meaning
 word: nonyl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of very many isomeric univalent hydrocarbon radicals, C9H19, formally derived from nonane by the loss of a hydrogen atom.</li></ul></div></div>"
+description: Yes, NONYL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+anagrams:
+- nylon
+definitions:
+- pos: noun
+  defs:
+  - text: Any of very many isomeric univalent hydrocarbon radicals, C9H19, formally
+      derived from nonane by the loss of a hydrogen atom.
 ---
-

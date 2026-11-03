@@ -1,7 +1,51 @@
 ---
 layout: word
-title: twang
+title: Is TWANG a Wordle Word?
+head_title: 'Is TWANG a Wordle Word? Yes – Past Answer #425 & Meaning'
 word: twang
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /twæŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sharp, quick sound of a vibrating tight string, for example, of a bow or a musical instrument.</li><li><strong>Definition 2:</strong> A particular sharp vibrating sound characteristic of electric guitars.</li><li><strong>Definition 3:</strong> A trace of a regional or foreign accent in someone's voice.<p><strong>Example:</strong> Despite having lived in Canada for 20 years, he still has that Eastern-European twang in his voice.</p></li><li><strong>Definition 4:</strong> The sound quality that appears in the human voice when the epilaryngeal tube is narrowed.</li><li><strong>Definition 5:</strong> A sharp, disagreeable taste or flavor.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce or cause to produce a sharp vibrating sound, like a tense string pulled and suddenly let go.</li><li><strong>Definition 2:</strong> To have a nasal sound.</li><li><strong>Definition 3:</strong> To have a trace of a regional or foreign accent.</li><li><strong>Definition 4:</strong> To play a stringed musical instrument by plucking and snapping.</li></ul></div></div>"
+description: Yes, TWANG is a valid Wordle word. It was the Wordle answer on August
+  18, 2022 (#425). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 18, 2022 (#425).
+past_answers:
+- date: '2022-08-18'
+  number: 425
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- dwang
+- swang
+- thang
+- twank
+phonetic: "/twæŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sharp, quick sound of a vibrating tight string, for example, of a bow
+      or a musical instrument.
+  - text: A particular sharp vibrating sound characteristic of electric guitars.
+  - text: A trace of a regional or foreign accent in someone's voice.
+    example: Despite having lived in Canada for 20 years, he still has that Eastern-European
+      twang in his voice.
+  - text: The sound quality that appears in the human voice when the epilaryngeal
+      tube is narrowed.
+  - text: A sharp, disagreeable taste or flavor.
+- pos: verb
+  defs:
+  - text: To produce or cause to produce a sharp vibrating sound, like a tense string
+      pulled and suddenly let go.
+  - text: To have a nasal sound.
+  - text: To have a trace of a regional or foreign accent.
+  - text: To play a stringed musical instrument by plucking and snapping.
 ---
-

@@ -1,7 +1,82 @@
 ---
 layout: word
-title: parts
+title: Is PARTS a Wordle Word?
+head_title: Is PARTS a Wordle Word? Yes – Valid Guess & Meaning
 word: parts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɑːts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A portion; a component.</li><li><strong>Definition 2:</strong> Duty; responsibility.<p><strong>Example:</strong> to do one’s part</p></li><li><strong>Definition 3:</strong> The dividing line formed by combing the hair in different directions.<p><strong>Example:</strong> The part of his hair was slightly to the left.</p></li><li><strong>Definition 4:</strong> In the Hebrew lunisolar calendar, a unit of time equivalent to 3⅓ seconds.</li><li><strong>Definition 5:</strong> A constituent of character or capacity; quality; faculty; talent; usually in the plural with a collective sense.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To leave the company of.</li><li><strong>Definition 2:</strong> To cut hair with a parting; shed.</li><li><strong>Definition 3:</strong> To divide in two.<p><strong>Example:</strong> to part the curtains</p></li><li><strong>Definition 4:</strong> To be divided in two or separated; shed.<p><strong>Example:</strong> A rope parts.  His hair parts in the middle.</p></li><li><strong>Definition 5:</strong> To divide up; to share.</li><li><strong>Definition 6:</strong> To have a part or share; to partake.</li><li><strong>Definition 7:</strong> To separate or disunite; to remove from contact or contiguity; to sunder.</li><li><strong>Definition 8:</strong> To hold apart; to stand or intervene between.</li><li><strong>Definition 9:</strong> To separate by a process of extraction, elimination, or secretion.<p><strong>Example:</strong> to part gold from silver</p></li><li><strong>Definition 10:</strong> To leave; to quit.</li><li><strong>Definition 11:</strong> To leave (an IRC channel).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Intellectual ability or learning.<p><strong>Example:</strong> He was a man of great parts but little virtue.</p></li><li><strong>Definition 2:</strong> (usually with “these”) Vicinity, region.</li><li><strong>Definition 3:</strong> The genitals, short for private parts.</li></ul></div></div>"
+description: Yes, PARTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- party
+- carts
+- darts
+- farts
+- harts
+- karts
+- marts
+- pacts
+- pants
+- paras
+- parcs
+- pards
+anagrams:
+- strap
+- prats
+- spart
+- sprat
+- tarps
+- traps
+trap:
+  pattern: PAR_S
+  count: 10
+phonetic: "/pɑːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A portion; a component.
+  - text: Duty; responsibility.
+    example: to do one’s part
+  - text: The dividing line formed by combing the hair in different directions.
+    example: The part of his hair was slightly to the left.
+  - text: In the Hebrew lunisolar calendar, a unit of time equivalent to 3⅓ seconds.
+  - text: A constituent of character or capacity; quality; faculty; talent; usually
+      in the plural with a collective sense.
+- pos: verb
+  defs:
+  - text: To leave the company of.
+  - text: To cut hair with a parting; shed.
+  - text: To divide in two.
+    example: to part the curtains
+  - text: To be divided in two or separated; shed.
+    example: A rope parts.  His hair parts in the middle.
+  - text: To divide up; to share.
+  - text: To have a part or share; to partake.
+  - text: To separate or disunite; to remove from contact or contiguity; to sunder.
+  - text: To hold apart; to stand or intervene between.
+  - text: To separate by a process of extraction, elimination, or secretion.
+    example: to part gold from silver
+  - text: To leave; to quit.
+  - text: To leave (an IRC channel).
+- pos: noun
+  defs:
+  - text: Intellectual ability or learning.
+    example: He was a man of great parts but little virtue.
+  - text: "(usually with “these”) Vicinity, region."
+  - text: The genitals, short for private parts.
 ---
-

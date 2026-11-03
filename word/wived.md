@@ -1,7 +1,46 @@
 ---
 layout: word
-title: wived
+title: Is WIVED a Wordle Word?
+head_title: Is WIVED a Wordle Word? Yes – Valid Guess & Meaning
 word: wived
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To marry (a woman).</li><li><strong>Definition 2:</strong> To provide (someone) with a wife.</li></ul></div></div>"
+description: Yes, WIVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- dived
+- gived
+- hived
+- jived
+- lived
+- rived
+- waved
+- wifed
+- wiled
+- wined
+- wiped
+- wired
+trap:
+  pattern: WI_ED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To marry (a woman).
+  - text: To provide (someone) with a wife.
 ---
-

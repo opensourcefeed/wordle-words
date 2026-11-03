@@ -1,7 +1,37 @@
 ---
 layout: word
-title: logon
+title: Is LOGON a Wordle Word?
+head_title: Is LOGON a Wordle Word? Yes – Valid Guess & Meaning
 word: logon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A combination of a user's identification and password used to enter a computer.<p><strong>Example:</strong> Using the same logon for different systems can be a security risk.</p></li><li><strong>Definition 2:</strong> The process of logging on.<p><strong>Example:</strong> The user's desktop is displayed shortly after logon.</p></li></ul></div></div>"
+description: Yes, LOGON is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- login
+- cogon
+- logan
+- logoi
+- logos
+definitions:
+- pos: noun
+  defs:
+  - text: A combination of a user's identification and password used to enter a computer.
+    example: Using the same logon for different systems can be a security risk.
+  - text: The process of logging on.
+    example: The user's desktop is displayed shortly after logon.
 ---
-

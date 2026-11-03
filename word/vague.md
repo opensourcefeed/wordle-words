@@ -1,7 +1,55 @@
 ---
 layout: word
-title: vague
+title: Is VAGUE a Wordle Word?
+head_title: 'Is VAGUE a Wordle Word? Yes – Past Answer #614 & Meaning'
 word: vague
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /veɪɡ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wandering; a vagary.</li><li><strong>Definition 2:</strong> An indefinite expanse.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To wander; to roam; to stray.</li><li><strong>Definition 2:</strong> To become vague or act in a vague manner.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not clearly expressed; stated in indefinite terms.</li><li><strong>Definition 2:</strong> Not having a precise meaning.<p><strong>Example:</strong> a vague term of abuse</p></li><li><strong>Definition 3:</strong> Not clearly defined, grasped, or understood; indistinct; slight.<p><strong>Example:</strong> I haven’t the vaguest idea.</p></li><li><strong>Definition 4:</strong> Not clearly felt or sensed; somewhat subconscious.<p><strong>Example:</strong> a vague longing</p></li><li><strong>Definition 5:</strong> Not thinking or expressing one’s thoughts clearly or precisely.</li><li><strong>Definition 6:</strong> Lacking expression; vacant.</li><li><strong>Definition 7:</strong> Not sharply outlined; hazy.</li><li><strong>Definition 8:</strong> Wandering; vagrant; vagabond.</li></ul></div></div>"
+description: Yes, VAGUE is a valid Wordle word. It was the Wordle answer on February
+  23, 2023 (#614). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 23, 2023 (#614).
+past_answers:
+- date: '2023-02-23'
+  number: 614
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- value
+- vogue
+- vagus
+phonetic: "/veɪɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A wandering; a vagary.
+  - text: An indefinite expanse.
+- pos: verb
+  defs:
+  - text: To wander; to roam; to stray.
+  - text: To become vague or act in a vague manner.
+- pos: adjective
+  defs:
+  - text: Not clearly expressed; stated in indefinite terms.
+  - text: Not having a precise meaning.
+    example: a vague term of abuse
+  - text: Not clearly defined, grasped, or understood; indistinct; slight.
+    example: I haven’t the vaguest idea.
+  - text: Not clearly felt or sensed; somewhat subconscious.
+    example: a vague longing
+  - text: Not thinking or expressing one’s thoughts clearly or precisely.
+  - text: Lacking expression; vacant.
+  - text: Not sharply outlined; hazy.
+  - text: Wandering; vagrant; vagabond.
 ---
-

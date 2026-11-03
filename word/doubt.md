@@ -1,7 +1,43 @@
 ---
 layout: word
-title: doubt
+title: Is DOUBT a Wordle Word?
+head_title: 'Is DOUBT a Wordle Word? Yes – Past Answer #453 & Meaning'
 word: doubt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dʌʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Disbelief or uncertainty (about something); a particular instance of such disbelief or uncertainty.<p><strong>Example:</strong> I have doubts about how to convert this code to JavaScript.</p></li><li><strong>Definition 2:</strong> A point of uncertainty; a query.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be undecided about; to lack confidence in; to disbelieve, to question.<p><strong>Example:</strong> He doubted that was really what you meant.</p></li><li><strong>Definition 2:</strong> To harbour suspicion about; suspect.</li><li><strong>Definition 3:</strong> To anticipate with dread or fear; to apprehend.</li><li><strong>Definition 4:</strong> To fill with fear; to affright.</li><li><strong>Definition 5:</strong> To dread, to fear.</li></ul></div></div>"
+description: Yes, DOUBT is a valid Wordle word. It was the Wordle answer on September
+  15, 2022 (#453). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 15, 2022 (#453).
+past_answers:
+- date: '2022-09-15'
+  number: 453
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+phonetic: "/dʌʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Disbelief or uncertainty (about something); a particular instance of such
+      disbelief or uncertainty.
+    example: I have doubts about how to convert this code to JavaScript.
+  - text: A point of uncertainty; a query.
+- pos: verb
+  defs:
+  - text: To be undecided about; to lack confidence in; to disbelieve, to question.
+    example: He doubted that was really what you meant.
+  - text: To harbour suspicion about; suspect.
+  - text: To anticipate with dread or fear; to apprehend.
+  - text: To fill with fear; to affright.
+  - text: To dread, to fear.
 ---
-

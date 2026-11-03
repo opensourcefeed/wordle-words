@@ -1,7 +1,85 @@
 ---
 layout: word
-title: grips
+title: Is GRIPS a Wordle Word?
+head_title: Is GRIPS a Wordle Word? Yes – Valid Guess & Meaning
 word: grips
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹɪps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take hold of, particularly with the hand.<p><strong>Example:</strong> After a few slips, the tires gripped the pavement.</p></li><li><strong>Definition 2:</strong> To help or assist, particularly in an emotional sense.<p><strong>Example:</strong> He grips me.</p></li><li><strong>Definition 3:</strong> To do something with another that makes you happy/gives you relief.<p><strong>Example:</strong> Let’s grip (get a coffee, hang, take a break, see a movie, etc.)</p></li><li><strong>Definition 4:</strong> To trench; to drain.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hold or way of holding, particularly with the hand.<p><strong>Example:</strong> It's good to have a firm grip when shaking hands.</p></li><li><strong>Definition 2:</strong> A handle or other place to grip.<p><strong>Example:</strong> There are several good grips on the northern face of this rock.</p></li><li><strong>Definition 3:</strong> A visual component on a window etc. enabling it to be resized and/or moved.</li><li><strong>Definition 4:</strong> (film production) A person responsible for handling equipment on the set.</li><li><strong>Definition 5:</strong> A channel cut through a grass verge (especially for the purpose of draining water away from the highway).</li><li><strong>Definition 6:</strong> A lot of something.<p><strong>Example:</strong> That is a grip of cheese.</p></li><li><strong>Definition 7:</strong> A long time.<p><strong>Example:</strong> I haven't seen you in a grip.</p></li><li><strong>Definition 8:</strong> A small travelling-bag or gripsack.</li><li><strong>Definition 9:</strong> An apparatus attached to a car for clutching a traction cable.</li><li><strong>Definition 10:</strong> Assistance; help or encouragement.<p><strong>Example:</strong> He gave me a grip.</p></li><li><strong>Definition 11:</strong> A helpful, interesting, admirable, or inspiring person.<p><strong>Example:</strong> You're a real grip.</p></li><li><strong>Definition 12:</strong> As much as one can hold in a hand; a handful.<p><strong>Example:</strong> I need to get a grip of nails for my project.</p></li><li><strong>Definition 13:</strong> A tenacious grasp; a holding fast.<p><strong>Example:</strong> in the grip of a blackmailer</p></li><li><strong>Definition 14:</strong> A device for grasping or holding fast to something.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small ditch or trench; a channel to carry off water or other liquid; a drain.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The griffin.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Influenza, the flu.</li></ul></div></div>"
+description: Yes, GRIPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- gripe
+- crips
+- drips
+- greps
+- grids
+- grigs
+- grins
+- gript
+- gripy
+- grits
+- trips
+anagrams:
+- sprig
+- prigs
+phonetic: "/ɡɹɪps/"
+definitions:
+- pos: verb
+  defs:
+  - text: To take hold of, particularly with the hand.
+    example: After a few slips, the tires gripped the pavement.
+  - text: To help or assist, particularly in an emotional sense.
+    example: He grips me.
+  - text: To do something with another that makes you happy/gives you relief.
+    example: Let’s grip (get a coffee, hang, take a break, see a movie, etc.)
+  - text: To trench; to drain.
+- pos: noun
+  defs:
+  - text: A hold or way of holding, particularly with the hand.
+    example: It's good to have a firm grip when shaking hands.
+  - text: A handle or other place to grip.
+    example: There are several good grips on the northern face of this rock.
+  - text: A visual component on a window etc. enabling it to be resized and/or moved.
+  - text: "(film production) A person responsible for handling equipment on the set."
+  - text: A channel cut through a grass verge (especially for the purpose of draining
+      water away from the highway).
+  - text: A lot of something.
+    example: That is a grip of cheese.
+  - text: A long time.
+    example: I haven't seen you in a grip.
+  - text: A small travelling-bag or gripsack.
+  - text: An apparatus attached to a car for clutching a traction cable.
+  - text: Assistance; help or encouragement.
+    example: He gave me a grip.
+  - text: A helpful, interesting, admirable, or inspiring person.
+    example: You're a real grip.
+  - text: As much as one can hold in a hand; a handful.
+    example: I need to get a grip of nails for my project.
+  - text: A tenacious grasp; a holding fast.
+    example: in the grip of a blackmailer
+  - text: A device for grasping or holding fast to something.
+- pos: noun
+  defs:
+  - text: A small ditch or trench; a channel to carry off water or other liquid; a
+      drain.
+- pos: noun
+  defs:
+  - text: The griffin.
+- pos: noun
+  defs:
+  - text: Influenza, the flu.
 ---
-

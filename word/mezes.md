@@ -1,7 +1,48 @@
 ---
 layout: word
-title: mezes
+title: Is MEZES a Wordle Word?
+head_title: Is MEZES a Wordle Word? Yes – Valid Guess & Meaning
 word: mezes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Small portions of starters typical of Turkish and Greek cuisine (equivalent to Spanish tapas or Hawaiian pu pu) often served as a light meal with pita.</li></ul></div></div>"
+description: Yes, MEZES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- bezes
+- fezes
+- mazes
+- meles
+- memes
+- menes
+- meres
+- meses
+- metes
+- meves
+- mizes
+- mozes
+anagrams:
+- mzees
+trap:
+  pattern: ME_ES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Small portions of starters typical of Turkish and Greek cuisine (equivalent
+      to Spanish tapas or Hawaiian pu pu) often served as a light meal with pita.
 ---
-

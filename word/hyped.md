@@ -1,7 +1,45 @@
 ---
 layout: word
-title: hyped
+title: Is HYPED a Wordle Word?
+head_title: Is HYPED a Wordle Word? Yes – Valid Guess & Meaning
 word: hyped
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /haɪpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw (an opponent) using this technique.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To promote heavily; to advertise or build up.<p><strong>Example:</strong> They started hyping the new magazine months before its release.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having been subject to propaganda and promotion; promoted beyond what is reasonable or appropriate.</li><li><strong>Definition 2:</strong> Excited.<p><strong>Example:</strong> He's hyped about getting to kiss her in the final scene of the play.</p></li></ul></div></div>"
+description: Yes, HYPED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- hyper
+- hiped
+- hoped
+- hypes
+- syped
+- typed
+phonetic: "/haɪpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To throw (an opponent) using this technique.
+- pos: verb
+  defs:
+  - text: To promote heavily; to advertise or build up.
+    example: They started hyping the new magazine months before its release.
+- pos: adjective
+  defs:
+  - text: Having been subject to propaganda and promotion; promoted beyond what is
+      reasonable or appropriate.
+  - text: Excited.
+    example: He's hyped about getting to kiss her in the final scene of the play.
 ---
-

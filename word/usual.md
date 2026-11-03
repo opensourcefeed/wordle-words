@@ -1,7 +1,41 @@
 ---
 layout: word
-title: usual
+title: Is USUAL a Wordle Word?
+head_title: 'Is USUAL a Wordle Word? Yes – Past Answer #543 & Meaning'
 word: usual
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈjuːʒʊəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The typical state of something, or something that is typical.</li><li><strong>Definition 2:</strong> A specific good or service (e.g. a drink) that someone typically orders.<p><strong>Example:</strong> I'll just have the usual.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Most commonly occurring; typical.<p><strong>Example:</strong> It is becoming more usual these days to rear children as bilingual.</p></li></ul></div></div>"
+description: Yes, USUAL is a valid Wordle word. It was the Wordle answer on December
+  14, 2022 (#543). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 14, 2022 (#543).
+past_answers:
+- date: '2022-12-14'
+  number: 543
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 4
+  repeated:
+  - U
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+anagrams:
+- luaus
+phonetic: "/ˈjuːʒʊəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The typical state of something, or something that is typical.
+  - text: A specific good or service (e.g. a drink) that someone typically orders.
+    example: I'll just have the usual.
+- pos: adjective
+  defs:
+  - text: Most commonly occurring; typical.
+    example: It is becoming more usual these days to rear children as bilingual.
 ---
-

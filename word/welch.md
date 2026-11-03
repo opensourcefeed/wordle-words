@@ -1,7 +1,40 @@
 ---
 layout: word
-title: welch
+title: Is WELCH a Wordle Word?
+head_title: Is WELCH a Wordle Word? Yes – Possible Answer & Meaning
 word: welch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɛltʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who defaults on an obligation, especially a small one.<p><strong>Example:</strong> She's a welch. That watering-can isn't hers: I lent it to her three years ago.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fail to repay a small debt.</li><li><strong>Definition 2:</strong> To fail to fulfill an obligation.</li></ul></div></div>"
+description: Yes, WELCH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- belch
+- welsh
+- wench
+- melch
+- pelch
+phonetic: "/wɛltʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who defaults on an obligation, especially a small one.
+    example: 'She''s a welch. That watering-can isn''t hers: I lent it to her three
+      years ago.'
+- pos: verb
+  defs:
+  - text: To fail to repay a small debt.
+  - text: To fail to fulfill an obligation.
 ---
-

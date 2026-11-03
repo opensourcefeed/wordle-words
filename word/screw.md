@@ -1,7 +1,66 @@
 ---
 layout: word
-title: screw
+title: Is SCREW a Wordle Word?
+head_title: Is SCREW a Wordle Word? Yes – Possible Answer & Meaning
 word: screw
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /skɹuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A device that has a helical function.</li><li><strong>Definition 2:</strong> The motion of screwing something; a turn or twist to one side.</li><li><strong>Definition 3:</strong> A prison guard.</li><li><strong>Definition 4:</strong> An extortioner; a sharp bargainer; a skinflint.</li><li><strong>Definition 5:</strong> An instructor who examines with great or unnecessary severity; also, a searching or strict examination of a student by an instructor.</li><li><strong>Definition 6:</strong> Sexual intercourse; the act of screwing.</li><li><strong>Definition 7:</strong> A casual sexual partner.</li><li><strong>Definition 8:</strong> Salary, wages.</li><li><strong>Definition 9:</strong> Backspin.</li><li><strong>Definition 10:</strong> A small packet of tobacco.</li><li><strong>Definition 11:</strong> An old, worn-out, unsound and worthless horse.</li><li><strong>Definition 12:</strong> A straight line in space with which a definite linear magnitude termed the pitch is associated. It is used to express the displacement of a rigid body, which may always be made to consist of a rotation about an axis combined with a translation parallel to that axis.</li><li><strong>Definition 13:</strong> An amphipod crustacean.<p><strong>Example:</strong> the skeleton screw (Caprella);  the sand screw</p></li><li><strong>Definition 14:</strong> (in the plural, with \"the\") Rheumatism.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To connect or assemble pieces using a screw.</li><li><strong>Definition 2:</strong> To have sexual intercourse with.</li><li><strong>Definition 3:</strong> To cheat someone or ruin their chances in a game or other situation.</li><li><strong>Definition 4:</strong> To practice extortion upon; to oppress by unreasonable or extortionate exactions; to put the screws on.</li><li><strong>Definition 5:</strong> To contort.</li><li><strong>Definition 6:</strong> To miskick (a ball) by hitting it with the wrong part of the foot.</li><li><strong>Definition 7:</strong> To screw back.</li><li><strong>Definition 8:</strong> To examine (a student) rigidly; to subject to a severe examination.</li></ul></div></div>"
+description: Yes, SCREW is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- scree
+- shrew
+- scraw
+- scrow
+- sprew
+- strew
+anagrams:
+- crews
+phonetic: "/skɹuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A device that has a helical function.
+  - text: The motion of screwing something; a turn or twist to one side.
+  - text: A prison guard.
+  - text: An extortioner; a sharp bargainer; a skinflint.
+  - text: An instructor who examines with great or unnecessary severity; also, a searching
+      or strict examination of a student by an instructor.
+  - text: Sexual intercourse; the act of screwing.
+  - text: A casual sexual partner.
+  - text: Salary, wages.
+  - text: Backspin.
+  - text: A small packet of tobacco.
+  - text: An old, worn-out, unsound and worthless horse.
+  - text: A straight line in space with which a definite linear magnitude termed the
+      pitch is associated. It is used to express the displacement of a rigid body,
+      which may always be made to consist of a rotation about an axis combined with
+      a translation parallel to that axis.
+  - text: An amphipod crustacean.
+    example: the skeleton screw (Caprella);  the sand screw
+  - text: (in the plural, with "the") Rheumatism.
+- pos: verb
+  defs:
+  - text: To connect or assemble pieces using a screw.
+  - text: To have sexual intercourse with.
+  - text: To cheat someone or ruin their chances in a game or other situation.
+  - text: To practice extortion upon; to oppress by unreasonable or extortionate exactions;
+      to put the screws on.
+  - text: To contort.
+  - text: To miskick (a ball) by hitting it with the wrong part of the foot.
+  - text: To screw back.
+  - text: To examine (a student) rigidly; to subject to a severe examination.
 ---
-

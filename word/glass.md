@@ -1,7 +1,79 @@
 ---
 layout: word
-title: glass
+title: Is GLASS a Wordle Word?
+head_title: 'Is GLASS a Wordle Word? Yes – Past Answer #334 & Meaning'
 word: glass
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡlɑːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apply fibreglass to.<p><strong>Example:</strong> to fibreglass the hull of a fishing-boat</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An amorphous solid, often transparent substance made by melting sand with a mixture of soda, potash and lime.<p><strong>Example:</strong> A popular myth is that window glass is actually an extremely viscous liquid.</p></li><li><strong>Definition 2:</strong> A vessel from which one drinks, especially one made of glass, plastic, or similar translucent or semi-translucent material.<p><strong>Example:</strong> Fill my glass with milk, please.</p></li><li><strong>Definition 3:</strong> (metonymically) The quantity of liquid contained in such a vessel.<p><strong>Example:</strong> There is half a glass of milk in each pound of chocolate we produce.</p></li><li><strong>Definition 4:</strong> Glassware.<p><strong>Example:</strong> We collected art glass.</p></li><li><strong>Definition 5:</strong> A mirror.<p><strong>Example:</strong> She adjusted her lipstick in the glass.</p></li><li><strong>Definition 6:</strong> A magnifying glass or telescope.</li><li><strong>Definition 7:</strong> A barrier made of solid, transparent material.</li><li><strong>Definition 8:</strong> A barometer.</li><li><strong>Definition 9:</strong> (in names of species) Transparent or translucent.<p><strong>Example:</strong> glass frog;  glass shrimp;  glass worm</p></li><li><strong>Definition 10:</strong> An hourglass.</li><li><strong>Definition 11:</strong> Lenses, considered collectively.<p><strong>Example:</strong> Her new camera was incompatible with her old one, so she needed to buy new glass.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fit with glass; to glaze.</li><li><strong>Definition 2:</strong> To enclose in glass.</li><li><strong>Definition 3:</strong> To strike (someone), particularly in the face, with a drinking glass with the intent of causing injury.</li><li><strong>Definition 4:</strong> To bombard an area with such intensity (nuclear bomb, fusion bomb, etc) as to melt the landscape into glass.</li><li><strong>Definition 5:</strong> To view through an optical instrument such as binoculars.</li><li><strong>Definition 6:</strong> To smooth or polish (leather, etc.), by rubbing it with a glass burnisher.</li><li><strong>Definition 7:</strong> To reflect; to mirror.</li><li><strong>Definition 8:</strong> To make glassy.</li><li><strong>Definition 9:</strong> To become glassy.</li></ul></div></div>"
+description: Yes, GLASS is a valid Wordle word. It was the Wordle answer on May 19,
+  2022 (#334). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 19, 2022 (#334).
+past_answers:
+- date: '2022-05-19'
+  number: 334
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- class
+- gloss
+- grass
+- glads
+- glams
+- glans
+anagrams:
+- slags
+phonetic: "/ɡlɑːs/"
+definitions:
+- pos: verb
+  defs:
+  - text: To apply fibreglass to.
+    example: to fibreglass the hull of a fishing-boat
+- pos: noun
+  defs:
+  - text: An amorphous solid, often transparent substance made by melting sand with
+      a mixture of soda, potash and lime.
+    example: A popular myth is that window glass is actually an extremely viscous
+      liquid.
+  - text: A vessel from which one drinks, especially one made of glass, plastic, or
+      similar translucent or semi-translucent material.
+    example: Fill my glass with milk, please.
+  - text: "(metonymically) The quantity of liquid contained in such a vessel."
+    example: There is half a glass of milk in each pound of chocolate we produce.
+  - text: Glassware.
+    example: We collected art glass.
+  - text: A mirror.
+    example: She adjusted her lipstick in the glass.
+  - text: A magnifying glass or telescope.
+  - text: A barrier made of solid, transparent material.
+  - text: A barometer.
+  - text: "(in names of species) Transparent or translucent."
+    example: glass frog;  glass shrimp;  glass worm
+  - text: An hourglass.
+  - text: Lenses, considered collectively.
+    example: Her new camera was incompatible with her old one, so she needed to buy
+      new glass.
+- pos: verb
+  defs:
+  - text: To fit with glass; to glaze.
+  - text: To enclose in glass.
+  - text: To strike (someone), particularly in the face, with a drinking glass with
+      the intent of causing injury.
+  - text: To bombard an area with such intensity (nuclear bomb, fusion bomb, etc)
+      as to melt the landscape into glass.
+  - text: To view through an optical instrument such as binoculars.
+  - text: To smooth or polish (leather, etc.), by rubbing it with a glass burnisher.
+  - text: To reflect; to mirror.
+  - text: To make glassy.
+  - text: To become glassy.
 ---
-

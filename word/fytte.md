@@ -1,7 +1,54 @@
 ---
 layout: word
-title: fytte
+title: Is FYTTE a Wordle Word?
+head_title: Is FYTTE a Wordle Word? Yes – Valid Guess & Meaning
 word: fytte
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The degree to which something fits.<p><strong>Example:</strong> Since he put on weight, his jeans have been a tight fit.</p></li><li><strong>Definition 2:</strong> Conformity of elements one to another.<p><strong>Example:</strong> It's hard to get a good fit using second-hand parts.</p></li><li><strong>Definition 3:</strong> The part of an object upon which anything fits tightly.</li><li><strong>Definition 4:</strong> Measure of how well a particular commercial execution captures the character or values of a brand.<p><strong>Example:</strong> The Wonder Bread advertising research results showed the “White Picket Fence” commercial had strong fit ratings.</p></li><li><strong>Definition 5:</strong> Goodness of fit.</li><li><strong>Definition 6:</strong> The quality of a partnership's combined holding of cards in a suit, particularly of trump.<p><strong>Example:</strong> During the auction, it is often a partnership's goal to find an eight-card major suit fit.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A section of a poem or ballad.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A seizure or convulsion.<p><strong>Example:</strong> My grandfather died after having a fit.</p></li><li><strong>Definition 2:</strong> A sudden and vigorous appearance of a symptom over a short period of time.</li><li><strong>Definition 3:</strong> A sudden outburst of emotion.<p><strong>Example:</strong> He had a laughing fit which lasted more than ten minutes.</p></li><li><strong>Definition 4:</strong> A sudden burst (of an activity).</li></ul></div></div>"
+description: Yes, FYTTE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- fitte
+definitions:
+- pos: noun
+  defs:
+  - text: The degree to which something fits.
+    example: Since he put on weight, his jeans have been a tight fit.
+  - text: Conformity of elements one to another.
+    example: It's hard to get a good fit using second-hand parts.
+  - text: The part of an object upon which anything fits tightly.
+  - text: Measure of how well a particular commercial execution captures the character
+      or values of a brand.
+    example: The Wonder Bread advertising research results showed the “White Picket
+      Fence” commercial had strong fit ratings.
+  - text: Goodness of fit.
+  - text: The quality of a partnership's combined holding of cards in a suit, particularly
+      of trump.
+    example: During the auction, it is often a partnership's goal to find an eight-card
+      major suit fit.
+- pos: noun
+  defs:
+  - text: A section of a poem or ballad.
+- pos: noun
+  defs:
+  - text: A seizure or convulsion.
+    example: My grandfather died after having a fit.
+  - text: A sudden and vigorous appearance of a symptom over a short period of time.
+  - text: A sudden outburst of emotion.
+    example: He had a laughing fit which lasted more than ten minutes.
+  - text: A sudden burst (of an activity).
 ---
-

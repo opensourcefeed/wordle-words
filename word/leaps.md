@@ -1,7 +1,73 @@
 ---
 layout: word
-title: leaps
+title: Is LEAPS a Wordle Word?
+head_title: Is LEAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: leaps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /liːps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of leaping or jumping.</li><li><strong>Definition 2:</strong> The distance traversed by a leap or jump.</li><li><strong>Definition 3:</strong> A group of leopards.</li><li><strong>Definition 4:</strong> A significant move forward.</li><li><strong>Definition 5:</strong> A large step in reasoning, often one that is not justified by the facts.<p><strong>Example:</strong> It's quite a leap to claim that those cloud formations are evidence of UFOs.</p></li><li><strong>Definition 6:</strong> A fault.</li><li><strong>Definition 7:</strong> Copulation with, or coverture of, a female beast.</li><li><strong>Definition 8:</strong> A passing from one note to another by an interval, especially by a long one, or by one including several other intermediate intervals.</li><li><strong>Definition 9:</strong> A salmon ladder.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A basket.</li><li><strong>Definition 2:</strong> A trap or snare for fish, made from twigs; a weely.</li><li><strong>Definition 3:</strong> Half a bushel.</li></ul></div></div>"
+description: Yes, LEAPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- leapt
+- heaps
+- leads
+- leafs
+- leaks
+- leams
+- leans
+- lears
+- leats
+- leeps
+- lerps
+- neaps
+anagrams:
+- lapse
+- pales
+- peals
+- pelas
+- pleas
+- salep
+- sepal
+- spale
+- speal
+trap:
+  pattern: LEA_S
+  count: 8
+phonetic: "/liːps/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of leaping or jumping.
+  - text: The distance traversed by a leap or jump.
+  - text: A group of leopards.
+  - text: A significant move forward.
+  - text: A large step in reasoning, often one that is not justified by the facts.
+    example: It's quite a leap to claim that those cloud formations are evidence of
+      UFOs.
+  - text: A fault.
+  - text: Copulation with, or coverture of, a female beast.
+  - text: A passing from one note to another by an interval, especially by a long
+      one, or by one including several other intermediate intervals.
+  - text: A salmon ladder.
+- pos: noun
+  defs:
+  - text: A basket.
+  - text: A trap or snare for fish, made from twigs; a weely.
+  - text: Half a bushel.
 ---
-

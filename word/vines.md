@@ -1,7 +1,53 @@
 ---
 layout: word
-title: vines
+title: Is VINES a Wordle Word?
+head_title: Is VINES a Wordle Word? Yes – Valid Guess & Meaning
 word: vines
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /vaɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The climbing plant that produces grapes.</li><li><strong>Definition 2:</strong> Any plant of the genus Vitis.</li><li><strong>Definition 3:</strong> (by extension) Any similar climbing or trailing plant.</li></ul></div></div>"
+description: Yes, VINES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- bines
+- cines
+- dines
+- fines
+- kines
+- lines
+- mines
+- nines
+- pines
+- rines
+- sines
+- tines
+anagrams:
+- nevis
+- snive
+- veins
+- visne
+trap:
+  pattern: _INES
+  count: 15
+phonetic: "/vaɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The climbing plant that produces grapes.
+  - text: Any plant of the genus Vitis.
+  - text: "(by extension) Any similar climbing or trailing plant."
 ---
-

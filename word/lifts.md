@@ -1,7 +1,91 @@
 ---
 layout: word
-title: lifts
+title: Is LIFTS a Wordle Word?
+head_title: Is LIFTS a Wordle Word? Yes – Valid Guess & Meaning
 word: lifts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of lifting or raising.</li><li><strong>Definition 2:</strong> The act of transporting someone in a vehicle; a ride; a trip.<p><strong>Example:</strong> He gave me a lift to the bus station.</p></li><li><strong>Definition 3:</strong> Mechanical device for vertically transporting goods or people between floors in a building; an elevator.<p><strong>Example:</strong> Take the lift to the fourth floor.</p></li><li><strong>Definition 4:</strong> An upward force, such as the force that keeps aircraft aloft.</li><li><strong>Definition 5:</strong> (measurement) The difference in elevation between the upper pool and lower pool of a waterway, separated by lock.</li><li><strong>Definition 6:</strong> A thief.</li><li><strong>Definition 7:</strong> The lifting of a dance partner into the air.</li><li><strong>Definition 8:</strong> Permanent construction with a built-in platform that is lifted vertically.</li><li><strong>Definition 9:</strong> An improvement in mood.</li><li><strong>Definition 10:</strong> The amount or weight to be lifted.<p><strong>Example:</strong> What's the maximum lift of this crane?</p></li><li><strong>Definition 11:</strong> The space or distance through which anything is lifted.</li><li><strong>Definition 12:</strong> A rise; a degree of elevation.<p><strong>Example:</strong> the lift of a lock in canals</p></li><li><strong>Definition 13:</strong> A liftgate.</li><li><strong>Definition 14:</strong> A rope leading from the masthead to the extremity of a yard below, and used for raising or supporting the end of the yard.</li><li><strong>Definition 15:</strong> One of the steps of a cone pulley.</li><li><strong>Definition 16:</strong> (shoemaking) A layer of leather in the heel of a shoe.</li><li><strong>Definition 17:</strong> That portion of the vibration of a balance during which the impulse is given.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To raise or rise.<p><strong>Example:</strong> The fog eventually lifted, leaving the streets clear.</p></li><li><strong>Definition 2:</strong> To steal.</li><li><strong>Definition 3:</strong> To source directly without acknowledgement; to plagiarise.</li><li><strong>Definition 4:</strong> To arrest (a person).</li><li><strong>Definition 5:</strong> To remove (a ban, restriction, etc.).</li><li><strong>Definition 6:</strong> To alleviate, to lighten (pressure, tension, stress, etc.)</li><li><strong>Definition 7:</strong> To cause to move upwards.</li><li><strong>Definition 8:</strong> To lift weights; to weight-lift.<p><strong>Example:</strong> She lifts twice a week at the gym.</p></li><li><strong>Definition 9:</strong> To try to raise something; to exert the strength for raising or bearing.</li><li><strong>Definition 10:</strong> To elevate or improve in rank, condition, etc.; often with up.</li><li><strong>Definition 11:</strong> To bear; to support.</li><li><strong>Definition 12:</strong> To collect, as moneys due; to raise.</li><li><strong>Definition 13:</strong> To transform (a function) into a corresponding function in a different context.</li><li><strong>Definition 14:</strong> To buy a security or other asset previously offered for sale.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Air.</li><li><strong>Definition 2:</strong> The sky; the heavens; firmament; atmosphere.</li></ul></div></div>"
+description: Yes, LIFTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- gifts
+- lefts
+- lifes
+- lilts
+- lints
+- lists
+- lofts
+- rifts
+- sifts
+- tifts
+- wifts
+anagrams:
+- flits
+trap:
+  pattern: _IFTS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: An act of lifting or raising.
+  - text: The act of transporting someone in a vehicle; a ride; a trip.
+    example: He gave me a lift to the bus station.
+  - text: Mechanical device for vertically transporting goods or people between floors
+      in a building; an elevator.
+    example: Take the lift to the fourth floor.
+  - text: An upward force, such as the force that keeps aircraft aloft.
+  - text: "(measurement) The difference in elevation between the upper pool and lower
+      pool of a waterway, separated by lock."
+  - text: A thief.
+  - text: The lifting of a dance partner into the air.
+  - text: Permanent construction with a built-in platform that is lifted vertically.
+  - text: An improvement in mood.
+  - text: The amount or weight to be lifted.
+    example: What's the maximum lift of this crane?
+  - text: The space or distance through which anything is lifted.
+  - text: A rise; a degree of elevation.
+    example: the lift of a lock in canals
+  - text: A liftgate.
+  - text: A rope leading from the masthead to the extremity of a yard below, and used
+      for raising or supporting the end of the yard.
+  - text: One of the steps of a cone pulley.
+  - text: "(shoemaking) A layer of leather in the heel of a shoe."
+  - text: That portion of the vibration of a balance during which the impulse is given.
+- pos: verb
+  defs:
+  - text: To raise or rise.
+    example: The fog eventually lifted, leaving the streets clear.
+  - text: To steal.
+  - text: To source directly without acknowledgement; to plagiarise.
+  - text: To arrest (a person).
+  - text: To remove (a ban, restriction, etc.).
+  - text: To alleviate, to lighten (pressure, tension, stress, etc.)
+  - text: To cause to move upwards.
+  - text: To lift weights; to weight-lift.
+    example: She lifts twice a week at the gym.
+  - text: To try to raise something; to exert the strength for raising or bearing.
+  - text: To elevate or improve in rank, condition, etc.; often with up.
+  - text: To bear; to support.
+  - text: To collect, as moneys due; to raise.
+  - text: To transform (a function) into a corresponding function in a different context.
+  - text: To buy a security or other asset previously offered for sale.
+- pos: noun
+  defs:
+  - text: Air.
+  - text: The sky; the heavens; firmament; atmosphere.
 ---
-

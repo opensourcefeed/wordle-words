@@ -1,7 +1,79 @@
 ---
 layout: word
-title: bully
+title: Is BULLY a Wordle Word?
+head_title: 'Is BULLY a Wordle Word? Yes – Past Answer #780 & Meaning'
 word: bully
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʊli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who is intentionally, physically, or emotionally cruel to others; especially to those who are weaker or have less power or privilege.<p><strong>Example:</strong> A playground bully pushed a girl off the swing.</p></li><li><strong>Definition 2:</strong> A noisy, blustering fellow, more insolent than courageous; one who is threatening and quarrelsome; an insolent, tyrannical fellow.</li><li><strong>Definition 3:</strong> A hired thug.</li><li><strong>Definition 4:</strong> A sex worker’s minder.</li><li><strong>Definition 5:</strong> Bully beef.</li><li><strong>Definition 6:</strong> A brisk, dashing fellow.</li><li><strong>Definition 7:</strong> The small scrum in the Eton College field game.</li><li><strong>Definition 8:</strong> Various small freshwater or brackishwater fish of the family Eleotridae; sleeper goby.</li><li><strong>Definition 9:</strong> An (eldest) brother; a fellow workman; comrade</li><li><strong>Definition 10:</strong> A companion; mate (male or female).</li><li><strong>Definition 11:</strong> A darling, sweetheart (male or female).</li><li><strong>Definition 12:</strong> A standoff between two players from the opposing teams, who repeatedly hit each other's hockey sticks and then attempt to acquire the ball, as a method of resuming the game in certain circumstances.</li><li><strong>Definition 13:</strong> A miner's hammer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To intimidate (someone) as a bully.<p><strong>Example:</strong> You shouldn't bully people for being gay.</p></li><li><strong>Definition 2:</strong> To act aggressively towards.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Very good.<p><strong>Example:</strong> a bully horse</p></li><li><strong>Definition 2:</strong> Jovial and blustering.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> (often followed by for) Well done!<p><strong>Example:</strong> Bully, she's finally asked for that promotion!</p></li></ul></div></div>"
+description: Yes, BULLY is a valid Wordle word. It was the Wordle answer on August
+  8, 2023 (#780). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 8, 2023 (#780).
+past_answers:
+- date: '2023-08-08'
+  number: 780
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- belly
+- billy
+- bulky
+- burly
+- dully
+- fully
+- gully
+- sully
+- bally
+- bulgy
+- bulla
+- bulls
+trap:
+  pattern: _ULLY
+  count: 10
+phonetic: "/ˈbʊli/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who is intentionally, physically, or emotionally cruel to others;
+      especially to those who are weaker or have less power or privilege.
+    example: A playground bully pushed a girl off the swing.
+  - text: A noisy, blustering fellow, more insolent than courageous; one who is threatening
+      and quarrelsome; an insolent, tyrannical fellow.
+  - text: A hired thug.
+  - text: A sex worker’s minder.
+  - text: Bully beef.
+  - text: A brisk, dashing fellow.
+  - text: The small scrum in the Eton College field game.
+  - text: Various small freshwater or brackishwater fish of the family Eleotridae;
+      sleeper goby.
+  - text: An (eldest) brother; a fellow workman; comrade
+  - text: A companion; mate (male or female).
+  - text: A darling, sweetheart (male or female).
+  - text: A standoff between two players from the opposing teams, who repeatedly hit
+      each other's hockey sticks and then attempt to acquire the ball, as a method
+      of resuming the game in certain circumstances.
+  - text: A miner's hammer.
+- pos: verb
+  defs:
+  - text: To intimidate (someone) as a bully.
+    example: You shouldn't bully people for being gay.
+  - text: To act aggressively towards.
+- pos: adjective
+  defs:
+  - text: Very good.
+    example: a bully horse
+  - text: Jovial and blustering.
+- pos: interjection
+  defs:
+  - text: "(often followed by for) Well done!"
+    example: Bully, she's finally asked for that promotion!
 ---
-

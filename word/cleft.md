@@ -1,7 +1,46 @@
 ---
 layout: word
-title: cleft
+title: Is CLEFT a Wordle Word?
+head_title: 'Is CLEFT a Wordle Word? Yes – Past Answer #958 & Meaning'
 word: cleft
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klɛft/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An opening, fissure, or V-shaped indentation made by or as if by splitting.</li><li><strong>Definition 2:</strong> A piece made by splitting.<p><strong>Example:</strong> a cleft of wood</p></li><li><strong>Definition 3:</strong> A disease of horses; a crack on the band of the pastern.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To syntactically separate a prominent constituent from the rest of the clause that concerns it, such as threat in \"The threat which I saw but which he didn't see, was his downfall.\"</li></ul></div></div>"
+description: Yes, CLEFT is a valid Wordle word. It was the Wordle answer on February
+  2, 2024 (#958). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 2, 2024 (#958).
+past_answers:
+- date: '2024-02-02'
+  number: 958
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- cleat
+- aleft
+- clefs
+- clept
+- clift
+phonetic: "/klɛft/"
+definitions:
+- pos: noun
+  defs:
+  - text: An opening, fissure, or V-shaped indentation made by or as if by splitting.
+  - text: A piece made by splitting.
+    example: a cleft of wood
+  - text: A disease of horses; a crack on the band of the pastern.
+- pos: verb
+  defs:
+  - text: To syntactically separate a prominent constituent from the rest of the clause
+      that concerns it, such as threat in "The threat which I saw but which he didn't
+      see, was his downfall."
 ---
-

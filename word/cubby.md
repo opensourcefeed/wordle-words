@@ -1,7 +1,44 @@
 ---
 layout: word
-title: cubby
+title: Is CUBBY a Wordle Word?
+head_title: Is CUBBY a Wordle Word? Yes – Valid Guess & Meaning
 word: cubby
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kʌbi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small, confined space.</li><li><strong>Definition 2:</strong> In a school classroom, a cell of a shelf for students to place belongings in.</li></ul></div></div>"
+description: Yes, CUBBY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - B
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- cabby
+- bubby
+- cobby
+- dubby
+- fubby
+- hubby
+- nubby
+- pubby
+- rubby
+- subby
+- tubby
+trap:
+  pattern: _UBBY
+  count: 10
+phonetic: "/kʌbi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small, confined space.
+  - text: In a school classroom, a cell of a shelf for students to place belongings
+      in.
 ---
-

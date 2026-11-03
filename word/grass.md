@@ -1,7 +1,72 @@
 ---
 layout: word
-title: grass
+title: Is GRASS a Wordle Word?
+head_title: 'Is GRASS a Wordle Word? Yes – Past Answer #1642 & Meaning'
 word: grass
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ɡɹ̠äːs]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.</li><li><strong>Definition 2:</strong> Various plants not in family Poaceae that resemble grasses.</li><li><strong>Definition 3:</strong> A lawn.</li><li><strong>Definition 4:</strong> Marijuana.</li><li><strong>Definition 5:</strong> An informer, police informer; one who betrays a group (of criminals, etc) to the authorities.<p><strong>Example:</strong> What just happened must remain secret. Don't be a 'grass.</p></li><li><strong>Definition 6:</strong> Sharp, closely spaced discontinuities in the trace of a cathode-ray tube, produced by random interference.</li><li><strong>Definition 7:</strong> Noise on an A-scope or similar type of radar display.</li><li><strong>Definition 8:</strong> The season of fresh grass; spring or summer.</li><li><strong>Definition 9:</strong> That which is transitory.</li><li><strong>Definition 10:</strong> (folk etymology) Asparagus; \"sparrowgrass\".</li><li><strong>Definition 11:</strong> The surface of a mine.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lay out on the grass; to knock down (an opponent etc.).</li><li><strong>Definition 2:</strong> To act as a grass or informer, to betray; to report on (criminals etc) to the authorities.</li><li><strong>Definition 3:</strong> To cover with grass or with turf.</li><li><strong>Definition 4:</strong> To feed with grass.</li><li><strong>Definition 5:</strong> To expose, as flax, on the grass for bleaching, etc.</li><li><strong>Definition 6:</strong> To bring to the grass or ground; to land.</li></ul></div></div>"
+description: Yes, GRASS is a valid Wordle word. It was the Wordle answer on December
+  17, 2025 (#1642). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 17, 2025 (#1642).
+past_answers:
+- date: '2025-12-17'
+  number: 1642
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- brass
+- crass
+- glass
+- grasp
+- gross
+- frass
+- grabs
+- grads
+- grams
+- grans
+- grats
+- gravs
+trap:
+  pattern: GRA_S
+  count: 8
+phonetic: "[ɡɹ̠äːs]"
+definitions:
+- pos: noun
+  defs:
+  - text: Any plant of the family Poaceae, characterized by leaves that arise from
+      nodes in the stem and leaf bases that wrap around the stem, especially those
+      grown as ground cover rather than for grain.
+  - text: Various plants not in family Poaceae that resemble grasses.
+  - text: A lawn.
+  - text: Marijuana.
+  - text: An informer, police informer; one who betrays a group (of criminals, etc)
+      to the authorities.
+    example: What just happened must remain secret. Don't be a 'grass.
+  - text: Sharp, closely spaced discontinuities in the trace of a cathode-ray tube,
+      produced by random interference.
+  - text: Noise on an A-scope or similar type of radar display.
+  - text: The season of fresh grass; spring or summer.
+  - text: That which is transitory.
+  - text: (folk etymology) Asparagus; "sparrowgrass".
+  - text: The surface of a mine.
+- pos: verb
+  defs:
+  - text: To lay out on the grass; to knock down (an opponent etc.).
+  - text: To act as a grass or informer, to betray; to report on (criminals etc) to
+      the authorities.
+  - text: To cover with grass or with turf.
+  - text: To feed with grass.
+  - text: To expose, as flax, on the grass for bleaching, etc.
+  - text: To bring to the grass or ground; to land.
 ---
-

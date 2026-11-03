@@ -1,7 +1,44 @@
 ---
 layout: word
-title: henna
+title: Is HENNA a Wordle Word?
+head_title: Is HENNA a Wordle Word? Yes – Valid Guess & Meaning
 word: henna
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɛnə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shrub, Lawsonia inermis, having fragrant reddish flowers</li><li><strong>Definition 2:</strong> A reddish plant substance, prepared from the dried leaves of this plant, used for temporary tattoos and hair coloring. Hair colorings range from bright red to earth brown to near black.</li><li><strong>Definition 3:</strong> A rich reddish-brown colour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dye or tattoo with henna.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a rich reddish-brown colour.</li></ul></div></div>"
+description: Yes, HENNA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- henny
+- penna
+- senna
+phonetic: "/hɛnə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shrub, Lawsonia inermis, having fragrant reddish flowers
+  - text: A reddish plant substance, prepared from the dried leaves of this plant,
+      used for temporary tattoos and hair coloring. Hair colorings range from bright
+      red to earth brown to near black.
+  - text: A rich reddish-brown colour.
+- pos: verb
+  defs:
+  - text: To dye or tattoo with henna.
+- pos: adjective
+  defs:
+  - text: Of a rich reddish-brown colour.
 ---
-

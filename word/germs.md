@@ -1,7 +1,51 @@
 ---
 layout: word
-title: germs
+title: Is GERMS a Wordle Word?
+head_title: Is GERMS a Wordle Word? Yes – Valid Guess & Meaning
 word: germs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The small mass of cells from which a new organism develops; a seed, bud or spore.</li><li><strong>Definition 2:</strong> A pathogenic microorganism.</li><li><strong>Definition 3:</strong> The embryo of a seed, especially of a seed used as a cereal or grain. See Wikipedia article on cereal germ.</li><li><strong>Definition 4:</strong> The origin of an idea or project.<p><strong>Example:</strong> the germ of civil liberty</p></li><li><strong>Definition 5:</strong> An equivalence class that includes a specified function defined in an open neighborhood.</li></ul></div></div>"
+description: Yes, GERMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- berms
+- derms
+- ferms
+- garms
+- geres
+- germy
+- geums
+- gorms
+- herms
+- perms
+- terms
+trap:
+  pattern: _ERMS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The small mass of cells from which a new organism develops; a seed, bud
+      or spore.
+  - text: A pathogenic microorganism.
+  - text: The embryo of a seed, especially of a seed used as a cereal or grain. See
+      Wikipedia article on cereal germ.
+  - text: The origin of an idea or project.
+    example: the germ of civil liberty
+  - text: An equivalence class that includes a specified function defined in an open
+      neighborhood.
 ---
-

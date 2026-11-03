@@ -1,7 +1,88 @@
 ---
 layout: word
-title: nukes
+title: Is NUKES a Wordle Word?
+head_title: Is NUKES a Wordle Word? Yes – Valid Guess & Meaning
 word: nukes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /njuːks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small corner formed by two walls; an alcove.<p><strong>Example:</strong> There was a small broom for sweeping ash kept in the nook between the fireplace bricks and the wall.</p></li><li><strong>Definition 2:</strong> A hidden or secluded spot; a secluded retreat.<p><strong>Example:</strong> The back of the used book shop was one of her favorite nooks; she could read for hours and no one would bother her or pester her to buy.</p></li><li><strong>Definition 3:</strong> A recess, cove or hollow.</li><li><strong>Definition 4:</strong> An English unit of land area, originally 1/4 of a yardland but later 12 1/2 or 20 acres.</li><li><strong>Definition 5:</strong> A corner of a piece of land; an angled piece of land, especially one extending into other land.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A nucleus colony; a small bee colony created from a larger colony.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The spinal cord.</li><li><strong>Definition 2:</strong> The back of the neck, the nape; of an animal: the back of the head or the portion of the body behind the head.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A nuclear weapon.</li><li><strong>Definition 2:</strong> (by extension) Something that destroys or negates, especially on a catastrophic scale.</li><li><strong>Definition 3:</strong> A nuclear power station.</li><li><strong>Definition 4:</strong> A vessel such as a ship or submarine running on nuclear power.</li><li><strong>Definition 5:</strong> A person (such as a sailor in a navy or a scientist) who works with nuclear weapons or nuclear power.</li><li><strong>Definition 6:</strong> A microwave oven.<p><strong>Example:</strong> Just put it in the nuke for two minutes and it will be ready to eat.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a nuclear weapon on a target.<p><strong>Example:</strong> If a nuclear war ever breaks out, military facilities are likely to be nuked first.</p></li><li><strong>Definition 2:</strong> To destroy or erase completely.<p><strong>Example:</strong> To try to hide his posting history on Usenet, he had his posts nuked from the Google archives.</p></li><li><strong>Definition 3:</strong> (by extension) To carry out a denial-of-service attack against (an IRC user).</li><li><strong>Definition 4:</strong> To expose to some form of radiation.</li><li><strong>Definition 5:</strong> To cook in a microwave oven.<p><strong>Example:</strong> I’ll nuke some pizza for dinner.</p></li><li><strong>Definition 6:</strong> To over-analyze or overly despair over something.</li></ul></div></div>"
+description: Yes, NUKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- bukes
+- cukes
+- dukes
+- jukes
+- nokes
+- nudes
+- nuked
+- nuses
+- pukes
+- yukes
+anagrams:
+- neuks
+trap:
+  pattern: _UKES
+  count: 7
+phonetic: "/njuːks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small corner formed by two walls; an alcove.
+    example: There was a small broom for sweeping ash kept in the nook between the
+      fireplace bricks and the wall.
+  - text: A hidden or secluded spot; a secluded retreat.
+    example: The back of the used book shop was one of her favorite nooks; she could
+      read for hours and no one would bother her or pester her to buy.
+  - text: A recess, cove or hollow.
+  - text: An English unit of land area, originally 1/4 of a yardland but later 12
+      1/2 or 20 acres.
+  - text: A corner of a piece of land; an angled piece of land, especially one extending
+      into other land.
+- pos: noun
+  defs:
+  - text: A nucleus colony; a small bee colony created from a larger colony.
+- pos: noun
+  defs:
+  - text: The spinal cord.
+  - text: 'The back of the neck, the nape; of an animal: the back of the head or the
+      portion of the body behind the head.'
+- pos: noun
+  defs:
+  - text: A nuclear weapon.
+  - text: "(by extension) Something that destroys or negates, especially on a catastrophic
+      scale."
+  - text: A nuclear power station.
+  - text: A vessel such as a ship or submarine running on nuclear power.
+  - text: A person (such as a sailor in a navy or a scientist) who works with nuclear
+      weapons or nuclear power.
+  - text: A microwave oven.
+    example: Just put it in the nuke for two minutes and it will be ready to eat.
+- pos: verb
+  defs:
+  - text: To use a nuclear weapon on a target.
+    example: If a nuclear war ever breaks out, military facilities are likely to be
+      nuked first.
+  - text: To destroy or erase completely.
+    example: To try to hide his posting history on Usenet, he had his posts nuked
+      from the Google archives.
+  - text: "(by extension) To carry out a denial-of-service attack against (an IRC
+      user)."
+  - text: To expose to some form of radiation.
+  - text: To cook in a microwave oven.
+    example: I’ll nuke some pizza for dinner.
+  - text: To over-analyze or overly despair over something.
 ---
-

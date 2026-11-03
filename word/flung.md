@@ -1,7 +1,41 @@
 ---
 layout: word
-title: flung
+title: Is FLUNG a Wordle Word?
+head_title: 'Is FLUNG a Wordle Word? Yes – Past Answer #1269 & Meaning'
 word: flung
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈflʌŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move (oneself) abruptly or violently; to rush or dash.</li><li><strong>Definition 2:</strong> To throw with violence or quick movement; to hurl.</li><li><strong>Definition 3:</strong> To throw; to wince; to flounce.</li><li><strong>Definition 4:</strong> To utter abusive language; to sneer.<p><strong>Example:</strong> The scold began to flout and fling.</p></li></ul></div></div>"
+description: Yes, FLUNG is a valid Wordle word. It was the Wordle answer on December
+  9, 2024 (#1269). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 9, 2024 (#1269).
+past_answers:
+- date: '2024-12-09'
+  number: 1269
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- clung
+- fling
+- flunk
+- slung
+- flong
+- plung
+phonetic: "/ˈflʌŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To move (oneself) abruptly or violently; to rush or dash.
+  - text: To throw with violence or quick movement; to hurl.
+  - text: To throw; to wince; to flounce.
+  - text: To utter abusive language; to sneer.
+    example: The scold began to flout and fling.
 ---
-

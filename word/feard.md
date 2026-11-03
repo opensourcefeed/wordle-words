@@ -1,7 +1,53 @@
 ---
 layout: word
-title: feard
+title: Is FEARD a Wordle Word?
+head_title: Is FEARD a Wordle Word? Yes – Valid Guess & Meaning
 word: feard
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To feel fear about (something or someone); to be afraid of; to consider or expect with alarm.<p><strong>Example:</strong> I fear the worst will happen.</p></li><li><strong>Definition 2:</strong> To feel fear (about something).<p><strong>Example:</strong> Never fear; help is always near.</p></li><li><strong>Definition 3:</strong> (used with for) To worry about, to feel concern for, to be afraid for.<p><strong>Example:</strong> She fears for her son’s safety.</p></li><li><strong>Definition 4:</strong> To venerate; to feel awe towards.<p><strong>Example:</strong> People who fear God can be found in Christian churches.</p></li><li><strong>Definition 5:</strong> To regret.<p><strong>Example:</strong> I fear I have bad news for you: your husband has died.</p></li><li><strong>Definition 6:</strong> To cause fear to; to frighten.</li><li><strong>Definition 7:</strong> To be anxious or solicitous for.</li><li><strong>Definition 8:</strong> To suspect; to doubt.</li></ul></div></div>"
+description: Yes, FEARD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- beard
+- heard
+- feare
+- fears
+- feart
+- reard
+- yeard
+anagrams:
+- fader
+- fared
+definitions:
+- pos: verb
+  defs:
+  - text: To feel fear about (something or someone); to be afraid of; to consider
+      or expect with alarm.
+    example: I fear the worst will happen.
+  - text: To feel fear (about something).
+    example: Never fear; help is always near.
+  - text: "(used with for) To worry about, to feel concern for, to be afraid for."
+    example: She fears for her son’s safety.
+  - text: To venerate; to feel awe towards.
+    example: People who fear God can be found in Christian churches.
+  - text: To regret.
+    example: 'I fear I have bad news for you: your husband has died.'
+  - text: To cause fear to; to frighten.
+  - text: To be anxious or solicitous for.
+  - text: To suspect; to doubt.
 ---
-

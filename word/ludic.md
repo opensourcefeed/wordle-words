@@ -1,7 +1,34 @@
 ---
 layout: word
-title: ludic
+title: Is LUDIC a Wordle Word?
+head_title: Is LUDIC a Wordle Word? Yes – Valid Guess & Meaning
 word: ludic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈluː.dɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or pertaining to play; playful.</li><li><strong>Definition 2:</strong> Of or pertaining to games of chance.</li></ul></div></div>"
+description: Yes, LUDIC is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- pudic
+anagrams:
+- lucid
+phonetic: "/ˈluː.dɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to play; playful.
+  - text: Of or pertaining to games of chance.
 ---
-

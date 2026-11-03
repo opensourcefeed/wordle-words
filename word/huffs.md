@@ -1,7 +1,60 @@
 ---
 layout: word
-title: huffs
+title: Is HUFFS a Wordle Word?
+head_title: Is HUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: huffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hʌfs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A heavy breath; a grunt or sigh.<p><strong>Example:</strong> With a huff, he lifted the box onto the back of the truck.</p></li><li><strong>Definition 2:</strong> An expression of anger, annoyance, disgust, etc.</li><li><strong>Definition 3:</strong> One swelled with a false sense of importance or value; a boaster.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To breathe heavily.<p><strong>Example:</strong> The run left him huffing and puffing.</p></li><li><strong>Definition 2:</strong> To say in a huffy manner.</li><li><strong>Definition 3:</strong> To enlarge; to swell up.<p><strong>Example:</strong> Bread huffs.</p></li><li><strong>Definition 4:</strong> To bluster or swell with anger, arrogance, or pride; to storm; to take offense.</li><li><strong>Definition 5:</strong> To treat with arrogance and insolence; to chide or rebuke rudely; to bully, to hector.</li><li><strong>Definition 6:</strong> To inhale psychoactive inhalants.</li><li><strong>Definition 7:</strong> (draughts) To remove an opponent's piece as a forfeit for deliberately not taking a piece (often signalled by blowing on it).</li></ul></div></div>"
+description: Yes, HUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- buffs
+- cuffs
+- duffs
+- fuffs
+- guffs
+- haffs
+- huffy
+- humfs
+- luffs
+- muffs
+- nuffs
+- puffs
+trap:
+  pattern: _UFFS
+  count: 13
+phonetic: "/hʌfs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A heavy breath; a grunt or sigh.
+    example: With a huff, he lifted the box onto the back of the truck.
+  - text: An expression of anger, annoyance, disgust, etc.
+  - text: One swelled with a false sense of importance or value; a boaster.
+- pos: verb
+  defs:
+  - text: To breathe heavily.
+    example: The run left him huffing and puffing.
+  - text: To say in a huffy manner.
+  - text: To enlarge; to swell up.
+    example: Bread huffs.
+  - text: To bluster or swell with anger, arrogance, or pride; to storm; to take offense.
+  - text: To treat with arrogance and insolence; to chide or rebuke rudely; to bully,
+      to hector.
+  - text: To inhale psychoactive inhalants.
+  - text: "(draughts) To remove an opponent's piece as a forfeit for deliberately
+      not taking a piece (often signalled by blowing on it)."
 ---
-

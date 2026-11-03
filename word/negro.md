@@ -1,9 +1,43 @@
 ---
 layout: word
-title: negro
+title: Is NEGRO a Wordle Word?
+head_title: Is NEGRO a Wordle Word? Yes – Valid Guess & Meaning
 word: negro
+description: Yes, NEGRO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈniːɡɹəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A black person; a person of sub-Saharan African descent.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to the black ethnicity.</li><li><strong>Definition 2:</strong> Black or dark brown in color.</li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- negri
+anagrams:
+- goner
+- ergon
+- genro
+- grone
+phonetic: "/ˈniːɡɹəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A black person; a person of sub-Saharan African descent.
+- pos: adjective
+  defs:
+  - text: Relating to the black ethnicity.
+  - text: Black or dark brown in color.
 ---
-

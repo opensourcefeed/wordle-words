@@ -1,7 +1,33 @@
 ---
 layout: word
-title: ceiba
+title: Is CEIBA a Wordle Word?
+head_title: Is CEIBA a Wordle Word? Yes – Valid Guess & Meaning
 word: ceiba
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any tree of the species in genus Ceiba</li><li><strong>Definition 2:</strong> The silk-cotton tree (Bombax ceiba).</li></ul></div></div>"
+description: Yes, CEIBA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- chiba
+definitions:
+- pos: noun
+  defs:
+  - text: Any tree of the species in genus Ceiba
+  - text: The silk-cotton tree (Bombax ceiba).
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: fared
+title: Is FARED a Wordle Word?
+head_title: Is FARED a Wordle Word? Yes – Valid Guess & Meaning
 word: fared
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To go, travel.<p><strong>Example:</strong> Behold! A knight fares forth.</p></li><li><strong>Definition 2:</strong> To get along, succeed (well or badly); to be in any state, or pass through any experience, good or bad; to be attended with any circumstances or train of events.</li><li><strong>Definition 3:</strong> To eat, dine.</li><li><strong>Definition 4:</strong> To happen well, or ill.<p><strong>Example:</strong> We shall see how it will fare with him.</p></li><li><strong>Definition 5:</strong> To move along; proceed; progress; advance<p><strong>Example:</strong> We will continue to monitor how the hurricane fares against projected models.</p></li></ul></div></div>"
+description: Yes, FARED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- bared
+- cared
+- dared
+- eared
+- faced
+- faded
+- faked
+- famed
+- farad
+- farer
+- fares
+- fated
+anagrams:
+- fader
+- feard
+trap:
+  pattern: _ARED
+  count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: To go, travel.
+    example: Behold! A knight fares forth.
+  - text: To get along, succeed (well or badly); to be in any state, or pass through
+      any experience, good or bad; to be attended with any circumstances or train
+      of events.
+  - text: To eat, dine.
+  - text: To happen well, or ill.
+    example: We shall see how it will fare with him.
+  - text: To move along; proceed; progress; advance
+    example: We will continue to monitor how the hurricane fares against projected
+      models.
 ---
-

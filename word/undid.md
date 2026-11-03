@@ -1,7 +1,41 @@
 ---
 layout: word
-title: undid
+title: Is UNDID a Wordle Word?
+head_title: 'Is UNDID a Wordle Word? Yes – Past Answer #1486 & Meaning'
 word: undid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʌnˈdɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reverse the effects of an action.<p><strong>Example:</strong> Fortunately, we can undo most of the damage to the system by the war.</p></li><li><strong>Definition 2:</strong> To unfasten.<p><strong>Example:</strong> Could you undo my buckle for me?</p></li><li><strong>Definition 3:</strong> To impoverish or ruin, as in reputation; to cause the downfall of.</li></ul></div></div>"
+description: Yes, UNDID is a valid Wordle word. It was the Wordle answer on July 14,
+  2025 (#1486). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 14, 2025 (#1486).
+past_answers:
+- date: '2025-07-14'
+  number: 1486
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- unbid
+- unkid
+- unlid
+- unrid
+phonetic: "/ʌnˈdɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To reverse the effects of an action.
+    example: Fortunately, we can undo most of the damage to the system by the war.
+  - text: To unfasten.
+    example: Could you undo my buckle for me?
+  - text: To impoverish or ruin, as in reputation; to cause the downfall of.
 ---
-

@@ -1,7 +1,33 @@
 ---
 layout: word
-title: jabot
+title: Is JABOT a Wordle Word?
+head_title: Is JABOT a Wordle Word? Yes – Valid Guess & Meaning
 word: jabot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʒæ.bəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cascading or ornamental frill down the front of a blouse, shirt, etc.</li></ul></div></div>"
+description: Yes, JABOT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - T
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- sabot
+phonetic: "/ˈʒæ.bəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cascading or ornamental frill down the front of a blouse, shirt, etc.
 ---
-

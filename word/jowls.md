@@ -1,7 +1,50 @@
 ---
 layout: word
-title: jowls
+title: Is JOWLS a Wordle Word?
+head_title: Is JOWLS a Wordle Word? Yes – Valid Guess & Meaning
 word: jowls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The jaw, jawbone; especially one of the lateral parts of the mandible.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fold of fatty flesh under the chin, around the cheeks, or lower jaw (as a dewlap, wattle, crop, or double chin).</li><li><strong>Definition 2:</strong> The cheek; especially the cheek meat of a hog.</li><li><strong>Definition 3:</strong> Cut of fish including the head and adjacent parts</li></ul></div></div>"
+description: Yes, JOWLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- bowls
+- cowls
+- dowls
+- fowls
+- gowls
+- howls
+- jolls
+- jowly
+- nowls
+- sowls
+- yowls
+trap:
+  pattern: _OWLS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: The jaw, jawbone; especially one of the lateral parts of the mandible.
+- pos: noun
+  defs:
+  - text: A fold of fatty flesh under the chin, around the cheeks, or lower jaw (as
+      a dewlap, wattle, crop, or double chin).
+  - text: The cheek; especially the cheek meat of a hog.
+  - text: Cut of fish including the head and adjacent parts
 ---
-

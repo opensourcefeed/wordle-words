@@ -1,7 +1,58 @@
 ---
 layout: word
-title: stove
+title: Is STOVE a Wordle Word?
+head_title: 'Is STOVE a Wordle Word? Yes – Past Answer #284 & Meaning'
 word: stove
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stəʊv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A heater, a closed apparatus to burn fuel for the warming of a room.</li><li><strong>Definition 2:</strong> A device for heating food, (UK) a cooker.</li><li><strong>Definition 3:</strong> A hothouse (heated greenhouse).</li><li><strong>Definition 4:</strong> A house or room artificially warmed or heated.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To heat or dry, as in a stove.<p><strong>Example:</strong> to stove feathers</p></li><li><strong>Definition 2:</strong> To keep warm, in a house or room, by artificial heat.<p><strong>Example:</strong> to stove orange trees</p></li></ul></div></div>"
+description: Yes, STOVE is a valid Wordle word. It was the Wordle answer on March
+  30, 2022 (#284). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 30, 2022 (#284).
+past_answers:
+- date: '2022-03-30'
+  number: 284
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- shove
+- stave
+- stoke
+- stole
+- stone
+- store
+- slove
+- stive
+- stoae
+- stope
+anagrams:
+- votes
+trap:
+  pattern: STO_E
+  count: 7
+phonetic: "/stəʊv/"
+definitions:
+- pos: noun
+  defs:
+  - text: A heater, a closed apparatus to burn fuel for the warming of a room.
+  - text: A device for heating food, (UK) a cooker.
+  - text: A hothouse (heated greenhouse).
+  - text: A house or room artificially warmed or heated.
+- pos: verb
+  defs:
+  - text: To heat or dry, as in a stove.
+    example: to stove feathers
+  - text: To keep warm, in a house or room, by artificial heat.
+    example: to stove orange trees
 ---
-

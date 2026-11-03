@@ -1,7 +1,47 @@
 ---
 layout: word
-title: mirth
+title: Is MIRTH a Wordle Word?
+head_title: 'Is MIRTH a Wordle Word? Yes – Past Answer #1528 & Meaning'
 word: mirth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɜːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The emotion usually following humour and accompanied by laughter; merriment; jollity; gaiety.</li><li><strong>Definition 2:</strong> That which causes merriment.</li></ul></div></div>"
+description: Yes, MIRTH is a valid Wordle word. It was the Wordle answer on August
+  25, 2025 (#1528). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 25, 2025 (#1528).
+past_answers:
+- date: '2025-08-25'
+  number: 1528
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- birth
+- girth
+- airth
+- firth
+- mirah
+- mirch
+- murth
+- tirth
+- yirth
+trap:
+  pattern: _IRTH
+  count: 7
+phonetic: "/mɜːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The emotion usually following humour and accompanied by laughter; merriment;
+      jollity; gaiety.
+  - text: That which causes merriment.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: gluts
+title: Is GLUTS a Wordle Word?
+head_title: Is GLUTS a Wordle Word? Yes – Valid Guess & Meaning
 word: gluts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An excess, too much.<p><strong>Example:</strong> a glut of the market</p></li><li><strong>Definition 2:</strong> That which is swallowed.</li><li><strong>Definition 3:</strong> Something that fills up an opening.</li><li><strong>Definition 4:</strong> A wooden wedge used in splitting blocks.</li><li><strong>Definition 5:</strong> A piece of wood used to fill up behind cribbing or tubbing.</li><li><strong>Definition 6:</strong> (bricklaying) A bat, or small piece of brick, used to fill out a course.</li><li><strong>Definition 7:</strong> An arched opening to the ashpit of a kiln.</li><li><strong>Definition 8:</strong> A block used for a fulcrum.</li><li><strong>Definition 9:</strong> The broad-nosed eel (Anguilla anguilla, syn. Anguilla latirostris), found in Europe, Asia, the West Indies, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fill to capacity; to satisfy all demand or requirement; to sate.<p><strong>Example:</strong> to glut one's appetite</p></li><li><strong>Definition 2:</strong> To eat gluttonously or to satiety.</li></ul></div></div>"
+description: Yes, GLUTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- glits
+- glues
+- glugs
+- glums
+- glute
+- gouts
+definitions:
+- pos: noun
+  defs:
+  - text: An excess, too much.
+    example: a glut of the market
+  - text: That which is swallowed.
+  - text: Something that fills up an opening.
+  - text: A wooden wedge used in splitting blocks.
+  - text: A piece of wood used to fill up behind cribbing or tubbing.
+  - text: "(bricklaying) A bat, or small piece of brick, used to fill out a course."
+  - text: An arched opening to the ashpit of a kiln.
+  - text: A block used for a fulcrum.
+  - text: The broad-nosed eel (Anguilla anguilla, syn. Anguilla latirostris), found
+      in Europe, Asia, the West Indies, etc.
+- pos: verb
+  defs:
+  - text: To fill to capacity; to satisfy all demand or requirement; to sate.
+    example: to glut one's appetite
+  - text: To eat gluttonously or to satiety.
 ---
-

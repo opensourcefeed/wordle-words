@@ -1,7 +1,58 @@
 ---
 layout: word
-title: alias
+title: Is ALIAS a Wordle Word?
+head_title: Is ALIAS a Wordle Word? Yes – Valid Guess & Meaning
 word: alias
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈeɪ.li.əs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Another name; an assumed name.</li><li><strong>Definition 2:</strong> A second or further writ which is issued after a first writ has expired without effect.</li><li><strong>Definition 3:</strong> An abbreviation that replaces a string of commands and thereby reduces typing when performing routine actions or tasks.</li><li><strong>Definition 4:</strong> An spurious signal generated as a technological artifact.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assign an additional name to an entity, often a more user-friendly one.</li><li><strong>Definition 2:</strong> (of two signals) to become indistinguishable</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Otherwise; at another time; in other circumstances; otherwise called.</li><li><strong>Definition 2:</strong> Used to connect the different names of a person who has gone by two or more, and whose true name is for any cause doubtful<p><strong>Example:</strong> Smith, alias Simpson.</p></li></ul></div></div>"
+description: Yes, ALIAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- albas
+- alfas
+- algas
+- alifs
+- alims
+- alios
+- almas
+- amias
+- arias
+- glias
+phonetic: "/ˈeɪ.li.əs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Another name; an assumed name.
+  - text: A second or further writ which is issued after a first writ has expired
+      without effect.
+  - text: An abbreviation that replaces a string of commands and thereby reduces typing
+      when performing routine actions or tasks.
+  - text: An spurious signal generated as a technological artifact.
+- pos: verb
+  defs:
+  - text: To assign an additional name to an entity, often a more user-friendly one.
+  - text: "(of two signals) to become indistinguishable"
+- pos: adverb
+  defs:
+  - text: Otherwise; at another time; in other circumstances; otherwise called.
+  - text: Used to connect the different names of a person who has gone by two or more,
+      and whose true name is for any cause doubtful
+    example: Smith, alias Simpson.
 ---
-

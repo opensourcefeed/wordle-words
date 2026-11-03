@@ -1,7 +1,58 @@
 ---
 layout: word
-title: watch
+title: Is WATCH a Wordle Word?
+head_title: 'Is WATCH a Wordle Word? Yes – Past Answer #265 & Meaning'
 word: watch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɒt͡ʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A portable or wearable timepiece.<p><strong>Example:</strong> More people today carry a watch on their wrists than in their pockets.</p></li><li><strong>Definition 2:</strong> The act of guarding and observing someone or something.</li><li><strong>Definition 3:</strong> A particular time period when guarding is kept.<p><strong>Example:</strong> The second watch of the night began at midnight.</p></li><li><strong>Definition 4:</strong> A person or group of people who guard.<p><strong>Example:</strong> The watch stopped the travelers at the city gates.</p></li><li><strong>Definition 5:</strong> The post or office of a watchman; also, the place where a watchman is posted, or where a guard is kept.</li><li><strong>Definition 6:</strong> A group of sailors and officers aboard a ship or shore station with a common period of duty: starboard watch, port watch.</li><li><strong>Definition 7:</strong> A period of time on duty, usually four hours in length; the officers and crew who tend the working of a vessel during the same watch. (FM 55–501).</li><li><strong>Definition 8:</strong> The act of seeing, or viewing, for a period of time.</li></ul></div></div>"
+description: Yes, WATCH is a valid Wordle word. It was the Wordle answer on March
+  11, 2022 (#265). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 11, 2022 (#265).
+past_answers:
+- date: '2022-03-11'
+  number: 265
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- batch
+- catch
+- hatch
+- latch
+- match
+- patch
+- witch
+- gatch
+- natch
+- ratch
+trap:
+  pattern: _ATCH
+  count: 10
+phonetic: "/wɒt͡ʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A portable or wearable timepiece.
+    example: More people today carry a watch on their wrists than in their pockets.
+  - text: The act of guarding and observing someone or something.
+  - text: A particular time period when guarding is kept.
+    example: The second watch of the night began at midnight.
+  - text: A person or group of people who guard.
+    example: The watch stopped the travelers at the city gates.
+  - text: The post or office of a watchman; also, the place where a watchman is posted,
+      or where a guard is kept.
+  - text: 'A group of sailors and officers aboard a ship or shore station with a common
+      period of duty: starboard watch, port watch.'
+  - text: A period of time on duty, usually four hours in length; the officers and
+      crew who tend the working of a vessel during the same watch. (FM 55–501).
+  - text: The act of seeing, or viewing, for a period of time.
 ---
-

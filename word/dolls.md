@@ -1,7 +1,50 @@
 ---
 layout: word
-title: dolls
+title: Is DOLLS a Wordle Word?
+head_title: Is DOLLS a Wordle Word? Yes – Valid Guess & Meaning
 word: dolls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A toy in the form of a human.</li><li><strong>Definition 2:</strong> (sometimes offensive) An attractive young woman</li><li><strong>Definition 3:</strong> A term of endearment: darling, sweetheart.</li><li><strong>Definition 4:</strong> A dollar.</li><li><strong>Definition 5:</strong> (now possibly offensive) A good-natured, cooperative or helpful girl.</li><li><strong>Definition 6:</strong> The smallest or pet pig in a litter.</li></ul></div></div>"
+description: Yes, DOLLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- dolly
+- bolls
+- colls
+- dells
+- dills
+- doles
+- dolos
+- dolts
+- dools
+- dowls
+- dulls
+- jolls
+trap:
+  pattern: _OLLS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A toy in the form of a human.
+  - text: "(sometimes offensive) An attractive young woman"
+  - text: 'A term of endearment: darling, sweetheart.'
+  - text: A dollar.
+  - text: "(now possibly offensive) A good-natured, cooperative or helpful girl."
+  - text: The smallest or pet pig in a litter.
 ---
-

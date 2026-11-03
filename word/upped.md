@@ -1,7 +1,43 @@
 ---
 layout: word
-title: upped
+title: Is UPPED a Wordle Word?
+head_title: Is UPPED a Wordle Word? Yes – Valid Guess & Meaning
 word: upped
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʌpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To increase or raise.<p><strong>Example:</strong> If we up the volume, we may be able to hear what he says.</p></li><li><strong>Definition 2:</strong> To promote.<p><strong>Example:</strong> It wasn’t long before they upped him to Vice President.</p></li><li><strong>Definition 3:</strong> (usually in combination with another verb) To act suddenly.<p><strong>Example:</strong> He just upped and quit.</p></li><li><strong>Definition 4:</strong> To ascend; to climb up.</li><li><strong>Definition 5:</strong> To upload.<p><strong>Example:</strong> 100 new apps and games have just been upped.</p></li></ul></div></div>"
+description: Yes, UPPED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- upper
+- umped
+- upled
+- urped
+phonetic: "/ʌpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To increase or raise.
+    example: If we up the volume, we may be able to hear what he says.
+  - text: To promote.
+    example: It wasn’t long before they upped him to Vice President.
+  - text: "(usually in combination with another verb) To act suddenly."
+    example: He just upped and quit.
+  - text: To ascend; to climb up.
+  - text: To upload.
+    example: 100 new apps and games have just been upped.
 ---
-

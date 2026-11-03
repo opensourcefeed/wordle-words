@@ -1,7 +1,49 @@
 ---
 layout: word
-title: winos
+title: Is WINOS a Wordle Word?
+head_title: Is WINOS a Wordle Word? Yes – Valid Guess & Meaning
 word: winos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A chronic or heavy drinker of cheap wine or other alcohol; a drunk or drunkard.</li><li><strong>Definition 2:</strong> A wine enthusiast; an oenophile.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hypothetical particle that is the superpartner of the W boson.</li></ul></div></div>"
+description: Yes, WINOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- dinos
+- finos
+- kinos
+- linos
+- minos
+- vinos
+- winds
+- wines
+- wings
+- winks
+- winns
+- zinos
+trap:
+  pattern: _INOS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A chronic or heavy drinker of cheap wine or other alcohol; a drunk or drunkard.
+  - text: A wine enthusiast; an oenophile.
+- pos: noun
+  defs:
+  - text: A hypothetical particle that is the superpartner of the W boson.
 ---
-

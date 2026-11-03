@@ -1,7 +1,40 @@
 ---
 layout: word
-title: cuppy
+title: Is CUPPY a Wordle Word?
+head_title: Is CUPPY a Wordle Word? Yes – Valid Guess & Meaning
 word: cuppy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the form of a cup.</li><li><strong>Definition 2:</strong> Having indentations or shallow depressions.</li><li><strong>Definition 3:</strong> (of timber) Characterised by cup shakes.</li></ul></div></div>"
+description: Yes, CUPPY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - P
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- guppy
+- puppy
+- buppy
+- coppy
+- cuppa
+- cuspy
+- duppy
+- yuppy
+trap:
+  pattern: _UPPY
+  count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: Having the form of a cup.
+  - text: Having indentations or shallow depressions.
+  - text: "(of timber) Characterised by cup shakes."
 ---
-

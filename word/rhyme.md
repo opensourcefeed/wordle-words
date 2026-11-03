@@ -1,7 +1,57 @@
 ---
 layout: word
-title: rhyme
+title: Is RHYME a Wordle Word?
+head_title: 'Is RHYME a Wordle Word? Yes – Past Answer #411 & Meaning'
 word: rhyme
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹaɪm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Rhyming verse (poetic form)<p><strong>Example:</strong> Many editors say they don't want stories written in rhyme.</p></li><li><strong>Definition 2:</strong> A thought expressed in verse; a verse; a poem; a tale told in verse.<p><strong>Example:</strong> Tennyson’s rhymes</p></li><li><strong>Definition 3:</strong> A word that rhymes with another.<p><strong>Example:</strong> Norse poetry is littered with rhymes like \"sól ... sunnan\".</p></li><li><strong>Definition 4:</strong> Rhyming: sameness of sound of part of some words.<p><strong>Example:</strong> The poem exhibits a peculiar form of rhyme.</p></li><li><strong>Definition 5:</strong> Rime</li><li><strong>Definition 6:</strong> Number.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To compose or treat in verse; versify.</li><li><strong>Definition 2:</strong> (followed by with) Of a word, to be pronounced identically with another from the vowel in its stressed syllable to the end.<p><strong>Example:</strong> \"Creation\" rhymes with \"integration\" and \"station\".</p></li><li><strong>Definition 3:</strong> Of two or more words, to be pronounced identically from the vowel in the stressed syllable of each to the end of each.<p><strong>Example:</strong> \"India\" and \"windier\" rhyme with each other in non-rhotic accents.</p></li><li><strong>Definition 4:</strong> To number; count; reckon.</li></ul></div></div>"
+description: Yes, RHYME is a valid Wordle word. It was the Wordle answer on August
+  4, 2022 (#411). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 4, 2022 (#411).
+past_answers:
+- date: '2022-08-04'
+  number: 411
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- thyme
+- chyme
+- rheme
+- rhime
+- rhymy
+- rhyne
+phonetic: "/ɹaɪm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Rhyming verse (poetic form)
+    example: Many editors say they don't want stories written in rhyme.
+  - text: A thought expressed in verse; a verse; a poem; a tale told in verse.
+    example: Tennyson’s rhymes
+  - text: A word that rhymes with another.
+    example: Norse poetry is littered with rhymes like "sól ... sunnan".
+  - text: 'Rhyming: sameness of sound of part of some words.'
+    example: The poem exhibits a peculiar form of rhyme.
+  - text: Rime
+  - text: Number.
+- pos: verb
+  defs:
+  - text: To compose or treat in verse; versify.
+  - text: "(followed by with) Of a word, to be pronounced identically with another
+      from the vowel in its stressed syllable to the end."
+    example: '"Creation" rhymes with "integration" and "station".'
+  - text: Of two or more words, to be pronounced identically from the vowel in the
+      stressed syllable of each to the end of each.
+    example: '"India" and "windier" rhyme with each other in non-rhotic accents.'
+  - text: To number; count; reckon.
 ---
-

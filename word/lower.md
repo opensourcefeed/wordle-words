@@ -1,7 +1,132 @@
 ---
 layout: word
-title: lower
+title: Is LOWER a Wordle Word?
+head_title: 'Is LOWER a Wordle Word? Yes – Past Answer #1142 & Meaning'
 word: lower
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈləʊə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Situated close to, or even below, the ground or another normal reference plane; not high or lofty.<p><strong>Example:</strong> a low wall  a low shelf</p></li><li><strong>Definition 2:</strong> Of less than normal height; below the average or normal level from which elevation is measured.<p><strong>Example:</strong> a low bow</p></li><li><strong>Definition 3:</strong> Not high in status, esteem or rank, dignity, or quality. (Compare vulgar.)<p><strong>Example:</strong> Now that was low even for you!</p></li><li><strong>Definition 4:</strong> Humble, meek, not haughty.</li><li><strong>Definition 5:</strong> Disparaging; assigning little value or excellence.<p><strong>Example:</strong> She had a low opinion of cats. He took a low view of dogs.</p></li><li><strong>Definition 6:</strong> Being a nadir, a bottom.<p><strong>Example:</strong> the low point in her career</p></li><li><strong>Definition 7:</strong> Depressed in mood, dejected, sad.<p><strong>Example:</strong> low spirits</p></li><li><strong>Definition 8:</strong> Lacking health or vitality, strength or vivacity; feeble; weak.<p><strong>Example:</strong> a low pulse</p></li><li><strong>Definition 9:</strong> Small, not high (in amount or quantity, value, force, energy, etc).<p><strong>Example:</strong> My credit union charges a low interest rate.   Jogging during a whiteout, with such low temperatures and low visibility, is dangerous.   The store sold bread at low prices, and milk at even lower prices.   The contractors gave a low estimate of the costs.   low cholesterol   a low voltage wire   a low number</p></li><li><strong>Definition 10:</strong> Simple in complexity or development; (in several set phrases) favoring simplicity; (see e.g. low church, Low Tory).<p><strong>Example:</strong> low protozoan animals, low cryptogamic plants, and other low organisms</p></li><li><strong>Definition 11:</strong> (in several set phrases) Being near the equator.<p><strong>Example:</strong> the low northern latitudes</p></li><li><strong>Definition 12:</strong> (acoustics) Grave in pitch, due to being produced by relatively slow vibrations (wave oscillations); flat.<p><strong>Example:</strong> Generally, European men have lower voices than their Indian counterparts.</p></li><li><strong>Definition 13:</strong> Quiet; soft; not loud.<p><strong>Example:</strong> They spoke in low voices so I would not hear what they were saying.</p></li><li><strong>Definition 14:</strong> Made with a relatively large opening between the tongue and the palate; made with (part of) the tongue positioned low in the mouth, relative to the palate.</li><li><strong>Definition 15:</strong> Lesser in value than other cards, denominations, suits, etc.<p><strong>Example:</strong> a low card</p></li><li><strong>Definition 16:</strong> Not rich or seasoned; offering the minimum of nutritional requirements; plain, simple.</li><li><strong>Definition 17:</strong> (of an automobile, gear, etc) Designed for a slow (or the slowest) speed.<p><strong>Example:</strong> low gear</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Close to the ground.</li><li><strong>Definition 2:</strong> Of a pitch, at a lower frequency.</li><li><strong>Definition 3:</strong> With a low voice or sound; not loudly; gently.<p><strong>Example:</strong> to speak low</p></li><li><strong>Definition 4:</strong> Under the usual price; at a moderate price; cheaply.<p><strong>Example:</strong> He sold his wheat low.</p></li><li><strong>Definition 5:</strong> In a low mean condition; humbly; meanly.</li><li><strong>Definition 6:</strong> In a time approaching our own.</li><li><strong>Definition 7:</strong> In a path near the equator, so that the declination is small, or near the horizon, so that the altitude is small; said of the heavenly bodies with reference to the diurnal revolution.<p><strong>Example:</strong> The moon runs low, i.e. comparatively near the horizon when on or near the meridian.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To let descend by its own weight, as something suspended; to let down<p><strong>Example:</strong> lower a bucket into a well</p></li><li><strong>Definition 2:</strong> To pull down<p><strong>Example:</strong> to lower a flag</p></li><li><strong>Definition 3:</strong> To reduce the height of<p><strong>Example:</strong> lower a chimney or turret</p></li><li><strong>Definition 4:</strong> To depress as to direction<p><strong>Example:</strong> lower the aim of a gun</p></li><li><strong>Definition 5:</strong> To make less elevated<p><strong>Example:</strong> to lower one's ambition, aspirations, or hopes</p></li><li><strong>Definition 6:</strong> To reduce the degree, intensity, strength, etc., of<p><strong>Example:</strong> lower distilled liquors</p></li><li><strong>Definition 7:</strong> To bring down; to humble<p><strong>Example:</strong> lower one's pride</p></li><li><strong>Definition 8:</strong> (lower oneself) To humble oneself; to do something one considers to be beneath one's dignity.<p><strong>Example:</strong> I could never lower myself enough to buy second-hand clothes.</p></li><li><strong>Definition 9:</strong> To reduce (something) in value, amount, etc.<p><strong>Example:</strong> lower the interest rate</p></li><li><strong>Definition 10:</strong> To fall; to sink; to grow less; to diminish; to decrease<p><strong>Example:</strong> The river lowered as rapidly as it rose.</p></li><li><strong>Definition 11:</strong> To decrease in value, amount, etc.</li></ul></div></div>"
+description: Yes, LOWER is a valid Wordle word. It was the Wordle answer on August
+  4, 2024 (#1142). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 4, 2024 (#1142).
+past_answers:
+- date: '2024-08-04'
+  number: 1142
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- cower
+- loser
+- lover
+- mower
+- power
+- rower
+- sower
+- tower
+- bower
+- dower
+- lawer
+- loner
+anagrams:
+- owler
+- rowel
+trap:
+  pattern: _OWER
+  count: 10
+phonetic: "/ˈləʊə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Situated close to, or even below, the ground or another normal reference
+      plane; not high or lofty.
+    example: a low wall  a low shelf
+  - text: Of less than normal height; below the average or normal level from which
+      elevation is measured.
+    example: a low bow
+  - text: Not high in status, esteem or rank, dignity, or quality. (Compare vulgar.)
+    example: Now that was low even for you!
+  - text: Humble, meek, not haughty.
+  - text: Disparaging; assigning little value or excellence.
+    example: She had a low opinion of cats. He took a low view of dogs.
+  - text: Being a nadir, a bottom.
+    example: the low point in her career
+  - text: Depressed in mood, dejected, sad.
+    example: low spirits
+  - text: Lacking health or vitality, strength or vivacity; feeble; weak.
+    example: a low pulse
+  - text: Small, not high (in amount or quantity, value, force, energy, etc).
+    example: My credit union charges a low interest rate.   Jogging during a whiteout,
+      with such low temperatures and low visibility, is dangerous.   The store sold
+      bread at low prices, and milk at even lower prices.   The contractors gave a
+      low estimate of the costs.   low cholesterol   a low voltage wire   a low number
+  - text: Simple in complexity or development; (in several set phrases) favoring simplicity;
+      (see e.g. low church, Low Tory).
+    example: low protozoan animals, low cryptogamic plants, and other low organisms
+  - text: "(in several set phrases) Being near the equator."
+    example: the low northern latitudes
+  - text: "(acoustics) Grave in pitch, due to being produced by relatively slow vibrations
+      (wave oscillations); flat."
+    example: Generally, European men have lower voices than their Indian counterparts.
+  - text: Quiet; soft; not loud.
+    example: They spoke in low voices so I would not hear what they were saying.
+  - text: Made with a relatively large opening between the tongue and the palate;
+      made with (part of) the tongue positioned low in the mouth, relative to the
+      palate.
+  - text: Lesser in value than other cards, denominations, suits, etc.
+    example: a low card
+  - text: Not rich or seasoned; offering the minimum of nutritional requirements;
+      plain, simple.
+  - text: "(of an automobile, gear, etc) Designed for a slow (or the slowest) speed."
+    example: low gear
+- pos: adverb
+  defs:
+  - text: Close to the ground.
+  - text: Of a pitch, at a lower frequency.
+  - text: With a low voice or sound; not loudly; gently.
+    example: to speak low
+  - text: Under the usual price; at a moderate price; cheaply.
+    example: He sold his wheat low.
+  - text: In a low mean condition; humbly; meanly.
+  - text: In a time approaching our own.
+  - text: In a path near the equator, so that the declination is small, or near the
+      horizon, so that the altitude is small; said of the heavenly bodies with reference
+      to the diurnal revolution.
+    example: The moon runs low, i.e. comparatively near the horizon when on or near
+      the meridian.
+- pos: verb
+  defs:
+  - text: To let descend by its own weight, as something suspended; to let down
+    example: lower a bucket into a well
+  - text: To pull down
+    example: to lower a flag
+  - text: To reduce the height of
+    example: lower a chimney or turret
+  - text: To depress as to direction
+    example: lower the aim of a gun
+  - text: To make less elevated
+    example: to lower one's ambition, aspirations, or hopes
+  - text: To reduce the degree, intensity, strength, etc., of
+    example: lower distilled liquors
+  - text: To bring down; to humble
+    example: lower one's pride
+  - text: "(lower oneself) To humble oneself; to do something one considers to be
+      beneath one's dignity."
+    example: I could never lower myself enough to buy second-hand clothes.
+  - text: To reduce (something) in value, amount, etc.
+    example: lower the interest rate
+  - text: To fall; to sink; to grow less; to diminish; to decrease
+    example: The river lowered as rapidly as it rose.
+  - text: To decrease in value, amount, etc.
 ---
-

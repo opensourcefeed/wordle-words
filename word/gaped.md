@@ -1,7 +1,53 @@
 ---
 layout: word
-title: gaped
+title: Is GAPED a Wordle Word?
+head_title: Is GAPED a Wordle Word? Yes – Valid Guess & Meaning
 word: gaped
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡeɪpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To open the mouth wide, especially involuntarily, as in a yawn, anger, or surprise.</li><li><strong>Definition 2:</strong> To stare in wonder.</li><li><strong>Definition 3:</strong> To open wide; to display a gap.</li><li><strong>Definition 4:</strong> Of a cat: to open the passage to the vomeronasal organ, analogous to the flehming in other animals.</li></ul></div></div>"
+description: Yes, GAPED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- caped
+- gaged
+- galed
+- gamed
+- gaper
+- gapes
+- gated
+- gazed
+- japed
+- naped
+- raped
+- taped
+anagrams:
+- paged
+trap:
+  pattern: _APED
+  count: 7
+phonetic: "/ɡeɪpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To open the mouth wide, especially involuntarily, as in a yawn, anger, or
+      surprise.
+  - text: To stare in wonder.
+  - text: To open wide; to display a gap.
+  - text: 'Of a cat: to open the passage to the vomeronasal organ, analogous to the
+      flehming in other animals.'
 ---
-

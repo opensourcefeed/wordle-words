@@ -1,7 +1,37 @@
 ---
 layout: word
-title: fordo
+title: Is FORDO a Wordle Word?
+head_title: Is FORDO a Wordle Word? Yes – Valid Guess & Meaning
 word: fordo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɔːˈduː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To kill, destroy.</li><li><strong>Definition 2:</strong> To annul, abolish, cancel.</li><li><strong>Definition 3:</strong> To do away with, undo; to ruin.</li><li><strong>Definition 4:</strong> To overcome with fatigue; to exhaust.</li></ul></div></div>"
+description: Yes, FORDO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- forgo
+- fords
+- gordo
+- sordo
+phonetic: "/fɔːˈduː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To kill, destroy.
+  - text: To annul, abolish, cancel.
+  - text: To do away with, undo; to ruin.
+  - text: To overcome with fatigue; to exhaust.
 ---
-

@@ -1,7 +1,36 @@
 ---
 layout: word
-title: ixnay
+title: Is IXNAY a Wordle Word?
+head_title: Is IXNAY a Wordle Word? Yes – Valid Guess & Meaning
 word: ixnay
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪksˌneɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (usually in an imperative) Do not do or talk about (something); often followed by Pig Latin.<p><strong>Example:</strong> Ixnay on the “W-A-L-K” while the dogs can hear you.</p></li><li><strong>Definition 2:</strong> To reject something.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> No.</li></ul></div></div>"
+description: Yes, IXNAY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 63
+phonetic: "/ˈɪksˌneɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(usually in an imperative) Do not do or talk about (something); often followed
+      by Pig Latin."
+    example: Ixnay on the “W-A-L-K” while the dogs can hear you.
+  - text: To reject something.
+- pos: interjection
+  defs:
+  - text: No.
 ---
-

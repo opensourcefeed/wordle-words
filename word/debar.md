@@ -1,7 +1,46 @@
 ---
 layout: word
-title: debar
+title: Is DEBAR a Wordle Word?
+head_title: Is DEBAR a Wordle Word? Yes – Possible Answer & Meaning
 word: debar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɪˈbɑː(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To exclude or shut out; to bar.</li><li><strong>Definition 2:</strong> To hinder or prevent.</li><li><strong>Definition 3:</strong> To prohibit (a person or company that has been convicted of criminal acts in connection with a government program) from future participation in that program.</li></ul></div></div>"
+description: Yes, DEBAR is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- rebar
+- debag
+- debur
+- denar
+- dewar
+- kebar
+anagrams:
+- beard
+- bread
+- ardeb
+- barde
+- bared
+phonetic: "/dɪˈbɑː(ɹ)/"
+definitions:
+- pos: verb
+  defs:
+  - text: To exclude or shut out; to bar.
+  - text: To hinder or prevent.
+  - text: To prohibit (a person or company that has been convicted of criminal acts
+      in connection with a government program) from future participation in that program.
 ---
-

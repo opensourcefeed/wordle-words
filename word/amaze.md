@@ -1,7 +1,46 @@
 ---
 layout: word
-title: amaze
+title: Is AMAZE a Wordle Word?
+head_title: 'Is AMAZE a Wordle Word? Yes – Past Answer #1823 & Meaning'
 word: amaze
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈmeɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Amazement, astonishment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fill with wonder and surprise; to astonish, astound, surprise or perplex.<p><strong>Example:</strong> He was amazed when he found that the girl was a robot.</p></li><li><strong>Definition 2:</strong> To undergo amazement; to be astounded.</li><li><strong>Definition 3:</strong> To stupefy; to knock unconscious.</li><li><strong>Definition 4:</strong> To bewilder; to stupefy; to bring into a maze.</li><li><strong>Definition 5:</strong> To terrify, to fill with panic.</li></ul></div></div>"
+description: Yes, AMAZE is a valid Wordle word. It was the Wordle answer on June 16,
+  2026 (#1823). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 16, 2026 (#1823).
+past_answers:
+- date: '2026-06-16'
+  number: 1823
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- agaze
+- amate
+- smaze
+phonetic: "/əˈmeɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Amazement, astonishment.
+- pos: verb
+  defs:
+  - text: To fill with wonder and surprise; to astonish, astound, surprise or perplex.
+    example: He was amazed when he found that the girl was a robot.
+  - text: To undergo amazement; to be astounded.
+  - text: To stupefy; to knock unconscious.
+  - text: To bewilder; to stupefy; to bring into a maze.
+  - text: To terrify, to fill with panic.
 ---
-

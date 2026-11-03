@@ -1,7 +1,41 @@
 ---
 layout: word
-title: saggy
+title: Is SAGGY a Wordle Word?
+head_title: Is SAGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: saggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsæɡi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Baggy or loose-fitting.</li><li><strong>Definition 2:</strong> That sinks or droops from wear or its own weight.</li></ul></div></div>"
+description: Yes, SAGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- baggy
+- soggy
+- daggy
+- jaggy
+- laggy
+- naggy
+- raggy
+- taggy
+trap:
+  pattern: _AGGY
+  count: 9
+phonetic: "/ˈsæɡi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Baggy or loose-fitting.
+  - text: That sinks or droops from wear or its own weight.
 ---
-

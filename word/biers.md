@@ -1,7 +1,52 @@
 ---
 layout: word
-title: biers
+title: Is BIERS a Wordle Word?
+head_title: Is BIERS a Wordle Word? Yes – Valid Guess & Meaning
 word: biers
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A litter to transport the corpse of a dead person.</li><li><strong>Definition 2:</strong> A platform or stand where a body or coffin is placed.</li><li><strong>Definition 3:</strong> A count of forty threads in the warp or chain of woollen cloth.</li></ul></div></div>"
+description: Yes, BIERS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- beers
+- birrs
+- boers
+- brers
+- fiers
+- kiers
+- liers
+- piers
+- tiers
+- viers
+anagrams:
+- birse
+- breis
+- bries
+- brise
+- ribes
+trap:
+  pattern: _IERS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A litter to transport the corpse of a dead person.
+  - text: A platform or stand where a body or coffin is placed.
+  - text: A count of forty threads in the warp or chain of woollen cloth.
 ---
-

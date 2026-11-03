@@ -1,6 +1,51 @@
 ---
 layout: word
-title: lares
+title: Is LARES a Wordle Word?
+head_title: Is LARES a Wordle Word? Yes – Valid Guess
 word: lares
+description: Yes, LARES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- bares
+- cares
+- dares
+- fares
+- gares
+- hares
+- laces
+- lades
+- lakes
+- lames
+- lanes
+- lards
+anagrams:
+- arles
+- earls
+- laers
+- laser
+- lears
+- rales
+- reals
+- seral
+trap:
+  pattern: _ARES
+  count: 14
 ---
-

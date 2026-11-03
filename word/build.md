@@ -1,7 +1,56 @@
 ---
 layout: word
-title: build
+title: Is BUILD a Wordle Word?
+head_title: 'Is BUILD a Wordle Word? Yes – Past Answer #977 & Meaning'
 word: build
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɪld/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The physique of a human body; constitution or structure of a human body.<p><strong>Example:</strong> Rugby players are of sturdy build.</p></li><li><strong>Definition 2:</strong> Any of various versions of a software product as it is being developed for release to users.<p><strong>Example:</strong> The computer company has introduced a new prototype build to beta testers.</p></li><li><strong>Definition 3:</strong> Any structure, such as a building, statue, pool or forest, created by the player.<p><strong>Example:</strong> I made a build that looked like the Parthenon in that game.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form (something) by combining materials or parts.</li><li><strong>Definition 2:</strong> To develop or give form to (something) according to a plan or process.</li><li><strong>Definition 3:</strong> To increase or strengthen (something) by adding gradually to.</li><li><strong>Definition 4:</strong> To establish a basis for (something).</li><li><strong>Definition 5:</strong> To form by combining materials or parts.</li><li><strong>Definition 6:</strong> To develop in magnitude or extent.</li><li><strong>Definition 7:</strong> To construct (software) by compiling its source code.</li><li><strong>Definition 8:</strong> (of source code) To be converted into software by compilation, usually with minimal human intervention.<p><strong>Example:</strong> This code won't build any more. Have you made any changes?</p></li></ul></div></div>"
+description: Yes, BUILD is a valid Wordle word. It was the Wordle answer on February
+  21, 2024 (#977). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 21, 2024 (#977).
+past_answers:
+- date: '2024-02-21'
+  number: 977
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- built
+- guild
+anagrams:
+- bluid
+phonetic: "/bɪld/"
+definitions:
+- pos: noun
+  defs:
+  - text: The physique of a human body; constitution or structure of a human body.
+    example: Rugby players are of sturdy build.
+  - text: Any of various versions of a software product as it is being developed for
+      release to users.
+    example: The computer company has introduced a new prototype build to beta testers.
+  - text: Any structure, such as a building, statue, pool or forest, created by the
+      player.
+    example: I made a build that looked like the Parthenon in that game.
+- pos: verb
+  defs:
+  - text: To form (something) by combining materials or parts.
+  - text: To develop or give form to (something) according to a plan or process.
+  - text: To increase or strengthen (something) by adding gradually to.
+  - text: To establish a basis for (something).
+  - text: To form by combining materials or parts.
+  - text: To develop in magnitude or extent.
+  - text: To construct (software) by compiling its source code.
+  - text: "(of source code) To be converted into software by compilation, usually
+      with minimal human intervention."
+    example: This code won't build any more. Have you made any changes?
 ---
-

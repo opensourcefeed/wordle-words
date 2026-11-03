@@ -1,7 +1,41 @@
 ---
 layout: word
-title: chimp
+title: Is CHIMP a Wordle Word?
+head_title: Is CHIMP a Wordle Word? Yes – Valid Guess & Meaning
 word: chimp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃɪmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To review each image on a digital camera after it is taken.</li><li><strong>Definition 2:</strong> To get very excited when showing images on a digital camera.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A species of great ape in the genus Pan, native to Africa, and believed by biologists to be the closest extant relative to humans.</li></ul></div></div>"
+description: Yes, CHIMP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- champ
+- chime
+- chirp
+- chump
+- crimp
+- chimb
+- chimo
+- chomp
+phonetic: "/tʃɪmp/"
+definitions:
+- pos: verb
+  defs:
+  - text: To review each image on a digital camera after it is taken.
+  - text: To get very excited when showing images on a digital camera.
+- pos: noun
+  defs:
+  - text: A species of great ape in the genus Pan, native to Africa, and believed
+      by biologists to be the closest extant relative to humans.
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: hydro
+title: Is HYDRO a Wordle Word?
+head_title: Is HYDRO a Wordle Word? Yes – Possible Answer & Meaning
 word: hydro
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Hydroelectric power</li><li><strong>Definition 2:</strong> Electrical power supply; specifically, electrical power provided by a utility (as a publicly-owned one); payment or bills for this.<p><strong>Example:</strong> He crashed his car against a hydro pole.</p></li><li><strong>Definition 3:</strong> A spa.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Hydroelectric</li><li><strong>Definition 2:</strong> Hydroponic<p><strong>Example:</strong> hydro watercress</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A floatplane, an airplane specialized for operating on water, having pontoon floats instead of skids or wheels</li></ul></div></div>"
+description: Yes, HYDRO is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- hydra
+anagrams:
+- rhody
+definitions:
+- pos: noun
+  defs:
+  - text: Hydroelectric power
+  - text: Electrical power supply; specifically, electrical power provided by a utility
+      (as a publicly-owned one); payment or bills for this.
+    example: He crashed his car against a hydro pole.
+  - text: A spa.
+- pos: adjective
+  defs:
+  - text: Hydroelectric
+  - text: Hydroponic
+    example: hydro watercress
+- pos: noun
+  defs:
+  - text: A floatplane, an airplane specialized for operating on water, having pontoon
+      floats instead of skids or wheels
 ---
-

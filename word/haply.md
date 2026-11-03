@@ -1,7 +1,34 @@
 ---
 layout: word
-title: haply
+title: Is HAPLY a Wordle Word?
+head_title: Is HAPLY a Wordle Word? Yes – Valid Guess & Meaning
 word: haply
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> By accident or luck.</li><li><strong>Definition 2:</strong> Perhaps.</li></ul></div></div>"
+description: Yes, HAPLY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- happy
+- haily
+- hiply
+anagrams:
+- phyla
+definitions:
+- pos: adverb
+  defs:
+  - text: By accident or luck.
+  - text: Perhaps.
 ---
-

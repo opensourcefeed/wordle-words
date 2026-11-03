@@ -1,7 +1,75 @@
 ---
 layout: word
-title: moral
+title: Is MORAL a Wordle Word?
+head_title: 'Is MORAL a Wordle Word? Yes – Past Answer #1397 & Meaning'
 word: moral
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɒɹəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (of a narrative) The ethical significance or practical lesson.</li><li><strong>Definition 2:</strong> (chiefly in the plural) Moral practices or teachings: modes of conduct.<p><strong>Example:</strong> a candidate with strong morals</p></li><li><strong>Definition 3:</strong> A morality play.</li><li><strong>Definition 4:</strong> A moral certainty.</li><li><strong>Definition 5:</strong> An exact counterpart.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To moralize.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to principles of right and wrong in behaviour, especially for teaching right behaviour.<p><strong>Example:</strong> moral judgments;  a moral poem</p></li><li><strong>Definition 2:</strong> Conforming to a standard of right behaviour; sanctioned by or operative on one's conscience or ethical judgment.<p><strong>Example:</strong> a moral obligation</p></li><li><strong>Definition 3:</strong> Capable of right and wrong action.<p><strong>Example:</strong> a moral agent</p></li><li><strong>Definition 4:</strong> Probable but not proved.<p><strong>Example:</strong> a moral certainty</p></li><li><strong>Definition 5:</strong> Positively affecting the mind, confidence, or will.<p><strong>Example:</strong> a moral victory;  moral support</p></li></ul></div></div>"
+description: Yes, MORAL is a valid Wordle word. It was the Wordle answer on April
+  16, 2025 (#1397). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 16, 2025 (#1397).
+past_answers:
+- date: '2025-04-16'
+  number: 1397
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- coral
+- modal
+- mural
+- boral
+- goral
+- horal
+- loral
+- maral
+- molal
+- monal
+- morae
+- morah
+anagrams:
+- molar
+- romal
+trap:
+  pattern: _ORAL
+  count: 9
+phonetic: "/ˈmɒɹəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(of a narrative) The ethical significance or practical lesson."
+  - text: "(chiefly in the plural) Moral practices or teachings: modes of conduct."
+    example: a candidate with strong morals
+  - text: A morality play.
+  - text: A moral certainty.
+  - text: An exact counterpart.
+- pos: verb
+  defs:
+  - text: To moralize.
+- pos: adjective
+  defs:
+  - text: Of or relating to principles of right and wrong in behaviour, especially
+      for teaching right behaviour.
+    example: moral judgments;  a moral poem
+  - text: Conforming to a standard of right behaviour; sanctioned by or operative
+      on one's conscience or ethical judgment.
+    example: a moral obligation
+  - text: Capable of right and wrong action.
+    example: a moral agent
+  - text: Probable but not proved.
+    example: a moral certainty
+  - text: Positively affecting the mind, confidence, or will.
+    example: a moral victory;  moral support
 ---
-

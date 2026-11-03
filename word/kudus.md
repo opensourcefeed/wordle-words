@@ -1,7 +1,36 @@
 ---
 layout: word
-title: kudus
+title: Is KUDUS a Wordle Word?
+head_title: Is KUDUS a Wordle Word? Yes – Valid Guess & Meaning
 word: kudus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large, striped, African antelope of the species Tragelaphus imberbis (the lesser kudu) or Tragelaphus strepsiceros (the greater kudu).</li></ul></div></div>"
+description: Yes, KUDUS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - U
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- kudos
+- kukus
+- kurus
+- kutus
+- kuzus
+- pudus
+- wudus
+definitions:
+- pos: noun
+  defs:
+  - text: A large, striped, African antelope of the species Tragelaphus imberbis (the
+      lesser kudu) or Tragelaphus strepsiceros (the greater kudu).
 ---
-

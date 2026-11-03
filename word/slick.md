@@ -1,7 +1,79 @@
 ---
 layout: word
-title: slick
+title: Is SLICK a Wordle Word?
+head_title: 'Is SLICK a Wordle Word? Yes – Past Answer #1736 & Meaning'
 word: slick
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A covering of liquid, particularly oil.<p><strong>Example:</strong> Careful in turn three — there's an oil slick on the road.</p></li><li><strong>Definition 2:</strong> Someone who is clever and untrustworthy.</li><li><strong>Definition 3:</strong> A tool used to make something smooth or even.</li><li><strong>Definition 4:</strong> A tire with a smooth surface instead of a tread pattern, often used in auto racing.<p><strong>Example:</strong> You'll go much faster if you put on slicks.</p></li><li><strong>Definition 5:</strong> A helicopter.</li><li><strong>Definition 6:</strong> A camera-ready image to be used by a printer. The \"slick\" is photographed to produce a negative image which is then used to burn a positive offset plate or other printing device.<p><strong>Example:</strong> The project was delayed because the slick had not been delivered to the printer.</p></li><li><strong>Definition 7:</strong> A wide paring chisel used in joinery.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make slick.<p><strong>Example:</strong> The surface had been slicked.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Slippery or smooth due to a covering of liquid; often used to describe appearances.<p><strong>Example:</strong> His large round head was shaved slick.</p></li><li><strong>Definition 2:</strong> Appearing expensive or sophisticated.<p><strong>Example:</strong> They read all kinds of slick magazines.</p></li><li><strong>Definition 3:</strong> Superficially convincing but actually untrustworthy.<p><strong>Example:</strong> That new sales rep is slick. Be sure to read the fine print before you buy anything.</p></li><li><strong>Definition 4:</strong> (often used sarcastically) Clever, making an apparently hard task easy.<p><strong>Example:</strong> Our new process for extracting needles from haystacks is extremely slick.</p></li><li><strong>Definition 5:</strong> Extraordinarily great or special.<p><strong>Example:</strong> That is one slick bicycle: it has all sorts of features!</p></li><li><strong>Definition 6:</strong> Sleek; smooth</li></ul></div></div>"
+description: Yes, SLICK is a valid Wordle word. It was the Wordle answer on March
+  21, 2026 (#1736). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 21, 2026 (#1736).
+past_answers:
+- date: '2026-03-21'
+  number: 1736
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- click
+- flick
+- slack
+- slice
+- slink
+- stick
+- alick
+- klick
+- saick
+- smick
+- snick
+anagrams:
+- licks
+trap:
+  pattern: S_ICK
+  count: 6
+phonetic: "/slɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A covering of liquid, particularly oil.
+    example: Careful in turn three — there's an oil slick on the road.
+  - text: Someone who is clever and untrustworthy.
+  - text: A tool used to make something smooth or even.
+  - text: A tire with a smooth surface instead of a tread pattern, often used in auto
+      racing.
+    example: You'll go much faster if you put on slicks.
+  - text: A helicopter.
+  - text: A camera-ready image to be used by a printer. The "slick" is photographed
+      to produce a negative image which is then used to burn a positive offset plate
+      or other printing device.
+    example: The project was delayed because the slick had not been delivered to the
+      printer.
+  - text: A wide paring chisel used in joinery.
+- pos: verb
+  defs:
+  - text: To make slick.
+    example: The surface had been slicked.
+- pos: adjective
+  defs:
+  - text: Slippery or smooth due to a covering of liquid; often used to describe appearances.
+    example: His large round head was shaved slick.
+  - text: Appearing expensive or sophisticated.
+    example: They read all kinds of slick magazines.
+  - text: Superficially convincing but actually untrustworthy.
+    example: That new sales rep is slick. Be sure to read the fine print before you
+      buy anything.
+  - text: "(often used sarcastically) Clever, making an apparently hard task easy."
+    example: Our new process for extracting needles from haystacks is extremely slick.
+  - text: Extraordinarily great or special.
+    example: 'That is one slick bicycle: it has all sorts of features!'
+  - text: Sleek; smooth
 ---
-

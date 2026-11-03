@@ -1,7 +1,41 @@
 ---
 layout: word
-title: slurp
+title: Is SLURP a Wordle Word?
+head_title: Is SLURP a Wordle Word? Yes – Possible Answer & Meaning
 word: slurp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slɝp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A loud sucking noise made in eating or drinking</li><li><strong>Definition 2:</strong> A mouthful of liquid</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To eat or drink noisily.<p><strong>Example:</strong> They sat in the kitchen slurping their spaghetti.</p></li><li><strong>Definition 2:</strong> To make a loud sucking noise.<p><strong>Example:</strong> The mud slurped under our shoes.</p></li></ul></div></div>"
+description: Yes, SLURP is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- slump
+- slurb
+- slurs
+anagrams:
+- purls
+phonetic: "/slɝp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A loud sucking noise made in eating or drinking
+  - text: A mouthful of liquid
+- pos: verb
+  defs:
+  - text: To eat or drink noisily.
+    example: They sat in the kitchen slurping their spaghetti.
+  - text: To make a loud sucking noise.
+    example: The mud slurped under our shoes.
 ---
-

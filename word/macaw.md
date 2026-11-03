@@ -1,7 +1,36 @@
 ---
 layout: word
-title: macaw
+title: Is MACAW a Wordle Word?
+head_title: 'Is MACAW a Wordle Word? Yes – Past Answer #1145 & Meaning'
 word: macaw
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /məˈkɔː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various parrots of the genera Ara, Anodorhynchus, Cyanopsitta, Orthopsittaca, Primolius and Diopsittaca of Central and South America, including the largest parrots and characterized by long sabre-shaped tails, curved powerful bills, and usually brilliant plumage.</li></ul></div></div>"
+description: Yes, MACAW is a valid Wordle word. It was the Wordle answer on August
+  7, 2024 (#1145). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 7, 2024 (#1145).
+past_answers:
+- date: '2024-08-07'
+  number: 1145
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- macas
+phonetic: "/məˈkɔː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various parrots of the genera Ara, Anodorhynchus, Cyanopsitta, Orthopsittaca,
+      Primolius and Diopsittaca of Central and South America, including the largest
+      parrots and characterized by long sabre-shaped tails, curved powerful bills,
+      and usually brilliant plumage.
 ---
-

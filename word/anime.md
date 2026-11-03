@@ -1,7 +1,45 @@
 ---
 layout: word
-title: anime
+title: Is ANIME a Wordle Word?
+head_title: Is ANIME a Wordle Word? Yes – Possible Answer & Meaning
 word: anime
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæn.ɪ.meɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries.<p><strong>Example:</strong> I can draw an anime version of you, if you want.</p></li><li><strong>Definition 2:</strong> An animated work that originated in Japan, regardless of the artistic style.</li><li><strong>Definition 3:</strong> An animated work, regardless of the country of origin.</li></ul></div></div>"
+description: Yes, ANIME is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- anile
+- anima
+- animi
+- anise
+anagrams:
+- amine
+- manie
+- minae
+phonetic: "/ˈæn.ɪ.meɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An artistic style originating in, and associated with, Japanese animation,
+      and that has also been adopted by a comparatively low number of animated works
+      from other countries.
+    example: I can draw an anime version of you, if you want.
+  - text: An animated work that originated in Japan, regardless of the artistic style.
+  - text: An animated work, regardless of the country of origin.
 ---
-

@@ -1,7 +1,72 @@
 ---
 layout: word
-title: rains
+title: Is RAINS a Wordle Word?
+head_title: Is RAINS a Wordle Word? Yes – Valid Guess & Meaning
 word: rains
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹeɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Condensed water falling from a cloud.<p><strong>Example:</strong> The rains came late that year.</p></li><li><strong>Definition 2:</strong> Any matter moving or falling, usually through air, and especially if liquid or otherwise figuratively identifiable with raindrops.</li><li><strong>Definition 3:</strong> An instance of particles or larger pieces of matter moving or falling through air.<p><strong>Example:</strong> A rain of mortar fire fell on our trenches.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To have rain fall from the sky.<p><strong>Example:</strong> It will rain today.</p></li><li><strong>Definition 2:</strong> To fall as or like rain.<p><strong>Example:</strong> Bombs rained from the sky.</p></li><li><strong>Definition 3:</strong> To issue (something) in large quantities.<p><strong>Example:</strong> The boxer rained punches on his opponent's head.</p></li><li><strong>Definition 4:</strong> To reign.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rainy season.<p><strong>Example:</strong> The rains came early this year.</p></li></ul></div></div>"
+description: Yes, RAINS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- rainy
+- cains
+- fains
+- gains
+- hains
+- kains
+- mains
+- nains
+- pains
+- raias
+- raids
+- raiks
+anagrams:
+- airns
+- arnis
+- naris
+- ranis
+- sarin
+trap:
+  pattern: _AINS
+  count: 12
+phonetic: "/ɹeɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Condensed water falling from a cloud.
+    example: The rains came late that year.
+  - text: Any matter moving or falling, usually through air, and especially if liquid
+      or otherwise figuratively identifiable with raindrops.
+  - text: An instance of particles or larger pieces of matter moving or falling through
+      air.
+    example: A rain of mortar fire fell on our trenches.
+- pos: verb
+  defs:
+  - text: To have rain fall from the sky.
+    example: It will rain today.
+  - text: To fall as or like rain.
+    example: Bombs rained from the sky.
+  - text: To issue (something) in large quantities.
+    example: The boxer rained punches on his opponent's head.
+  - text: To reign.
+- pos: noun
+  defs:
+  - text: A rainy season.
+    example: The rains came early this year.
 ---
-

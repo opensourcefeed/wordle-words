@@ -1,7 +1,64 @@
 ---
 layout: word
-title: other
+title: Is OTHER a Wordle Word?
+head_title: 'Is OTHER a Wordle Word? Yes – Past Answer #247 & Meaning'
 word: other
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɐðə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An other, another (person, etc), more often rendered as another.<p><strong>Example:</strong> I'm afraid little Robbie does not always play well with others.</p></li><li><strong>Definition 2:</strong> The other one; the second of two.<p><strong>Example:</strong> One boat is not better than the other.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To regard, label or treat as an \"other\", as not part of the same group; to view as different and alien.</li><li><strong>Definition 2:</strong> To treat as different or separate; segregate; ostracise.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> See other (determiner) below</li><li><strong>Definition 2:</strong> Second.<p><strong>Example:</strong> I get paid every other week.</p></li><li><strong>Definition 3:</strong> Alien.</li><li><strong>Definition 4:</strong> Different.</li><li><strong>Definition 5:</strong> Left, as opposed to right.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Apart from; in the phrase \"other than\".<p><strong>Example:</strong> Other than that, I'm fine.</p></li><li><strong>Definition 2:</strong> Otherwise.<p><strong>Example:</strong> If you think other. — Shakespeare.</p></li></ul></div></div>"
+description: Yes, OTHER is a valid Wordle word. It was the Wordle answer on February
+  21, 2022 (#247). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 21, 2022 (#247).
+past_answers:
+- date: '2022-02-21'
+  number: 247
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- ether
+- otter
+- ither
+- ocher
+anagrams:
+- theor
+- throe
+phonetic: "/ˈɐðə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An other, another (person, etc), more often rendered as another.
+    example: I'm afraid little Robbie does not always play well with others.
+  - text: The other one; the second of two.
+    example: One boat is not better than the other.
+- pos: verb
+  defs:
+  - text: To regard, label or treat as an "other", as not part of the same group;
+      to view as different and alien.
+  - text: To treat as different or separate; segregate; ostracise.
+- pos: adjective
+  defs:
+  - text: See other (determiner) below
+  - text: Second.
+    example: I get paid every other week.
+  - text: Alien.
+  - text: Different.
+  - text: Left, as opposed to right.
+- pos: adverb
+  defs:
+  - text: Apart from; in the phrase "other than".
+    example: Other than that, I'm fine.
+  - text: Otherwise.
+    example: If you think other. — Shakespeare.
 ---
-

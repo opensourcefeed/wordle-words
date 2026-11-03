@@ -1,7 +1,59 @@
 ---
 layout: word
-title: buses
+title: Is BUSES a Wordle Word?
+head_title: Is BUSES a Wordle Word? Yes – Valid Guess & Meaning
 word: buses
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A motor vehicle for transporting large numbers of people along roads.</li><li><strong>Definition 2:</strong> An electrical conductor or interface serving as a common connection for two or more circuits or components.</li><li><strong>Definition 3:</strong> (medical industry) An ambulance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To transport via a motor bus.</li><li><strong>Definition 2:</strong> To transport students to school, often to a more distant school for the purposes of achieving racial integration.</li><li><strong>Definition 3:</strong> To travel by bus.</li><li><strong>Definition 4:</strong> (food service) To clear meal remains from.<p><strong>Example:</strong> He bussed tables as the restaurant emptied out.</p></li><li><strong>Definition 5:</strong> (food service) To work at clearing the remains of meals from tables or counters; to work as a busboy.<p><strong>Example:</strong> He’s been bussing for minimum wage.</p></li></ul></div></div>"
+description: Yes, BUSES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- bused
+- bases
+- beses
+- bises
+- budes
+- bukes
+- busks
+- busts
+- butes
+- fuses
+- muses
+- nuses
+trap:
+  pattern: _USES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A motor vehicle for transporting large numbers of people along roads.
+  - text: An electrical conductor or interface serving as a common connection for
+      two or more circuits or components.
+  - text: "(medical industry) An ambulance."
+- pos: verb
+  defs:
+  - text: To transport via a motor bus.
+  - text: To transport students to school, often to a more distant school for the
+      purposes of achieving racial integration.
+  - text: To travel by bus.
+  - text: "(food service) To clear meal remains from."
+    example: He bussed tables as the restaurant emptied out.
+  - text: "(food service) To work at clearing the remains of meals from tables or
+      counters; to work as a busboy."
+    example: He’s been bussing for minimum wage.
 ---
-

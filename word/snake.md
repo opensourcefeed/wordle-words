@@ -1,7 +1,63 @@
 ---
 layout: word
-title: snake
+title: Is SNAKE a Wordle Word?
+head_title: 'Is SNAKE a Wordle Word? Yes – Past Answer #952 & Meaning'
 word: snake
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsneɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A legless reptile of the sub-order Serpentes with a long, thin body and a fork-shaped tongue.</li><li><strong>Definition 2:</strong> A treacherous person.</li><li><strong>Definition 3:</strong> Somebody who acts deceitfully for social gain.</li><li><strong>Definition 4:</strong> A tool for unclogging plumbing.</li><li><strong>Definition 5:</strong> A tool to aid cable pulling.</li><li><strong>Definition 6:</strong> A flavoured jube (confectionary) in the shape of a snake.</li><li><strong>Definition 7:</strong> Trouser snake; the penis.</li><li><strong>Definition 8:</strong> A series of Bézier curves.</li><li><strong>Definition 9:</strong> The seventh Lenormand card.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To follow or move in a winding route.<p><strong>Example:</strong> The path snaked through the forest.</p></li><li><strong>Definition 2:</strong> To steal slyly.<p><strong>Example:</strong> He snaked my DVD!</p></li><li><strong>Definition 3:</strong> To clean using a plumbing snake.</li><li><strong>Definition 4:</strong> To drag or draw, as a snake from a hole; often with out.</li><li><strong>Definition 5:</strong> To wind round spirally, as a large rope with a smaller, or with cord, the small rope lying in the spaces between the strands of the large one; to worm.</li></ul></div></div>"
+description: Yes, SNAKE is a valid Wordle word. It was the Wordle answer on January
+  27, 2024 (#952). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 27, 2024 (#952).
+past_answers:
+- date: '2024-01-27'
+  number: 952
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- shake
+- snaky
+- snare
+- stake
+- slake
+- snoke
+- spake
+anagrams:
+- sneak
+- kanes
+- skean
+phonetic: "/ˈsneɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A legless reptile of the sub-order Serpentes with a long, thin body and
+      a fork-shaped tongue.
+  - text: A treacherous person.
+  - text: Somebody who acts deceitfully for social gain.
+  - text: A tool for unclogging plumbing.
+  - text: A tool to aid cable pulling.
+  - text: A flavoured jube (confectionary) in the shape of a snake.
+  - text: Trouser snake; the penis.
+  - text: A series of Bézier curves.
+  - text: The seventh Lenormand card.
+- pos: verb
+  defs:
+  - text: To follow or move in a winding route.
+    example: The path snaked through the forest.
+  - text: To steal slyly.
+    example: He snaked my DVD!
+  - text: To clean using a plumbing snake.
+  - text: To drag or draw, as a snake from a hole; often with out.
+  - text: To wind round spirally, as a large rope with a smaller, or with cord, the
+      small rope lying in the spaces between the strands of the large one; to worm.
 ---
-

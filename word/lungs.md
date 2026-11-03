@@ -1,7 +1,51 @@
 ---
 layout: word
-title: lungs
+title: Is LUNGS a Wordle Word?
+head_title: Is LUNGS a Wordle Word? Yes – Valid Guess & Meaning
 word: lungs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lʌŋz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A biological organ of vertebrates that controls breathing and oxygenates the blood.</li><li><strong>Definition 2:</strong> (plural) Capacity for exercise or exertion; breath.<p><strong>Example:</strong> He hasn't the lungs to play long rallies like he use to.</p></li><li><strong>Definition 3:</strong> That which supplies oxygen or fresh air, such as trees, parklands, forest, etc., to a place.</li></ul></div></div>"
+description: Yes, LUNGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- lunge
+- bungs
+- dungs
+- fungs
+- lengs
+- lings
+- longs
+- lunas
+- lunes
+- lungi
+- lunks
+- lunts
+anagrams:
+- slung
+trap:
+  pattern: _UNGS
+  count: 8
+phonetic: "/lʌŋz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A biological organ of vertebrates that controls breathing and oxygenates
+      the blood.
+  - text: "(plural) Capacity for exercise or exertion; breath."
+    example: He hasn't the lungs to play long rallies like he use to.
+  - text: That which supplies oxygen or fresh air, such as trees, parklands, forest,
+      etc., to a place.
 ---
-

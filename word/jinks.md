@@ -1,7 +1,53 @@
 ---
 layout: word
-title: jinks
+title: Is JINKS a Wordle Word?
+head_title: Is JINKS a Wordle Word? Yes – Valid Guess & Meaning
 word: jinks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dʒɪŋks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quick evasive turn.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a quick evasive turn.</li><li><strong>Definition 2:</strong> To cause a vehicle to make a quick evasive turn.</li><li><strong>Definition 3:</strong> In the games of spoilfive and forty-five, to win the game by taking all five tricks; also, to attempt to win all five tricks, losing what has been already won if unsuccessful.</li><li><strong>Definition 4:</strong> To elude; to cheat.</li></ul></div></div>"
+description: Yes, JINKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- binks
+- dinks
+- finks
+- ginks
+- jings
+- jinns
+- junks
+- kinks
+- links
+- minks
+- oinks
+- pinks
+trap:
+  pattern: _INKS
+  count: 14
+phonetic: "/dʒɪŋks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A quick evasive turn.
+- pos: verb
+  defs:
+  - text: To make a quick evasive turn.
+  - text: To cause a vehicle to make a quick evasive turn.
+  - text: In the games of spoilfive and forty-five, to win the game by taking all
+      five tricks; also, to attempt to win all five tricks, losing what has been already
+      won if unsuccessful.
+  - text: To elude; to cheat.
 ---
-

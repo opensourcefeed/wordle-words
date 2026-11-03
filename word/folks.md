@@ -1,7 +1,56 @@
 ---
 layout: word
-title: folks
+title: Is FOLKS a Wordle Word?
+head_title: Is FOLKS a Wordle Word? Yes – Valid Guess & Meaning
 word: folks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fəʊks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A grouping of smaller peoples or tribes as a nation.</li><li><strong>Definition 2:</strong> The inhabitants of a region, especially the native inhabitants.</li><li><strong>Definition 3:</strong> (plural: folks) One’s relatives, especially one’s parents.</li><li><strong>Definition 4:</strong> Folk music.</li><li><strong>Definition 5:</strong> People in general.<p><strong>Example:</strong> Young folk, old folk, everybody come, / To our little Sunday School and have a lot of fun.</p></li><li><strong>Definition 6:</strong> A particular group of people.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The members of one's immediate family, especially one's parents<p><strong>Example:</strong> My folks visit us at Christmas.</p></li><li><strong>Definition 2:</strong> People in general; everybody or anybody.<p><strong>Example:</strong> Lots of folks like to travel during the holidays.</p></li><li><strong>Definition 3:</strong> The police.</li></ul></div></div>"
+description: Yes, FOLKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- bolks
+- filks
+- folds
+- folky
+- forks
+- holks
+- polks
+- volks
+- yolks
+trap:
+  pattern: _OLKS
+  count: 6
+phonetic: "/fəʊks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A grouping of smaller peoples or tribes as a nation.
+  - text: The inhabitants of a region, especially the native inhabitants.
+  - text: "(plural: folks) One’s relatives, especially one’s parents."
+  - text: Folk music.
+  - text: People in general.
+    example: Young folk, old folk, everybody come, / To our little Sunday School and
+      have a lot of fun.
+  - text: A particular group of people.
+- pos: noun
+  defs:
+  - text: The members of one's immediate family, especially one's parents
+    example: My folks visit us at Christmas.
+  - text: People in general; everybody or anybody.
+    example: Lots of folks like to travel during the holidays.
+  - text: The police.
 ---
-

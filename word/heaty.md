@@ -1,7 +1,41 @@
 ---
 layout: word
-title: heaty
+title: Is HEATY a Wordle Word?
+head_title: Is HEATY a Wordle Word? Yes – Valid Guess & Meaning
 word: heaty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhiːti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (Asian English, of food or medicine) promoting heat; stimulating or energising the body (according to traditional Chinese medicine).</li></ul></div></div>"
+description: Yes, HEATY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- heady
+- heath
+- heavy
+- hefty
+- meaty
+- beaty
+- heapy
+- heats
+- peaty
+phonetic: "/ˈhiːti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: "(Asian English, of food or medicine) promoting heat; stimulating or energising
+      the body (according to traditional Chinese medicine)."
 ---
-

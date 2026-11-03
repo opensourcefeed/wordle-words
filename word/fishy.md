@@ -1,7 +1,66 @@
 ---
 layout: word
-title: fishy
+title: Is FISHY a Wordle Word?
+head_title: 'Is FISHY a Wordle Word? Yes – Past Answer #589 & Meaning'
 word: fishy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.<p><strong>Example:</strong> Salmon is a fish.</p></li><li><strong>Definition 2:</strong> Any animal (or any vertebrate) that lives exclusively in water.</li><li><strong>Definition 3:</strong> The flesh of the fish used as food.<p><strong>Example:</strong> The seafood pasta had lots of fish but not enough pasta.</p></li><li><strong>Definition 4:</strong> A card game in which the object is to obtain cards in pairs or sets of four (depending on the variation), by asking the other players for cards of a particular rank.</li><li><strong>Definition 5:</strong> A woman.</li><li><strong>Definition 6:</strong> An easy victim for swindling.</li><li><strong>Definition 7:</strong> A bad poker player. Compare shark (a good poker player).</li><li><strong>Definition 8:</strong> A makeshift overlapping longitudinal brace, originally shaped roughly like a fish, used to temporarily repair or extend a spar or mast of a ship.</li><li><strong>Definition 9:</strong> A purchase used to fish the anchor.</li><li><strong>Definition 10:</strong> A torpedo.</li><li><strong>Definition 11:</strong> A paraphyletic grouping of the following extant taxonomic groups:</li><li><strong>Definition 12:</strong> The thirty-fourth Lenormand card.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A period of time spent fishing.<p><strong>Example:</strong> The fish at the lake didn't prove successful.</p></li><li><strong>Definition 2:</strong> An instance of seeking something.<p><strong>Example:</strong> Merely two fishes for information told the whole story.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A counter, used in various games.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, from, or similar to fish.<p><strong>Example:</strong> What is that fishy odor?</p></li><li><strong>Definition 2:</strong> Suspicious; inspiring doubt.<p><strong>Example:</strong> I don't trust him; his claims seem fishy to me.</p></li><li><strong>Definition 3:</strong> Of drag queens: appearing feminine.</li></ul></div></div>"
+description: Yes, FISHY is a valid Wordle word. It was the Wordle answer on January
+  29, 2023 (#589). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 29, 2023 (#589).
+past_answers:
+- date: '2023-01-29'
+  number: 589
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 80
+neighbours:
+- dishy
+- fisho
+- fisty
+definitions:
+- pos: noun
+  defs:
+  - text: A cold-blooded vertebrate animal that lives in water, moving with the help
+      of fins and breathing with gills.
+    example: Salmon is a fish.
+  - text: Any animal (or any vertebrate) that lives exclusively in water.
+  - text: The flesh of the fish used as food.
+    example: The seafood pasta had lots of fish but not enough pasta.
+  - text: A card game in which the object is to obtain cards in pairs or sets of four
+      (depending on the variation), by asking the other players for cards of a particular
+      rank.
+  - text: A woman.
+  - text: An easy victim for swindling.
+  - text: A bad poker player. Compare shark (a good poker player).
+  - text: A makeshift overlapping longitudinal brace, originally shaped roughly like
+      a fish, used to temporarily repair or extend a spar or mast of a ship.
+  - text: A purchase used to fish the anchor.
+  - text: A torpedo.
+  - text: 'A paraphyletic grouping of the following extant taxonomic groups:'
+  - text: The thirty-fourth Lenormand card.
+- pos: noun
+  defs:
+  - text: A period of time spent fishing.
+    example: The fish at the lake didn't prove successful.
+  - text: An instance of seeking something.
+    example: Merely two fishes for information told the whole story.
+- pos: noun
+  defs:
+  - text: A counter, used in various games.
+- pos: adjective
+  defs:
+  - text: Of, from, or similar to fish.
+    example: What is that fishy odor?
+  - text: Suspicious; inspiring doubt.
+    example: I don't trust him; his claims seem fishy to me.
+  - text: 'Of drag queens: appearing feminine.'
 ---
-

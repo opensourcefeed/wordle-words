@@ -1,7 +1,63 @@
 ---
 layout: word
-title: shame
+title: Is SHAME a Wordle Word?
+head_title: 'Is SHAME a Wordle Word? Yes – Past Answer #300 & Meaning'
 word: shame
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃeɪm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Uncomfortable or painful feeling due to recognition or consciousness of one's own impropriety or dishonor or something being exposed that should have been kept private.<p><strong>Example:</strong> The teenager couldn’t bear the shame of introducing his parents.</p></li><li><strong>Definition 2:</strong> Something to regret.<p><strong>Example:</strong> It was a shame not to see the show after driving all that way.</p></li><li><strong>Definition 3:</strong> Reproach incurred or suffered; dishonour; ignominy; derision.</li><li><strong>Definition 4:</strong> The cause or reason of shame; that which brings reproach and ignominy.</li><li><strong>Definition 5:</strong> That which is shameful and private, especially private parts.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A cry of admonition for the subject of a speech, either to denounce the speaker or to agree with the speaker's denunciation of some person or matter; often used reduplicated, especially in political debates.</li><li><strong>Definition 2:</strong> Expressing sympathy.<p><strong>Example:</strong> Shame, you poor thing, you must be cold!</p></li></ul></div></div>"
+description: Yes, SHAME is a valid Wordle word. It was the Wordle answer on April
+  15, 2022 (#300). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 15, 2022 (#300).
+past_answers:
+- date: '2022-04-15'
+  number: 300
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- shade
+- shake
+- shale
+- shape
+- share
+- shave
+- seame
+- shama
+- shams
+anagrams:
+- haems
+- hames
+trap:
+  pattern: SHA_E
+  count: 7
+phonetic: "/ʃeɪm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Uncomfortable or painful feeling due to recognition or consciousness of
+      one's own impropriety or dishonor or something being exposed that should have
+      been kept private.
+    example: The teenager couldn’t bear the shame of introducing his parents.
+  - text: Something to regret.
+    example: It was a shame not to see the show after driving all that way.
+  - text: Reproach incurred or suffered; dishonour; ignominy; derision.
+  - text: The cause or reason of shame; that which brings reproach and ignominy.
+  - text: That which is shameful and private, especially private parts.
+- pos: interjection
+  defs:
+  - text: A cry of admonition for the subject of a speech, either to denounce the
+      speaker or to agree with the speaker's denunciation of some person or matter;
+      often used reduplicated, especially in political debates.
+  - text: Expressing sympathy.
+    example: Shame, you poor thing, you must be cold!
 ---
-

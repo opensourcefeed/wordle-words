@@ -1,7 +1,45 @@
 ---
 layout: word
-title: nexus
+title: Is NEXUS a Wordle Word?
+head_title: Is NEXUS a Wordle Word? Yes – Valid Guess & Meaning
 word: nexus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnɛk.suːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A form of connection.</li><li><strong>Definition 2:</strong> A connected group.</li><li><strong>Definition 3:</strong> The centre of something.</li><li><strong>Definition 4:</strong> In Ancient Rome, a person who had contracted a nexum or obligation of such a kind that, if he failed to pay, his creditor could compel him to work as a servant until the debt was paid.</li><li><strong>Definition 5:</strong> The relationship between a vendor and a jurisdiction for the purpose of taxation, established for example by the vendor operating a physical store in that jurisdiction.</li></ul></div></div>"
+description: Yes, NEXUS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- negus
+- nevus
+- nexts
+- nexum
+anagrams:
+- unsex
+phonetic: "/ˈnɛk.suːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A form of connection.
+  - text: A connected group.
+  - text: The centre of something.
+  - text: In Ancient Rome, a person who had contracted a nexum or obligation of such
+      a kind that, if he failed to pay, his creditor could compel him to work as a
+      servant until the debt was paid.
+  - text: The relationship between a vendor and a jurisdiction for the purpose of
+      taxation, established for example by the vendor operating a physical store in
+      that jurisdiction.
 ---
-

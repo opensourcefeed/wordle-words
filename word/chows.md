@@ -1,7 +1,60 @@
 ---
 layout: word
-title: chows
+title: Is CHOWS a Wordle Word?
+head_title: Is CHOWS a Wordle Word? Yes – Valid Guess & Meaning
 word: chows
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃaʊz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Food, especially snacks.<p><strong>Example:</strong> I'm going to pick up some chow for dinner.</p></li><li><strong>Definition 2:</strong> A Chow Chow.</li><li><strong>Definition 3:</strong> A Chinese person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To eat.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prefecture or district of the second rank in China, or the chief city of such a district.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A run of three consecutive tiles of the same suit.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To call a discarded tile to produce a chow.</li></ul></div></div>"
+description: Yes, CHOWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- chaws
+- chews
+- chocs
+- chogs
+- chons
+- chops
+- choss
+- chowk
+- clows
+- crows
+- dhows
+- shows
+trap:
+  pattern: CHO_S
+  count: 6
+phonetic: "/tʃaʊz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Food, especially snacks.
+    example: I'm going to pick up some chow for dinner.
+  - text: A Chow Chow.
+  - text: A Chinese person.
+- pos: verb
+  defs:
+  - text: To eat.
+- pos: noun
+  defs:
+  - text: A prefecture or district of the second rank in China, or the chief city
+      of such a district.
+- pos: noun
+  defs:
+  - text: A run of three consecutive tiles of the same suit.
+- pos: verb
+  defs:
+  - text: To call a discarded tile to produce a chow.
 ---
-

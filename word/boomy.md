@@ -1,7 +1,44 @@
 ---
 layout: word
-title: boomy
+title: Is BOOMY a Wordle Word?
+head_title: Is BOOMY a Wordle Word? Yes – Valid Guess & Meaning
 word: boomy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Characterized by heavy bass sounds.</li><li><strong>Definition 2:</strong> Of or pertaining to a financial boom, resources boom, baby boom, etc.</li></ul></div></div>"
+description: Yes, BOOMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- booby
+- booty
+- boozy
+- roomy
+- booay
+- boody
+- boofy
+- boogy
+- booky
+- booms
+- coomy
+- doomy
+trap:
+  pattern: BOO_Y
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Characterized by heavy bass sounds.
+  - text: Of or pertaining to a financial boom, resources boom, baby boom, etc.
 ---
-

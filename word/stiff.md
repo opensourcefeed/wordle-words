@@ -1,7 +1,82 @@
 ---
 layout: word
-title: stiff
+title: Is STIFF a Wordle Word?
+head_title: 'Is STIFF a Wordle Word? Yes – Past Answer #965 & Meaning'
 word: stiff
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɪf/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An average person, usually male, of no particular distinction, skill, or education, often a working stiff or lucky stiff.<p><strong>Example:</strong> A Working Stiff's Manifesto: A Memoir of Thirty Jobs I Quit, Nine That Fired Me, and Three I Can't Remember was published in 2003.</p></li><li><strong>Definition 2:</strong> A person who is deceived, as a mark or pigeon in a swindle.<p><strong>Example:</strong> She convinced the stiff to go to her hotel room, where her henchman was waiting to rob him.</p></li><li><strong>Definition 3:</strong> A cadaver; a dead person.</li><li><strong>Definition 4:</strong> A flop; a commercial failure.</li><li><strong>Definition 5:</strong> A person who leaves (especially a restaurant) without paying the bill.</li><li><strong>Definition 6:</strong> (by extension) A customer who does not leave a tip.</li><li><strong>Definition 7:</strong> Any hard hand where it is possible to exceed 21 by drawing an additional card.</li><li><strong>Definition 8:</strong> Negotiable instruments, possibly forged.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fail to pay that which one owes (implicitly or explicitly) to another, especially by departing hastily.<p><strong>Example:</strong> Realizing he had forgotten his wallet, he stiffed the taxi driver when the cab stopped for a red light.</p></li><li><strong>Definition 2:</strong> To cheat someone</li><li><strong>Definition 3:</strong> To tip ungenerously</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of an object) Rigid; hard to bend; inflexible.</li><li><strong>Definition 2:</strong> (of policies and rules and their application and enforcement) Inflexible; rigid.</li><li><strong>Definition 3:</strong> (of a person) Formal in behavior; unrelaxed.</li><li><strong>Definition 4:</strong> Harsh, severe.<p><strong>Example:</strong> He was eventually caught, and given a stiff fine.</p></li><li><strong>Definition 5:</strong> (of muscles or parts of the body) Painful as a result of excessive or unaccustomed exercise.<p><strong>Example:</strong> My legs are stiff after climbing that hill yesterday.</p></li><li><strong>Definition 6:</strong> Potent.<p><strong>Example:</strong> a stiff drink; a stiff dose; a stiff breeze.</p></li><li><strong>Definition 7:</strong> Dead, deceased.</li><li><strong>Definition 8:</strong> (of a penis) Erect.</li><li><strong>Definition 9:</strong> (of whipping cream or egg whites) Beaten until so aerated that they stand up straight on their own.<p><strong>Example:</strong> beat the egg whites until they are stiff</p></li><li><strong>Definition 10:</strong> Of an equation: for which certain numerical solving methods are numerically unstable, unless the step size is taken to be extremely small.</li><li><strong>Definition 11:</strong> Keeping upright.</li></ul></div></div>"
+description: Yes, STIFF is a valid Wordle word. It was the Wordle answer on February
+  9, 2024 (#965). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 9, 2024 (#965).
+past_answers:
+- date: '2024-02-09'
+  number: 965
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- skiff
+- sniff
+- staff
+- stuff
+- spiff
+anagrams:
+- tiffs
+phonetic: "/stɪf/"
+definitions:
+- pos: noun
+  defs:
+  - text: An average person, usually male, of no particular distinction, skill, or
+      education, often a working stiff or lucky stiff.
+    example: 'A Working Stiff''s Manifesto: A Memoir of Thirty Jobs I Quit, Nine That
+      Fired Me, and Three I Can''t Remember was published in 2003.'
+  - text: A person who is deceived, as a mark or pigeon in a swindle.
+    example: She convinced the stiff to go to her hotel room, where her henchman was
+      waiting to rob him.
+  - text: A cadaver; a dead person.
+  - text: A flop; a commercial failure.
+  - text: A person who leaves (especially a restaurant) without paying the bill.
+  - text: "(by extension) A customer who does not leave a tip."
+  - text: Any hard hand where it is possible to exceed 21 by drawing an additional
+      card.
+  - text: Negotiable instruments, possibly forged.
+- pos: verb
+  defs:
+  - text: To fail to pay that which one owes (implicitly or explicitly) to another,
+      especially by departing hastily.
+    example: Realizing he had forgotten his wallet, he stiffed the taxi driver when
+      the cab stopped for a red light.
+  - text: To cheat someone
+  - text: To tip ungenerously
+- pos: adjective
+  defs:
+  - text: "(of an object) Rigid; hard to bend; inflexible."
+  - text: "(of policies and rules and their application and enforcement) Inflexible;
+      rigid."
+  - text: "(of a person) Formal in behavior; unrelaxed."
+  - text: Harsh, severe.
+    example: He was eventually caught, and given a stiff fine.
+  - text: "(of muscles or parts of the body) Painful as a result of excessive or unaccustomed
+      exercise."
+    example: My legs are stiff after climbing that hill yesterday.
+  - text: Potent.
+    example: a stiff drink; a stiff dose; a stiff breeze.
+  - text: Dead, deceased.
+  - text: "(of a penis) Erect."
+  - text: "(of whipping cream or egg whites) Beaten until so aerated that they stand
+      up straight on their own."
+    example: beat the egg whites until they are stiff
+  - text: 'Of an equation: for which certain numerical solving methods are numerically
+      unstable, unless the step size is taken to be extremely small.'
+  - text: Keeping upright.
 ---
-

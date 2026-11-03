@@ -1,7 +1,52 @@
 ---
 layout: word
-title: lyres
+title: Is LYRES a Wordle Word?
+head_title: Is LYRES a Wordle Word? Yes – Valid Guess & Meaning
 word: lyres
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ancient stringed musical instrument (a yoke lute chordophone) of Greek origin, consisting of two arms extending from a body to a crossbar (a yoke), and strings, parallel to the soundboard, connecting the body to the yoke.</li><li><strong>Definition 2:</strong> A lyre-shaped sheet music holder that attaches to a wind instrument when a music stand is impractical.</li><li><strong>Definition 3:</strong> A composer of lyric poetry.</li></ul></div></div>"
+description: Yes, LYRES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- ayres
+- byres
+- eyres
+- gyres
+- lares
+- leres
+- lores
+- lures
+- lymes
+- lynes
+- lyses
+- lytes
+anagrams:
+- slyer
+trap:
+  pattern: _YRES
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: An ancient stringed musical instrument (a yoke lute chordophone) of Greek
+      origin, consisting of two arms extending from a body to a crossbar (a yoke),
+      and strings, parallel to the soundboard, connecting the body to the yoke.
+  - text: A lyre-shaped sheet music holder that attaches to a wind instrument when
+      a music stand is impractical.
+  - text: A composer of lyric poetry.
 ---
-

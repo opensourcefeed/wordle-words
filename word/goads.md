@@ -1,7 +1,51 @@
 ---
 layout: word
-title: goads
+title: Is GOADS a Wordle Word?
+head_title: Is GOADS a Wordle Word? Yes – Valid Guess & Meaning
 word: goads
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long, pointed stick used to prod animals.</li><li><strong>Definition 2:</strong> That which goads or incites; a stimulus.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prod with a goad.</li><li><strong>Definition 2:</strong> To encourage or stimulate.</li><li><strong>Definition 3:</strong> To incite or provoke.<p><strong>Example:</strong> goading a boy to fight</p></li></ul></div></div>"
+description: Yes, GOADS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- glads
+- goafs
+- goals
+- goats
+- golds
+- goods
+- gowds
+- grads
+- loads
+- roads
+- toads
+- woads
+anagrams:
+- gadso
+definitions:
+- pos: noun
+  defs:
+  - text: A long, pointed stick used to prod animals.
+  - text: That which goads or incites; a stimulus.
+- pos: verb
+  defs:
+  - text: To prod with a goad.
+  - text: To encourage or stimulate.
+  - text: To incite or provoke.
+    example: goading a boy to fight
 ---
-

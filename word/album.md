@@ -1,7 +1,41 @@
 ---
 layout: word
-title: album
+title: Is ALBUM a Wordle Word?
+head_title: 'Is ALBUM a Wordle Word? Yes – Past Answer #339 & Meaning'
 word: album
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈælbəm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A book specially designed to keep photographs, stamps, or autographs.</li><li><strong>Definition 2:</strong> A collection, especially of literary items</li><li><strong>Definition 3:</strong> A phonograph record that is composed of several tracks</li><li><strong>Definition 4:</strong> A jacket or cover for such a phonograph record.</li><li><strong>Definition 5:</strong> A group of audio recordings, on any medium, intended for distribution as a group.</li><li><strong>Definition 6:</strong> In Ancient Rome, a white tablet or register on which the praetor's edicts and other public notices were recorded.</li></ul></div></div>"
+description: Yes, ALBUM is a valid Wordle word. It was the Wordle answer on May 24,
+  2022 (#339). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 24, 2022 (#339).
+past_answers:
+- date: '2022-05-24'
+  number: 339
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- algum
+phonetic: "/ˈælbəm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A book specially designed to keep photographs, stamps, or autographs.
+  - text: A collection, especially of literary items
+  - text: A phonograph record that is composed of several tracks
+  - text: A jacket or cover for such a phonograph record.
+  - text: A group of audio recordings, on any medium, intended for distribution as
+      a group.
+  - text: In Ancient Rome, a white tablet or register on which the praetor's edicts
+      and other public notices were recorded.
 ---
-

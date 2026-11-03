@@ -1,7 +1,49 @@
 ---
 layout: word
-title: mulch
+title: Is MULCH a Wordle Word?
+head_title: 'Is MULCH a Wordle Word? Yes – Past Answer #1159 & Meaning'
 word: mulch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mʌltʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any material used to cover the top layer of soil to protect, insulate, or decorate it, or to discourage weeds or retain moisture.<p><strong>Example:</strong> An organic mulch is a mulch made of natural substances such as leaves or grass clippings.</p></li><li><strong>Definition 2:</strong> A material used as mulch, as a decorative redwood bark mulch.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apply mulch.<p><strong>Example:</strong> Mulch your vegetable garden to retain moisture and keep weeds down.</p></li><li><strong>Definition 2:</strong> To turn into mulch.<p><strong>Example:</strong> I decided to mulch the grass clippings.</p></li></ul></div></div>"
+description: Yes, MULCH is a valid Wordle word. It was the Wordle answer on August
+  21, 2024 (#1159). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 21, 2024 (#1159).
+past_answers:
+- date: '2024-08-21'
+  number: 1159
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- gulch
+- munch
+- culch
+- melch
+- milch
+- mulct
+- mulsh
+- mutch
+phonetic: "/mʌltʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any material used to cover the top layer of soil to protect, insulate, or
+      decorate it, or to discourage weeds or retain moisture.
+    example: An organic mulch is a mulch made of natural substances such as leaves
+      or grass clippings.
+  - text: A material used as mulch, as a decorative redwood bark mulch.
+- pos: verb
+  defs:
+  - text: To apply mulch.
+    example: Mulch your vegetable garden to retain moisture and keep weeds down.
+  - text: To turn into mulch.
+    example: I decided to mulch the grass clippings.
 ---
-

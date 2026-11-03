@@ -1,9 +1,64 @@
 ---
 layout: word
-title: coons
+title: Is COONS a Wordle Word?
+head_title: Is COONS a Wordle Word? Yes – Valid Guess & Meaning
 word: coons
+description: Yes, COONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (racial slur) A black person.</li><li><strong>Definition 2:</strong> A raccoon.</li><li><strong>Definition 3:</strong> A member of a colourfully dressed dance troupe in Cape Town during New Year celebrations.</li><li><strong>Definition 4:</strong> A coonass; a white Acadian French person who lives in the swamps.</li><li><strong>Definition 5:</strong> A sly fellow.</li><li><strong>Definition 6:</strong> A black person who \"plays the coon\"; that is, who plays the dated stereotype of a black fool for an audience, particularly including Caucasians.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hunt raccoons.</li><li><strong>Definition 2:</strong> To traverse by crawling, as a ledge.</li><li><strong>Definition 3:</strong> To crawl while straddling, especially in crossing a creek.</li><li><strong>Definition 4:</strong> (Georgia (US)) To fish by noodling, by feeling for large fish in underwater holes.</li><li><strong>Definition 5:</strong> (of an African American) To play the dated stereotype of a black fool for an audience, particularly including Caucasians.</li><li><strong>Definition 6:</strong> To steal.</li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- boons
+- chons
+- cions
+- clons
+- coins
+- conns
+- coofs
+- cooks
+- cools
+- cooms
+- coops
+- coots
+trap:
+  pattern: _OONS
+  count: 12
+phonetic: "/kuːnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(racial slur) A black person."
+  - text: A raccoon.
+  - text: A member of a colourfully dressed dance troupe in Cape Town during New Year
+      celebrations.
+  - text: A coonass; a white Acadian French person who lives in the swamps.
+  - text: A sly fellow.
+  - text: A black person who "plays the coon"; that is, who plays the dated stereotype
+      of a black fool for an audience, particularly including Caucasians.
+- pos: verb
+  defs:
+  - text: To hunt raccoons.
+  - text: To traverse by crawling, as a ledge.
+  - text: To crawl while straddling, especially in crossing a creek.
+  - text: "(Georgia (US)) To fish by noodling, by feeling for large fish in underwater
+      holes."
+  - text: "(of an African American) To play the dated stereotype of a black fool for
+      an audience, particularly including Caucasians."
+  - text: To steal.
 ---
-

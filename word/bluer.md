@@ -1,7 +1,56 @@
 ---
 layout: word
-title: bluer
+title: Is BLUER a Wordle Word?
+head_title: Is BLUER a Wordle Word? Yes – Possible Answer & Meaning
 word: bluer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of the colour blue.<p><strong>Example:</strong> the deep blue sea</p></li><li><strong>Definition 2:</strong> Depressed, melancholic, sad.</li><li><strong>Definition 3:</strong> Pale, without redness or glare; said of a flame.<p><strong>Example:</strong> The candle burns blue.</p></li><li><strong>Definition 4:</strong> Supportive of, run by (a member of), pertaining to, or dominated by a political party represented by the colour blue.</li><li><strong>Definition 5:</strong> Of the higher-frequency region of the part of the electromagnetic spectrum which is relevant in the specific observation.</li><li><strong>Definition 6:</strong> (of steak) Extra rare; left very raw and cold.</li><li><strong>Definition 7:</strong> (of a dog or cat) Having a coat of fur of a slaty gray shade.</li><li><strong>Definition 8:</strong> Severe or overly strict in morals; gloomy.<p><strong>Example:</strong> blue and sour religionists;  blue laws</p></li><li><strong>Definition 9:</strong> (of women) literary; bluestockinged.</li><li><strong>Definition 10:</strong> Having a color charge of blue.</li><li><strong>Definition 11:</strong> (entertainment) Risque or obscene<p><strong>Example:</strong> His material is too blue for prime-time</p></li></ul></div></div>"
+description: Yes, BLUER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- blaer
+- blued
+- blues
+- bluet
+- bluey
+- gluer
+anagrams:
+- brule
+- rubel
+- ruble
+definitions:
+- pos: adjective
+  defs:
+  - text: Of the colour blue.
+    example: the deep blue sea
+  - text: Depressed, melancholic, sad.
+  - text: Pale, without redness or glare; said of a flame.
+    example: The candle burns blue.
+  - text: Supportive of, run by (a member of), pertaining to, or dominated by a political
+      party represented by the colour blue.
+  - text: Of the higher-frequency region of the part of the electromagnetic spectrum
+      which is relevant in the specific observation.
+  - text: "(of steak) Extra rare; left very raw and cold."
+  - text: "(of a dog or cat) Having a coat of fur of a slaty gray shade."
+  - text: Severe or overly strict in morals; gloomy.
+    example: blue and sour religionists;  blue laws
+  - text: "(of women) literary; bluestockinged."
+  - text: Having a color charge of blue.
+  - text: "(entertainment) Risque or obscene"
+    example: His material is too blue for prime-time
 ---
-

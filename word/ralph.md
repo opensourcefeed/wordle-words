@@ -1,7 +1,29 @@
 ---
 layout: word
-title: ralph
+title: Is RALPH a Wordle Word?
+head_title: Is RALPH a Wordle Word? Yes – Possible Answer & Meaning
 word: ralph
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹælf/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To vomit.</li></ul></div></div>"
+description: Yes, RALPH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+phonetic: "/ɹælf/"
+definitions:
+- pos: verb
+  defs:
+  - text: To vomit.
 ---
-

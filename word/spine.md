@@ -1,7 +1,61 @@
 ---
 layout: word
-title: spine
+title: Is SPINE a Wordle Word?
+head_title: 'Is SPINE a Wordle Word? Yes – Past Answer #1251 & Meaning'
 word: spine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spaɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The series of bones situated at the back from the head to the pelvis of a person, or from the head to the tail of an animal; backbone, vertebral column.</li><li><strong>Definition 2:</strong> Something resembling a backbone, such as a ridge, or a long, central structure from which other structures radiate.</li><li><strong>Definition 3:</strong> A pointed, fairly rigid protuberance or needle-like structure on an animal, shell, or plant.</li><li><strong>Definition 4:</strong> The heartwood of trees.</li><li><strong>Definition 5:</strong> Courage or assertiveness.</li><li><strong>Definition 6:</strong> The stiffness of an arrow.</li></ul></div></div>"
+description: Yes, SPINE is a valid Wordle word. It was the Wordle answer on November
+  21, 2024 (#1251). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 21, 2024 (#1251).
+past_answers:
+- date: '2024-11-21'
+  number: 1251
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- opine
+- shine
+- spice
+- spike
+- spiny
+- spire
+- spite
+- swine
+- saine
+- seine
+- spane
+- spide
+anagrams:
+- snipe
+- peins
+- penis
+- pines
+trap:
+  pattern: SPI_E
+  count: 7
+phonetic: "/spaɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The series of bones situated at the back from the head to the pelvis of
+      a person, or from the head to the tail of an animal; backbone, vertebral column.
+  - text: Something resembling a backbone, such as a ridge, or a long, central structure
+      from which other structures radiate.
+  - text: A pointed, fairly rigid protuberance or needle-like structure on an animal,
+      shell, or plant.
+  - text: The heartwood of trees.
+  - text: Courage or assertiveness.
+  - text: The stiffness of an arrow.
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: hinny
+title: Is HINNY a Wordle Word?
+head_title: Is HINNY a Wordle Word? Yes – Valid Guess & Meaning
 word: hinny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɪ.ni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The hybrid offspring of a stallion (male horse) and a she-ass (female donkey).</li></ul></div></div>"
+description: Yes, HINNY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- ninny
+- finny
+- ginny
+- henny
+- hinky
+- linny
+- minny
+- pinny
+- tinny
+- vinny
+trap:
+  pattern: _INNY
+  count: 9
+phonetic: "/ˈhɪ.ni/"
+definitions:
+- pos: noun
+  defs:
+  - text: The hybrid offspring of a stallion (male horse) and a she-ass (female donkey).
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: burly
+title: Is BURLY a Wordle Word?
+head_title: 'Is BURLY a Wordle Word? Yes – Past Answer #762 & Meaning'
 word: burly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (usually of a man) Large, well-built, and muscular.<p><strong>Example:</strong> He’s a big, burly rugby player who works as a landscape gardener.</p></li><li><strong>Definition 2:</strong> (East End of London) Great, amazing, unbelievable.<p><strong>Example:</strong> Kimi Räikkönen is a burly Formula 1 driver.</p></li><li><strong>Definition 3:</strong> (surf culture and/or Southern California) Of large magnitude, either good or bad, and sometimes both.<p><strong>Example:</strong> That wave was burly! (i.e. large, dangerous and difficult to ride)</p></li></ul></div></div>"
+description: Yes, BURLY is a valid Wordle word. It was the Wordle answer on July 21,
+  2023 (#762). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 21, 2023 (#762).
+past_answers:
+- date: '2023-07-21'
+  number: 762
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- bully
+- curly
+- surly
+- burls
+- burry
+- gurly
+- hurly
+- murly
+trap:
+  pattern: _URLY
+  count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: "(usually of a man) Large, well-built, and muscular."
+    example: He’s a big, burly rugby player who works as a landscape gardener.
+  - text: "(East End of London) Great, amazing, unbelievable."
+    example: Kimi Räikkönen is a burly Formula 1 driver.
+  - text: "(surf culture and/or Southern California) Of large magnitude, either good
+      or bad, and sometimes both."
+    example: That wave was burly! (i.e. large, dangerous and difficult to ride)
 ---
-

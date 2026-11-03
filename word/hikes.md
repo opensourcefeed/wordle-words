@@ -1,7 +1,62 @@
 ---
 layout: word
-title: hikes
+title: Is HIKES a Wordle Word?
+head_title: Is HIKES a Wordle Word? Yes – Valid Guess & Meaning
 word: hikes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /haɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long walk.</li><li><strong>Definition 2:</strong> An abrupt increase.<p><strong>Example:</strong> The tenants were not happy with the rent hike.</p></li><li><strong>Definition 3:</strong> The snap of the ball to start a play.</li><li><strong>Definition 4:</strong> A sharp upward tug to raise something.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take a long walk for pleasure or exercise.<p><strong>Example:</strong> Don't forget to bring the map when we go hiking tomorrow.</p></li><li><strong>Definition 2:</strong> To unfairly or suddenly raise a price.</li><li><strong>Definition 3:</strong> To snap the ball to start a play.</li><li><strong>Definition 4:</strong> To lean out to the windward side of a sailboat in order to counterbalance the effects of the wind on the sails.</li><li><strong>Definition 5:</strong> To pull up or tug upwards sharply.<p><strong>Example:</strong> She hiked her skirt up.</p></li></ul></div></div>"
+description: Yes, HIKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- bikes
+- dikes
+- fikes
+- hakes
+- hides
+- hiked
+- hiker
+- hipes
+- hires
+- hives
+- hokes
+- hykes
+anagrams:
+- sheik
+trap:
+  pattern: _IKES
+  count: 11
+phonetic: "/haɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long walk.
+  - text: An abrupt increase.
+    example: The tenants were not happy with the rent hike.
+  - text: The snap of the ball to start a play.
+  - text: A sharp upward tug to raise something.
+- pos: verb
+  defs:
+  - text: To take a long walk for pleasure or exercise.
+    example: Don't forget to bring the map when we go hiking tomorrow.
+  - text: To unfairly or suddenly raise a price.
+  - text: To snap the ball to start a play.
+  - text: To lean out to the windward side of a sailboat in order to counterbalance
+      the effects of the wind on the sails.
+  - text: To pull up or tug upwards sharply.
+    example: She hiked her skirt up.
 ---
-

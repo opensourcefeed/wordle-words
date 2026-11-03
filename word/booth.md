@@ -1,7 +1,44 @@
 ---
 layout: word
-title: booth
+title: Is BOOTH a Wordle Word?
+head_title: 'Is BOOTH a Wordle Word? Yes – Past Answer #1855 & Meaning'
 word: booth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /buːð/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small stall for the display and sale of goods.</li><li><strong>Definition 2:</strong> An enclosure just big enough to accommodate one standing person.</li><li><strong>Definition 3:</strong> An enclosed table with seats, as in a diner or café.</li><li><strong>Definition 4:</strong> An enclosure for keeping animals.</li></ul></div></div>"
+description: Yes, BOOTH is a valid Wordle word. It was the Wordle answer on July 18,
+  2026 (#1855). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 18, 2026 (#1855).
+past_answers:
+- date: '2026-07-18'
+  number: 1855
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- booty
+- broth
+- sooth
+- tooth
+- boots
+- mooth
+anagrams:
+- bhoot
+phonetic: "/buːð/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small stall for the display and sale of goods.
+  - text: An enclosure just big enough to accommodate one standing person.
+  - text: An enclosed table with seats, as in a diner or café.
+  - text: An enclosure for keeping animals.
 ---
-

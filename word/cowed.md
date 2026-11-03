@@ -1,7 +1,51 @@
 ---
 layout: word
-title: cowed
+title: Is COWED a Wordle Word?
+head_title: Is COWED a Wordle Word? Yes – Valid Guess & Meaning
 word: cowed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kaʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (chiefly in the passive voice) To intimidate; to daunt the spirits or courage of.<p><strong>Example:</strong> Con artists are not cowed by the law.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Frightened into submission.</li></ul></div></div>"
+description: Yes, COWED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- cower
+- bowed
+- cawed
+- coded
+- coked
+- coled
+- coned
+- cooed
+- coped
+- cored
+- cosed
+- coted
+trap:
+  pattern: CO_ED
+  count: 14
+phonetic: "/kaʊd/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(chiefly in the passive voice) To intimidate; to daunt the spirits or courage
+      of."
+    example: Con artists are not cowed by the law.
+- pos: adjective
+  defs:
+  - text: Frightened into submission.
 ---
-

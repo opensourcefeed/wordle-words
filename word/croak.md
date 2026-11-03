@@ -1,7 +1,53 @@
 ---
 layout: word
-title: croak
+title: Is CROAK a Wordle Word?
+head_title: 'Is CROAK a Wordle Word? Yes – Past Answer #33 & Meaning'
 word: croak
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A faint, harsh sound made in the throat.</li><li><strong>Definition 2:</strong> The cry of a frog or toad. (see also ribbit)</li><li><strong>Definition 3:</strong> The harsh cry of various birds, such as the raven or corncrake, or other creatures.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a croak.</li><li><strong>Definition 2:</strong> To utter in a low, hoarse voice.</li><li><strong>Definition 3:</strong> (of a frog, toad, raven, or various other birds or animals) To make its cry.</li><li><strong>Definition 4:</strong> To die.</li><li><strong>Definition 5:</strong> To kill someone or something.<p><strong>Example:</strong> He'd seen my face, so I had to croak him.</p></li><li><strong>Definition 6:</strong> To complain; especially, to grumble; to forebode evil; to utter complaints or forebodings habitually.</li></ul></div></div>"
+description: Yes, CROAK is a valid Wordle word. It was the Wordle answer on July 22,
+  2021 (#33). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 22, 2021 (#33).
+past_answers:
+- date: '2021-07-22'
+  number: 33
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- cloak
+- creak
+- crock
+- crook
+- cronk
+- troak
+definitions:
+- pos: noun
+  defs:
+  - text: A faint, harsh sound made in the throat.
+  - text: The cry of a frog or toad. (see also ribbit)
+  - text: The harsh cry of various birds, such as the raven or corncrake, or other
+      creatures.
+- pos: verb
+  defs:
+  - text: To make a croak.
+  - text: To utter in a low, hoarse voice.
+  - text: "(of a frog, toad, raven, or various other birds or animals) To make its
+      cry."
+  - text: To die.
+  - text: To kill someone or something.
+    example: He'd seen my face, so I had to croak him.
+  - text: To complain; especially, to grumble; to forebode evil; to utter complaints
+      or forebodings habitually.
 ---
-

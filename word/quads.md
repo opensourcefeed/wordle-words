@@ -1,7 +1,75 @@
 ---
 layout: word
-title: quads
+title: Is QUADS a Wordle Word?
+head_title: Is QUADS a Wordle Word? Yes – Valid Guess & Meaning
 word: quads
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Four shots of espresso.</li><li><strong>Definition 2:</strong> A kind of round-robin tournament between four players, where each participant plays every other participant once.</li><li><strong>Definition 3:</strong> The Bible, Book of Mormon, Doctrine and Covenants, and Pearl of Great Price bound in a single volume.</li><li><strong>Definition 4:</strong> A poster, measuring forty by thirty inches, advertising a cinematic film release.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quadrangle (courtyard).</li><li><strong>Definition 2:</strong> A quadruplet (infant).</li><li><strong>Definition 3:</strong> A quadrilateral.</li><li><strong>Definition 4:</strong> The quadriceps muscle.</li><li><strong>Definition 5:</strong> A quadriplegic person.</li><li><strong>Definition 6:</strong> A quadrupel beer.</li><li><strong>Definition 7:</strong> A quadcopter.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quad bike (from quadricycle)</li><li><strong>Definition 2:</strong> Abbreviation of quadrillion BTU. (1015 BTU)</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blank metal block used to fill short lines of type.</li><li><strong>Definition 2:</strong> A joke used to fill long days of setting type.</li><li><strong>Definition 3:</strong> (phototypesetting and digital typesetting) A keyboard command which aligns text with the left or right margin, or centred between them. In combination, as quad left, quad right or quad centre.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (exercise) quadriceps (thigh muscles)</li><li><strong>Definition 2:</strong> Four of a kind</li></ul></div></div>"
+description: Yes, QUADS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- duads
+- quabs
+- quags
+- quais
+- quass
+- quats
+- quaws
+- quays
+- quids
+- quods
+anagrams:
+- squad
+trap:
+  pattern: QUA_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Four shots of espresso.
+  - text: A kind of round-robin tournament between four players, where each participant
+      plays every other participant once.
+  - text: The Bible, Book of Mormon, Doctrine and Covenants, and Pearl of Great Price
+      bound in a single volume.
+  - text: A poster, measuring forty by thirty inches, advertising a cinematic film
+      release.
+- pos: noun
+  defs:
+  - text: A quadrangle (courtyard).
+  - text: A quadruplet (infant).
+  - text: A quadrilateral.
+  - text: The quadriceps muscle.
+  - text: A quadriplegic person.
+  - text: A quadrupel beer.
+  - text: A quadcopter.
+- pos: noun
+  defs:
+  - text: A quad bike (from quadricycle)
+  - text: Abbreviation of quadrillion BTU. (1015 BTU)
+- pos: noun
+  defs:
+  - text: A blank metal block used to fill short lines of type.
+  - text: A joke used to fill long days of setting type.
+  - text: "(phototypesetting and digital typesetting) A keyboard command which aligns
+      text with the left or right margin, or centred between them. In combination,
+      as quad left, quad right or quad centre."
+- pos: noun
+  defs:
+  - text: "(exercise) quadriceps (thigh muscles)"
+  - text: Four of a kind
 ---
-

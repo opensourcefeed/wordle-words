@@ -1,7 +1,53 @@
 ---
 layout: word
-title: alert
+title: Is ALERT a Wordle Word?
+head_title: 'Is ALERT a Wordle Word? Yes – Past Answer #1356 & Meaning'
 word: alert
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈlɜːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An alarm.</li><li><strong>Definition 2:</strong> A notification of higher importance than an advisory.</li><li><strong>Definition 3:</strong> A state of readiness for potential combat.<p><strong>Example:</strong> an airborne alert; ground alert</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Attentive; awake; on guard.</li><li><strong>Definition 2:</strong> Brisk; nimble; moving with celerity.</li></ul></div></div>"
+description: Yes, ALERT is a valid Wordle word. It was the Wordle answer on March
+  6, 2025 (#1356). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 6, 2025 (#1356).
+past_answers:
+- date: '2025-03-06'
+  number: 1356
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- avert
+- aleft
+- apert
+- blert
+anagrams:
+- alter
+- later
+- artel
+- ratel
+- taler
+phonetic: "/əˈlɜːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: An alarm.
+  - text: A notification of higher importance than an advisory.
+  - text: A state of readiness for potential combat.
+    example: an airborne alert; ground alert
+- pos: adjective
+  defs:
+  - text: Attentive; awake; on guard.
+  - text: Brisk; nimble; moving with celerity.
 ---
-

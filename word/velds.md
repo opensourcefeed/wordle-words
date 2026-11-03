@@ -1,7 +1,36 @@
 ---
 layout: word
-title: velds
+title: Is VELDS a Wordle Word?
+head_title: Is VELDS a Wordle Word? Yes – Valid Guess & Meaning
 word: velds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The open pasture land or grassland of South Africa and neighboring countries.</li></ul></div></div>"
+description: Yes, VELDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- gelds
+- melds
+- veldt
+- veles
+- vells
+- vends
+- welds
+definitions:
+- pos: noun
+  defs:
+  - text: The open pasture land or grassland of South Africa and neighboring countries.
 ---
-

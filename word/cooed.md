@@ -1,7 +1,50 @@
 ---
 layout: word
-title: cooed
+title: Is COOED a Wordle Word?
+head_title: Is COOED a Wordle Word? Yes – Valid Guess & Meaning
 word: cooed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a soft murmuring sound, as a pigeon.</li><li><strong>Definition 2:</strong> To speak in an admiring fashion, to be enthusiastic about.</li></ul></div></div>"
+description: Yes, COOED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- booed
+- coded
+- coked
+- coled
+- coned
+- cooee
+- cooer
+- cooey
+- coped
+- cored
+- cosed
+- coted
+anagrams:
+- dooce
+trap:
+  pattern: CO_ED
+  count: 14
+phonetic: "/kuːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make a soft murmuring sound, as a pigeon.
+  - text: To speak in an admiring fashion, to be enthusiastic about.
 ---
-

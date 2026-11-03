@@ -1,7 +1,47 @@
 ---
 layout: word
-title: daily
+title: Is DAILY a Wordle Word?
+head_title: Is DAILY a Wordle Word? Yes – Possible Answer & Meaning
 word: daily
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdeɪli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something that is produced, consumed, used, or done every day.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drive an automobile frequently, on a daily basis, for regular and mundane tasks.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> That occurs every day, or at least every working day</li><li><strong>Definition 2:</strong> Diurnal, by daylight, as opposed to nightly</li></ul></div></div>"
+description: Yes, DAILY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- dairy
+- daisy
+- dally
+- gaily
+- doily
+- drily
+- haily
+- naily
+phonetic: "/ˈdeɪli/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something that is produced, consumed, used, or done every day.
+- pos: verb
+  defs:
+  - text: To drive an automobile frequently, on a daily basis, for regular and mundane
+      tasks.
+- pos: adjective
+  defs:
+  - text: That occurs every day, or at least every working day
+  - text: Diurnal, by daylight, as opposed to nightly
 ---
-

@@ -1,7 +1,72 @@
 ---
 layout: word
-title: smash
+title: Is SMASH a Wordle Word?
+head_title: 'Is SMASH a Wordle Word? Yes – Past Answer #655 & Meaning'
 word: smash
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /smæʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sound of a violent impact; a violent striking together.<p><strong>Example:</strong> I could hear the screech of the brakes, then the horrible smash of cars colliding.</p></li><li><strong>Definition 2:</strong> A traffic collision.<p><strong>Example:</strong> The driver and two passengers were badly injured in the smash.</p></li><li><strong>Definition 3:</strong> Something very successful or popular (as music, food, fashion, etc); a hit.<p><strong>Example:</strong> This new show is sure to be a smash.</p></li><li><strong>Definition 4:</strong> A very hard overhead shot hit sharply downward.<p><strong>Example:</strong> A smash may not be as pretty as a good half volley, but it can still win points.</p></li><li><strong>Definition 5:</strong> A bankruptcy.</li><li><strong>Definition 6:</strong> A kind of julep cocktail containing chunks of fresh fruit that can be eaten after finishing the drink.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To break (something brittle) violently.<p><strong>Example:</strong> The demolition team smashed the buildings to rubble.</p></li><li><strong>Definition 2:</strong> To be destroyed by being smashed.<p><strong>Example:</strong> The crockery smashed as it hit the floor.</p></li><li><strong>Definition 3:</strong> To hit extremely hard.<p><strong>Example:</strong> Bonds smashed the ball 467 feet, the second longest home run in the history of the park.</p></li><li><strong>Definition 4:</strong> To ruin completely and suddenly.<p><strong>Example:</strong> The news smashed any hopes of a reunion.</p></li><li><strong>Definition 5:</strong> To defeat overwhelmingly; to gain a comprehensive success.<p><strong>Example:</strong> I really smashed that English exam.</p></li><li><strong>Definition 6:</strong> To deform through continuous pressure.<p><strong>Example:</strong> I slowly smashed the modeling clay flat with the palm of my hand.</p></li><li><strong>Definition 7:</strong> To have sexual intercourse with.<p><strong>Example:</strong> Would you smash her?</p></li></ul></div></div>"
+description: Yes, SMASH is a valid Wordle word. It was the Wordle answer on April
+  5, 2023 (#655). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 5, 2023 (#655).
+past_answers:
+- date: '2023-04-05'
+  number: 655
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- slash
+- stash
+- swash
+- shash
+- smush
+- snash
+anagrams:
+- shams
+trap:
+  pattern: S_ASH
+  count: 6
+phonetic: "/smæʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sound of a violent impact; a violent striking together.
+    example: I could hear the screech of the brakes, then the horrible smash of cars
+      colliding.
+  - text: A traffic collision.
+    example: The driver and two passengers were badly injured in the smash.
+  - text: Something very successful or popular (as music, food, fashion, etc); a hit.
+    example: This new show is sure to be a smash.
+  - text: A very hard overhead shot hit sharply downward.
+    example: A smash may not be as pretty as a good half volley, but it can still
+      win points.
+  - text: A bankruptcy.
+  - text: A kind of julep cocktail containing chunks of fresh fruit that can be eaten
+      after finishing the drink.
+- pos: verb
+  defs:
+  - text: To break (something brittle) violently.
+    example: The demolition team smashed the buildings to rubble.
+  - text: To be destroyed by being smashed.
+    example: The crockery smashed as it hit the floor.
+  - text: To hit extremely hard.
+    example: Bonds smashed the ball 467 feet, the second longest home run in the history
+      of the park.
+  - text: To ruin completely and suddenly.
+    example: The news smashed any hopes of a reunion.
+  - text: To defeat overwhelmingly; to gain a comprehensive success.
+    example: I really smashed that English exam.
+  - text: To deform through continuous pressure.
+    example: I slowly smashed the modeling clay flat with the palm of my hand.
+  - text: To have sexual intercourse with.
+    example: Would you smash her?
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: moats
+title: Is MOATS a Wordle Word?
+head_title: Is MOATS a Wordle Word? Yes – Valid Guess & Meaning
 word: moats
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A deep, wide defensive ditch, normally filled with water, surrounding a fortified habitation.</li><li><strong>Definition 2:</strong> An aspect of a business which makes it more \"defensible\" from competitors, either because of the nature of its products, services, franchise or other reason.</li><li><strong>Definition 3:</strong> A circular lowland between a resurgent dome and the walls of the caldera surrounding it.</li><li><strong>Definition 4:</strong> A hill or mound.</li></ul></div></div>"
+description: Yes, MOATS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- boats
+- coats
+- doats
+- goats
+- meats
+- moais
+- moals
+- moans
+- moars
+- moits
+- molts
+- moots
+anagrams:
+- atmos
+- atoms
+- stoma
+trap:
+  pattern: MO_TS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A deep, wide defensive ditch, normally filled with water, surrounding a
+      fortified habitation.
+  - text: An aspect of a business which makes it more "defensible" from competitors,
+      either because of the nature of its products, services, franchise or other reason.
+  - text: A circular lowland between a resurgent dome and the walls of the caldera
+      surrounding it.
+  - text: A hill or mound.
 ---
-

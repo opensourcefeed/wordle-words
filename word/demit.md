@@ -1,7 +1,44 @@
 ---
 layout: word
-title: demit
+title: Is DEMIT a Wordle Word?
+head_title: Is DEMIT a Wordle Word? Yes – Valid Guess & Meaning
 word: demit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of demitting.</li><li><strong>Definition 2:</strong> A document certifying that a person has (honourably) demitted, as from a Masonic lodge.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To let fall; to depress; to yield.</li><li><strong>Definition 2:</strong> To relinquish an office, membership, authority, etc.; to resign, as from a Masonic lodge.</li></ul></div></div>"
+description: Yes, DEMIT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- debit
+- remit
+- demic
+- demot
+- dempt
+anagrams:
+- timed
+definitions:
+- pos: noun
+  defs:
+  - text: The act of demitting.
+  - text: A document certifying that a person has (honourably) demitted, as from a
+      Masonic lodge.
+- pos: verb
+  defs:
+  - text: To let fall; to depress; to yield.
+  - text: To relinquish an office, membership, authority, etc.; to resign, as from
+      a Masonic lodge.
 ---
-

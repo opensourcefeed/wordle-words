@@ -1,7 +1,154 @@
 ---
 layout: word
-title: taken
+title: Is TAKEN a Wordle Word?
+head_title: 'Is TAKEN a Wordle Word? Yes – Past Answer #895 & Meaning'
 word: taken
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈteɪkən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To get into one's hands, possession or control, with or without force.<p><strong>Example:</strong> I'll take that plate off the table.</p></li><li><strong>Definition 2:</strong> To receive or accept (something) (especially something given or bestowed, awarded, etc).<p><strong>Example:</strong> The camera takes 35mm film.</p></li><li><strong>Definition 3:</strong> To remove.<p><strong>Example:</strong> take two eggs from the carton</p></li><li><strong>Definition 4:</strong> To have sex with.</li><li><strong>Definition 5:</strong> To defeat (someone or something) in a fight.<p><strong>Example:</strong> Don't try to take that guy. He's bigger than you.</p></li><li><strong>Definition 6:</strong> To grasp or grip.<p><strong>Example:</strong> He took her hand in his.</p></li><li><strong>Definition 7:</strong> To select or choose; to pick.<p><strong>Example:</strong> I'll take the blue plates.</p></li><li><strong>Definition 8:</strong> To adopt (select) as one's own.<p><strong>Example:</strong> She took his side in every argument.</p></li><li><strong>Definition 9:</strong> To carry or lead (something or someone).<p><strong>Example:</strong> I'll take the plate with me.</p></li><li><strong>Definition 10:</strong> To use as a means of transportation.<p><strong>Example:</strong> He took the bus to London, and then took a train to Manchester.</p></li><li><strong>Definition 11:</strong> To visit; to include in a course of travel.</li><li><strong>Definition 12:</strong> To obtain for use by payment or lease.<p><strong>Example:</strong> He took a full-page ad in the Times.</p></li><li><strong>Definition 13:</strong> To consume.</li><li><strong>Definition 14:</strong> To experience, undergo, or endure.</li><li><strong>Definition 15:</strong> To cause to change to a specified state or condition.<p><strong>Example:</strong> He had to take it apart to fix it.</p></li><li><strong>Definition 16:</strong> To regard in a specified way.<p><strong>Example:</strong> He took the news badly.</p></li><li><strong>Definition 17:</strong> To conclude or form (a decision or an opinion) in the mind.<p><strong>Example:</strong> took a dim view of city officials</p></li><li><strong>Definition 18:</strong> To understand (especially in a specified way).<p><strong>Example:</strong> Don't take my comments as an insult.</p></li><li><strong>Definition 19:</strong> To accept or be given (rightly or wrongly); assume (especially as if by right).<p><strong>Example:</strong> He took all the credit for the project, although he had done almost none of the work.</p></li><li><strong>Definition 20:</strong> To believe, to accept the statements of.<p><strong>Example:</strong> take her word for it</p></li><li><strong>Definition 21:</strong> To assume or suppose; to reckon; to regard or consider.<p><strong>Example:</strong> Do you take me for a fool?</p></li><li><strong>Definition 22:</strong> To draw, derive, or deduce (a meaning from something).<p><strong>Example:</strong> I'm not sure what moral to take from that story.</p></li><li><strong>Definition 23:</strong> To derive (as a title); to obtain from a source.<p><strong>Example:</strong> \"As I Lay Dying\" takes its title from Book XI of Homer's \"Odyssey\"</p></li><li><strong>Definition 24:</strong> To catch or contract (an illness, etc).<p><strong>Example:</strong> took a chill</p></li><li><strong>Definition 25:</strong> To come upon or catch (in a particular state or situation).</li><li><strong>Definition 26:</strong> To captivate or charm; to gain or secure the interest or affection of.<p><strong>Example:</strong> took her attention</p></li><li><strong>Definition 27:</strong> (of a material) To absorb or be impregnated by (dye, ink, etc); to be susceptible to being treated by (polish, etc).<p><strong>Example:</strong> cloth that takes dye well</p></li><li><strong>Definition 28:</strong> (of a ship) To let in (water).</li><li><strong>Definition 29:</strong> To require.<p><strong>Example:</strong> Finishing this on schedule will take a lot of overtime.</p></li><li><strong>Definition 30:</strong> To proceed to fill.<p><strong>Example:</strong> He took a seat in the front row.</p></li><li><strong>Definition 31:</strong> To fill, to use up (time or space).<p><strong>Example:</strong> His collection takes a lot of space.</p></li><li><strong>Definition 32:</strong> To avail oneself of.<p><strong>Example:</strong> He took that opportunity to leave France.</p></li><li><strong>Definition 33:</strong> To practice; perform; execute; carry out; do.<p><strong>Example:</strong> Pirès ran in to take the kick.</p></li><li><strong>Definition 34:</strong> To assume or perform (a form or role).</li><li><strong>Definition 35:</strong> To bind oneself by.<p><strong>Example:</strong> he took the oath of office last night</p></li><li><strong>Definition 36:</strong> To move into.<p><strong>Example:</strong> the next team took the field</p></li><li><strong>Definition 37:</strong> To go into, through, or along.<p><strong>Example:</strong> go down two blocks and take the next left</p></li><li><strong>Definition 38:</strong> To have and use one's recourse to.<p><strong>Example:</strong> take cover/shelter/refuge</p></li><li><strong>Definition 39:</strong> To ascertain or determine by measurement, examination or inquiry.<p><strong>Example:</strong> take a census</p></li><li><strong>Definition 40:</strong> To write down; to get in, or as if in, writing.<p><strong>Example:</strong> He took a mental inventory of his supplies.</p></li><li><strong>Definition 41:</strong> To make (a photograph, film, or other reproduction of something).<p><strong>Example:</strong> Could you take a picture of us?</p></li><li><strong>Definition 42:</strong> To take a picture, photograph, etc of (a person, scene, etc).<p><strong>Example:</strong> The photographer will take you sitting down.</p></li><li><strong>Definition 43:</strong> To obtain money from, especially by swindling.<p><strong>Example:</strong> took me for ten grand</p></li><li><strong>Definition 44:</strong> (now chiefly by enrolling in a class or course) To apply oneself to the study of.<p><strong>Example:</strong> As a child, she took ballet.</p></li><li><strong>Definition 45:</strong> To deal with.<p><strong>Example:</strong> take matters as they arise</p></li><li><strong>Definition 46:</strong> To consider in a particular way, or to consider as an example.<p><strong>Example:</strong> I've had a lot of problems recently: take last Monday, for example. My car broke down on the way to work. Then ... etc.</p></li><li><strong>Definition 47:</strong> To decline to swing at (a pitched ball); to refrain from hitting at, and allow to pass.<p><strong>Example:</strong> He'll probably take this one.</p></li><li><strong>Definition 48:</strong> To accept as an input to a relation.</li><li><strong>Definition 49:</strong> To get or accept (something) into one's possession.<p><strong>Example:</strong> My husband and I have a dysfunctional marriage. He just takes and takes; he never gives.</p></li><li><strong>Definition 50:</strong> To engage, take hold or have effect.</li><li><strong>Definition 51:</strong> To become; to be affected in a specified way.<p><strong>Example:</strong> She took sick with the flu.</p></li><li><strong>Definition 52:</strong> (possibly obsolete) To be able to be accurately or beautifully photographed.</li><li><strong>Definition 53:</strong> An intensifier.</li><li><strong>Definition 54:</strong> To deliver, bring, give (something) to (someone).</li><li><strong>Definition 55:</strong> (obsolete outside dialectal and slang) To give or deliver (a blow, to someone); to strike or hit.<p><strong>Example:</strong> He took me a blow on the head.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Infatuated; fond of or attracted to.<p><strong>Example:</strong> He was very taken with the girl, I hear.</p></li><li><strong>Definition 2:</strong> In a serious romantic relationship.<p><strong>Example:</strong> I can't ask her out, she's taken.</p></li></ul></div></div>"
+description: Yes, TAKEN is a valid Wordle word. It was the Wordle answer on December
+  1, 2023 (#895). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 1, 2023 (#895).
+past_answers:
+- date: '2023-12-01'
+  number: 895
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- oaken
+- taker
+- token
+- baken
+- takes
+- takin
+- tapen
+- waken
+phonetic: "/ˈteɪkən/"
+definitions:
+- pos: verb
+  defs:
+  - text: To get into one's hands, possession or control, with or without force.
+    example: I'll take that plate off the table.
+  - text: To receive or accept (something) (especially something given or bestowed,
+      awarded, etc).
+    example: The camera takes 35mm film.
+  - text: To remove.
+    example: take two eggs from the carton
+  - text: To have sex with.
+  - text: To defeat (someone or something) in a fight.
+    example: Don't try to take that guy. He's bigger than you.
+  - text: To grasp or grip.
+    example: He took her hand in his.
+  - text: To select or choose; to pick.
+    example: I'll take the blue plates.
+  - text: To adopt (select) as one's own.
+    example: She took his side in every argument.
+  - text: To carry or lead (something or someone).
+    example: I'll take the plate with me.
+  - text: To use as a means of transportation.
+    example: He took the bus to London, and then took a train to Manchester.
+  - text: To visit; to include in a course of travel.
+  - text: To obtain for use by payment or lease.
+    example: He took a full-page ad in the Times.
+  - text: To consume.
+  - text: To experience, undergo, or endure.
+  - text: To cause to change to a specified state or condition.
+    example: He had to take it apart to fix it.
+  - text: To regard in a specified way.
+    example: He took the news badly.
+  - text: To conclude or form (a decision or an opinion) in the mind.
+    example: took a dim view of city officials
+  - text: To understand (especially in a specified way).
+    example: Don't take my comments as an insult.
+  - text: To accept or be given (rightly or wrongly); assume (especially as if by
+      right).
+    example: He took all the credit for the project, although he had done almost none
+      of the work.
+  - text: To believe, to accept the statements of.
+    example: take her word for it
+  - text: To assume or suppose; to reckon; to regard or consider.
+    example: Do you take me for a fool?
+  - text: To draw, derive, or deduce (a meaning from something).
+    example: I'm not sure what moral to take from that story.
+  - text: To derive (as a title); to obtain from a source.
+    example: '"As I Lay Dying" takes its title from Book XI of Homer''s "Odyssey"'
+  - text: To catch or contract (an illness, etc).
+    example: took a chill
+  - text: To come upon or catch (in a particular state or situation).
+  - text: To captivate or charm; to gain or secure the interest or affection of.
+    example: took her attention
+  - text: "(of a material) To absorb or be impregnated by (dye, ink, etc); to be susceptible
+      to being treated by (polish, etc)."
+    example: cloth that takes dye well
+  - text: "(of a ship) To let in (water)."
+  - text: To require.
+    example: Finishing this on schedule will take a lot of overtime.
+  - text: To proceed to fill.
+    example: He took a seat in the front row.
+  - text: To fill, to use up (time or space).
+    example: His collection takes a lot of space.
+  - text: To avail oneself of.
+    example: He took that opportunity to leave France.
+  - text: To practice; perform; execute; carry out; do.
+    example: Pirès ran in to take the kick.
+  - text: To assume or perform (a form or role).
+  - text: To bind oneself by.
+    example: he took the oath of office last night
+  - text: To move into.
+    example: the next team took the field
+  - text: To go into, through, or along.
+    example: go down two blocks and take the next left
+  - text: To have and use one's recourse to.
+    example: take cover/shelter/refuge
+  - text: To ascertain or determine by measurement, examination or inquiry.
+    example: take a census
+  - text: To write down; to get in, or as if in, writing.
+    example: He took a mental inventory of his supplies.
+  - text: To make (a photograph, film, or other reproduction of something).
+    example: Could you take a picture of us?
+  - text: To take a picture, photograph, etc of (a person, scene, etc).
+    example: The photographer will take you sitting down.
+  - text: To obtain money from, especially by swindling.
+    example: took me for ten grand
+  - text: "(now chiefly by enrolling in a class or course) To apply oneself to the
+      study of."
+    example: As a child, she took ballet.
+  - text: To deal with.
+    example: take matters as they arise
+  - text: To consider in a particular way, or to consider as an example.
+    example: 'I''ve had a lot of problems recently: take last Monday, for example.
+      My car broke down on the way to work. Then ... etc.'
+  - text: To decline to swing at (a pitched ball); to refrain from hitting at, and
+      allow to pass.
+    example: He'll probably take this one.
+  - text: To accept as an input to a relation.
+  - text: To get or accept (something) into one's possession.
+    example: My husband and I have a dysfunctional marriage. He just takes and takes;
+      he never gives.
+  - text: To engage, take hold or have effect.
+  - text: To become; to be affected in a specified way.
+    example: She took sick with the flu.
+  - text: "(possibly obsolete) To be able to be accurately or beautifully photographed."
+  - text: An intensifier.
+  - text: To deliver, bring, give (something) to (someone).
+  - text: "(obsolete outside dialectal and slang) To give or deliver (a blow, to someone);
+      to strike or hit."
+    example: He took me a blow on the head.
+- pos: adjective
+  defs:
+  - text: Infatuated; fond of or attracted to.
+    example: He was very taken with the girl, I hear.
+  - text: In a serious romantic relationship.
+    example: I can't ask her out, she's taken.
 ---
-

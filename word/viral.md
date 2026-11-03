@@ -1,7 +1,52 @@
 ---
 layout: word
-title: viral
+title: Is VIRAL a Wordle Word?
+head_title: 'Is VIRAL a Wordle Word? Yes – Past Answer #174 & Meaning'
 word: viral
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvaɪɹəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A video, image or text spread by \"word of mouth\" on the internet or by e-mail for humorous, political or marketing purposes.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to a biological virus.<p><strong>Example:</strong> viral DNA</p></li><li><strong>Definition 2:</strong> Caused by a virus.<p><strong>Example:</strong> viral infection</p></li><li><strong>Definition 3:</strong> Of the nature of an informatic virus; able to spread copies of itself to other computers.</li><li><strong>Definition 4:</strong> Spread by word of mouth, with minimal intervention in order to create buzz and interest.</li><li><strong>Definition 5:</strong> (of an image, video, piece of information, etc.) circulated rapidly and widely from one Internet user to another.</li></ul></div></div>"
+description: Yes, VIRAL is a valid Wordle word. It was the Wordle answer on December
+  10, 2021 (#174). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 10, 2021 (#174).
+past_answers:
+- date: '2021-12-10'
+  number: 174
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- vital
+- vinal
+anagrams:
+- rival
+phonetic: "/ˈvaɪɹəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A video, image or text spread by "word of mouth" on the internet or by e-mail
+      for humorous, political or marketing purposes.
+- pos: adjective
+  defs:
+  - text: Of or relating to a biological virus.
+    example: viral DNA
+  - text: Caused by a virus.
+    example: viral infection
+  - text: Of the nature of an informatic virus; able to spread copies of itself to
+      other computers.
+  - text: Spread by word of mouth, with minimal intervention in order to create buzz
+      and interest.
+  - text: "(of an image, video, piece of information, etc.) circulated rapidly and
+      widely from one Internet user to another."
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: polys
+title: Is POLYS a Wordle Word?
+head_title: Is POLYS a Wordle Word? Yes – Valid Guess & Meaning
 word: polys
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Polytechnic.</li><li><strong>Definition 2:</strong> Polyethylene (polythene).</li><li><strong>Definition 3:</strong> Polyurethane</li><li><strong>Definition 4:</strong> Polygon.</li><li><strong>Definition 5:</strong> Polyester.<p><strong>Example:</strong> a cotton-poly blend</p></li><li><strong>Definition 6:</strong> Polyamory.</li><li><strong>Definition 7:</strong> A polyamorous person.</li></ul></div></div>"
+description: Yes, POLYS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- polyp
+- molys
+- poles
+- polis
+- polks
+- polls
+- polos
+- polts
+anagrams:
+- ploys
+- slopy
+- yolps
+trap:
+  pattern: POL_S
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Polytechnic.
+  - text: Polyethylene (polythene).
+  - text: Polyurethane
+  - text: Polygon.
+  - text: Polyester.
+    example: a cotton-poly blend
+  - text: Polyamory.
+  - text: A polyamorous person.
 ---
-

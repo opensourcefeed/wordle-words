@@ -1,7 +1,73 @@
 ---
 layout: word
-title: earns
+title: Is EARNS a Wordle Word?
+head_title: Is EARNS a Wordle Word? Yes – Valid Guess & Meaning
 word: earns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɜːnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To gain (success, reward, recognition) through applied effort or work.<p><strong>Example:</strong> You can have the s'mores: you earned them, clearing the walkway of snow so well.</p></li><li><strong>Definition 2:</strong> To receive payment for work.<p><strong>Example:</strong> He earns seven million dollars a year as CEO.  My bank account is only earning one percent interest.</p></li><li><strong>Definition 3:</strong> To receive payment for work.<p><strong>Example:</strong> Now that you are earning, you can start paying me rent.</p></li><li><strong>Definition 4:</strong> To cause (someone) to receive payment or reward.<p><strong>Example:</strong> My CD earns me six percent!</p></li><li><strong>Definition 5:</strong> To achieve by being worthy of.<p><strong>Example:</strong> to earn a spot in the top 20</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To curdle, as milk.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To long; to yearn.</li><li><strong>Definition 2:</strong> To grieve.</li></ul></div></div>"
+description: Yes, EARNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- barns
+- carns
+- darns
+- eards
+- earls
+- earnt
+- harns
+- karns
+- larns
+- tarns
+- warns
+- yarns
+anagrams:
+- saner
+- snare
+- nares
+- nears
+- ranes
+- ranse
+- reans
+trap:
+  pattern: _ARNS
+  count: 10
+phonetic: "/ɜːnz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To gain (success, reward, recognition) through applied effort or work.
+    example: 'You can have the s''mores: you earned them, clearing the walkway of
+      snow so well.'
+  - text: To receive payment for work.
+    example: He earns seven million dollars a year as CEO.  My bank account is only
+      earning one percent interest.
+  - text: To receive payment for work.
+    example: Now that you are earning, you can start paying me rent.
+  - text: To cause (someone) to receive payment or reward.
+    example: My CD earns me six percent!
+  - text: To achieve by being worthy of.
+    example: to earn a spot in the top 20
+- pos: verb
+  defs:
+  - text: To curdle, as milk.
+- pos: verb
+  defs:
+  - text: To long; to yearn.
+  - text: To grieve.
 ---
-

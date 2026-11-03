@@ -1,7 +1,51 @@
 ---
 layout: word
-title: snide
+title: Is SNIDE a Wordle Word?
+head_title: 'Is SNIDE a Wordle Word? Yes – Past Answer #1634 & Meaning'
 word: snide
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /snaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An underhanded, tricky person given to sharp practise; a sharper; a cheat.</li><li><strong>Definition 2:</strong> Counterfeit money</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Disparaging or derisive in an insinuative way.<p><strong>Example:</strong> Don't make snide remarks to me.</p></li><li><strong>Definition 2:</strong> Tricky; deceptive; false; spurious; contemptible.<p><strong>Example:</strong> He was a snide lawyer.</p></li></ul></div></div>"
+description: Yes, SNIDE is a valid Wordle word. It was the Wordle answer on December
+  9, 2025 (#1634). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 9, 2025 (#1634).
+past_answers:
+- date: '2025-12-09'
+  number: 1634
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- slide
+- snipe
+- snive
+- spide
+anagrams:
+- denis
+- dines
+- nides
+- sdein
+- sined
+- snied
+phonetic: "/snaɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An underhanded, tricky person given to sharp practise; a sharper; a cheat.
+  - text: Counterfeit money
+- pos: adjective
+  defs:
+  - text: Disparaging or derisive in an insinuative way.
+    example: Don't make snide remarks to me.
+  - text: Tricky; deceptive; false; spurious; contemptible.
+    example: He was a snide lawyer.
 ---
-

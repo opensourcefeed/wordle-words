@@ -1,7 +1,93 @@
 ---
 layout: word
-title: cocks
+title: Is COCKS a Wordle Word?
+head_title: Is COCKS a Wordle Word? Yes – Valid Guess & Meaning
 word: cocks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɒks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A male bird, especially:</li><li><strong>Definition 2:</strong> A valve or tap for controlling flow in plumbing.</li><li><strong>Definition 3:</strong> The hammer of a firearm trigger mechanism.</li><li><strong>Definition 4:</strong> The notch of an arrow or crossbow.</li><li><strong>Definition 5:</strong> The penis.</li><li><strong>Definition 6:</strong> The circle at the end of the rink.</li><li><strong>Definition 7:</strong> The state of being cocked; an upward turn, tilt or angle.</li><li><strong>Definition 8:</strong> A stupid person.</li><li><strong>Definition 9:</strong> Nonsense; rubbish.</li><li><strong>Definition 10:</strong> (Tasmania) Term of address.<p><strong>Example:</strong> All right, cock?</p></li><li><strong>Definition 11:</strong> A boastful tilt of one's head or hat.</li><li><strong>Definition 12:</strong> Shuttlecock</li><li><strong>Definition 13:</strong> A vane in the shape of a cock; a weathercock.</li><li><strong>Definition 14:</strong> A chief man; a leader or master.</li><li><strong>Definition 15:</strong> The crow of a cock, especially the first crow in the morning; cockcrow.</li><li><strong>Definition 16:</strong> A male fish, especially a salmon or trout.</li><li><strong>Definition 17:</strong> The style or gnomon of a sundial.</li><li><strong>Definition 18:</strong> The indicator of a balance.</li><li><strong>Definition 19:</strong> The bridge piece that affords a bearing for the pivot of a balance in a clock or watch.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lift the cock of a firearm or crossbow; to prepare (a gun or crossbow) to be fired.</li><li><strong>Definition 2:</strong> To be prepared to be triggered by having the cock lifted.<p><strong>Example:</strong> In the darkness, the gun cocked loudly.</p></li><li><strong>Definition 3:</strong> To erect; to turn up.</li><li><strong>Definition 4:</strong> To copulate with.</li><li><strong>Definition 5:</strong> To turn or twist something upwards or to one side; to lift or tilt (e.g. headwear) boastfully.<p><strong>Example:</strong> He cocked his hat jauntily.</p></li><li><strong>Definition 6:</strong> To turn (the eye) obliquely and partially close its lid, as an expression of derision or insinuation.</li><li><strong>Definition 7:</strong> To strut; to swagger; to look big, pert, or menacing.</li><li><strong>Definition 8:</strong> To make a nestle-cock of, to pamper or spoil (of children)</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (where it is still sometimes used) Vulva, vagina.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small conical pile of hay.<p><strong>Example:</strong> The farmhands stack the hay into cocks</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form into piles.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Abbreviation of cock-boat, a type of small boat.</li></ul></div></div>"
+description: Yes, COCKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- bocks
+- cacks
+- cocas
+- cocky
+- cocos
+- cocus
+- conks
+- cooks
+- corks
+- cowks
+- cucks
+- docks
+trap:
+  pattern: _OCKS
+  count: 14
+phonetic: "/kɒks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A male bird, especially:'
+  - text: A valve or tap for controlling flow in plumbing.
+  - text: The hammer of a firearm trigger mechanism.
+  - text: The notch of an arrow or crossbow.
+  - text: The penis.
+  - text: The circle at the end of the rink.
+  - text: The state of being cocked; an upward turn, tilt or angle.
+  - text: A stupid person.
+  - text: Nonsense; rubbish.
+  - text: "(Tasmania) Term of address."
+    example: All right, cock?
+  - text: A boastful tilt of one's head or hat.
+  - text: Shuttlecock
+  - text: A vane in the shape of a cock; a weathercock.
+  - text: A chief man; a leader or master.
+  - text: The crow of a cock, especially the first crow in the morning; cockcrow.
+  - text: A male fish, especially a salmon or trout.
+  - text: The style or gnomon of a sundial.
+  - text: The indicator of a balance.
+  - text: The bridge piece that affords a bearing for the pivot of a balance in a
+      clock or watch.
+- pos: verb
+  defs:
+  - text: To lift the cock of a firearm or crossbow; to prepare (a gun or crossbow)
+      to be fired.
+  - text: To be prepared to be triggered by having the cock lifted.
+    example: In the darkness, the gun cocked loudly.
+  - text: To erect; to turn up.
+  - text: To copulate with.
+  - text: To turn or twist something upwards or to one side; to lift or tilt (e.g.
+      headwear) boastfully.
+    example: He cocked his hat jauntily.
+  - text: To turn (the eye) obliquely and partially close its lid, as an expression
+      of derision or insinuation.
+  - text: To strut; to swagger; to look big, pert, or menacing.
+  - text: To make a nestle-cock of, to pamper or spoil (of children)
+- pos: noun
+  defs:
+  - text: "(where it is still sometimes used) Vulva, vagina."
+- pos: noun
+  defs:
+  - text: A small conical pile of hay.
+    example: The farmhands stack the hay into cocks
+- pos: verb
+  defs:
+  - text: To form into piles.
+- pos: noun
+  defs:
+  - text: Abbreviation of cock-boat, a type of small boat.
 ---
-

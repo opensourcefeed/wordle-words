@@ -1,7 +1,38 @@
 ---
 layout: word
-title: imago
+title: Is IMAGO a Wordle Word?
+head_title: Is IMAGO a Wordle Word? Yes – Valid Guess & Meaning
 word: imago
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈmeɪɡəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The final developmental stage of an insect after undergoing metamorphosis.</li><li><strong>Definition 2:</strong> An idealised concept of a loved one, formed in childhood and retained unconsciously into adult life, the basis for the psychological formation of personality archetypes.</li></ul></div></div>"
+description: Yes, IMAGO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- image
+- imagy
+anagrams:
+- amigo
+phonetic: "/ɪˈmeɪɡəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The final developmental stage of an insect after undergoing metamorphosis.
+  - text: An idealised concept of a loved one, formed in childhood and retained unconsciously
+      into adult life, the basis for the psychological formation of personality archetypes.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: creak
+title: Is CREAK a Wordle Word?
+head_title: 'Is CREAK a Wordle Word? Yes – Past Answer #347 & Meaning'
 word: creak
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹiːk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sound produced by anything that creaks; a creaking.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a prolonged sharp grating or squeaking sound, as by the friction of hard substances.</li><li><strong>Definition 2:</strong> To produce a creaking sound with.</li><li><strong>Definition 3:</strong> To suffer from strain or old age.</li></ul></div></div>"
+description: Yes, CREAK is a valid Wordle word. It was the Wordle answer on June 1,
+  2022 (#347). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 1, 2022 (#347).
+past_answers:
+- date: '2022-06-01'
+  number: 347
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- break
+- cream
+- creek
+- croak
+- freak
+- wreak
+- preak
+anagrams:
+- acker
+- crake
+phonetic: "/kɹiːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sound produced by anything that creaks; a creaking.
+- pos: verb
+  defs:
+  - text: To make a prolonged sharp grating or squeaking sound, as by the friction
+      of hard substances.
+  - text: To produce a creaking sound with.
+  - text: To suffer from strain or old age.
 ---
-

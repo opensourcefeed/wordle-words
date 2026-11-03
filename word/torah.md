@@ -1,7 +1,31 @@
 ---
 layout: word
-title: torah
+title: Is TORAH a Wordle Word?
+head_title: Is TORAH a Wordle Word? Yes – Valid Guess
 word: torah
-meaning: ""
+description: Yes, TORAH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - R
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- torch
+- horah
+- morah
+- toran
+- toras
 ---
-

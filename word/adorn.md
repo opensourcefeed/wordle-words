@@ -1,7 +1,52 @@
 ---
 layout: word
-title: adorn
+title: Is ADORN a Wordle Word?
+head_title: 'Is ADORN a Wordle Word? Yes – Past Answer #1947 & Meaning'
 word: adorn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈdɔː(ɹ)n/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Adornment</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make more beautiful and attractive; to decorate.<p><strong>Example:</strong> a character adorned with every Christian grace</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Adorned; ornate</li></ul></div></div>"
+description: Yes, ADORN is a valid Wordle word. It was the Wordle answer on October
+  18, 2026 (#1947). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 18, 2026 (#1947).
+past_answers:
+- date: '2026-10-18'
+  number: 1947
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- acorn
+- adore
+- aborn
+- adoon
+- adorb
+- adown
+anagrams:
+- andro
+- narod
+- radon
+- rando
+phonetic: "/əˈdɔː(ɹ)n/"
+definitions:
+- pos: noun
+  defs:
+  - text: Adornment
+- pos: verb
+  defs:
+  - text: To make more beautiful and attractive; to decorate.
+    example: a character adorned with every Christian grace
+- pos: adjective
+  defs:
+  - text: Adorned; ornate
 ---
-

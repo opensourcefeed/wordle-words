@@ -1,7 +1,35 @@
 ---
 layout: word
-title: annul
+title: Is ANNUL a Wordle Word?
+head_title: Is ANNUL a Wordle Word? Yes – Possible Answer & Meaning
 word: annul
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈnʌl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To formally revoke the validity of.</li><li><strong>Definition 2:</strong> To dissolve (a marital union) on the grounds that it is not valid.</li></ul></div></div>"
+description: Yes, ANNUL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- annal
+- annum
+- annus
+phonetic: "/əˈnʌl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To formally revoke the validity of.
+  - text: To dissolve (a marital union) on the grounds that it is not valid.
 ---
-

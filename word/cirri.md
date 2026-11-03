@@ -1,7 +1,37 @@
 ---
 layout: word
-title: cirri
+title: Is CIRRI a Wordle Word?
+head_title: Is CIRRI a Wordle Word? Yes – Valid Guess & Meaning
 word: cirri
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tendril.</li><li><strong>Definition 2:</strong> A thin tendril-like appendage.</li><li><strong>Definition 3:</strong> A principal high-level cloud type characterised by white, delicate filaments or wisps, of white (or mostly white) patches, or of narrow bands, found at an altitude of above 7000 metres.</li></ul></div></div>"
+description: Yes, CIRRI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 3
+  repeated:
+  - I
+  - R
+  common:
+  - I
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- kirri
+- pirri
+- wirri
+definitions:
+- pos: noun
+  defs:
+  - text: A tendril.
+  - text: A thin tendril-like appendage.
+  - text: A principal high-level cloud type characterised by white, delicate filaments
+      or wisps, of white (or mostly white) patches, or of narrow bands, found at an
+      altitude of above 7000 metres.
 ---
-

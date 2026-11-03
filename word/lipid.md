@@ -1,7 +1,36 @@
 ---
 layout: word
-title: lipid
+title: Is LIPID a Wordle Word?
+head_title: Is LIPID a Wordle Word? Yes – Possible Answer & Meaning
 word: lipid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɪpɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of a group of organic compounds including the fats, oils, waxes, sterols, and triglycerides. Lipids are characterized by being insoluble in water, and account for most of the fat present in the human body.</li></ul></div></div>"
+description: Yes, LIPID is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- livid
+- lepid
+- lipin
+- pipid
+phonetic: "/ˈlɪpɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a group of organic compounds including the fats, oils, waxes, sterols,
+      and triglycerides. Lipids are characterized by being insoluble in water, and
+      account for most of the fat present in the human body.
 ---
-

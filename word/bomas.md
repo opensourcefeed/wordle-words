@@ -1,7 +1,54 @@
 ---
 layout: word
-title: bomas
+title: Is BOMAS a Wordle Word?
+head_title: Is BOMAS a Wordle Word? Yes – Valid Guess & Meaning
 word: bomas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An enclosure usually made of thorn bushes, and latterly of steel fencing, for protection from marauders.</li><li><strong>Definition 2:</strong> A stockade made of bushes and thorns.</li><li><strong>Definition 3:</strong> A hide.</li><li><strong>Definition 4:</strong> A hut.</li><li><strong>Definition 5:</strong> (East African) A military or police post or magistracy.</li><li><strong>Definition 6:</strong> A type of fertilizer rich in animal dung.</li><li><strong>Definition 7:</strong> A method of composting.</li></ul></div></div>"
+description: Yes, BOMAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- bamas
+- bemas
+- bimas
+- bobas
+- bolas
+- bombs
+- boras
+- botas
+- comas
+- homas
+- lomas
+- nomas
+anagrams:
+- ambos
+trap:
+  pattern: _OMAS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: An enclosure usually made of thorn bushes, and latterly of steel fencing,
+      for protection from marauders.
+  - text: A stockade made of bushes and thorns.
+  - text: A hide.
+  - text: A hut.
+  - text: "(East African) A military or police post or magistracy."
+  - text: A type of fertilizer rich in animal dung.
+  - text: A method of composting.
 ---
-

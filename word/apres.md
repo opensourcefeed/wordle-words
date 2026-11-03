@@ -1,7 +1,51 @@
 ---
 layout: word
-title: apres
+title: Is APRES a Wordle Word?
+head_title: Is APRES a Wordle Word? Yes – Valid Guess & Meaning
 word: apres
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> After</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Such activities or events that occur after skiing.</li></ul></div></div>"
+description: Yes, APRES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- acres
+- apses
+- aures
+- ayres
+anagrams:
+- parse
+- spare
+- spear
+- apers
+- asper
+- pares
+- pears
+- prase
+- presa
+- rapes
+- reaps
+- repas
+definitions:
+- pos: preposition
+  defs:
+  - text: After
+- pos: noun
+  defs:
+  - text: Such activities or events that occur after skiing.
 ---
-

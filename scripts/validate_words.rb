@@ -58,13 +58,15 @@ Dir.glob(File.join(PAGES_DIR, '*')).sort.each do |path|
   end
   flagged = fm['sensitive'] == true && fm['sitemap'] == false
   if sensitive.include?(name) != flagged
-    errors << "#{path}: sensitive flags out of sync; run ruby scripts/flag_sensitive_words.rb"
+    errors << "#{path}: sensitive flags out of sync; run bundle exec ruby scripts/build_pages.rb"
   end
-  %w[word title].each do |key|
+  expected = { 'word' => name, 'title' => "Is #{name.upcase} a Wordle Word?" }
+  expected.each do |key, want|
     value = fm[key]
     errors << "#{path}: #{key} is a #{value.class}, not a string (#{value.inspect}); quote it" unless value.is_a?(String)
-    errors << "#{path}: #{key} #{value.inspect} does not match file name" unless value.to_s == name
+    errors << "#{path}: #{key} #{value.inspect} should be #{want.inspect}" unless value.to_s == want
   end
+  errors << "#{path}: missing answer status; run bundle exec ruby scripts/build_pages.rb" unless %w[past possible guess].include?(fm['status'])
 end
 
 pages = Dir.glob(File.join(PAGES_DIR, '*.md')).size

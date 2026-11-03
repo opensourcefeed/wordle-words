@@ -1,7 +1,36 @@
 ---
 layout: word
-title: oxeye
+title: Is OXEYE a Wordle Word?
+head_title: Is OXEYE a Wordle Word? Yes – Valid Guess & Meaning
 word: oxeye
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Several daisy-like flowers in various genera,</li><li><strong>Definition 2:</strong> Any oxeye daisy.</li><li><strong>Definition 3:</strong> The corn camomile (Anthemis arvensis).</li><li><strong>Definition 4:</strong> A titmouse, especially the great titmouse (Parus major) or the blue titmouse (Parus caeruleus).</li><li><strong>Definition 5:</strong> The dunlin (Calidris alpina)</li><li><strong>Definition 6:</strong> A fish Boops boops; the bogue, or box.</li></ul></div></div>"
+description: Yes, OXEYE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - O
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 84
+definitions:
+- pos: noun
+  defs:
+  - text: Several daisy-like flowers in various genera,
+  - text: Any oxeye daisy.
+  - text: The corn camomile (Anthemis arvensis).
+  - text: A titmouse, especially the great titmouse (Parus major) or the blue titmouse
+      (Parus caeruleus).
+  - text: The dunlin (Calidris alpina)
+  - text: A fish Boops boops; the bogue, or box.
 ---
-

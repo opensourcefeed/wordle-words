@@ -1,7 +1,40 @@
 ---
 layout: word
-title: fuggy
+title: Is FUGGY a Wordle Word?
+head_title: Is FUGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: fuggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Muggy, stuffy, with bad ventilation</li></ul></div></div>"
+description: Yes, FUGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - G
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- buggy
+- foggy
+- figgy
+- fudgy
+- fugly
+- huggy
+- muggy
+- puggy
+- ruggy
+- vuggy
+trap:
+  pattern: _UGGY
+  count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: Muggy, stuffy, with bad ventilation
 ---
-

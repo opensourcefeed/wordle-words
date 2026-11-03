@@ -1,7 +1,38 @@
 ---
 layout: word
-title: spews
+title: Is SPEWS a Wordle Word?
+head_title: Is SPEWS a Wordle Word? Yes – Valid Guess
 word: spews
-meaning: ""
+description: Yes, SPEWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- shews
+- skews
+- slews
+- smews
+- spaws
+- specs
+- speks
+- speos
+- spets
+- spewy
+- stews
+trap:
+  pattern: S_EWS
+  count: 6
 ---
-

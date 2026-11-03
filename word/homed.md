@@ -1,7 +1,51 @@
 ---
 layout: word
-title: homed
+title: Is HOMED a Wordle Word?
+head_title: Is HOMED a Wordle Word? Yes – Valid Guess & Meaning
 word: homed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhəʊmd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of animals) To return to its owner.<p><strong>Example:</strong> The dog homed.</p></li><li><strong>Definition 2:</strong> (always with \"in on\") To seek or aim for something.<p><strong>Example:</strong> The missile was able to home in on the target.</p></li></ul></div></div>"
+description: Yes, HOMED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- homer
+- domed
+- hamed
+- hoaed
+- hohed
+- hoied
+- hoked
+- holed
+- homes
+- homey
+- honed
+- hoped
+anagrams:
+- omdeh
+trap:
+  pattern: HO_ED
+  count: 12
+phonetic: "/ˈhəʊmd/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(of animals) To return to its owner."
+    example: The dog homed.
+  - text: (always with "in on") To seek or aim for something.
+    example: The missile was able to home in on the target.
 ---
-

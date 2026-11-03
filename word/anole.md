@@ -1,7 +1,49 @@
 ---
 layout: word
-title: anole
+title: Is ANOLE a Wordle Word?
+head_title: Is ANOLE a Wordle Word? Yes – Valid Guess & Meaning
 word: anole
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈnəʊ.li/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the Anolis genus of arboreal American lizards (such as the American chameleon) from the iguana family which feature a brightly colored dewlap and color-changing ability.</li></ul></div></div>"
+description: Yes, ANOLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - L
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- angle
+- ankle
+- anode
+- ahole
+- amole
+- ancle
+- anele
+- anile
+- azole
+anagrams:
+- alone
+trap:
+  pattern: AN_LE
+  count: 6
+phonetic: "/əˈnəʊ.li/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the Anolis genus of arboreal American lizards (such as the American
+      chameleon) from the iguana family which feature a brightly colored dewlap and
+      color-changing ability.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: picky
+title: Is PICKY a Wordle Word?
+head_title: 'Is PICKY a Wordle Word? Yes – Past Answer #189 & Meaning'
 word: picky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɪki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A picture.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Fussy; particular; demanding to have things just right.<p><strong>Example:</strong> I am very picky about the way my kitchen is laid out.</p></li></ul></div></div>"
+description: Yes, PICKY is a valid Wordle word. It was the Wordle answer on December
+  25, 2021 (#189). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 25, 2021 (#189).
+past_answers:
+- date: '2021-12-25'
+  number: 189
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- pinky
+- bicky
+- dicky
+- kicky
+- micky
+- nicky
+- packy
+- pecky
+- piccy
+- picey
+- picks
+- pisky
+trap:
+  pattern: _ICKY
+  count: 9
+phonetic: "/ˈpɪki/"
+definitions:
+- pos: noun
+  defs:
+  - text: A picture.
+- pos: adjective
+  defs:
+  - text: Fussy; particular; demanding to have things just right.
+    example: I am very picky about the way my kitchen is laid out.
 ---
-

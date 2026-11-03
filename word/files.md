@@ -1,7 +1,90 @@
 ---
 layout: word
-title: files
+title: Is FILES a Wordle Word?
+head_title: Is FILES a Wordle Word? Yes – Valid Guess & Meaning
 word: files
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faɪlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A collection of papers collated and archived together.</li><li><strong>Definition 2:</strong> A roll or list.</li><li><strong>Definition 3:</strong> Course of thought; thread of narration.</li><li><strong>Definition 4:</strong> An aggregation of data on a storage device, identified by a name.<p><strong>Example:</strong> I'm going to delete these unwanted files to free up some disk space.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To commit (official papers) to some office.</li><li><strong>Definition 2:</strong> To place in an archive in a logical place and order</li><li><strong>Definition 3:</strong> To store a file (aggregation of data) on a storage medium such as a disc or another computer.</li><li><strong>Definition 4:</strong> (with for) To submit a formal request to some office.<p><strong>Example:</strong> She filed for divorce the next day.</p></li><li><strong>Definition 5:</strong> To set in order; to arrange, or lay away.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A column of people one behind another, whether \"single file\" or in a large group with many files side by side.<p><strong>Example:</strong> The troops marched in Indian file.</p></li><li><strong>Definition 2:</strong> A small detachment of soldiers.</li><li><strong>Definition 3:</strong> One of the eight vertical lines of squares on a chessboard (i.e., those identified by a letter). The analog horizontal lines are the ranks.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move in a file.<p><strong>Example:</strong> The applicants kept filing into the room until it was full.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hand tool consisting of a handle to which a block of coarse metal is attached, and used for removing sharp edges or for cutting, especially through metal.</li><li><strong>Definition 2:</strong> A cunning or resourceful person.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To smooth, grind, or cut with a file.<p><strong>Example:</strong> I'd better file the bottoms of the table legs. Otherwise they will scratch the flooring.</p></li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To defile</li><li><strong>Definition 2:</strong> To corrupt</li></ul></div></div>"
+description: Yes, FILES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- filer
+- filet
+- biles
+- fales
+- fices
+- fides
+- fifes
+- fikes
+- filed
+- filks
+- fills
+- films
+anagrams:
+- flies
+- liefs
+- lifes
+trap:
+  pattern: FI_ES
+  count: 9
+phonetic: "/faɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A collection of papers collated and archived together.
+  - text: A roll or list.
+  - text: Course of thought; thread of narration.
+  - text: An aggregation of data on a storage device, identified by a name.
+    example: I'm going to delete these unwanted files to free up some disk space.
+- pos: verb
+  defs:
+  - text: To commit (official papers) to some office.
+  - text: To place in an archive in a logical place and order
+  - text: To store a file (aggregation of data) on a storage medium such as a disc
+      or another computer.
+  - text: "(with for) To submit a formal request to some office."
+    example: She filed for divorce the next day.
+  - text: To set in order; to arrange, or lay away.
+- pos: noun
+  defs:
+  - text: A column of people one behind another, whether "single file" or in a large
+      group with many files side by side.
+    example: The troops marched in Indian file.
+  - text: A small detachment of soldiers.
+  - text: One of the eight vertical lines of squares on a chessboard (i.e., those
+      identified by a letter). The analog horizontal lines are the ranks.
+- pos: verb
+  defs:
+  - text: To move in a file.
+    example: The applicants kept filing into the room until it was full.
+- pos: noun
+  defs:
+  - text: A hand tool consisting of a handle to which a block of coarse metal is attached,
+      and used for removing sharp edges or for cutting, especially through metal.
+  - text: A cunning or resourceful person.
+- pos: verb
+  defs:
+  - text: To smooth, grind, or cut with a file.
+    example: I'd better file the bottoms of the table legs. Otherwise they will scratch
+      the flooring.
+- pos: verb
+  defs:
+  - text: To defile
+  - text: To corrupt
 ---
-

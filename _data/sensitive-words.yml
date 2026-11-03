@@ -1,6 +1,6 @@
 # Valid Wordle words whose pages should carry no ads and be kept out of search
 # (slurs, strong profanity, explicit sexual terms). Protects AdSense standing.
-# After editing, run: ruby scripts/flag_sensitive_words.rb
+# After editing, run: bundle exec ruby scripts/build_pages.rb
 sensitive-words:
   # Slurs (ethnic, religious, sexual orientation, disability)
   - boong

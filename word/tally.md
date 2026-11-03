@@ -1,7 +1,51 @@
 ---
 layout: word
-title: tally
+title: Is TALLY a Wordle Word?
+head_title: 'Is TALLY a Wordle Word? Yes – Past Answer #1247 & Meaning'
 word: tally
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtæli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Target sighted.<p><strong>Example:</strong> (Air Traffic Control): Speedbird 123, New York, traffic at two o’clock, seven miles, a Boeing 737, west-bound, at 4000 feet.”</p></li></ul></div></div>"
+description: Yes, TALLY is a valid Wordle word. It was the Wordle answer on November
+  17, 2024 (#1247). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 17, 2024 (#1247).
+past_answers:
+- date: '2024-11-17'
+  number: 1247
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - T
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- dally
+- rally
+- sally
+- bally
+- gally
+- pally
+- talcy
+- talky
+- talls
+- telly
+- tilly
+- tolly
+trap:
+  pattern: _ALLY
+  count: 8
+phonetic: "/ˈtæli/"
+definitions:
+- pos: interjection
+  defs:
+  - text: Target sighted.
+    example: "(Air Traffic Control): Speedbird 123, New York, traffic at two o’clock,
+      seven miles, a Boeing 737, west-bound, at 4000 feet.”"
 ---
-

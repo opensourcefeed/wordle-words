@@ -1,7 +1,42 @@
 ---
 layout: word
-title: mourn
+title: Is MOURN a Wordle Word?
+head_title: 'Is MOURN a Wordle Word? Yes – Past Answer #257 & Meaning'
 word: mourn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɔːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Sorrow, grief.</li><li><strong>Definition 2:</strong> A ring fitted upon the head of a lance to prevent wounding an adversary in tilting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To express sadness or sorrow for; to grieve over (especially a death).</li><li><strong>Definition 2:</strong> To utter in a sorrowful manner.</li><li><strong>Definition 3:</strong> To wear mourning.</li></ul></div></div>"
+description: Yes, MOURN is a valid Wordle word. It was the Wordle answer on March
+  3, 2022 (#257). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 3, 2022 (#257).
+past_answers:
+- date: '2022-03-03'
+  number: 257
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- bourn
+- yourn
+phonetic: "/mɔːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Sorrow, grief.
+  - text: A ring fitted upon the head of a lance to prevent wounding an adversary
+      in tilting.
+- pos: verb
+  defs:
+  - text: To express sadness or sorrow for; to grieve over (especially a death).
+  - text: To utter in a sorrowful manner.
+  - text: To wear mourning.
 ---
-

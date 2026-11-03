@@ -1,7 +1,69 @@
 ---
 layout: word
-title: skate
+title: Is SKATE a Wordle Word?
+head_title: 'Is SKATE a Wordle Word? Yes – Past Answer #1163 & Meaning'
 word: skate
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /skeɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light boot, fitted with a blade, used for ice skating.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A boot having small wheels or casters attached to its sole; used for roller skating</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A runner or blade, usually of steel, with a frame shaped to fit the sole of a shoe, made to be fastened under the foot, and used for gliding on ice.</li><li><strong>Definition 2:</strong> The act of skateboarding<p><strong>Example:</strong> There's time for a quick skate before dinner.</p></li><li><strong>Definition 3:</strong> The act of roller skating or ice skating<p><strong>Example:</strong> The boys had a skate every morning when the lake was frozen.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move along a surface (ice or ground) using skates.</li><li><strong>Definition 2:</strong> To skateboard</li><li><strong>Definition 3:</strong> To use the skating technique.</li><li><strong>Definition 4:</strong> To get away with something; to be acquitted of a crime for which one is manifestly guilty.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Pertaining to the technique of skating.</li></ul></div></div>"
+description: Yes, SKATE is a valid Wordle word. It was the Wordle answer on August
+  25, 2024 (#1163). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 25, 2024 (#1163).
+past_answers:
+- date: '2024-08-25'
+  number: 1163
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- slate
+- state
+- skats
+- skatt
+- skite
+- skyte
+- spate
+anagrams:
+- stake
+- steak
+- ketas
+- takes
+- teaks
+phonetic: "/skeɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A light boot, fitted with a blade, used for ice skating.
+- pos: noun
+  defs:
+  - text: A boot having small wheels or casters attached to its sole; used for roller
+      skating
+- pos: noun
+  defs:
+  - text: A runner or blade, usually of steel, with a frame shaped to fit the sole
+      of a shoe, made to be fastened under the foot, and used for gliding on ice.
+  - text: The act of skateboarding
+    example: There's time for a quick skate before dinner.
+  - text: The act of roller skating or ice skating
+    example: The boys had a skate every morning when the lake was frozen.
+- pos: verb
+  defs:
+  - text: To move along a surface (ice or ground) using skates.
+  - text: To skateboard
+  - text: To use the skating technique.
+  - text: To get away with something; to be acquitted of a crime for which one is
+      manifestly guilty.
+- pos: adjective
+  defs:
+  - text: Pertaining to the technique of skating.
 ---
-

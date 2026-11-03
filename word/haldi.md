@@ -1,7 +1,37 @@
 ---
 layout: word
-title: haldi
+title: Is HALDI a Wordle Word?
+head_title: Is HALDI a Wordle Word? Yes – Valid Guess & Meaning
 word: haldi
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An Indian plant, Curcuma longa, with aromatic rhizomes, part of the ginger family (Zingiberaceae).</li><li><strong>Definition 2:</strong> The pulverized rhizome of the turmeric plant, used for flavoring and to add a bright yellow color to food.</li><li><strong>Definition 3:</strong> A yellow to reddish-brown dye extracted from the turmeric plant.</li></ul></div></div>"
+description: Yes, HALDI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- handi
+anagrams:
+- halid
+definitions:
+- pos: noun
+  defs:
+  - text: An Indian plant, Curcuma longa, with aromatic rhizomes, part of the ginger
+      family (Zingiberaceae).
+  - text: The pulverized rhizome of the turmeric plant, used for flavoring and to
+      add a bright yellow color to food.
+  - text: A yellow to reddish-brown dye extracted from the turmeric plant.
 ---
-

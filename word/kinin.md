@@ -1,7 +1,32 @@
 ---
 layout: word
-title: kinin
+title: Is KININ a Wordle Word?
+head_title: Is KININ a Wordle Word? Yes – Valid Guess & Meaning
 word: kinin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various structurally related polypeptides of the autacoid family, such as bradykinin and kallikrein, that act locally to induce vasodilation and contraction of smooth muscle.</li></ul></div></div>"
+description: Yes, KININ is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 3
+  repeated:
+  - I
+  - N
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- linin
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various structurally related polypeptides of the autacoid family,
+      such as bradykinin and kallikrein, that act locally to induce vasodilation and
+      contraction of smooth muscle.
 ---
-

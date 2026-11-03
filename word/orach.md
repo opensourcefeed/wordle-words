@@ -1,7 +1,37 @@
 ---
 layout: word
-title: orach
+title: Is ORACH a Wordle Word?
+head_title: Is ORACH a Wordle Word? Yes – Valid Guess & Meaning
 word: orach
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɒɹɪtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The saltbush: any of several plants, of the genus Atriplex, especially Atriplex hortensis or Atriplex patula, found in dry habitats, that have edible leaves resembling spinach.</li></ul></div></div>"
+description: Yes, ORACH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- brach
+- oracy
+anagrams:
+- roach
+phonetic: "/ˈɒɹɪtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'The saltbush: any of several plants, of the genus Atriplex, especially
+      Atriplex hortensis or Atriplex patula, found in dry habitats, that have edible
+      leaves resembling spinach.'
 ---
-

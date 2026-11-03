@@ -1,7 +1,47 @@
 ---
 layout: word
-title: puked
+title: Is PUKED a Wordle Word?
+head_title: Is PUKED a Wordle Word? Yes – Valid Guess & Meaning
 word: puked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To vomit; to throw up; to eject from the stomach.</li><li><strong>Definition 2:</strong> To sell securities or investments at a loss, often under duress or pressure, in order to satisfy liquidity or margin requirements, or out of a desire to exit a deteriorating market.</li></ul></div></div>"
+description: Yes, PUKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- duked
+- euked
+- juked
+- nuked
+- piked
+- poked
+- puker
+- pukes
+- pukey
+- puled
+- pured
+- yuked
+trap:
+  pattern: _UKED
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To vomit; to throw up; to eject from the stomach.
+  - text: To sell securities or investments at a loss, often under duress or pressure,
+      in order to satisfy liquidity or margin requirements, or out of a desire to
+      exit a deteriorating market.
 ---
-

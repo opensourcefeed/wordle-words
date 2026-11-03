@@ -1,7 +1,39 @@
 ---
 layout: word
-title: calla
+title: Is CALLA a Wordle Word?
+head_title: Is CALLA a Wordle Word? Yes – Valid Guess & Meaning
 word: calla
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A marsh plant native to cooler areas throughout the northern hemisphere, Calla palustris, having pale green flowers in a white spathe.</li><li><strong>Definition 2:</strong> The calla lily, Zantedeschia aethiopica.</li></ul></div></div>"
+description: Yes, CALLA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- calle
+- calls
+- calpa
+- cella
+- nalla
+- palla
+- walla
+definitions:
+- pos: noun
+  defs:
+  - text: A marsh plant native to cooler areas throughout the northern hemisphere,
+      Calla palustris, having pale green flowers in a white spathe.
+  - text: The calla lily, Zantedeschia aethiopica.
 ---
-

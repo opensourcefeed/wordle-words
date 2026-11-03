@@ -1,7 +1,95 @@
 ---
 layout: word
-title: crank
+title: Is CRANK a Wordle Word?
+head_title: 'Is CRANK a Wordle Word? Yes – Past Answer #203 & Meaning'
 word: crank
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹæŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bent piece of an axle or shaft, or an attached arm perpendicular, or nearly so, to the end of a shaft or wheel, used to impart a rotation to a wheel or other mechanical device; also used to change circular into reciprocating motion, or reciprocating into circular motion.<p><strong>Example:</strong> I grind my coffee by hand with a coffee grinder with a crank handle.</p></li><li><strong>Definition 2:</strong> The act of converting power into motion, by turning a crankshaft.<p><strong>Example:</strong> Yes, a crank was all it needed to start.</p></li><li><strong>Definition 3:</strong> Any bend, turn, or winding, as of a passage.</li><li><strong>Definition 4:</strong> An ill-tempered or nasty person.<p><strong>Example:</strong> Billy-Bob is a nasty old crank! He chased my cat away.</p></li><li><strong>Definition 5:</strong> A twist or turn of the mind; caprice; whim;</li><li><strong>Definition 6:</strong> A fit of temper or passion.</li><li><strong>Definition 7:</strong> (dated in US) A person who is considered strange or odd by others. They may behave in unconventional ways.<p><strong>Example:</strong> John is a crank because he talks to himself.</p></li><li><strong>Definition 8:</strong> (1800s) A baseball fan.</li><li><strong>Definition 9:</strong> An advocate of a pseudoscience movement.<p><strong>Example:</strong> That crank next door thinks he’s created cold fusion in his garage.</p></li><li><strong>Definition 10:</strong> A twist or turn in speech; word play consisting in a change of the form or meaning of a word.</li><li><strong>Definition 11:</strong> A sick person; an invalid.</li><li><strong>Definition 12:</strong> A penis.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn by means of a crank.<p><strong>Example:</strong> Motorists had to crank their engine by hand.</p></li><li><strong>Definition 2:</strong> To turn a crank.<p><strong>Example:</strong> He's been cranking all day and yet it refuses to crank.</p></li><li><strong>Definition 3:</strong> (of a crank or similar) To turn.<p><strong>Example:</strong> He's been cranking all day and yet it refuses to crank.</p></li><li><strong>Definition 4:</strong> To cause to spin via other means, as though turned by a crank.<p><strong>Example:</strong> Crank it up!</p></li><li><strong>Definition 5:</strong> To act in a cranky manner; to behave unreasonably and irritably, especially through complaining.<p><strong>Example:</strong> Quit cranking about your spilt milk!</p></li><li><strong>Definition 6:</strong> To be running at a high level of output or effort.<p><strong>Example:</strong> By one hour into the shift, the boys were really cranking.</p></li><li><strong>Definition 7:</strong> To run with a winding course; to double; to crook; to wind and turn.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Strange, weird, odd.</li><li><strong>Definition 2:</strong> Sick; unwell</li><li><strong>Definition 3:</strong> (of a ship) Liable to capsize because of poorly stowed cargo or insufficient ballast.</li><li><strong>Definition 4:</strong> Full of spirit; brisk; lively; sprightly; overconfident; opinionated.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A highly addictive phenethylamine stimulant drug, similar to cocaine. Its systematic (IUPAC) name is (S)-N-methyl-1-phenylpropan-2-amine.</li></ul></div></div>"
+description: Yes, CRANK is a valid Wordle word. It was the Wordle answer on January
+  8, 2022 (#203). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 8, 2022 (#203).
+past_answers:
+- date: '2022-01-08'
+  number: 203
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- clank
+- crack
+- crane
+- drank
+- frank
+- prank
+- brank
+- chank
+- crans
+- crink
+- cronk
+- crunk
+trap:
+  pattern: _RANK
+  count: 6
+phonetic: "/kɹæŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bent piece of an axle or shaft, or an attached arm perpendicular, or nearly
+      so, to the end of a shaft or wheel, used to impart a rotation to a wheel or
+      other mechanical device; also used to change circular into reciprocating motion,
+      or reciprocating into circular motion.
+    example: I grind my coffee by hand with a coffee grinder with a crank handle.
+  - text: The act of converting power into motion, by turning a crankshaft.
+    example: Yes, a crank was all it needed to start.
+  - text: Any bend, turn, or winding, as of a passage.
+  - text: An ill-tempered or nasty person.
+    example: Billy-Bob is a nasty old crank! He chased my cat away.
+  - text: A twist or turn of the mind; caprice; whim;
+  - text: A fit of temper or passion.
+  - text: "(dated in US) A person who is considered strange or odd by others. They
+      may behave in unconventional ways."
+    example: John is a crank because he talks to himself.
+  - text: "(1800s) A baseball fan."
+  - text: An advocate of a pseudoscience movement.
+    example: That crank next door thinks he’s created cold fusion in his garage.
+  - text: A twist or turn in speech; word play consisting in a change of the form
+      or meaning of a word.
+  - text: A sick person; an invalid.
+  - text: A penis.
+- pos: verb
+  defs:
+  - text: To turn by means of a crank.
+    example: Motorists had to crank their engine by hand.
+  - text: To turn a crank.
+    example: He's been cranking all day and yet it refuses to crank.
+  - text: "(of a crank or similar) To turn."
+    example: He's been cranking all day and yet it refuses to crank.
+  - text: To cause to spin via other means, as though turned by a crank.
+    example: Crank it up!
+  - text: To act in a cranky manner; to behave unreasonably and irritably, especially
+      through complaining.
+    example: Quit cranking about your spilt milk!
+  - text: To be running at a high level of output or effort.
+    example: By one hour into the shift, the boys were really cranking.
+  - text: To run with a winding course; to double; to crook; to wind and turn.
+- pos: adjective
+  defs:
+  - text: Strange, weird, odd.
+  - text: Sick; unwell
+  - text: "(of a ship) Liable to capsize because of poorly stowed cargo or insufficient
+      ballast."
+  - text: Full of spirit; brisk; lively; sprightly; overconfident; opinionated.
+- pos: noun
+  defs:
+  - text: A highly addictive phenethylamine stimulant drug, similar to cocaine. Its
+      systematic (IUPAC) name is (S)-N-methyl-1-phenylpropan-2-amine.
 ---
-

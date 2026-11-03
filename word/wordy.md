@@ -1,7 +1,43 @@
 ---
 layout: word
-title: wordy
+title: Is WORDY a Wordle Word?
+head_title: 'Is WORDY a Wordle Word? Yes – Past Answer #796 & Meaning'
 word: wordy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɝdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Using an excessive number of words.<p><strong>Example:</strong> The story was long and very wordy.</p></li></ul></div></div>"
+description: Yes, WORDY is a valid Wordle word. It was the Wordle answer on August
+  24, 2023 (#796). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 24, 2023 (#796).
+past_answers:
+- date: '2023-08-24'
+  number: 796
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- woody
+- worry
+- lordy
+- woady
+- words
+- worky
+- wormy
+anagrams:
+- dowry
+- rowdy
+phonetic: "/ˈwɝdi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Using an excessive number of words.
+    example: The story was long and very wordy.
 ---
-

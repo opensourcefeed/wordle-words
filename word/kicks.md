@@ -1,7 +1,124 @@
 ---
 layout: word
-title: kicks
+title: Is KICKS a Wordle Word?
+head_title: Is KICKS a Wordle Word? Yes – Valid Guess & Meaning
 word: kicks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hit or strike with the leg, foot or knee.<p><strong>Example:</strong> A kick to the knee.</p></li><li><strong>Definition 2:</strong> The action of swinging a foot or leg.<p><strong>Example:</strong> The ballerina did a high kick and a leap.</p></li><li><strong>Definition 3:</strong> Something that tickles the fancy; something fun or amusing.<p><strong>Example:</strong> I finally saw the show. What a kick!</p></li><li><strong>Definition 4:</strong> The removal of a person from an online activity.</li><li><strong>Definition 5:</strong> Any bucking motion of an object that lacks legs or feet.<p><strong>Example:</strong> The car had a nasty kick the whole way.</p></li><li><strong>Definition 6:</strong> Piquancy.</li><li><strong>Definition 7:</strong> A stimulation provided by an intoxicating substance.</li><li><strong>Definition 8:</strong> A pass played by kicking with the foot.</li><li><strong>Definition 9:</strong> The distance traveled by kicking the ball.<p><strong>Example:</strong> a long kick up the field.</p></li><li><strong>Definition 10:</strong> A recoil of a gun.</li><li><strong>Definition 11:</strong> Pocket.</li><li><strong>Definition 12:</strong> An increase in speed in the final part of a running race.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To strike or hit with the foot or other extremity of the leg.<p><strong>Example:</strong> Did you kick your brother?</p></li><li><strong>Definition 2:</strong> To make a sharp jerking movement of the leg, as to strike something.<p><strong>Example:</strong> He enjoyed the simple pleasure of watching the kickline kick.</p></li><li><strong>Definition 3:</strong> To direct to a particular place by a blow with the foot or leg.<p><strong>Example:</strong> Kick the ball into the goal.</p></li><li><strong>Definition 4:</strong> (with \"off\" or \"out\") To eject summarily.</li><li><strong>Definition 5:</strong> To forcibly remove a participant from an online activity.<p><strong>Example:</strong> He was kicked by ChanServ for flooding.</p></li><li><strong>Definition 6:</strong> To overcome (a bothersome or difficult issue or obstacle); to free oneself of (a problem).<p><strong>Example:</strong> I still smoke, but they keep telling me to kick the habit.</p></li><li><strong>Definition 7:</strong> To move or push suddenly and violently.<p><strong>Example:</strong> He was kicked sideways by the force of the blast.</p></li><li><strong>Definition 8:</strong> (of a firearm) To recoil; to push by recoiling.</li><li><strong>Definition 9:</strong> To attack (a piece) in order to force it to move.</li><li><strong>Definition 10:</strong> To accelerate quickly with a few pedal strokes in an effort to break away from other riders.<p><strong>Example:</strong> Contador kicks again to try to rid himself of Rasmussen.</p></li><li><strong>Definition 11:</strong> To show opposition or resistance.</li><li><strong>Definition 12:</strong> To work a press by impact of the foot on a treadle.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To die.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who kicks.</li><li><strong>Definition 2:</strong> One who takes kicks.</li><li><strong>Definition 3:</strong> The kicking strap.</li><li><strong>Definition 4:</strong> An outboard motor.</li><li><strong>Definition 5:</strong> An unexpected situation, detail or circumstance, often unpleasant.<p><strong>Example:</strong> John wants to climb the wall, but the kicker is that it is thirty feet tall.</p></li><li><strong>Definition 6:</strong> An enticement for investors, e.g. warranty added to the investment contract.</li><li><strong>Definition 7:</strong> An unpaired card which is part of a pair, two pair, or three of a kind poker hand.<p><strong>Example:</strong> Jill's hand was two pair, aces and sevens, with a king kicker.</p></li><li><strong>Definition 8:</strong> Small text above a headline that indicates the topic of the story.</li><li><strong>Definition 9:</strong> The last one or two paragraphs of a story.</li><li><strong>Definition 10:</strong> A lighthearted or humorous item used to round off a news broadcast.</li><li><strong>Definition 11:</strong> A device that periodically displaces a newspaper from the print production line, to aid in gathering the newspapers into fixed-size bundles.</li><li><strong>Definition 12:</strong> A launch ramp.</li><li><strong>Definition 13:</strong> The fermenting mass of fruit that is the basis of pruno, or \"prison wine\".</li><li><strong>Definition 14:</strong> A relaxed party.</li><li><strong>Definition 15:</strong> A backlight positioned at an angle.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A particular type of Texan who is associated with country/western attire, attitudes and/or philosophy.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Pleasures, thrills.</li><li><strong>Definition 2:</strong> Shoes.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An introduction; something that leads into the beginning of something.<p><strong>Example:</strong> After the long lead-in, the climax of the story was a disappointment.</p></li><li><strong>Definition 2:</strong> A region of data at the beginning of a compact disc, holding the table of contents.</li><li><strong>Definition 3:</strong> A short phrase that begins the caption of a photograph.</li></ul></div></div>"
+description: Yes, KICKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - K
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- hicks
+- kacks
+- kecks
+- kicky
+- kinks
+- kirks
+- licks
+- micks
+- nicks
+- oicks
+- picks
+- ricks
+trap:
+  pattern: _ICKS
+  count: 12
+phonetic: "/kɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hit or strike with the leg, foot or knee.
+    example: A kick to the knee.
+  - text: The action of swinging a foot or leg.
+    example: The ballerina did a high kick and a leap.
+  - text: Something that tickles the fancy; something fun or amusing.
+    example: I finally saw the show. What a kick!
+  - text: The removal of a person from an online activity.
+  - text: Any bucking motion of an object that lacks legs or feet.
+    example: The car had a nasty kick the whole way.
+  - text: Piquancy.
+  - text: A stimulation provided by an intoxicating substance.
+  - text: A pass played by kicking with the foot.
+  - text: The distance traveled by kicking the ball.
+    example: a long kick up the field.
+  - text: A recoil of a gun.
+  - text: Pocket.
+  - text: An increase in speed in the final part of a running race.
+- pos: verb
+  defs:
+  - text: To strike or hit with the foot or other extremity of the leg.
+    example: Did you kick your brother?
+  - text: To make a sharp jerking movement of the leg, as to strike something.
+    example: He enjoyed the simple pleasure of watching the kickline kick.
+  - text: To direct to a particular place by a blow with the foot or leg.
+    example: Kick the ball into the goal.
+  - text: (with "off" or "out") To eject summarily.
+  - text: To forcibly remove a participant from an online activity.
+    example: He was kicked by ChanServ for flooding.
+  - text: To overcome (a bothersome or difficult issue or obstacle); to free oneself
+      of (a problem).
+    example: I still smoke, but they keep telling me to kick the habit.
+  - text: To move or push suddenly and violently.
+    example: He was kicked sideways by the force of the blast.
+  - text: "(of a firearm) To recoil; to push by recoiling."
+  - text: To attack (a piece) in order to force it to move.
+  - text: To accelerate quickly with a few pedal strokes in an effort to break away
+      from other riders.
+    example: Contador kicks again to try to rid himself of Rasmussen.
+  - text: To show opposition or resistance.
+  - text: To work a press by impact of the foot on a treadle.
+- pos: verb
+  defs:
+  - text: To die.
+- pos: noun
+  defs:
+  - text: One who kicks.
+  - text: One who takes kicks.
+  - text: The kicking strap.
+  - text: An outboard motor.
+  - text: An unexpected situation, detail or circumstance, often unpleasant.
+    example: John wants to climb the wall, but the kicker is that it is thirty feet
+      tall.
+  - text: An enticement for investors, e.g. warranty added to the investment contract.
+  - text: An unpaired card which is part of a pair, two pair, or three of a kind poker
+      hand.
+    example: Jill's hand was two pair, aces and sevens, with a king kicker.
+  - text: Small text above a headline that indicates the topic of the story.
+  - text: The last one or two paragraphs of a story.
+  - text: A lighthearted or humorous item used to round off a news broadcast.
+  - text: A device that periodically displaces a newspaper from the print production
+      line, to aid in gathering the newspapers into fixed-size bundles.
+  - text: A launch ramp.
+  - text: The fermenting mass of fruit that is the basis of pruno, or "prison wine".
+  - text: A relaxed party.
+  - text: A backlight positioned at an angle.
+- pos: noun
+  defs:
+  - text: A particular type of Texan who is associated with country/western attire,
+      attitudes and/or philosophy.
+- pos: noun
+  defs:
+  - text: Pleasures, thrills.
+  - text: Shoes.
+- pos: noun
+  defs:
+  - text: An introduction; something that leads into the beginning of something.
+    example: After the long lead-in, the climax of the story was a disappointment.
+  - text: A region of data at the beginning of a compact disc, holding the table of
+      contents.
+  - text: A short phrase that begins the caption of a photograph.
 ---
-

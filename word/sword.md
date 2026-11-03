@@ -1,7 +1,43 @@
 ---
 layout: word
-title: sword
+title: Is SWORD a Wordle Word?
+head_title: 'Is SWORD a Wordle Word? Yes – Past Answer #1491 & Meaning'
 word: sword
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sɔːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long-bladed weapon with a hilt, and usually a pommel and cross-guard, which is designed to stab, slash, and/or hack.</li><li><strong>Definition 2:</strong> A suit in the minor arcana in tarot.</li><li><strong>Definition 3:</strong> A card of this suit.</li><li><strong>Definition 4:</strong> One of the end bars by which the lay of a hand loom is suspended.</li><li><strong>Definition 5:</strong> The weapon, often used as a heraldic charge.</li></ul></div></div>"
+description: Yes, SWORD is a valid Wordle word. It was the Wordle answer on July 19,
+  2025 (#1491). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 19, 2025 (#1491).
+past_answers:
+- date: '2025-07-19'
+  number: 1491
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- swore
+- sworn
+- sward
+anagrams:
+- drows
+- words
+phonetic: "/sɔːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long-bladed weapon with a hilt, and usually a pommel and cross-guard,
+      which is designed to stab, slash, and/or hack.
+  - text: A suit in the minor arcana in tarot.
+  - text: A card of this suit.
+  - text: One of the end bars by which the lay of a hand loom is suspended.
+  - text: The weapon, often used as a heraldic charge.
 ---
-

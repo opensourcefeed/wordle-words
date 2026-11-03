@@ -1,7 +1,58 @@
 ---
 layout: word
-title: napes
+title: Is NAPES a Wordle Word?
+head_title: Is NAPES a Wordle Word? Yes – Valid Guess & Meaning
 word: napes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /neɪps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The back part of the neck.</li><li><strong>Definition 2:</strong> The part of a fish or bird immediately behind the head.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tablecloth.</li></ul></div></div>"
+description: Yes, NAPES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- capes
+- gapes
+- japes
+- mapes
+- nabes
+- nages
+- names
+- napas
+- naped
+- nares
+- nates
+- naves
+anagrams:
+- aspen
+- neaps
+- panes
+- peans
+- sneap
+- spane
+- spean
+trap:
+  pattern: _APES
+  count: 9
+phonetic: "/neɪps/"
+definitions:
+- pos: noun
+  defs:
+  - text: The back part of the neck.
+  - text: The part of a fish or bird immediately behind the head.
+- pos: noun
+  defs:
+  - text: A tablecloth.
 ---
-

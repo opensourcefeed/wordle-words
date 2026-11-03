@@ -1,7 +1,59 @@
 ---
 layout: word
-title: fight
+title: Is FIGHT a Wordle Word?
+head_title: Is FIGHT a Wordle Word? Yes – Possible Answer & Meaning
 word: fight
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [fʌɪt]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To contend in physical conflict, either singly or in war, battle etc.<p><strong>Example:</strong> A wounded animal will fight like a maniac, relentless, savage and murderous.</p></li><li><strong>Definition 2:</strong> To contend in physical conflict with each other, either singly or in war, battle etc.<p><strong>Example:</strong> The two boxers have been fighting for more than half an hour.</p></li><li><strong>Definition 3:</strong> To strive for something; to campaign or contend for success.<p><strong>Example:</strong> He fought for the Democrats in the last election.</p></li><li><strong>Definition 4:</strong> To conduct or engage in (battle, warfare etc.).<p><strong>Example:</strong> The battle was fought just over that hill.</p></li><li><strong>Definition 5:</strong> To engage in combat with; to oppose physically, to contest with.<p><strong>Example:</strong> My grandfather fought the Nazis in World War II.</p></li><li><strong>Definition 6:</strong> To try to overpower; to fiercely counteract.<p><strong>Example:</strong> The government pledged to fight corruption.</p></li><li><strong>Definition 7:</strong> To cause to fight; to manage or manoeuvre in a fight.<p><strong>Example:</strong> to fight cocks; to fight one's ship</p></li><li><strong>Definition 8:</strong> Of colours or other design elements: to clash; to fail to harmonize.</li></ul></div></div>"
+description: Yes, FIGHT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- eight
+- light
+- might
+- night
+- right
+- sight
+- tight
+- wight
+- aight
+- bight
+- dight
+- hight
+trap:
+  pattern: _IGHT
+  count: 15
+phonetic: "[fʌɪt]"
+definitions:
+- pos: verb
+  defs:
+  - text: To contend in physical conflict, either singly or in war, battle etc.
+    example: A wounded animal will fight like a maniac, relentless, savage and murderous.
+  - text: To contend in physical conflict with each other, either singly or in war,
+      battle etc.
+    example: The two boxers have been fighting for more than half an hour.
+  - text: To strive for something; to campaign or contend for success.
+    example: He fought for the Democrats in the last election.
+  - text: To conduct or engage in (battle, warfare etc.).
+    example: The battle was fought just over that hill.
+  - text: To engage in combat with; to oppose physically, to contest with.
+    example: My grandfather fought the Nazis in World War II.
+  - text: To try to overpower; to fiercely counteract.
+    example: The government pledged to fight corruption.
+  - text: To cause to fight; to manage or manoeuvre in a fight.
+    example: to fight cocks; to fight one's ship
+  - text: 'Of colours or other design elements: to clash; to fail to harmonize.'
 ---
-

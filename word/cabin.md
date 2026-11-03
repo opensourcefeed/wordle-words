@@ -1,7 +1,50 @@
 ---
 layout: word
-title: cabin
+title: Is CABIN a Wordle Word?
+head_title: Is CABIN a Wordle Word? Yes – Possible Answer & Meaning
 word: cabin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkæbɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small dwelling characteristic of the frontier, especially when built from logs with simple tools and not constructed by professional builders, but by those who meant to live in it.<p><strong>Example:</strong> Abraham Lincoln was born in a log cabin.</p></li><li><strong>Definition 2:</strong> A chalet or lodge, especially one that can hold large groups of people.</li><li><strong>Definition 3:</strong> A private room on a ship.<p><strong>Example:</strong> the captain's cabin:  Passengers shall remain in their cabins.</p></li><li><strong>Definition 4:</strong> The interior of a boat, enclosed to create a small room, particularly for sleeping.</li><li><strong>Definition 5:</strong> The passenger area of an airplane.</li><li><strong>Definition 6:</strong> (travel) The section of a passenger plane having the same class of service.</li><li><strong>Definition 7:</strong> A signal box.</li><li><strong>Definition 8:</strong> A small room; an enclosed place.</li><li><strong>Definition 9:</strong> (Indian English) A private office; particularly of a doctor, businessman, lawyer, or other professional.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place in a cabin or other small space.</li><li><strong>Definition 2:</strong> (by extension) To limit the scope of.</li><li><strong>Definition 3:</strong> To live in, or as if in, a cabin; to lodge.</li></ul></div></div>"
+description: Yes, CABIN is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- sabin
+phonetic: "/ˈkæbɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small dwelling characteristic of the frontier, especially when built from
+      logs with simple tools and not constructed by professional builders, but by
+      those who meant to live in it.
+    example: Abraham Lincoln was born in a log cabin.
+  - text: A chalet or lodge, especially one that can hold large groups of people.
+  - text: A private room on a ship.
+    example: the captain's cabin:  Passengers shall remain in their cabins.
+  - text: The interior of a boat, enclosed to create a small room, particularly for
+      sleeping.
+  - text: The passenger area of an airplane.
+  - text: "(travel) The section of a passenger plane having the same class of service."
+  - text: A signal box.
+  - text: A small room; an enclosed place.
+  - text: "(Indian English) A private office; particularly of a doctor, businessman,
+      lawyer, or other professional."
+- pos: verb
+  defs:
+  - text: To place in a cabin or other small space.
+  - text: "(by extension) To limit the scope of."
+  - text: To live in, or as if in, a cabin; to lodge.
 ---
-

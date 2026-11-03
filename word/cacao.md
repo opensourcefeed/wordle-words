@@ -1,7 +1,37 @@
 ---
 layout: word
-title: cacao
+title: Is CACAO a Wordle Word?
+head_title: 'Is CACAO a Wordle Word? Yes – Past Answer #364 & Meaning'
 word: cacao
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kəˈkeɪ̯əʊ̯/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tree, Theobroma cacao, whose seed is used to make chocolate.</li><li><strong>Definition 2:</strong> This tree's seed, the cocoa bean.</li></ul></div></div>"
+description: Yes, CACAO is a valid Wordle word. It was the Wordle answer on June 18,
+  2022 (#364). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 18, 2022 (#364).
+past_answers:
+- date: '2022-06-18'
+  number: 364
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 3
+  repeated:
+  - C
+  - A
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- cacas
+phonetic: "/kəˈkeɪ̯əʊ̯/"
+definitions:
+- pos: noun
+  defs:
+  - text: A tree, Theobroma cacao, whose seed is used to make chocolate.
+  - text: This tree's seed, the cocoa bean.
 ---
-

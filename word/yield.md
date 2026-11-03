@@ -1,7 +1,56 @@
 ---
 layout: word
-title: yield
+title: Is YIELD a Wordle Word?
+head_title: 'Is YIELD a Wordle Word? Yes – Past Answer #330 & Meaning'
 word: yield
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jiːld/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pay, give in payment; repay, recompense; reward; requite.</li><li><strong>Definition 2:</strong> To furnish; to afford; to render; to give forth.</li><li><strong>Definition 3:</strong> To give way; to allow another to pass first.<p><strong>Example:</strong> Yield the right of way to pedestrians.</p></li><li><strong>Definition 4:</strong> To give as required; to surrender, relinquish or capitulate.<p><strong>Example:</strong> They refuse to yield to the enemy.</p></li><li><strong>Definition 5:</strong> To give, or give forth, (anything).</li><li><strong>Definition 6:</strong> To give way; to succumb to a force.</li><li><strong>Definition 7:</strong> To produce as return, as from an investment.<p><strong>Example:</strong> Historically, that security yields a high return.</p></li><li><strong>Definition 8:</strong> To produce as a result.<p><strong>Example:</strong> Adding 3 and 4 yields a result of 7.</p></li><li><strong>Definition 9:</strong> To produce a particular sound as the result of a sound law.<p><strong>Example:</strong> Indo-European p- yields Germanic f-.</p></li><li><strong>Definition 10:</strong> (of a material specimen) To pass the material's yield point and undergo plastic deformation.</li><li><strong>Definition 11:</strong> To admit to be true; to concede; to allow.</li></ul></div></div>"
+description: Yes, YIELD is a valid Wordle word. It was the Wordle answer on May 15,
+  2022 (#330). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 15, 2022 (#330).
+past_answers:
+- date: '2022-05-15'
+  number: 330
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- field
+- wield
+- bield
+- sield
+anagrams:
+- ylide
+phonetic: "/jiːld/"
+definitions:
+- pos: verb
+  defs:
+  - text: To pay, give in payment; repay, recompense; reward; requite.
+  - text: To furnish; to afford; to render; to give forth.
+  - text: To give way; to allow another to pass first.
+    example: Yield the right of way to pedestrians.
+  - text: To give as required; to surrender, relinquish or capitulate.
+    example: They refuse to yield to the enemy.
+  - text: To give, or give forth, (anything).
+  - text: To give way; to succumb to a force.
+  - text: To produce as return, as from an investment.
+    example: Historically, that security yields a high return.
+  - text: To produce as a result.
+    example: Adding 3 and 4 yields a result of 7.
+  - text: To produce a particular sound as the result of a sound law.
+    example: Indo-European p- yields Germanic f-.
+  - text: "(of a material specimen) To pass the material's yield point and undergo
+      plastic deformation."
+  - text: To admit to be true; to concede; to allow.
 ---
-

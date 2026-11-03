@@ -1,7 +1,72 @@
 ---
 layout: word
-title: gross
+title: Is GROSS a Wordle Word?
+head_title: 'Is GROSS a Wordle Word? Yes – Past Answer #1581 & Meaning'
 word: gross
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹəʊs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Twelve dozen = 144.</li><li><strong>Definition 2:</strong> The total nominal earnings or amount, before taxes, expenses, exceptions or similar are deducted. That which remains after all deductions is called net.</li><li><strong>Definition 3:</strong> The bulk, the mass, the masses.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To earn money, not including expenses.<p><strong>Example:</strong> The movie grossed three million on the first weekend.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of behaviour considered to be wrong) Highly or conspicuously offensive.<p><strong>Example:</strong> a gross mistake;  gross injustice;  gross negligence; a gross insult</p></li><li><strong>Definition 2:</strong> (of an amount) Excluding any deductions; including all associated amounts.<p><strong>Example:</strong> gross domestic product; gross income; gross weight</p></li><li><strong>Definition 3:</strong> Seen without a microscope (usually for a tissue or an organ); at a large scale; not detailed.<p><strong>Example:</strong> gross anatomy</p></li><li><strong>Definition 4:</strong> Causing disgust.<p><strong>Example:</strong> I threw up all over the bed. It was totally gross.</p></li><li><strong>Definition 5:</strong> Lacking refinement in behaviour or manner; offending a standard of morality.</li><li><strong>Definition 6:</strong> (of a product) Lacking refinement; not of high quality.</li><li><strong>Definition 7:</strong> (of a person) Heavy in proportion to one's height; having a lot of excess flesh.</li><li><strong>Definition 8:</strong> Not sensitive in perception or feeling.</li><li><strong>Definition 9:</strong> Difficult or impossible to see through.</li><li><strong>Definition 10:</strong> Easy to perceive.</li></ul></div></div>"
+description: Yes, GROSS is a valid Wordle word. It was the Wordle answer on October
+  17, 2025 (#1581). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 17, 2025 (#1581).
+past_answers:
+- date: '2025-10-17'
+  number: 1581
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- cross
+- dross
+- gloss
+- grass
+- grogs
+- groks
+- groms
+- grosz
+- grots
+- grows
+- pross
+trap:
+  pattern: GRO_S
+  count: 6
+phonetic: "/ɡɹəʊs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Twelve dozen = 144.
+  - text: The total nominal earnings or amount, before taxes, expenses, exceptions
+      or similar are deducted. That which remains after all deductions is called net.
+  - text: The bulk, the mass, the masses.
+- pos: verb
+  defs:
+  - text: To earn money, not including expenses.
+    example: The movie grossed three million on the first weekend.
+- pos: adjective
+  defs:
+  - text: "(of behaviour considered to be wrong) Highly or conspicuously offensive."
+    example: a gross mistake;  gross injustice;  gross negligence; a gross insult
+  - text: "(of an amount) Excluding any deductions; including all associated amounts."
+    example: gross domestic product; gross income; gross weight
+  - text: Seen without a microscope (usually for a tissue or an organ); at a large
+      scale; not detailed.
+    example: gross anatomy
+  - text: Causing disgust.
+    example: I threw up all over the bed. It was totally gross.
+  - text: Lacking refinement in behaviour or manner; offending a standard of morality.
+  - text: "(of a product) Lacking refinement; not of high quality."
+  - text: "(of a person) Heavy in proportion to one's height; having a lot of excess
+      flesh."
+  - text: Not sensitive in perception or feeling.
+  - text: Difficult or impossible to see through.
+  - text: Easy to perceive.
 ---
-

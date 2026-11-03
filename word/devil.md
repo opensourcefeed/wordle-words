@@ -1,7 +1,71 @@
 ---
 layout: word
-title: devil
+title: Is DEVIL a Wordle Word?
+head_title: 'Is DEVIL a Wordle Word? Yes – Past Answer #984 & Meaning'
 word: devil
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɛvəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An evil creature.</li><li><strong>Definition 2:</strong> (with article) The chief devil; Satan.</li><li><strong>Definition 3:</strong> A fictional image of a man, usually red or orange in skin color; with a set of horns on his head, a pointed goatee and a long tail and carrying a pitchfork; that represents evil and portrayed to children in an effort to discourage bad behavior.</li><li><strong>Definition 4:</strong> The bad part of the conscience; the opposite to the angel.<p><strong>Example:</strong> The devil in me wants to let him suffer.</p></li><li><strong>Definition 5:</strong> A wicked or naughty person, or one who harbors reckless, spirited energy, especially in a mischievous way; usually said of a young child.<p><strong>Example:</strong> Those two kids are devils in a toy store.</p></li><li><strong>Definition 6:</strong> A thing that is awkward or difficult to understand or do.<p><strong>Example:</strong> That math problem was a devil.</p></li><li><strong>Definition 7:</strong> (with an article, as an intensifier) Hell.<p><strong>Example:</strong> She is having a devil of a time fixing it.</p></li><li><strong>Definition 8:</strong> A person, especially a man; used to express a particular opinion of him, usually in the phrases poor devil and lucky devil.</li><li><strong>Definition 9:</strong> A dust devil.</li><li><strong>Definition 10:</strong> (Christian Science) An evil or erring entity.</li><li><strong>Definition 11:</strong> (in compounds) A barren, unproductive and unused area.<p><strong>Example:</strong> devil strip</p></li><li><strong>Definition 12:</strong> A dish, as a bone with the meat, broiled and excessively peppered; a grill with Cayenne pepper.</li><li><strong>Definition 13:</strong> A machine for tearing or cutting rags, cotton, etc.</li><li><strong>Definition 14:</strong> A Tasmanian devil.</li><li><strong>Definition 15:</strong> An endurance event where riders who fall behind are periodically eliminated.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make like a devil; to invest with the character of a devil.</li><li><strong>Definition 2:</strong> To annoy or bother.</li><li><strong>Definition 3:</strong> To work as a ‘devil’; to work for a lawyer or writer without fee or recognition.</li><li><strong>Definition 4:</strong> To prepare (food) with spices, making it spicy:</li></ul></div></div>"
+description: Yes, DEVIL is a valid Wordle word. It was the Wordle answer on February
+  28, 2024 (#984). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 28, 2024 (#984).
+past_answers:
+- date: '2024-02-28'
+  number: 984
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- devel
+- devis
+- kevil
+anagrams:
+- lived
+- vilde
+phonetic: "/ˈdɛvəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An evil creature.
+  - text: "(with article) The chief devil; Satan."
+  - text: A fictional image of a man, usually red or orange in skin color; with a
+      set of horns on his head, a pointed goatee and a long tail and carrying a pitchfork;
+      that represents evil and portrayed to children in an effort to discourage bad
+      behavior.
+  - text: The bad part of the conscience; the opposite to the angel.
+    example: The devil in me wants to let him suffer.
+  - text: A wicked or naughty person, or one who harbors reckless, spirited energy,
+      especially in a mischievous way; usually said of a young child.
+    example: Those two kids are devils in a toy store.
+  - text: A thing that is awkward or difficult to understand or do.
+    example: That math problem was a devil.
+  - text: "(with an article, as an intensifier) Hell."
+    example: She is having a devil of a time fixing it.
+  - text: A person, especially a man; used to express a particular opinion of him,
+      usually in the phrases poor devil and lucky devil.
+  - text: A dust devil.
+  - text: "(Christian Science) An evil or erring entity."
+  - text: "(in compounds) A barren, unproductive and unused area."
+    example: devil strip
+  - text: A dish, as a bone with the meat, broiled and excessively peppered; a grill
+      with Cayenne pepper.
+  - text: A machine for tearing or cutting rags, cotton, etc.
+  - text: A Tasmanian devil.
+  - text: An endurance event where riders who fall behind are periodically eliminated.
+- pos: verb
+  defs:
+  - text: To make like a devil; to invest with the character of a devil.
+  - text: To annoy or bother.
+  - text: To work as a ‘devil’; to work for a lawyer or writer without fee or recognition.
+  - text: 'To prepare (food) with spices, making it spicy:'
 ---
-

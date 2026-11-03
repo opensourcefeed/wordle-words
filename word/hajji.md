@@ -1,7 +1,34 @@
 ---
 layout: word
-title: hajji
+title: Is HAJJI a Wordle Word?
+head_title: Is HAJJI a Wordle Word? Yes – Valid Guess & Meaning
 word: hajji
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhædʒi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who has participated in a hajj.</li><li><strong>Definition 2:</strong> A Muslim or Arab.</li></ul></div></div>"
+description: Yes, HAJJI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - J
+  common:
+  - A
+  - I
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- hadji
+phonetic: "/ˈhædʒi/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who has participated in a hajj.
+  - text: A Muslim or Arab.
 ---
-

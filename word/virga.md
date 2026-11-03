@@ -1,7 +1,39 @@
 ---
 layout: word
-title: virga
+title: Is VIRGA a Wordle Word?
+head_title: Is VIRGA a Wordle Word? Yes – Valid Guess & Meaning
 word: virga
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvɜːɡə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of note used in plainsong notation, having a tail and representing a single tone.</li><li><strong>Definition 2:</strong> A streak of rain or snow that is dissipated in falling and does not reach the ground, commonly appearing descending from a cloud layer.</li><li><strong>Definition 3:</strong> (measurement) A unit of length: a rod, pole or perch (5½ yards); or a unit of area: a square rod, pole or perch.</li></ul></div></div>"
+description: Yes, VIRGA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- jirga
+- virge
+- virgo
+phonetic: "/ˈvɜːɡə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of note used in plainsong notation, having a tail and representing
+      a single tone.
+  - text: A streak of rain or snow that is dissipated in falling and does not reach
+      the ground, commonly appearing descending from a cloud layer.
+  - text: "(measurement) A unit of length: a rod, pole or perch (5½ yards); or a unit
+      of area: a square rod, pole or perch."
 ---
-

@@ -1,7 +1,73 @@
 ---
 layout: word
-title: raked
+title: Is RAKED a Wordle Word?
+head_title: Is RAKED a Wordle Word? Yes – Valid Guess & Meaning
 word: raked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹeɪkt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To walk; to roam, to wander.</li><li><strong>Definition 2:</strong> Of animals (especially sheep): to graze.</li><li><strong>Definition 3:</strong> To roam or wander through (somewhere).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To act upon with a rake, or as if with a rake.<p><strong>Example:</strong> She is raking the gravel path to keep it even.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move swiftly; to proceed rapidly.</li><li><strong>Definition 2:</strong> Of a bird of prey: to fly after a quarry; also, to fly away from the falconer, to go wide of the quarry being pursued.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To incline (something) from a perpendicular direction.<p><strong>Example:</strong> A mast rakes aft.</p></li><li><strong>Definition 2:</strong> Senses relating to watercraft.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To behave as a rake; to lead a hedonistic and immoral life.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sloping</li></ul></div></div>"
+description: Yes, RAKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- baked
+- caked
+- faked
+- laked
+- naked
+- oaked
+- raced
+- raged
+- rahed
+- rakee
+- raker
+- rakes
+anagrams:
+- drake
+- arked
+- daker
+trap:
+  pattern: RA_ED
+  count: 13
+phonetic: "/ɹeɪkt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To walk; to roam, to wander.
+  - text: 'Of animals (especially sheep): to graze.'
+  - text: To roam or wander through (somewhere).
+- pos: verb
+  defs:
+  - text: To act upon with a rake, or as if with a rake.
+    example: She is raking the gravel path to keep it even.
+- pos: verb
+  defs:
+  - text: To move swiftly; to proceed rapidly.
+  - text: 'Of a bird of prey: to fly after a quarry; also, to fly away from the falconer,
+      to go wide of the quarry being pursued.'
+- pos: verb
+  defs:
+  - text: To incline (something) from a perpendicular direction.
+    example: A mast rakes aft.
+  - text: Senses relating to watercraft.
+- pos: verb
+  defs:
+  - text: To behave as a rake; to lead a hedonistic and immoral life.
+- pos: adjective
+  defs:
+  - text: Sloping
 ---
-

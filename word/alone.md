@@ -1,7 +1,62 @@
 ---
 layout: word
-title: alone
+title: Is ALONE a Wordle Word?
+head_title: 'Is ALONE a Wordle Word? Yes – Past Answer #112 & Meaning'
 word: alone
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈləʊn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> By oneself, solitary.<p><strong>Example:</strong> I can't ask for help because I am alone.</p></li><li><strong>Definition 2:</strong> Apart from, or exclusive of, others.<p><strong>Example:</strong> Jones alone could do it.</p></li><li><strong>Definition 3:</strong> Considered separately.</li><li><strong>Definition 4:</strong> Without equal.</li><li><strong>Definition 5:</strong> Unique; rare; matchless.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> By oneself; apart from, or exclusive of, others; solo.<p><strong>Example:</strong> She walked home alone.</p></li><li><strong>Definition 2:</strong> Without outside help.<p><strong>Example:</strong> The job was too hard for me to do alone.</p></li><li><strong>Definition 3:</strong> Exclusively.<p><strong>Example:</strong> The responsibility is theirs alone.</p></li></ul></div></div>"
+description: Yes, ALONE is a valid Wordle word. It was the Wordle answer on October
+  9, 2021 (#112). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 9, 2021 (#112).
+past_answers:
+- date: '2021-10-09'
+  number: 112
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- along
+- atone
+- clone
+- acone
+- agone
+- alane
+- aline
+- alose
+- alowe
+- axone
+anagrams:
+- anole
+phonetic: "/əˈləʊn/"
+definitions:
+- pos: adjective
+  defs:
+  - text: By oneself, solitary.
+    example: I can't ask for help because I am alone.
+  - text: Apart from, or exclusive of, others.
+    example: Jones alone could do it.
+  - text: Considered separately.
+  - text: Without equal.
+  - text: Unique; rare; matchless.
+- pos: adverb
+  defs:
+  - text: By oneself; apart from, or exclusive of, others; solo.
+    example: She walked home alone.
+  - text: Without outside help.
+    example: The job was too hard for me to do alone.
+  - text: Exclusively.
+    example: The responsibility is theirs alone.
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: tunic
+title: Is TUNIC a Wordle Word?
+head_title: 'Is TUNIC a Wordle Word? Yes – Past Answer #1228 & Meaning'
 word: tunic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tjuːnɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A garment worn over the torso, with or without sleeves, and of various lengths reaching from the hips to the ankles.</li><li><strong>Definition 2:</strong> Any covering, such as seed coat or the organ that covers a membrane.</li></ul></div></div>"
+description: Yes, TUNIC is a valid Wordle word. It was the Wordle answer on October
+  29, 2024 (#1228). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 29, 2024 (#1228).
+past_answers:
+- date: '2024-10-29'
+  number: 1228
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- tonic
+- funic
+- runic
+anagrams:
+- cunit
+- cutin
+- incut
+phonetic: "/tjuːnɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A garment worn over the torso, with or without sleeves, and of various lengths
+      reaching from the hips to the ankles.
+  - text: Any covering, such as seed coat or the organ that covers a membrane.
 ---
-

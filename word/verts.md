@@ -1,7 +1,53 @@
 ---
 layout: word
-title: verts
+title: Is VERTS a Wordle Word?
+head_title: Is VERTS a Wordle Word? Yes – Valid Guess & Meaning
 word: verts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvɜː(ɹ)ts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A green colour, now only in heraldry; represented in engraving by diagonal parallel lines 45 degrees counter-clockwise.</li><li><strong>Definition 2:</strong> Green undergrowth or other vegetation growing in a forest, as a potential cover for deer.</li><li><strong>Definition 3:</strong> The right to fell trees or cut shrubs in a forest.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> In sport, a type of bicycle stunt competition.</li><li><strong>Definition 2:</strong> A vertical surface used by skateboarders or skiers.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Vertebrate</li></ul></div></div>"
+description: Yes, VERTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- certs
+- nerts
+- perts
+- terts
+- vents
+- verbs
+- verte
+- vertu
+- vests
+anagrams:
+- verst
+phonetic: "/ˈvɜː(ɹ)ts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A green colour, now only in heraldry; represented in engraving by diagonal
+      parallel lines 45 degrees counter-clockwise.
+  - text: Green undergrowth or other vegetation growing in a forest, as a potential
+      cover for deer.
+  - text: The right to fell trees or cut shrubs in a forest.
+- pos: noun
+  defs:
+  - text: In sport, a type of bicycle stunt competition.
+  - text: A vertical surface used by skateboarders or skiers.
+- pos: noun
+  defs:
+  - text: Vertebrate
 ---
-

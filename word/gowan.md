@@ -1,7 +1,38 @@
 ---
 layout: word
-title: gowan
+title: Is GOWAN a Wordle Word?
+head_title: Is GOWAN a Wordle Word? Yes – Valid Guess & Meaning
 word: gowan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The common daisy.</li><li><strong>Definition 2:</strong> Decomposed granite.</li></ul></div></div>"
+description: Yes, GOWAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- cowan
+- goban
+- lowan
+- powan
+- rowan
+anagrams:
+- wagon
+- wonga
+definitions:
+- pos: noun
+  defs:
+  - text: The common daisy.
+  - text: Decomposed granite.
 ---
-

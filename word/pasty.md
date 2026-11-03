@@ -1,7 +1,55 @@
 ---
 layout: word
-title: pasty
+title: Is PASTY a Wordle Word?
+head_title: Is PASTY a Wordle Word? Yes – Possible Answer & Meaning
 word: pasty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpeɪsti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (chiefly in the plural) A small item of clothing that conceals little more than the nipple of a woman's breast, primarily worn by female exotic dancers.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Like paste, sticky.<p><strong>Example:</strong> These mashed potatoes aren’t cooked well; they are very pasty.</p></li><li><strong>Definition 2:</strong> Pale, lacking colour, having a pallor<p><strong>Example:</strong> Are you feeling OK? You look a bit pasty.</p></li><li><strong>Definition 3:</strong> White-skinned</li></ul></div></div>"
+description: Yes, PASTY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- hasty
+- nasty
+- party
+- pasta
+- paste
+- patty
+- tasty
+- masty
+- panty
+- paspy
+- pasts
+- pesty
+anagrams:
+- patsy
+- pyats
+trap:
+  pattern: _ASTY
+  count: 6
+phonetic: "/ˈpeɪsti/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(chiefly in the plural) A small item of clothing that conceals little more
+      than the nipple of a woman's breast, primarily worn by female exotic dancers."
+- pos: adjective
+  defs:
+  - text: Like paste, sticky.
+    example: These mashed potatoes aren’t cooked well; they are very pasty.
+  - text: Pale, lacking colour, having a pallor
+    example: Are you feeling OK? You look a bit pasty.
+  - text: White-skinned
 ---
-

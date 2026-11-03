@@ -1,7 +1,80 @@
 ---
 layout: word
-title: slope
+title: Is SLOPE a Wordle Word?
+head_title: 'Is SLOPE a Wordle Word? Yes – Past Answer #917 & Meaning'
 word: slope
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sləʊp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An area of ground that tends evenly upward or downward.<p><strong>Example:</strong> I had to climb a small slope to get to the site.</p></li><li><strong>Definition 2:</strong> The degree to which a surface tends upward or downward.<p><strong>Example:</strong> The road has a very sharp downward slope at that point.</p></li><li><strong>Definition 3:</strong> The ratio of the vertical and horizontal distances between two points on a line; zero if the line is horizontal, undefined if it is vertical.<p><strong>Example:</strong> The slope of this line is 0.5</p></li><li><strong>Definition 4:</strong> The slope of the line tangent to a curve at a given point.<p><strong>Example:</strong> The slope of a parabola increases linearly with x.</p></li><li><strong>Definition 5:</strong> The angle a roof surface makes with the horizontal, expressed as a ratio of the units of vertical rise to the units of horizontal length (sometimes referred to as run).<p><strong>Example:</strong> The slope of an asphalt shingle roof system should be 4:12 or greater.</p></li><li><strong>Definition 6:</strong> A person of Chinese or other East Asian descent.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tend steadily upward or downward.<p><strong>Example:</strong> The road slopes sharply down at that point.</p></li><li><strong>Definition 2:</strong> To form with a slope; to give an oblique or slanting direction to; to incline or slant.<p><strong>Example:</strong> to slope the ground in a garden;   to slope a piece of cloth in cutting a garment</p></li><li><strong>Definition 3:</strong> (usually followed by a preposition) To try to move surreptitiously.<p><strong>Example:</strong> I sloped in through the back door, hoping my boss wouldn't see me.</p></li><li><strong>Definition 4:</strong> To hold a rifle at a slope with forearm perpendicular to the body in front holding the butt, the rifle resting on the shoulder.<p><strong>Example:</strong> The order was given to \"slope arms\".</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sloping.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Slopingly</li></ul></div></div>"
+description: Yes, SLOPE is a valid Wordle word. It was the Wordle answer on December
+  23, 2023 (#917). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 23, 2023 (#917).
+past_answers:
+- date: '2023-12-23'
+  number: 917
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- elope
+- scope
+- shope
+- slipe
+- slops
+- slopy
+- slove
+- slype
+- stope
+anagrams:
+- elops
+- lopes
+- olpes
+- poles
+phonetic: "/sləʊp/"
+definitions:
+- pos: noun
+  defs:
+  - text: An area of ground that tends evenly upward or downward.
+    example: I had to climb a small slope to get to the site.
+  - text: The degree to which a surface tends upward or downward.
+    example: The road has a very sharp downward slope at that point.
+  - text: The ratio of the vertical and horizontal distances between two points on
+      a line; zero if the line is horizontal, undefined if it is vertical.
+    example: The slope of this line is 0.5
+  - text: The slope of the line tangent to a curve at a given point.
+    example: The slope of a parabola increases linearly with x.
+  - text: The angle a roof surface makes with the horizontal, expressed as a ratio
+      of the units of vertical rise to the units of horizontal length (sometimes referred
+      to as run).
+    example: The slope of an asphalt shingle roof system should be 4:12 or greater.
+  - text: A person of Chinese or other East Asian descent.
+- pos: verb
+  defs:
+  - text: To tend steadily upward or downward.
+    example: The road slopes sharply down at that point.
+  - text: To form with a slope; to give an oblique or slanting direction to; to incline
+      or slant.
+    example: to slope the ground in a garden;   to slope a piece of cloth in cutting
+      a garment
+  - text: "(usually followed by a preposition) To try to move surreptitiously."
+    example: I sloped in through the back door, hoping my boss wouldn't see me.
+  - text: To hold a rifle at a slope with forearm perpendicular to the body in front
+      holding the butt, the rifle resting on the shoulder.
+    example: The order was given to "slope arms".
+- pos: adjective
+  defs:
+  - text: Sloping.
+- pos: adverb
+  defs:
+  - text: Slopingly
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: amine
+title: Is AMINE a Wordle Word?
+head_title: Is AMINE a Wordle Word? Yes – Valid Guess & Meaning
 word: amine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈ.miːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A functional group formally derived from ammonia by replacing one, two or three hydrogen atoms with hydrocarbon or other radicals.</li><li><strong>Definition 2:</strong> Any organic compound containing an amine functional group.</li></ul></div></div>"
+description: Yes, AMINE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- aline
+- amene
+- amice
+- amide
+- amino
+- amins
+- avine
+- azine
+- imine
+anagrams:
+- anime
+- manie
+- minae
+phonetic: "/əˈ.miːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A functional group formally derived from ammonia by replacing one, two or
+      three hydrogen atoms with hydrocarbon or other radicals.
+  - text: Any organic compound containing an amine functional group.
 ---
-

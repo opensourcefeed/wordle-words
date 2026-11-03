@@ -1,7 +1,41 @@
 ---
 layout: word
-title: enemy
+title: Is ENEMY a Wordle Word?
+head_title: Is ENEMY a Wordle Word? Yes – Possible Answer & Meaning
 word: enemy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛnəmi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.<p><strong>Example:</strong> Crush the enemy!</p></li><li><strong>Definition 2:</strong> A hostile force or nation; a fighting member of such a force or nation.<p><strong>Example:</strong> Rally together against a common enemy.</p></li><li><strong>Definition 3:</strong> Something harmful or threatening to another</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make an enemy of.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, relating to, or belonging to an enemy</li></ul></div></div>"
+description: Yes, ENEMY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- enema
+phonetic: "/ˈɛnəmi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who is hostile to, feels hatred towards, opposes the interests of,
+      or intends injury to someone else.
+    example: Crush the enemy!
+  - text: A hostile force or nation; a fighting member of such a force or nation.
+    example: Rally together against a common enemy.
+  - text: Something harmful or threatening to another
+- pos: verb
+  defs:
+  - text: To make an enemy of.
+- pos: adjective
+  defs:
+  - text: Of, relating to, or belonging to an enemy
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: scaly
+title: Is SCALY a Wordle Word?
+head_title: Is SCALY a Wordle Word? Yes – Possible Answer & Meaning
 word: scaly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈskeɪli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The scaly yellowfish, Labeobarbus natalensis.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Covered or abounding with scales.<p><strong>Example:</strong> a scaly fish  a scaly stem</p></li><li><strong>Definition 2:</strong> Composed of scales lying over each other.<p><strong>Example:</strong> a scaly bulb</p></li><li><strong>Definition 3:</strong> Resembling scales, laminae, or layers.</li><li><strong>Definition 4:</strong> Low, mean.<p><strong>Example:</strong> a scaly fellow</p></li></ul></div></div>"
+description: Yes, SCALY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- scald
+- scale
+- scalp
+- scary
+- scala
+- scall
+- shaly
+- swaly
+anagrams:
+- acyls
+- clays
+trap:
+  pattern: SCAL_
+  count: 6
+phonetic: "/ˈskeɪli/"
+definitions:
+- pos: noun
+  defs:
+  - text: The scaly yellowfish, Labeobarbus natalensis.
+- pos: adjective
+  defs:
+  - text: Covered or abounding with scales.
+    example: a scaly fish  a scaly stem
+  - text: Composed of scales lying over each other.
+    example: a scaly bulb
+  - text: Resembling scales, laminae, or layers.
+  - text: Low, mean.
+    example: a scaly fellow
 ---
-

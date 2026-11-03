@@ -1,7 +1,37 @@
 ---
 layout: word
-title: culch
+title: Is CULCH a Wordle Word?
+head_title: Is CULCH a Wordle Word? Yes – Valid Guess & Meaning
 word: culch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The rocks, crushed shells, and other sea detritus that create an oyster bed, where oyster spawn can attach themselves.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare an oyster bed with such (culch) attachments.</li><li><strong>Definition 2:</strong> To accumulate small household items of little value.</li></ul></div></div>"
+description: Yes, CULCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- gulch
+- mulch
+- curch
+- cutch
+definitions:
+- pos: noun
+  defs:
+  - text: The rocks, crushed shells, and other sea detritus that create an oyster
+      bed, where oyster spawn can attach themselves.
+- pos: verb
+  defs:
+  - text: To prepare an oyster bed with such (culch) attachments.
+  - text: To accumulate small household items of little value.
 ---
-

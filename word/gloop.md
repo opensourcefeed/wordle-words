@@ -1,7 +1,38 @@
 ---
 layout: word
-title: gloop
+title: Is GLOOP a Wordle Word?
+head_title: Is GLOOP a Wordle Word? Yes – Valid Guess & Meaning
 word: gloop
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡluːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any gooey, viscous substance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flow like goo or goop, to move in a slushy way.</li><li><strong>Definition 2:</strong> To cover someone in gloop or goo.</li></ul></div></div>"
+description: Yes, GLOOP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- gloom
+- sloop
+- bloop
+- cloop
+phonetic: "/ɡluːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any gooey, viscous substance.
+- pos: verb
+  defs:
+  - text: To flow like goo or goop, to move in a slushy way.
+  - text: To cover someone in gloop or goo.
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: comic
+title: Is COMIC a Wordle Word?
+head_title: Is COMIC a Wordle Word? Yes – Possible Answer & Meaning
 word: comic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɒmɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A comedian.</li><li><strong>Definition 2:</strong> A story composed of cartoon images arranged in sequence, usually with textual captions; a graphic novel.</li><li><strong>Definition 3:</strong> A children's newspaper.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Funny; amusing; comical.</li><li><strong>Definition 2:</strong> Relating to comedy.<p><strong>Example:</strong> a comic stereotype</p></li></ul></div></div>"
+description: Yes, COMIC is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- conic
+- colic
+- comix
+- domic
+- nomic
+phonetic: "/ˈkɒmɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A comedian.
+  - text: A story composed of cartoon images arranged in sequence, usually with textual
+      captions; a graphic novel.
+  - text: A children's newspaper.
+- pos: adjective
+  defs:
+  - text: Funny; amusing; comical.
+  - text: Relating to comedy.
+    example: a comic stereotype
 ---
-

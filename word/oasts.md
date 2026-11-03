@@ -1,7 +1,52 @@
 ---
 layout: word
-title: oasts
+title: Is OASTS a Wordle Word?
+head_title: Is OASTS a Wordle Word? Yes – Valid Guess & Meaning
 word: oasts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kiln for drying tobacco, malt and especially hops.</li></ul></div></div>"
+description: Yes, OASTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- basts
+- casts
+- easts
+- fasts
+- gasts
+- lasts
+- masts
+- oases
+- oasis
+- ousts
+- pasts
+- vasts
+anagrams:
+- assot
+- stoas
+- tasso
+- tosas
+trap:
+  pattern: _ASTS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A kiln for drying tobacco, malt and especially hops.
 ---
-

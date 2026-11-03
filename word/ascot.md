@@ -1,7 +1,43 @@
 ---
 layout: word
-title: ascot
+title: Is ASCOT a Wordle Word?
+head_title: 'Is ASCOT a Wordle Word? Yes – Past Answer #971 & Meaning'
 word: ascot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Ascot tie</li></ul></div></div>"
+description: Yes, ASCOT is a valid Wordle word. It was the Wordle answer on February
+  15, 2024 (#971). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 15, 2024 (#971).
+past_answers:
+- date: '2024-02-15'
+  number: 971
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- ascon
+- assot
+- escot
+anagrams:
+- coast
+- atocs
+- coats
+- costa
+- octas
+- tacos
+definitions:
+- pos: noun
+  defs:
+  - text: Ascot tie
 ---
-

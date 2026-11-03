@@ -1,7 +1,64 @@
 ---
 layout: word
-title: hello
+title: Is HELLO a Wordle Word?
+head_title: 'Is HELLO a Wordle Word? Yes – Past Answer #783 & Meaning'
 word: hello
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> \"Hello!\" or an equivalent greeting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To greet with \"hello\".</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.<p><strong>Example:</strong> Hello, everyone.</p></li><li><strong>Definition 2:</strong> A greeting used when answering the telephone.<p><strong>Example:</strong> Hello? How may I help you?</p></li><li><strong>Definition 3:</strong> A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.<p><strong>Example:</strong> Hello? Is anyone there?</p></li><li><strong>Definition 4:</strong> Used sarcastically to imply that the person addressed or referred to has done something the speaker or writer considers to be foolish.<p><strong>Example:</strong> You just tried to start your car with your cell phone. Hello?</p></li><li><strong>Definition 5:</strong> An expression of puzzlement or discovery.<p><strong>Example:</strong> Hello! What’s going on here?</p></li></ul></div></div>"
+description: Yes, HELLO is a valid Wordle word. It was the Wordle answer on August
+  11, 2023 (#783). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 11, 2023 (#783).
+past_answers:
+- date: '2023-08-11'
+  number: 783
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- cello
+- bello
+- hallo
+- helio
+- hella
+- hells
+- helly
+- hillo
+- hollo
+- hullo
+- jello
+- rello
+definitions:
+- pos: noun
+  defs:
+  - text: '"Hello!" or an equivalent greeting.'
+- pos: verb
+  defs:
+  - text: To greet with "hello".
+- pos: interjection
+  defs:
+  - text: A greeting (salutation) said when meeting someone or acknowledging someone’s
+      arrival or presence.
+    example: Hello, everyone.
+  - text: A greeting used when answering the telephone.
+    example: Hello? How may I help you?
+  - text: A call for response if it is not clear if anyone is present or listening,
+      or if a telephone conversation may have been disconnected.
+    example: Hello? Is anyone there?
+  - text: Used sarcastically to imply that the person addressed or referred to has
+      done something the speaker or writer considers to be foolish.
+    example: You just tried to start your car with your cell phone. Hello?
+  - text: An expression of puzzlement or discovery.
+    example: Hello! What’s going on here?
 ---
-

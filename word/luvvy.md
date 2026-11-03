@@ -1,7 +1,32 @@
 ---
 layout: word
-title: luvvy
+title: Is LUVVY a Wordle Word?
+head_title: Is LUVVY a Wordle Word? Yes – Valid Guess & Meaning
 word: luvvy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An affectionate term of address.<p><strong>Example:</strong> Don't cry luvvy, everything will be OK.</p></li><li><strong>Definition 2:</strong> (sometimes derogatory) an actor or actress, especially a narcissistic and pretentious one.</li></ul></div></div>"
+description: Yes, LUVVY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - V
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- lavvy
+definitions:
+- pos: noun
+  defs:
+  - text: An affectionate term of address.
+    example: Don't cry luvvy, everything will be OK.
+  - text: "(sometimes derogatory) an actor or actress, especially a narcissistic and
+      pretentious one."
 ---
-

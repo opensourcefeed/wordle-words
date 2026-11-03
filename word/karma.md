@@ -1,7 +1,47 @@
 ---
 layout: word
-title: karma
+title: Is KARMA a Wordle Word?
+head_title: 'Is KARMA a Wordle Word? Yes – Past Answer #13 & Meaning'
 word: karma
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ˈkəɾm(ə)]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sum total of a person's actions, which determine the person's next incarnation in samsara, the cycle of death and rebirth.</li><li><strong>Definition 2:</strong> A force or law of nature which causes one to reap what one sows; destiny; fate.</li><li><strong>Definition 3:</strong> A distinctive feeling, aura, or atmosphere.</li><li><strong>Definition 4:</strong> (Reddit) A score assigned to a user of a discussion forum, indicating the popularity of their posts with other users.</li></ul></div></div>"
+description: Yes, KARMA is a valid Wordle word. It was the Wordle answer on July 2,
+  2021 (#13). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 2, 2021 (#13).
+past_answers:
+- date: '2021-07-02'
+  number: 13
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- kaama
+- kerma
+- korma
+- marma
+- parma
+anagrams:
+- makar
+- marka
+phonetic: "[ˈkəɾm(ə)]"
+definitions:
+- pos: noun
+  defs:
+  - text: The sum total of a person's actions, which determine the person's next incarnation
+      in samsara, the cycle of death and rebirth.
+  - text: A force or law of nature which causes one to reap what one sows; destiny;
+      fate.
+  - text: A distinctive feeling, aura, or atmosphere.
+  - text: "(Reddit) A score assigned to a user of a discussion forum, indicating the
+      popularity of their posts with other users."
 ---
-

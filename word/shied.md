@@ -1,7 +1,50 @@
 ---
 layout: word
-title: shied
+title: Is SHIED a Wordle Word?
+head_title: Is SHIED a Wordle Word? Yes – Possible Answer & Meaning
 word: shied
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To avoid due to timidness or caution.<p><strong>Example:</strong> I shy away from investment opportunities I don't understand.</p></li><li><strong>Definition 2:</strong> To jump back in fear.<p><strong>Example:</strong> The horse shied away from the rider, which startled him so much he shied away from the horse.</p></li><li><strong>Definition 3:</strong> To throw sideways with a jerk; to fling<p><strong>Example:</strong> shy a slipper</p></li></ul></div></div>"
+description: Yes, SHIED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- spied
+- shiel
+- shier
+- shies
+- shoed
+- shred
+- skied
+- snied
+- stied
+anagrams:
+- deshi
+- heids
+- hides
+- sidhe
+phonetic: "/ʃaɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To avoid due to timidness or caution.
+    example: I shy away from investment opportunities I don't understand.
+  - text: To jump back in fear.
+    example: The horse shied away from the rider, which startled him so much he shied
+      away from the horse.
+  - text: To throw sideways with a jerk; to fling
+    example: shy a slipper
 ---
-

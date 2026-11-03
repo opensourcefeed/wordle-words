@@ -1,7 +1,37 @@
 ---
 layout: word
-title: fumet
+title: Is FUMET a Wordle Word?
+head_title: Is FUMET a Wordle Word? Yes – Valid Guess & Meaning
 word: fumet
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of concentrated food stock that is added to sauces to enhance their flavour. Variations are fish fumet and mushroom fumet.</li><li><strong>Definition 2:</strong> A ragout of partridge and rabbit braised in wine.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The stench or high flavour of game or other meat when kept long.</li></ul></div></div>"
+description: Yes, FUMET is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- fumed
+- fumer
+- fumes
+definitions:
+- pos: noun
+  defs:
+  - text: A type of concentrated food stock that is added to sauces to enhance their
+      flavour. Variations are fish fumet and mushroom fumet.
+  - text: A ragout of partridge and rabbit braised in wine.
+- pos: noun
+  defs:
+  - text: The stench or high flavour of game or other meat when kept long.
 ---
-

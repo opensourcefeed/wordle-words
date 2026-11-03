@@ -1,7 +1,47 @@
 ---
 layout: word
-title: plaid
+title: Is PLAID a Wordle Word?
+head_title: 'Is PLAID a Wordle Word? Yes – Past Answer #1453 & Meaning'
 word: plaid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /plad/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of twilled woollen cloth, often with a tartan or chequered pattern.</li><li><strong>Definition 2:</strong> A length of such material used as a piece of clothing, formerly worn in the Scottish Highlands and other parts of northern Britain and remaining as an item of ceremonial dress worn by members of Scottish pipe bands.</li><li><strong>Definition 3:</strong> The typical chequered pattern of a plaid; tartan.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a pattern or colors which resemble a Scottish tartan; checkered or marked with bars or stripes at right angles to one another.</li></ul></div></div>"
+description: Yes, PLAID is a valid Wordle word. It was the Wordle answer on June 11,
+  2025 (#1453). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 11, 2025 (#1453).
+past_answers:
+- date: '2025-06-11'
+  number: 1453
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- plain
+- plait
+- plaig
+- plaud
+- slaid
+phonetic: "/plad/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of twilled woollen cloth, often with a tartan or chequered pattern.
+  - text: A length of such material used as a piece of clothing, formerly worn in
+      the Scottish Highlands and other parts of northern Britain and remaining as
+      an item of ceremonial dress worn by members of Scottish pipe bands.
+  - text: The typical chequered pattern of a plaid; tartan.
+- pos: adjective
+  defs:
+  - text: Having a pattern or colors which resemble a Scottish tartan; checkered or
+      marked with bars or stripes at right angles to one another.
 ---
-

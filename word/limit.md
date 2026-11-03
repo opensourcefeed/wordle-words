@@ -1,7 +1,58 @@
 ---
 layout: word
-title: limit
+title: Is LIMIT a Wordle Word?
+head_title: 'Is LIMIT a Wordle Word? Yes – Past Answer #871 & Meaning'
 word: limit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɪmt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A restriction; a bound beyond which one may not go.<p><strong>Example:</strong> There are several existing limits to executive power.</p></li><li><strong>Definition 2:</strong> A value to which a sequence converges. Equivalently, the common value of the upper limit and the lower limit of a sequence: if the upper and lower limits are different, then the sequence has no limit (i.e., does not converge).<p><strong>Example:</strong> The sequence of reciprocals has zero as its limit.</p></li><li><strong>Definition 3:</strong> Any of several abstractions of this concept of limit.<p><strong>Example:</strong> Category theory defines a very general concept of limit.</p></li><li><strong>Definition 4:</strong> The cone of a diagram through which any other cone of that same diagram can factor uniquely.</li><li><strong>Definition 5:</strong> Fixed limit.</li><li><strong>Definition 6:</strong> The final, utmost, or furthest point; the border or edge.<p><strong>Example:</strong> the limit of a walk, of a town, or of a country</p></li><li><strong>Definition 7:</strong> The space or thing defined by limits.</li><li><strong>Definition 8:</strong> That which terminates a period of time; hence, the period itself; the full time or extent.</li><li><strong>Definition 9:</strong> A restriction; a check or curb; a hindrance.</li><li><strong>Definition 10:</strong> A determining feature; a distinguishing characteristic.</li><li><strong>Definition 11:</strong> The first group of riders to depart in a handicap race.</li><li><strong>Definition 12:</strong> (as \"the limit\") A person who is exasperating, intolerable, astounding, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Being a fixed limit game.</li></ul></div></div>"
+description: Yes, LIMIT is a valid Wordle word. It was the Wordle answer on November
+  7, 2023 (#871). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 7, 2023 (#871).
+past_answers:
+- date: '2023-11-07'
+  number: 871
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - L
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- licit
+phonetic: "/ˈlɪmt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A restriction; a bound beyond which one may not go.
+    example: There are several existing limits to executive power.
+  - text: 'A value to which a sequence converges. Equivalently, the common value of
+      the upper limit and the lower limit of a sequence: if the upper and lower limits
+      are different, then the sequence has no limit (i.e., does not converge).'
+    example: The sequence of reciprocals has zero as its limit.
+  - text: Any of several abstractions of this concept of limit.
+    example: Category theory defines a very general concept of limit.
+  - text: The cone of a diagram through which any other cone of that same diagram
+      can factor uniquely.
+  - text: Fixed limit.
+  - text: The final, utmost, or furthest point; the border or edge.
+    example: the limit of a walk, of a town, or of a country
+  - text: The space or thing defined by limits.
+  - text: That which terminates a period of time; hence, the period itself; the full
+      time or extent.
+  - text: A restriction; a check or curb; a hindrance.
+  - text: A determining feature; a distinguishing characteristic.
+  - text: The first group of riders to depart in a handicap race.
+  - text: (as "the limit") A person who is exasperating, intolerable, astounding,
+      etc.
+- pos: adjective
+  defs:
+  - text: Being a fixed limit game.
 ---
-

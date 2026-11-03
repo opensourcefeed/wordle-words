@@ -1,7 +1,47 @@
 ---
 layout: word
-title: zacks
+title: Is ZACKS a Wordle Word?
+head_title: Is ZACKS a Wordle Word? Yes – Valid Guess & Meaning
 word: zacks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /zæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Sixpence.</li><li><strong>Definition 2:</strong> Five cents.</li><li><strong>Definition 3:</strong> A six-month or six-year prison sentence.</li></ul></div></div>"
+description: Yes, ZACKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- backs
+- cacks
+- dacks
+- hacks
+- jacks
+- kacks
+- lacks
+- macks
+- packs
+- racks
+- sacks
+- tacks
+trap:
+  pattern: _ACKS
+  count: 15
+phonetic: "/zæks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Sixpence.
+  - text: Five cents.
+  - text: A six-month or six-year prison sentence.
 ---
-

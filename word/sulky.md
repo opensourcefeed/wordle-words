@@ -1,7 +1,42 @@
 ---
 layout: word
-title: sulky
+title: Is SULKY a Wordle Word?
+head_title: 'Is SULKY a Wordle Word? Yes – Past Answer #682 & Meaning'
 word: sulky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A low two-wheeled cart, used in harness racing.</li><li><strong>Definition 2:</strong> Any carriage seating only the driver.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Silent and withdrawn after being upset<p><strong>Example:</strong> the sulky child</p></li></ul></div></div>"
+description: Yes, SULKY is a valid Wordle word. It was the Wordle answer on May 2,
+  2023 (#682). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 2, 2023 (#682).
+past_answers:
+- date: '2023-05-02'
+  number: 682
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- bulky
+- silky
+- sully
+- hulky
+- selky
+- sucky
+- sulks
+definitions:
+- pos: noun
+  defs:
+  - text: A low two-wheeled cart, used in harness racing.
+  - text: Any carriage seating only the driver.
+- pos: adjective
+  defs:
+  - text: Silent and withdrawn after being upset
+    example: the sulky child
 ---
-

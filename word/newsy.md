@@ -1,7 +1,33 @@
 ---
 layout: word
-title: newsy
+title: Is NEWSY a Wordle Word?
+head_title: Is NEWSY a Wordle Word? Yes – Valid Guess & Meaning
 word: newsy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A distributor of news; a newsagent.</li><li><strong>Definition 2:</strong> A journalist.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Containing lots of news; informative.</li><li><strong>Definition 2:</strong> Chatty, gossipy.</li></ul></div></div>"
+description: Yes, NEWSY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- newly
+definitions:
+- pos: noun
+  defs:
+  - text: A distributor of news; a newsagent.
+  - text: A journalist.
+- pos: adjective
+  defs:
+  - text: Containing lots of news; informative.
+  - text: Chatty, gossipy.
 ---
-

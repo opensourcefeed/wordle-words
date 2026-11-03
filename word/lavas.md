@@ -1,7 +1,49 @@
 ---
 layout: word
-title: lavas
+title: Is LAVAS a Wordle Word?
+head_title: Is LAVAS a Wordle Word? Yes – Valid Guess & Meaning
 word: lavas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The molten rock ejected by a volcano from its crater or fissured sides.</li><li><strong>Definition 2:</strong> Magma.</li><li><strong>Definition 3:</strong> A shade of red, named after the volcanic lava.</li></ul></div></div>"
+description: Yes, LAVAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- cavas
+- favas
+- javas
+- kavas
+- lamas
+- lanas
+- lapas
+- laval
+- laves
+- levas
+- pavas
+- tavas
+anagrams:
+- vasal
+trap:
+  pattern: _AVAS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The molten rock ejected by a volcano from its crater or fissured sides.
+  - text: Magma.
+  - text: A shade of red, named after the volcanic lava.
 ---
-

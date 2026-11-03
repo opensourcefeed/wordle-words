@@ -1,7 +1,59 @@
 ---
 layout: word
-title: weird
+title: Is WEIRD a Wordle Word?
+head_title: 'Is WEIRD a Wordle Word? Yes – Past Answer #1230 & Meaning'
 word: weird
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Fate; destiny; luck.</li><li><strong>Definition 2:</strong> A prediction.</li><li><strong>Definition 3:</strong> A spell or charm.</li><li><strong>Definition 4:</strong> That which comes to pass; a fact.</li><li><strong>Definition 5:</strong> (in the plural) The Fates (personified).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To destine; doom; change by witchcraft or sorcery.</li><li><strong>Definition 2:</strong> To warn solemnly; adjure.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having an unusually strange character or behaviour.<p><strong>Example:</strong> There are lots of weird people in this place.</p></li><li><strong>Definition 2:</strong> Deviating from the normal; bizarre.<p><strong>Example:</strong> It was quite weird to bump into all my ex-girlfriends on the same day.</p></li><li><strong>Definition 3:</strong> Of or pertaining to the Fates.</li><li><strong>Definition 4:</strong> Connected with fate or destiny; able to influence fate.</li><li><strong>Definition 5:</strong> Of or pertaining to witches or witchcraft; supernatural; unearthly; suggestive of witches, witchcraft, or unearthliness; wild; uncanny.</li><li><strong>Definition 6:</strong> Having supernatural or preternatural power.<p><strong>Example:</strong> There was a weird light shining above the hill.</p></li></ul></div></div>"
+description: Yes, WEIRD is a valid Wordle word. It was the Wordle answer on October
+  31, 2024 (#1230). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 31, 2024 (#1230).
+past_answers:
+- date: '2024-10-31'
+  number: 1230
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- reird
+- weirs
+anagrams:
+- wider
+- wired
+- wried
+definitions:
+- pos: noun
+  defs:
+  - text: Fate; destiny; luck.
+  - text: A prediction.
+  - text: A spell or charm.
+  - text: That which comes to pass; a fact.
+  - text: "(in the plural) The Fates (personified)."
+- pos: verb
+  defs:
+  - text: To destine; doom; change by witchcraft or sorcery.
+  - text: To warn solemnly; adjure.
+- pos: adjective
+  defs:
+  - text: Having an unusually strange character or behaviour.
+    example: There are lots of weird people in this place.
+  - text: Deviating from the normal; bizarre.
+    example: It was quite weird to bump into all my ex-girlfriends on the same day.
+  - text: Of or pertaining to the Fates.
+  - text: Connected with fate or destiny; able to influence fate.
+  - text: Of or pertaining to witches or witchcraft; supernatural; unearthly; suggestive
+      of witches, witchcraft, or unearthliness; wild; uncanny.
+  - text: Having supernatural or preternatural power.
+    example: There was a weird light shining above the hill.
 ---
-

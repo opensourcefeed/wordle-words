@@ -1,7 +1,48 @@
 ---
 layout: word
-title: triad
+title: Is TRIAD a Wordle Word?
+head_title: 'Is TRIAD a Wordle Word? Yes – Past Answer #171 & Meaning'
 word: triad
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtɹaɪ.æd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A grouping of three.</li><li><strong>Definition 2:</strong> A word of three syllables.</li><li><strong>Definition 3:</strong> A branch of a Chinese underground criminal society, mostly based in Hong Kong.</li><li><strong>Definition 4:</strong> On a CRT display, a group of three neighbouring phosphor dots, coloured green, red, and blue.</li><li><strong>Definition 5:</strong> A chord consisting of a root tone, the tone two degrees higher, and the tone four degrees higher in a given scale.</li></ul></div></div>"
+description: Yes, TRIAD is a valid Wordle word. It was the Wordle answer on December
+  7, 2021 (#171). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 7, 2021 (#171).
+past_answers:
+- date: '2021-12-07'
+  number: 171
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - I
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- tread
+- trial
+- tried
+- triac
+- trild
+- troad
+phonetic: "/ˈtɹaɪ.æd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A grouping of three.
+  - text: A word of three syllables.
+  - text: A branch of a Chinese underground criminal society, mostly based in Hong
+      Kong.
+  - text: On a CRT display, a group of three neighbouring phosphor dots, coloured
+      green, red, and blue.
+  - text: A chord consisting of a root tone, the tone two degrees higher, and the
+      tone four degrees higher in a given scale.
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: ambos
+title: Is AMBOS a Wordle Word?
+head_title: Is AMBOS a Wordle Word? Yes – Valid Guess & Meaning
 word: ambos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A raised platform in an early Christian church, as well as in the Eastern Orthodox, Oriental Orthodox, and Eastern Catholic churches.<p><strong>Example:</strong> 1918, ‘It will get better somehow,’ he thought, and went to the ambo. On going up the steps and turning to the right he saw the priest. — Leo Tolstoy, Anna Karenina, tr. Louise & Aylmer Maude (Oxford 1998, page 438)</p></li><li><strong>Definition 2:</strong> A stationary podium used for readings and homilies.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ambulance driver.</li><li><strong>Definition 2:</strong> An ambulance.</li></ul></div></div>"
+description: Yes, AMBOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- ammos
+- imbos
+- umbos
+anagrams:
+- bomas
+definitions:
+- pos: noun
+  defs:
+  - text: A raised platform in an early Christian church, as well as in the Eastern
+      Orthodox, Oriental Orthodox, and Eastern Catholic churches.
+    example: 1918, ‘It will get better somehow,’ he thought, and went to the ambo.
+      On going up the steps and turning to the right he saw the priest. — Leo Tolstoy,
+      Anna Karenina, tr. Louise & Aylmer Maude (Oxford 1998, page 438)
+  - text: A stationary podium used for readings and homilies.
+- pos: noun
+  defs:
+  - text: An ambulance driver.
+  - text: An ambulance.
 ---
-

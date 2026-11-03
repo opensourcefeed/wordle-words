@@ -1,7 +1,52 @@
 ---
 layout: word
-title: ramen
+title: Is RAMEN a Wordle Word?
+head_title: 'Is RAMEN a Wordle Word? Yes – Past Answer #707 & Meaning'
 word: ramen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Soup noodles of wheat, with various ingredients (Japanese style)</li><li><strong>Definition 2:</strong> A type of instant noodles.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> (Pastafarianism) amen</li></ul></div></div>"
+description: Yes, RAMEN is a valid Wordle word. It was the Wordle answer on May 27,
+  2023 (#707). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 27, 2023 (#707).
+past_answers:
+- date: '2023-05-27'
+  number: 707
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- raven
+- ramee
+- rames
+- ramet
+- ramin
+- ramon
+- remen
+- rumen
+- samen
+- yamen
+anagrams:
+- enarm
+- namer
+- neram
+- reman
+definitions:
+- pos: noun
+  defs:
+  - text: Soup noodles of wheat, with various ingredients (Japanese style)
+  - text: A type of instant noodles.
+- pos: adverb
+  defs:
+  - text: "(Pastafarianism) amen"
 ---
-

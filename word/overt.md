@@ -1,7 +1,41 @@
 ---
 layout: word
-title: overt
+title: Is OVERT a Wordle Word?
+head_title: 'Is OVERT a Wordle Word? Yes – Past Answer #1040 & Meaning'
 word: overt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ə(ʊ)ˈvɜːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Open and not concealed or secret.</li></ul></div></div>"
+description: Yes, OVERT is a valid Wordle word. It was the Wordle answer on April
+  24, 2024 (#1040). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 24, 2024 (#1040).
+past_answers:
+- date: '2024-04-24'
+  number: 1040
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- avert
+- evert
+- overs
+anagrams:
+- trove
+- voter
+phonetic: "/ə(ʊ)ˈvɜːt/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Open and not concealed or secret.
 ---
-

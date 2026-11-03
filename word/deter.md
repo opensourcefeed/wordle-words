@@ -1,7 +1,44 @@
 ---
 layout: word
-title: deter
+title: Is DETER a Wordle Word?
+head_title: 'Is DETER a Wordle Word? Yes – Past Answer #1089 & Meaning'
 word: deter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɪˈtɜː(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prevent something from happening.</li><li><strong>Definition 2:</strong> To persuade someone not to do something; to discourage.</li><li><strong>Definition 3:</strong> To distract someone from something.</li></ul></div></div>"
+description: Yes, DETER is a valid Wordle word. It was the Wordle answer on June 12,
+  2024 (#1089). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 12, 2024 (#1089).
+past_answers:
+- date: '2024-06-12'
+  number: 1089
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - T
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- defer
+- meter
+- dater
+- doter
+- peter
+- seter
+anagrams:
+- treed
+phonetic: "/dɪˈtɜː(ɹ)/"
+definitions:
+- pos: verb
+  defs:
+  - text: To prevent something from happening.
+  - text: To persuade someone not to do something; to discourage.
+  - text: To distract someone from something.
 ---
-

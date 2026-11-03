@@ -1,7 +1,50 @@
 ---
 layout: word
-title: keeks
+title: Is KEEKS a Wordle Word?
+head_title: Is KEEKS a Wordle Word? Yes – Valid Guess & Meaning
 word: keeks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A look, especially a quick one; a peek.<p><strong>Example:</strong> She had a keek at the boy seated behind her who was busily writing something.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To peek; peep.<p><strong>Example:</strong> The man keeked over the fence.</p></li></ul></div></div>"
+description: Yes, KEEKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - K
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- geeks
+- kecks
+- keefs
+- keels
+- keens
+- keeps
+- keets
+- leeks
+- peeks
+- reeks
+- seeks
+- weeks
+trap:
+  pattern: _EEKS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A look, especially a quick one; a peek.
+    example: She had a keek at the boy seated behind her who was busily writing something.
+- pos: verb
+  defs:
+  - text: To peek; peep.
+    example: The man keeked over the fence.
 ---
-

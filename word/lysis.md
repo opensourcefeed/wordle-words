@@ -1,7 +1,38 @@
 ---
 layout: word
-title: lysis
+title: Is LYSIS a Wordle Word?
+head_title: Is LYSIS a Wordle Word? Yes – Valid Guess & Meaning
 word: lysis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlaɪsɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gradual recovery from disease (opposed to crisis).</li><li><strong>Definition 2:</strong> The disintegration or destruction of cells</li><li><strong>Definition 3:</strong> The breakdown of molecules into constituent molecules</li><li><strong>Definition 4:</strong> A plinth or step above the cornice of the podium in an ancient temple.</li></ul></div></div>"
+description: Yes, LYSIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- lyses
+- lysin
+anagrams:
+- sylis
+phonetic: "/ˈlaɪsɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A gradual recovery from disease (opposed to crisis).
+  - text: The disintegration or destruction of cells
+  - text: The breakdown of molecules into constituent molecules
+  - text: A plinth or step above the cornice of the podium in an ancient temple.
 ---
-

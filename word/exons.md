@@ -1,7 +1,39 @@
 ---
 layout: word
-title: exons
+title: Is EXONS a Wordle Word?
+head_title: Is EXONS a Wordle Word? Yes – Valid Guess & Meaning
 word: exons
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛksɒnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An officer of the Queen's Body Guard of the Yeomen of the Guard.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A region of a transcribed gene present in the final functional RNA molecule.</li></ul></div></div>"
+description: Yes, EXONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare:
+  - X
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- axons
+- ebons
+anagrams:
+- noxes
+phonetic: "/ˈɛksɒnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An officer of the Queen's Body Guard of the Yeomen of the Guard.
+- pos: noun
+  defs:
+  - text: A region of a transcribed gene present in the final functional RNA molecule.
 ---
-

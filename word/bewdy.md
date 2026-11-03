@@ -1,7 +1,52 @@
 ---
 layout: word
-title: bewdy
+title: Is BEWDY a Wordle Word?
+head_title: Is BEWDY a Wordle Word? Yes – Valid Guess & Meaning
 word: bewdy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The quality of being (especially visually) attractive, pleasing, fine or good-looking; comeliness.<p><strong>Example:</strong> 1988, \"… beauty and recollection, like danger, glamour, greed, hunger- everything but disappointment and desire- were concepts belonging to other people.” -Second Son, Robert Ferro</p></li><li><strong>Definition 2:</strong> Someone who is beautiful.<p><strong>Example:</strong> Brigitte Bardot was a renowned beauty.</p></li><li><strong>Definition 3:</strong> Something that is particularly good or pleasing.<p><strong>Example:</strong> What a goal! That was a real beauty!</p></li><li><strong>Definition 4:</strong> An excellent or egregious example of something.</li><li><strong>Definition 5:</strong> (with the definite article) The excellence or genius of a scheme or decision.<p><strong>Example:</strong> The beauty of the deal is it costs nothing!</p></li><li><strong>Definition 6:</strong> A beauty quark (now called bottom quark).</li><li><strong>Definition 7:</strong> Beauty treatment; cosmetology.</li><li><strong>Definition 8:</strong> Prevailing style or taste; rage; fashion.</li><li><strong>Definition 9:</strong> (in the plural) Beautiful passages or extracts of poetry.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A beauty: a beautiful person or thing; an especially good example of something.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Used to express enthusiasm, pleasure or approval.<p><strong>Example:</strong> I scored us a couple of tickets to the match on Saturday. — Bewdy, mate!</p></li></ul></div></div>"
+description: Yes, BEWDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- bawdy
+- beady
+- bendy
+definitions:
+- pos: noun
+  defs:
+  - text: The quality of being (especially visually) attractive, pleasing, fine or
+      good-looking; comeliness.
+    example: 1988, "… beauty and recollection, like danger, glamour, greed, hunger-
+      everything but disappointment and desire- were concepts belonging to other people.”
+      -Second Son, Robert Ferro
+  - text: Someone who is beautiful.
+    example: Brigitte Bardot was a renowned beauty.
+  - text: Something that is particularly good or pleasing.
+    example: What a goal! That was a real beauty!
+  - text: An excellent or egregious example of something.
+  - text: "(with the definite article) The excellence or genius of a scheme or decision."
+    example: The beauty of the deal is it costs nothing!
+  - text: A beauty quark (now called bottom quark).
+  - text: Beauty treatment; cosmetology.
+  - text: Prevailing style or taste; rage; fashion.
+  - text: "(in the plural) Beautiful passages or extracts of poetry."
+- pos: noun
+  defs:
+  - text: 'A beauty: a beautiful person or thing; an especially good example of something.'
+- pos: interjection
+  defs:
+  - text: Used to express enthusiasm, pleasure or approval.
+    example: I scored us a couple of tickets to the match on Saturday. — Bewdy, mate!
 ---
-

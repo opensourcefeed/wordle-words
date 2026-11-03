@@ -1,7 +1,48 @@
 ---
 layout: word
-title: mount
+title: Is MOUNT a Wordle Word?
+head_title: 'Is MOUNT a Wordle Word? Yes – Past Answer #222 & Meaning'
 word: mount
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /maʊnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hill or mountain.</li><li><strong>Definition 2:</strong> Any of seven fleshy prominences in the palm of the hand, taken to represent the influences of various heavenly bodies.<p><strong>Example:</strong> the mount of Jupiter</p></li><li><strong>Definition 3:</strong> A bulwark for offence or defence; a mound.</li><li><strong>Definition 4:</strong> A bank; a fund.</li><li><strong>Definition 5:</strong> A green hillock in the base of a shield.</li></ul></div></div>"
+description: Yes, MOUNT is a valid Wordle word. It was the Wordle answer on January
+  27, 2022 (#222). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 27, 2022 (#222).
+past_answers:
+- date: '2022-01-27'
+  number: 222
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- count
+- moult
+- mound
+- fount
+- maunt
+- moust
+anagrams:
+- muton
+- notum
+phonetic: "/maʊnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hill or mountain.
+  - text: Any of seven fleshy prominences in the palm of the hand, taken to represent
+      the influences of various heavenly bodies.
+    example: the mount of Jupiter
+  - text: A bulwark for offence or defence; a mound.
+  - text: A bank; a fund.
+  - text: A green hillock in the base of a shield.
 ---
-

@@ -1,7 +1,58 @@
 ---
 layout: word
-title: gully
+title: Is GULLY a Wordle Word?
+head_title: 'Is GULLY a Wordle Word? Yes – Past Answer #441 & Meaning'
 word: gully
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡʌli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A trench, ravine or narrow channel which was worn by water flow, especially on a hillside.</li><li><strong>Definition 2:</strong> A small valley.</li><li><strong>Definition 3:</strong> A drop kerb.</li><li><strong>Definition 4:</strong> A road drain.</li><li><strong>Definition 5:</strong> A fielding position on the off side about 30 degrees behind square, between the slips and point; a fielder in such a position</li><li><strong>Definition 6:</strong> A grooved iron rail or tram plate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flow noisily.</li><li><strong>Definition 2:</strong> To wear away into a gully or gullies.</li></ul></div></div>"
+description: Yes, GULLY is a valid Wordle word. It was the Wordle answer on September
+  3, 2022 (#441). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 3, 2022 (#441).
+past_answers:
+- date: '2022-09-03'
+  number: 441
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- bully
+- dully
+- fully
+- golly
+- sully
+- cully
+- gally
+- gelly
+- gilly
+- gulfy
+- gulls
+- gulpy
+trap:
+  pattern: _ULLY
+  count: 10
+phonetic: "/ˈɡʌli/"
+definitions:
+- pos: noun
+  defs:
+  - text: A trench, ravine or narrow channel which was worn by water flow, especially
+      on a hillside.
+  - text: A small valley.
+  - text: A drop kerb.
+  - text: A road drain.
+  - text: A fielding position on the off side about 30 degrees behind square, between
+      the slips and point; a fielder in such a position
+  - text: A grooved iron rail or tram plate.
+- pos: verb
+  defs:
+  - text: To flow noisily.
+  - text: To wear away into a gully or gullies.
 ---
-

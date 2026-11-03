@@ -1,7 +1,56 @@
 ---
 layout: word
-title: claim
+title: Is CLAIM a Wordle Word?
+head_title: Is CLAIM a Wordle Word? Yes – Possible Answer & Meaning
 word: claim
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kleɪm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A demand of ownership made for something.<p><strong>Example:</strong> a claim of ownership</p></li><li><strong>Definition 2:</strong> The thing claimed.</li><li><strong>Definition 3:</strong> The right or ground of demanding.<p><strong>Example:</strong> You don't have any claim on my time, since I'm no longer your employee.</p></li><li><strong>Definition 4:</strong> A new statement of something one believes to be the truth, usually when the statement has yet to be verified or without valid evidence provided.<p><strong>Example:</strong> The company's share price dropped amid claims of accounting fraud.</p></li><li><strong>Definition 5:</strong> A demand of ownership for previously unowned land.<p><strong>Example:</strong> Miners had to stake their claims during the gold rush.</p></li><li><strong>Definition 6:</strong> A legal demand for compensation or damages.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To demand ownership of.</li><li><strong>Definition 2:</strong> To state a new fact, typically without providing evidence to prove it is true.</li><li><strong>Definition 3:</strong> To demand ownership or right to use for land.</li><li><strong>Definition 4:</strong> To demand compensation or damages through the courts.</li><li><strong>Definition 5:</strong> To be entitled to anything; to deduce a right or title; to have a claim.</li><li><strong>Definition 6:</strong> To cause the loss of, usually by violent means.<p><strong>Example:</strong> A fire claimed two homes.</p></li><li><strong>Definition 7:</strong> To proclaim.</li><li><strong>Definition 8:</strong> To call or name.</li></ul></div></div>"
+description: Yes, CLAIM is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- clair
+anagrams:
+- malic
+phonetic: "/kleɪm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A demand of ownership made for something.
+    example: a claim of ownership
+  - text: The thing claimed.
+  - text: The right or ground of demanding.
+    example: You don't have any claim on my time, since I'm no longer your employee.
+  - text: A new statement of something one believes to be the truth, usually when
+      the statement has yet to be verified or without valid evidence provided.
+    example: The company's share price dropped amid claims of accounting fraud.
+  - text: A demand of ownership for previously unowned land.
+    example: Miners had to stake their claims during the gold rush.
+  - text: A legal demand for compensation or damages.
+- pos: verb
+  defs:
+  - text: To demand ownership of.
+  - text: To state a new fact, typically without providing evidence to prove it is
+      true.
+  - text: To demand ownership or right to use for land.
+  - text: To demand compensation or damages through the courts.
+  - text: To be entitled to anything; to deduce a right or title; to have a claim.
+  - text: To cause the loss of, usually by violent means.
+    example: A fire claimed two homes.
+  - text: To proclaim.
+  - text: To call or name.
 ---
-

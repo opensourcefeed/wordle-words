@@ -1,7 +1,44 @@
 ---
 layout: word
-title: bumpy
+title: Is BUMPY a Wordle Word?
+head_title: 'Is BUMPY a Wordle Word? Yes – Past Answer #1939 & Meaning'
 word: bumpy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʌmpi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Rough; jumpy; causing or characterized by jolts and irregular movements</li><li><strong>Definition 2:</strong> Covered with or full of bumps</li></ul></div></div>"
+description: Yes, BUMPY is a valid Wordle word. It was the Wordle answer on October
+  10, 2026 (#1939). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 10, 2026 (#1939).
+past_answers:
+- date: '2026-10-10'
+  number: 1939
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- dumpy
+- jumpy
+- lumpy
+- bumph
+- bumps
+- buppy
+- humpy
+- pumpy
+- rumpy
+- tumpy
+trap:
+  pattern: _UMPY
+  count: 8
+phonetic: "/ˈbʌmpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Rough; jumpy; causing or characterized by jolts and irregular movements
+  - text: Covered with or full of bumps
 ---
-

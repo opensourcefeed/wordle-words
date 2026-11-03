@@ -1,7 +1,52 @@
 ---
 layout: word
-title: merge
+title: Is MERGE a Wordle Word?
+head_title: 'Is MERGE a Wordle Word? Yes – Past Answer #1025 & Meaning'
 word: merge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɜːdʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The joining together of multiple sources.<p><strong>Example:</strong> The merge of the two documents failed.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To combine into a whole.<p><strong>Example:</strong> Headquarters merged the operations of the three divisions.</p></li><li><strong>Definition 2:</strong> To combine into a whole.<p><strong>Example:</strong> The two companies merged.</p></li><li><strong>Definition 3:</strong> To blend gradually into something else.<p><strong>Example:</strong> The lanes of traffic merged.</p></li></ul></div></div>"
+description: Yes, MERGE is a valid Wordle word. It was the Wordle answer on April
+  9, 2024 (#1025). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 9, 2024 (#1025).
+past_answers:
+- date: '2024-04-09'
+  number: 1025
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- verge
+- cerge
+- marge
+- menge
+- merde
+- merle
+- merse
+- serge
+anagrams:
+- emerg
+phonetic: "/mɜːdʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The joining together of multiple sources.
+    example: The merge of the two documents failed.
+- pos: verb
+  defs:
+  - text: To combine into a whole.
+    example: Headquarters merged the operations of the three divisions.
+  - text: To combine into a whole.
+    example: The two companies merged.
+  - text: To blend gradually into something else.
+    example: The lanes of traffic merged.
 ---
-

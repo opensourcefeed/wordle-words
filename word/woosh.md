@@ -1,7 +1,38 @@
 ---
 layout: word
-title: woosh
+title: Is WOOSH a Wordle Word?
+head_title: Is WOOSH a Wordle Word? Yes – Valid Guess & Meaning
 word: woosh
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A breathy sound like that of an object passing at high speed.<p><strong>Example:</strong> \"I love deadlines. I like the whooshing sound they make as they fly by.\" —Douglas Adams</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a breathy sound like a whoosh.</li></ul></div></div>"
+description: Yes, WOOSH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- hoosh
+- woose
+anagrams:
+- howso
+- whoso
+definitions:
+- pos: noun
+  defs:
+  - text: A breathy sound like that of an object passing at high speed.
+    example: '"I love deadlines. I like the whooshing sound they make as they fly
+      by." —Douglas Adams'
+- pos: verb
+  defs:
+  - text: To make a breathy sound like a whoosh.
 ---
-

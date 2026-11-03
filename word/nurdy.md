@@ -1,7 +1,37 @@
 ---
 layout: word
-title: nurdy
+title: Is NURDY a Wordle Word?
+head_title: Is NURDY a Wordle Word? Yes – Valid Guess & Meaning
 word: nurdy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of a person) Being or like a nerd.<p><strong>Example:</strong> That guy is nerdy and weird.</p></li><li><strong>Definition 2:</strong> (of a quality or interest) Of, pertaining to, in the style of, or appealing to nerds.<p><strong>Example:</strong> I got a pair of nerdy glasses and clothes for Halloween.</p></li></ul></div></div>"
+description: Yes, NURDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- nerdy
+- curdy
+- gurdy
+- nuddy
+- nurds
+- purdy
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of a person) Being or like a nerd."
+    example: That guy is nerdy and weird.
+  - text: "(of a quality or interest) Of, pertaining to, in the style of, or appealing
+      to nerds."
+    example: I got a pair of nerdy glasses and clothes for Halloween.
 ---
-

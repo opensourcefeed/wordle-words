@@ -1,7 +1,53 @@
 ---
 layout: word
-title: glops
+title: Is GLOPS a Wordle Word?
+head_title: Is GLOPS a Wordle Word? Yes – Valid Guess & Meaning
 word: glops
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stare in amazement.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any gooey substance.</li><li><strong>Definition 2:</strong> A gooey blob of some substance.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apply (a liquid) thickly and messily.</li><li><strong>Definition 2:</strong> To swallow greedily.</li></ul></div></div>"
+description: Yes, GLOPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- gloss
+- clops
+- elops
+- flops
+- globs
+- gloms
+- glows
+- goops
+- plops
+- slops
+anagrams:
+- golps
+- splog
+trap:
+  pattern: _LOPS
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To stare in amazement.
+- pos: noun
+  defs:
+  - text: Any gooey substance.
+  - text: A gooey blob of some substance.
+- pos: verb
+  defs:
+  - text: To apply (a liquid) thickly and messily.
+  - text: To swallow greedily.
 ---
-

@@ -1,7 +1,33 @@
 ---
 layout: word
-title: kurta
+title: Is KURTA a Wordle Word?
+head_title: Is KURTA a Wordle Word? Yes – Valid Guess & Meaning
 word: kurta
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A traditional article of clothing worn in Afghanistan, Bangladesh, India, Pakistan, and Sri Lanka, consisting of a loose, collarless, long-sleeved, knee-length shirt worn by both men and women.</li></ul></div></div>"
+description: Yes, KURTA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - T
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- yurta
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional article of clothing worn in Afghanistan, Bangladesh, India,
+      Pakistan, and Sri Lanka, consisting of a loose, collarless, long-sleeved, knee-length
+      shirt worn by both men and women.
 ---
-

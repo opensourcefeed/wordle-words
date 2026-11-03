@@ -1,7 +1,91 @@
 ---
 layout: word
-title: fines
+title: Is FINES a Wordle Word?
+head_title: Is FINES a Wordle Word? Yes – Valid Guess & Meaning
 word: fines
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Fine champagne; French brandy.</li><li><strong>Definition 2:</strong> (usually in the plural) Something that is fine; fine particles.<p><strong>Example:</strong> They filtered silt and fines out of the soil.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make finer, purer, or cleaner; to purify or clarify.<p><strong>Example:</strong> to fine gold</p></li><li><strong>Definition 2:</strong> To become finer, purer, or cleaner.</li><li><strong>Definition 3:</strong> To make finer, or less coarse, as in bulk, texture, etc.<p><strong>Example:</strong> to fine the soil</p></li><li><strong>Definition 4:</strong> To change by fine gradations.<p><strong>Example:</strong> to fine down a ship's lines, i.e. to diminish her lines gradually</p></li><li><strong>Definition 5:</strong> To clarify (wine and beer) by filtration.</li><li><strong>Definition 6:</strong> To become gradually fine; to diminish; to dwindle (with away, down, or off).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fee levied as punishment for breaking the law.<p><strong>Example:</strong> The fine for jay-walking has gone from two dollars to thirty in the last fifteen years.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To issue a fine as punishment to (someone).<p><strong>Example:</strong> She was fined a thousand dollars for littering, but she appealed.</p></li><li><strong>Definition 2:</strong> To pay a fine.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The end of a musical composition.</li><li><strong>Definition 2:</strong> The location in a musical score that indicates the end of the piece, particularly when the piece ends somewhere in the middle of the score due to a section of the music being repeated.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> End; conclusion; termination; extinction.</li><li><strong>Definition 2:</strong> A final agreement concerning lands or rents between persons, as the lord and his vassal.</li><li><strong>Definition 3:</strong> A sum of money or price paid for obtaining a benefit, favor, or privilege, as for admission to a copyhold, or for obtaining or renewing a lease.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To finish; to cease.</li><li><strong>Definition 2:</strong> To cause to cease; to stop.</li></ul></div></div>"
+description: Yes, FINES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- finer
+- bines
+- cines
+- dines
+- fanes
+- fices
+- fides
+- fifes
+- fikes
+- files
+- finds
+- fined
+anagrams:
+- fenis
+- neifs
+- niefs
+- nifes
+trap:
+  pattern: _INES
+  count: 15
+phonetic: "/faɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Fine champagne; French brandy.
+  - text: "(usually in the plural) Something that is fine; fine particles."
+    example: They filtered silt and fines out of the soil.
+- pos: verb
+  defs:
+  - text: To make finer, purer, or cleaner; to purify or clarify.
+    example: to fine gold
+  - text: To become finer, purer, or cleaner.
+  - text: To make finer, or less coarse, as in bulk, texture, etc.
+    example: to fine the soil
+  - text: To change by fine gradations.
+    example: to fine down a ship's lines, i.e. to diminish her lines gradually
+  - text: To clarify (wine and beer) by filtration.
+  - text: To become gradually fine; to diminish; to dwindle (with away, down, or off).
+- pos: noun
+  defs:
+  - text: A fee levied as punishment for breaking the law.
+    example: The fine for jay-walking has gone from two dollars to thirty in the last
+      fifteen years.
+- pos: verb
+  defs:
+  - text: To issue a fine as punishment to (someone).
+    example: She was fined a thousand dollars for littering, but she appealed.
+  - text: To pay a fine.
+- pos: noun
+  defs:
+  - text: The end of a musical composition.
+  - text: The location in a musical score that indicates the end of the piece, particularly
+      when the piece ends somewhere in the middle of the score due to a section of
+      the music being repeated.
+- pos: noun
+  defs:
+  - text: End; conclusion; termination; extinction.
+  - text: A final agreement concerning lands or rents between persons, as the lord
+      and his vassal.
+  - text: A sum of money or price paid for obtaining a benefit, favor, or privilege,
+      as for admission to a copyhold, or for obtaining or renewing a lease.
+- pos: verb
+  defs:
+  - text: To finish; to cease.
+  - text: To cause to cease; to stop.
 ---
-

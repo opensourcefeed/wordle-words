@@ -1,7 +1,61 @@
 ---
 layout: word
-title: under
+title: Is UNDER a Wordle Word?
+head_title: 'Is UNDER a Wordle Word? Yes – Past Answer #660 & Meaning'
 word: under
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʊndə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Being lower; being beneath something.</li><li><strong>Definition 2:</strong> Under anesthesia, especially general anesthesia; sedated.<p><strong>Example:</strong> Ensure the patient is sufficiently under.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a way lower or less than.</li><li><strong>Definition 2:</strong> In a way inferior to.</li><li><strong>Definition 3:</strong> In an unconscious state.<p><strong>Example:</strong> It took the hypnotist several minutes to make his subject go under.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> In or at a lower level than.</li><li><strong>Definition 2:</strong> As a subject of; subordinate to.<p><strong>Example:</strong> He served in World War II under General Omar Bradley.</p></li><li><strong>Definition 3:</strong> Less than.</li><li><strong>Definition 4:</strong> Below the surface of.</li><li><strong>Definition 5:</strong> In the face of; in response to (some attacking force).<p><strong>Example:</strong> to collapse under stress; to give in under interrogation</p></li><li><strong>Definition 6:</strong> As, in the character of.<p><strong>Example:</strong> he writes books under the name John Smith</p></li></ul></div></div>"
+description: Yes, UNDER is a valid Wordle word. It was the Wordle answer on April
+  10, 2023 (#660). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 10, 2023 (#660).
+past_answers:
+- date: '2023-04-10'
+  number: 660
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- udder
+- ender
+- undee
+anagrams:
+- nuder
+- rendu
+- runed
+- unred
+- urned
+phonetic: "/ˈʊndə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Being lower; being beneath something.
+  - text: Under anesthesia, especially general anesthesia; sedated.
+    example: Ensure the patient is sufficiently under.
+- pos: adverb
+  defs:
+  - text: In a way lower or less than.
+  - text: In a way inferior to.
+  - text: In an unconscious state.
+    example: It took the hypnotist several minutes to make his subject go under.
+- pos: preposition
+  defs:
+  - text: In or at a lower level than.
+  - text: As a subject of; subordinate to.
+    example: He served in World War II under General Omar Bradley.
+  - text: Less than.
+  - text: Below the surface of.
+  - text: In the face of; in response to (some attacking force).
+    example: to collapse under stress; to give in under interrogation
+  - text: As, in the character of.
+    example: he writes books under the name John Smith
 ---
-

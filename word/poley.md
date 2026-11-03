@@ -1,7 +1,47 @@
 ---
 layout: word
-title: poley
+title: Is POLEY a Wordle Word?
+head_title: Is POLEY a Wordle Word? Yes – Valid Guess & Meaning
 word: poley
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Without horns; polled.</li></ul></div></div>"
+description: Yes, POLEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- coley
+- doley
+- foley
+- holey
+- moley
+- piley
+- pogey
+- pokey
+- poled
+- poler
+- poles
+- polly
+anagrams:
+- ploye
+trap:
+  pattern: PO_EY
+  count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: Without horns; polled.
 ---
-

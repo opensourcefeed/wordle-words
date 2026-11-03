@@ -1,7 +1,71 @@
 ---
 layout: word
-title: fresh
+title: Is FRESH a Wordle Word?
+head_title: 'Is FRESH a Wordle Word? Yes – Past Answer #22 & Meaning'
 word: fresh
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɹɛʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rush of water, along a river or onto the land; a flood.</li><li><strong>Definition 2:</strong> A stream or spring of fresh water.</li><li><strong>Definition 3:</strong> The mingling of fresh water with salt in rivers or bays, as by means of a flood of fresh water flowing toward or into the sea.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (commercial fishing) To pack (fish) loosely on ice.</li><li><strong>Definition 2:</strong> To flood or dilute an area of salt water with flowing fresh water.</li><li><strong>Definition 3:</strong> (of wind) To become stronger.</li><li><strong>Definition 4:</strong> To rebore the barrel of a rifle or shotgun.</li><li><strong>Definition 5:</strong> To update.</li><li><strong>Definition 6:</strong> To freshen up.</li><li><strong>Definition 7:</strong> To renew.</li><li><strong>Definition 8:</strong> (of a dairy cow) to give birth to a calf.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Newly produced or obtained; recent.<p><strong>Example:</strong> He followed the fresh hoofprints to find the deer.</p></li><li><strong>Definition 2:</strong> (of food) Not cooked, dried, frozen, or spoiled.<p><strong>Example:</strong> After taking a beating in the boxing ring, the left side of his face looked like fresh meat.</p></li><li><strong>Definition 3:</strong> (of plant material) Still green and not dried.</li><li><strong>Definition 4:</strong> Invigoratingly cool and refreshing.<p><strong>Example:</strong> What a nice fresh breeze.</p></li><li><strong>Definition 5:</strong> (of water) Without salt; not saline.<p><strong>Example:</strong> After a day at sea it was good to feel the fresh water of the stream.</p></li><li><strong>Definition 6:</strong> Rested; not tired or fatigued.</li><li><strong>Definition 7:</strong> In a raw or untried state; uncultured; unpracticed.<p><strong>Example:</strong> a fresh hand on a ship</p></li><li><strong>Definition 8:</strong> Youthful; florid.</li><li><strong>Definition 9:</strong> Good, fashionable.<p><strong>Example:</strong> a fresh pair of sneakers</p></li><li><strong>Definition 10:</strong> Tipsy; drunk.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Recently; just recently; most recently<p><strong>Example:</strong> We are fresh out of milk.</p></li></ul></div></div>"
+description: Yes, FRESH is a valid Wordle word. It was the Wordle answer on July 11,
+  2021 (#22). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 11, 2021 (#22).
+past_answers:
+- date: '2021-07-11'
+  number: 22
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- flesh
+- frosh
+- frush
+phonetic: "/fɹɛʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A rush of water, along a river or onto the land; a flood.
+  - text: A stream or spring of fresh water.
+  - text: The mingling of fresh water with salt in rivers or bays, as by means of
+      a flood of fresh water flowing toward or into the sea.
+- pos: verb
+  defs:
+  - text: "(commercial fishing) To pack (fish) loosely on ice."
+  - text: To flood or dilute an area of salt water with flowing fresh water.
+  - text: "(of wind) To become stronger."
+  - text: To rebore the barrel of a rifle or shotgun.
+  - text: To update.
+  - text: To freshen up.
+  - text: To renew.
+  - text: "(of a dairy cow) to give birth to a calf."
+- pos: adjective
+  defs:
+  - text: Newly produced or obtained; recent.
+    example: He followed the fresh hoofprints to find the deer.
+  - text: "(of food) Not cooked, dried, frozen, or spoiled."
+    example: After taking a beating in the boxing ring, the left side of his face
+      looked like fresh meat.
+  - text: "(of plant material) Still green and not dried."
+  - text: Invigoratingly cool and refreshing.
+    example: What a nice fresh breeze.
+  - text: "(of water) Without salt; not saline."
+    example: After a day at sea it was good to feel the fresh water of the stream.
+  - text: Rested; not tired or fatigued.
+  - text: In a raw or untried state; uncultured; unpracticed.
+    example: a fresh hand on a ship
+  - text: Youthful; florid.
+  - text: Good, fashionable.
+    example: a fresh pair of sneakers
+  - text: Tipsy; drunk.
+- pos: adverb
+  defs:
+  - text: Recently; just recently; most recently
+    example: We are fresh out of milk.
 ---
-

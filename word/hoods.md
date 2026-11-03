@@ -1,7 +1,65 @@
 ---
 layout: word
-title: hoods
+title: Is HOODS a Wordle Word?
+head_title: Is HOODS a Wordle Word? Yes – Valid Guess & Meaning
 word: hoods
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hʊdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A covering for the head attached to a larger garment such as a jacket or cloak.</li><li><strong>Definition 2:</strong> A distinctively coloured fold of material, representing a university degree.</li><li><strong>Definition 3:</strong> An enclosure that protects something, especially from above.</li><li><strong>Definition 4:</strong> A soft top of a convertible car or carriage.</li><li><strong>Definition 5:</strong> The hinged cover over the engine of a motor vehicle: known as a bonnet in other countries.</li><li><strong>Definition 6:</strong> A metal covering that leads to a vent to suck away smoke or fumes.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover something with a hood.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Gangster, thug.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Neighborhood.<p><strong>Example:</strong> What’s goin’ down in the hood?</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Person wearing a hoodie.</li></ul></div></div>"
+description: Yes, HOODS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- foods
+- goods
+- holds
+- honds
+- hoody
+- hoofs
+- hooks
+- hoons
+- hoops
+- hoors
+- hoots
+- moods
+trap:
+  pattern: _OODS
+  count: 7
+phonetic: "/hʊdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A covering for the head attached to a larger garment such as a jacket or
+      cloak.
+  - text: A distinctively coloured fold of material, representing a university degree.
+  - text: An enclosure that protects something, especially from above.
+  - text: A soft top of a convertible car or carriage.
+  - text: 'The hinged cover over the engine of a motor vehicle: known as a bonnet
+      in other countries.'
+  - text: A metal covering that leads to a vent to suck away smoke or fumes.
+- pos: verb
+  defs:
+  - text: To cover something with a hood.
+- pos: noun
+  defs:
+  - text: Gangster, thug.
+- pos: noun
+  defs:
+  - text: Neighborhood.
+    example: What’s goin’ down in the hood?
+- pos: noun
+  defs:
+  - text: Person wearing a hoodie.
 ---
-

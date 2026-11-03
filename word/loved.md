@@ -1,7 +1,69 @@
 ---
 layout: word
-title: loved
+title: Is LOVED a Wordle Word?
+head_title: Is LOVED a Wordle Word? Yes – Valid Guess & Meaning
 word: loved
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lʌvd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something).<p><strong>Example:</strong> I love my spouse.   I love you!</p></li><li><strong>Definition 2:</strong> To need, thrive on.<p><strong>Example:</strong> Mold loves moist, dark places.</p></li><li><strong>Definition 3:</strong> To be strongly inclined towards something; an emphatic form of like.<p><strong>Example:</strong> I love walking barefoot on wet grass;  I'd love to join the team;  I love what you've done with your hair</p></li><li><strong>Definition 4:</strong> (usually transitive, sometimes intransitive) To care deeply about, to be dedicated to (someone or something).</li><li><strong>Definition 5:</strong> To derive delight from a fact or situation.<p><strong>Example:</strong> I love the fact that the coffee shop now offers fat-free chai latte.</p></li><li><strong>Definition 6:</strong> To have sex with (perhaps from make love).<p><strong>Example:</strong> I wish I could love her all night long.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To praise; commend.</li><li><strong>Definition 2:</strong> To praise as of value; prize; set a price on.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Being the object of love.</li></ul></div></div>"
+description: Yes, LOVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- lover
+- coved
+- doved
+- goved
+- hoved
+- laved
+- lived
+- lobed
+- loled
+- lomed
+- looed
+- loped
+anagrams:
+- voled
+trap:
+  pattern: LO_ED
+  count: 10
+phonetic: "/lʌvd/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(usually transitive, sometimes intransitive, stative) To have a strong
+      affection for (someone or something)."
+    example: I love my spouse.   I love you!
+  - text: To need, thrive on.
+    example: Mold loves moist, dark places.
+  - text: To be strongly inclined towards something; an emphatic form of like.
+    example: I love walking barefoot on wet grass;  I'd love to join the team;  I
+      love what you've done with your hair
+  - text: "(usually transitive, sometimes intransitive) To care deeply about, to be
+      dedicated to (someone or something)."
+  - text: To derive delight from a fact or situation.
+    example: I love the fact that the coffee shop now offers fat-free chai latte.
+  - text: To have sex with (perhaps from make love).
+    example: I wish I could love her all night long.
+- pos: verb
+  defs:
+  - text: To praise; commend.
+  - text: To praise as of value; prize; set a price on.
+- pos: adjective
+  defs:
+  - text: Being the object of love.
 ---
-

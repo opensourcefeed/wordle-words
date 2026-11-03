@@ -1,7 +1,79 @@
 ---
 layout: word
-title: irons
+title: Is IRONS a Wordle Word?
+head_title: Is IRONS a Wordle Word? Yes – Valid Guess & Meaning
 word: irons
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A common, inexpensive metal, silvery grey when untarnished, that rusts, is attracted by magnets, and is used in making steel.</li><li><strong>Definition 2:</strong> A metallic chemical element having atomic number 26 and symbol Fe.</li><li><strong>Definition 3:</strong> Any material, not a steel, predominantly made of elemental iron.<p><strong>Example:</strong> wrought iron, ductile iron, cast iron, pig iron, gray iron</p></li><li><strong>Definition 4:</strong> A tool or appliance made of metal, which is heated and then used to transfer heat to something else; most often a thick piece of metal fitted with a handle and having a flat, roughly triangular bottom, which is heated and used to press wrinkles from clothing, and now usually containing an electrical heating apparatus.</li><li><strong>Definition 5:</strong> (usually plural, irons) Shackles.</li><li><strong>Definition 6:</strong> A firearm, either a long gun or a handgun.</li><li><strong>Definition 7:</strong> A dark shade of the colour/color silver.</li><li><strong>Definition 8:</strong> (shortened from iron hoof, rhyming with poof; countable) A male homosexual.</li><li><strong>Definition 9:</strong> A golf club used for middle-distance shots.</li><li><strong>Definition 10:</strong> Used as a symbol of great strength or toughness, or to signify a very strong or tough material.<p><strong>Example:</strong> He appeared easygoing, but inside he was pure iron.</p></li><li><strong>Definition 11:</strong> Weight used as resistance for the purpose of strength training.<p><strong>Example:</strong> He lifts iron on the weekends.</p></li><li><strong>Definition 12:</strong> A safety curtain in a theatre.</li><li><strong>Definition 13:</strong> Dumb bombs, those without guidance systems.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pass an iron over (clothing or some other item made of cloth) in order to remove creases.</li><li><strong>Definition 2:</strong> To shackle with irons; to fetter or handcuff.</li><li><strong>Definition 3:</strong> To furnish or arm with iron.<p><strong>Example:</strong> to iron a wagon</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Shackles<p><strong>Example:</strong> Up the irons!</p></li><li><strong>Definition 2:</strong> A lack of forward motion.</li><li><strong>Definition 3:</strong> The stirrups.</li></ul></div></div>"
+description: Yes, IRONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- irony
+- crons
+- frons
+- icons
+- ikons
+- irone
+- trons
+anagrams:
+- inros
+- noirs
+- noris
+- nosir
+- ornis
+- roins
+- rosin
+definitions:
+- pos: noun
+  defs:
+  - text: A common, inexpensive metal, silvery grey when untarnished, that rusts,
+      is attracted by magnets, and is used in making steel.
+  - text: A metallic chemical element having atomic number 26 and symbol Fe.
+  - text: Any material, not a steel, predominantly made of elemental iron.
+    example: wrought iron, ductile iron, cast iron, pig iron, gray iron
+  - text: A tool or appliance made of metal, which is heated and then used to transfer
+      heat to something else; most often a thick piece of metal fitted with a handle
+      and having a flat, roughly triangular bottom, which is heated and used to press
+      wrinkles from clothing, and now usually containing an electrical heating apparatus.
+  - text: "(usually plural, irons) Shackles."
+  - text: A firearm, either a long gun or a handgun.
+  - text: A dark shade of the colour/color silver.
+  - text: "(shortened from iron hoof, rhyming with poof; countable) A male homosexual."
+  - text: A golf club used for middle-distance shots.
+  - text: Used as a symbol of great strength or toughness, or to signify a very strong
+      or tough material.
+    example: He appeared easygoing, but inside he was pure iron.
+  - text: Weight used as resistance for the purpose of strength training.
+    example: He lifts iron on the weekends.
+  - text: A safety curtain in a theatre.
+  - text: Dumb bombs, those without guidance systems.
+- pos: verb
+  defs:
+  - text: To pass an iron over (clothing or some other item made of cloth) in order
+      to remove creases.
+  - text: To shackle with irons; to fetter or handcuff.
+  - text: To furnish or arm with iron.
+    example: to iron a wagon
+- pos: noun
+  defs:
+  - text: Shackles
+    example: Up the irons!
+  - text: A lack of forward motion.
+  - text: The stirrups.
 ---
-

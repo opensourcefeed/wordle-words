@@ -1,7 +1,56 @@
 ---
 layout: word
-title: hoofs
+title: Is HOOFS a Wordle Word?
+head_title: Is HOOFS a Wordle Word? Yes – Valid Guess & Meaning
 word: hoofs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hufs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The tip of a toe of an ungulate such as a horse, ox or deer, strengthened by a thick keratin covering.</li><li><strong>Definition 2:</strong> The human foot.<p><strong>Example:</strong> Get your hooves off me!</p></li><li><strong>Definition 3:</strong> An ungula.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trample with hooves.</li><li><strong>Definition 2:</strong> To walk.</li><li><strong>Definition 3:</strong> To dance, especially as a professional.</li><li><strong>Definition 4:</strong> (football (soccer)) To kick, especially to kick a football a long way downfield with little accuracy.</li></ul></div></div>"
+description: Yes, HOOFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- coofs
+- doofs
+- goofs
+- hoods
+- hooks
+- hoons
+- hoops
+- hoors
+- hoots
+- houfs
+- howfs
+- loofs
+trap:
+  pattern: _OOFS
+  count: 9
+phonetic: "/hufs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The tip of a toe of an ungulate such as a horse, ox or deer, strengthened
+      by a thick keratin covering.
+  - text: The human foot.
+    example: Get your hooves off me!
+  - text: An ungula.
+- pos: verb
+  defs:
+  - text: To trample with hooves.
+  - text: To walk.
+  - text: To dance, especially as a professional.
+  - text: "(football (soccer)) To kick, especially to kick a football a long way downfield
+      with little accuracy."
 ---
-

@@ -1,7 +1,35 @@
 ---
 layout: word
-title: yawny
+title: Is YAWNY a Wordle Word?
+head_title: Is YAWNY a Wordle Word? Yes – Valid Guess & Meaning
 word: yawny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Prone to yawning.</li><li><strong>Definition 2:</strong> Sounding like a yawn.</li><li><strong>Definition 3:</strong> Boring, uninteresting, causing yawns.</li></ul></div></div>"
+description: Yes, YAWNY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - Y
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- tawny
+- fawny
+- lawny
+- yawey
+- yawns
+definitions:
+- pos: adjective
+  defs:
+  - text: Prone to yawning.
+  - text: Sounding like a yawn.
+  - text: Boring, uninteresting, causing yawns.
 ---
-

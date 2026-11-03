@@ -1,7 +1,46 @@
 ---
 layout: word
-title: roger
+title: Is ROGER a Wordle Word?
+head_title: Is ROGER a Wordle Word? Yes – Possible Answer & Meaning
 word: roger
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɒdʒə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> (radio telecommunications) Received (used in radio communications to acknowledge that a message has been received and understood)</li></ul></div></div>"
+description: Yes, ROGER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- rover
+- rower
+- rager
+- rober
+- roker
+- romer
+- roper
+- soger
+anagrams:
+- reorg
+trap:
+  pattern: RO_ER
+  count: 7
+phonetic: "/ˈɹɒdʒə/"
+definitions:
+- pos: interjection
+  defs:
+  - text: "(radio telecommunications) Received (used in radio communications to acknowledge
+      that a message has been received and understood)"
 ---
-

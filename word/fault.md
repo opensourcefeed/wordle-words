@@ -1,7 +1,63 @@
 ---
 layout: word
-title: fault
+title: Is FAULT a Wordle Word?
+head_title: 'Is FAULT a Wordle Word? Yes – Past Answer #492 & Meaning'
 word: fault
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɒlt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A defect; something that detracts from perfection.</li><li><strong>Definition 2:</strong> A mistake or error.<p><strong>Example:</strong> No! This is my fault, not yours.</p></li><li><strong>Definition 3:</strong> A weakness of character; a failing.<p><strong>Example:</strong> For all her faults, she’s a good person at heart.</p></li><li><strong>Definition 4:</strong> A minor offense.</li><li><strong>Definition 5:</strong> Blame; the responsibility for a mistake.<p><strong>Example:</strong> The fault lies with you.</p></li><li><strong>Definition 6:</strong> A fracture in a rock formation causing a discontinuity.</li><li><strong>Definition 7:</strong> In coal seams, coal rendered worthless by impurities in the seam.<p><strong>Example:</strong> slate fault  dirt fault</p></li><li><strong>Definition 8:</strong> An illegal serve.</li><li><strong>Definition 9:</strong> An abnormal connection in a circuit.</li><li><strong>Definition 10:</strong> Want; lack</li><li><strong>Definition 11:</strong> A lost scent; act of losing the scent.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To criticize, blame or find fault with something or someone.</li><li><strong>Definition 2:</strong> To fracture.</li><li><strong>Definition 3:</strong> To commit a mistake or error.</li><li><strong>Definition 4:</strong> To undergo a page fault.</li></ul></div></div>"
+description: Yes, FAULT is a valid Wordle word. It was the Wordle answer on October
+  24, 2022 (#492). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 24, 2022 (#492).
+past_answers:
+- date: '2022-10-24'
+  number: 492
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- vault
+- dault
+- fauld
+- gault
+- hault
+- sault
+trap:
+  pattern: _AULT
+  count: 6
+phonetic: "/fɒlt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A defect; something that detracts from perfection.
+  - text: A mistake or error.
+    example: No! This is my fault, not yours.
+  - text: A weakness of character; a failing.
+    example: For all her faults, she’s a good person at heart.
+  - text: A minor offense.
+  - text: Blame; the responsibility for a mistake.
+    example: The fault lies with you.
+  - text: A fracture in a rock formation causing a discontinuity.
+  - text: In coal seams, coal rendered worthless by impurities in the seam.
+    example: slate fault  dirt fault
+  - text: An illegal serve.
+  - text: An abnormal connection in a circuit.
+  - text: Want; lack
+  - text: A lost scent; act of losing the scent.
+- pos: verb
+  defs:
+  - text: To criticize, blame or find fault with something or someone.
+  - text: To fracture.
+  - text: To commit a mistake or error.
+  - text: To undergo a page fault.
 ---
-

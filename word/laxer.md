@@ -1,7 +1,55 @@
 ---
 layout: word
-title: laxer
+title: Is LAXER a Wordle Word?
+head_title: Is LAXER a Wordle Word? Yes – Valid Guess & Meaning
 word: laxer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Lenient and allowing for deviation; not strict.<p><strong>Example:</strong> The rules are fairly lax, but you have to know which ones you can bend.</p></li><li><strong>Definition 2:</strong> Loose; not tight or taut.<p><strong>Example:</strong> The rope fell lax.</p></li><li><strong>Definition 3:</strong> Lacking care; neglectful, negligent.</li><li><strong>Definition 4:</strong> Having a looseness of the bowels; diarrheal.</li><li><strong>Definition 5:</strong> Describing an associative monoidal functor.</li></ul></div></div>"
+description: Yes, LAXER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  - R
+  rare:
+  - X
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- lager
+- later
+- layer
+- lacer
+- lader
+- laker
+- lamer
+- laser
+- laver
+- lawer
+- laxed
+- laxes
+anagrams:
+- relax
+trap:
+  pattern: LA_ER
+  count: 11
+definitions:
+- pos: adjective
+  defs:
+  - text: Lenient and allowing for deviation; not strict.
+    example: The rules are fairly lax, but you have to know which ones you can bend.
+  - text: Loose; not tight or taut.
+    example: The rope fell lax.
+  - text: Lacking care; neglectful, negligent.
+  - text: Having a looseness of the bowels; diarrheal.
+  - text: Describing an associative monoidal functor.
 ---
-

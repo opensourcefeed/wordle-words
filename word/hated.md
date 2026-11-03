@@ -1,7 +1,55 @@
 ---
 layout: word
-title: hated
+title: Is HATED a Wordle Word?
+head_title: Is HATED a Wordle Word? Yes – Valid Guess & Meaning
 word: hated
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈheɪtɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dislike intensely or greatly.</li><li><strong>Definition 2:</strong> To experience hatred.<p><strong>Example:</strong> Do not fear; he who fears hates; he who hates kills. — attributed to Gandhi</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Disliked; odious; reviled.</li></ul></div></div>"
+description: Yes, HATED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- hater
+- bated
+- dated
+- fated
+- gated
+- haded
+- haled
+- hamed
+- hared
+- hates
+- hawed
+- hayed
+anagrams:
+- death
+trap:
+  pattern: _ATED
+  count: 10
+phonetic: "/ˈheɪtɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To dislike intensely or greatly.
+  - text: To experience hatred.
+    example: Do not fear; he who fears hates; he who hates kills. — attributed to
+      Gandhi
+- pos: adjective
+  defs:
+  - text: Disliked; odious; reviled.
 ---
-

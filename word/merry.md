@@ -1,7 +1,59 @@
 ---
 layout: word
-title: merry
+title: Is MERRY a Wordle Word?
+head_title: 'Is MERRY a Wordle Word? Yes – Past Answer #835 & Meaning'
 word: merry
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɛɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Jolly and full of high spirits.<p><strong>Example:</strong> We had a very merry Christmas.</p></li><li><strong>Definition 2:</strong> Festive and full of fun and laughter.<p><strong>Example:</strong> Everyone was merry at the party.</p></li><li><strong>Definition 3:</strong> Brisk<p><strong>Example:</strong> The play moved along at a merry pace.</p></li><li><strong>Definition 4:</strong> Causing laughter, mirth, gladness, or delight.<p><strong>Example:</strong> a merry jest</p></li><li><strong>Definition 5:</strong> Drunk; tipsy<p><strong>Example:</strong> Some of us got a little merry at the office Christmas party.</p></li></ul></div></div>"
+description: Yes, MERRY is a valid Wordle word. It was the Wordle answer on October
+  2, 2023 (#835). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 2, 2023 (#835).
+past_answers:
+- date: '2023-10-02'
+  number: 835
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- berry
+- ferry
+- marry
+- mercy
+- derry
+- herry
+- jerry
+- kerry
+- murry
+- perry
+- serry
+- terry
+anagrams:
+- rymer
+trap:
+  pattern: _ERRY
+  count: 11
+phonetic: "/ˈmɛɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Jolly and full of high spirits.
+    example: We had a very merry Christmas.
+  - text: Festive and full of fun and laughter.
+    example: Everyone was merry at the party.
+  - text: Brisk
+    example: The play moved along at a merry pace.
+  - text: Causing laughter, mirth, gladness, or delight.
+    example: a merry jest
+  - text: Drunk; tipsy
+    example: Some of us got a little merry at the office Christmas party.
 ---
-

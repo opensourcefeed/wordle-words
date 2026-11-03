@@ -1,7 +1,75 @@
 ---
 layout: word
-title: biter
+title: Is BITER a Wordle Word?
+head_title: Is BITER a Wordle Word? Yes – Valid Guess & Meaning
 word: biter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of biting.</li><li><strong>Definition 2:</strong> The wound left behind after having been bitten.<p><strong>Example:</strong> That snake bite really hurts!</p></li><li><strong>Definition 3:</strong> The swelling of one's skin caused by an insect's mouthparts or sting.<p><strong>Example:</strong> After just one night in the jungle I was covered with mosquito bites.</p></li><li><strong>Definition 4:</strong> A piece of food of a size that would be produced by biting; a mouthful.<p><strong>Example:</strong> There were only a few bites left on the plate.</p></li><li><strong>Definition 5:</strong> Something unpleasant.<p><strong>Example:</strong> That's really a bite!</p></li><li><strong>Definition 6:</strong> An act of plagiarism.<p><strong>Example:</strong> That song is a bite of my song!</p></li><li><strong>Definition 7:</strong> A small meal or snack.<p><strong>Example:</strong> I'll have a quick bite to quiet my stomach until dinner.</p></li><li><strong>Definition 8:</strong> Aggression</li><li><strong>Definition 9:</strong> The hold which the short end of a lever has upon the thing to be lifted, or the hold which one part of a machine has upon another.</li><li><strong>Definition 10:</strong> A cheat; a trick; a fraud.</li><li><strong>Definition 11:</strong> A sharper; one who cheats.</li><li><strong>Definition 12:</strong> A blank on the edge or corner of a page, owing to a portion of the frisket, or something else, intervening between the type and paper.</li><li><strong>Definition 13:</strong> A cut, a proportion of profits; an amount of money.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fish that tends to take bait.</li><li><strong>Definition 2:</strong> A stone that barely touches the outside of the house.</li><li><strong>Definition 3:</strong> One who copies someone else's work, style or techniques, especially in hip-hop.</li><li><strong>Definition 4:</strong> A cheat or fraudster.</li><li><strong>Definition 5:</strong> A zombie.</li></ul></div></div>"
+description: Yes, BITER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- bider
+- biker
+- biner
+- bites
+- bitey
+- citer
+- kiter
+- liter
+- miter
+- niter
+- titer
+anagrams:
+- tribe
+- rebit
+trap:
+  pattern: _ITER
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The act of biting.
+  - text: The wound left behind after having been bitten.
+    example: That snake bite really hurts!
+  - text: The swelling of one's skin caused by an insect's mouthparts or sting.
+    example: After just one night in the jungle I was covered with mosquito bites.
+  - text: A piece of food of a size that would be produced by biting; a mouthful.
+    example: There were only a few bites left on the plate.
+  - text: Something unpleasant.
+    example: That's really a bite!
+  - text: An act of plagiarism.
+    example: That song is a bite of my song!
+  - text: A small meal or snack.
+    example: I'll have a quick bite to quiet my stomach until dinner.
+  - text: Aggression
+  - text: The hold which the short end of a lever has upon the thing to be lifted,
+      or the hold which one part of a machine has upon another.
+  - text: A cheat; a trick; a fraud.
+  - text: A sharper; one who cheats.
+  - text: A blank on the edge or corner of a page, owing to a portion of the frisket,
+      or something else, intervening between the type and paper.
+  - text: A cut, a proportion of profits; an amount of money.
+- pos: noun
+  defs:
+  - text: A fish that tends to take bait.
+  - text: A stone that barely touches the outside of the house.
+  - text: One who copies someone else's work, style or techniques, especially in hip-hop.
+  - text: A cheat or fraudster.
+  - text: A zombie.
 ---
-

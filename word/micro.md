@@ -1,7 +1,51 @@
 ---
 layout: word
-title: micro
+title: Is MICRO a Wordle Word?
+head_title: 'Is MICRO a Wordle Word? Yes – Past Answer #959 & Meaning'
 word: micro
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (gaming slang) micromanagement</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (gaming slang) to micromanage</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Small, relatively small; used to contrast levels of the noun modified.<p><strong>Example:</strong> At the micro level he was a good manager. At the macro level he failed.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A computer designed around a microprocessor, smaller than a minicomputer or a mainframe.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The field of economics that deals with small-scale economic activities such as those of an individual or company.</li></ul></div></div>"
+description: Yes, MICRO is a valid Wordle word. It was the Wordle answer on February
+  3, 2024 (#959). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 3, 2024 (#959).
+past_answers:
+- date: '2024-02-03'
+  number: 959
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- macro
+- micra
+- mucro
+definitions:
+- pos: noun
+  defs:
+  - text: "(gaming slang) micromanagement"
+- pos: verb
+  defs:
+  - text: "(gaming slang) to micromanage"
+- pos: adjective
+  defs:
+  - text: Small, relatively small; used to contrast levels of the noun modified.
+    example: At the micro level he was a good manager. At the macro level he failed.
+- pos: noun
+  defs:
+  - text: A computer designed around a microprocessor, smaller than a minicomputer
+      or a mainframe.
+- pos: noun
+  defs:
+  - text: The field of economics that deals with small-scale economic activities such
+      as those of an individual or company.
 ---
-

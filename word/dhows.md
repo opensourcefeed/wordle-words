@@ -1,7 +1,36 @@
 ---
 layout: word
-title: dhows
+title: Is DHOWS a Wordle Word?
+head_title: Is DHOWS a Wordle Word? Yes – Valid Guess & Meaning
 word: dhows
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A traditional sailing vessel used along the coasts of Arabia, East Africa, and the Indian Ocean, generally having a single mast and a lateen sail.</li></ul></div></div>"
+description: Yes, DHOWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- chows
+- dhols
+- drows
+- shows
+- whows
+anagrams:
+- showd
+definitions:
+- pos: noun
+  defs:
+  - text: A traditional sailing vessel used along the coasts of Arabia, East Africa,
+      and the Indian Ocean, generally having a single mast and a lateen sail.
 ---
-

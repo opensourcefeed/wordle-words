@@ -1,7 +1,49 @@
 ---
 layout: word
-title: clart
+title: Is CLART a Wordle Word?
+head_title: Is CLART a Wordle Word? Yes – Valid Guess & Meaning
 word: clart
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klɑːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A daub.<p><strong>Example:</strong> a clart of grease</p></li><li><strong>Definition 2:</strong> Sticky mud, mire or filth.</li><li><strong>Definition 3:</strong> A person who is unclean.</li><li><strong>Definition 4:</strong> A fool.</li><li><strong>Definition 5:</strong> Unwanted stuff; junk; clutter; rubbish; stuff that is in the way.<p><strong>Example:</strong> I need to get rid of all this clart. (Clearing unwanted items from a table top)</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To daub, smear, or spread, especially with mud, etc.; to dirty.</li></ul></div></div>"
+description: Yes, CLART is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- chart
+- blart
+- clapt
+- claro
+- clary
+- clast
+- claut
+- slart
+phonetic: "/klɑːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A daub.
+    example: a clart of grease
+  - text: Sticky mud, mire or filth.
+  - text: A person who is unclean.
+  - text: A fool.
+  - text: Unwanted stuff; junk; clutter; rubbish; stuff that is in the way.
+    example: I need to get rid of all this clart. (Clearing unwanted items from a
+      table top)
+- pos: verb
+  defs:
+  - text: To daub, smear, or spread, especially with mud, etc.; to dirty.
 ---
-

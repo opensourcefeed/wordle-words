@@ -1,7 +1,60 @@
 ---
 layout: word
-title: bents
+title: Is BENTS a Wordle Word?
+head_title: Is BENTS a Wordle Word? Yes – Valid Guess & Meaning
 word: bents
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɛnts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An inclination or talent.<p><strong>Example:</strong> He had a natural bent for painting.</p></li><li><strong>Definition 2:</strong> A predisposition to act or react in a particular way.<p><strong>Example:</strong> His mind was of a technical bent.</p></li><li><strong>Definition 3:</strong> The state of being curved, crooked, or inclined from a straight line; flexure; curvity.<p><strong>Example:</strong> the bent of a bow</p></li><li><strong>Definition 4:</strong> A declivity or slope, as of a hill.</li><li><strong>Definition 5:</strong> Particular direction or tendency; flexion; course.</li><li><strong>Definition 6:</strong> A transverse frame of a framed structure; a subunit of framing.</li><li><strong>Definition 7:</strong> Tension; force of acting; energy; impetus.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various stiff or reedy grasses.</li><li><strong>Definition 2:</strong> A grassy area, grassland.</li><li><strong>Definition 3:</strong> The old dried stalks of grasses.</li></ul></div></div>"
+description: Yes, BENTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- bants
+- beats
+- beets
+- belts
+- bends
+- benes
+- benis
+- bento
+- benty
+- bests
+- bints
+- bunts
+trap:
+  pattern: _ENTS
+  count: 14
+phonetic: "/bɛnts/"
+definitions:
+- pos: noun
+  defs:
+  - text: An inclination or talent.
+    example: He had a natural bent for painting.
+  - text: A predisposition to act or react in a particular way.
+    example: His mind was of a technical bent.
+  - text: The state of being curved, crooked, or inclined from a straight line; flexure;
+      curvity.
+    example: the bent of a bow
+  - text: A declivity or slope, as of a hill.
+  - text: Particular direction or tendency; flexion; course.
+  - text: A transverse frame of a framed structure; a subunit of framing.
+  - text: Tension; force of acting; energy; impetus.
+- pos: noun
+  defs:
+  - text: Any of various stiff or reedy grasses.
+  - text: A grassy area, grassland.
+  - text: The old dried stalks of grasses.
 ---
-

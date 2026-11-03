@@ -1,7 +1,36 @@
 ---
 layout: word
-title: paseo
+title: Is PASEO a Wordle Word?
+head_title: Is PASEO a Wordle Word? Yes – Valid Guess & Meaning
 word: paseo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A public path or avenue designed for walking, sometimes for dining or recreation.</li></ul></div></div>"
+description: Yes, PASEO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- pareo
+- pases
+- pasmo
+anagrams:
+- psoae
+definitions:
+- pos: noun
+  defs:
+  - text: A public path or avenue designed for walking, sometimes for dining or recreation.
 ---
-

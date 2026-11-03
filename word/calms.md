@@ -1,7 +1,55 @@
 ---
 layout: word
-title: calms
+title: Is CALMS a Wordle Word?
+head_title: Is CALMS a Wordle Word? Yes – Valid Guess & Meaning
 word: calms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.</li><li><strong>Definition 2:</strong> (in a place or situation) The state of being calm; absence of noise and disturbance.</li><li><strong>Definition 3:</strong> A period of time without wind.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make calm.<p><strong>Example:</strong> to calm a crying baby</p></li><li><strong>Definition 2:</strong> To become calm.</li></ul></div></div>"
+description: Yes, CALMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- balms
+- calfs
+- calks
+- calls
+- calmy
+- calos
+- calps
+- caums
+- culms
+- halms
+- malms
+- palms
+anagrams:
+- clams
+trap:
+  pattern: CAL_S
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: "(in a person) The state of being calm; peacefulness; absence of worry,
+      anger, fear or other strong negative emotion."
+  - text: "(in a place or situation) The state of being calm; absence of noise and
+      disturbance."
+  - text: A period of time without wind.
+- pos: verb
+  defs:
+  - text: To make calm.
+    example: to calm a crying baby
+  - text: To become calm.
 ---
-

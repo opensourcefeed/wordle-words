@@ -1,7 +1,36 @@
 ---
 layout: word
-title: womyn
+title: Is WOMYN a Wordle Word?
+head_title: Is WOMYN a Wordle Word? Yes – Valid Guess & Meaning
 word: womyn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An adult female human.</li><li><strong>Definition 2:</strong> (collective) All females collectively; womankind.</li><li><strong>Definition 3:</strong> A female person, usually an adult; a (generally adult) female sentient being, whether human, supernatural, elf, alien, etc.</li><li><strong>Definition 4:</strong> A wife (or sometimes a fiancée or girlfriend).</li><li><strong>Definition 5:</strong> A female who is extremely fond of or devoted to a specified type of thing. (Used as the last element of a compound.)</li><li><strong>Definition 6:</strong> A female attendant or servant.</li></ul></div></div>"
+description: Yes, WOMYN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- woman
+- women
+definitions:
+- pos: noun
+  defs:
+  - text: An adult female human.
+  - text: "(collective) All females collectively; womankind."
+  - text: A female person, usually an adult; a (generally adult) female sentient being,
+      whether human, supernatural, elf, alien, etc.
+  - text: A wife (or sometimes a fiancée or girlfriend).
+  - text: A female who is extremely fond of or devoted to a specified type of thing.
+      (Used as the last element of a compound.)
+  - text: A female attendant or servant.
 ---
-

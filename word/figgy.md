@@ -1,7 +1,43 @@
 ---
 layout: word
-title: figgy
+title: Is FIGGY a Wordle Word?
+head_title: Is FIGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: figgy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɪɡi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or like figs.<p><strong>Example:</strong> This cake has a figgy taste.</p></li><li><strong>Definition 2:</strong> Containing figs.<p><strong>Example:</strong> We all want some figgy pudding — line from the Christmas song \"We Wish You a Merry Christmas\"</p></li></ul></div></div>"
+description: Yes, FIGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- foggy
+- piggy
+- biggy
+- ciggy
+- fuggy
+- jiggy
+- wiggy
+trap:
+  pattern: _IGGY
+  count: 6
+phonetic: "/ˈfɪɡi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or like figs.
+    example: This cake has a figgy taste.
+  - text: Containing figs.
+    example: We all want some figgy pudding — line from the Christmas song "We Wish
+      You a Merry Christmas"
 ---
-

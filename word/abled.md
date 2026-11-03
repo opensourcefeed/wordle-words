@@ -1,7 +1,41 @@
 ---
 layout: word
-title: abled
+title: Is ABLED a Wordle Word?
+head_title: Is ABLED a Wordle Word? Yes – Possible Answer & Meaning
 word: abled
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈeɪ.bl̩d/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (in combination) Having a range of physical powers as specified.</li></ul></div></div>"
+description: Yes, ABLED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- abbed
+- abler
+- ables
+- ablet
+- ailed
+- arled
+- axled
+anagrams:
+- blade
+- baled
+phonetic: "/ˈeɪ.bl̩d/"
+definitions:
+- pos: adjective
+  defs:
+  - text: "(in combination) Having a range of physical powers as specified."
 ---
-

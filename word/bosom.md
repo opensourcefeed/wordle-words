@@ -1,7 +1,56 @@
 ---
 layout: word
-title: bosom
+title: Is BOSOM a Wordle Word?
+head_title: Is BOSOM a Wordle Word? Yes – Possible Answer & Meaning
 word: bosom
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʊz(ə)m/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (somewhat obsolete) The breast or chest of a human (or sometimes of another animal).</li><li><strong>Definition 2:</strong> The seat of one's inner thoughts, feelings etc.; one's secret feelings; desire.</li><li><strong>Definition 3:</strong> The protected interior or inner part of something; the area enclosed as by an embrace.</li><li><strong>Definition 4:</strong> The part of a dress etc. covering the chest; a neckline.</li><li><strong>Definition 5:</strong> A woman's breast(s).</li><li><strong>Definition 6:</strong> Any thing or place resembling the breast; a supporting surface; an inner recess; the interior.</li><li><strong>Definition 7:</strong> A depression round the eye of a millstone.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To enclose or carry in the bosom; to keep with care; to take to heart; to cherish.</li><li><strong>Definition 2:</strong> To conceal; to hide from view; to embosom.</li><li><strong>Definition 3:</strong> To belly; to billow, swell or bulge.</li><li><strong>Definition 4:</strong> To belly; to cause to billow, swell or bulge.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> In a very close relationship.</li></ul></div></div>"
+description: Yes, BOSOM is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- besom
+- bisom
+- boson
+anagrams:
+- booms
+- mobos
+- moobs
+phonetic: "/ˈbʊz(ə)m/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(somewhat obsolete) The breast or chest of a human (or sometimes of another
+      animal)."
+  - text: The seat of one's inner thoughts, feelings etc.; one's secret feelings;
+      desire.
+  - text: The protected interior or inner part of something; the area enclosed as
+      by an embrace.
+  - text: The part of a dress etc. covering the chest; a neckline.
+  - text: A woman's breast(s).
+  - text: Any thing or place resembling the breast; a supporting surface; an inner
+      recess; the interior.
+  - text: A depression round the eye of a millstone.
+- pos: verb
+  defs:
+  - text: To enclose or carry in the bosom; to keep with care; to take to heart; to
+      cherish.
+  - text: To conceal; to hide from view; to embosom.
+  - text: To belly; to billow, swell or bulge.
+  - text: To belly; to cause to billow, swell or bulge.
+- pos: adjective
+  defs:
+  - text: In a very close relationship.
 ---
-

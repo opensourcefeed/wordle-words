@@ -1,7 +1,51 @@
 ---
 layout: word
-title: rager
+title: Is RAGER a Wordle Word?
+head_title: Is RAGER a Wordle Word? Yes – Valid Guess & Meaning
 word: rager
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who rages.</li><li><strong>Definition 2:</strong> A party, particularly a large, wild party (social event).</li><li><strong>Definition 3:</strong> A raging erection; a massive erection of the penis.</li></ul></div></div>"
+description: Yes, RAGER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- eager
+- lager
+- racer
+- rarer
+- roger
+- wager
+- cager
+- gager
+- jager
+- pager
+- raged
+- ragee
+anagrams:
+- garre
+- regar
+trap:
+  pattern: _AGER
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: One who rages.
+  - text: A party, particularly a large, wild party (social event).
+  - text: A raging erection; a massive erection of the penis.
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: ruche
+title: Is RUCHE a Wordle Word?
+head_title: Is RUCHE a Wordle Word? Yes – Valid Guess & Meaning
 word: ruche
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹuʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A strip of fabric which has been fluted or pleated.</li><li><strong>Definition 2:</strong> A small ruff of fluted or pleated fabric worn at neck or wrist.</li><li><strong>Definition 3:</strong> A pile of arched tiles, used to catch and retain oyster spawn.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flute or pleat (fabric).<p><strong>Example:</strong> ruched curtains</p></li><li><strong>Definition 2:</strong> To bunch up (fabric); to ruck up.</li></ul></div></div>"
+description: Yes, RUCHE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- ouche
+- rache
+- riche
+- roche
+- ruchy
+phonetic: "/ɹuʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A strip of fabric which has been fluted or pleated.
+  - text: A small ruff of fluted or pleated fabric worn at neck or wrist.
+  - text: A pile of arched tiles, used to catch and retain oyster spawn.
+- pos: verb
+  defs:
+  - text: To flute or pleat (fabric).
+    example: ruched curtains
+  - text: To bunch up (fabric); to ruck up.
 ---
-

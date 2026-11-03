@@ -1,7 +1,45 @@
 ---
 layout: word
-title: ioras
+title: Is IORAS a Wordle Word?
+head_title: Is IORAS a Wordle Word? Yes – Valid Guess & Meaning
 word: ioras
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of a group of passerine birds, of the family Aegithinidae, found in India and other parts of Asia</li></ul></div></div>"
+description: Yes, IORAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  - R
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- boras
+- goras
+- horas
+- iotas
+- koras
+- moras
+- soras
+- toras
+trap:
+  pattern: _ORAS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a group of passerine birds, of the family Aegithinidae, found in
+      India and other parts of Asia
 ---
-

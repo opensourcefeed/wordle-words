@@ -1,9 +1,53 @@
 ---
 layout: word
-title: mongs
+title: Is MONGS a Wordle Word?
+head_title: Is MONGS a Wordle Word? Yes – Valid Guess & Meaning
 word: mongs
+description: Yes, MONGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mingling, mixture, or crowd.</li><li><strong>Definition 2:</strong> A muddle or confusion.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mongrel dog.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person with Down's syndrome.</li><li><strong>Definition 2:</strong> A stupid person.</li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- bongs
+- dongs
+- gongs
+- hongs
+- jongs
+- longs
+- mangs
+- mengs
+- mings
+- monas
+- mongo
+- monks
+trap:
+  pattern: _ONGS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A mingling, mixture, or crowd.
+  - text: A muddle or confusion.
+- pos: noun
+  defs:
+  - text: A mongrel dog.
+- pos: noun
+  defs:
+  - text: A person with Down's syndrome.
+  - text: A stupid person.
 ---
-

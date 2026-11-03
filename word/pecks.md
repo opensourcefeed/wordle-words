@@ -1,7 +1,74 @@
 ---
 layout: word
-title: pecks
+title: Is PECKS a Wordle Word?
+head_title: Is PECKS a Wordle Word? Yes – Valid Guess & Meaning
 word: pecks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɛks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of striking with a beak.</li><li><strong>Definition 2:</strong> A small kiss.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To strike or pierce with the beak or bill (of a bird).<p><strong>Example:</strong> The birds pecked at their food.</p></li><li><strong>Definition 2:</strong> To form by striking with the beak or a pointed instrument.<p><strong>Example:</strong> to peck a hole in a tree</p></li><li><strong>Definition 3:</strong> To strike, pick, thrust against, or dig into, with a pointed instrument, especially with repeated quick movements.</li><li><strong>Definition 4:</strong> To seize and pick up with the beak, or as if with the beak; to bite; to eat; often with up.</li><li><strong>Definition 5:</strong> To do something in small, intermittent pieces.<p><strong>Example:</strong> He has been pecking away at that project for some time now.</p></li><li><strong>Definition 6:</strong> To type by searching for each key individually.</li><li><strong>Definition 7:</strong> To type in general.</li><li><strong>Definition 8:</strong> To kiss briefly.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One quarter of a bushel; a dry measure of eight quarts.<p><strong>Example:</strong> They picked a peck of wheat.</p></li><li><strong>Definition 2:</strong> A great deal; a large or excessive quantity.<p><strong>Example:</strong> She figured most children probably ate a peck of dirt before they turned ten.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw.</li><li><strong>Definition 2:</strong> To lurch forward; especially, of a horse, to stumble after hitting the ground with the toe instead of the flat of the foot.</li></ul></div></div>"
+description: Yes, PECKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- becks
+- decks
+- fecks
+- gecks
+- hecks
+- kecks
+- mecks
+- necks
+- packs
+- peaks
+- pechs
+- pecke
+anagrams:
+- speck
+trap:
+  pattern: _ECKS
+  count: 10
+phonetic: "/pɛks/"
+definitions:
+- pos: noun
+  defs:
+  - text: An act of striking with a beak.
+  - text: A small kiss.
+- pos: verb
+  defs:
+  - text: To strike or pierce with the beak or bill (of a bird).
+    example: The birds pecked at their food.
+  - text: To form by striking with the beak or a pointed instrument.
+    example: to peck a hole in a tree
+  - text: To strike, pick, thrust against, or dig into, with a pointed instrument,
+      especially with repeated quick movements.
+  - text: To seize and pick up with the beak, or as if with the beak; to bite; to
+      eat; often with up.
+  - text: To do something in small, intermittent pieces.
+    example: He has been pecking away at that project for some time now.
+  - text: To type by searching for each key individually.
+  - text: To type in general.
+  - text: To kiss briefly.
+- pos: noun
+  defs:
+  - text: One quarter of a bushel; a dry measure of eight quarts.
+    example: They picked a peck of wheat.
+  - text: A great deal; a large or excessive quantity.
+    example: She figured most children probably ate a peck of dirt before they turned
+      ten.
+- pos: verb
+  defs:
+  - text: To throw.
+  - text: To lurch forward; especially, of a horse, to stumble after hitting the ground
+      with the toe instead of the flat of the foot.
 ---
-

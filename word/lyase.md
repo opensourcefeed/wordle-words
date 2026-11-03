@@ -1,7 +1,34 @@
 ---
 layout: word
-title: lyase
+title: Is LYASE a Wordle Word?
+head_title: Is LYASE a Wordle Word? Yes – Valid Guess & Meaning
 word: lyase
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of many classes of enzyme that catalyze the breaking of a specific form of bond</li></ul></div></div>"
+description: Yes, LYASE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- lease
+anagrams:
+- yales
+definitions:
+- pos: noun
+  defs:
+  - text: Any of many classes of enzyme that catalyze the breaking of a specific form
+      of bond
 ---
-

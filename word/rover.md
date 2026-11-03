@@ -1,7 +1,64 @@
 ---
 layout: word
-title: rover
+title: Is ROVER a Wordle Word?
+head_title: 'Is ROVER a Wordle Word? Yes – Past Answer #1039 & Meaning'
 word: rover
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹəʊvə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in the plural) A randomly selected target.</li><li><strong>Definition 2:</strong> One who roves, a wanderer, a nomad.</li><li><strong>Definition 3:</strong> A vagabond, a tramp, an unsteady, restless person, one who by habit doesn't settle down or marry.<p><strong>Example:</strong> She is a rover and dislikes any sort of ties, physical or emotional.</p></li><li><strong>Definition 4:</strong> A vehicle for exploring extraterrestrial bodies.</li><li><strong>Definition 5:</strong> (Australian Rules football) A position that is one of three of a team's followers, who follow the ball around the ground. Formerly a position for short players, rovers in professional leagues are frequently over 183 cm (6').</li><li><strong>Definition 6:</strong> A defensive back position whose coverage responsibilities are a hybrid of those of a cornerback, safety and linebacker.</li><li><strong>Definition 7:</strong> A ball which has passed through all the hoops and would go out if it hit the stake but is continued in play; also, the player of such a ball.</li><li><strong>Definition 8:</strong> The tenth defensive player in slow-pitch softball.</li><li><strong>Definition 9:</strong> A sort of arrow.</li></ul></div></div>"
+description: Yes, ROVER is a valid Wordle word. It was the Wordle answer on April
+  23, 2024 (#1039). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 23, 2024 (#1039).
+past_answers:
+- date: '2024-04-23'
+  number: 1039
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- cover
+- hover
+- lover
+- mover
+- river
+- roger
+- rower
+- dover
+- raver
+- rober
+- roker
+- romer
+trap:
+  pattern: RO_ER
+  count: 7
+phonetic: "/ˈɹəʊvə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in the plural) A randomly selected target."
+  - text: One who roves, a wanderer, a nomad.
+  - text: A vagabond, a tramp, an unsteady, restless person, one who by habit doesn't
+      settle down or marry.
+    example: She is a rover and dislikes any sort of ties, physical or emotional.
+  - text: A vehicle for exploring extraterrestrial bodies.
+  - text: "(Australian Rules football) A position that is one of three of a team's
+      followers, who follow the ball around the ground. Formerly a position for short
+      players, rovers in professional leagues are frequently over 183 cm (6')."
+  - text: A defensive back position whose coverage responsibilities are a hybrid of
+      those of a cornerback, safety and linebacker.
+  - text: A ball which has passed through all the hoops and would go out if it hit
+      the stake but is continued in play; also, the player of such a ball.
+  - text: The tenth defensive player in slow-pitch softball.
+  - text: A sort of arrow.
 ---
-

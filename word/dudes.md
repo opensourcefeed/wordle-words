@@ -1,7 +1,58 @@
 ---
 layout: word
-title: dudes
+title: Is DUDES a Wordle Word?
+head_title: Is DUDES a Wordle Word? Yes – Valid Guess & Meaning
 word: dudes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A man, generally a younger man.<p><strong>Example:</strong> So we were at the mall and these two dudes just walk up to us and say \"hi\".</p></li><li><strong>Definition 2:</strong> (used in the vocative) A term of address for someone, typically a man, particularly when cautioning him or offering him advice.<p><strong>Example:</strong> Dude, I'd be careful around the principal; he's having a bad day.</p></li><li><strong>Definition 3:</strong> An inexperienced cowboy.</li><li><strong>Definition 4:</strong> A tourist.</li><li><strong>Definition 5:</strong> A man who is very concerned about his dress and appearance; a dandy, a fop.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To address someone as dude.</li><li><strong>Definition 2:</strong> To take a vacation in a dude ranch.</li><li><strong>Definition 3:</strong> Usually followed by up: to dress up, to wear smart or special clothes.</li></ul></div></div>"
+description: Yes, DUDES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- budes
+- duces
+- duded
+- dukes
+- dules
+- dunes
+- dupes
+- dures
+- duxes
+- gudes
+- ludes
+- nudes
+trap:
+  pattern: DU_ES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A man, generally a younger man.
+    example: So we were at the mall and these two dudes just walk up to us and say
+      "hi".
+  - text: "(used in the vocative) A term of address for someone, typically a man,
+      particularly when cautioning him or offering him advice."
+    example: Dude, I'd be careful around the principal; he's having a bad day.
+  - text: An inexperienced cowboy.
+  - text: A tourist.
+  - text: A man who is very concerned about his dress and appearance; a dandy, a fop.
+- pos: verb
+  defs:
+  - text: To address someone as dude.
+  - text: To take a vacation in a dude ranch.
+  - text: 'Usually followed by up: to dress up, to wear smart or special clothes.'
 ---
-

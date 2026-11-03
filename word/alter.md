@@ -1,7 +1,57 @@
 ---
 layout: word
-title: alter
+title: Is ALTER a Wordle Word?
+head_title: 'Is ALTER a Wordle Word? Yes – Past Answer #580 & Meaning'
 word: alter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɑl.tɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To change the form or structure of.</li><li><strong>Definition 2:</strong> To become different.</li><li><strong>Definition 3:</strong> To tailor clothes to make them fit.</li><li><strong>Definition 4:</strong> To castrate, neuter or spay (a dog or other animal).</li><li><strong>Definition 5:</strong> To affect mentally, as by psychotropic drugs or illness.</li></ul></div></div>"
+description: Yes, ALTER is a valid Wordle word. It was the Wordle answer on January
+  20, 2023 (#580). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 20, 2023 (#580).
+past_answers:
+- date: '2023-01-20'
+  number: 580
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- after
+- altar
+- alder
+- aller
+- apter
+- arter
+- aster
+- atter
+anagrams:
+- alert
+- later
+- artel
+- ratel
+- taler
+trap:
+  pattern: A_TER
+  count: 6
+phonetic: "/ˈɑl.tɚ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To change the form or structure of.
+  - text: To become different.
+  - text: To tailor clothes to make them fit.
+  - text: To castrate, neuter or spay (a dog or other animal).
+  - text: To affect mentally, as by psychotropic drugs or illness.
 ---
-

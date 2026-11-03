@@ -1,7 +1,40 @@
 ---
 layout: word
-title: aptly
+title: Is APTLY a Wordle Word?
+head_title: 'Is APTLY a Wordle Word? Yes – Past Answer #499 & Meaning'
 word: aptly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæp(t).li/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In an apt or suitable manner; fitly; appropriately<p><strong>Example:</strong> My friend, aptly nicknamed \"Shorty\"</p></li></ul></div></div>"
+description: Yes, APTLY is a valid Wordle word. It was the Wordle answer on October
+  31, 2022 (#499). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 31, 2022 (#499).
+past_answers:
+- date: '2022-10-31'
+  number: 499
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- apply
+- artly
+anagrams:
+- patly
+- platy
+- typal
+phonetic: "/ˈæp(t).li/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In an apt or suitable manner; fitly; appropriately
+    example: My friend, aptly nicknamed "Shorty"
 ---
-

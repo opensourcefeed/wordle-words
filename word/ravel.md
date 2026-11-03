@@ -1,7 +1,60 @@
 ---
 layout: word
-title: ravel
+title: Is RAVEL a Wordle Word?
+head_title: Is RAVEL a Wordle Word? Yes – Valid Guess & Meaning
 word: ravel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹævəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A snarl; a complication.</li><li><strong>Definition 2:</strong> A ravelled thread.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tangle; entangle; entwine confusedly, become snarled; thus to involve; perplex; confuse.</li><li><strong>Definition 2:</strong> To undo the intricacies of; to disentangle or clarify.</li><li><strong>Definition 3:</strong> To pull apart (especially cloth or a seam); unravel.</li><li><strong>Definition 4:</strong> To become entangled.</li><li><strong>Definition 5:</strong> To become untwisted or unwoven.</li><li><strong>Definition 6:</strong> In the APL programming language, to reshape (a variable) into a vector.</li></ul></div></div>"
+description: Yes, RAVEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- gavel
+- navel
+- raven
+- revel
+- cavel
+- favel
+- havel
+- javel
+- ratel
+- raved
+- raver
+- raves
+anagrams:
+- laver
+- velar
+trap:
+  pattern: _AVEL
+  count: 7
+phonetic: "/ˈɹævəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A snarl; a complication.
+  - text: A ravelled thread.
+- pos: verb
+  defs:
+  - text: To tangle; entangle; entwine confusedly, become snarled; thus to involve;
+      perplex; confuse.
+  - text: To undo the intricacies of; to disentangle or clarify.
+  - text: To pull apart (especially cloth or a seam); unravel.
+  - text: To become entangled.
+  - text: To become untwisted or unwoven.
+  - text: In the APL programming language, to reshape (a variable) into a vector.
 ---
-

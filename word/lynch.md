@@ -1,7 +1,32 @@
 ---
 layout: word
-title: lynch
+title: Is LYNCH a Wordle Word?
+head_title: Is LYNCH a Wordle Word? Yes – Possible Answer & Meaning
 word: lynch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lɪntʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To execute (somebody) without a proper legal trial or procedure, especially by hanging and backed by a mob.</li></ul></div></div>"
+description: Yes, LYNCH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels: []
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- lunch
+- lanch
+- linch
+- synch
+phonetic: "/lɪntʃ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To execute (somebody) without a proper legal trial or procedure, especially
+      by hanging and backed by a mob.
 ---
-

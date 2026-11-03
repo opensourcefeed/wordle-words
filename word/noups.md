@@ -1,6 +1,37 @@
 ---
 layout: word
-title: noups
+title: Is NOUPS a Wordle Word?
+head_title: Is NOUPS a Wordle Word? Yes – Valid Guess
 word: noups
+description: Yes, NOUPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- coups
+- doups
+- loups
+- moups
+- noops
+- nougs
+- nouls
+- nouns
+- roups
+- soups
+trap:
+  pattern: _OUPS
+  count: 7
 ---
-

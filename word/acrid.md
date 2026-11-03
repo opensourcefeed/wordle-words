@@ -1,7 +1,44 @@
 ---
 layout: word
-title: acrid
+title: Is ACRID a Wordle Word?
+head_title: 'Is ACRID a Wordle Word? Yes – Past Answer #693 & Meaning'
 word: acrid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæk.ɹɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sharp and harsh, or bitter and not to the taste.<p><strong>Example:</strong> Sodium polyacrylate is an acrid salt.</p></li><li><strong>Definition 2:</strong> Causing heat and irritation.<p><strong>Example:</strong> The bombardier beetle sprays acrid secretions to defend itself.</p></li><li><strong>Definition 3:</strong> Caustic; bitter; bitterly irritating.<p><strong>Example:</strong> That man has an acrid temper.</p></li></ul></div></div>"
+description: Yes, ACRID is a valid Wordle word. It was the Wordle answer on May 13,
+  2023 (#693). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 13, 2023 (#693).
+past_answers:
+- date: '2023-05-13'
+  number: 693
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- acred
+anagrams:
+- caird
+- cardi
+- daric
+phonetic: "/ˈæk.ɹɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Sharp and harsh, or bitter and not to the taste.
+    example: Sodium polyacrylate is an acrid salt.
+  - text: Causing heat and irritation.
+    example: The bombardier beetle sprays acrid secretions to defend itself.
+  - text: Caustic; bitter; bitterly irritating.
+    example: That man has an acrid temper.
 ---
-

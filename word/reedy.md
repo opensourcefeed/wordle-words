@@ -1,7 +1,51 @@
 ---
 layout: word
-title: reedy
+title: Is REEDY a Wordle Word?
+head_title: Is REEDY a Wordle Word? Yes – Possible Answer & Meaning
 word: reedy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹiː.di/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Full of, or edged with, reeds.</li><li><strong>Definition 2:</strong> (of a sound or voice) High and thin in tone.</li><li><strong>Definition 3:</strong> (of a person) Tall and thin.</li><li><strong>Definition 4:</strong> Imperfectly welded together in masses of rods.<p><strong>Example:</strong> reedy iron</p></li></ul></div></div>"
+description: Yes, REEDY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- needy
+- ready
+- seedy
+- weedy
+- deedy
+- heedy
+- reddy
+- reede
+- reeds
+- reefy
+- reeky
+- reely
+anagrams:
+- redye
+trap:
+  pattern: _EEDY
+  count: 6
+phonetic: "/ˈɹiː.di/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of, or edged with, reeds.
+  - text: "(of a sound or voice) High and thin in tone."
+  - text: "(of a person) Tall and thin."
+  - text: Imperfectly welded together in masses of rods.
+    example: reedy iron
 ---
-

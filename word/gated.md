@@ -1,7 +1,59 @@
 ---
 layout: word
-title: gated
+title: Is GATED a Wordle Word?
+head_title: Is GATED a Wordle Word? Yes – Valid Guess & Meaning
 word: gated
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡeɪtɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To keep something inside by means of a closed gate.</li><li><strong>Definition 2:</strong> To punish, especially a child or teenager, by not allowing them to go out.</li><li><strong>Definition 3:</strong> To open a closed ion channel.</li><li><strong>Definition 4:</strong> To furnish with a gate.</li><li><strong>Definition 5:</strong> To turn (an image intensifier) on and off selectively as needed, or to avoid damage. See autogating.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Capable of being switched on and off (normally by means of a signal).</li><li><strong>Definition 2:</strong> Have a gate or other restricted access.<p><strong>Example:</strong> a gated community;  a source control system with gated check-ins</p></li></ul></div></div>"
+description: Yes, GATED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- bated
+- dated
+- fated
+- gaged
+- galed
+- gamed
+- gaped
+- gater
+- gates
+- gazed
+- hated
+- lated
+anagrams:
+- detag
+trap:
+  pattern: _ATED
+  count: 10
+phonetic: "/ˈɡeɪtɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To keep something inside by means of a closed gate.
+  - text: To punish, especially a child or teenager, by not allowing them to go out.
+  - text: To open a closed ion channel.
+  - text: To furnish with a gate.
+  - text: To turn (an image intensifier) on and off selectively as needed, or to avoid
+      damage. See autogating.
+- pos: adjective
+  defs:
+  - text: Capable of being switched on and off (normally by means of a signal).
+  - text: Have a gate or other restricted access.
+    example: a gated community;  a source control system with gated check-ins
 ---
-

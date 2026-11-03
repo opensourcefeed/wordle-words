@@ -1,7 +1,65 @@
 ---
 layout: word
-title: laser
+title: Is LASER a Wordle Word?
+head_title: 'Is LASER a Wordle Word? Yes – Past Answer #1038 & Meaning'
 word: laser
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈleɪz.ə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A device that produces a monochromatic, coherent beam of light.</li><li><strong>Definition 2:</strong> A beam of light produced by such a device; a laser beam.</li><li><strong>Definition 3:</strong> A laser printer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut with a laser</li><li><strong>Definition 2:</strong> To throw with laser-like precision</li></ul></div></div>"
+description: Yes, LASER is a valid Wordle word. It was the Wordle answer on April
+  22, 2024 (#1038). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 22, 2024 (#1038).
+past_answers:
+- date: '2024-04-22'
+  number: 1038
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- lager
+- later
+- layer
+- loser
+- baser
+- caser
+- easer
+- lacer
+- lader
+- laker
+- lamer
+- lased
+anagrams:
+- arles
+- earls
+- laers
+- lares
+- lears
+- rales
+- reals
+- seral
+trap:
+  pattern: LA_ER
+  count: 11
+phonetic: "/ˈleɪz.ə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A device that produces a monochromatic, coherent beam of light.
+  - text: A beam of light produced by such a device; a laser beam.
+  - text: A laser printer.
+- pos: verb
+  defs:
+  - text: To cut with a laser
+  - text: To throw with laser-like precision
 ---
-

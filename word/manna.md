@@ -1,7 +1,48 @@
 ---
 layout: word
-title: manna
+title: Is MANNA a Wordle Word?
+head_title: Is MANNA a Wordle Word? Yes – Valid Guess & Meaning
 word: manna
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmænə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Food miraculously produced for the Israelites in the desert in the book of Exodus.</li><li><strong>Definition 2:</strong> (by extension) Any boon which comes into one's hands by good luck.</li><li><strong>Definition 3:</strong> The sugary sap of the manna gum tree which oozes out from holes drilled by insects and falls to the ground around the tree.http//www.museum.vic.gov.au/forest/plants/gum.html</li></ul></div></div>"
+description: Yes, MANNA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - N
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- manga
+- mania
+- canna
+- magna
+- manny
+- manoa
+- manta
+- nanna
+- panna
+- tanna
+- wanna
+trap:
+  pattern: _ANNA
+  count: 6
+phonetic: "/ˈmænə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Food miraculously produced for the Israelites in the desert in the book
+      of Exodus.
+  - text: "(by extension) Any boon which comes into one's hands by good luck."
+  - text: The sugary sap of the manna gum tree which oozes out from holes drilled
+      by insects and falls to the ground around the tree.http//www.museum.vic.gov.au/forest/plants/gum.html
 ---
-

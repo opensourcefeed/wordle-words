@@ -1,7 +1,42 @@
 ---
 layout: word
-title: breve
+title: Is BREVE a Wordle Word?
+head_title: Is BREVE a Wordle Word? Yes – Valid Guess & Meaning
 word: breve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹiːv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A semicircular diacritical mark (˘) placed above a vowel, commonly used to mark its quantity as short.</li><li><strong>Definition 2:</strong> A double whole note.</li><li><strong>Definition 3:</strong> Any writ or precept under seal, issued out of any court.</li><li><strong>Definition 4:</strong> The great ant thrush of Sumatra (Pitta gigas), which has a very short tail.</li></ul></div></div>"
+description: Yes, BREVE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- brave
+- brede
+- breme
+- brere
+- greve
+- preve
+anagrams:
+- bever
+phonetic: "/bɹiːv/"
+definitions:
+- pos: noun
+  defs:
+  - text: A semicircular diacritical mark (˘) placed above a vowel, commonly used
+      to mark its quantity as short.
+  - text: A double whole note.
+  - text: Any writ or precept under seal, issued out of any court.
+  - text: The great ant thrush of Sumatra (Pitta gigas), which has a very short tail.
 ---
-

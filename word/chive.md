@@ -1,7 +1,41 @@
 ---
 layout: word
-title: chive
+title: Is CHIVE a Wordle Word?
+head_title: Is CHIVE a Wordle Word? Yes – Valid Guess & Meaning
 word: chive
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃaɪv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A perennial plant, Allium schoenoprasum, related to the onion.</li><li><strong>Definition 2:</strong> (in the plural) The leaves of this plant used as a herb.</li><li><strong>Definition 3:</strong> The style and stigma of a flower, especially saffron.</li></ul></div></div>"
+description: Yes, CHIVE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- chide
+- chime
+- chave
+- chile
+- chine
+- chiva
+- chivs
+- chivy
+- shive
+phonetic: "/tʃaɪv/"
+definitions:
+- pos: noun
+  defs:
+  - text: A perennial plant, Allium schoenoprasum, related to the onion.
+  - text: "(in the plural) The leaves of this plant used as a herb."
+  - text: The style and stigma of a flower, especially saffron.
 ---
-

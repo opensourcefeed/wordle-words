@@ -1,7 +1,78 @@
 ---
 layout: word
-title: foxes
+title: Is FOXES a Wordle Word?
+head_title: Is FOXES a Wordle Word? Yes – Valid Guess & Meaning
 word: foxes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A red fox, small carnivore (Vulpes vulpes), related to dogs and wolves, with red or silver fur and a bushy tail.<p><strong>Example:</strong> The quick brown fox jumps over the lazy dog.</p></li><li><strong>Definition 2:</strong> Any of numerous species of small wild canids resembling the red fox. In the taxonomy they form the tribe Vulpini within the family Canidae, consisting of nine genera (see the Wikipedia article on the fox).</li><li><strong>Definition 3:</strong> The fur of a fox.</li><li><strong>Definition 4:</strong> A fox terrier.</li><li><strong>Definition 5:</strong> The gemmeous dragonet, a fish, Callionymus lyra, so called from its yellow color.</li><li><strong>Definition 6:</strong> A cunning person.</li><li><strong>Definition 7:</strong> A physically attractive man or woman.</li><li><strong>Definition 8:</strong> A small strand of rope made by twisting several rope-yarns together. Used for seizings, mats, sennits, and gaskets.</li><li><strong>Definition 9:</strong> A wedge driven into the split end of a bolt to tighten it.</li><li><strong>Definition 10:</strong> A hidden radio transmitter, finding which is the goal of radiosport.</li><li><strong>Definition 11:</strong> The fourteenth Lenormand card.</li><li><strong>Definition 12:</strong> A sword; so called from the stamp of a fox on the blade, or perhaps of a wolf taken for a fox.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trick, fool or outwit (someone) by cunning or ingenuity.</li><li><strong>Definition 2:</strong> To confuse or baffle (someone).<p><strong>Example:</strong> This crossword puzzle has completely foxed me.</p></li><li><strong>Definition 3:</strong> To act slyly or craftily.</li><li><strong>Definition 4:</strong> To discolour paper. Fox marks are spots on paper caused by humidity. (See foxing.)<p><strong>Example:</strong> The pages of the book show distinct foxing.</p></li><li><strong>Definition 5:</strong> To make sour, as beer, by causing it to ferment.</li><li><strong>Definition 6:</strong> To turn sour; said of beer, etc., when it sours in fermenting.</li><li><strong>Definition 7:</strong> To intoxicate; to stupefy with drink.</li><li><strong>Definition 8:</strong> To repair (boots) with new front upper leather, or to piece the upper fronts of.</li></ul></div></div>"
+description: Yes, FOXES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- boxes
+- coxes
+- doxes
+- faxes
+- fixes
+- fomes
+- fones
+- fores
+- foxed
+- goxes
+- hoxes
+- loxes
+trap:
+  pattern: _OXES
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A red fox, small carnivore (Vulpes vulpes), related to dogs and wolves,
+      with red or silver fur and a bushy tail.
+    example: The quick brown fox jumps over the lazy dog.
+  - text: Any of numerous species of small wild canids resembling the red fox. In
+      the taxonomy they form the tribe Vulpini within the family Canidae, consisting
+      of nine genera (see the Wikipedia article on the fox).
+  - text: The fur of a fox.
+  - text: A fox terrier.
+  - text: The gemmeous dragonet, a fish, Callionymus lyra, so called from its yellow
+      color.
+  - text: A cunning person.
+  - text: A physically attractive man or woman.
+  - text: A small strand of rope made by twisting several rope-yarns together. Used
+      for seizings, mats, sennits, and gaskets.
+  - text: A wedge driven into the split end of a bolt to tighten it.
+  - text: A hidden radio transmitter, finding which is the goal of radiosport.
+  - text: The fourteenth Lenormand card.
+  - text: A sword; so called from the stamp of a fox on the blade, or perhaps of a
+      wolf taken for a fox.
+- pos: verb
+  defs:
+  - text: To trick, fool or outwit (someone) by cunning or ingenuity.
+  - text: To confuse or baffle (someone).
+    example: This crossword puzzle has completely foxed me.
+  - text: To act slyly or craftily.
+  - text: To discolour paper. Fox marks are spots on paper caused by humidity. (See
+      foxing.)
+    example: The pages of the book show distinct foxing.
+  - text: To make sour, as beer, by causing it to ferment.
+  - text: To turn sour; said of beer, etc., when it sours in fermenting.
+  - text: To intoxicate; to stupefy with drink.
+  - text: To repair (boots) with new front upper leather, or to piece the upper fronts
+      of.
 ---
-

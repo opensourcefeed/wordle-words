@@ -1,7 +1,61 @@
 ---
 layout: word
-title: wards
+title: Is WARDS a Wordle Word?
+head_title: Is WARDS a Wordle Word? Yes – Valid Guess & Meaning
 word: wards
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A warden; a guard; a guardian or watchman.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Protection, defence.</li><li><strong>Definition 2:</strong> A protected place, and by extension, a type of subdivision.</li><li><strong>Definition 3:</strong> A person under guardianship.</li><li><strong>Definition 4:</strong> An object used for guarding.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To keep in safety, to watch over, to guard.</li><li><strong>Definition 2:</strong> To defend, to protect.</li><li><strong>Definition 3:</strong> To fend off, to repel, to turn aside, as anything mischievous that approaches; -- usually followed by off.</li><li><strong>Definition 4:</strong> To be vigilant; to keep guard.</li><li><strong>Definition 5:</strong> To act on the defensive with a weapon.</li></ul></div></div>"
+description: Yes, WARDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- bards
+- cards
+- eards
+- fards
+- hards
+- lards
+- mards
+- nards
+- pards
+- sards
+- wadds
+- walds
+anagrams:
+- draws
+- sward
+trap:
+  pattern: _ARDS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A warden; a guard; a guardian or watchman.
+- pos: noun
+  defs:
+  - text: Protection, defence.
+  - text: A protected place, and by extension, a type of subdivision.
+  - text: A person under guardianship.
+  - text: An object used for guarding.
+- pos: verb
+  defs:
+  - text: To keep in safety, to watch over, to guard.
+  - text: To defend, to protect.
+  - text: To fend off, to repel, to turn aside, as anything mischievous that approaches;
+      -- usually followed by off.
+  - text: To be vigilant; to keep guard.
+  - text: To act on the defensive with a weapon.
 ---
-

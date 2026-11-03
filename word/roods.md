@@ -1,7 +1,52 @@
 ---
 layout: word
-title: roods
+title: Is ROODS a Wordle Word?
+head_title: Is ROODS a Wordle Word? Yes – Valid Guess & Meaning
 word: roods
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A crucifix, cross, especially in a church.</li><li><strong>Definition 2:</strong> A measure of land area, equal to a quarter of an acre.</li><li><strong>Definition 3:</strong> A measure of five and a half yards in length.</li></ul></div></div>"
+description: Yes, ROODS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- foods
+- goods
+- hoods
+- moods
+- poods
+- roads
+- roids
+- roofs
+- rooks
+- rooms
+- roons
+- roops
+anagrams:
+- doors
+- odors
+- ordos
+- sordo
+trap:
+  pattern: _OODS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A crucifix, cross, especially in a church.
+  - text: A measure of land area, equal to a quarter of an acre.
+  - text: A measure of five and a half yards in length.
 ---
-

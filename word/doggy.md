@@ -1,7 +1,49 @@
 ---
 layout: word
-title: doggy
+title: Is DOGGY a Wordle Word?
+head_title: Is DOGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: doggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɒ.ɡi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dog, especially a small one.<p><strong>Example:</strong> That's such a cute little doggy, Keira!</p></li><li><strong>Definition 2:</strong> Doggy style<p><strong>Example:</strong> Her favourite position is doggy.</p></li><li><strong>Definition 3:</strong> (armed services) A junior temporarily assigned to do minor duties for a senior; a gofer.</li></ul></div></div>"
+description: Yes, DOGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- dodgy
+- foggy
+- soggy
+- boggy
+- daggy
+- dogey
+- doggo
+- dogly
+- loggy
+- moggy
+- noggy
+- poggy
+trap:
+  pattern: _OGGY
+  count: 8
+phonetic: "/ˈdɒ.ɡi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dog, especially a small one.
+    example: That's such a cute little doggy, Keira!
+  - text: Doggy style
+    example: Her favourite position is doggy.
+  - text: "(armed services) A junior temporarily assigned to do minor duties for a
+      senior; a gofer."
 ---
-

@@ -1,7 +1,74 @@
 ---
 layout: word
-title: nicks
+title: Is NICKS a Wordle Word?
+head_title: Is NICKS a Wordle Word? Yes – Valid Guess & Meaning
 word: nicks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small cut in a surface.</li><li><strong>Definition 2:</strong> Senses connoting something small.</li><li><strong>Definition 3:</strong> Often in the expressions in bad nick and in good nick: condition, state.<p><strong>Example:</strong> The car I bought was cheap and in good nick.</p></li><li><strong>Definition 4:</strong> (law enforcement) A police station or prison.<p><strong>Example:</strong> He was arrested and taken down to Sun Hill nick [police station] to be charged.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a nick or notch in; to cut or scratch in a minor way.<p><strong>Example:</strong> I nicked myself while I was shaving.</p></li><li><strong>Definition 2:</strong> To fit into or suit, as by a correspondence of nicks; to tally with.</li><li><strong>Definition 3:</strong> To make a cut at the side of the face.</li><li><strong>Definition 4:</strong> To steal.<p><strong>Example:</strong> Someone’s nicked my bike!</p></li><li><strong>Definition 5:</strong> (law enforcement) To arrest.<p><strong>Example:</strong> The police nicked him climbing over the fence of the house he’d broken into.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give or call (someone) by a nickname; to style.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A nix or nixie.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A familiar, invented given name for a person or thing used instead of the actual name of the person or thing.</li><li><strong>Definition 2:</strong> A kind of byname that describes a person by a characteristic of that person.</li></ul></div></div>"
+description: Yes, NICKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- hicks
+- kicks
+- licks
+- micks
+- necks
+- nicky
+- nocks
+- oicks
+- picks
+- ricks
+- sicks
+- ticks
+anagrams:
+- snick
+trap:
+  pattern: _ICKS
+  count: 12
+phonetic: "/nɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small cut in a surface.
+  - text: Senses connoting something small.
+  - text: 'Often in the expressions in bad nick and in good nick: condition, state.'
+    example: The car I bought was cheap and in good nick.
+  - text: "(law enforcement) A police station or prison."
+    example: He was arrested and taken down to Sun Hill nick [police station] to be
+      charged.
+- pos: verb
+  defs:
+  - text: To make a nick or notch in; to cut or scratch in a minor way.
+    example: I nicked myself while I was shaving.
+  - text: To fit into or suit, as by a correspondence of nicks; to tally with.
+  - text: To make a cut at the side of the face.
+  - text: To steal.
+    example: Someone’s nicked my bike!
+  - text: "(law enforcement) To arrest."
+    example: The police nicked him climbing over the fence of the house he’d broken
+      into.
+- pos: verb
+  defs:
+  - text: To give or call (someone) by a nickname; to style.
+- pos: noun
+  defs:
+  - text: A nix or nixie.
+- pos: noun
+  defs:
+  - text: A familiar, invented given name for a person or thing used instead of the
+      actual name of the person or thing.
+  - text: A kind of byname that describes a person by a characteristic of that person.
 ---
-

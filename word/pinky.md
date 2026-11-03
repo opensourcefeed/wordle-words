@@ -1,7 +1,52 @@
 ---
 layout: word
-title: pinky
+title: Is PINKY a Wordle Word?
+head_title: 'Is PINKY a Wordle Word? Yes – Past Answer #625 & Meaning'
 word: pinky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɪŋki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Methylated spirits mixed with red wine or Condy's crystals.</li><li><strong>Definition 2:</strong> A baby mouse, especially when used as food for a snake, etc.</li><li><strong>Definition 3:</strong> A white person.</li><li><strong>Definition 4:</strong> The Australasian snapper or pink snapper (Chrysophrys auratus).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Pinkish.</li></ul></div></div>"
+description: Yes, PINKY is a valid Wordle word. It was the Wordle answer on March
+  6, 2023 (#625). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 6, 2023 (#625).
+past_answers:
+- date: '2023-03-06'
+  number: 625
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- kinky
+- picky
+- piney
+- binky
+- dinky
+- hinky
+- linky
+- pinko
+- pinks
+- pinny
+- pisky
+- punky
+trap:
+  pattern: _INKY
+  count: 9
+phonetic: "/ˈpɪŋki/"
+definitions:
+- pos: noun
+  defs:
+  - text: Methylated spirits mixed with red wine or Condy's crystals.
+  - text: A baby mouse, especially when used as food for a snake, etc.
+  - text: A white person.
+  - text: The Australasian snapper or pink snapper (Chrysophrys auratus).
+- pos: adjective
+  defs:
+  - text: Pinkish.
 ---
-

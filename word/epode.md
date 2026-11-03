@@ -1,7 +1,37 @@
 ---
 layout: word
-title: epode
+title: Is EPODE a Wordle Word?
+head_title: Is EPODE a Wordle Word? Yes – Valid Guess & Meaning
 word: epode
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛpəʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The after song; the part of a lyric ode which follows the strophe and antistrophe.</li><li><strong>Definition 2:</strong> A kind of lyric poem, invented by Archilochus, in which a longer verse is followed by a shorter one.</li></ul></div></div>"
+description: Yes, EPODE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- erode
+- apode
+- exode
+- spode
+phonetic: "/ˈɛpəʊd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The after song; the part of a lyric ode which follows the strophe and antistrophe.
+  - text: A kind of lyric poem, invented by Archilochus, in which a longer verse is
+      followed by a shorter one.
 ---
-

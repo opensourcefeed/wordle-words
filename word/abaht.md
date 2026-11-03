@@ -1,7 +1,71 @@
 ---
 layout: word
-title: abaht
+title: Is ABAHT a Wordle Word?
+head_title: Is ABAHT a Wordle Word? Yes – Valid Guess & Meaning
 word: abaht
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈbɑːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> On all sides; around.<p><strong>Example:</strong> I looked about at the scenery that surrounded me.</p></li><li><strong>Definition 2:</strong> Here and there; around; in one place and another; up and down.<p><strong>Example:</strong> Bits of old machinery were lying about.</p></li><li><strong>Definition 3:</strong> From one place or position to another in succession; indicating repeated movement or activity.<p><strong>Example:</strong> walking about;  rushing about;  jumping about;  thrashing about</p></li><li><strong>Definition 4:</strong> Indicating unproductive or unstructured activity.<p><strong>Example:</strong> messing about;   fooling about;  loafing about</p></li><li><strong>Definition 5:</strong> Nearly; approximately; with close correspondence in quality, manner, degree, quantity, or time; almost.<p><strong>Example:</strong> Dinner's about ready.</p></li><li><strong>Definition 6:</strong> Near; in the vicinity.</li><li><strong>Definition 7:</strong> To a reversed order; half round; facing in the opposite direction; from a contrary point of view.<p><strong>Example:</strong> to face about;  to turn oneself about</p></li><li><strong>Definition 8:</strong> In succession; one after another; in the course of events.</li><li><strong>Definition 9:</strong> In circuit; circularly; by a circuitous way; around the outside; in circumference.<p><strong>Example:</strong> a mile about, and a third of a mile across</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> In a circle around; all round; on every side of; on the outside of.<p><strong>Example:</strong> The snake was coiled about his ankle.</p></li><li><strong>Definition 2:</strong> Over or upon different parts of; through or over in various directions; here and there in; to and fro in; throughout.<p><strong>Example:</strong> He was well known about town.</p></li><li><strong>Definition 3:</strong> Indicates that something will happen very soon; indicates a plan or intention to do something.</li><li><strong>Definition 4:</strong> Concerning; with regard to; on account of; on the subject of; to affect.<p><strong>Example:</strong> He talked a lot about his childhood.</p></li><li><strong>Definition 5:</strong> Concerned with; engaged in; intent on.<p><strong>Example:</strong> to be about one's business</p></li><li><strong>Definition 6:</strong> Within or in the immediate neighborhood of; in contiguity or proximity to; near, as to place.<p><strong>Example:</strong> I can't find my reading glasses, but they must be somewhere about the house.</p></li><li><strong>Definition 7:</strong> On one's person; nearby the person.<p><strong>Example:</strong> I had no weapon about me but a stick.</p></li><li><strong>Definition 8:</strong> In or near, as in mental faculties or in the possession of; under the control of; at one's command; in one's makeup.<p><strong>Example:</strong> He has his wits about him.</p></li></ul></div></div>"
+description: Yes, ABAHT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- abaft
+phonetic: "/əˈbɑːt/"
+definitions:
+- pos: adverb
+  defs:
+  - text: On all sides; around.
+    example: I looked about at the scenery that surrounded me.
+  - text: Here and there; around; in one place and another; up and down.
+    example: Bits of old machinery were lying about.
+  - text: From one place or position to another in succession; indicating repeated
+      movement or activity.
+    example: walking about;  rushing about;  jumping about;  thrashing about
+  - text: Indicating unproductive or unstructured activity.
+    example: messing about;   fooling about;  loafing about
+  - text: Nearly; approximately; with close correspondence in quality, manner, degree,
+      quantity, or time; almost.
+    example: Dinner's about ready.
+  - text: Near; in the vicinity.
+  - text: To a reversed order; half round; facing in the opposite direction; from
+      a contrary point of view.
+    example: to face about;  to turn oneself about
+  - text: In succession; one after another; in the course of events.
+  - text: In circuit; circularly; by a circuitous way; around the outside; in circumference.
+    example: a mile about, and a third of a mile across
+- pos: preposition
+  defs:
+  - text: In a circle around; all round; on every side of; on the outside of.
+    example: The snake was coiled about his ankle.
+  - text: Over or upon different parts of; through or over in various directions;
+      here and there in; to and fro in; throughout.
+    example: He was well known about town.
+  - text: Indicates that something will happen very soon; indicates a plan or intention
+      to do something.
+  - text: Concerning; with regard to; on account of; on the subject of; to affect.
+    example: He talked a lot about his childhood.
+  - text: Concerned with; engaged in; intent on.
+    example: to be about one's business
+  - text: Within or in the immediate neighborhood of; in contiguity or proximity to;
+      near, as to place.
+    example: I can't find my reading glasses, but they must be somewhere about the
+      house.
+  - text: On one's person; nearby the person.
+    example: I had no weapon about me but a stick.
+  - text: In or near, as in mental faculties or in the possession of; under the control
+      of; at one's command; in one's makeup.
+    example: He has his wits about him.
 ---
-

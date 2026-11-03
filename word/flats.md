@@ -1,7 +1,94 @@
 ---
 layout: word
-title: flats
+title: Is FLATS a Wordle Word?
+head_title: Is FLATS a Wordle Word? Yes – Valid Guess & Meaning
 word: flats
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An area of level ground.</li><li><strong>Definition 2:</strong> A note played a semitone lower than a natural, denoted by the symbol ♭ placed after the letter representing the note (e.g., B♭) or in front of the note symbol (e.g. ♭♪).</li><li><strong>Definition 3:</strong> A flat tyre/tire.</li><li><strong>Definition 4:</strong> (in the plural) A type of ladies' shoes with very low heels.<p><strong>Example:</strong> She liked to walk in her flats more than in her high heels.</p></li><li><strong>Definition 5:</strong> (in the plural) A type of flat-soled running shoe without spikes.</li><li><strong>Definition 6:</strong> A thin, broad brush used in oil and watercolor/watercolour painting.</li><li><strong>Definition 7:</strong> The flat part of something:</li><li><strong>Definition 8:</strong> A wide, shallow container or pallet.<p><strong>Example:</strong> a flat of strawberries</p></li><li><strong>Definition 9:</strong> (mail) A large mail piece measuring at least 8 1/2 by 11 inches, such as catalogs, magazines, and unfolded paper enclosed in large envelopes.</li><li><strong>Definition 10:</strong> A railroad car without a roof, and whose body is a platform without sides; a platform car or flatcar.</li><li><strong>Definition 11:</strong> A flat-bottomed boat, without keel, and of small draught.</li><li><strong>Definition 12:</strong> A subset of n-dimensional space that is congruent to a Euclidean space of lower dimension.</li><li><strong>Definition 13:</strong> A straw hat, broad-brimmed and low-crowned.</li><li><strong>Definition 14:</strong> A flat sheet for use on a bed.</li><li><strong>Definition 15:</strong> A platform on a wheel, upon which emblematic designs etc. are carried in processions.</li><li><strong>Definition 16:</strong> A horizontal vein or ore deposit auxiliary to a main vein; also, any horizontal portion of a vein not elsewhere horizontal.</li><li><strong>Definition 17:</strong> A dull fellow; a simpleton.</li><li><strong>Definition 18:</strong> (technical, theatre) A rectangular wooden structure covered with masonite, lauan, or muslin that depicts a building or other part of a scene, also called backcloth and backdrop.</li><li><strong>Definition 19:</strong> Any of various hesperiid butterflies that spread their wings open when they land.</li><li><strong>Definition 20:</strong> An early kind of toy soldier having a flat design.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a flat call; to call without raising.</li><li><strong>Definition 2:</strong> To become flat or flattened; to sink or fall to an even surface.</li><li><strong>Definition 3:</strong> To fall from the pitch.</li><li><strong>Definition 4:</strong> To depress in tone, as a musical note; especially, to lower in pitch by half a tone.</li><li><strong>Definition 5:</strong> To make flat; to flatten; to level.</li><li><strong>Definition 6:</strong> To render dull, insipid, or spiritless; to depress.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An apartment, usually on one level and usually consisting of more than one room.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To beat or strike; pound</li><li><strong>Definition 2:</strong> To dash or throw</li><li><strong>Definition 3:</strong> To dash, rush</li></ul></div></div>"
+description: Yes, FLATS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- blats
+- clats
+- feats
+- fiats
+- flabs
+- flags
+- flaks
+- flams
+- flans
+- flaps
+- flaws
+- flays
+trap:
+  pattern: FLA_S
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: An area of level ground.
+  - text: A note played a semitone lower than a natural, denoted by the symbol ♭ placed
+      after the letter representing the note (e.g., B♭) or in front of the note symbol
+      (e.g. ♭♪).
+  - text: A flat tyre/tire.
+  - text: "(in the plural) A type of ladies' shoes with very low heels."
+    example: She liked to walk in her flats more than in her high heels.
+  - text: "(in the plural) A type of flat-soled running shoe without spikes."
+  - text: A thin, broad brush used in oil and watercolor/watercolour painting.
+  - text: 'The flat part of something:'
+  - text: A wide, shallow container or pallet.
+    example: a flat of strawberries
+  - text: "(mail) A large mail piece measuring at least 8 1/2 by 11 inches, such as
+      catalogs, magazines, and unfolded paper enclosed in large envelopes."
+  - text: A railroad car without a roof, and whose body is a platform without sides;
+      a platform car or flatcar.
+  - text: A flat-bottomed boat, without keel, and of small draught.
+  - text: A subset of n-dimensional space that is congruent to a Euclidean space of
+      lower dimension.
+  - text: A straw hat, broad-brimmed and low-crowned.
+  - text: A flat sheet for use on a bed.
+  - text: A platform on a wheel, upon which emblematic designs etc. are carried in
+      processions.
+  - text: A horizontal vein or ore deposit auxiliary to a main vein; also, any horizontal
+      portion of a vein not elsewhere horizontal.
+  - text: A dull fellow; a simpleton.
+  - text: "(technical, theatre) A rectangular wooden structure covered with masonite,
+      lauan, or muslin that depicts a building or other part of a scene, also called
+      backcloth and backdrop."
+  - text: Any of various hesperiid butterflies that spread their wings open when they
+      land.
+  - text: An early kind of toy soldier having a flat design.
+- pos: verb
+  defs:
+  - text: To make a flat call; to call without raising.
+  - text: To become flat or flattened; to sink or fall to an even surface.
+  - text: To fall from the pitch.
+  - text: To depress in tone, as a musical note; especially, to lower in pitch by
+      half a tone.
+  - text: To make flat; to flatten; to level.
+  - text: To render dull, insipid, or spiritless; to depress.
+- pos: noun
+  defs:
+  - text: An apartment, usually on one level and usually consisting of more than one
+      room.
+- pos: verb
+  defs:
+  - text: To beat or strike; pound
+  - text: To dash or throw
+  - text: To dash, rush
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: riven
+title: Is RIVEN a Wordle Word?
+head_title: Is RIVEN a Wordle Word? Yes – Valid Guess & Meaning
 word: riven
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɪvən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tear apart by force; to rend; to split; to cleave.</li><li><strong>Definition 2:</strong> To pierce or cleave with a weapon.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Torn apart.</li><li><strong>Definition 2:</strong> Broken into pieces; split asunder.</li></ul></div></div>"
+description: Yes, RIVEN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- given
+- raven
+- ripen
+- risen
+- river
+- rivet
+- liven
+- rived
+- rivel
+- rives
+- roven
+anagrams:
+- inver
+- viner
+trap:
+  pattern: RIVE_
+  count: 6
+phonetic: "/ˈɹɪvən/"
+definitions:
+- pos: verb
+  defs:
+  - text: To tear apart by force; to rend; to split; to cleave.
+  - text: To pierce or cleave with a weapon.
+- pos: adjective
+  defs:
+  - text: Torn apart.
+  - text: Broken into pieces; split asunder.
 ---
-

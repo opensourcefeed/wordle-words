@@ -1,7 +1,82 @@
 ---
 layout: word
-title: ranks
+title: Is RANKS a Wordle Word?
+head_title: Is RANKS a Wordle Word? Yes – Valid Guess & Meaning
 word: ranks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹæŋks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A row of people or things organized in a grid pattern, often soldiers [the corresponding term for the perpendicular columns in such a pattern is \"file\"].<p><strong>Example:</strong> The front rank kneeled to reload while the second rank fired over their heads.</p></li><li><strong>Definition 2:</strong> In a pipe organ, a set of pipes of a certain quality for which each pipe corresponds to one key or pedal.</li><li><strong>Definition 3:</strong> One's position in a list sorted by a shared property such as physical location, population, or quality<p><strong>Example:</strong> Based on your test scores, you have a rank of 23.</p></li><li><strong>Definition 4:</strong> The level of one's position in a class-based society</li><li><strong>Definition 5:</strong> A hierarchical level in an organization such as the military<p><strong>Example:</strong> He rose up through the ranks of the company, from mailroom clerk to CEO.</p></li><li><strong>Definition 6:</strong> A level in a scientific taxonomy system<p><strong>Example:</strong> Phylum is the taxonomic rank below kingdom and above class.</p></li><li><strong>Definition 7:</strong> Maximal number of linearly independent columns (or rows) of a matrix.</li><li><strong>Definition 8:</strong> The dimensionality of an array or tensor.</li><li><strong>Definition 9:</strong> The maximum quantity of D-linearly independent elements of a module (over an integral domain D).</li><li><strong>Definition 10:</strong> The size of any basis of a given matroid.</li><li><strong>Definition 11:</strong> One of the eight horizontal lines of squares on a chessboard (i.e., those identified by a number). The analog vertical lines are the files.</li><li><strong>Definition 12:</strong> (typically in the plural) A category of people, such as those who share an occupation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place abreast, or in a line.</li><li><strong>Definition 2:</strong> To have a ranking.<p><strong>Example:</strong> Their defense ranked third in the league.</p></li><li><strong>Definition 3:</strong> To assign a suitable place in a class or order; to classify.</li><li><strong>Definition 4:</strong> To take rank of; to outrank.</li></ul></div></div>"
+description: Yes, RANKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- banks
+- danks
+- fanks
+- ganks
+- hanks
+- lanks
+- manks
+- panks
+- racks
+- raiks
+- ranas
+- rands
+anagrams:
+- karns
+- knars
+- krans
+- narks
+- skarn
+- skran
+- snark
+trap:
+  pattern: _ANKS
+  count: 12
+phonetic: "/ɹæŋks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A row of people or things organized in a grid pattern, often soldiers [the
+      corresponding term for the perpendicular columns in such a pattern is "file"].
+    example: The front rank kneeled to reload while the second rank fired over their
+      heads.
+  - text: In a pipe organ, a set of pipes of a certain quality for which each pipe
+      corresponds to one key or pedal.
+  - text: One's position in a list sorted by a shared property such as physical location,
+      population, or quality
+    example: Based on your test scores, you have a rank of 23.
+  - text: The level of one's position in a class-based society
+  - text: A hierarchical level in an organization such as the military
+    example: He rose up through the ranks of the company, from mailroom clerk to CEO.
+  - text: A level in a scientific taxonomy system
+    example: Phylum is the taxonomic rank below kingdom and above class.
+  - text: Maximal number of linearly independent columns (or rows) of a matrix.
+  - text: The dimensionality of an array or tensor.
+  - text: The maximum quantity of D-linearly independent elements of a module (over
+      an integral domain D).
+  - text: The size of any basis of a given matroid.
+  - text: One of the eight horizontal lines of squares on a chessboard (i.e., those
+      identified by a number). The analog vertical lines are the files.
+  - text: "(typically in the plural) A category of people, such as those who share
+      an occupation."
+- pos: verb
+  defs:
+  - text: To place abreast, or in a line.
+  - text: To have a ranking.
+    example: Their defense ranked third in the league.
+  - text: To assign a suitable place in a class or order; to classify.
+  - text: To take rank of; to outrank.
 ---
-

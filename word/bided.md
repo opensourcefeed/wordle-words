@@ -1,7 +1,50 @@
 ---
 layout: word
-title: bided
+title: Is BIDED a Wordle Word?
+head_title: Is BIDED a Wordle Word? Yes – Valid Guess & Meaning
 word: bided
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbaɪdɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bear; to endure; to tolerate.</li><li><strong>Definition 2:</strong> To dwell or reside in a location; to abide.</li><li><strong>Definition 3:</strong> To wait; to be in expectation; to stay; to remain.</li><li><strong>Definition 4:</strong> To wait for; to await.</li></ul></div></div>"
+description: Yes, BIDED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- aided
+- bider
+- bides
+- bidet
+- biked
+- biled
+- biped
+- boded
+- buded
+- byded
+- cided
+- hided
+trap:
+  pattern: _IDED
+  count: 7
+phonetic: "/ˈbaɪdɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To bear; to endure; to tolerate.
+  - text: To dwell or reside in a location; to abide.
+  - text: To wait; to be in expectation; to stay; to remain.
+  - text: To wait for; to await.
 ---
-

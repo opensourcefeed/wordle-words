@@ -1,7 +1,87 @@
 ---
 layout: word
-title: bound
+title: Is BOUND a Wordle Word?
+head_title: Is BOUND a Wordle Word? Yes – Possible Answer & Meaning
 word: bound
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbaʊnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tie; to confine by any ligature.</li><li><strong>Definition 2:</strong> To cohere or stick together in a mass.<p><strong>Example:</strong> Just to make the cheese more binding</p></li><li><strong>Definition 3:</strong> To be restrained from motion, or from customary or natural action, as by friction.<p><strong>Example:</strong> I wish I knew why the sewing machine binds up after I use it for a while.</p></li><li><strong>Definition 4:</strong> To exert a binding or restraining influence.<p><strong>Example:</strong> These are the ties that bind.</p></li><li><strong>Definition 5:</strong> To tie or fasten tightly together, with a cord, band, ligature, chain, etc.<p><strong>Example:</strong> to bind grain in bundles  to bind a prisoner</p></li><li><strong>Definition 6:</strong> To confine, restrain, or hold by physical force or influence of any kind.<p><strong>Example:</strong> Frost binds the earth.</p></li><li><strong>Definition 7:</strong> To couple.</li><li><strong>Definition 8:</strong> To oblige, restrain, or hold, by authority, law, duty, promise, vow, affection, or other social tie.<p><strong>Example:</strong> to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other</p></li><li><strong>Definition 9:</strong> To put (a person) under definite legal obligations, especially, under the obligation of a bond or covenant.</li><li><strong>Definition 10:</strong> To place under legal obligation to serve.<p><strong>Example:</strong> to bind an apprentice  bound out to service</p></li><li><strong>Definition 11:</strong> To protect or strengthen by applying a band or binding, as the edge of a carpet or garment.</li><li><strong>Definition 12:</strong> To make fast (a thing) about or upon something, as by tying; to encircle with something.<p><strong>Example:</strong> to bind a belt about one  to bind a compress upon a wound</p></li><li><strong>Definition 13:</strong> To cover, as with a bandage.<p><strong>Example:</strong> to bind up a wound</p></li><li><strong>Definition 14:</strong> To prevent or restrain from customary or natural action, as by producing constipation.<p><strong>Example:</strong> Certain drugs bind the bowels.</p></li><li><strong>Definition 15:</strong> To put together in a cover, as of books.<p><strong>Example:</strong> The three novels were bound together.</p></li><li><strong>Definition 16:</strong> To make two or more elements stick together.</li><li><strong>Definition 17:</strong> To associate an identifier with a value; to associate a variable name, method name, etc. with the content of a storage location.</li><li><strong>Definition 18:</strong> To complain; to whine about something.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (with infinitive) Obliged (to).<p><strong>Example:</strong> You are not legally bound to reply.</p></li><li><strong>Definition 2:</strong> (of a morpheme) That cannot stand alone as a free word.</li><li><strong>Definition 3:</strong> (of a variable) Constrained by a quantifier.</li><li><strong>Definition 4:</strong> Constipated; costive.</li><li><strong>Definition 5:</strong> Confined or restricted to a certain place; e.g. railbound.</li><li><strong>Definition 6:</strong> Unable to move in certain conditions; e.g. snowbound.</li></ul></div></div>"
+description: Yes, BOUND is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- found
+- hound
+- mound
+- pound
+- round
+- sound
+- wound
+- bouns
+- bourd
+- lound
+trap:
+  pattern: _OUND
+  count: 9
+phonetic: "/ˈbaʊnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To tie; to confine by any ligature.
+  - text: To cohere or stick together in a mass.
+    example: Just to make the cheese more binding
+  - text: To be restrained from motion, or from customary or natural action, as by
+      friction.
+    example: I wish I knew why the sewing machine binds up after I use it for a while.
+  - text: To exert a binding or restraining influence.
+    example: These are the ties that bind.
+  - text: To tie or fasten tightly together, with a cord, band, ligature, chain, etc.
+    example: to bind grain in bundles  to bind a prisoner
+  - text: To confine, restrain, or hold by physical force or influence of any kind.
+    example: Frost binds the earth.
+  - text: To couple.
+  - text: To oblige, restrain, or hold, by authority, law, duty, promise, vow, affection,
+      or other social tie.
+    example: to bind the conscience  to bind by kindness  bound by affection  commerce
+      binds nations to each other
+  - text: To put (a person) under definite legal obligations, especially, under the
+      obligation of a bond or covenant.
+  - text: To place under legal obligation to serve.
+    example: to bind an apprentice  bound out to service
+  - text: To protect or strengthen by applying a band or binding, as the edge of a
+      carpet or garment.
+  - text: To make fast (a thing) about or upon something, as by tying; to encircle
+      with something.
+    example: to bind a belt about one  to bind a compress upon a wound
+  - text: To cover, as with a bandage.
+    example: to bind up a wound
+  - text: To prevent or restrain from customary or natural action, as by producing
+      constipation.
+    example: Certain drugs bind the bowels.
+  - text: To put together in a cover, as of books.
+    example: The three novels were bound together.
+  - text: To make two or more elements stick together.
+  - text: To associate an identifier with a value; to associate a variable name, method
+      name, etc. with the content of a storage location.
+  - text: To complain; to whine about something.
+- pos: adjective
+  defs:
+  - text: "(with infinitive) Obliged (to)."
+    example: You are not legally bound to reply.
+  - text: "(of a morpheme) That cannot stand alone as a free word."
+  - text: "(of a variable) Constrained by a quantifier."
+  - text: Constipated; costive.
+  - text: Confined or restricted to a certain place; e.g. railbound.
+  - text: Unable to move in certain conditions; e.g. snowbound.
 ---
-

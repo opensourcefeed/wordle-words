@@ -1,7 +1,42 @@
 ---
 layout: word
-title: vegas
+title: Is VEGAS a Wordle Word?
+head_title: Is VEGAS a Wordle Word? Yes – Valid Guess & Meaning
 word: vegas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (Latin America) An open tract of ground; a plain, especially one which is moist and fertile, such as those used for growing tobacco.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A measurement of the sensitivity of the value of an option to changes in the implied volatility of the price of the underlying asset.</li></ul></div></div>"
+description: Yes, VEGAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- vegan
+- degas
+- segas
+- veges
+- vegos
+- venas
+- vigas
+definitions:
+- pos: noun
+  defs:
+  - text: "(Latin America) An open tract of ground; a plain, especially one which
+      is moist and fertile, such as those used for growing tobacco."
+- pos: noun
+  defs:
+  - text: A measurement of the sensitivity of the value of an option to changes in
+      the implied volatility of the price of the underlying asset.
 ---
-

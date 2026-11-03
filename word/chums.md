@@ -1,7 +1,51 @@
 ---
 layout: word
-title: chums
+title: Is CHUMS a Wordle Word?
+head_title: Is CHUMS a Wordle Word? Yes – Valid Guess & Meaning
 word: chums
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃʌmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A friend; a pal.<p><strong>Example:</strong> I ran into an old chum from school the other day.</p></li><li><strong>Definition 2:</strong> A roommate, especially in a college or university.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To share rooms with someone; to live together.</li><li><strong>Definition 2:</strong> To lodge (somebody) with another person or people.</li><li><strong>Definition 3:</strong> To make friends; to socialize.</li><li><strong>Definition 4:</strong> To accompany.<p><strong>Example:</strong> I'll chum you down to the shops.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cast chum into the water to attract fish.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coarse mould for holding the clay while being worked on a whirler, lathe or manually.</li></ul></div></div>"
+description: Yes, CHUMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- chump
+- caums
+- chams
+- chems
+- chubs
+- chugs
+- chuts
+phonetic: "/tʃʌmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A friend; a pal.
+    example: I ran into an old chum from school the other day.
+  - text: A roommate, especially in a college or university.
+- pos: verb
+  defs:
+  - text: To share rooms with someone; to live together.
+  - text: To lodge (somebody) with another person or people.
+  - text: To make friends; to socialize.
+  - text: To accompany.
+    example: I'll chum you down to the shops.
+- pos: verb
+  defs:
+  - text: To cast chum into the water to attract fish.
+- pos: noun
+  defs:
+  - text: A coarse mould for holding the clay while being worked on a whirler, lathe
+      or manually.
 ---
-

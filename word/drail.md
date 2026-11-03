@@ -1,7 +1,48 @@
 ---
 layout: word
-title: drail
+title: Is DRAIL a Wordle Word?
+head_title: Is DRAIL a Wordle Word? Yes – Valid Guess & Meaning
 word: drail
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹeɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hook with a lead shank.</li><li><strong>Definition 2:</strong> The piece of lead around the shank of such a hook.</li><li><strong>Definition 3:</strong> The iron bow of a plough from which the traces draw.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trail; to draggle.</li></ul></div></div>"
+description: Yes, DRAIL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- drain
+- drawl
+- frail
+- grail
+- trail
+- brail
+- droil
+anagrams:
+- laird
+- liard
+- lidar
+phonetic: "/dɹeɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hook with a lead shank.
+  - text: The piece of lead around the shank of such a hook.
+  - text: The iron bow of a plough from which the traces draw.
+- pos: verb
+  defs:
+  - text: To trail; to draggle.
 ---
-

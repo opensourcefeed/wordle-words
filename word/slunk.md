@@ -1,7 +1,45 @@
 ---
 layout: word
-title: slunk
+title: Is SLUNK a Wordle Word?
+head_title: Is SLUNK a Wordle Word? Yes – Possible Answer & Meaning
 word: slunk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slʌŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sneak about furtively.</li><li><strong>Definition 2:</strong> To give birth to an animal prematurely.<p><strong>Example:</strong> a cow that slinks her calf</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An animal, especially a calf, born prematurely or abortively.</li></ul></div></div>"
+description: Yes, SLUNK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- flunk
+- plunk
+- skunk
+- slink
+- slung
+- spunk
+- stunk
+- blunk
+- clunk
+- slank
+anagrams:
+- lunks
+phonetic: "/slʌŋk/"
+definitions:
+- pos: verb
+  defs:
+  - text: To sneak about furtively.
+  - text: To give birth to an animal prematurely.
+    example: a cow that slinks her calf
+- pos: noun
+  defs:
+  - text: An animal, especially a calf, born prematurely or abortively.
 ---
-

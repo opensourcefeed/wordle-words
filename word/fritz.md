@@ -1,7 +1,47 @@
 ---
 layout: word
-title: fritz
+title: Is FRITZ a Wordle Word?
+head_title: 'Is FRITZ a Wordle Word? Yes – Past Answer #1561 & Meaning'
 word: fritz
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɹɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The state of being defective.</li><li><strong>Definition 2:</strong> (chiefly South Australia) A type of processed meat sausage; devon</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To go wrong or become defective.</li></ul></div></div>"
+description: Yes, FRITZ is a valid Wordle word. It was the Wordle answer on September
+  27, 2025 (#1561). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 27, 2025 (#1561).
+past_answers:
+- date: '2025-09-27'
+  number: 1561
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - T
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- frita
+- frite
+- frith
+- frits
+- fritt
+- frizz
+trap:
+  pattern: FRIT_
+  count: 6
+phonetic: "/fɹɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: The state of being defective.
+  - text: "(chiefly South Australia) A type of processed meat sausage; devon"
+- pos: verb
+  defs:
+  - text: To go wrong or become defective.
 ---
-

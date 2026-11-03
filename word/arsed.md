@@ -1,7 +1,52 @@
 ---
 layout: word
-title: arsed
+title: Is ARSED a Wordle Word?
+head_title: Is ARSED a Wordle Word? Yes – Valid Guess & Meaning
 word: arsed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be silly, act stupid or mess around.<p><strong>Example:</strong> Stop arsing around!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Bothered; willing to make an effort.<p><strong>Example:</strong> 2008, Lynn Broadbent, Infinite Ideas Staff, Be Arsed: 365 Brilliant Ideas for Getting Off Your Backside and Living Life to the Full.</p></li></ul></div></div>"
+description: Yes, ARSED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- aksed
+- arced
+- arked
+- arled
+- armed
+- arses
+- arsey
+- assed
+anagrams:
+- dares
+- dears
+- eards
+- rased
+- reads
+- sared
+definitions:
+- pos: verb
+  defs:
+  - text: To be silly, act stupid or mess around.
+    example: Stop arsing around!
+- pos: adjective
+  defs:
+  - text: Bothered; willing to make an effort.
+    example: '2008, Lynn Broadbent, Infinite Ideas Staff, Be Arsed: 365 Brilliant
+      Ideas for Getting Off Your Backside and Living Life to the Full.'
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: cedar
+title: Is CEDAR a Wordle Word?
+head_title: 'Is CEDAR a Wordle Word? Yes – Past Answer #679 & Meaning'
 word: cedar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsiː.də/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coniferous tree of the genus Cedrus in the family Pinaceae.</li><li><strong>Definition 2:</strong> A coniferous tree of the family Cupressaceae, especially of the genera Juniperus, Cupressus, Calocedrus, or Thuja.</li><li><strong>Definition 3:</strong> A flowering tree of the family Meliaceae, especially of the genera Cedrela or Toona.</li><li><strong>Definition 4:</strong> The aromatic wood from a Cedrus tree, or from any of several unrelated trees.</li></ul></div></div>"
+description: Yes, CEDAR is a valid Wordle word. It was the Wordle answer on April
+  29, 2023 (#679). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 29, 2023 (#679).
+past_answers:
+- date: '2023-04-29'
+  number: 679
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- ceder
+anagrams:
+- acred
+- arced
+- cadre
+- cared
+- ecard
+- raced
+phonetic: "/ˈsiː.də/"
+definitions:
+- pos: noun
+  defs:
+  - text: A coniferous tree of the genus Cedrus in the family Pinaceae.
+  - text: A coniferous tree of the family Cupressaceae, especially of the genera Juniperus,
+      Cupressus, Calocedrus, or Thuja.
+  - text: A flowering tree of the family Meliaceae, especially of the genera Cedrela
+      or Toona.
+  - text: The aromatic wood from a Cedrus tree, or from any of several unrelated trees.
 ---
-

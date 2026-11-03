@@ -1,6 +1,41 @@
 ---
 layout: word
-title: rowie
+title: Is ROWIE a Wordle Word?
+head_title: Is ROWIE a Wordle Word? Yes – Valid Guess
 word: rowie
+description: Yes, ROWIE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- bowie
+- dowie
+- mowie
+- powie
+- rorie
+- rowme
+- towie
+- yowie
+- zowie
+anagrams:
+- owrie
+trap:
+  pattern: _OWIE
+  count: 8
 ---
-

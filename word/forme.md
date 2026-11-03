@@ -1,7 +1,53 @@
 ---
 layout: word
-title: forme
+title: Is FORME a Wordle Word?
+head_title: Is FORME a Wordle Word? Yes – Valid Guess & Meaning
 word: forme
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (heading, physical) To do with shape.</li><li><strong>Definition 2:</strong> (social) To do with structure or procedure.</li><li><strong>Definition 3:</strong> A blank document or template to be filled in by the user.<p><strong>Example:</strong> To apply for the position, complete the application form.</p></li><li><strong>Definition 4:</strong> A specimen document to be copied or imitated.</li><li><strong>Definition 5:</strong> Level of performance.<p><strong>Example:</strong> The orchestra was on top form this evening.</p></li><li><strong>Definition 6:</strong> (grammar) A grouping of words which maintain grammatical context in different usages; the particular shape or structure of a word or part of speech.<p><strong>Example:</strong> participial forms;  verb forms</p></li><li><strong>Definition 7:</strong> The den or home of a hare.</li><li><strong>Definition 8:</strong> A window or dialogue box.</li><li><strong>Definition 9:</strong> An infraspecific rank.</li><li><strong>Definition 10:</strong> The type or other matter from which an impression is to be taken, arranged and secured in a chase.</li><li><strong>Definition 11:</strong> A quantic.</li><li><strong>Definition 12:</strong> (fitness) A specific way of performing a movement.</li></ul></div></div>"
+description: Yes, FORME is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- force
+- forge
+- forte
+- forma
+- forms
+- forze
+- horme
+definitions:
+- pos: noun
+  defs:
+  - text: "(heading, physical) To do with shape."
+  - text: "(social) To do with structure or procedure."
+  - text: A blank document or template to be filled in by the user.
+    example: To apply for the position, complete the application form.
+  - text: A specimen document to be copied or imitated.
+  - text: Level of performance.
+    example: The orchestra was on top form this evening.
+  - text: "(grammar) A grouping of words which maintain grammatical context in different
+      usages; the particular shape or structure of a word or part of speech."
+    example: participial forms;  verb forms
+  - text: The den or home of a hare.
+  - text: A window or dialogue box.
+  - text: An infraspecific rank.
+  - text: The type or other matter from which an impression is to be taken, arranged
+      and secured in a chase.
+  - text: A quantic.
+  - text: "(fitness) A specific way of performing a movement."
 ---
-

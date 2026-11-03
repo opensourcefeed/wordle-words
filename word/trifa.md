@@ -1,7 +1,33 @@
 ---
 layout: word
-title: trifa
+title: Is TRIFA a Wordle Word?
+head_title: Is TRIFA a Wordle Word? Yes – Valid Guess
 word: trifa
-meaning: ""
+description: Yes, TRIFA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - I
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- trefa
+- triff
+anagrams:
+- afrit
+- frati
+- frita
+- iftar
 ---
-

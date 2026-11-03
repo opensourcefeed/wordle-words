@@ -1,7 +1,47 @@
 ---
 layout: word
-title: flams
+title: Is FLAMS a Wordle Word?
+head_title: Is FLAMS a Wordle Word? Yes – Valid Guess & Meaning
 word: flams
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To deceive with a falsehood.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (drumming) To play (notes as) a flam.</li></ul></div></div>"
+description: Yes, FLAMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- flame
+- blams
+- clams
+- flabs
+- flags
+- flaks
+- flamm
+- flamy
+- flans
+- flaps
+- flats
+- flaws
+trap:
+  pattern: FLA_S
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To deceive with a falsehood.
+- pos: verb
+  defs:
+  - text: "(drumming) To play (notes as) a flam."
 ---
-

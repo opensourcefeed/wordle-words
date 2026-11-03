@@ -1,7 +1,46 @@
 ---
 layout: word
-title: dippy
+title: Is DIPPY a Wordle Word?
+head_title: Is DIPPY a Wordle Word? Yes – Valid Guess & Meaning
 word: dippy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Lacking common sense.</li><li><strong>Definition 2:</strong> Having romantic feelings for; excited or enthusiastic about.</li><li><strong>Definition 3:</strong> Of an egg: cooked so that the yolk remains runny and can be used for dipping.</li><li><strong>Definition 4:</strong> Involving or suited to dipping.</li></ul></div></div>"
+description: Yes, DIPPY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- hippy
+- bippy
+- dappy
+- duppy
+- gippy
+- lippy
+- nippy
+- pippy
+- sippy
+- tippy
+- yippy
+- zippy
+trap:
+  pattern: _IPPY
+  count: 11
+definitions:
+- pos: adjective
+  defs:
+  - text: Lacking common sense.
+  - text: Having romantic feelings for; excited or enthusiastic about.
+  - text: 'Of an egg: cooked so that the yolk remains runny and can be used for dipping.'
+  - text: Involving or suited to dipping.
 ---
-

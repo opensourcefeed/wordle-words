@@ -1,7 +1,49 @@
 ---
 layout: word
-title: gists
+title: Is GISTS a Wordle Word?
+head_title: Is GISTS a Wordle Word? Yes – Valid Guess & Meaning
 word: gists
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The most essential part; the main idea or substance (of a longer or more complicated matter); the crux of a matter; the pith.</li><li><strong>Definition 2:</strong> The essential ground for action in a suit, without which there is no cause of action.</li><li><strong>Definition 3:</strong> Resting place (especially of animals), lodging.</li></ul></div></div>"
+description: Yes, GISTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- cists
+- fists
+- gasts
+- gests
+- gifts
+- gilts
+- girts
+- gisms
+- gusts
+- hists
+- kists
+- lists
+trap:
+  pattern: _ISTS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: The most essential part; the main idea or substance (of a longer or more
+      complicated matter); the crux of a matter; the pith.
+  - text: The essential ground for action in a suit, without which there is no cause
+      of action.
+  - text: Resting place (especially of animals), lodging.
 ---
-

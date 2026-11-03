@@ -1,7 +1,49 @@
 ---
 layout: word
-title: barfs
+title: Is BARFS a Wordle Word?
+head_title: Is BARFS a Wordle Word? Yes – Valid Guess & Meaning
 word: barfs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɑːfs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To vomit.</li><li><strong>Definition 2:</strong> Of a system: to fail.<p><strong>Example:</strong> The program barfed as a result of the invalid input.</p></li></ul></div></div>"
+description: Yes, BARFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- baffs
+- barbs
+- bards
+- bares
+- barfi
+- barfy
+- barks
+- barms
+- barns
+- barps
+- larfs
+- zarfs
+anagrams:
+- frabs
+trap:
+  pattern: BAR_S
+  count: 8
+phonetic: "/bɑːfs/"
+definitions:
+- pos: verb
+  defs:
+  - text: To vomit.
+  - text: 'Of a system: to fail.'
+    example: The program barfed as a result of the invalid input.
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: hinky
+title: Is HINKY a Wordle Word?
+head_title: Is HINKY a Wordle Word? Yes – Valid Guess & Meaning
 word: hinky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Acting suspiciously; strange, unusual; acting in a manner as if having something to hide, or seemingly crooked.</li><li><strong>Definition 2:</strong> Suspicious (of something).</li><li><strong>Definition 3:</strong> Dishonest; sketchy; shady</li><li><strong>Definition 4:</strong> Weird; nonstandard.</li><li><strong>Definition 5:</strong> Unreliable; wonky</li><li><strong>Definition 6:</strong> Snobbish; haughty</li></ul></div></div>"
+description: Yes, HINKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- hunky
+- kinky
+- pinky
+- binky
+- dinky
+- hanky
+- hinny
+- linky
+- sinky
+- winky
+- zinky
+trap:
+  pattern: _INKY
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Acting suspiciously; strange, unusual; acting in a manner as if having something
+      to hide, or seemingly crooked.
+  - text: Suspicious (of something).
+  - text: Dishonest; sketchy; shady
+  - text: Weird; nonstandard.
+  - text: Unreliable; wonky
+  - text: Snobbish; haughty
 ---
-

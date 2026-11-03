@@ -1,7 +1,46 @@
 ---
 layout: word
-title: wrack
+title: Is WRACK a Wordle Word?
+head_title: Is WRACK a Wordle Word? Yes – Possible Answer & Meaning
 word: wrack
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹæk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Vengeance; revenge; persecution; punishment; consequence; trouble.</li><li><strong>Definition 2:</strong> (except in dialects) Ruin; destruction.</li><li><strong>Definition 3:</strong> The remains; a wreck.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To execute vengeance; avenge.</li><li><strong>Definition 2:</strong> To worry; tease; torment.</li></ul></div></div>"
+description: Yes, WRACK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- crack
+- track
+- whack
+- wreck
+- brack
+- drack
+- frack
+- wrick
+trap:
+  pattern: _RACK
+  count: 6
+phonetic: "/ɹæk/"
+definitions:
+- pos: noun
+  defs:
+  - text: Vengeance; revenge; persecution; punishment; consequence; trouble.
+  - text: "(except in dialects) Ruin; destruction."
+  - text: The remains; a wreck.
+- pos: verb
+  defs:
+  - text: To execute vengeance; avenge.
+  - text: To worry; tease; torment.
 ---
-

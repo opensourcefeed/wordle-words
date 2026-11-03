@@ -1,7 +1,43 @@
 ---
 layout: word
-title: paean
+title: Is PAEAN a Wordle Word?
+head_title: Is PAEAN a Wordle Word? Yes – Valid Guess & Meaning
 word: paean
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpiː.ən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A chant or song, especially a hymn of thanksgiving for deliverance or victory, to Apollo or sometimes another god or goddess; hence any song sung to solicit victory in battle.</li><li><strong>Definition 2:</strong> (by extension) Any loud and joyous song; a song of triumph.</li><li><strong>Definition 3:</strong> (by extension) An enthusiastic expression of praise.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sing a paean; to praise.</li></ul></div></div>"
+description: Yes, PAEAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- pagan
+- paeon
+- pavan
+anagrams:
+- apnea
+phonetic: "/ˈpiː.ən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A chant or song, especially a hymn of thanksgiving for deliverance or victory,
+      to Apollo or sometimes another god or goddess; hence any song sung to solicit
+      victory in battle.
+  - text: "(by extension) Any loud and joyous song; a song of triumph."
+  - text: "(by extension) An enthusiastic expression of praise."
+- pos: verb
+  defs:
+  - text: To sing a paean; to praise.
 ---
-

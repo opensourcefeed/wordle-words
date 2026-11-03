@@ -1,7 +1,77 @@
 ---
 layout: word
-title: balls
+title: Is BALLS a Wordle Word?
+head_title: Is BALLS a Wordle Word? Yes – Valid Guess & Meaning
 word: balls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɔːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A solid or hollow sphere, or roughly spherical mass.<p><strong>Example:</strong> a ball of spittle; a fecal ball</p></li><li><strong>Definition 2:</strong> A round or ellipsoidal object.</li><li><strong>Definition 3:</strong> (mildly, usually in the plural) A testicle.</li><li><strong>Definition 4:</strong> A leather-covered cushion, fastened to a handle called a ballstock; formerly used by printers for inking the form, then superseded by the roller.</li><li><strong>Definition 5:</strong> A large pill, a form in which medicine was given to horses; a bolus.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form or wind into a ball.<p><strong>Example:</strong> to ball cotton</p></li><li><strong>Definition 2:</strong> To heat in a furnace and form into balls for rolling.</li><li><strong>Definition 3:</strong> To have sexual intercourse with.</li><li><strong>Definition 4:</strong> To gather balls which cling to the feet, as of damp snow or clay; to gather into balls.<p><strong>Example:</strong> The horse balls; the snow balls.</p></li><li><strong>Definition 5:</strong> (usually in present participle) To be hip or cool.</li><li><strong>Definition 6:</strong> To play basketball.</li><li><strong>Definition 7:</strong> To punish by affixing a ball and chain</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A formal dance.</li><li><strong>Definition 2:</strong> A very enjoyable time.<p><strong>Example:</strong> I had a ball at that concert.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Speaking or acting with bravado to achieve (something)</li><li><strong>Definition 2:</strong> To engage in sexual intercourse.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very. Intensifier.<p><strong>Example:</strong> It is balls cold out there.</p></li></ul></div></div>"
+description: Yes, BALLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- baals
+- baels
+- bails
+- balas
+- balds
+- bales
+- balks
+- ballo
+- bally
+- balms
+- balus
+- bawls
+trap:
+  pattern: _ALLS
+  count: 10
+phonetic: "/bɔːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A solid or hollow sphere, or roughly spherical mass.
+    example: a ball of spittle; a fecal ball
+  - text: A round or ellipsoidal object.
+  - text: "(mildly, usually in the plural) A testicle."
+  - text: A leather-covered cushion, fastened to a handle called a ballstock; formerly
+      used by printers for inking the form, then superseded by the roller.
+  - text: A large pill, a form in which medicine was given to horses; a bolus.
+- pos: verb
+  defs:
+  - text: To form or wind into a ball.
+    example: to ball cotton
+  - text: To heat in a furnace and form into balls for rolling.
+  - text: To have sexual intercourse with.
+  - text: To gather balls which cling to the feet, as of damp snow or clay; to gather
+      into balls.
+    example: The horse balls; the snow balls.
+  - text: "(usually in present participle) To be hip or cool."
+  - text: To play basketball.
+  - text: To punish by affixing a ball and chain
+- pos: noun
+  defs:
+  - text: A formal dance.
+  - text: A very enjoyable time.
+    example: I had a ball at that concert.
+- pos: verb
+  defs:
+  - text: Speaking or acting with bravado to achieve (something)
+  - text: To engage in sexual intercourse.
+- pos: adverb
+  defs:
+  - text: Very. Intensifier.
+    example: It is balls cold out there.
 ---
-

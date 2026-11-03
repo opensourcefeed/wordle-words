@@ -1,7 +1,43 @@
 ---
 layout: word
-title: idler
+title: Is IDLER a Wordle Word?
+head_title: 'Is IDLER a Wordle Word? Yes – Past Answer #1411 & Meaning'
 word: idler
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who idles; one who spends his or her time in inaction.</li><li><strong>Definition 2:</strong> One who idles; a lazy person; a sluggard.</li><li><strong>Definition 3:</strong> Any member of a ship's crew who is not required to keep the night-watch</li><li><strong>Definition 4:</strong> A mechanical device such as a pulley or wheel that does not transmit power, but supports a moving belt etc.</li></ul></div></div>"
+description: Yes, IDLER is a valid Wordle word. It was the Wordle answer on April
+  30, 2025 (#1411). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 30, 2025 (#1411).
+past_answers:
+- date: '2025-04-30'
+  number: 1411
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- idled
+- idles
+- iller
+anagrams:
+- riled
+definitions:
+- pos: noun
+  defs:
+  - text: One who idles; one who spends his or her time in inaction.
+  - text: One who idles; a lazy person; a sluggard.
+  - text: Any member of a ship's crew who is not required to keep the night-watch
+  - text: A mechanical device such as a pulley or wheel that does not transmit power,
+      but supports a moving belt etc.
 ---
-

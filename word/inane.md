@@ -1,7 +1,42 @@
 ---
 layout: word
-title: inane
+title: Is INANE a Wordle Word?
+head_title: 'Is INANE a Wordle Word? Yes – Past Answer #512 & Meaning'
 word: inane
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈneɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is void or empty.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Lacking sense or meaning (often to the point of boredom or annoyance)<p><strong>Example:</strong> This supremely gifted kid told me that in the early elementary grades, the songs sung in music class were so inane that he wanted to skip grades already! Eventually he did, so better late than never.</p></li><li><strong>Definition 2:</strong> Purposeless; pointless</li></ul></div></div>"
+description: Yes, INANE is a valid Wordle word. It was the Wordle answer on November
+  13, 2022 (#512). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 13, 2022 (#512).
+past_answers:
+- date: '2022-11-13'
+  number: 512
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - I
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+phonetic: "/ɪˈneɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: That which is void or empty.
+- pos: adjective
+  defs:
+  - text: Lacking sense or meaning (often to the point of boredom or annoyance)
+    example: This supremely gifted kid told me that in the early elementary grades,
+      the songs sung in music class were so inane that he wanted to skip grades already!
+      Eventually he did, so better late than never.
+  - text: Purposeless; pointless
 ---
-

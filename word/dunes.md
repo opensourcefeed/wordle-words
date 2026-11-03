@@ -1,7 +1,47 @@
 ---
 layout: word
-title: dunes
+title: Is DUNES a Wordle Word?
+head_title: Is DUNES a Wordle Word? Yes – Valid Guess & Meaning
 word: dunes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A ridge or hill of sand piled up by the wind.</li></ul></div></div>"
+description: Yes, DUNES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- aunes
+- denes
+- dines
+- duces
+- dudes
+- dukes
+- dules
+- dungs
+- dunks
+- dunts
+- dupes
+- dures
+anagrams:
+- nudes
+- nused
+trap:
+  pattern: DU_ES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A ridge or hill of sand piled up by the wind.
 ---
-

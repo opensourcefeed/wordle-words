@@ -1,7 +1,67 @@
 ---
 layout: word
-title: route
+title: Is ROUTE a Wordle Word?
+head_title: 'Is ROUTE a Wordle Word? Yes – Past Answer #937 & Meaning'
 word: route
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹʉːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A course or way which is traveled or passed.<p><strong>Example:</strong> The route was used so much that it formed a rut.</p></li><li><strong>Definition 2:</strong> A regular itinerary of stops, or the path followed between these stops, such as for delivery or passenger transportation.<p><strong>Example:</strong> Here is a map of our delivery routes.</p></li><li><strong>Definition 3:</strong> A road or path; often specifically a highway.<p><strong>Example:</strong> Follow Route 49 out of town.</p></li><li><strong>Definition 4:</strong> One of multiple methods or approaches to doing something.</li><li><strong>Definition 5:</strong> One of the major provinces of imperial China from the Later Jin to the Song, corresponding to the Tang and early Yuan circuits.</li><li><strong>Definition 6:</strong> A specific entry in a router that tells the router how to transmit the data it receives.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To direct or divert along a particular course.<p><strong>Example:</strong> All incoming mail was routed through a single office.</p></li><li><strong>Definition 2:</strong> To connect two local area networks, thereby forming an internet.</li><li><strong>Definition 3:</strong> To send (information) through a router.</li></ul></div></div>"
+description: Yes, ROUTE is a valid Wordle word. It was the Wordle answer on January
+  12, 2024 (#937). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 12, 2024 (#937).
+past_answers:
+- date: '2024-01-12'
+  number: 937
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- rouge
+- rouse
+- roate
+- ronte
+- rotte
+- roule
+- routh
+- routs
+anagrams:
+- outer
+- outre
+- rouet
+- ruote
+- utero
+phonetic: "/ɹʉːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A course or way which is traveled or passed.
+    example: The route was used so much that it formed a rut.
+  - text: A regular itinerary of stops, or the path followed between these stops,
+      such as for delivery or passenger transportation.
+    example: Here is a map of our delivery routes.
+  - text: A road or path; often specifically a highway.
+    example: Follow Route 49 out of town.
+  - text: One of multiple methods or approaches to doing something.
+  - text: One of the major provinces of imperial China from the Later Jin to the Song,
+      corresponding to the Tang and early Yuan circuits.
+  - text: A specific entry in a router that tells the router how to transmit the data
+      it receives.
+- pos: verb
+  defs:
+  - text: To direct or divert along a particular course.
+    example: All incoming mail was routed through a single office.
+  - text: To connect two local area networks, thereby forming an internet.
+  - text: To send (information) through a router.
 ---
-

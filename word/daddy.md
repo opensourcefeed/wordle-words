@@ -1,7 +1,55 @@
 ---
 layout: word
-title: daddy
+title: Is DADDY a Wordle Word?
+head_title: 'Is DADDY a Wordle Word? Yes – Past Answer #833 & Meaning'
 word: daddy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdædi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually childish) Father.</li><li><strong>Definition 2:</strong> A male lover.</li><li><strong>Definition 3:</strong> An informal term of address for a man.<p><strong>Example:</strong> Rock 'n' roll is cool, daddy, and you know it!</p></li><li><strong>Definition 4:</strong> A male juvenile delinquent in a reformatory who dominates the other inmates through threats and violence.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To father; to sire.</li></ul></div></div>"
+description: Yes, DADDY is a valid Wordle word. It was the Wordle answer on September
+  30, 2023 (#833). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 30, 2023 (#833).
+past_answers:
+- date: '2023-09-30'
+  number: 833
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - D
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- caddy
+- dandy
+- paddy
+- baddy
+- diddy
+- doddy
+- duddy
+- faddy
+- laddy
+- maddy
+- raddy
+- saddy
+trap:
+  pattern: _ADDY
+  count: 10
+phonetic: "/ˈdædi/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually childish) Father."
+  - text: A male lover.
+  - text: An informal term of address for a man.
+    example: Rock 'n' roll is cool, daddy, and you know it!
+  - text: A male juvenile delinquent in a reformatory who dominates the other inmates
+      through threats and violence.
+- pos: verb
+  defs:
+  - text: To father; to sire.
 ---
-

@@ -1,7 +1,40 @@
 ---
 layout: word
-title: palmy
+title: Is PALMY a Wordle Word?
+head_title: Is PALMY a Wordle Word? Yes – Valid Guess & Meaning
 word: palmy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɑːmi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made out of palm leaves or palm sap.</li><li><strong>Definition 2:</strong> Of, related to, or abounding in palm trees.</li><li><strong>Definition 3:</strong> Prosperous, flourishing, booming or thriving.</li></ul></div></div>"
+description: Yes, PALMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- balmy
+- palsy
+- calmy
+- malmy
+- palay
+- pally
+- palms
+anagrams:
+- amply
+phonetic: "/ˈpɑːmi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Made out of palm leaves or palm sap.
+  - text: Of, related to, or abounding in palm trees.
+  - text: Prosperous, flourishing, booming or thriving.
 ---
-

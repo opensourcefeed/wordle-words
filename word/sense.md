@@ -1,7 +1,75 @@
 ---
 layout: word
-title: sense
+title: Is SENSE a Wordle Word?
+head_title: 'Is SENSE a Wordle Word? Yes – Past Answer #983 & Meaning'
 word: sense
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sɛn(t)s/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.</li><li><strong>Definition 2:</strong> Perception through the intellect; apprehension; awareness.<p><strong>Example:</strong> a sense of security</p></li><li><strong>Definition 3:</strong> Sound practical or moral judgment.<p><strong>Example:</strong> It's common sense not to put metal objects in a microwave oven.</p></li><li><strong>Definition 4:</strong> The meaning, reason, or value of something.<p><strong>Example:</strong> You don’t make any sense.</p></li><li><strong>Definition 5:</strong> A natural appreciation or ability.<p><strong>Example:</strong> A keen musical sense</p></li><li><strong>Definition 6:</strong> The way that a referent is presented.</li><li><strong>Definition 7:</strong> A single conventional use of a word; one of the entries for a word in a dictionary.<p><strong>Example:</strong> The definition of sense in this context, is given in sense 7 of its definition.</p></li><li><strong>Definition 8:</strong> One of two opposite directions in which a vector (especially of motion) may point. See also polarity.</li><li><strong>Definition 9:</strong> One of two opposite directions of rotation, clockwise versus anti-clockwise.</li><li><strong>Definition 10:</strong> Referring to the strand of a nucleic acid that directly specifies the product.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use biological senses: to either see, hear, smell, taste, or feel.</li><li><strong>Definition 2:</strong> To instinctively be aware.<p><strong>Example:</strong> She immediately sensed her disdain.</p></li><li><strong>Definition 3:</strong> To comprehend.</li></ul></div></div>"
+description: Yes, SENSE is a valid Wordle word. It was the Wordle answer on February
+  27, 2024 (#983). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 27, 2024 (#983).
+past_answers:
+- date: '2024-02-27'
+  number: 983
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - S
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- dense
+- tense
+- cense
+- lense
+- mense
+- pense
+- sease
+- seise
+- sensa
+- sensi
+- sensu
+- sente
+anagrams:
+- esnes
+- senes
+- snees
+trap:
+  pattern: _ENSE
+  count: 7
+phonetic: "/sɛn(t)s/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Any of the manners by which living beings perceive the physical world:
+      for humans sight, smell, hearing, touch, taste.'
+  - text: Perception through the intellect; apprehension; awareness.
+    example: a sense of security
+  - text: Sound practical or moral judgment.
+    example: It's common sense not to put metal objects in a microwave oven.
+  - text: The meaning, reason, or value of something.
+    example: You don’t make any sense.
+  - text: A natural appreciation or ability.
+    example: A keen musical sense
+  - text: The way that a referent is presented.
+  - text: A single conventional use of a word; one of the entries for a word in a
+      dictionary.
+    example: The definition of sense in this context, is given in sense 7 of its definition.
+  - text: One of two opposite directions in which a vector (especially of motion)
+      may point. See also polarity.
+  - text: One of two opposite directions of rotation, clockwise versus anti-clockwise.
+  - text: Referring to the strand of a nucleic acid that directly specifies the product.
+- pos: verb
+  defs:
+  - text: 'To use biological senses: to either see, hear, smell, taste, or feel.'
+  - text: To instinctively be aware.
+    example: She immediately sensed her disdain.
+  - text: To comprehend.
 ---
-

@@ -1,7 +1,55 @@
 ---
 layout: word
-title: peens
+title: Is PEENS a Wordle Word?
+head_title: Is PEENS a Wordle Word? Yes – Valid Guess & Meaning
 word: peens
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The (often spherical) end of the head of a hammer opposite the main hammering end.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shape metal by striking it, especially with a peen.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Penis.</li></ul></div></div>"
+description: Yes, PEENS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- deens
+- feens
+- keens
+- peans
+- peeks
+- peels
+- peent
+- peeps
+- peers
+- peins
+- peons
+- perns
+anagrams:
+- neeps
+- penes
+- pense
+trap:
+  pattern: _EENS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The (often spherical) end of the head of a hammer opposite the main hammering
+      end.
+- pos: verb
+  defs:
+  - text: To shape metal by striking it, especially with a peen.
+- pos: noun
+  defs:
+  - text: Penis.
 ---
-

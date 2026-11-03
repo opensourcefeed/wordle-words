@@ -1,6 +1,34 @@
 ---
 layout: word
-title: feeze
+title: Is FEEZE a Wordle Word?
+head_title: Is FEEZE a Wordle Word? Yes – Valid Guess
 word: feeze
+description: Yes, FEEZE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - E
+  common:
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- feaze
+- feese
+- heeze
+- jeeze
+- leeze
+- neeze
+- reeze
+trap:
+  pattern: _EEZE
+  count: 6
 ---
-

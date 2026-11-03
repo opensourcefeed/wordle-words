@@ -1,7 +1,53 @@
 ---
 layout: word
-title: braze
+title: Is BRAZE a Wordle Word?
+head_title: Is BRAZE a Wordle Word? Yes – Valid Guess & Meaning
 word: braze
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹeɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind of small charcoal used for roasting ore.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To join two metal pieces, without melting them, using heat and diffusion of a jointing alloy of capillary thickness.</li><li><strong>Definition 2:</strong> To burn or temper in fire.</li></ul></div></div>"
+description: Yes, BRAZE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- blaze
+- brace
+- brake
+- brave
+- craze
+- graze
+- brame
+- brane
+- braza
+- brize
+- buaze
+anagrams:
+- zebra
+trap:
+  pattern: BRA_E
+  count: 6
+phonetic: "/bɹeɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of small charcoal used for roasting ore.
+- pos: verb
+  defs:
+  - text: To join two metal pieces, without melting them, using heat and diffusion
+      of a jointing alloy of capillary thickness.
+  - text: To burn or temper in fire.
 ---
-

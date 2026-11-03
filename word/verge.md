@@ -1,7 +1,55 @@
 ---
 layout: word
-title: verge
+title: Is VERGE a Wordle Word?
+head_title: 'Is VERGE a Wordle Word? Yes – Past Answer #960 & Meaning'
 word: verge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rod or staff of office, e.g. of a verger.</li><li><strong>Definition 2:</strong> An edge or border.</li><li><strong>Definition 3:</strong> The phallus.</li><li><strong>Definition 4:</strong> An old measure of land: a virgate or yardland.</li><li><strong>Definition 5:</strong> A circumference; a circle; a ring.</li><li><strong>Definition 6:</strong> The shaft of a column, or a small ornamental shaft.</li><li><strong>Definition 7:</strong> The edge of the tiling projecting over the gable of a roof.</li><li><strong>Definition 8:</strong> The spindle of a watch balance, especially one with pallets, as in the old vertical escapement.</li></ul></div></div>"
+description: Yes, VERGE is a valid Wordle word. It was the Wordle answer on February
+  4, 2024 (#960). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 4, 2024 (#960).
+past_answers:
+- date: '2024-02-04'
+  number: 960
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- merge
+- verse
+- verve
+- cerge
+- serge
+- venge
+- verde
+- verre
+- verte
+- virge
+anagrams:
+- greve
+trap:
+  pattern: VER_E
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A rod or staff of office, e.g. of a verger.
+  - text: An edge or border.
+  - text: The phallus.
+  - text: 'An old measure of land: a virgate or yardland.'
+  - text: A circumference; a circle; a ring.
+  - text: The shaft of a column, or a small ornamental shaft.
+  - text: The edge of the tiling projecting over the gable of a roof.
+  - text: The spindle of a watch balance, especially one with pallets, as in the old
+      vertical escapement.
 ---
-

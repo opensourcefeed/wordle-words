@@ -1,7 +1,82 @@
 ---
 layout: word
-title: scale
+title: Is SCALE a Wordle Word?
+head_title: 'Is SCALE a Wordle Word? Yes – Past Answer #1141 & Meaning'
 word: scale
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /skeɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A ladder; a series of steps; a means of ascending.</li><li><strong>Definition 2:</strong> An ordered, usually numerical sequence used for measurement, means of assigning a magnitude.<p><strong>Example:</strong> Please rate your experience on a scale from 1 to 10.</p></li><li><strong>Definition 3:</strong> Size; scope.<p><strong>Example:</strong> The Holocaust was insanity on an enormous scale.</p></li><li><strong>Definition 4:</strong> The ratio of depicted distance to actual distance.<p><strong>Example:</strong> This map uses a scale of 1:10.</p></li><li><strong>Definition 5:</strong> A line or bar associated with a drawing, used to indicate measurement when the image has been magnified or reduced.</li><li><strong>Definition 6:</strong> A series of notes spanning an octave, tritave, or pseudo-octave, used to make melodies.</li><li><strong>Definition 7:</strong> A mathematical base for a numeral system; radix.<p><strong>Example:</strong> the decimal scale; the binary scale</p></li><li><strong>Definition 8:</strong> Gradation; succession of ascending and descending steps and degrees; progressive series; scheme of comparative rank or order.</li><li><strong>Definition 9:</strong> A standard amount of money to be received by a performer or writer, negotiated by a union.<p><strong>Example:</strong> Sally wasn't the star of the show, so she was glad to be paid scale.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To change the size of something whilst maintaining proportion; especially to change a process in order to produce much larger amounts of the final product.<p><strong>Example:</strong> We should scale that up by a factor of 10.</p></li><li><strong>Definition 2:</strong> To climb to the top of.<p><strong>Example:</strong> Hilary and Norgay were the first known to have scaled Everest.</p></li><li><strong>Definition 3:</strong> To tolerate significant increases in throughput or other potentially limiting factors.<p><strong>Example:</strong> That architecture won't scale to real-world environments.</p></li><li><strong>Definition 4:</strong> To weigh, measure or grade according to a scale or system.</li></ul></div></div>"
+description: Yes, SCALE is a valid Wordle word. It was the Wordle answer on August
+  3, 2024 (#1141). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 3, 2024 (#1141).
+past_answers:
+- date: '2024-08-03'
+  number: 1141
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- scald
+- scalp
+- scaly
+- scare
+- shale
+- stale
+- scala
+- scall
+- scape
+- spale
+- swale
+anagrams:
+- alces
+- alecs
+- claes
+- laces
+trap:
+  pattern: SCAL_
+  count: 6
+phonetic: "/skeɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A ladder; a series of steps; a means of ascending.
+  - text: An ordered, usually numerical sequence used for measurement, means of assigning
+      a magnitude.
+    example: Please rate your experience on a scale from 1 to 10.
+  - text: Size; scope.
+    example: The Holocaust was insanity on an enormous scale.
+  - text: The ratio of depicted distance to actual distance.
+    example: This map uses a scale of 1:10.
+  - text: A line or bar associated with a drawing, used to indicate measurement when
+      the image has been magnified or reduced.
+  - text: A series of notes spanning an octave, tritave, or pseudo-octave, used to
+      make melodies.
+  - text: A mathematical base for a numeral system; radix.
+    example: the decimal scale; the binary scale
+  - text: Gradation; succession of ascending and descending steps and degrees; progressive
+      series; scheme of comparative rank or order.
+  - text: A standard amount of money to be received by a performer or writer, negotiated
+      by a union.
+    example: Sally wasn't the star of the show, so she was glad to be paid scale.
+- pos: verb
+  defs:
+  - text: To change the size of something whilst maintaining proportion; especially
+      to change a process in order to produce much larger amounts of the final product.
+    example: We should scale that up by a factor of 10.
+  - text: To climb to the top of.
+    example: Hilary and Norgay were the first known to have scaled Everest.
+  - text: To tolerate significant increases in throughput or other potentially limiting
+      factors.
+    example: That architecture won't scale to real-world environments.
+  - text: To weigh, measure or grade according to a scale or system.
 ---
-

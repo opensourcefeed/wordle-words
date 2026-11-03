@@ -1,7 +1,55 @@
 ---
 layout: word
-title: yacks
+title: Is YACKS a Wordle Word?
+head_title: Is YACKS a Wordle Word? Yes – Valid Guess & Meaning
 word: yacks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (possibly obsolete) An oak.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A talk, particular an informal talk; chattering; gossip.</li><li><strong>Definition 2:</strong> A laugh.</li><li><strong>Definition 3:</strong> Vomit.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To talk, particularly informally but persistently; to chatter or prattle.</li><li><strong>Definition 2:</strong> To vomit, usually as a result of excessive alcohol consumption.</li></ul></div></div>"
+description: Yes, YACKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- backs
+- cacks
+- dacks
+- hacks
+- jacks
+- kacks
+- lacks
+- macks
+- packs
+- racks
+- sacks
+- tacks
+anagrams:
+- casky
+trap:
+  pattern: _ACKS
+  count: 15
+phonetic: "/jæks/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(possibly obsolete) An oak."
+- pos: noun
+  defs:
+  - text: A talk, particular an informal talk; chattering; gossip.
+  - text: A laugh.
+  - text: Vomit.
+- pos: verb
+  defs:
+  - text: To talk, particularly informally but persistently; to chatter or prattle.
+  - text: To vomit, usually as a result of excessive alcohol consumption.
 ---
-

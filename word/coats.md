@@ -1,7 +1,72 @@
 ---
 layout: word
-title: coats
+title: Is COATS a Wordle Word?
+head_title: Is COATS a Wordle Word? Yes – Valid Guess & Meaning
 word: coats
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kəʊts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An outer garment covering the upper torso and arms.Wp</li><li><strong>Definition 2:</strong> A covering of material, such as paint.Wp</li><li><strong>Definition 3:</strong> The fur or feathers covering an animal's skin.Wp<p><strong>Example:</strong> When the dog shed its coat, it left hair all over the furniture and the carpet.</p></li><li><strong>Definition 4:</strong> Canvas painted with thick tar and secured round a mast or bowsprit to prevent water running down the sides into the hold (now made of rubber or leather).</li><li><strong>Definition 5:</strong> A petticoat.</li><li><strong>Definition 6:</strong> The habit or vesture of an order of men, indicating the order or office; cloth.</li><li><strong>Definition 7:</strong> A coat of arms.Wp</li><li><strong>Definition 8:</strong> A coat card.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover with a coating of some material.<p><strong>Example:</strong> The frying pan was coated with a layer of non-stick material, making it easier to wash.</p></li><li><strong>Definition 2:</strong> To cover like a coat.</li><li><strong>Definition 3:</strong> To clothe.</li></ul></div></div>"
+description: Yes, COATS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- boats
+- chats
+- clats
+- coals
+- coate
+- coati
+- coits
+- colts
+- coots
+- costs
+- cotts
+- doats
+anagrams:
+- ascot
+- coast
+- atocs
+- costa
+- octas
+- tacos
+trap:
+  pattern: CO_TS
+  count: 6
+phonetic: "/kəʊts/"
+definitions:
+- pos: noun
+  defs:
+  - text: An outer garment covering the upper torso and arms.Wp
+  - text: A covering of material, such as paint.Wp
+  - text: The fur or feathers covering an animal's skin.Wp
+    example: When the dog shed its coat, it left hair all over the furniture and the
+      carpet.
+  - text: Canvas painted with thick tar and secured round a mast or bowsprit to prevent
+      water running down the sides into the hold (now made of rubber or leather).
+  - text: A petticoat.
+  - text: The habit or vesture of an order of men, indicating the order or office;
+      cloth.
+  - text: A coat of arms.Wp
+  - text: A coat card.
+- pos: verb
+  defs:
+  - text: To cover with a coating of some material.
+    example: The frying pan was coated with a layer of non-stick material, making
+      it easier to wash.
+  - text: To cover like a coat.
+  - text: To clothe.
 ---
-

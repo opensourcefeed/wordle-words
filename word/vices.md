@@ -1,7 +1,62 @@
 ---
 layout: word
-title: vices
+title: Is VICES a Wordle Word?
+head_title: Is VICES a Wordle Word? Yes – Valid Guess & Meaning
 word: vices
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bad habit.<p><strong>Example:</strong> Gluttony is a vice, not a virtue.</p></li><li><strong>Definition 2:</strong> Any of various crimes related (depending on jurisdiction) to prostitution, pornography, gambling, alcohol, or drugs.</li><li><strong>Definition 3:</strong> A defect in the temper or behaviour of a horse, such as to make the animal dangerous, to injure its health, or to diminish its usefulness.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mechanical screw apparatus used for clamping or holding (also spelled vise).</li><li><strong>Definition 2:</strong> A tool for drawing lead into cames, or flat grooved rods, for casements.</li><li><strong>Definition 3:</strong> A grip or grasp.</li><li><strong>Definition 4:</strong> A winding or spiral staircase.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who acts in place of a superior.</li></ul></div></div>"
+description: Yes, VICES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- bices
+- dices
+- fices
+- rices
+- sices
+- tices
+- vibes
+- viced
+- vicus
+- vines
+- vires
+- vises
+anagrams:
+- cives
+trap:
+  pattern: _ICES
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A bad habit.
+    example: Gluttony is a vice, not a virtue.
+  - text: Any of various crimes related (depending on jurisdiction) to prostitution,
+      pornography, gambling, alcohol, or drugs.
+  - text: A defect in the temper or behaviour of a horse, such as to make the animal
+      dangerous, to injure its health, or to diminish its usefulness.
+- pos: noun
+  defs:
+  - text: A mechanical screw apparatus used for clamping or holding (also spelled
+      vise).
+  - text: A tool for drawing lead into cames, or flat grooved rods, for casements.
+  - text: A grip or grasp.
+  - text: A winding or spiral staircase.
+- pos: noun
+  defs:
+  - text: One who acts in place of a superior.
 ---
-

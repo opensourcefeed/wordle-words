@@ -1,7 +1,35 @@
 ---
 layout: word
-title: hevea
+title: Is HEVEA a Wordle Word?
+head_title: Is HEVEA a Wordle Word? Yes – Valid Guess & Meaning
 word: hevea
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the genus Hevea of flowering plants in the spurge family, including the economically important rubber tree Hevea brasiliensis.</li></ul></div></div>"
+description: Yes, HEVEA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- hevel
+- hovea
+anagrams:
+- heave
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the genus Hevea of flowering plants in the spurge family, including
+      the economically important rubber tree Hevea brasiliensis.
 ---
-

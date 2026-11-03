@@ -1,7 +1,50 @@
 ---
 layout: word
-title: meeds
+title: Is MEEDS a Wordle Word?
+head_title: Is MEEDS a Wordle Word? Yes – Valid Guess & Meaning
 word: meeds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A payment or recompense made for services rendered or in recognition of some achievement; reward, deserts; award.</li><li><strong>Definition 2:</strong> A gift; bribe.</li><li><strong>Definition 3:</strong> Merit or desert; worth.</li></ul></div></div>"
+description: Yes, MEEDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- deeds
+- feeds
+- heeds
+- meads
+- meeps
+- meers
+- meets
+- meids
+- melds
+- mends
+- merds
+- needs
+anagrams:
+- deems
+- demes
+trap:
+  pattern: _EEDS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A payment or recompense made for services rendered or in recognition of
+      some achievement; reward, deserts; award.
+  - text: A gift; bribe.
+  - text: Merit or desert; worth.
 ---
-

@@ -1,7 +1,45 @@
 ---
 layout: word
-title: slung
+title: Is SLUNG a Wordle Word?
+head_title: 'Is SLUNG a Wordle Word? Yes – Past Answer #327 & Meaning'
 word: slung
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈslʌŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw with a circular or arcing motion.</li><li><strong>Definition 2:</strong> To throw with a sling.</li><li><strong>Definition 3:</strong> To pass a rope around (a cask, gun, etc.) preparatory to attaching a hoisting or lowering tackle.</li><li><strong>Definition 4:</strong> To sell, peddle, or distribute illicitly (e.g. drugs, sex, etc.).</li></ul></div></div>"
+description: Yes, SLUNG is a valid Wordle word. It was the Wordle answer on May 12,
+  2022 (#327). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 12, 2022 (#327).
+past_answers:
+- date: '2022-05-12'
+  number: 327
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- clung
+- flung
+- slang
+- sling
+- slunk
+- stung
+- swung
+- plung
+anagrams:
+- lungs
+phonetic: "/ˈslʌŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To throw with a circular or arcing motion.
+  - text: To throw with a sling.
+  - text: To pass a rope around (a cask, gun, etc.) preparatory to attaching a hoisting
+      or lowering tackle.
+  - text: To sell, peddle, or distribute illicitly (e.g. drugs, sex, etc.).
 ---
-

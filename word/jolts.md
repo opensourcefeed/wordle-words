@@ -1,7 +1,60 @@
 ---
 layout: word
-title: jolts
+title: Is JOLTS a Wordle Word?
+head_title: Is JOLTS a Wordle Word? Yes – Valid Guess & Meaning
 word: jolts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of jolting.</li><li><strong>Definition 2:</strong> A surprise or shock.</li><li><strong>Definition 3:</strong> A long prison sentence.</li><li><strong>Definition 4:</strong> A narcotic injection.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To push or shake abruptly and roughly.<p><strong>Example:</strong> The bus jolted its passengers at every turn.</p></li><li><strong>Definition 2:</strong> To knock sharply</li><li><strong>Definition 3:</strong> To shock (someone) into taking action or being alert<p><strong>Example:</strong> I jolted her out of complacency.</p></li><li><strong>Definition 4:</strong> To shock emotionally.<p><strong>Example:</strong> Her untimely death jolted us all.</p></li><li><strong>Definition 5:</strong> To shake; to move with a series of jerks.<p><strong>Example:</strong> The car jolted along the stony path.</p></li></ul></div></div>"
+description: Yes, JOLTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - T
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- bolts
+- colts
+- dolts
+- holts
+- jilts
+- joles
+- jolls
+- jolty
+- jorts
+- molts
+- polts
+- tolts
+trap:
+  pattern: _OLTS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: An act of jolting.
+  - text: A surprise or shock.
+  - text: A long prison sentence.
+  - text: A narcotic injection.
+- pos: verb
+  defs:
+  - text: To push or shake abruptly and roughly.
+    example: The bus jolted its passengers at every turn.
+  - text: To knock sharply
+  - text: To shock (someone) into taking action or being alert
+    example: I jolted her out of complacency.
+  - text: To shock emotionally.
+    example: Her untimely death jolted us all.
+  - text: To shake; to move with a series of jerks.
+    example: The car jolted along the stony path.
 ---
-

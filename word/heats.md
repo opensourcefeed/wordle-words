@@ -1,7 +1,102 @@
 ---
 layout: word
-title: heats
+title: Is HEATS a Wordle Word?
+head_title: Is HEATS a Wordle Word? Yes – Valid Guess & Meaning
 word: heats
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hiːts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Thermal energy.<p><strong>Example:</strong> This furnace puts out 5000 BTUs of heat.   That engine is really throwing off some heat.   Removal of heat from the liquid caused it to turn into a solid.</p></li><li><strong>Definition 2:</strong> The condition or quality of being hot.<p><strong>Example:</strong> Stay out of the heat of the sun!</p></li><li><strong>Definition 3:</strong> An attribute of a spice that causes a burning sensation in the mouth.<p><strong>Example:</strong> The chili sauce gave the dish heat.</p></li><li><strong>Definition 4:</strong> A period of intensity, particularly of emotion.<p><strong>Example:</strong> It's easy to make bad decisions in the heat of the moment.</p></li><li><strong>Definition 5:</strong> An undesirable amount of attention.<p><strong>Example:</strong> The heat from her family after her DUI arrest was unbearable.</p></li><li><strong>Definition 6:</strong> The police.<p><strong>Example:</strong> The heat! Scram!</p></li><li><strong>Definition 7:</strong> One or more firearms.</li><li><strong>Definition 8:</strong> A fastball.<p><strong>Example:</strong> The catcher called for the heat, high and tight.</p></li><li><strong>Definition 9:</strong> A condition where a mammal is aroused sexually or where it is especially fertile and therefore eager to mate.<p><strong>Example:</strong> The male canines were attracted by the female in heat.</p></li><li><strong>Definition 10:</strong> A preliminary race, used to determine the participants in a final race<p><strong>Example:</strong> The runner had high hopes, but was out of contention after the first heat.</p></li><li><strong>Definition 11:</strong> One cycle of bringing metal to maximum temperature and working it until it is too cool to work further.<p><strong>Example:</strong> I can make a scroll like that in a single heat.</p></li><li><strong>Definition 12:</strong> A hot spell.<p><strong>Example:</strong> The children stayed indoors during this year's summer heat.</p></li><li><strong>Definition 13:</strong> Heating system; a system that raises the temperature of a room or building.<p><strong>Example:</strong> I'm freezing; could you turn on the heat?</p></li><li><strong>Definition 14:</strong> The output of a heating system.<p><strong>Example:</strong> During the power outage we had no heat because the controls are electric.   Older folks like more heat than the young.</p></li><li><strong>Definition 15:</strong> In omegaverse fiction, a cyclical period in which alphas and omegas experience an intense, sometimes irresistible biological urge to mate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause an increase in temperature of (an object or space); to cause to become hot (often with \"up\").<p><strong>Example:</strong> I'll heat up the water.</p></li><li><strong>Definition 2:</strong> To become hotter.<p><strong>Example:</strong> There's a pot of soup heating on the stove.</p></li><li><strong>Definition 3:</strong> To excite or make hot by action or emotion; to make feverish.</li><li><strong>Definition 4:</strong> To excite ardour in; to rouse to action; to excite to excess; to inflame, as the passions.</li><li><strong>Definition 5:</strong> To arouse, to excite (sexually).<p><strong>Example:</strong> The massage heated her up.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (plural noun) A period of hot weather.<p><strong>Example:</strong> Everyone suffered during the heats of July.</p></li></ul></div></div>"
+description: Yes, HEATS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- heath
+- beats
+- feats
+- geats
+- haats
+- heads
+- heals
+- heaps
+- hears
+- heaty
+- hefts
+- hents
+anagrams:
+- haste
+- ashet
+- haets
+- hates
+- heast
+trap:
+  pattern: _EATS
+  count: 11
+phonetic: "/hiːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: Thermal energy.
+    example: This furnace puts out 5000 BTUs of heat.   That engine is really throwing
+      off some heat.   Removal of heat from the liquid caused it to turn into a solid.
+  - text: The condition or quality of being hot.
+    example: Stay out of the heat of the sun!
+  - text: An attribute of a spice that causes a burning sensation in the mouth.
+    example: The chili sauce gave the dish heat.
+  - text: A period of intensity, particularly of emotion.
+    example: It's easy to make bad decisions in the heat of the moment.
+  - text: An undesirable amount of attention.
+    example: The heat from her family after her DUI arrest was unbearable.
+  - text: The police.
+    example: The heat! Scram!
+  - text: One or more firearms.
+  - text: A fastball.
+    example: The catcher called for the heat, high and tight.
+  - text: A condition where a mammal is aroused sexually or where it is especially
+      fertile and therefore eager to mate.
+    example: The male canines were attracted by the female in heat.
+  - text: A preliminary race, used to determine the participants in a final race
+    example: The runner had high hopes, but was out of contention after the first
+      heat.
+  - text: One cycle of bringing metal to maximum temperature and working it until
+      it is too cool to work further.
+    example: I can make a scroll like that in a single heat.
+  - text: A hot spell.
+    example: The children stayed indoors during this year's summer heat.
+  - text: Heating system; a system that raises the temperature of a room or building.
+    example: I'm freezing; could you turn on the heat?
+  - text: The output of a heating system.
+    example: During the power outage we had no heat because the controls are electric.  
+      Older folks like more heat than the young.
+  - text: In omegaverse fiction, a cyclical period in which alphas and omegas experience
+      an intense, sometimes irresistible biological urge to mate.
+- pos: verb
+  defs:
+  - text: To cause an increase in temperature of (an object or space); to cause to
+      become hot (often with "up").
+    example: I'll heat up the water.
+  - text: To become hotter.
+    example: There's a pot of soup heating on the stove.
+  - text: To excite or make hot by action or emotion; to make feverish.
+  - text: To excite ardour in; to rouse to action; to excite to excess; to inflame,
+      as the passions.
+  - text: To arouse, to excite (sexually).
+    example: The massage heated her up.
+- pos: noun
+  defs:
+  - text: "(plural noun) A period of hot weather."
+    example: Everyone suffered during the heats of July.
 ---
-

@@ -1,7 +1,57 @@
 ---
 layout: word
-title: clout
+title: Is CLOUT a Wordle Word?
+head_title: Is CLOUT a Wordle Word? Yes – Possible Answer & Meaning
 word: clout
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klʌʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Influence or effectiveness, especially political.</li><li><strong>Definition 2:</strong> A blow with the hand.</li><li><strong>Definition 3:</strong> A home run.</li><li><strong>Definition 4:</strong> The center of the butt at which archers shoot; probably once a piece of white cloth or a nail head.</li><li><strong>Definition 5:</strong> A swaddling cloth.</li><li><strong>Definition 6:</strong> A cloth; a piece of cloth or leather; a patch; a rag.</li><li><strong>Definition 7:</strong> An iron plate on an axletree or other wood to keep it from wearing; a washer.</li><li><strong>Definition 8:</strong> A piece; a fragment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit, especially with the fist.</li><li><strong>Definition 2:</strong> To cover with cloth, leather, or other material; to bandage, patch, or mend with a clout.</li><li><strong>Definition 3:</strong> To stud with nails, as a timber, or a boot sole.</li><li><strong>Definition 4:</strong> To guard with an iron plate, as an axletree.</li><li><strong>Definition 5:</strong> To join or patch clumsily.</li></ul></div></div>"
+description: Yes, CLOUT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- cloud
+- flout
+- chout
+- claut
+- cloot
+- clour
+- clous
+- crout
+- glout
+- plout
+phonetic: "/klʌʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Influence or effectiveness, especially political.
+  - text: A blow with the hand.
+  - text: A home run.
+  - text: The center of the butt at which archers shoot; probably once a piece of
+      white cloth or a nail head.
+  - text: A swaddling cloth.
+  - text: A cloth; a piece of cloth or leather; a patch; a rag.
+  - text: An iron plate on an axletree or other wood to keep it from wearing; a washer.
+  - text: A piece; a fragment.
+- pos: verb
+  defs:
+  - text: To hit, especially with the fist.
+  - text: To cover with cloth, leather, or other material; to bandage, patch, or mend
+      with a clout.
+  - text: To stud with nails, as a timber, or a boot sole.
+  - text: To guard with an iron plate, as an axletree.
+  - text: To join or patch clumsily.
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: lapas
+title: Is LAPAS a Wordle Word?
+head_title: Is LAPAS a Wordle Word? Yes – Valid Guess & Meaning
 word: lapas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An open structure in South Africa, typically a thatched roof supported by wooden poles.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A metal wind instrument of 19th-century China, resembling the oboe.</li></ul></div></div>"
+description: Yes, LAPAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- aapas
+- capas
+- hapas
+- kapas
+- lamas
+- lanas
+- lapis
+- lavas
+- lipas
+- napas
+- papas
+- tapas
+anagrams:
+- alaps
+- paals
+- palas
+- palsa
+- plaas
+- salpa
+trap:
+  pattern: _APAS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: An open structure in South Africa, typically a thatched roof supported by
+      wooden poles.
+- pos: noun
+  defs:
+  - text: A metal wind instrument of 19th-century China, resembling the oboe.
 ---
-

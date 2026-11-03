@@ -1,7 +1,54 @@
 ---
 layout: word
-title: dairy
+title: Is DAIRY a Wordle Word?
+head_title: Is DAIRY a Wordle Word? Yes – Possible Answer & Meaning
 word: dairy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɛəɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (also dairy products or dairy produce) Products produced from milk.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A place, often on a farm, where milk is processed and turned into products such as butter and cheese.</li><li><strong>Definition 2:</strong> A dairy farm.</li><li><strong>Definition 3:</strong> A shop selling dairy products.</li><li><strong>Definition 4:</strong> A corner store, superette or minimart.</li><li><strong>Definition 5:</strong> (chiefly in the plural) A woman's breast.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Referring to products produced from milk.</li><li><strong>Definition 2:</strong> Referring to the milk production and processing industries.</li><li><strong>Definition 3:</strong> On food labelling, containing fats only from dairy sources (e.g. dairy ice cream).</li></ul></div></div>"
+description: Yes, DAIRY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- daily
+- daisy
+- fairy
+- hairy
+- lairy
+- vairy
+anagrams:
+- diary
+- yaird
+phonetic: "/ˈdɛəɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(also dairy products or dairy produce) Products produced from milk."
+- pos: noun
+  defs:
+  - text: A place, often on a farm, where milk is processed and turned into products
+      such as butter and cheese.
+  - text: A dairy farm.
+  - text: A shop selling dairy products.
+  - text: A corner store, superette or minimart.
+  - text: "(chiefly in the plural) A woman's breast."
+- pos: adjective
+  defs:
+  - text: Referring to products produced from milk.
+  - text: Referring to the milk production and processing industries.
+  - text: On food labelling, containing fats only from dairy sources (e.g. dairy ice
+      cream).
 ---
-

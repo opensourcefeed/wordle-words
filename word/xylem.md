@@ -1,7 +1,30 @@
 ---
 layout: word
-title: xylem
+title: Is XYLEM a Wordle Word?
+head_title: Is XYLEM a Wordle Word? Yes – Valid Guess & Meaning
 word: xylem
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈzaɪ.ləm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vascular tissue in land plants primarily responsible for the distribution of water and minerals taken up by the roots; also the primary component of wood.</li></ul></div></div>"
+description: Yes, XYLEM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 70
+phonetic: "/ˈzaɪ.ləm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A vascular tissue in land plants primarily responsible for the distribution
+      of water and minerals taken up by the roots; also the primary component of wood.
 ---
-

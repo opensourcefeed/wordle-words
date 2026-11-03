@@ -1,7 +1,45 @@
 ---
 layout: word
-title: geist
+title: Is GEIST a Wordle Word?
+head_title: Is GEIST a Wordle Word? Yes – Valid Guess & Meaning
 word: geist
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Ghost, apparition.</li><li><strong>Definition 2:</strong> Spirit (of a group, age, era etc).</li></ul></div></div>"
+description: Yes, GEIST is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- heist
+- deist
+- feist
+- geest
+- grist
+- neist
+- reist
+anagrams:
+- geits
+- gites
+- tiges
+trap:
+  pattern: _EIST
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Ghost, apparition.
+  - text: Spirit (of a group, age, era etc).
 ---
-

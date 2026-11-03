@@ -1,7 +1,33 @@
 ---
 layout: word
-title: birdo
+title: Is BIRDO a Wordle Word?
+head_title: Is BIRDO a Wordle Word? Yes – Valid Guess & Meaning
 word: birdo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɜːdəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A birder or birdwatcher.</li></ul></div></div>"
+description: Yes, BIRDO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- bardo
+- birds
+phonetic: "/ˈbɜːdəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A birder or birdwatcher.
 ---
-

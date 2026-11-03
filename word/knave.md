@@ -1,7 +1,38 @@
 ---
 layout: word
-title: knave
+title: Is KNAVE a Wordle Word?
+head_title: 'Is KNAVE a Wordle Word? Yes – Past Answer #1168 & Meaning'
 word: knave
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /neɪv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A boy; especially, a boy servant.</li><li><strong>Definition 2:</strong> Any male servant; a menial.</li><li><strong>Definition 3:</strong> A tricky, deceitful fellow; a dishonest person.</li><li><strong>Definition 4:</strong> A playing card marked with the figure of a servant or soldier; a jack.</li></ul></div></div>"
+description: Yes, KNAVE is a valid Wordle word. It was the Wordle answer on August
+  30, 2024 (#1168). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 30, 2024 (#1168).
+past_answers:
+- date: '2024-08-30'
+  number: 1168
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- knawe
+- knive
+phonetic: "/neɪv/"
+definitions:
+- pos: noun
+  defs:
+  - text: A boy; especially, a boy servant.
+  - text: Any male servant; a menial.
+  - text: A tricky, deceitful fellow; a dishonest person.
+  - text: A playing card marked with the figure of a servant or soldier; a jack.
 ---
-

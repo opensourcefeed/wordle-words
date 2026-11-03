@@ -1,7 +1,43 @@
 ---
 layout: word
-title: bardy
+title: Is BARDY a Wordle Word?
+head_title: Is BARDY a Wordle Word? Yes – Valid Guess & Meaning
 word: bardy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The edible larva of an insect.</li></ul></div></div>"
+description: Yes, BARDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- bawdy
+- hardy
+- tardy
+- baddy
+- baldy
+- bandy
+- barby
+- barde
+- bardo
+- bards
+- barfy
+- barky
+trap:
+  pattern: _ARDY
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: The edible larva of an insect.
 ---
-

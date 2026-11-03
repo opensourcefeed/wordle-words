@@ -1,7 +1,45 @@
 ---
 layout: word
-title: dunts
+title: Is DUNTS a Wordle Word?
+head_title: Is DUNTS a Wordle Word? Yes – Valid Guess & Meaning
 word: dunts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stroke; a dull-sounding blow.</li></ul></div></div>"
+description: Yes, DUNTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- aunts
+- bunts
+- dants
+- dents
+- dints
+- ducts
+- duets
+- duits
+- dunes
+- dungs
+- dunks
+- dusts
+anagrams:
+- tunds
+trap:
+  pattern: _UNTS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A stroke; a dull-sounding blow.
 ---
-

@@ -1,7 +1,67 @@
 ---
 layout: word
-title: honey
+title: Is HONEY a Wordle Word?
+head_title: 'Is HONEY a Wordle Word? Yes – Past Answer #1185 & Meaning'
 word: honey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhʌni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A viscous, sweet fluid produced from plant nectar by bees. Often used to sweeten tea or to spread on baked goods.</li><li><strong>Definition 2:</strong> A variety of this substance.</li><li><strong>Definition 3:</strong> Nectar.</li><li><strong>Definition 4:</strong> Something sweet or desirable.</li><li><strong>Definition 5:</strong> A term of affection.<p><strong>Example:</strong> Honey, I'm home.</p></li><li><strong>Definition 6:</strong> A woman, especially an attractive one.<p><strong>Example:</strong> Man, there are some fine honeys here tonight!</p></li><li><strong>Definition 7:</strong> A spectrum of pale yellow to brownish-yellow colour, like that of most types of (the sweet substance) honey.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sweeten; to make agreeable.</li><li><strong>Definition 2:</strong> To be gentle, agreeable, or coaxing; to talk fondly; to use endearments.</li><li><strong>Definition 3:</strong> To be or become obsequiously courteous or complimentary; to fawn.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Involving or resembling honey.</li><li><strong>Definition 2:</strong> Of a pale yellow to brownish-yellow colour, like most types of honey.</li></ul></div></div>"
+description: Yes, HONEY is a valid Wordle word. It was the Wordle answer on September
+  16, 2024 (#1185). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 16, 2024 (#1185).
+past_answers:
+- date: '2024-09-16'
+  number: 1185
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- boney
+- money
+- coney
+- hokey
+- holey
+- homey
+- honed
+- honer
+- hones
+- hooey
+- hosey
+- poney
+trap:
+  pattern: _ONEY
+  count: 6
+phonetic: "/ˈhʌni/"
+definitions:
+- pos: noun
+  defs:
+  - text: A viscous, sweet fluid produced from plant nectar by bees. Often used to
+      sweeten tea or to spread on baked goods.
+  - text: A variety of this substance.
+  - text: Nectar.
+  - text: Something sweet or desirable.
+  - text: A term of affection.
+    example: Honey, I'm home.
+  - text: A woman, especially an attractive one.
+    example: Man, there are some fine honeys here tonight!
+  - text: A spectrum of pale yellow to brownish-yellow colour, like that of most types
+      of (the sweet substance) honey.
+- pos: verb
+  defs:
+  - text: To sweeten; to make agreeable.
+  - text: To be gentle, agreeable, or coaxing; to talk fondly; to use endearments.
+  - text: To be or become obsequiously courteous or complimentary; to fawn.
+- pos: adjective
+  defs:
+  - text: Involving or resembling honey.
+  - text: Of a pale yellow to brownish-yellow colour, like most types of honey.
 ---
-

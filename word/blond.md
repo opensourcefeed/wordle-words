@@ -1,7 +1,50 @@
 ---
 layout: word
-title: blond
+title: Is BLOND a Wordle Word?
+head_title: 'Is BLOND a Wordle Word? Yes – Past Answer #941 & Meaning'
 word: blond
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blɒnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pale yellowish (golden brown) color, especially said of hair color.</li><li><strong>Definition 2:</strong> A person with this hair color.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To color or dye blond</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a bleached or pale golden (light yellowish) colour.<p><strong>Example:</strong> blond ale</p></li><li><strong>Definition 2:</strong> (of a person) Having blond hair.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (especially of a woman) Stupid, ignorant, naive.</li></ul></div></div>"
+description: Yes, BLOND is a valid Wordle word. It was the Wordle answer on January
+  16, 2024 (#941). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 16, 2024 (#941).
+past_answers:
+- date: '2024-01-16'
+  number: 941
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- bland
+- blend
+- blind
+- blood
+- blonx
+- brond
+phonetic: "/blɒnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pale yellowish (golden brown) color, especially said of hair color.
+  - text: A person with this hair color.
+- pos: verb
+  defs:
+  - text: To color or dye blond
+- pos: adjective
+  defs:
+  - text: Of a bleached or pale golden (light yellowish) colour.
+    example: blond ale
+  - text: "(of a person) Having blond hair."
+- pos: adjective
+  defs:
+  - text: "(especially of a woman) Stupid, ignorant, naive."
 ---
-

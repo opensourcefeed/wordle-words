@@ -1,7 +1,53 @@
 ---
 layout: word
-title: relax
+title: Is RELAX a Wordle Word?
+head_title: 'Is RELAX a Wordle Word? Yes – Past Answer #1295 & Meaning'
 word: relax
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈlæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To calm down.</li><li><strong>Definition 2:</strong> To make something loose.<p><strong>Example:</strong> to relax a rope or cord</p></li><li><strong>Definition 3:</strong> To become loose.</li><li><strong>Definition 4:</strong> To make something less severe or tense.<p><strong>Example:</strong> to relax discipline</p></li><li><strong>Definition 5:</strong> To become less severe or tense.</li><li><strong>Definition 6:</strong> To make something (such as codes and regulations) more lenient.</li><li><strong>Definition 7:</strong> (of codes and regulations) To become more lenient.</li><li><strong>Definition 8:</strong> To relieve (something) from stress.<p><strong>Example:</strong> Amusement relaxes the mind.</p></li><li><strong>Definition 9:</strong> To relieve from constipation; to loosen; to open.<p><strong>Example:</strong> An aperient relaxes the bowels.</p></li></ul></div></div>"
+description: Yes, RELAX is a valid Wordle word. It was the Wordle answer on January
+  4, 2025 (#1295). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 4, 2025 (#1295).
+past_answers:
+- date: '2025-01-04'
+  number: 1295
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - L
+  - A
+  rare:
+  - X
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- relay
+- retax
+- rewax
+anagrams:
+- laxer
+phonetic: "/ɹɪˈlæks/"
+definitions:
+- pos: verb
+  defs:
+  - text: To calm down.
+  - text: To make something loose.
+    example: to relax a rope or cord
+  - text: To become loose.
+  - text: To make something less severe or tense.
+    example: to relax discipline
+  - text: To become less severe or tense.
+  - text: To make something (such as codes and regulations) more lenient.
+  - text: "(of codes and regulations) To become more lenient."
+  - text: To relieve (something) from stress.
+    example: Amusement relaxes the mind.
+  - text: To relieve from constipation; to loosen; to open.
+    example: An aperient relaxes the bowels.
 ---
-

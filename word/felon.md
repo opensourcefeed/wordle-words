@@ -1,7 +1,40 @@
 ---
 layout: word
-title: felon
+title: Is FELON a Wordle Word?
+head_title: Is FELON a Wordle Word? Yes – Possible Answer & Meaning
 word: felon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɛlən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who has committed a felony.</li><li><strong>Definition 2:</strong> A person who has been tried and convicted of a felony.</li><li><strong>Definition 3:</strong> A wicked person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Wicked; cruel</li></ul></div></div>"
+description: Yes, FELON is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- melon
+- belon
+- filon
+- pelon
+phonetic: "/ˈfɛlən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who has committed a felony.
+  - text: A person who has been tried and convicted of a felony.
+  - text: A wicked person.
+- pos: adjective
+  defs:
+  - text: Wicked; cruel
 ---
-

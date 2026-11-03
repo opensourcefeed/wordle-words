@@ -1,7 +1,36 @@
 ---
 layout: word
-title: gamut
+title: Is GAMUT a Wordle Word?
+head_title: 'Is GAMUT a Wordle Word? Yes – Past Answer #1213 & Meaning'
 word: gamut
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡæm.ət/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A (normally) complete range.</li><li><strong>Definition 2:</strong> All the notes in the musical scale.</li><li><strong>Definition 3:</strong> All the colours available to a device such as a monitor or printer.</li></ul></div></div>"
+description: Yes, GAMUT is a valid Wordle word. It was the Wordle answer on October
+  14, 2024 (#1213). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 14, 2024 (#1213).
+past_answers:
+- date: '2024-10-14'
+  number: 1213
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- galut
+phonetic: "/ˈɡæm.ət/"
+definitions:
+- pos: noun
+  defs:
+  - text: A (normally) complete range.
+  - text: All the notes in the musical scale.
+  - text: All the colours available to a device such as a monitor or printer.
 ---
-

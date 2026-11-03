@@ -1,7 +1,113 @@
 ---
 layout: word
-title: mills
+title: Is MILLS a Wordle Word?
+head_title: Is MILLS a Wordle Word? Yes – Valid Guess & Meaning
 word: mills
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɪlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A grinding apparatus for substances such as grains, seeds, etc.<p><strong>Example:</strong> Pepper has a stronger flavor when it is ground straight from a mill.</p></li><li><strong>Definition 2:</strong> The building housing such a grinding apparatus.<p><strong>Example:</strong> My grandfather worked in a mill.</p></li><li><strong>Definition 3:</strong> A machine used for expelling the juice, sap, etc., from vegetable tissues by pressure, or by pressure in combination with a grinding, or cutting process.<p><strong>Example:</strong> a cider mill; a cane mill</p></li><li><strong>Definition 4:</strong> A machine for grinding and polishing.<p><strong>Example:</strong> a lapidary mill</p></li><li><strong>Definition 5:</strong> The raised or ridged edge or surface made in milling anything, such as a coin or screw.</li><li><strong>Definition 6:</strong> A manufacturing plant for paper, steel, textiles, etc.<p><strong>Example:</strong> a steel mill</p></li><li><strong>Definition 7:</strong> A building housing such a plant.</li><li><strong>Definition 8:</strong> An establishment that handles a certain type of situation or procedure routinely, or produces large quantities of an item without much regard to quality, such as a divorce mill, a puppy mill, etc.</li><li><strong>Definition 9:</strong> An institution awarding educational certificates not officially recognised</li><li><strong>Definition 10:</strong> An engine.</li><li><strong>Definition 11:</strong> A boxing match, fistfight.</li><li><strong>Definition 12:</strong> (die sinking) A hardened steel roller with a design in relief, used for imprinting a reversed copy of the design in a softer metal, such as copper.</li><li><strong>Definition 13:</strong> An excavation in rock, transverse to the workings, from which material for filling is obtained.</li><li><strong>Definition 14:</strong> A passage underground through which ore is shot.</li><li><strong>Definition 15:</strong> A milling cutter.</li><li><strong>Definition 16:</strong> A treadmill.</li><li><strong>Definition 17:</strong> A typewriter used to transcribe messages received.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grind or otherwise process in a mill or other machine.<p><strong>Example:</strong> to mill flour</p></li><li><strong>Definition 2:</strong> To shape, polish, dress or finish using a machine.</li><li><strong>Definition 3:</strong> To engrave one or more grooves or a pattern around the edge of (a cylindrical object such as a coin).</li><li><strong>Definition 4:</strong> (followed by around, about, etc.) To move about in an aimless fashion.<p><strong>Example:</strong> I didn't have much to do, so I just milled around the town looking at the shops.</p></li><li><strong>Definition 5:</strong> To cause to mill, or circle around.<p><strong>Example:</strong> to mill cattle</p></li><li><strong>Definition 6:</strong> (of air-breathing creatures) To swim underwater.</li><li><strong>Definition 7:</strong> (of a whale) To swim suddenly in a new direction.</li><li><strong>Definition 8:</strong> To beat; to pound.</li><li><strong>Definition 9:</strong> To pass through a fulling mill; to full, as cloth.</li><li><strong>Definition 10:</strong> To roll (steel, etc.) into bars.</li><li><strong>Definition 11:</strong> To make (drinking chocolate) frothy, as by churning.</li><li><strong>Definition 12:</strong> To undergo hulling.<p><strong>Example:</strong> This maize mills well.</p></li><li><strong>Definition 13:</strong> To take part in a fistfight; to box.</li><li><strong>Definition 14:</strong> To fill (a winze or interior incline) with broken ore, to be drawn out at the bottom.</li><li><strong>Definition 15:</strong> (thieves' cant) To commit burglary.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An obsolete coin worth one thousandth of a US dollar, or one tenth of a cent.</li><li><strong>Definition 2:</strong> One thousandth part, particularly in millage rates of property tax.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A line of three matching pieces in nine men's morris and related games.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (trading card games) Discarding a card from one's deck.</li><li><strong>Definition 2:</strong> (trading card games) A strategy centered on depleting the opponent's deck.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (trading card games) To move (a card) from a deck to the discard pile.</li><li><strong>Definition 2:</strong> (Hearthstone) To destroy (a card) due to having a full hand.</li></ul></div></div>"
+description: Yes, MILLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- bills
+- cills
+- dills
+- fills
+- gills
+- hills
+- jills
+- kills
+- lills
+- malls
+- mells
+- milds
+trap:
+  pattern: _ILLS
+  count: 19
+phonetic: "/mɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A grinding apparatus for substances such as grains, seeds, etc.
+    example: Pepper has a stronger flavor when it is ground straight from a mill.
+  - text: The building housing such a grinding apparatus.
+    example: My grandfather worked in a mill.
+  - text: A machine used for expelling the juice, sap, etc., from vegetable tissues
+      by pressure, or by pressure in combination with a grinding, or cutting process.
+    example: a cider mill; a cane mill
+  - text: A machine for grinding and polishing.
+    example: a lapidary mill
+  - text: The raised or ridged edge or surface made in milling anything, such as a
+      coin or screw.
+  - text: A manufacturing plant for paper, steel, textiles, etc.
+    example: a steel mill
+  - text: A building housing such a plant.
+  - text: An establishment that handles a certain type of situation or procedure routinely,
+      or produces large quantities of an item without much regard to quality, such
+      as a divorce mill, a puppy mill, etc.
+  - text: An institution awarding educational certificates not officially recognised
+  - text: An engine.
+  - text: A boxing match, fistfight.
+  - text: "(die sinking) A hardened steel roller with a design in relief, used for
+      imprinting a reversed copy of the design in a softer metal, such as copper."
+  - text: An excavation in rock, transverse to the workings, from which material for
+      filling is obtained.
+  - text: A passage underground through which ore is shot.
+  - text: A milling cutter.
+  - text: A treadmill.
+  - text: A typewriter used to transcribe messages received.
+- pos: verb
+  defs:
+  - text: To grind or otherwise process in a mill or other machine.
+    example: to mill flour
+  - text: To shape, polish, dress or finish using a machine.
+  - text: To engrave one or more grooves or a pattern around the edge of (a cylindrical
+      object such as a coin).
+  - text: "(followed by around, about, etc.) To move about in an aimless fashion."
+    example: I didn't have much to do, so I just milled around the town looking at
+      the shops.
+  - text: To cause to mill, or circle around.
+    example: to mill cattle
+  - text: "(of air-breathing creatures) To swim underwater."
+  - text: "(of a whale) To swim suddenly in a new direction."
+  - text: To beat; to pound.
+  - text: To pass through a fulling mill; to full, as cloth.
+  - text: To roll (steel, etc.) into bars.
+  - text: To make (drinking chocolate) frothy, as by churning.
+  - text: To undergo hulling.
+    example: This maize mills well.
+  - text: To take part in a fistfight; to box.
+  - text: To fill (a winze or interior incline) with broken ore, to be drawn out at
+      the bottom.
+  - text: "(thieves' cant) To commit burglary."
+- pos: noun
+  defs:
+  - text: An obsolete coin worth one thousandth of a US dollar, or one tenth of a
+      cent.
+  - text: One thousandth part, particularly in millage rates of property tax.
+- pos: noun
+  defs:
+  - text: A line of three matching pieces in nine men's morris and related games.
+- pos: noun
+  defs:
+  - text: "(trading card games) Discarding a card from one's deck."
+  - text: "(trading card games) A strategy centered on depleting the opponent's deck."
+- pos: verb
+  defs:
+  - text: "(trading card games) To move (a card) from a deck to the discard pile."
+  - text: "(Hearthstone) To destroy (a card) due to having a full hand."
 ---
-

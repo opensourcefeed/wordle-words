@@ -1,7 +1,44 @@
 ---
 layout: word
-title: cline
+title: Is CLINE a Wordle Word?
+head_title: Is CLINE a Wordle Word? Yes – Valid Guess & Meaning
 word: cline
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klaɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gradation in a character or phenotype within a species or other group.</li><li><strong>Definition 2:</strong> Any graduated continuum.</li></ul></div></div>"
+description: Yes, CLINE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- cling
+- clink
+- clone
+- aline
+- chine
+- clime
+- clint
+- clipe
+- crine
+anagrams:
+- incel
+- incle
+phonetic: "/klaɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A gradation in a character or phenotype within a species or other group.
+  - text: Any graduated continuum.
 ---
-

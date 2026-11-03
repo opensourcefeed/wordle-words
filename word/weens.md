@@ -1,7 +1,54 @@
 ---
 layout: word
-title: weens
+title: Is WEENS a Wordle Word?
+head_title: Is WEENS a Wordle Word? Yes – Valid Guess & Meaning
 word: weens
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To suppose, imagine; to think, believe.</li><li><strong>Definition 2:</strong> To expect, hope or wish.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To weep or cry.<p><strong>Example:</strong> The boy's mother weened day and night.</p></li><li><strong>Definition 2:</strong> To lament.</li></ul></div></div>"
+description: Yes, WEENS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- deens
+- feens
+- keens
+- peens
+- reens
+- teens
+- weans
+- weeds
+- weeis
+- weeks
+- weels
+- weems
+anagrams:
+- enews
+- ensew
+- sewen
+trap:
+  pattern: WEE_S
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To suppose, imagine; to think, believe.
+  - text: To expect, hope or wish.
+- pos: verb
+  defs:
+  - text: To weep or cry.
+    example: The boy's mother weened day and night.
+  - text: To lament.
 ---
-

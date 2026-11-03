@@ -1,7 +1,57 @@
 ---
 layout: word
-title: locus
+title: Is LOCUS a Wordle Word?
+head_title: 'Is LOCUS a Wordle Word? Yes – Past Answer #657 & Meaning'
 word: locus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈləʊkəs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A place or locality, especially a centre of activity or the scene of a crime.<p><strong>Example:</strong> The cafeteria was the locus of activity.</p></li><li><strong>Definition 2:</strong> The set of all points whose coordinates satisfy a given equation or condition.<p><strong>Example:</strong> A circle is the locus of points from which the distance to the center is a given value, the radius.</p></li><li><strong>Definition 3:</strong> A fixed position on a chromosome that may be occupied by one or more genes.</li><li><strong>Definition 4:</strong> (chiefly in the plural) A passage in writing, especially in a collection of ancient sacred writings arranged according to a theme.</li></ul></div></div>"
+description: Yes, LOCUS is a valid Wordle word. It was the Wordle answer on April
+  7, 2023 (#657). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 7, 2023 (#657).
+past_answers:
+- date: '2023-04-07'
+  number: 657
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- focus
+- cocus
+- docus
+- hocus
+- lobus
+- lochs
+- locis
+- locks
+- locos
+- locum
+- lotus
+- mocus
+anagrams:
+- clous
+trap:
+  pattern: _OCUS
+  count: 6
+phonetic: "/ˈləʊkəs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A place or locality, especially a centre of activity or the scene of a crime.
+    example: The cafeteria was the locus of activity.
+  - text: The set of all points whose coordinates satisfy a given equation or condition.
+    example: A circle is the locus of points from which the distance to the center
+      is a given value, the radius.
+  - text: A fixed position on a chromosome that may be occupied by one or more genes.
+  - text: "(chiefly in the plural) A passage in writing, especially in a collection
+      of ancient sacred writings arranged according to a theme."
 ---
-

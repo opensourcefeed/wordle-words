@@ -1,7 +1,52 @@
 ---
 layout: word
-title: whine
+title: Is WHINE a Wordle Word?
+head_title: 'Is WHINE a Wordle Word? Yes – Past Answer #561 & Meaning'
 word: whine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /waɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long-drawn, high-pitched complaining cry or sound</li><li><strong>Definition 2:</strong> A complaint or criticism</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To utter a high-pitched cry.</li><li><strong>Definition 2:</strong> To make a sound resembling such a cry.<p><strong>Example:</strong> The jet engines whined at take off.</p></li><li><strong>Definition 3:</strong> To complain or protest with a whine or as if with a whine.</li><li><strong>Definition 4:</strong> To move with a whining sound.<p><strong>Example:</strong> The jet whined into the air.</p></li><li><strong>Definition 5:</strong> To utter with the sound of a whine.<p><strong>Example:</strong> Kelly Queen was whining that the boss made him put on his tie.</p></li></ul></div></div>"
+description: Yes, WHINE is a valid Wordle word. It was the Wordle answer on January
+  1, 2023 (#561). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 1, 2023 (#561).
+past_answers:
+- date: '2023-01-01'
+  number: 561
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- shine
+- while
+- whiny
+- white
+- chine
+- rhine
+- thine
+- whins
+phonetic: "/waɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long-drawn, high-pitched complaining cry or sound
+  - text: A complaint or criticism
+- pos: verb
+  defs:
+  - text: To utter a high-pitched cry.
+  - text: To make a sound resembling such a cry.
+    example: The jet engines whined at take off.
+  - text: To complain or protest with a whine or as if with a whine.
+  - text: To move with a whining sound.
+    example: The jet whined into the air.
+  - text: To utter with the sound of a whine.
+    example: Kelly Queen was whining that the boss made him put on his tie.
 ---
-

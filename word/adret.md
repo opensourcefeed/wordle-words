@@ -1,7 +1,42 @@
 ---
 layout: word
-title: adret
+title: Is ADRET a Wordle Word?
+head_title: Is ADRET a Wordle Word? Yes – Valid Guess & Meaning
 word: adret
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈædɹeɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sun-facing side of a mountain.</li></ul></div></div>"
+description: Yes, ADRET is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- adred
+- afret
+- arret
+anagrams:
+- trade
+- tread
+- dater
+- derat
+- rated
+- tared
+phonetic: "/ˈædɹeɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sun-facing side of a mountain.
 ---
-

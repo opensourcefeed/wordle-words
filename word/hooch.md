@@ -1,7 +1,36 @@
 ---
 layout: word
-title: hooch
+title: Is HOOCH a Wordle Word?
+head_title: Is HOOCH a Wordle Word? Yes – Valid Guess & Meaning
 word: hooch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hutʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Alcoholic liquor, especially inferior or illicit whisky.</li></ul></div></div>"
+description: Yes, HOOCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - H
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- pooch
+- cooch
+- hoach
+- hoosh
+- hotch
+- mooch
+phonetic: "/hutʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Alcoholic liquor, especially inferior or illicit whisky.
 ---
-

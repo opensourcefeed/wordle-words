@@ -1,7 +1,38 @@
 ---
 layout: word
-title: ostia
+title: Is OSTIA a Wordle Word?
+head_title: Is OSTIA a Wordle Word? Yes – Valid Guess & Meaning
 word: ostia
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small opening or orifice, as in a body organ or passage.</li><li><strong>Definition 2:</strong> Any of the small openings or pores in a sponge.</li><li><strong>Definition 3:</strong> The mouth of a river.</li></ul></div></div>"
+description: Yes, OSTIA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - I
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- ossia
+anagrams:
+- iotas
+- stoai
+definitions:
+- pos: noun
+  defs:
+  - text: A small opening or orifice, as in a body organ or passage.
+  - text: Any of the small openings or pores in a sponge.
+  - text: The mouth of a river.
 ---
-

@@ -1,7 +1,55 @@
 ---
 layout: word
-title: jeers
+title: Is JEERS a Wordle Word?
+head_title: Is JEERS a Wordle Word? Yes – Valid Guess & Meaning
 word: jeers
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mocking remark or reflection.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (jeer at) To utter sarcastic or mocking comments; to speak with mockery or derision; to use taunting language.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gear; a tackle.</li><li><strong>Definition 2:</strong> (in the plural) An assemblage or combination of tackles, for hoisting or lowering the yards of a ship.</li></ul></div></div>"
+description: Yes, JEERS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- beers
+- deers
+- feers
+- jeels
+- jeeps
+- jeera
+- leers
+- meers
+- peers
+- seers
+- teers
+- veers
+trap:
+  pattern: _EERS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A mocking remark or reflection.
+- pos: verb
+  defs:
+  - text: "(jeer at) To utter sarcastic or mocking comments; to speak with mockery
+      or derision; to use taunting language."
+- pos: noun
+  defs:
+  - text: A gear; a tackle.
+  - text: "(in the plural) An assemblage or combination of tackles, for hoisting or
+      lowering the yards of a ship."
 ---
-

@@ -1,7 +1,32 @@
 ---
 layout: word
-title: oakum
+title: Is OAKUM a Wordle Word?
+head_title: Is OAKUM a Wordle Word? Yes – Valid Guess & Meaning
 word: oakum
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈəʊkəm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A material, consisting of tarred fibres, used to caulk or pack joints in plumbing, masonry, and wooden shipbuilding.</li><li><strong>Definition 2:</strong> The coarse portion separated from flax or hemp in hackling.</li></ul></div></div>"
+description: Yes, OAKUM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+phonetic: "/ˈəʊkəm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A material, consisting of tarred fibres, used to caulk or pack joints in
+      plumbing, masonry, and wooden shipbuilding.
+  - text: The coarse portion separated from flax or hemp in hackling.
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: psoas
+title: Is PSOAS a Wordle Word?
+head_title: Is PSOAS a Wordle Word? Yes – Valid Guess & Meaning
 word: psoas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsəʊ.əs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Either of two muscles, the psoas major and psoas minor, involved in flexion of the trunk.</li></ul></div></div>"
+description: Yes, PSOAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- proas
+- psias
+- psoae
+- psoai
+anagrams:
+- apsos
+- soaps
+- sposa
+phonetic: "/ˈsəʊ.əs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Either of two muscles, the psoas major and psoas minor, involved in flexion
+      of the trunk.
 ---
-

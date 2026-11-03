@@ -1,7 +1,36 @@
 ---
 layout: word
-title: ingle
+title: Is INGLE a Wordle Word?
+head_title: Is INGLE a Wordle Word? Yes – Valid Guess & Meaning
 word: ingle
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An open fireplace.<p><strong>Example:</strong> Fast by an ingle, bleezing finely, / Wi' reaming swats, that drank divinely</p></li></ul></div></div>"
+description: Yes, INGLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- angle
+- incle
+- inkle
+anagrams:
+- ligne
+definitions:
+- pos: noun
+  defs:
+  - text: An open fireplace.
+    example: Fast by an ingle, bleezing finely, / Wi' reaming swats, that drank divinely
 ---
-

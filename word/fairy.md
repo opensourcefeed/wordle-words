@@ -1,7 +1,47 @@
 ---
 layout: word
-title: fairy
+title: Is FAIRY a Wordle Word?
+head_title: Is FAIRY a Wordle Word? Yes – Possible Answer & Meaning
 word: fairy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɛə̯ɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The realm of faerie; enchantment, illusion.</li><li><strong>Definition 2:</strong> A mythical being with magical powers, known in many sizes and descriptions, although often depicted in modern illustrations only as a small sprite with gauze-like wings, and revered in some modern forms of paganism.</li><li><strong>Definition 3:</strong> An enchantress, or creature of overpowering charm.</li><li><strong>Definition 4:</strong> A male homosexual, especially one who is effeminate.</li><li><strong>Definition 5:</strong> A member of two species of hummingbird in the genus Heliothryx.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Like a fairy; fanciful, whimsical, delicate.</li></ul></div></div>"
+description: Yes, FAIRY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- dairy
+- hairy
+- faery
+- faire
+- fairs
+- lairy
+- vairy
+phonetic: "/ˈfɛə̯ɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: The realm of faerie; enchantment, illusion.
+  - text: A mythical being with magical powers, known in many sizes and descriptions,
+      although often depicted in modern illustrations only as a small sprite with
+      gauze-like wings, and revered in some modern forms of paganism.
+  - text: An enchantress, or creature of overpowering charm.
+  - text: A male homosexual, especially one who is effeminate.
+  - text: A member of two species of hummingbird in the genus Heliothryx.
+- pos: adjective
+  defs:
+  - text: Like a fairy; fanciful, whimsical, delicate.
 ---
-

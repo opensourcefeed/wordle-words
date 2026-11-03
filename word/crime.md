@@ -1,7 +1,55 @@
 ---
 layout: word
-title: crime
+title: Is CRIME a Wordle Word?
+head_title: 'Is CRIME a Wordle Word? Yes – Past Answer #725 & Meaning'
 word: crime
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹaɪm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A specific act committed in violation of the law.</li><li><strong>Definition 2:</strong> Any great sin or wickedness; iniquity.</li><li><strong>Definition 3:</strong> That which occasions crime.</li><li><strong>Definition 4:</strong> Criminal acts collectively.</li><li><strong>Definition 5:</strong> The habit or practice of committing crimes.<p><strong>Example:</strong> Crime doesn’t pay.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To subject to disciplinary punishment.</li><li><strong>Definition 2:</strong> To commit crime(s).</li></ul></div></div>"
+description: Yes, CRIME is a valid Wordle word. It was the Wordle answer on June 14,
+  2023 (#725). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 14, 2023 (#725).
+past_answers:
+- date: '2023-06-14'
+  number: 725
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- chime
+- creme
+- crimp
+- grime
+- prime
+- clime
+- crame
+- crims
+- crine
+- cripe
+- crise
+- crome
+phonetic: "/kɹaɪm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A specific act committed in violation of the law.
+  - text: Any great sin or wickedness; iniquity.
+  - text: That which occasions crime.
+  - text: Criminal acts collectively.
+  - text: The habit or practice of committing crimes.
+    example: Crime doesn’t pay.
+- pos: verb
+  defs:
+  - text: To subject to disciplinary punishment.
+  - text: To commit crime(s).
 ---
-

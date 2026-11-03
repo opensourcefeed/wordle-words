@@ -1,7 +1,61 @@
 ---
 layout: word
-title: grant
+title: Is GRANT a Wordle Word?
+head_title: 'Is GRANT a Wordle Word? Yes – Past Answer #1215 & Meaning'
 word: grant
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹɑːnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of granting; a bestowing or conferring; concession; allowance; permission.</li><li><strong>Definition 2:</strong> The yielding or admission of something in dispute.</li><li><strong>Definition 3:</strong> The thing or property granted; a gift; a boon.<p><strong>Example:</strong> I got a grant from the government to study archeology in Egypt.</p></li><li><strong>Definition 4:</strong> A transfer of property by deed or writing; especially, an appropriation or conveyance made by the government.<p><strong>Example:</strong> a grant of land or of money</p></li><li><strong>Definition 5:</strong> The deed or writing by which such a transfer is made.</li><li><strong>Definition 6:</strong> An application for a grant (monetary boon to aid research or the like).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (ditransitive) to give (permission or wish)<p><strong>Example:</strong> He was granted permission to attend the meeting.</p></li><li><strong>Definition 2:</strong> (ditransitive) To bestow or confer, with or without compensation, particularly in answer to prayer or request; to give.</li><li><strong>Definition 3:</strong> To agree with (someone) on (something); to accept (something) for the sake of argument; to admit to (someone) that (something) is true.</li><li><strong>Definition 4:</strong> To assent; to consent.</li></ul></div></div>"
+description: Yes, GRANT is a valid Wordle word. It was the Wordle answer on October
+  16, 2024 (#1215). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 16, 2024 (#1215).
+past_answers:
+- date: '2024-10-16'
+  number: 1215
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- giant
+- graft
+- grand
+- grunt
+- brant
+- drant
+- grana
+- grano
+- grans
+- orant
+- trant
+phonetic: "/ɡɹɑːnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of granting; a bestowing or conferring; concession; allowance; permission.
+  - text: The yielding or admission of something in dispute.
+  - text: The thing or property granted; a gift; a boon.
+    example: I got a grant from the government to study archeology in Egypt.
+  - text: A transfer of property by deed or writing; especially, an appropriation
+      or conveyance made by the government.
+    example: a grant of land or of money
+  - text: The deed or writing by which such a transfer is made.
+  - text: An application for a grant (monetary boon to aid research or the like).
+- pos: verb
+  defs:
+  - text: "(ditransitive) to give (permission or wish)"
+    example: He was granted permission to attend the meeting.
+  - text: "(ditransitive) To bestow or confer, with or without compensation, particularly
+      in answer to prayer or request; to give."
+  - text: To agree with (someone) on (something); to accept (something) for the sake
+      of argument; to admit to (someone) that (something) is true.
+  - text: To assent; to consent.
 ---
-

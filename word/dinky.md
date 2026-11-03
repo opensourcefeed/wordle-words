@@ -1,7 +1,46 @@
 ---
 layout: word
-title: dinky
+title: Is DINKY a Wordle Word?
+head_title: Is DINKY a Wordle Word? Yes – Valid Guess & Meaning
 word: dinky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɪŋki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Tiny and cute; small and attractive.</li><li><strong>Definition 2:</strong> Tiny and insignificant; small and undesirable.<p><strong>Example:</strong> They stayed in a dinky hotel room, but they had a great trip.</p></li></ul></div></div>"
+description: Yes, DINKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- dingy
+- kinky
+- pinky
+- binky
+- dicky
+- dinks
+- hinky
+- linky
+- sinky
+- winky
+- zinky
+anagrams:
+- kindy
+trap:
+  pattern: _INKY
+  count: 9
+phonetic: "/ˈdɪŋki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Tiny and cute; small and attractive.
+  - text: Tiny and insignificant; small and undesirable.
+    example: They stayed in a dinky hotel room, but they had a great trip.
 ---
-

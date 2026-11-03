@@ -1,7 +1,68 @@
 ---
 layout: word
-title: moths
+title: Is MOTHS a Wordle Word?
+head_title: Is MOTHS a Wordle Word? Yes – Valid Guess & Meaning
 word: moths
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɑðz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small particle; a speck.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A meeting for discussion.<p><strong>Example:</strong> a wardmote in the city of London</p></li><li><strong>Definition 2:</strong> A body of persons who meet for discussion, especially about the management of affairs.<p><strong>Example:</strong> a folk mote</p></li><li><strong>Definition 3:</strong> A place of meeting for discussion.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tiny computer for remote sensing; a component element of smartdust.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A usually nocturnal insect of the order Lepidoptera, distinguished from butterflies by feather-like antennae.</li><li><strong>Definition 2:</strong> Anything that gradually and silently eats, consumes, or wastes any other thing.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hunt for moths.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The plant Vigna aconitifolia, moth bean.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A liver spot, especially an irregular or feathery one.</li></ul></div></div>"
+description: Yes, MOTHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- coths
+- goths
+- maths
+- meths
+- mochs
+- motes
+- mothy
+- motis
+- motts
+- motus
+- myths
+- soths
+phonetic: "/mɑðz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small particle; a speck.
+- pos: noun
+  defs:
+  - text: A meeting for discussion.
+    example: a wardmote in the city of London
+  - text: A body of persons who meet for discussion, especially about the management
+      of affairs.
+    example: a folk mote
+  - text: A place of meeting for discussion.
+- pos: noun
+  defs:
+  - text: A tiny computer for remote sensing; a component element of smartdust.
+- pos: noun
+  defs:
+  - text: A usually nocturnal insect of the order Lepidoptera, distinguished from
+      butterflies by feather-like antennae.
+  - text: Anything that gradually and silently eats, consumes, or wastes any other
+      thing.
+- pos: verb
+  defs:
+  - text: To hunt for moths.
+- pos: noun
+  defs:
+  - text: The plant Vigna aconitifolia, moth bean.
+- pos: noun
+  defs:
+  - text: A liver spot, especially an irregular or feathery one.
 ---
-

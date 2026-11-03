@@ -1,7 +1,44 @@
 ---
 layout: word
-title: fugue
+title: Is FUGUE a Wordle Word?
+head_title: 'Is FUGUE a Wordle Word? Yes – Past Answer #1604 & Meaning'
 word: fugue
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfjuːɡ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A contrapuntal piece of music wherein a particular melody is played in a number of voices, each voice introduced in turn by playing the melody.</li><li><strong>Definition 2:</strong> Anything in literature, poetry, film, painting, etc., that resembles a fugue in structure or in its elaborate complexity and formality.</li><li><strong>Definition 3:</strong> A fugue state.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To improvise, in singing, by introducing vocal ornamentation to fill gaps etc.</li></ul></div></div>"
+description: Yes, FUGUE is a valid Wordle word. It was the Wordle answer on November
+  9, 2025 (#1604). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 9, 2025 (#1604).
+past_answers:
+- date: '2025-11-09'
+  number: 1604
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - U
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- fugie
+- fugle
+- fugus
+phonetic: "/ˈfjuːɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A contrapuntal piece of music wherein a particular melody is played in a
+      number of voices, each voice introduced in turn by playing the melody.
+  - text: Anything in literature, poetry, film, painting, etc., that resembles a fugue
+      in structure or in its elaborate complexity and formality.
+  - text: A fugue state.
+- pos: verb
+  defs:
+  - text: To improvise, in singing, by introducing vocal ornamentation to fill gaps
+      etc.
 ---
-

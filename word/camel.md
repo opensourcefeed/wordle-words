@@ -1,7 +1,48 @@
 ---
 layout: word
-title: camel
+title: Is CAMEL a Wordle Word?
+head_title: 'Is CAMEL a Wordle Word? Yes – Past Answer #1171 & Meaning'
 word: camel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkæməl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A beast of burden, much used in desert areas, of the genus Camelus.</li><li><strong>Definition 2:</strong> A light brownish color, like that of a camel (also called camel brown).</li><li><strong>Definition 3:</strong> Loaded vessels lashed tightly, one on each side of another vessel, and then emptied to reduce the draught of the ship in the middle.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a light brown color like that of a camel.</li></ul></div></div>"
+description: Yes, CAMEL is a valid Wordle word. It was the Wordle answer on September
+  2, 2024 (#1171). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 2, 2024 (#1171).
+past_answers:
+- date: '2024-09-02'
+  number: 1171
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- cameo
+- cames
+- cavel
+- hamel
+- samel
+anagrams:
+- clame
+- macle
+phonetic: "/ˈkæməl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A beast of burden, much used in desert areas, of the genus Camelus.
+  - text: A light brownish color, like that of a camel (also called camel brown).
+  - text: Loaded vessels lashed tightly, one on each side of another vessel, and then
+      emptied to reduce the draught of the ship in the middle.
+- pos: adjective
+  defs:
+  - text: Of a light brown color like that of a camel.
 ---
-

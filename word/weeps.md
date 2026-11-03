@@ -1,7 +1,53 @@
 ---
 layout: word
-title: weeps
+title: Is WEEPS a Wordle Word?
+head_title: Is WEEPS a Wordle Word? Yes – Valid Guess & Meaning
 word: weeps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cry; shed tears.</li><li><strong>Definition 2:</strong> To lament; to complain.</li><li><strong>Definition 3:</strong> (of a wound or sore) To produce secretions.</li><li><strong>Definition 4:</strong> To flow in drops; to run in drops.<p><strong>Example:</strong> a weeping spring, which discharges water slowly</p></li><li><strong>Definition 5:</strong> To hang the branches, as if in sorrow; to be pendent; to droop; said of a plant or its branches.</li><li><strong>Definition 6:</strong> To weep over; to bewail.</li></ul></div></div>"
+description: Yes, WEEPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- beeps
+- deeps
+- geeps
+- jeeps
+- keeps
+- leeps
+- meeps
+- neeps
+- peeps
+- seeps
+- veeps
+- weeds
+anagrams:
+- sweep
+trap:
+  pattern: _EEPS
+  count: 12
+definitions:
+- pos: verb
+  defs:
+  - text: To cry; shed tears.
+  - text: To lament; to complain.
+  - text: "(of a wound or sore) To produce secretions."
+  - text: To flow in drops; to run in drops.
+    example: a weeping spring, which discharges water slowly
+  - text: To hang the branches, as if in sorrow; to be pendent; to droop; said of
+      a plant or its branches.
+  - text: To weep over; to bewail.
 ---
-

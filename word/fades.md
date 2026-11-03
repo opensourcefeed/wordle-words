@@ -1,7 +1,65 @@
 ---
 layout: word
-title: fades
+title: Is FADES a Wordle Word?
+head_title: Is FADES a Wordle Word? Yes – Valid Guess & Meaning
 word: fades
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /feɪdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A golf shot that (for the right-handed player) curves intentionally to the right. See slice, hook, draw.</li><li><strong>Definition 2:</strong> A haircut where the hair is short or shaved on the sides of the head and longer on top. See also high-top fade and low fade.</li><li><strong>Definition 3:</strong> A fight.</li><li><strong>Definition 4:</strong> A gradual decrease in the brightness of a shot or the volume of sound or music (as a means of cutting to a new scene or starting a new song).</li><li><strong>Definition 5:</strong> The act of disappearing from a place so as not to be found; covert departure.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant.</li><li><strong>Definition 2:</strong> To lose freshness, color, or brightness; to become faint in hue or tint; hence, to be wanting in color.</li><li><strong>Definition 3:</strong> To sink away; to disappear gradually; to grow dim; to vanish.<p><strong>Example:</strong> The milkman's whistling faded into the distance.</p></li><li><strong>Definition 4:</strong> To cause to fade.</li><li><strong>Definition 5:</strong> To bet against.</li></ul></div></div>"
+description: Yes, FADES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- cades
+- faces
+- faded
+- fader
+- fados
+- fakes
+- fales
+- fames
+- fanes
+- fares
+- fates
+- faves
+anagrams:
+- safed
+trap:
+  pattern: FA_ES
+  count: 11
+phonetic: "/feɪdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A golf shot that (for the right-handed player) curves intentionally to the
+      right. See slice, hook, draw.
+  - text: A haircut where the hair is short or shaved on the sides of the head and
+      longer on top. See also high-top fade and low fade.
+  - text: A fight.
+  - text: A gradual decrease in the brightness of a shot or the volume of sound or
+      music (as a means of cutting to a new scene or starting a new song).
+  - text: The act of disappearing from a place so as not to be found; covert departure.
+- pos: verb
+  defs:
+  - text: To grow weak; to lose strength; to decay; to perish gradually; to wither,
+      as a plant.
+  - text: To lose freshness, color, or brightness; to become faint in hue or tint;
+      hence, to be wanting in color.
+  - text: To sink away; to disappear gradually; to grow dim; to vanish.
+    example: The milkman's whistling faded into the distance.
+  - text: To cause to fade.
+  - text: To bet against.
 ---
-

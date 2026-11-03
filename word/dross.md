@@ -1,7 +1,45 @@
 ---
 layout: word
-title: dross
+title: Is DROSS a Wordle Word?
+head_title: Is DROSS a Wordle Word? Yes – Possible Answer & Meaning
 word: dross
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹɑs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Waste or impure matter.</li><li><strong>Definition 2:</strong> Residue that forms on the surface of a metal from oxidation.</li><li><strong>Definition 3:</strong> The impurities in metal.</li><li><strong>Definition 4:</strong> A waste product from working with metal.</li><li><strong>Definition 5:</strong> Worthless or trivial matter.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove dross from.</li></ul></div></div>"
+description: Yes, DROSS is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- cross
+- dress
+- gross
+- drops
+- drows
+- pross
+anagrams:
+- sords
+phonetic: "/dɹɑs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Waste or impure matter.
+  - text: Residue that forms on the surface of a metal from oxidation.
+  - text: The impurities in metal.
+  - text: A waste product from working with metal.
+  - text: Worthless or trivial matter.
+- pos: verb
+  defs:
+  - text: To remove dross from.
 ---
-

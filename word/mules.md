@@ -1,7 +1,68 @@
 ---
 layout: word
-title: mules
+title: Is MULES a Wordle Word?
+head_title: Is MULES a Wordle Word? Yes – Valid Guess & Meaning
 word: mules
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mjuːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The generally sterile male or female hybrid offspring of a male donkey and a female horse.</li><li><strong>Definition 2:</strong> The generally sterile hybrid offspring of any two species of animals.</li><li><strong>Definition 3:</strong> A hybrid plant.</li><li><strong>Definition 4:</strong> A stubborn person.</li><li><strong>Definition 5:</strong> A person paid to smuggle drugs.</li><li><strong>Definition 6:</strong> A coin or medal minted with obverse and reverse designs not normally seen on the same piece, either intentionally or in error.</li><li><strong>Definition 7:</strong> A MMORPG character, or NPC companion in a tabletop RPG, used mainly to store extra inventory for the owner's primary character.</li><li><strong>Definition 8:</strong> Any of a group of cocktails involving ginger ale or ginger beer, citrus juice, and various liquors.</li><li><strong>Definition 9:</strong> A kind of triangular sail for a yacht.</li><li><strong>Definition 10:</strong> A kind of cotton-spinning machine.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To smuggle (illegal drugs).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shoe that has no fitting or strap around the heel, but which covers the foot.</li></ul></div></div>"
+description: Yes, MULES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- dules
+- gules
+- hules
+- males
+- meles
+- miles
+- moles
+- muled
+- muley
+- mulls
+- mures
+- muses
+anagrams:
+- mulse
+trap:
+  pattern: _ULES
+  count: 8
+phonetic: "/mjuːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The generally sterile male or female hybrid offspring of a male donkey and
+      a female horse.
+  - text: The generally sterile hybrid offspring of any two species of animals.
+  - text: A hybrid plant.
+  - text: A stubborn person.
+  - text: A person paid to smuggle drugs.
+  - text: A coin or medal minted with obverse and reverse designs not normally seen
+      on the same piece, either intentionally or in error.
+  - text: A MMORPG character, or NPC companion in a tabletop RPG, used mainly to store
+      extra inventory for the owner's primary character.
+  - text: Any of a group of cocktails involving ginger ale or ginger beer, citrus
+      juice, and various liquors.
+  - text: A kind of triangular sail for a yacht.
+  - text: A kind of cotton-spinning machine.
+- pos: verb
+  defs:
+  - text: To smuggle (illegal drugs).
+- pos: noun
+  defs:
+  - text: A shoe that has no fitting or strap around the heel, but which covers the
+      foot.
 ---
-

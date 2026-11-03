@@ -1,7 +1,94 @@
 ---
 layout: word
-title: books
+title: Is BOOKS a Wordle Word?
+head_title: Is BOOKS a Wordle Word? Yes – Valid Guess & Meaning
 word: books
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bʊks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.<p><strong>Example:</strong> He was frustrated because he couldn't find anything about dinosaurs in the book.</p></li><li><strong>Definition 2:</strong> A long work fit for publication, typically prose, such as a novel or textbook, and typically published as such a bound collection of sheets, but now sometimes electronically as an e-book.<p><strong>Example:</strong> I have three copies of his first book.</p></li><li><strong>Definition 3:</strong> A major division of a long work.<p><strong>Example:</strong> Genesis is the first book of the Bible.</p></li><li><strong>Definition 4:</strong> A record of betting (from the use of a notebook to record what each person has bet).<p><strong>Example:</strong> I'm running a book on who is going to win the race.</p></li><li><strong>Definition 5:</strong> A convenient collection, in a form resembling a book, of small paper items for individual use.<p><strong>Example:</strong> a book of raffle tickets</p></li><li><strong>Definition 6:</strong> The script of a musical or opera.</li><li><strong>Definition 7:</strong> (usually in the plural) Records of the accounts of a business.</li><li><strong>Definition 8:</strong> A book award, a recognition for receiving the highest grade in a class (traditionally an actual book, but recently more likely a letter or certificate acknowledging the achievement).</li><li><strong>Definition 9:</strong> (whist) Six tricks taken by one side.</li><li><strong>Definition 10:</strong> Four of a kind</li><li><strong>Definition 11:</strong> A document, held by the referee, of the incidents happened in the game.</li><li><strong>Definition 12:</strong> (by extension) A list of all players who have been booked (received a warning) in a game.</li><li><strong>Definition 13:</strong> The twenty-sixth Lenormand card.</li><li><strong>Definition 14:</strong> Any source of instruction.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reserve (something) for future use.<p><strong>Example:</strong> I can book tickets for the concert next week.</p></li><li><strong>Definition 2:</strong> To write down, to register or record in a book or as in a book.<p><strong>Example:</strong> They booked that message from the hill</p></li><li><strong>Definition 3:</strong> (law enforcement) To record the name and other details of a suspected offender and the offence for later judicial action.<p><strong>Example:</strong> The police booked him for driving too fast.</p></li><li><strong>Definition 4:</strong> To issue with a caution, usually a yellow card, or a red card if a yellow card has already been issued.</li><li><strong>Definition 5:</strong> To travel very fast.<p><strong>Example:</strong> He was really booking, until he passed the speed trap.</p></li><li><strong>Definition 6:</strong> To record bets as bookmaker.</li><li><strong>Definition 7:</strong> (law student slang) To receive the highest grade in a class.<p><strong>Example:</strong> The top three students had a bet on which one was going to book their intellectual property class.</p></li><li><strong>Definition 8:</strong> To leave.<p><strong>Example:</strong> He was here earlier, but he booked.</p></li></ul></div></div>"
+description: Yes, BOOKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- boaks
+- bocks
+- bolks
+- bonks
+- boobs
+- boohs
+- booky
+- bools
+- booms
+- boons
+- boors
+- boots
+anagrams:
+- bokos
+- kobos
+trap:
+  pattern: _OOKS
+  count: 14
+phonetic: "/bʊks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A collection of sheets of paper bound together to hinge at one edge, containing
+      printed or written material, pictures, etc.
+    example: He was frustrated because he couldn't find anything about dinosaurs in
+      the book.
+  - text: A long work fit for publication, typically prose, such as a novel or textbook,
+      and typically published as such a bound collection of sheets, but now sometimes
+      electronically as an e-book.
+    example: I have three copies of his first book.
+  - text: A major division of a long work.
+    example: Genesis is the first book of the Bible.
+  - text: A record of betting (from the use of a notebook to record what each person
+      has bet).
+    example: I'm running a book on who is going to win the race.
+  - text: A convenient collection, in a form resembling a book, of small paper items
+      for individual use.
+    example: a book of raffle tickets
+  - text: The script of a musical or opera.
+  - text: "(usually in the plural) Records of the accounts of a business."
+  - text: A book award, a recognition for receiving the highest grade in a class (traditionally
+      an actual book, but recently more likely a letter or certificate acknowledging
+      the achievement).
+  - text: "(whist) Six tricks taken by one side."
+  - text: Four of a kind
+  - text: A document, held by the referee, of the incidents happened in the game.
+  - text: "(by extension) A list of all players who have been booked (received a warning)
+      in a game."
+  - text: The twenty-sixth Lenormand card.
+  - text: Any source of instruction.
+- pos: verb
+  defs:
+  - text: To reserve (something) for future use.
+    example: I can book tickets for the concert next week.
+  - text: To write down, to register or record in a book or as in a book.
+    example: They booked that message from the hill
+  - text: "(law enforcement) To record the name and other details of a suspected offender
+      and the offence for later judicial action."
+    example: The police booked him for driving too fast.
+  - text: To issue with a caution, usually a yellow card, or a red card if a yellow
+      card has already been issued.
+  - text: To travel very fast.
+    example: He was really booking, until he passed the speed trap.
+  - text: To record bets as bookmaker.
+  - text: "(law student slang) To receive the highest grade in a class."
+    example: The top three students had a bet on which one was going to book their
+      intellectual property class.
+  - text: To leave.
+    example: He was here earlier, but he booked.
 ---
-

@@ -1,7 +1,34 @@
 ---
 layout: word
-title: chuff
+title: Is CHUFF a Wordle Word?
+head_title: Is CHUFF a Wordle Word? Yes – Valid Guess & Meaning
 word: chuff
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃʌf/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coarse or stupid fellow.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Surly; annoyed; displeased; disgruntled.</li><li><strong>Definition 2:</strong> Stupid; churlish</li></ul></div></div>"
+description: Yes, CHUFF is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- chaff
+- chufa
+phonetic: "/tʃʌf/"
+definitions:
+- pos: noun
+  defs:
+  - text: A coarse or stupid fellow.
+- pos: adjective
+  defs:
+  - text: Surly; annoyed; displeased; disgruntled.
+  - text: Stupid; churlish
 ---
-

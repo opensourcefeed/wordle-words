@@ -1,7 +1,89 @@
 ---
 layout: word
-title: force
+title: Is FORCE a Wordle Word?
+head_title: 'Is FORCE a Wordle Word? Yes – Past Answer #1015 & Meaning'
 word: force
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɔːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Strength or energy of body or mind; active power; vigour; might; capacity of exercising an influence or producing an effect.<p><strong>Example:</strong> the force of an appeal, an argument, or a contract</p></li><li><strong>Definition 2:</strong> Power exerted against will or consent; compulsory power; violence; coercion.</li><li><strong>Definition 3:</strong> Anything that is able to make a substantial change in a person or thing.</li><li><strong>Definition 4:</strong> A physical quantity that denotes ability to push, pull, twist or accelerate a body and which has a direction and is measured in a unit dimensioned in mass × distance/time² (ML/T²): SI: newton (N); CGS: dyne (dyn)</li><li><strong>Definition 5:</strong> Something or anything that has the power to produce a physical effect upon something else, such as causing it to move or change shape.</li><li><strong>Definition 6:</strong> A group that aims to attack, control, or constrain.<p><strong>Example:</strong> police force</p></li><li><strong>Definition 7:</strong> The ability to attack, control, or constrain.<p><strong>Example:</strong> show of force</p></li><li><strong>Definition 8:</strong> A magic trick in which the outcome is known to the magician beforehand, especially one involving the apparent free choice of a card by another person.</li><li><strong>Definition 9:</strong> Legal validity.<p><strong>Example:</strong> The law will come into force in January.</p></li><li><strong>Definition 10:</strong> Either unlawful violence, as in a \"forced entry\", or lawful compulsion.</li><li><strong>Definition 11:</strong> Ability of an utterance or its element (word, form, prosody, ...) to effect a given meaning.</li><li><strong>Definition 12:</strong> (with the, often capitalized) A metaphysical and ubiquitous power from the fictional Star Wars universe created by George Lucas. See usage note.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To violate (a woman); to rape.</li><li><strong>Definition 2:</strong> To exert oneself, to do one's utmost.</li><li><strong>Definition 3:</strong> To compel (someone or something) to do something.</li><li><strong>Definition 4:</strong> To constrain by force; to overcome the limitations or resistance of.</li><li><strong>Definition 5:</strong> To drive (something) by force, to propel (generally + prepositional phrase or adverb).</li><li><strong>Definition 6:</strong> To cause to occur (despite inertia, resistance etc.); to produce through force.<p><strong>Example:</strong> The comedian's jokes weren't funny, but I forced a laugh now and then.</p></li><li><strong>Definition 7:</strong> To forcibly open (a door, lock etc.).<p><strong>Example:</strong> To force a lock.</p></li><li><strong>Definition 8:</strong> To obtain or win by strength; to take by violence or struggle; specifically, to capture by assault; to storm, as a fortress.</li><li><strong>Definition 9:</strong> To create an out by touching a base in advance of a runner who has no base to return to while in possession of a ball which has already touched the ground.<p><strong>Example:</strong> Jones forced the runner at second by stepping on the bag.</p></li><li><strong>Definition 10:</strong> (whist) To compel (an adversary or partner) to trump a trick by leading a suit that he/she does not hold.</li><li><strong>Definition 11:</strong> To put in force; to cause to be executed; to make binding; to enforce.</li><li><strong>Definition 12:</strong> To provide with forces; to reinforce; to strengthen by soldiers; to man; to garrison.</li><li><strong>Definition 13:</strong> To allow the force of; to value; to care for.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (law enforcement) Any police organization; a constabulary.<p><strong>Example:</strong> He joined the police force a long time ago, when he lived in Virginia.</p></li></ul></div></div>"
+description: Yes, FORCE is a valid Wordle word. It was the Wordle answer on March
+  30, 2024 (#1015). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 30, 2024 (#1015).
+past_answers:
+- date: '2024-03-30'
+  number: 1015
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- farce
+- forge
+- forte
+- forme
+- forze
+phonetic: "/fɔːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Strength or energy of body or mind; active power; vigour; might; capacity
+      of exercising an influence or producing an effect.
+    example: the force of an appeal, an argument, or a contract
+  - text: Power exerted against will or consent; compulsory power; violence; coercion.
+  - text: Anything that is able to make a substantial change in a person or thing.
+  - text: 'A physical quantity that denotes ability to push, pull, twist or accelerate
+      a body and which has a direction and is measured in a unit dimensioned in mass
+      × distance/time² (ML/T²): SI: newton (N); CGS: dyne (dyn)'
+  - text: Something or anything that has the power to produce a physical effect upon
+      something else, such as causing it to move or change shape.
+  - text: A group that aims to attack, control, or constrain.
+    example: police force
+  - text: The ability to attack, control, or constrain.
+    example: show of force
+  - text: A magic trick in which the outcome is known to the magician beforehand,
+      especially one involving the apparent free choice of a card by another person.
+  - text: Legal validity.
+    example: The law will come into force in January.
+  - text: Either unlawful violence, as in a "forced entry", or lawful compulsion.
+  - text: Ability of an utterance or its element (word, form, prosody, ...) to effect
+      a given meaning.
+  - text: "(with the, often capitalized) A metaphysical and ubiquitous power from
+      the fictional Star Wars universe created by George Lucas. See usage note."
+- pos: verb
+  defs:
+  - text: To violate (a woman); to rape.
+  - text: To exert oneself, to do one's utmost.
+  - text: To compel (someone or something) to do something.
+  - text: To constrain by force; to overcome the limitations or resistance of.
+  - text: To drive (something) by force, to propel (generally + prepositional phrase
+      or adverb).
+  - text: To cause to occur (despite inertia, resistance etc.); to produce through
+      force.
+    example: The comedian's jokes weren't funny, but I forced a laugh now and then.
+  - text: To forcibly open (a door, lock etc.).
+    example: To force a lock.
+  - text: To obtain or win by strength; to take by violence or struggle; specifically,
+      to capture by assault; to storm, as a fortress.
+  - text: To create an out by touching a base in advance of a runner who has no base
+      to return to while in possession of a ball which has already touched the ground.
+    example: Jones forced the runner at second by stepping on the bag.
+  - text: "(whist) To compel (an adversary or partner) to trump a trick by leading
+      a suit that he/she does not hold."
+  - text: To put in force; to cause to be executed; to make binding; to enforce.
+  - text: To provide with forces; to reinforce; to strengthen by soldiers; to man;
+      to garrison.
+  - text: To allow the force of; to value; to care for.
+- pos: noun
+  defs:
+  - text: "(law enforcement) Any police organization; a constabulary."
+    example: He joined the police force a long time ago, when he lived in Virginia.
 ---
-

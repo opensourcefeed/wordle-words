@@ -1,7 +1,68 @@
 ---
 layout: word
-title: preps
+title: Is PREPS a Wordle Word?
+head_title: Is PREPS a Wordle Word? Yes – Valid Guess & Meaning
 word: preps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹɛps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A preventative medical regiment of HIV medicines used to protect against HIV seroconversion after an exposure.<p><strong>Example:</strong> Some doctors will prescribe pre-exposure prophylaxis to promiscuous people that have a hard time controlling themselves or their condom usage to prevent them from getting AIDS.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Preparation.</li><li><strong>Definition 2:</strong> A prep school.</li><li><strong>Definition 3:</strong> A student or graduate of a prep school, a preppy.</li><li><strong>Definition 4:</strong> Homework, work set to do outside class time, used widely in public schools and preparatory schools but not state schools.</li><li><strong>Definition 5:</strong> Preparatory level; the last two levels or the fourth and fifth years of preschool; the two levels before first grade.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (grammar, strict sense) Any of a class of non-inflecting words typically employed to connect a following noun or a pronoun, in an adjectival or adverbial sense, with some other word: a particle used with a noun or pronoun (in English always in the objective case) to make a phrase limiting some other word.</li><li><strong>Definition 2:</strong> A proposition; an exposition; a discourse.</li></ul></div></div>"
+description: Yes, PREPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- press
+- creps
+- greps
+- peeps
+- poeps
+- praps
+- prees
+- prems
+- preys
+- props
+anagrams:
+- perps
+- persp
+- repps
+phonetic: "/pɹɛps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A preventative medical regiment of HIV medicines used to protect against
+      HIV seroconversion after an exposure.
+    example: Some doctors will prescribe pre-exposure prophylaxis to promiscuous people
+      that have a hard time controlling themselves or their condom usage to prevent
+      them from getting AIDS.
+- pos: noun
+  defs:
+  - text: Preparation.
+  - text: A prep school.
+  - text: A student or graduate of a prep school, a preppy.
+  - text: Homework, work set to do outside class time, used widely in public schools
+      and preparatory schools but not state schools.
+  - text: Preparatory level; the last two levels or the fourth and fifth years of
+      preschool; the two levels before first grade.
+- pos: verb
+  defs:
+  - text: To prepare.
+- pos: noun
+  defs:
+  - text: "(grammar, strict sense) Any of a class of non-inflecting words typically
+      employed to connect a following noun or a pronoun, in an adjectival or adverbial
+      sense, with some other word: a particle used with a noun or pronoun (in English
+      always in the objective case) to make a phrase limiting some other word."
+  - text: A proposition; an exposition; a discourse.
 ---
-

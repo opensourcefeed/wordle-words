@@ -1,7 +1,56 @@
 ---
 layout: word
-title: gulls
+title: Is GULLS a Wordle Word?
+head_title: Is GULLS a Wordle Word? Yes – Valid Guess & Meaning
 word: gulls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡʌlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A seabird of the genus Larus or of the family Laridae.</li><li><strong>Definition 2:</strong> Any of various pierid butterflies of the genus Cepora.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cheating trick; a fraud.</li><li><strong>Definition 2:</strong> One easily cheated; a dupe.</li><li><strong>Definition 3:</strong> (Oxford University slang) A swindler or trickster.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To deceive or cheat.</li><li><strong>Definition 2:</strong> To mislead.</li><li><strong>Definition 3:</strong> To trick and defraud.</li></ul></div></div>"
+description: Yes, GULLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- gully
+- bulls
+- culls
+- dulls
+- fulls
+- galls
+- gills
+- gulas
+- gules
+- gulfs
+- gulps
+- gurls
+trap:
+  pattern: _ULLS
+  count: 12
+phonetic: "/ɡʌlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A seabird of the genus Larus or of the family Laridae.
+  - text: Any of various pierid butterflies of the genus Cepora.
+- pos: noun
+  defs:
+  - text: A cheating trick; a fraud.
+  - text: One easily cheated; a dupe.
+  - text: "(Oxford University slang) A swindler or trickster."
+- pos: verb
+  defs:
+  - text: To deceive or cheat.
+  - text: To mislead.
+  - text: To trick and defraud.
 ---
-

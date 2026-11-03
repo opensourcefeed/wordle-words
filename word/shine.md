@@ -1,7 +1,70 @@
 ---
 layout: word
-title: shine
+title: Is SHINE a Wordle Word?
+head_title: 'Is SHINE a Wordle Word? Yes – Past Answer #324 & Meaning'
 word: shine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Brightness from a source of light.</li><li><strong>Definition 2:</strong> Brightness from reflected light.</li><li><strong>Definition 3:</strong> Excellence in quality or appearance; splendour.</li><li><strong>Definition 4:</strong> Shoeshine.</li><li><strong>Definition 5:</strong> Sunshine.</li><li><strong>Definition 6:</strong> Moonshine; illicitly brewed alcoholic drink.</li><li><strong>Definition 7:</strong> The amount of shininess on a cricket ball, or on each side of the ball.</li><li><strong>Definition 8:</strong> A liking for a person; a fancy.<p><strong>Example:</strong> She's certainly taken a shine to you.</p></li><li><strong>Definition 9:</strong> A caper; an antic; a row.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To emit light.</li><li><strong>Definition 2:</strong> To reflect light.</li><li><strong>Definition 3:</strong> To distinguish oneself; to excel.<p><strong>Example:</strong> My nephew tried other sports before deciding on football, which he shone at right away, quickly becoming the star of his school team.</p></li><li><strong>Definition 4:</strong> To be effulgent in splendour or beauty.</li><li><strong>Definition 5:</strong> To be eminent, conspicuous, or distinguished; to exhibit brilliant intellectual powers.</li><li><strong>Definition 6:</strong> To be immediately apparent.</li><li><strong>Definition 7:</strong> To create light with (a flashlight, lamp, torch, or similar).<p><strong>Example:</strong> I shone my light into the darkness to see what was making the noise.</p></li><li><strong>Definition 8:</strong> To cause to shine, as a light.</li><li><strong>Definition 9:</strong> To make bright; to cause to shine by reflected light.<p><strong>Example:</strong> in hunting, to shine the eyes of a deer at night by throwing a light on them</p></li></ul></div></div>"
+description: Yes, SHINE is a valid Wordle word. It was the Wordle answer on May 9,
+  2022 (#324). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 9, 2022 (#324).
+past_answers:
+- date: '2022-05-09'
+  number: 324
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- shiny
+- shire
+- shone
+- spine
+- swine
+- whine
+- chine
+- rhine
+- saine
+- seine
+- shins
+- shive
+definitions:
+- pos: noun
+  defs:
+  - text: Brightness from a source of light.
+  - text: Brightness from reflected light.
+  - text: Excellence in quality or appearance; splendour.
+  - text: Shoeshine.
+  - text: Sunshine.
+  - text: Moonshine; illicitly brewed alcoholic drink.
+  - text: The amount of shininess on a cricket ball, or on each side of the ball.
+  - text: A liking for a person; a fancy.
+    example: She's certainly taken a shine to you.
+  - text: A caper; an antic; a row.
+- pos: verb
+  defs:
+  - text: To emit light.
+  - text: To reflect light.
+  - text: To distinguish oneself; to excel.
+    example: My nephew tried other sports before deciding on football, which he shone
+      at right away, quickly becoming the star of his school team.
+  - text: To be effulgent in splendour or beauty.
+  - text: To be eminent, conspicuous, or distinguished; to exhibit brilliant intellectual
+      powers.
+  - text: To be immediately apparent.
+  - text: To create light with (a flashlight, lamp, torch, or similar).
+    example: I shone my light into the darkness to see what was making the noise.
+  - text: To cause to shine, as a light.
+  - text: To make bright; to cause to shine by reflected light.
+    example: in hunting, to shine the eyes of a deer at night by throwing a light
+      on them
 ---
-

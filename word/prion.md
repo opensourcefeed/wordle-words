@@ -1,7 +1,40 @@
 ---
 layout: word
-title: prion
+title: Is PRION a Wordle Word?
+head_title: Is PRION a Wordle Word? Yes – Valid Guess & Meaning
 word: prion
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɹaɪən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A self-propagating misfolded conformer of a protein that is responsible for a number of diseases that affect the brain and other neural tissue.</li></ul></div></div>"
+description: Yes, PRION is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- prior
+- preon
+- prian
+- psion
+anagrams:
+- orpin
+- porin
+- proin
+phonetic: "/ˈpɹaɪən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A self-propagating misfolded conformer of a protein that is responsible
+      for a number of diseases that affect the brain and other neural tissue.
 ---
-

@@ -1,7 +1,38 @@
 ---
 layout: word
-title: spiky
+title: Is SPIKY a Wordle Word?
+head_title: Is SPIKY a Wordle Word? Yes – Possible Answer & Meaning
 word: spiky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈspaɪ.ki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having spikes, spiny.</li><li><strong>Definition 2:</strong> Hostile; standoffish<p><strong>Example:</strong> a spiky personality</p></li><li><strong>Definition 3:</strong> Of hair, erect, resembling spikes.</li></ul></div></div>"
+description: Yes, SPIKY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- spicy
+- spike
+- spiny
+- spiry
+anagrams:
+- kipsy
+- pisky
+phonetic: "/ˈspaɪ.ki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having spikes, spiny.
+  - text: Hostile; standoffish
+    example: a spiky personality
+  - text: Of hair, erect, resembling spikes.
 ---
-

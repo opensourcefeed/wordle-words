@@ -1,7 +1,93 @@
 ---
 layout: word
-title: class
+title: Is CLASS a Wordle Word?
+head_title: 'Is CLASS a Wordle Word? Yes – Past Answer #446 & Meaning'
 word: class
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klas/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A group, collection, category or set sharing characteristics or attributes.<p><strong>Example:</strong> Often used to imply membership of a large class.</p></li><li><strong>Definition 2:</strong> A social grouping, based on job, wealth, etc. In Britain, society is commonly split into three main classes; upper class, middle class and working class.</li><li><strong>Definition 3:</strong> The division of society into classes.<p><strong>Example:</strong> Jane Austen's works deal with class in 18th-century England.</p></li><li><strong>Definition 4:</strong> Admirable behavior; elegance.<p><strong>Example:</strong> Apologizing for losing your temper, even though you were badly provoked, showed real class.</p></li><li><strong>Definition 5:</strong> A group of students in a regularly scheduled meeting with a teacher.<p><strong>Example:</strong> The class was noisy, but the teacher was able to get their attention with a story.</p></li><li><strong>Definition 6:</strong> A series of lessons covering a single subject.<p><strong>Example:</strong> I took the cooking class for enjoyment, but I also learned a lot.</p></li><li><strong>Definition 7:</strong> A group of students who commenced or completed their education during a particular year. A school class.<p><strong>Example:</strong> The class of 1982 was particularly noteworthy.</p></li><li><strong>Definition 8:</strong> A category of seats in an airplane, train or other means of mass transportation.<p><strong>Example:</strong> I used to fly business class, but now my company can only afford economy.</p></li><li><strong>Definition 9:</strong> A rank in the classification of organisms, below phylum and above order; a taxon of that rank.<p><strong>Example:</strong> Magnolias belong to the class Magnoliopsida.</p></li><li><strong>Definition 10:</strong> Best of its kind.<p><strong>Example:</strong> It is the class of Italian bottled waters.</p></li><li><strong>Definition 11:</strong> A grouping of data values in an interval, often used for computation of a frequency distribution.</li><li><strong>Definition 12:</strong> A collection of sets definable by a shared property.<p><strong>Example:</strong> Every set is a class, but classes are not generally sets. A class that is not a set is called a proper class.</p></li><li><strong>Definition 13:</strong> A group of people subject to be conscripted in the same military draft, or more narrowly those persons actually conscripted in a particular draft.</li><li><strong>Definition 14:</strong> A set of objects having the same behavior (but typically differing in state), or a template defining such a set.<p><strong>Example:</strong> an abstract base class</p></li><li><strong>Definition 15:</strong> One of the sections into which a Methodist church or congregation is divided, supervised by a class leader.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assign to a class; to classify.<p><strong>Example:</strong> I would class this with most of the other mediocre works of the period.</p></li><li><strong>Definition 2:</strong> To be grouped or classed.</li><li><strong>Definition 3:</strong> To divide into classes, as students; to form into, or place in, a class or classes.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Great; fabulous</li></ul></div></div>"
+description: Yes, CLASS is a valid Wordle word. It was the Wordle answer on September
+  8, 2022 (#446). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 8, 2022 (#446).
+past_answers:
+- date: '2022-09-08'
+  number: 446
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- clash
+- clasp
+- crass
+- glass
+- clads
+- claes
+- clags
+- clams
+- clans
+- claps
+- clast
+- clats
+trap:
+  pattern: CLA_S
+  count: 10
+phonetic: "/klas/"
+definitions:
+- pos: noun
+  defs:
+  - text: A group, collection, category or set sharing characteristics or attributes.
+    example: Often used to imply membership of a large class.
+  - text: A social grouping, based on job, wealth, etc. In Britain, society is commonly
+      split into three main classes; upper class, middle class and working class.
+  - text: The division of society into classes.
+    example: Jane Austen's works deal with class in 18th-century England.
+  - text: Admirable behavior; elegance.
+    example: Apologizing for losing your temper, even though you were badly provoked,
+      showed real class.
+  - text: A group of students in a regularly scheduled meeting with a teacher.
+    example: The class was noisy, but the teacher was able to get their attention
+      with a story.
+  - text: A series of lessons covering a single subject.
+    example: I took the cooking class for enjoyment, but I also learned a lot.
+  - text: A group of students who commenced or completed their education during a
+      particular year. A school class.
+    example: The class of 1982 was particularly noteworthy.
+  - text: A category of seats in an airplane, train or other means of mass transportation.
+    example: I used to fly business class, but now my company can only afford economy.
+  - text: A rank in the classification of organisms, below phylum and above order;
+      a taxon of that rank.
+    example: Magnolias belong to the class Magnoliopsida.
+  - text: Best of its kind.
+    example: It is the class of Italian bottled waters.
+  - text: A grouping of data values in an interval, often used for computation of
+      a frequency distribution.
+  - text: A collection of sets definable by a shared property.
+    example: Every set is a class, but classes are not generally sets. A class that
+      is not a set is called a proper class.
+  - text: A group of people subject to be conscripted in the same military draft,
+      or more narrowly those persons actually conscripted in a particular draft.
+  - text: A set of objects having the same behavior (but typically differing in state),
+      or a template defining such a set.
+    example: an abstract base class
+  - text: One of the sections into which a Methodist church or congregation is divided,
+      supervised by a class leader.
+- pos: verb
+  defs:
+  - text: To assign to a class; to classify.
+    example: I would class this with most of the other mediocre works of the period.
+  - text: To be grouped or classed.
+  - text: To divide into classes, as students; to form into, or place in, a class
+      or classes.
+- pos: adjective
+  defs:
+  - text: Great; fabulous
 ---
-

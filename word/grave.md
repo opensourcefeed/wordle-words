@@ -1,7 +1,51 @@
 ---
 layout: word
-title: grave
+title: Is GRAVE a Wordle Word?
+head_title: 'Is GRAVE a Wordle Word? Yes – Past Answer #1615 & Meaning'
 word: grave
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹeɪv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An excavation in the earth as a place of burial</li><li><strong>Definition 2:</strong> Any place of interment; a tomb; a sepulcher.</li><li><strong>Definition 3:</strong> (by extension) Death, destruction.</li></ul></div></div>"
+description: Yes, GRAVE is a valid Wordle word. It was the Wordle answer on November
+  20, 2025 (#1615). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 20, 2025 (#1615).
+past_answers:
+- date: '2025-11-20'
+  number: 1615
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- brave
+- crave
+- grace
+- grade
+- grape
+- grate
+- gravy
+- graze
+- grove
+- drave
+- goave
+- grame
+trap:
+  pattern: GRA_E
+  count: 7
+phonetic: "/ɡɹeɪv/"
+definitions:
+- pos: noun
+  defs:
+  - text: An excavation in the earth as a place of burial
+  - text: Any place of interment; a tomb; a sepulcher.
+  - text: "(by extension) Death, destruction."
 ---
-

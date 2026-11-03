@@ -1,7 +1,40 @@
 ---
 layout: word
-title: annex
+title: Is ANNEX a Wordle Word?
+head_title: 'Is ANNEX a Wordle Word? Yes – Past Answer #1529 & Meaning'
 word: annex
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈænɛks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An addition, an extension.</li><li><strong>Definition 2:</strong> An appendix to a book or document.</li><li><strong>Definition 3:</strong> An addition or extension to a building.</li><li><strong>Definition 4:</strong> An addition to the territory of a country or state, from a neighbouring country or state, normally by military force.</li></ul></div></div>"
+description: Yes, ANNEX is a valid Wordle word. It was the Wordle answer on August
+  26, 2025 (#1529). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 26, 2025 (#1529).
+past_answers:
+- date: '2025-08-26'
+  number: 1529
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - A
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- adnex
+phonetic: "/ˈænɛks/"
+definitions:
+- pos: noun
+  defs:
+  - text: An addition, an extension.
+  - text: An appendix to a book or document.
+  - text: An addition or extension to a building.
+  - text: An addition to the territory of a country or state, from a neighbouring
+      country or state, normally by military force.
 ---
-

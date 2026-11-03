@@ -1,7 +1,52 @@
 ---
 layout: word
-title: baron
+title: Is BARON a Wordle Word?
+head_title: 'Is BARON a Wordle Word? Yes – Past Answer #1679 & Meaning'
 word: baron
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbæɹən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The male ruler of a barony.</li><li><strong>Definition 2:</strong> A male member of the lowest rank of English nobility (the equivalent rank in Scotland is lord).</li><li><strong>Definition 3:</strong> A particular cut of beef, made up of a double sirloin.</li><li><strong>Definition 4:</strong> A person of great power in society, especially in business and politics.</li><li><strong>Definition 5:</strong> A prisoner who gains power and influence by lending or selling tobacco.</li><li><strong>Definition 6:</strong> A husband.<p><strong>Example:</strong> baron and feme: husband and wife</p></li><li><strong>Definition 7:</strong> Any of various nymphalid butterflies of the genus Euthalia.</li></ul></div></div>"
+description: Yes, BARON is a valid Wordle word. It was the Wordle answer on January
+  23, 2026 (#1679). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 23, 2026 (#1679).
+past_answers:
+- date: '2026-01-23'
+  number: 1679
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- bacon
+- baton
+- balon
+- bason
+- boron
+- caron
+- maron
+anagrams:
+- aborn
+- borna
+phonetic: "/ˈbæɹən/"
+definitions:
+- pos: noun
+  defs:
+  - text: The male ruler of a barony.
+  - text: A male member of the lowest rank of English nobility (the equivalent rank
+      in Scotland is lord).
+  - text: A particular cut of beef, made up of a double sirloin.
+  - text: A person of great power in society, especially in business and politics.
+  - text: A prisoner who gains power and influence by lending or selling tobacco.
+  - text: A husband.
+    example: 'baron and feme: husband and wife'
+  - text: Any of various nymphalid butterflies of the genus Euthalia.
 ---
-

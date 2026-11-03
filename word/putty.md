@@ -1,7 +1,56 @@
 ---
 layout: word
-title: putty
+title: Is PUTTY a Wordle Word?
+head_title: 'Is PUTTY a Wordle Word? Yes – Past Answer #1861 & Meaning'
 word: putty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpʌti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A form of cement, made from linseed oil and whiting, used to fix panes of glass.</li><li><strong>Definition 2:</strong> Any of a range of similar substances.</li><li><strong>Definition 3:</strong> A golf ball made of composition and not gutta-percha.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fix or fill using putty.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, pertaining to, or resembling putty.</li></ul></div></div>"
+description: Yes, PUTTY is a valid Wordle word. It was the Wordle answer on July 24,
+  2026 (#1861). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 24, 2026 (#1861).
+past_answers:
+- date: '2026-07-24'
+  number: 1861
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- nutty
+- patty
+- petty
+- butty
+- cutty
+- gutty
+- jutty
+- potty
+- punty
+- purty
+- putti
+- putto
+trap:
+  pattern: _UTTY
+  count: 9
+phonetic: "/ˈpʌti/"
+definitions:
+- pos: noun
+  defs:
+  - text: A form of cement, made from linseed oil and whiting, used to fix panes of
+      glass.
+  - text: Any of a range of similar substances.
+  - text: A golf ball made of composition and not gutta-percha.
+- pos: verb
+  defs:
+  - text: To fix or fill using putty.
+- pos: adjective
+  defs:
+  - text: Of, pertaining to, or resembling putty.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: harpy
+title: Is HARPY a Wordle Word?
+head_title: Is HARPY a Wordle Word? Yes – Possible Answer & Meaning
 word: harpy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɑːpi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fabulous winged monster, ravenous and filthy, having the face of a woman and the body of a vulture.</li><li><strong>Definition 2:</strong> A shrewish woman.</li><li><strong>Definition 3:</strong> One who is rapacious or ravenous; an extortioner.</li><li><strong>Definition 4:</strong> The European moor buzzard or marsh harrier (Circus aeruginosus).</li><li><strong>Definition 5:</strong> A large and powerful double-crested, short-winged American eagle (Harpia harpyja).</li></ul></div></div>"
+description: Yes, HARPY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- happy
+- hardy
+- harry
+- harps
+phonetic: "/ˈhɑːpi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fabulous winged monster, ravenous and filthy, having the face of a woman
+      and the body of a vulture.
+  - text: A shrewish woman.
+  - text: One who is rapacious or ravenous; an extortioner.
+  - text: The European moor buzzard or marsh harrier (Circus aeruginosus).
+  - text: A large and powerful double-crested, short-winged American eagle (Harpia
+      harpyja).
 ---
-

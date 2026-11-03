@@ -1,7 +1,37 @@
 ---
 layout: word
-title: acerb
+title: Is ACERB a Wordle Word?
+head_title: Is ACERB a Wordle Word? Yes – Valid Guess & Meaning
 word: acerb
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈsɜːb/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sour, bitter, and harsh to the taste, as unripe fruit.</li><li><strong>Definition 2:</strong> Sharp and harsh in expressing oneself.</li></ul></div></div>"
+description: Yes, ACERB is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- acers
+anagrams:
+- brace
+- caber
+- cabre
+phonetic: "/əˈsɜːb/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Sour, bitter, and harsh to the taste, as unripe fruit.
+  - text: Sharp and harsh in expressing oneself.
 ---
-

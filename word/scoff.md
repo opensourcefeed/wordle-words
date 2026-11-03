@@ -1,7 +1,42 @@
 ---
 layout: word
-title: scoff
+title: Is SCOFF a Wordle Word?
+head_title: 'Is SCOFF a Wordle Word? Yes – Past Answer #1113 & Meaning'
 word: scoff
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Derision; ridicule; a derisive or mocking expression of scorn, contempt, or reproach.</li><li><strong>Definition 2:</strong> An object of scorn, mockery, or derision.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To jeer; to laugh with contempt and derision.</li><li><strong>Definition 2:</strong> To mock; to treat with scorn.</li></ul></div></div>"
+description: Yes, SCOFF is a valid Wordle word. It was the Wordle answer on July 6,
+  2024 (#1113). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 6, 2024 (#1113).
+past_answers:
+- date: '2024-07-06'
+  number: 1113
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- scaff
+- scuff
+- skoff
+anagrams:
+- coffs
+definitions:
+- pos: noun
+  defs:
+  - text: Derision; ridicule; a derisive or mocking expression of scorn, contempt,
+      or reproach.
+  - text: An object of scorn, mockery, or derision.
+- pos: verb
+  defs:
+  - text: To jeer; to laugh with contempt and derision.
+  - text: To mock; to treat with scorn.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: genip
+title: Is GENIP a Wordle Word?
+head_title: Is GENIP a Wordle Word? Yes – Valid Guess & Meaning
 word: genip
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A succulent berry with a thick rind, the fruit of plants in the genus Genipa.</li></ul></div></div>"
+description: Yes, GENIP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- genie
+- genic
+- genii
+- genin
+- genio
+anagrams:
+- pinge
+trap:
+  pattern: GENI_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A succulent berry with a thick rind, the fruit of plants in the genus Genipa.
 ---
-

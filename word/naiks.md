@@ -1,6 +1,45 @@
 ---
 layout: word
-title: naiks
+title: Is NAIKS a Wordle Word?
+head_title: Is NAIKS a Wordle Word? Yes – Valid Guess
 word: naiks
+description: Yes, NAIKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- baiks
+- faiks
+- haiks
+- kaiks
+- laiks
+- maiks
+- nabks
+- naibs
+- naids
+- naifs
+- nails
+- nains
+anagrams:
+- ikans
+- kains
+- kinas
+- kisan
+trap:
+  pattern: _AIKS
+  count: 9
 ---
-

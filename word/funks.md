@@ -1,7 +1,63 @@
 ---
 layout: word
-title: funks
+title: Is FUNKS a Wordle Word?
+head_title: Is FUNKS a Wordle Word? Yes – Valid Guess & Meaning
 word: funks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fʌŋks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Foul or unpleasant smell, especially body odor.</li><li><strong>Definition 2:</strong> A style of music derived from 1960s soul music, with elements of rock and other styles, characterized by a prominent bass guitar, dance-friendly sound, a strong emphasis on the one, and much syncopation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To emit an offensive smell; to stink.</li><li><strong>Definition 2:</strong> To envelop with an offensive smell or smoke.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Spark.</li><li><strong>Definition 2:</strong> Touchwood, punk, tinder.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Mental depression.</li><li><strong>Definition 2:</strong> A state of fear or panic, especially cowardly.</li><li><strong>Definition 3:</strong> One who fears or panics; a coward.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shrink from, or avoid something because of fear.</li><li><strong>Definition 2:</strong> To frighten; to cause to flinch.</li></ul></div></div>"
+description: Yes, FUNKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- funky
+- bunks
+- dunks
+- fanks
+- fenks
+- finks
+- funds
+- fungs
+- funis
+- funts
+- fusks
+- gunks
+trap:
+  pattern: _UNKS
+  count: 10
+phonetic: "/fʌŋks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Foul or unpleasant smell, especially body odor.
+  - text: A style of music derived from 1960s soul music, with elements of rock and
+      other styles, characterized by a prominent bass guitar, dance-friendly sound,
+      a strong emphasis on the one, and much syncopation.
+- pos: verb
+  defs:
+  - text: To emit an offensive smell; to stink.
+  - text: To envelop with an offensive smell or smoke.
+- pos: noun
+  defs:
+  - text: Spark.
+  - text: Touchwood, punk, tinder.
+- pos: noun
+  defs:
+  - text: Mental depression.
+  - text: A state of fear or panic, especially cowardly.
+  - text: One who fears or panics; a coward.
+- pos: verb
+  defs:
+  - text: To shrink from, or avoid something because of fear.
+  - text: To frighten; to cause to flinch.
 ---
-

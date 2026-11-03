@@ -1,7 +1,46 @@
 ---
 layout: word
-title: jibed
+title: Is JIBED a Wordle Word?
+head_title: Is JIBED a Wordle Word? Yes – Valid Guess & Meaning
 word: jibed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reproach with contemptuous words; to deride, to mock, to taunt.</li><li><strong>Definition 2:</strong> To say in a mocking or taunting manner.</li><li><strong>Definition 3:</strong> To make a mocking remark or remarks; to jeer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To accord or agree.<p><strong>Example:</strong> That explanation doesn’t jibe with the facts.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Alternative spelling of gybe</li></ul></div></div>"
+description: Yes, JIBED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- gibed
+- jiber
+- jibes
+- jived
+- jobed
+- vibed
+definitions:
+- pos: verb
+  defs:
+  - text: To reproach with contemptuous words; to deride, to mock, to taunt.
+  - text: To say in a mocking or taunting manner.
+  - text: To make a mocking remark or remarks; to jeer.
+- pos: verb
+  defs:
+  - text: To accord or agree.
+    example: That explanation doesn’t jibe with the facts.
+- pos: verb
+  defs:
+  - text: Alternative spelling of gybe
 ---
-

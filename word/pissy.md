@@ -1,7 +1,47 @@
 ---
 layout: word
-title: pissy
+title: Is PISSY a Wordle Word?
+head_title: Is PISSY a Wordle Word? Yes – Valid Guess & Meaning
 word: pissy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɪsi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Covered in urine.</li><li><strong>Definition 2:</strong> Resembling or smelling like urine.</li><li><strong>Definition 3:</strong> Anal retentive, whinging and pernickety.<p><strong>Example:</strong> Stop being pissy: you knew what I meant when I said \"Don't touch the dial\", but you prodded the dial with a fork.</p></li><li><strong>Definition 4:</strong> (of rain) Weak and drizzly.<p><strong>Example:</strong> I wish these pissy rain showers would either build up into a storm or go away.</p></li><li><strong>Definition 5:</strong> Angry, in a bad mood (see pissed off)</li></ul></div></div>"
+description: Yes, PISSY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- missy
+- sissy
+- cissy
+- hissy
+- kissy
+- pisky
+- pussy
+trap:
+  pattern: _ISSY
+  count: 6
+phonetic: "/ˈpɪsi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Covered in urine.
+  - text: Resembling or smelling like urine.
+  - text: Anal retentive, whinging and pernickety.
+    example: 'Stop being pissy: you knew what I meant when I said "Don''t touch the
+      dial", but you prodded the dial with a fork.'
+  - text: "(of rain) Weak and drizzly."
+    example: I wish these pissy rain showers would either build up into a storm or
+      go away.
+  - text: Angry, in a bad mood (see pissed off)
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: waltz
+title: Is WALTZ a Wordle Word?
+head_title: 'Is WALTZ a Wordle Word? Yes – Past Answer #498 & Meaning'
 word: waltz
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɔːlts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A ballroom dance in 3/4 time.</li><li><strong>Definition 2:</strong> A piece of music for this dance (or in triple time).</li><li><strong>Definition 3:</strong> A simple task.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dance the waltz (with).<p><strong>Example:</strong> They waltzed for twenty-one hours and seventeen minutes straight, setting a record.</p></li><li><strong>Definition 2:</strong> (usually with in, into, around, etc.) To move briskly and unhesitatingly, especially in an inappropriately casual manner, or when unannounced or uninvited.<p><strong>Example:</strong> He waltzed into the room like he owned the place.</p></li><li><strong>Definition 3:</strong> To accomplish a task with little effort.<p><strong>Example:</strong> Don't worry about the interview — you'll waltz it.</p></li><li><strong>Definition 4:</strong> To move with fanfare.</li></ul></div></div>"
+description: Yes, WALTZ is a valid Wordle word. It was the Wordle answer on October
+  30, 2022 (#498). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 30, 2022 (#498).
+past_answers:
+- date: '2022-10-30'
+  number: 498
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- walty
+phonetic: "/wɔːlts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A ballroom dance in 3/4 time.
+  - text: A piece of music for this dance (or in triple time).
+  - text: A simple task.
+- pos: verb
+  defs:
+  - text: To dance the waltz (with).
+    example: They waltzed for twenty-one hours and seventeen minutes straight, setting
+      a record.
+  - text: "(usually with in, into, around, etc.) To move briskly and unhesitatingly,
+      especially in an inappropriately casual manner, or when unannounced or uninvited."
+    example: He waltzed into the room like he owned the place.
+  - text: To accomplish a task with little effort.
+    example: Don't worry about the interview — you'll waltz it.
+  - text: To move with fanfare.
 ---
-

@@ -1,7 +1,55 @@
 ---
 layout: word
-title: bread
+title: Is BREAD a Wordle Word?
+head_title: 'Is BREAD a Wordle Word? Yes – Past Answer #649 & Meaning'
 word: bread
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹeːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A foodstuff made by baking dough made from cereals.</li><li><strong>Definition 2:</strong> Any variety of bread.</li><li><strong>Definition 3:</strong> Money.</li><li><strong>Definition 4:</strong> Food; sustenance; support of life, in general.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To coat with breadcrumbs</li></ul></div></div>"
+description: Yes, BREAD is a valid Wordle word. It was the Wordle answer on March
+  30, 2023 (#649). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 30, 2023 (#649).
+past_answers:
+- date: '2023-03-30'
+  number: 649
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- break
+- breed
+- broad
+- dread
+- tread
+- aread
+- bream
+- breid
+- oread
+anagrams:
+- beard
+- debar
+- ardeb
+- barde
+- bared
+phonetic: "/bɹeːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A foodstuff made by baking dough made from cereals.
+  - text: Any variety of bread.
+  - text: Money.
+  - text: Food; sustenance; support of life, in general.
+- pos: verb
+  defs:
+  - text: To coat with breadcrumbs
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: saute
+title: Is SAUTE a Wordle Word?
+head_title: 'Is SAUTE a Wordle Word? Yes – Past Answer #272 & Meaning'
 word: saute
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cook (food) using a small amount of fat in an open pan over a relatively high heat, allowing the food to brown and form a crust stopping it from sticking to the pan as it cooks.</li></ul></div></div>"
+description: Yes, SAUTE is a valid Wordle word. It was the Wordle answer on March
+  18, 2022 (#272). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 18, 2022 (#272).
+past_answers:
+- date: '2022-03-18'
+  number: 272
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- haute
+- sauce
+- faute
+- sauts
+- sauve
+- scute
+- shute
+- vaute
+anagrams:
+- useta
+definitions:
+- pos: verb
+  defs:
+  - text: To cook (food) using a small amount of fat in an open pan over a relatively
+      high heat, allowing the food to brown and form a crust stopping it from sticking
+      to the pan as it cooks.
 ---
-

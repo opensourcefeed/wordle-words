@@ -1,7 +1,56 @@
 ---
 layout: word
-title: navel
+title: Is NAVEL a Wordle Word?
+head_title: 'Is NAVEL a Wordle Word? Yes – Past Answer #1358 & Meaning'
 word: navel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈneɪvəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The indentation or bump remaining in the abdomen of mammals where the umbilical cord was attached before birth.</li><li><strong>Definition 2:</strong> The central part or point of anything; the middle.</li><li><strong>Definition 3:</strong> A navel orange.</li><li><strong>Definition 4:</strong> An eye on the underside of a carronade for securing it to a carriage.</li></ul></div></div>"
+description: Yes, NAVEL is a valid Wordle word. It was the Wordle answer on March
+  8, 2025 (#1358). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 8, 2025 (#1358).
+past_answers:
+- date: '2025-03-08'
+  number: 1358
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- gavel
+- naval
+- novel
+- cavel
+- favel
+- havel
+- javel
+- naved
+- naves
+- navew
+- nevel
+- nivel
+anagrams:
+- elvan
+- venal
+trap:
+  pattern: _AVEL
+  count: 7
+phonetic: "/ˈneɪvəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The indentation or bump remaining in the abdomen of mammals where the umbilical
+      cord was attached before birth.
+  - text: The central part or point of anything; the middle.
+  - text: A navel orange.
+  - text: An eye on the underside of a carronade for securing it to a carriage.
 ---
-

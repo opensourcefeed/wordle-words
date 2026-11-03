@@ -1,7 +1,50 @@
 ---
 layout: word
-title: rural
+title: Is RURAL a Wordle Word?
+head_title: 'Is RURAL a Wordle Word? Yes – Past Answer #1775 & Meaning'
 word: rural
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɔːɹəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person from the countryside; a rustic.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to the countryside or to agriculture.</li></ul></div></div>"
+description: Yes, RURAL is a valid Wordle word. It was the Wordle answer on April
+  29, 2026 (#1775). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 29, 2026 (#1775).
+past_answers:
+- date: '2026-04-29'
+  number: 1775
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- mural
+- aural
+- dural
+- fural
+- jural
+- roral
+- rugal
+- rumal
+- sural
+trap:
+  pattern: _URAL
+  count: 7
+phonetic: "/ˈɹɔːɹəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person from the countryside; a rustic.
+- pos: adjective
+  defs:
+  - text: Relating to the countryside or to agriculture.
 ---
-

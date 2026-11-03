@@ -1,7 +1,45 @@
 ---
 layout: word
-title: infer
+title: Is INFER a Wordle Word?
+head_title: 'Is INFER a Wordle Word? Yes – Past Answer #537 & Meaning'
 word: infer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪnˈfɜː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To introduce (something) as a reasoned conclusion; to conclude by reasoning or deduction, as from premises or evidence.</li><li><strong>Definition 2:</strong> To lead to (something) as a consequence; to imply. (Now often considered incorrect, especially with a person as subject.)</li><li><strong>Definition 3:</strong> To cause, inflict (something) upon or to someone.</li><li><strong>Definition 4:</strong> To introduce (a subject) in speaking, writing etc.; to bring in.</li></ul></div></div>"
+description: Yes, INFER is a valid Wordle word. It was the Wordle answer on December
+  8, 2022 (#537). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 8, 2022 (#537).
+past_answers:
+- date: '2022-12-08'
+  number: 537
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- inner
+- inter
+- inker
+- inver
+anagrams:
+- finer
+phonetic: "/ɪnˈfɜː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To introduce (something) as a reasoned conclusion; to conclude by reasoning
+      or deduction, as from premises or evidence.
+  - text: To lead to (something) as a consequence; to imply. (Now often considered
+      incorrect, especially with a person as subject.)
+  - text: To cause, inflict (something) upon or to someone.
+  - text: To introduce (a subject) in speaking, writing etc.; to bring in.
 ---
-

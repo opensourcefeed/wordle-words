@@ -1,7 +1,55 @@
 ---
 layout: word
-title: slink
+title: Is SLINK a Wordle Word?
+head_title: Is SLINK a Wordle Word? Yes – Possible Answer & Meaning
 word: slink
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slɪŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A furtive sneaking motion.</li><li><strong>Definition 2:</strong> The young of an animal when born prematurely, especially a calf.</li><li><strong>Definition 3:</strong> The meat of such a prematurely born animal.</li><li><strong>Definition 4:</strong> A bastard child, one born out of wedlock.</li><li><strong>Definition 5:</strong> A thievish fellow; a sneak.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sneak about furtively.</li><li><strong>Definition 2:</strong> To give birth to an animal prematurely.<p><strong>Example:</strong> a cow that slinks her calf</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Thin; lean</li></ul></div></div>"
+description: Yes, SLINK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- blink
+- clink
+- slick
+- sling
+- slunk
+- stink
+- plink
+- skink
+- slank
+- spink
+- swink
+anagrams:
+- kilns
+- links
+phonetic: "/slɪŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A furtive sneaking motion.
+  - text: The young of an animal when born prematurely, especially a calf.
+  - text: The meat of such a prematurely born animal.
+  - text: A bastard child, one born out of wedlock.
+  - text: A thievish fellow; a sneak.
+- pos: verb
+  defs:
+  - text: To sneak about furtively.
+  - text: To give birth to an animal prematurely.
+    example: a cow that slinks her calf
+- pos: adjective
+  defs:
+  - text: Thin; lean
 ---
-

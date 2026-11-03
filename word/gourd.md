@@ -1,7 +1,42 @@
 ---
 layout: word
-title: gourd
+title: Is GOURD a Wordle Word?
+head_title: Is GOURD a Wordle Word? Yes – Possible Answer & Meaning
 word: gourd
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɔːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the trailing or climbing vines producing fruit with a hard rind or shell, from the genera Lagenaria and Cucurbita (in Cucurbitaceae).</li><li><strong>Definition 2:</strong> A hard-shelled fruit from a plant in Lagenaria or Cucurbita.</li><li><strong>Definition 3:</strong> The dried and hardened shell of such fruit, made into a drinking vessel, bowl, spoon, or other objects designed for use or decoration.</li><li><strong>Definition 4:</strong> Any of the climbing or trailing plants from the family Cucurbitaceae, which includes watermelon, pumpkins, and cucumbers.</li><li><strong>Definition 5:</strong> Loaded dice.</li><li><strong>Definition 6:</strong> Head.<p><strong>Example:</strong> I got so stoned last night. I was out of my gourd.</p></li></ul></div></div>"
+description: Yes, GOURD is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- bourd
+- courd
+- goura
+phonetic: "/ɡɔːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the trailing or climbing vines producing fruit with a hard rind or
+      shell, from the genera Lagenaria and Cucurbita (in Cucurbitaceae).
+  - text: A hard-shelled fruit from a plant in Lagenaria or Cucurbita.
+  - text: The dried and hardened shell of such fruit, made into a drinking vessel,
+      bowl, spoon, or other objects designed for use or decoration.
+  - text: Any of the climbing or trailing plants from the family Cucurbitaceae, which
+      includes watermelon, pumpkins, and cucumbers.
+  - text: Loaded dice.
+  - text: Head.
+    example: I got so stoned last night. I was out of my gourd.
 ---
-

@@ -1,7 +1,38 @@
 ---
 layout: word
-title: madly
+title: Is MADLY a Wordle Word?
+head_title: 'Is MADLY a Wordle Word? Yes – Past Answer #1341 & Meaning'
 word: madly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmædli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a mad manner; without reason or understanding; wildly.<p><strong>Example:</strong> I'm madly in love with you.</p></li></ul></div></div>"
+description: Yes, MADLY is a valid Wordle word. It was the Wordle answer on February
+  19, 2025 (#1341). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 19, 2025 (#1341).
+past_answers:
+- date: '2025-02-19'
+  number: 1341
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- badly
+- manly
+- sadly
+- maddy
+- marly
+phonetic: "/ˈmædli/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In a mad manner; without reason or understanding; wildly.
+    example: I'm madly in love with you.
 ---
-

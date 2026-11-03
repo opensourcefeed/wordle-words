@@ -1,7 +1,82 @@
 ---
 layout: word
-title: bears
+title: Is BEARS a Wordle Word?
+head_title: Is BEARS a Wordle Word? Yes – Valid Guess & Meaning
 word: bears
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɛəz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large omnivorous mammal, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae.</li><li><strong>Definition 2:</strong> A rough, unmannerly, uncouth person.</li><li><strong>Definition 3:</strong> An investor who sells commodities, securities or futures in anticipation of a fall in prices.</li><li><strong>Definition 4:</strong> A state policeman (short for smokey bear).</li><li><strong>Definition 5:</strong> A large, hairy man, especially one who is homosexual.</li><li><strong>Definition 6:</strong> A portable punching machine.</li><li><strong>Definition 7:</strong> A block covered with coarse matting, used to scour the deck.</li><li><strong>Definition 8:</strong> The fifteenth Lenormand card.</li><li><strong>Definition 9:</strong> Something difficult or tiresome; a burden or chore.<p><strong>Example:</strong> That window can be a bear to open.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To endeavour to depress the price of, or prices in.<p><strong>Example:</strong> to bear a railroad stock</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To carry or convey, literally or figuratively.<p><strong>Example:</strong> Judging from the look on his face, he wasn't bearing good news.</p></li><li><strong>Definition 2:</strong> To support, sustain, or endure.</li><li><strong>Definition 3:</strong> To support, keep up, or maintain.</li><li><strong>Definition 4:</strong> To press or impinge upon.</li><li><strong>Definition 5:</strong> To produce, yield, give birth to.</li><li><strong>Definition 6:</strong> (originally nautical) To be, or head, in a specific direction or azimuth (from somewhere).<p><strong>Example:</strong> By my readings, we're bearing due south, so we should turn about ten degrees east.</p></li><li><strong>Definition 7:</strong> To gain or win.</li></ul></div></div>"
+description: Yes, BEARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- beard
+- beads
+- beaks
+- beals
+- beams
+- beans
+- beare
+- beats
+- beaus
+- beers
+- boars
+- dears
+anagrams:
+- abers
+- bares
+- baser
+- braes
+- saber
+- sabre
+trap:
+  pattern: _EARS
+  count: 13
+phonetic: "/bɛəz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large omnivorous mammal, related to the dog and raccoon, having shaggy
+      hair, a very small tail, and flat feet; a member of family Ursidae.
+  - text: A rough, unmannerly, uncouth person.
+  - text: An investor who sells commodities, securities or futures in anticipation
+      of a fall in prices.
+  - text: A state policeman (short for smokey bear).
+  - text: A large, hairy man, especially one who is homosexual.
+  - text: A portable punching machine.
+  - text: A block covered with coarse matting, used to scour the deck.
+  - text: The fifteenth Lenormand card.
+  - text: Something difficult or tiresome; a burden or chore.
+    example: That window can be a bear to open.
+- pos: verb
+  defs:
+  - text: To endeavour to depress the price of, or prices in.
+    example: to bear a railroad stock
+- pos: verb
+  defs:
+  - text: To carry or convey, literally or figuratively.
+    example: Judging from the look on his face, he wasn't bearing good news.
+  - text: To support, sustain, or endure.
+  - text: To support, keep up, or maintain.
+  - text: To press or impinge upon.
+  - text: To produce, yield, give birth to.
+  - text: "(originally nautical) To be, or head, in a specific direction or azimuth
+      (from somewhere)."
+    example: By my readings, we're bearing due south, so we should turn about ten
+      degrees east.
+  - text: To gain or win.
 ---
-

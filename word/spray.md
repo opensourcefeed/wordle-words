@@ -1,7 +1,66 @@
 ---
 layout: word
-title: spray
+title: Is SPRAY a Wordle Word?
+head_title: 'Is SPRAY a Wordle Word? Yes – Past Answer #104 & Meaning'
 word: spray
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spɹeɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fine, gentle, dispersed mist of liquid.<p><strong>Example:</strong> The sailor could feel the spray from the waves.</p></li><li><strong>Definition 2:</strong> A pressurized container; an atomizer.</li><li><strong>Definition 3:</strong> Any of numerous commercial products, including paints, cosmetics, and insecticides, that are dispensed from containers in this manner.</li><li><strong>Definition 4:</strong> A jet of fine medicated vapour, used either as an application to a diseased part or to charge the air of a room with a disinfectant or a deodorizer.</li><li><strong>Definition 5:</strong> A side channel or branch of the runner of a flask, made to distribute the metal to all parts of the mold.</li><li><strong>Definition 6:</strong> A group of castings made in the same mold and connected by sprues formed in the runner and its branches.</li><li><strong>Definition 7:</strong> The allocation and filling of blocks of memory with the same byte sequence, hoping to establish that sequence in a certain predetermined location as part of an exploit.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To project a liquid in a dispersive manner toward something.<p><strong>Example:</strong> The firemen sprayed the house.</p></li><li><strong>Definition 2:</strong> To project in a dispersive manner.<p><strong>Example:</strong> Spray some ointment on that scratch.</p></li><li><strong>Definition 3:</strong> To project many small items dispersively.</li><li><strong>Definition 4:</strong> To urinate in order to mark territory.</li><li><strong>Definition 5:</strong> To allocate blocks of memory from (a heap, etc.), and fill them with the same byte sequence, hoping to establish that sequence in a certain predetermined location as part of an exploit.<p><strong>Example:</strong> to spray the heap of a target process</p></li></ul></div></div>"
+description: Yes, SPRAY is a valid Wordle word. It was the Wordle answer on October
+  1, 2021 (#104). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 1, 2021 (#104).
+past_answers:
+- date: '2021-10-01'
+  number: 104
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- stray
+- scray
+- splay
+- sprad
+- sprag
+- sprat
+anagrams:
+- raspy
+- prays
+phonetic: "/spɹeɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fine, gentle, dispersed mist of liquid.
+    example: The sailor could feel the spray from the waves.
+  - text: A pressurized container; an atomizer.
+  - text: Any of numerous commercial products, including paints, cosmetics, and insecticides,
+      that are dispensed from containers in this manner.
+  - text: A jet of fine medicated vapour, used either as an application to a diseased
+      part or to charge the air of a room with a disinfectant or a deodorizer.
+  - text: A side channel or branch of the runner of a flask, made to distribute the
+      metal to all parts of the mold.
+  - text: A group of castings made in the same mold and connected by sprues formed
+      in the runner and its branches.
+  - text: The allocation and filling of blocks of memory with the same byte sequence,
+      hoping to establish that sequence in a certain predetermined location as part
+      of an exploit.
+- pos: verb
+  defs:
+  - text: To project a liquid in a dispersive manner toward something.
+    example: The firemen sprayed the house.
+  - text: To project in a dispersive manner.
+    example: Spray some ointment on that scratch.
+  - text: To project many small items dispersively.
+  - text: To urinate in order to mark territory.
+  - text: To allocate blocks of memory from (a heap, etc.), and fill them with the
+      same byte sequence, hoping to establish that sequence in a certain predetermined
+      location as part of an exploit.
+    example: to spray the heap of a target process
 ---
-

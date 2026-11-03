@@ -1,7 +1,75 @@
 ---
 layout: word
-title: thick
+title: Is THICK a Wordle Word?
+head_title: 'Is THICK a Wordle Word? Yes – Past Answer #1617 & Meaning'
 word: thick
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /θɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The thickest, or most active or intense, part of something.<p><strong>Example:</strong> It was mayhem in the thick of battle.</p></li><li><strong>Definition 2:</strong> A thicket.</li><li><strong>Definition 3:</strong> A stupid person; a fool.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To thicken.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relatively great in extent from one surface to the opposite in its smallest solid dimension.</li><li><strong>Definition 2:</strong> Measuring a certain number of units in this dimension.<p><strong>Example:</strong> I want some planks that are two inches thick.</p></li><li><strong>Definition 3:</strong> Heavy in build; thickset.<p><strong>Example:</strong> He had such a thick neck that he had to turn his body to look to the side.</p></li><li><strong>Definition 4:</strong> Densely crowded or packed.<p><strong>Example:</strong> We walked through thick undergrowth.</p></li><li><strong>Definition 5:</strong> Having a viscous consistency.<p><strong>Example:</strong> My mum’s gravy was thick but at least it moved about.</p></li><li><strong>Definition 6:</strong> Abounding in number.<p><strong>Example:</strong> The room was thick with reporters.</p></li><li><strong>Definition 7:</strong> Impenetrable to sight.<p><strong>Example:</strong> We drove through thick fog.</p></li><li><strong>Definition 8:</strong> (Of an accent) Prominent, strong.</li><li><strong>Definition 9:</strong> Stupid.<p><strong>Example:</strong> He was as thick as two short planks.</p></li><li><strong>Definition 10:</strong> Friendly or intimate.<p><strong>Example:</strong> They were as thick as thieves.</p></li><li><strong>Definition 11:</strong> Deep, intense, or profound.<p><strong>Example:</strong> Thick darkness.</p></li><li><strong>Definition 12:</strong> Troublesome; unreasonable</li><li><strong>Definition 13:</strong> (chiefly of women) Curvy and voluptuous, and especially having large hips.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a thick manner.<p><strong>Example:</strong> Snow lay thick on the ground.</p></li><li><strong>Definition 2:</strong> Frequently or numerously.<p><strong>Example:</strong> The arrows flew thick and fast around us.</p></li></ul></div></div>"
+description: Yes, THICK is a valid Wordle word. It was the Wordle answer on November
+  22, 2025 (#1617). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 22, 2025 (#1617).
+past_answers:
+- date: '2025-11-22'
+  number: 1617
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- chick
+- think
+- trick
+- thack
+- thilk
+phonetic: "/θɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The thickest, or most active or intense, part of something.
+    example: It was mayhem in the thick of battle.
+  - text: A thicket.
+  - text: A stupid person; a fool.
+- pos: verb
+  defs:
+  - text: To thicken.
+- pos: adjective
+  defs:
+  - text: Relatively great in extent from one surface to the opposite in its smallest
+      solid dimension.
+  - text: Measuring a certain number of units in this dimension.
+    example: I want some planks that are two inches thick.
+  - text: Heavy in build; thickset.
+    example: He had such a thick neck that he had to turn his body to look to the
+      side.
+  - text: Densely crowded or packed.
+    example: We walked through thick undergrowth.
+  - text: Having a viscous consistency.
+    example: My mum’s gravy was thick but at least it moved about.
+  - text: Abounding in number.
+    example: The room was thick with reporters.
+  - text: Impenetrable to sight.
+    example: We drove through thick fog.
+  - text: "(Of an accent) Prominent, strong."
+  - text: Stupid.
+    example: He was as thick as two short planks.
+  - text: Friendly or intimate.
+    example: They were as thick as thieves.
+  - text: Deep, intense, or profound.
+    example: Thick darkness.
+  - text: Troublesome; unreasonable
+  - text: "(chiefly of women) Curvy and voluptuous, and especially having large hips."
+- pos: adverb
+  defs:
+  - text: In a thick manner.
+    example: Snow lay thick on the ground.
+  - text: Frequently or numerously.
+    example: The arrows flew thick and fast around us.
 ---
-

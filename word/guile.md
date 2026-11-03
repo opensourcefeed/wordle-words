@@ -1,7 +1,46 @@
 ---
 layout: word
-title: guile
+title: Is GUILE a Wordle Word?
+head_title: 'Is GUILE a Wordle Word? Yes – Past Answer #1262 & Meaning'
 word: guile
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡaɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Astuteness often marked by a certain sense of cunning or artful deception.</li><li><strong>Definition 2:</strong> Deceptiveness, deceit, fraud, duplicity, dishonesty.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To deceive, beguile, bewile.</li></ul></div></div>"
+description: Yes, GUILE is a valid Wordle word. It was the Wordle answer on December
+  2, 2024 (#1262). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 2, 2024 (#1262).
+past_answers:
+- date: '2024-12-02'
+  number: 1262
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- guide
+- guild
+- guilt
+- guise
+- gusle
+- guyle
+- tuile
+phonetic: "/ɡaɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Astuteness often marked by a certain sense of cunning or artful deception.
+  - text: Deceptiveness, deceit, fraud, duplicity, dishonesty.
+- pos: verb
+  defs:
+  - text: To deceive, beguile, bewile.
 ---
-

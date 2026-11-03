@@ -1,7 +1,60 @@
 ---
 layout: word
-title: array
+title: Is ARRAY a Wordle Word?
+head_title: Is ARRAY a Wordle Word? Yes – Possible Answer & Meaning
 word: array
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈɹeɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Clothing and ornamentation.</li><li><strong>Definition 2:</strong> A collection laid out to be viewed in full.</li><li><strong>Definition 3:</strong> An orderly series, arrangement or sequence.</li><li><strong>Definition 4:</strong> Order; a regular and imposing arrangement; disposition in regular lines; hence, order of battle.<p><strong>Example:</strong> drawn up in battle array</p></li><li><strong>Definition 5:</strong> A large collection.<p><strong>Example:</strong> We offer a dazzling array of choices.</p></li><li><strong>Definition 6:</strong> Common name for matrix.</li><li><strong>Definition 7:</strong> Any of various data structures designed to hold multiple elements of the same type; especially, a data structure that holds these elements in adjacent memory locations so that they may be retrieved using numeric indices.</li><li><strong>Definition 8:</strong> A ranking or setting forth in order, by the proper officer, of a jury as impanelled in a cause; the panel itself; or the whole body of jurors summoned to attend the court.</li><li><strong>Definition 9:</strong> A militia.</li><li><strong>Definition 10:</strong> A group of hedgehogs.</li><li><strong>Definition 11:</strong> A microarray.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To clothe and ornament; to adorn or attire.<p><strong>Example:</strong> He was arrayed in his finest robes and jewels.</p></li><li><strong>Definition 2:</strong> To lay out in an orderly arrangement; to deploy or marshal.</li><li><strong>Definition 3:</strong> To set in order, as a jury, for the trial of a cause; that is, to call them one at a time.</li></ul></div></div>"
+description: Yes, ARRAY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - R
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- abray
+- arrah
+- arras
+anagrams:
+- yarra
+phonetic: "/əˈɹeɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Clothing and ornamentation.
+  - text: A collection laid out to be viewed in full.
+  - text: An orderly series, arrangement or sequence.
+  - text: Order; a regular and imposing arrangement; disposition in regular lines;
+      hence, order of battle.
+    example: drawn up in battle array
+  - text: A large collection.
+    example: We offer a dazzling array of choices.
+  - text: Common name for matrix.
+  - text: Any of various data structures designed to hold multiple elements of the
+      same type; especially, a data structure that holds these elements in adjacent
+      memory locations so that they may be retrieved using numeric indices.
+  - text: A ranking or setting forth in order, by the proper officer, of a jury as
+      impanelled in a cause; the panel itself; or the whole body of jurors summoned
+      to attend the court.
+  - text: A militia.
+  - text: A group of hedgehogs.
+  - text: A microarray.
+- pos: verb
+  defs:
+  - text: To clothe and ornament; to adorn or attire.
+    example: He was arrayed in his finest robes and jewels.
+  - text: To lay out in an orderly arrangement; to deploy or marshal.
+  - text: To set in order, as a jury, for the trial of a cause; that is, to call them
+      one at a time.
 ---
-

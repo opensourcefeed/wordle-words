@@ -1,7 +1,51 @@
 ---
 layout: word
-title: shorn
+title: Is SHORN a Wordle Word?
+head_title: 'Is SHORN a Wordle Word? Yes – Past Answer #698 & Meaning'
 word: shorn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɔːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut, originally with a sword or other bladed weapon, now usually with shears, or as if using shears.</li><li><strong>Definition 2:</strong> To remove the fleece from a sheep etc by clipping.</li><li><strong>Definition 3:</strong> To deform because of forces pushing in opposite directions.</li><li><strong>Definition 4:</strong> To transform by displacing every point in a direction parallel to some given line by a distance proportional to the point’s distance from the line.</li><li><strong>Definition 5:</strong> To make a vertical cut in the coal.</li><li><strong>Definition 6:</strong> To reap, as grain.</li><li><strong>Definition 7:</strong> To deprive of property; to fleece.</li></ul></div></div>"
+description: Yes, SHORN is a valid Wordle word. It was the Wordle answer on May 18,
+  2023 (#698). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 18, 2023 (#698).
+past_answers:
+- date: '2023-05-18'
+  number: 698
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- scorn
+- shore
+- short
+- shown
+- sworn
+- thorn
+- sharn
+- shoon
+- shorl
+anagrams:
+- horns
+phonetic: "/ʃɔːn/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cut, originally with a sword or other bladed weapon, now usually with
+      shears, or as if using shears.
+  - text: To remove the fleece from a sheep etc by clipping.
+  - text: To deform because of forces pushing in opposite directions.
+  - text: To transform by displacing every point in a direction parallel to some given
+      line by a distance proportional to the point’s distance from the line.
+  - text: To make a vertical cut in the coal.
+  - text: To reap, as grain.
+  - text: To deprive of property; to fleece.
 ---
-

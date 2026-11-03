@@ -1,7 +1,42 @@
 ---
 layout: word
-title: tryst
+title: Is TRYST a Wordle Word?
+head_title: 'Is TRYST a Wordle Word? Yes – Past Answer #398 & Meaning'
 word: tryst
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹaɪst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prearranged meeting or assignation, now especially between lovers to meet at a specific place and time.</li><li><strong>Definition 2:</strong> A mutual agreement, a covenant.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a tryst; to agree to meet at a place.</li><li><strong>Definition 2:</strong> To arrange or appoint (a meeting time etc.).</li><li><strong>Definition 3:</strong> To keep a tryst, to meet at an agreed place and time.</li></ul></div></div>"
+description: Yes, TRYST is a valid Wordle word. It was the Wordle answer on July 22,
+  2022 (#398). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 22, 2022 (#398).
+past_answers:
+- date: '2022-07-22'
+  number: 398
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels: []
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- trust
+- trest
+- trist
+phonetic: "/tɹaɪst/"
+definitions:
+- pos: noun
+  defs:
+  - text: A prearranged meeting or assignation, now especially between lovers to meet
+      at a specific place and time.
+  - text: A mutual agreement, a covenant.
+- pos: verb
+  defs:
+  - text: To make a tryst; to agree to meet at a place.
+  - text: To arrange or appoint (a meeting time etc.).
+  - text: To keep a tryst, to meet at an agreed place and time.
 ---
-

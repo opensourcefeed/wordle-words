@@ -1,7 +1,44 @@
 ---
 layout: word
-title: cooee
+title: Is COOEE a Wordle Word?
+head_title: Is COOEE a Wordle Word? Yes – Valid Guess & Meaning
 word: cooee
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkuːiː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long, loud call used to attract attention when at a distance, mainly done in the Australian bush.</li><li><strong>Definition 2:</strong> (with \"within\") A short distance; hailing distance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make such a call.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Used to attract someone's attention.<p><strong>Example:</strong> Cooee! I'm over here!</p></li></ul></div></div>"
+description: Yes, COOEE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 3
+  repeated:
+  - O
+  - E
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- cooed
+- cooer
+- cooey
+phonetic: "/ˈkuːiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long, loud call used to attract attention when at a distance, mainly done
+      in the Australian bush.
+  - text: (with "within") A short distance; hailing distance.
+- pos: verb
+  defs:
+  - text: To make such a call.
+- pos: interjection
+  defs:
+  - text: Used to attract someone's attention.
+    example: Cooee! I'm over here!
 ---
-

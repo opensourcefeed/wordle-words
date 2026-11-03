@@ -1,7 +1,59 @@
 ---
 layout: word
-title: nears
+title: Is NEARS a Wordle Word?
+head_title: Is NEARS a Wordle Word? Yes – Valid Guess & Meaning
 word: nears
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nɪə(ɹ)z/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The left side of a horse or of a team of horses pulling a carriage etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To come closer to; to approach.<p><strong>Example:</strong> The ship nears the land.</p></li></ul></div></div>"
+description: Yes, NEARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- bears
+- dears
+- fears
+- gears
+- hears
+- lears
+- neals
+- neaps
+- neats
+- pears
+- rears
+- sears
+anagrams:
+- saner
+- snare
+- earns
+- nares
+- ranes
+- ranse
+- reans
+trap:
+  pattern: _EARS
+  count: 13
+phonetic: "/nɪə(ɹ)z/"
+definitions:
+- pos: noun
+  defs:
+  - text: The left side of a horse or of a team of horses pulling a carriage etc.
+- pos: verb
+  defs:
+  - text: To come closer to; to approach.
+    example: The ship nears the land.
 ---
-

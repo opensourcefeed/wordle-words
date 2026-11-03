@@ -1,7 +1,49 @@
 ---
 layout: word
-title: chump
+title: Is CHUMP a Wordle Word?
+head_title: 'Is CHUMP a Wordle Word? Yes – Past Answer #1744 & Meaning'
 word: chump
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃʌmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bite or chew loudly or heavily.<p><strong>Example:</strong> The dog chomped on the treat and swallowed it in one gulp.</p></li><li><strong>Definition 2:</strong> (Perl) To remove the final character from (a text string) if it is a newline (or, less commonly, some other programmer-specified character).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An incompetent person, a blockhead; a loser.<p><strong>Example:</strong> That chump wouldn't know his ass from a hole in the ground.</p></li><li><strong>Definition 2:</strong> A gullible person; a sucker; someone easily taken advantage of; someone lacking common sense.<p><strong>Example:</strong> It shouldn't be hard to put one over on that chump.</p></li><li><strong>Definition 3:</strong> The thick end, especially of a piece of wood or of a joint of meat.</li></ul></div></div>"
+description: Yes, CHUMP is a valid Wordle word. It was the Wordle answer on March
+  29, 2026 (#1744). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 29, 2026 (#1744).
+past_answers:
+- date: '2026-03-29'
+  number: 1744
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- champ
+- clump
+- crump
+- thump
+- chimp
+- chomp
+- chums
+- whump
+phonetic: "/tʃʌmp/"
+definitions:
+- pos: verb
+  defs:
+  - text: To bite or chew loudly or heavily.
+    example: The dog chomped on the treat and swallowed it in one gulp.
+  - text: "(Perl) To remove the final character from (a text string) if it is a newline
+      (or, less commonly, some other programmer-specified character)."
+- pos: noun
+  defs:
+  - text: An incompetent person, a blockhead; a loser.
+    example: That chump wouldn't know his ass from a hole in the ground.
+  - text: A gullible person; a sucker; someone easily taken advantage of; someone
+      lacking common sense.
+    example: It shouldn't be hard to put one over on that chump.
+  - text: The thick end, especially of a piece of wood or of a joint of meat.
 ---
-

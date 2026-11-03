@@ -1,7 +1,47 @@
 ---
 layout: word
-title: deuce
+title: Is DEUCE a Wordle Word?
+head_title: 'Is DEUCE a Wordle Word? Yes – Past Answer #1607 & Meaning'
 word: deuce
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /djuːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A card with two pips, one of four in a standard deck of playing cards.</li><li><strong>Definition 2:</strong> A side of a die with two spots.</li><li><strong>Definition 3:</strong> A cast of dice totalling two.</li><li><strong>Definition 4:</strong> The number two.</li><li><strong>Definition 5:</strong> A tied game where either player can win by scoring two consecutive points.</li><li><strong>Definition 6:</strong> A curveball.</li><li><strong>Definition 7:</strong> A '32 Ford.</li><li><strong>Definition 8:</strong> (in the plural) 2-barrel (twin choke) carburetors (in the phrase 3 deuces: an arrangement on a common intake manifold).</li><li><strong>Definition 9:</strong> (restaurants) A table seating two diners.</li><li><strong>Definition 10:</strong> A piece of excrement.</li></ul></div></div>"
+description: Yes, DEUCE is a valid Wordle word. It was the Wordle answer on November
+  12, 2025 (#1607). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 12, 2025 (#1607).
+past_answers:
+- date: '2025-11-12'
+  number: 1607
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- deice
+- douce
+anagrams:
+- educe
+phonetic: "/djuːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A card with two pips, one of four in a standard deck of playing cards.
+  - text: A side of a die with two spots.
+  - text: A cast of dice totalling two.
+  - text: The number two.
+  - text: A tied game where either player can win by scoring two consecutive points.
+  - text: A curveball.
+  - text: A '32 Ford.
+  - text: "(in the plural) 2-barrel (twin choke) carburetors (in the phrase 3 deuces:
+      an arrangement on a common intake manifold)."
+  - text: "(restaurants) A table seating two diners."
+  - text: A piece of excrement.
 ---
-

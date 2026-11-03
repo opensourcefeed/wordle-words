@@ -1,7 +1,50 @@
 ---
 layout: word
-title: biked
+title: Is BIKED a Wordle Word?
+head_title: Is BIKED a Wordle Word? Yes – Valid Guess & Meaning
 word: biked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ride a bike.<p><strong>Example:</strong> I biked so much yesterday that I'm very sore today.</p></li><li><strong>Definition 2:</strong> To travel by bike.<p><strong>Example:</strong> It was such a nice day I decided to bike to the store, though it's far enough I usually take my car.</p></li><li><strong>Definition 3:</strong> To transport by bicycle</li></ul></div></div>"
+description: Yes, BIKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- baked
+- bided
+- biker
+- bikes
+- biled
+- biped
+- boked
+- byked
+- diked
+- eiked
+- fiked
+- hiked
+trap:
+  pattern: _IKED
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To ride a bike.
+    example: I biked so much yesterday that I'm very sore today.
+  - text: To travel by bike.
+    example: It was such a nice day I decided to bike to the store, though it's far
+      enough I usually take my car.
+  - text: To transport by bicycle
 ---
-

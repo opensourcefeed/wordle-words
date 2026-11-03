@@ -1,7 +1,60 @@
 ---
 layout: word
-title: honks
+title: Is HONKS a Wordle Word?
+head_title: Is HONKS a Wordle Word? Yes – Valid Guess & Meaning
 word: honks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sound produced by a typical car horn.</li><li><strong>Definition 2:</strong> The cry of a goose.</li><li><strong>Definition 3:</strong> A bad smell.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a car horn.<p><strong>Example:</strong> They stood and observed how long it took for the other cars to honk.</p></li><li><strong>Definition 2:</strong> To make a loud, harsh sound like a car horn.</li><li><strong>Definition 3:</strong> To make the vocal sound of a goose.</li><li><strong>Definition 4:</strong> To vomit: regurgitate the contents of one's stomach.</li><li><strong>Definition 5:</strong> To have a bad smell.</li><li><strong>Definition 6:</strong> To squeeze playfully, usually a breast or nose.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (racial slur) A Caucasian person.</li><li><strong>Definition 2:</strong> A factory hand or general unskilled worker.</li></ul></div></div>"
+description: Yes, HONKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- bonks
+- conks
+- gonks
+- hanks
+- hocks
+- hoiks
+- holks
+- honds
+- hones
+- hongs
+- hooks
+- horks
+anagrams:
+- shonk
+trap:
+  pattern: _ONKS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: The sound produced by a typical car horn.
+  - text: The cry of a goose.
+  - text: A bad smell.
+- pos: verb
+  defs:
+  - text: To use a car horn.
+    example: They stood and observed how long it took for the other cars to honk.
+  - text: To make a loud, harsh sound like a car horn.
+  - text: To make the vocal sound of a goose.
+  - text: 'To vomit: regurgitate the contents of one''s stomach.'
+  - text: To have a bad smell.
+  - text: To squeeze playfully, usually a breast or nose.
+- pos: noun
+  defs:
+  - text: "(racial slur) A Caucasian person."
+  - text: A factory hand or general unskilled worker.
 ---
-

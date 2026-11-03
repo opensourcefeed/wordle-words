@@ -1,7 +1,61 @@
 ---
 layout: word
-title: glide
+title: Is GLIDE a Wordle Word?
+head_title: 'Is GLIDE a Wordle Word? Yes – Past Answer #1070 & Meaning'
 word: glide
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡlaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of gliding.</li><li><strong>Definition 2:</strong> A transitional sound, especially a semivowel.</li><li><strong>Definition 3:</strong> An attack or preparatory movement made by sliding down the opponent’s blade, keeping it in constant contact.</li><li><strong>Definition 4:</strong> A bird, the glede or kite.</li><li><strong>Definition 5:</strong> A kind of cap affixed to the base of the legs of furniture to prevent it from damaging the floor.</li><li><strong>Definition 6:</strong> The joining of two sounds without a break.</li><li><strong>Definition 7:</strong> A smooth and sliding step in dancing the waltz.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move softly, smoothly, or effortlessly.</li><li><strong>Definition 2:</strong> To fly unpowered, as of an aircraft. Also relates to gliding birds and flying fish.</li><li><strong>Definition 3:</strong> To cause to glide.</li><li><strong>Definition 4:</strong> To pass with a glide, as the voice.</li></ul></div></div>"
+description: Yes, GLIDE is a valid Wordle word. It was the Wordle answer on May 24,
+  2024 (#1070). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 24, 2024 (#1070).
+past_answers:
+- date: '2024-05-24'
+  number: 1070
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- elide
+- glade
+- guide
+- slide
+- glede
+- glike
+- glime
+- glode
+- gride
+- ylide
+anagrams:
+- gelid
+phonetic: "/ˈɡlaɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of gliding.
+  - text: A transitional sound, especially a semivowel.
+  - text: An attack or preparatory movement made by sliding down the opponent’s blade,
+      keeping it in constant contact.
+  - text: A bird, the glede or kite.
+  - text: A kind of cap affixed to the base of the legs of furniture to prevent it
+      from damaging the floor.
+  - text: The joining of two sounds without a break.
+  - text: A smooth and sliding step in dancing the waltz.
+- pos: verb
+  defs:
+  - text: To move softly, smoothly, or effortlessly.
+  - text: To fly unpowered, as of an aircraft. Also relates to gliding birds and flying
+      fish.
+  - text: To cause to glide.
+  - text: To pass with a glide, as the voice.
 ---
-

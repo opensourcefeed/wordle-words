@@ -1,7 +1,51 @@
 ---
 layout: word
-title: altos
+title: Is ALTOS a Wordle Word?
+head_title: Is ALTOS a Wordle Word? Yes – Valid Guess & Meaning
 word: altos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.</li><li><strong>Definition 2:</strong> A person or musical instrument that performs the alto part.</li><li><strong>Definition 3:</strong> An alto saxophone</li></ul></div></div>"
+description: Yes, ALTOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- aftos
+- alcos
+- algos
+- alios
+- alkos
+- aloos
+- autos
+anagrams:
+- loast
+- lotas
+- lotsa
+- salto
+- tolas
+trap:
+  pattern: AL_OS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A musical part or section higher than tenor and lower than soprano, formerly
+      the part that performed a countermelody above the tenor or main melody.
+  - text: A person or musical instrument that performs the alto part.
+  - text: An alto saxophone
 ---
-

@@ -1,7 +1,67 @@
 ---
 layout: word
-title: winks
+title: Is WINKS a Wordle Word?
+head_title: Is WINKS a Wordle Word? Yes – Valid Guess & Meaning
 word: winks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of winking (a blinking of only one eye), or a message sent by winking.</li><li><strong>Definition 2:</strong> A brief period of sleep; especially forty winks.</li><li><strong>Definition 3:</strong> A brief time; an instant.</li><li><strong>Definition 4:</strong> The smallest possible amount.</li><li><strong>Definition 5:</strong> A subtle allusion.<p><strong>Example:</strong> The film includes a wink to wartime rationing.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To close one's eyes in sleep.</li><li><strong>Definition 2:</strong> To close one's eyes.</li><li><strong>Definition 3:</strong> Usually followed by at: to look the other way, to turn a blind eye.</li><li><strong>Definition 4:</strong> To close one's eyes quickly and involuntarily; to blink.</li><li><strong>Definition 5:</strong> To blink with only one eye as a message, signal, or suggestion, usually with an implication of conspiracy. (When transitive, the object may be the eye being winked, or the message being conveyed.)<p><strong>Example:</strong> He winked at me. She winked her eye. He winked his assent.</p></li><li><strong>Definition 6:</strong> To gleam fitfully or intermitently; to twinkle; to flicker.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A disc used in the game of tiddlywinks.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (Chiefly British) Periwinkle.</li></ul></div></div>"
+description: Yes, WINKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- binks
+- dinks
+- finks
+- ginks
+- jinks
+- kinks
+- links
+- minks
+- oinks
+- pinks
+- rinks
+- sinks
+anagrams:
+- swink
+trap:
+  pattern: _INKS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: An act of winking (a blinking of only one eye), or a message sent by winking.
+  - text: A brief period of sleep; especially forty winks.
+  - text: A brief time; an instant.
+  - text: The smallest possible amount.
+  - text: A subtle allusion.
+    example: The film includes a wink to wartime rationing.
+- pos: verb
+  defs:
+  - text: To close one's eyes in sleep.
+  - text: To close one's eyes.
+  - text: 'Usually followed by at: to look the other way, to turn a blind eye.'
+  - text: To close one's eyes quickly and involuntarily; to blink.
+  - text: To blink with only one eye as a message, signal, or suggestion, usually
+      with an implication of conspiracy. (When transitive, the object may be the eye
+      being winked, or the message being conveyed.)
+    example: He winked at me. She winked her eye. He winked his assent.
+  - text: To gleam fitfully or intermitently; to twinkle; to flicker.
+- pos: noun
+  defs:
+  - text: A disc used in the game of tiddlywinks.
+- pos: noun
+  defs:
+  - text: "(Chiefly British) Periwinkle."
 ---
-

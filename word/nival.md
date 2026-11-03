@@ -1,7 +1,41 @@
 ---
 layout: word
-title: nival
+title: Is NIVAL a Wordle Word?
+head_title: Is NIVAL a Wordle Word? Yes – Valid Guess & Meaning
 word: nival
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Abounding with snow; snowy; snow-covered (now especially in reference to plant habitats).</li><li><strong>Definition 2:</strong> Found or thriving in snowy conditions.</li></ul></div></div>"
+description: Yes, NIVAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- naval
+- rival
+- nidal
+- nital
+- nivas
+- nivel
+anagrams:
+- anvil
+- vinal
+definitions:
+- pos: adjective
+  defs:
+  - text: Abounding with snow; snowy; snow-covered (now especially in reference to
+      plant habitats).
+  - text: Found or thriving in snowy conditions.
 ---
-

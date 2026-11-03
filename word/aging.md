@@ -1,7 +1,65 @@
 ---
 layout: word
-title: aging
+title: Is AGING a Wordle Word?
+head_title: 'Is AGING a Wordle Word? Yes – Past Answer #927 & Meaning'
 word: aging
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈeɪ.dʒɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause to grow old; to impart the characteristics of age to.<p><strong>Example:</strong> Grief ages us.</p></li><li><strong>Definition 2:</strong> To postpone an action that would extinguish something, as a debt.<p><strong>Example:</strong> Money's a little tight right now, let's age our bills for a week or so.</p></li><li><strong>Definition 3:</strong> To categorize by age.<p><strong>Example:</strong> One his first assignments was to age the accounts receivable.</p></li><li><strong>Definition 4:</strong> To grow aged; to become old; to show marks of age.<p><strong>Example:</strong> He grew fat as he aged.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The process of becoming older or more mature.</li><li><strong>Definition 2:</strong> The deliberate process of making something (such as an antique) appear (or, in science fiction, become) older than it is.</li><li><strong>Definition 3:</strong> Becoming senescent; accumulating damage to macromolecules, cells, tissues and organs with the passage of time; progressing loss of health, mobility, vibrancy and body functionality, resulting in biological death.</li><li><strong>Definition 4:</strong> Wear, wear and tear.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Becoming elderly.<p><strong>Example:</strong> The aging artist could no longer steadily hold the brush.</p></li></ul></div></div>"
+description: Yes, AGING is a valid Wordle word. It was the Wordle answer on January
+  2, 2024 (#927). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 2, 2024 (#927).
+past_answers:
+- date: '2024-01-02'
+  number: 927
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- aping
+- acing
+- ahing
+- aking
+- awing
+- axing
+anagrams:
+- ginga
+trap:
+  pattern: A_ING
+  count: 7
+phonetic: "/ˈeɪ.dʒɪŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cause to grow old; to impart the characteristics of age to.
+    example: Grief ages us.
+  - text: To postpone an action that would extinguish something, as a debt.
+    example: Money's a little tight right now, let's age our bills for a week or so.
+  - text: To categorize by age.
+    example: One his first assignments was to age the accounts receivable.
+  - text: To grow aged; to become old; to show marks of age.
+    example: He grew fat as he aged.
+- pos: noun
+  defs:
+  - text: The process of becoming older or more mature.
+  - text: The deliberate process of making something (such as an antique) appear (or,
+      in science fiction, become) older than it is.
+  - text: Becoming senescent; accumulating damage to macromolecules, cells, tissues
+      and organs with the passage of time; progressing loss of health, mobility, vibrancy
+      and body functionality, resulting in biological death.
+  - text: Wear, wear and tear.
+- pos: adjective
+  defs:
+  - text: Becoming elderly.
+    example: The aging artist could no longer steadily hold the brush.
 ---
-

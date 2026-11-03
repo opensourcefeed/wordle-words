@@ -1,7 +1,45 @@
 ---
 layout: word
-title: celts
+title: Is CELTS a Wordle Word?
+head_title: Is CELTS a Wordle Word? Yes – Valid Guess & Meaning
 word: celts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prehistoric chisel-bladed tool.</li></ul></div></div>"
+description: Yes, CELTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- belts
+- cells
+- cents
+- certs
+- colts
+- cults
+- delts
+- felts
+- gelts
+- kelts
+- melts
+- pelts
+trap:
+  pattern: _ELTS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A prehistoric chisel-bladed tool.
 ---
-

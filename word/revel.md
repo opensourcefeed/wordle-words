@@ -1,7 +1,58 @@
 ---
 layout: word
-title: revel
+title: Is REVEL a Wordle Word?
+head_title: 'Is REVEL a Wordle Word? Yes – Past Answer #629 & Meaning'
 word: revel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɛv.əl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An instance of merrymaking; a celebration.</li><li><strong>Definition 2:</strong> A kind of dance.</li><li><strong>Definition 3:</strong> A wake for the dead.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make merry; to have a happy, lively time.</li><li><strong>Definition 2:</strong> To take delight (in something).</li></ul></div></div>"
+description: Yes, REVEL is a valid Wordle word. It was the Wordle answer on March
+  10, 2023 (#629). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 10, 2023 (#629).
+past_answers:
+- date: '2023-03-10'
+  number: 629
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- bevel
+- level
+- rebel
+- repel
+- devel
+- hevel
+- kevel
+- nevel
+- ravel
+- refel
+- revet
+- rivel
+anagrams:
+- lever
+- elver
+trap:
+  pattern: _EVEL
+  count: 7
+phonetic: "/ˈɹɛv.əl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An instance of merrymaking; a celebration.
+  - text: A kind of dance.
+  - text: A wake for the dead.
+- pos: verb
+  defs:
+  - text: To make merry; to have a happy, lively time.
+  - text: To take delight (in something).
 ---
-

@@ -1,7 +1,72 @@
 ---
 layout: word
-title: halts
+title: Is HALTS a Wordle Word?
+head_title: Is HALTS a Wordle Word? Yes – Valid Guess & Meaning
 word: halts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɑlts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To limp; move with a limping gait.</li><li><strong>Definition 2:</strong> To stand in doubt whether to proceed, or what to do; hesitate; be uncertain; linger; delay; mammer.</li><li><strong>Definition 3:</strong> To be lame, faulty, or defective, as in connection with ideas, or in measure, or in versification.</li><li><strong>Definition 4:</strong> To waver.</li><li><strong>Definition 5:</strong> To falter.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cessation, either temporary or permanent.<p><strong>Example:</strong> The contract negotiations put a halt to operations.</p></li><li><strong>Definition 2:</strong> A minor railway station (usually unstaffed) in the United Kingdom.<p><strong>Example:</strong> The halt itself never achieved much importance, even with workers coming to and from the adjacent works.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stop marching.</li><li><strong>Definition 2:</strong> To stop either temporarily or permanently.</li><li><strong>Definition 3:</strong> To bring to a stop.</li><li><strong>Definition 4:</strong> To cause to discontinue.<p><strong>Example:</strong> The contract negotiations halted operations for at least a week.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Lameness; a limp.</li></ul></div></div>"
+description: Yes, HALTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- dalts
+- haats
+- haets
+- hafts
+- hales
+- halfs
+- halls
+- halms
+- halos
+- hants
+- harts
+- hilts
+anagrams:
+- shalt
+- laths
+trap:
+  pattern: HA_TS
+  count: 6
+phonetic: "/hɑlts/"
+definitions:
+- pos: verb
+  defs:
+  - text: To limp; move with a limping gait.
+  - text: To stand in doubt whether to proceed, or what to do; hesitate; be uncertain;
+      linger; delay; mammer.
+  - text: To be lame, faulty, or defective, as in connection with ideas, or in measure,
+      or in versification.
+  - text: To waver.
+  - text: To falter.
+- pos: noun
+  defs:
+  - text: A cessation, either temporary or permanent.
+    example: The contract negotiations put a halt to operations.
+  - text: A minor railway station (usually unstaffed) in the United Kingdom.
+    example: The halt itself never achieved much importance, even with workers coming
+      to and from the adjacent works.
+- pos: verb
+  defs:
+  - text: To stop marching.
+  - text: To stop either temporarily or permanently.
+  - text: To bring to a stop.
+  - text: To cause to discontinue.
+    example: The contract negotiations halted operations for at least a week.
+- pos: noun
+  defs:
+  - text: Lameness; a limp.
 ---
-

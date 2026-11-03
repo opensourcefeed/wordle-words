@@ -1,7 +1,98 @@
 ---
 layout: word
-title: bills
+title: Is BILLS a Wordle Word?
+head_title: Is BILLS a Wordle Word? Yes – Valid Guess & Meaning
 word: bills
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɪlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.</li><li><strong>Definition 2:</strong> A cutting instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a billhook.</li><li><strong>Definition 3:</strong> Somebody armed with a bill; a billman.</li><li><strong>Definition 4:</strong> A pickaxe, or mattock.</li><li><strong>Definition 5:</strong> The extremity of the arm of an anchor; the point of or beyond the fluke (also called the peak).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dig, chop, etc., with a bill.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The beak of a bird, especially when small or flattish; sometimes also used with reference to a platypus, turtle, or other animal.</li><li><strong>Definition 2:</strong> A beak-like projection, especially a promontory.</li><li><strong>Definition 3:</strong> Of a cap or hat: the brim or peak, serving as a shade to keep sun off the face and out of the eyes.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To peck</li><li><strong>Definition 2:</strong> To stroke bill against bill, with reference to doves; to caress in fondness</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A written list or inventory. (Now obsolete except in specific senses or set phrases; bill of lading, bill of goods, etc.)</li><li><strong>Definition 2:</strong> A document, originally sealed; a formal statement or official memorandum. (Now obsolete except with certain qualifying words; bill of health, bill of sale etc.)</li><li><strong>Definition 3:</strong> A draft of a law, presented to a legislature for enactment; a proposed or projected law.</li><li><strong>Definition 4:</strong> A declaration made in writing, stating some wrong the complainant has suffered from the defendant, or a fault committed by some person against a law.</li><li><strong>Definition 5:</strong> A piece of paper money; a banknote.</li><li><strong>Definition 6:</strong> A written note of goods sold, services rendered, or work done, with the price or charge; an invoice.</li><li><strong>Definition 7:</strong> A paper, written or printed, and posted up or given away, to advertise something, as a lecture, a play, or the sale of goods</li><li><strong>Definition 8:</strong> A writing binding the signer or signers to pay a certain sum at a future day or on demand, with or without interest, as may be stated in the document; a bill of exchange. In the United States, it is usually called a note, a note of hand, or a promissory note.</li><li><strong>Definition 9:</strong> A set of items presented together.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To advertise by a bill or public notice.</li><li><strong>Definition 2:</strong> To charge; to send a bill to.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The bell, or boom, of the bittern.</li></ul></div></div>"
+description: Yes, BILLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- billy
+- balls
+- bells
+- biles
+- bilks
+- birls
+- bolls
+- bulls
+- cills
+- dills
+- fills
+- gills
+trap:
+  pattern: _ILLS
+  count: 19
+phonetic: "/bɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various bladed or pointed hand weapons, originally designating an
+      Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and
+      15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped
+      blade, with a short pike at the back and another at the top, attached to the
+      end of a long staff.
+  - text: A cutting instrument, with hook-shaped point, and fitted with a handle,
+      used in pruning, etc.; a billhook.
+  - text: Somebody armed with a bill; a billman.
+  - text: A pickaxe, or mattock.
+  - text: The extremity of the arm of an anchor; the point of or beyond the fluke
+      (also called the peak).
+- pos: verb
+  defs:
+  - text: To dig, chop, etc., with a bill.
+- pos: noun
+  defs:
+  - text: The beak of a bird, especially when small or flattish; sometimes also used
+      with reference to a platypus, turtle, or other animal.
+  - text: A beak-like projection, especially a promontory.
+  - text: 'Of a cap or hat: the brim or peak, serving as a shade to keep sun off the
+      face and out of the eyes.'
+- pos: verb
+  defs:
+  - text: To peck
+  - text: To stroke bill against bill, with reference to doves; to caress in fondness
+- pos: noun
+  defs:
+  - text: A written list or inventory. (Now obsolete except in specific senses or
+      set phrases; bill of lading, bill of goods, etc.)
+  - text: A document, originally sealed; a formal statement or official memorandum.
+      (Now obsolete except with certain qualifying words; bill of health, bill of
+      sale etc.)
+  - text: A draft of a law, presented to a legislature for enactment; a proposed or
+      projected law.
+  - text: A declaration made in writing, stating some wrong the complainant has suffered
+      from the defendant, or a fault committed by some person against a law.
+  - text: A piece of paper money; a banknote.
+  - text: A written note of goods sold, services rendered, or work done, with the
+      price or charge; an invoice.
+  - text: A paper, written or printed, and posted up or given away, to advertise something,
+      as a lecture, a play, or the sale of goods
+  - text: A writing binding the signer or signers to pay a certain sum at a future
+      day or on demand, with or without interest, as may be stated in the document;
+      a bill of exchange. In the United States, it is usually called a note, a note
+      of hand, or a promissory note.
+  - text: A set of items presented together.
+- pos: verb
+  defs:
+  - text: To advertise by a bill or public notice.
+  - text: To charge; to send a bill to.
+- pos: noun
+  defs:
+  - text: The bell, or boom, of the bittern.
 ---
-

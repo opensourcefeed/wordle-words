@@ -1,7 +1,62 @@
 ---
 layout: word
-title: spice
+title: Is SPICE a Wordle Word?
+head_title: 'Is SPICE a Wordle Word? Yes – Past Answer #794 & Meaning'
 word: spice
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spaɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Aromatic or pungent plant matter (usually dried) used to season or flavour food.</li><li><strong>Definition 2:</strong> Appeal, interest; an attribute that makes something appealing, interesting, or engaging.</li><li><strong>Definition 3:</strong> A synthetic cannabinoid drug.</li><li><strong>Definition 4:</strong> Sweets, candy.</li><li><strong>Definition 5:</strong> Species; kind.</li><li><strong>Definition 6:</strong> A characteristic touch or taste; smack; flavour.</li><li><strong>Definition 7:</strong> An aromatic odour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To add spice or spices to; season.</li><li><strong>Definition 2:</strong> To spice up.</li></ul></div></div>"
+description: Yes, SPICE is a valid Wordle word. It was the Wordle answer on August
+  22, 2023 (#794). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 22, 2023 (#794).
+past_answers:
+- date: '2023-08-22'
+  number: 794
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- slice
+- space
+- spicy
+- spike
+- spine
+- spire
+- spite
+- saice
+- spica
+- spide
+- spile
+anagrams:
+- epics
+- sepic
+trap:
+  pattern: SPI_E
+  count: 7
+phonetic: "/spaɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Aromatic or pungent plant matter (usually dried) used to season or flavour
+      food.
+  - text: Appeal, interest; an attribute that makes something appealing, interesting,
+      or engaging.
+  - text: A synthetic cannabinoid drug.
+  - text: Sweets, candy.
+  - text: Species; kind.
+  - text: A characteristic touch or taste; smack; flavour.
+  - text: An aromatic odour.
+- pos: verb
+  defs:
+  - text: To add spice or spices to; season.
+  - text: To spice up.
 ---
-

@@ -1,7 +1,150 @@
 ---
 layout: word
-title: hacks
+title: Is HACKS a Wordle Word?
+head_title: Is HACKS a Wordle Word? Yes – Valid Guess & Meaning
 word: hacks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tool for chopping.</li><li><strong>Definition 2:</strong> A hacking blow.</li><li><strong>Definition 3:</strong> A gouge or notch made by such a blow.</li><li><strong>Definition 4:</strong> A dry cough.</li><li><strong>Definition 5:</strong> A hacking; a catch in speaking; a short, broken cough.</li><li><strong>Definition 6:</strong> A try, an attempt.</li><li><strong>Definition 7:</strong> The foothold traditionally cut into the ice from which the person who throws the rock pushes off for delivery.</li><li><strong>Definition 8:</strong> A mattock or a miner's pickaxe.</li><li><strong>Definition 9:</strong> An expedient, temporary solution, such as a small patch or change to code, meant to be replaced with a more elegant solution at a later date.</li><li><strong>Definition 10:</strong> An interesting technical achievement, particularly in computer programming.</li><li><strong>Definition 11:</strong> A trick, shortcut, skill, or novelty method to increase productivity, efficiency or ease.<p><strong>Example:</strong> Putting your phone in a sandwich bag when you go to the beach is such a great hack.</p></li><li><strong>Definition 12:</strong> An illegal attempt to gain access to a computer network.</li><li><strong>Definition 13:</strong> A video game or any computer software that has been altered from its original state.</li><li><strong>Definition 14:</strong> Time check.</li><li><strong>Definition 15:</strong> A swing of the bat at a pitched ball by the batter.<p><strong>Example:</strong> He took a few hacks, but the pitcher finally struck him out.</p></li><li><strong>Definition 16:</strong> A kick on the shins in football.</li><li><strong>Definition 17:</strong> Confinement of an officer to their stateroom as a punishment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To chop or cut down in a rough manner.<p><strong>Example:</strong> They hacked the brush down and made their way through the jungle.</p></li><li><strong>Definition 2:</strong> To cough noisily.<p><strong>Example:</strong> This cold is awful. I can't stop hacking.</p></li><li><strong>Definition 3:</strong> To withstand or put up with a difficult situation.<p><strong>Example:</strong> Can you hack it out here with no electricity or running water?</p></li><li><strong>Definition 4:</strong> To make a quick code change to patch a computer program, often one that, while being effective, is inelegant or makes the program harder to maintain.<p><strong>Example:</strong> I hacked in a fix for this bug, but we'll still have to do a real fix later.</p></li><li><strong>Definition 5:</strong> To accomplish a difficult programming task.<p><strong>Example:</strong> He can hack like no one else and make the program work as expected.</p></li><li><strong>Definition 6:</strong> To work with something on an intimately technical level.<p><strong>Example:</strong> I'm currently hacking distributed garbage collection.</p></li><li><strong>Definition 7:</strong> (by extension) To apply a trick, shortcut, skill, or novelty method to something to increase productivity, efficiency or ease.<p><strong>Example:</strong> I read up on dating tips so I can hack my sex life.</p></li><li><strong>Definition 8:</strong> To hack into; to gain unauthorized access to (a computer system, e.g., a website, or network) by manipulating code.</li><li><strong>Definition 9:</strong> (by extension) To gain unauthorised access to a computer or online account belonging to (a person or organisation).<p><strong>Example:</strong> When I logged into the social network, I discovered I'd been hacked.</p></li><li><strong>Definition 10:</strong> To strike an opponent's leg with one's hockey stick.<p><strong>Example:</strong> He's going to the penalty box after hacking the defender in front of the goal.</p></li><li><strong>Definition 11:</strong> To make a flailing attempt to hit the puck with a hockey stick.<p><strong>Example:</strong> There's a scramble in front of the net as the forwards are hacking at the bouncing puck.</p></li><li><strong>Definition 12:</strong> To swing at a pitched ball.<p><strong>Example:</strong> He went to the batter's box hacking.</p></li><li><strong>Definition 13:</strong> (soccer and rugby) To kick (a player) on the shins.</li><li><strong>Definition 14:</strong> To strike in a frantic movement.</li><li><strong>Definition 15:</strong> To strike lightly as part of tapotement massage.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A board which the falcon's food is placed on; used by extension for the state of partial freedom in which they are kept before being trained.</li><li><strong>Definition 2:</strong> A food-rack for cattle.</li><li><strong>Definition 3:</strong> A rack used to dry something, such as bricks, fish, or cheese.</li><li><strong>Definition 4:</strong> A grating in a mill race.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lay (bricks) on a rack to dry.</li><li><strong>Definition 2:</strong> To keep (young hawks) in a state of partial freedom, before they are trained.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A horse for hire, especially one which is old and tired.</li><li><strong>Definition 2:</strong> A person, often a journalist, hired to do routine work.<p><strong>Example:</strong> I got by on hack work for years before I finally published my novel.</p></li><li><strong>Definition 3:</strong> Someone who is available for hire; hireling, mercenary.</li><li><strong>Definition 4:</strong> A taxicab (hackney cab) driver.</li><li><strong>Definition 5:</strong> A vehicle let for hire; originally, a hackney coach, now typically a taxicab.</li><li><strong>Definition 6:</strong> A hearse.</li><li><strong>Definition 7:</strong> (authorship) An untalented writer.<p><strong>Example:</strong> Dason is nothing but a two-bit hack.</p></li><li><strong>Definition 8:</strong> One who is professionally successful despite producing mediocre work. (Usually applied to persons in a creative field.)</li><li><strong>Definition 9:</strong> A talented writer-for-hire, paid to put others' thoughts into felicitous language.</li><li><strong>Definition 10:</strong> A political agitator. (slightly derogatory)</li><li><strong>Definition 11:</strong> A writer who hires himself out for any sort of literary work; an overworked man; a drudge.</li><li><strong>Definition 12:</strong> A procuress.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make common or cliched; to vulgarise.</li><li><strong>Definition 2:</strong> To ride a horse at a regular pace; to ride on a road (as opposed to riding cross-country etc.).</li><li><strong>Definition 3:</strong> To be exposed or offered or to common use for hire; to turn prostitute.</li><li><strong>Definition 4:</strong> To live the life of a drudge or hack.</li><li><strong>Definition 5:</strong> To use as a hack; to let out for hire.</li><li><strong>Definition 6:</strong> To use frequently and indiscriminately, so as to render trite and commonplace.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small ball usually made of woven cotton or suede and filled with rice, sand or some other filler, for use in hackeysack.</li></ul></div><div class='meanings'><h3>Meaning 8</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play hackeysack.</li></ul></div></div>"
+description: Yes, HACKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- backs
+- cacks
+- dacks
+- hacky
+- haiks
+- hanks
+- harks
+- hasks
+- hawks
+- hecks
+- hicks
+- hocks
+anagrams:
+- shack
+trap:
+  pattern: _ACKS
+  count: 15
+phonetic: "/hæks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A tool for chopping.
+  - text: A hacking blow.
+  - text: A gouge or notch made by such a blow.
+  - text: A dry cough.
+  - text: A hacking; a catch in speaking; a short, broken cough.
+  - text: A try, an attempt.
+  - text: The foothold traditionally cut into the ice from which the person who throws
+      the rock pushes off for delivery.
+  - text: A mattock or a miner's pickaxe.
+  - text: An expedient, temporary solution, such as a small patch or change to code,
+      meant to be replaced with a more elegant solution at a later date.
+  - text: An interesting technical achievement, particularly in computer programming.
+  - text: A trick, shortcut, skill, or novelty method to increase productivity, efficiency
+      or ease.
+    example: Putting your phone in a sandwich bag when you go to the beach is such
+      a great hack.
+  - text: An illegal attempt to gain access to a computer network.
+  - text: A video game or any computer software that has been altered from its original
+      state.
+  - text: Time check.
+  - text: A swing of the bat at a pitched ball by the batter.
+    example: He took a few hacks, but the pitcher finally struck him out.
+  - text: A kick on the shins in football.
+  - text: Confinement of an officer to their stateroom as a punishment.
+- pos: verb
+  defs:
+  - text: To chop or cut down in a rough manner.
+    example: They hacked the brush down and made their way through the jungle.
+  - text: To cough noisily.
+    example: This cold is awful. I can't stop hacking.
+  - text: To withstand or put up with a difficult situation.
+    example: Can you hack it out here with no electricity or running water?
+  - text: To make a quick code change to patch a computer program, often one that,
+      while being effective, is inelegant or makes the program harder to maintain.
+    example: I hacked in a fix for this bug, but we'll still have to do a real fix
+      later.
+  - text: To accomplish a difficult programming task.
+    example: He can hack like no one else and make the program work as expected.
+  - text: To work with something on an intimately technical level.
+    example: I'm currently hacking distributed garbage collection.
+  - text: "(by extension) To apply a trick, shortcut, skill, or novelty method to
+      something to increase productivity, efficiency or ease."
+    example: I read up on dating tips so I can hack my sex life.
+  - text: To hack into; to gain unauthorized access to (a computer system, e.g., a
+      website, or network) by manipulating code.
+  - text: "(by extension) To gain unauthorised access to a computer or online account
+      belonging to (a person or organisation)."
+    example: When I logged into the social network, I discovered I'd been hacked.
+  - text: To strike an opponent's leg with one's hockey stick.
+    example: He's going to the penalty box after hacking the defender in front of
+      the goal.
+  - text: To make a flailing attempt to hit the puck with a hockey stick.
+    example: There's a scramble in front of the net as the forwards are hacking at
+      the bouncing puck.
+  - text: To swing at a pitched ball.
+    example: He went to the batter's box hacking.
+  - text: "(soccer and rugby) To kick (a player) on the shins."
+  - text: To strike in a frantic movement.
+  - text: To strike lightly as part of tapotement massage.
+- pos: noun
+  defs:
+  - text: A board which the falcon's food is placed on; used by extension for the
+      state of partial freedom in which they are kept before being trained.
+  - text: A food-rack for cattle.
+  - text: A rack used to dry something, such as bricks, fish, or cheese.
+  - text: A grating in a mill race.
+- pos: verb
+  defs:
+  - text: To lay (bricks) on a rack to dry.
+  - text: To keep (young hawks) in a state of partial freedom, before they are trained.
+- pos: noun
+  defs:
+  - text: A horse for hire, especially one which is old and tired.
+  - text: A person, often a journalist, hired to do routine work.
+    example: I got by on hack work for years before I finally published my novel.
+  - text: Someone who is available for hire; hireling, mercenary.
+  - text: A taxicab (hackney cab) driver.
+  - text: A vehicle let for hire; originally, a hackney coach, now typically a taxicab.
+  - text: A hearse.
+  - text: "(authorship) An untalented writer."
+    example: Dason is nothing but a two-bit hack.
+  - text: One who is professionally successful despite producing mediocre work. (Usually
+      applied to persons in a creative field.)
+  - text: A talented writer-for-hire, paid to put others' thoughts into felicitous
+      language.
+  - text: A political agitator. (slightly derogatory)
+  - text: A writer who hires himself out for any sort of literary work; an overworked
+      man; a drudge.
+  - text: A procuress.
+- pos: verb
+  defs:
+  - text: To make common or cliched; to vulgarise.
+  - text: To ride a horse at a regular pace; to ride on a road (as opposed to riding
+      cross-country etc.).
+  - text: To be exposed or offered or to common use for hire; to turn prostitute.
+  - text: To live the life of a drudge or hack.
+  - text: To use as a hack; to let out for hire.
+  - text: To use frequently and indiscriminately, so as to render trite and commonplace.
+- pos: noun
+  defs:
+  - text: A small ball usually made of woven cotton or suede and filled with rice,
+      sand or some other filler, for use in hackeysack.
+- pos: verb
+  defs:
+  - text: To play hackeysack.
 ---
-

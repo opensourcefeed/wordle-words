@@ -1,7 +1,46 @@
 ---
 layout: word
-title: kabob
+title: Is KABOB a Wordle Word?
+head_title: Is KABOB a Wordle Word? Yes – Valid Guess & Meaning
 word: kabob
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dish of pieces of meat, fish, or vegetables roasted on a skewer or spit, especially a doner kebab.</li><li><strong>Definition 2:</strong> A shish kebab or any other food on a skewer.</li><li><strong>Definition 3:</strong> The outward growing portions of a shish kebab structure.</li><li><strong>Definition 4:</strong> A Muslim, usually of southern European, Middle Eastern, or North African descent.</li><li><strong>Definition 5:</strong> The vulva.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To roast in the style of a kebab</li><li><strong>Definition 2:</strong> To stab or skewer</li></ul></div></div>"
+description: Yes, KABOB is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- cabob
+- kabab
+- kebob
+- nabob
+anagrams:
+- bobak
+definitions:
+- pos: noun
+  defs:
+  - text: A dish of pieces of meat, fish, or vegetables roasted on a skewer or spit,
+      especially a doner kebab.
+  - text: A shish kebab or any other food on a skewer.
+  - text: The outward growing portions of a shish kebab structure.
+  - text: A Muslim, usually of southern European, Middle Eastern, or North African
+      descent.
+  - text: The vulva.
+- pos: verb
+  defs:
+  - text: To roast in the style of a kebab
+  - text: To stab or skewer
 ---
-

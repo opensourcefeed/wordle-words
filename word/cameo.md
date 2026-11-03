@@ -1,7 +1,48 @@
 ---
 layout: word
-title: cameo
+title: Is CAMEO a Wordle Word?
+head_title: 'Is CAMEO a Wordle Word? Yes – Past Answer #1118 & Meaning'
 word: cameo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkæm.iː.əʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece of jewelry, etc., carved in relief.</li><li><strong>Definition 2:</strong> A single very brief appearance, especially by a prominent celebrity in a movie or song.<p><strong>Example:</strong> Famous comic book writer Stan Lee had a cameo in the Spider-Man movie. He was on screen for perhaps ten seconds, but aficionados distinctly remember him.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To appear in a cameo role.</li></ul></div></div>"
+description: Yes, CAMEO is a valid Wordle word. It was the Wordle answer on July 11,
+  2024 (#1118). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 11, 2024 (#1118).
+past_answers:
+- date: '2024-07-11'
+  number: 1118
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- camel
+- cames
+- campo
+anagrams:
+- comae
+phonetic: "/ˈkæm.iː.əʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A piece of jewelry, etc., carved in relief.
+  - text: A single very brief appearance, especially by a prominent celebrity in a
+      movie or song.
+    example: Famous comic book writer Stan Lee had a cameo in the Spider-Man movie.
+      He was on screen for perhaps ten seconds, but aficionados distinctly remember
+      him.
+- pos: verb
+  defs:
+  - text: To appear in a cameo role.
 ---
-

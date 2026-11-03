@@ -1,7 +1,44 @@
 ---
 layout: word
-title: larva
+title: Is LARVA a Wordle Word?
+head_title: 'Is LARVA a Wordle Word? Yes – Past Answer #315 & Meaning'
 word: larva
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɑː.və/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An early stage of growth for some insects and amphibians, in which after hatching from their egg, insects are wingless and resemble a caterpillar or grub, and amphibians lack limbs and resemble fish.</li><li><strong>Definition 2:</strong> An animal in the aforementioned stage.</li><li><strong>Definition 3:</strong> A form of a recently born or hatched animal that is quite different from its adult stage.</li></ul></div></div>"
+description: Yes, LARVA is a valid Wordle word. It was the Wordle answer on April
+  30, 2022 (#315). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 30, 2022 (#315).
+past_answers:
+- date: '2022-04-30'
+  number: 315
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - L
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- larga
+anagrams:
+- alvar
+- arval
+- lavra
+phonetic: "/ˈlɑː.və/"
+definitions:
+- pos: noun
+  defs:
+  - text: An early stage of growth for some insects and amphibians, in which after
+      hatching from their egg, insects are wingless and resemble a caterpillar or
+      grub, and amphibians lack limbs and resemble fish.
+  - text: An animal in the aforementioned stage.
+  - text: A form of a recently born or hatched animal that is quite different from
+      its adult stage.
 ---
-

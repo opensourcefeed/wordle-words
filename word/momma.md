@@ -1,7 +1,40 @@
 ---
 layout: word
-title: momma
+title: Is MOMMA a Wordle Word?
+head_title: Is MOMMA a Wordle Word? Yes – Valid Guess & Meaning
 word: momma
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɑmə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Mother<p><strong>Example:</strong> My momma’s so great: she bakes me cookies every week.</p></li><li><strong>Definition 2:</strong> A voluptuous woman.<p><strong>Example:</strong> Woah, that chick in the bikini is a real momma!</p></li><li><strong>Definition 3:</strong> One's wife or girlfriend.<p><strong>Example:</strong> I need to talk to momma before I buy the car.</p></li></ul></div></div>"
+description: Yes, MOMMA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 3
+  repeated:
+  - M
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- comma
+- mamma
+- momme
+- mommy
+phonetic: "/ˈmɑmə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Mother
+    example: 'My momma’s so great: she bakes me cookies every week.'
+  - text: A voluptuous woman.
+    example: Woah, that chick in the bikini is a real momma!
+  - text: One's wife or girlfriend.
+    example: I need to talk to momma before I buy the car.
 ---
-

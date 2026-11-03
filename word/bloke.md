@@ -1,7 +1,41 @@
 ---
 layout: word
-title: bloke
+title: Is BLOKE a Wordle Word?
+head_title: 'Is BLOKE a Wordle Word? Yes – Past Answer #250 & Meaning'
 word: bloke
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A man, a fellow; an ordinary man, a man on the street.</li><li><strong>Definition 2:</strong> A man who behaves in a particularly laddish or overtly heterosexual manner.</li><li><strong>Definition 3:</strong> (A lower deck term for) the Captain or Executive Officer of a warship, with particular reference to discipline and punishment.</li><li><strong>Definition 4:</strong> An exemplar of a certain masculine, independent male archetype.</li><li><strong>Definition 5:</strong> An anglophone man.</li></ul></div></div>"
+description: Yes, BLOKE is a valid Wordle word. It was the Wordle answer on February
+  24, 2022 (#250). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 24, 2022 (#250).
+past_answers:
+- date: '2022-02-24'
+  number: 250
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- broke
+- blore
+- cloke
+definitions:
+- pos: noun
+  defs:
+  - text: A man, a fellow; an ordinary man, a man on the street.
+  - text: A man who behaves in a particularly laddish or overtly heterosexual manner.
+  - text: "(A lower deck term for) the Captain or Executive Officer of a warship,
+      with particular reference to discipline and punishment."
+  - text: An exemplar of a certain masculine, independent male archetype.
+  - text: An anglophone man.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: ochre
+title: Is OCHRE a Wordle Word?
+head_title: Is OCHRE a Wordle Word? Yes – Valid Guess & Meaning
 word: ochre
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An earth pigment containing silica, aluminum and ferric oxide</li><li><strong>Definition 2:</strong> A somewhat dark yellowish orange colour</li><li><strong>Definition 3:</strong> The stop codon sequence \"UAA.\"</li><li><strong>Definition 4:</strong> Money, especially gold.</li><li><strong>Definition 5:</strong> Any of various brown-coloured hesperiid butterflies of the genus Trapezites.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover or tint with ochre.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a yellow-orange colour.</li><li><strong>Definition 2:</strong> Referring to cultures that covered their dead with ochre.</li></ul></div></div>"
+description: Yes, OCHRE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- ochry
+anagrams:
+- chore
+- ocher
+- roche
+definitions:
+- pos: noun
+  defs:
+  - text: An earth pigment containing silica, aluminum and ferric oxide
+  - text: A somewhat dark yellowish orange colour
+  - text: The stop codon sequence "UAA."
+  - text: Money, especially gold.
+  - text: Any of various brown-coloured hesperiid butterflies of the genus Trapezites.
+- pos: verb
+  defs:
+  - text: To cover or tint with ochre.
+- pos: adjective
+  defs:
+  - text: Having a yellow-orange colour.
+  - text: Referring to cultures that covered their dead with ochre.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: boobs
+title: Is BOOBS a Wordle Word?
+head_title: Is BOOBS a Wordle Word? Yes – Valid Guess & Meaning
 word: boobs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /buːbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Idiot, fool.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To behave stupidly; to act like a boob.</li><li><strong>Definition 2:</strong> To make a mistake</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A breast, especially that of an adult or adolescent human female.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prison; jail.</li></ul></div></div>"
+description: Yes, BOOBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - B
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- booby
+- blobs
+- boabs
+- bombs
+- boohs
+- books
+- bools
+- booms
+- boons
+- boors
+- boots
+- doobs
+anagrams:
+- bobos
+- obbos
+trap:
+  pattern: BOO_S
+  count: 8
+phonetic: "/buːbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Idiot, fool.
+- pos: verb
+  defs:
+  - text: To behave stupidly; to act like a boob.
+  - text: To make a mistake
+- pos: noun
+  defs:
+  - text: A breast, especially that of an adult or adolescent human female.
+- pos: noun
+  defs:
+  - text: A prison; jail.
 ---
-

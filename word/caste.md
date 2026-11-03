@@ -1,7 +1,51 @@
 ---
 layout: word
-title: caste
+title: Is CASTE a Wordle Word?
+head_title: Is CASTE a Wordle Word? Yes – Possible Answer & Meaning
 word: caste
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɑːst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the hereditary social classes and subclasses of South Asian societies.</li><li><strong>Definition 2:</strong> A separate and fixed order or class of persons in society who chiefly associate with each other.</li><li><strong>Definition 3:</strong> A class of polymorphous eusocial insects of a particular size and function within a colony.</li></ul></div></div>"
+description: Yes, CASTE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- baste
+- haste
+- paste
+- taste
+- waste
+- carte
+- casts
+- coste
+anagrams:
+- cates
+- cesta
+- sceat
+- taces
+trap:
+  pattern: _ASTE
+  count: 6
+phonetic: "/kɑːst/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the hereditary social classes and subclasses of South Asian societies.
+  - text: A separate and fixed order or class of persons in society who chiefly associate
+      with each other.
+  - text: A class of polymorphous eusocial insects of a particular size and function
+      within a colony.
 ---
-

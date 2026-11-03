@@ -1,7 +1,55 @@
 ---
 layout: word
-title: crepe
+title: Is CREPE a Wordle Word?
+head_title: 'Is CREPE a Wordle Word? Yes – Past Answer #1315 & Meaning'
 word: crepe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹɛp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A flat round pancake-like pastry from Lower Brittany, made with wheat.</li><li><strong>Definition 2:</strong> A soft thin light fabric with a crinkled surface.</li><li><strong>Definition 3:</strong> Crepe paper; thin, crinkled tissue paper.</li><li><strong>Definition 4:</strong> Rubber in sheets, used especially for shoe soles.<p><strong>Example:</strong> The policeman wore crepe-soled shoes.</p></li><li><strong>Definition 5:</strong> A death notice printed on white card with a background of black crepe paper or cloth, placed on the door of a residence or business.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To crease (paper) in such a way to make it look like crepe paper</li><li><strong>Definition 2:</strong> To frizz (the hair).</li></ul></div></div>"
+description: Yes, CREPE is a valid Wordle word. It was the Wordle answer on January
+  24, 2025 (#1315). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 24, 2025 (#1315).
+past_answers:
+- date: '2025-01-24'
+  number: 1315
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- creme
+- crept
+- clepe
+- crape
+- creps
+- crepy
+- crewe
+- cripe
+anagrams:
+- creep
+- perce
+- recep
+phonetic: "/kɹɛp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A flat round pancake-like pastry from Lower Brittany, made with wheat.
+  - text: A soft thin light fabric with a crinkled surface.
+  - text: Crepe paper; thin, crinkled tissue paper.
+  - text: Rubber in sheets, used especially for shoe soles.
+    example: The policeman wore crepe-soled shoes.
+  - text: A death notice printed on white card with a background of black crepe paper
+      or cloth, placed on the door of a residence or business.
+- pos: verb
+  defs:
+  - text: To crease (paper) in such a way to make it look like crepe paper
+  - text: To frizz (the hair).
 ---
-

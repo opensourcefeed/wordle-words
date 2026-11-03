@@ -1,7 +1,54 @@
 ---
 layout: word
-title: caked
+title: Is CAKED a Wordle Word?
+head_title: Is CAKED a Wordle Word? Yes – Valid Guess & Meaning
 word: caked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /keɪkt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Coat (something) with a crust of solid material.<p><strong>Example:</strong> His shoes are caked with mud.</p></li><li><strong>Definition 2:</strong> To form into a cake, or mass.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cackle like a goose.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (smoking, of a pipe) Empty with nothing left to smoke but ash.</li></ul></div></div>"
+description: Yes, CAKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- baked
+- caaed
+- caged
+- cakes
+- cakey
+- caned
+- caped
+- cared
+- cased
+- caved
+- cawed
+- coked
+trap:
+  pattern: CA_ED
+  count: 9
+phonetic: "/keɪkt/"
+definitions:
+- pos: verb
+  defs:
+  - text: Coat (something) with a crust of solid material.
+    example: His shoes are caked with mud.
+  - text: To form into a cake, or mass.
+- pos: verb
+  defs:
+  - text: To cackle like a goose.
+- pos: adjective
+  defs:
+  - text: "(smoking, of a pipe) Empty with nothing left to smoke but ash."
 ---
-

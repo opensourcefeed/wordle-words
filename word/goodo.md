@@ -1,7 +1,34 @@
 ---
 layout: word
-title: goodo
+title: Is GOODO a Wordle Word?
+head_title: Is GOODO a Wordle Word? Yes – Valid Guess & Meaning
 word: goodo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Good (used after the noun)</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Good; used to show approval or satisfaction.</li></ul></div></div>"
+description: Yes, GOODO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- goody
+- goods
+- gordo
+definitions:
+- pos: adjective
+  defs:
+  - text: Good (used after the noun)
+- pos: interjection
+  defs:
+  - text: Good; used to show approval or satisfaction.
 ---
-

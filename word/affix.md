@@ -1,7 +1,47 @@
 ---
 layout: word
-title: affix
+title: Is AFFIX a Wordle Word?
+head_title: 'Is AFFIX a Wordle Word? Yes – Past Answer #1286 & Meaning'
 word: affix
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is affixed; an appendage.</li><li><strong>Definition 2:</strong> A bound morpheme added to the word’s stem's end.</li><li><strong>Definition 3:</strong> (broadly) A bound morpheme added to a word’s stem; a prefix, suffix etc.</li><li><strong>Definition 4:</strong> The complex number a+bi associated with the point in the Gauss plane with coordinates (a,b).</li><li><strong>Definition 5:</strong> (decorative art) Any small feature, as a figure, a flower, or the like, added for ornament to a vessel or other utensil, to an architectural feature.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attach.<p><strong>Example:</strong> to affix a stigma to a person</p></li><li><strong>Definition 2:</strong> To subjoin, annex, or add at the close or end; to append to.<p><strong>Example:</strong> to affix a seal to an instrument</p></li><li><strong>Definition 3:</strong> To fix or fasten figuratively; with on or upon.<p><strong>Example:</strong> eyes affixed upon the ground</p></li></ul></div></div>"
+description: Yes, AFFIX is a valid Wordle word. It was the Wordle answer on December
+  26, 2024 (#1286). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 26, 2024 (#1286).
+past_answers:
+- date: '2024-12-26'
+  number: 1286
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - A
+  - I
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 96
+definitions:
+- pos: noun
+  defs:
+  - text: That which is affixed; an appendage.
+  - text: A bound morpheme added to the word’s stem's end.
+  - text: "(broadly) A bound morpheme added to a word’s stem; a prefix, suffix etc."
+  - text: The complex number a+bi associated with the point in the Gauss plane with
+      coordinates (a,b).
+  - text: "(decorative art) Any small feature, as a figure, a flower, or the like,
+      added for ornament to a vessel or other utensil, to an architectural feature."
+- pos: verb
+  defs:
+  - text: To attach.
+    example: to affix a stigma to a person
+  - text: To subjoin, annex, or add at the close or end; to append to.
+    example: to affix a seal to an instrument
+  - text: To fix or fasten figuratively; with on or upon.
+    example: eyes affixed upon the ground
 ---
-

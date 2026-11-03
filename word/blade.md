@@ -1,7 +1,92 @@
 ---
 layout: word
-title: blade
+title: Is BLADE a Wordle Word?
+head_title: 'Is BLADE a Wordle Word? Yes – Past Answer #1281 & Meaning'
 word: blade
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bleɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sharp cutting edge of a knife, chisel, or other tool, a razor blade/sword.</li><li><strong>Definition 2:</strong> The flat functional end of a propeller, oar, hockey stick, screwdriver, skate, etc.</li><li><strong>Definition 3:</strong> The narrow leaf of a grass or cereal.</li><li><strong>Definition 4:</strong> The thin, flat part of a plant leaf, attached to a stem (petiole). The lamina.</li><li><strong>Definition 5:</strong> A flat bone, especially the shoulder blade.</li><li><strong>Definition 6:</strong> A cut of beef from near the shoulder blade (part of the chuck).</li><li><strong>Definition 7:</strong> The part of the tongue just behind the tip, used to make laminal consonants.</li><li><strong>Definition 8:</strong> A sword or knife.</li><li><strong>Definition 9:</strong> A piece of prepared, sharp-edged stone, often flint, at least twice as long as it is wide; a long flake of ground-edge stone or knapped vitreous stone.</li><li><strong>Definition 10:</strong> (ultimate frisbee) A throw characterized by a tight parabolic trajectory due to a steep lateral attitude.</li><li><strong>Definition 11:</strong> The rudder, daggerboard, or centerboard of a vessel.</li><li><strong>Definition 12:</strong> A bulldozer or surface-grading machine with mechanically adjustable blade that is nominally perpendicular to the forward motion of the vehicle.</li><li><strong>Definition 13:</strong> A dashing young man.</li><li><strong>Definition 14:</strong> A homosexual, usually male.</li><li><strong>Definition 15:</strong> Thin plate, foil.</li><li><strong>Definition 16:</strong> One of a series of small plates that make up the aperture or the shutter of a camera.</li><li><strong>Definition 17:</strong> (in the plural) The principal rafters of a roof.</li><li><strong>Definition 18:</strong> The four large shell plates on the sides, and the five large ones of the middle, of the carapace of the sea turtle, which yield the best tortoise shell.</li><li><strong>Definition 19:</strong> Airfoil in windmills and windturbines.</li><li><strong>Definition 20:</strong> A blade server.</li><li><strong>Definition 21:</strong> An exterior product of vectors. (The product may have more than two factors. Also, a scalar counts as a 0-blade, a vector as a 1-blade; an exterior product of k vectors may be called a k-blade.)</li><li><strong>Definition 22:</strong> The part of a key that is inserted into the lock.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To skate on rollerblades.<p><strong>Example:</strong> Want to go blading with me later in the park?</p></li><li><strong>Definition 2:</strong> To furnish with a blade.</li><li><strong>Definition 3:</strong> To put forth or have a blade.</li><li><strong>Definition 4:</strong> To stab with a blade<p><strong>Example:</strong> The gang member got bladed in a fight.</p></li><li><strong>Definition 5:</strong> To cut (a person) so as to provoke bleeding.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind of piton used in thin cracks.</li></ul></div></div>"
+description: Yes, BLADE is a valid Wordle word. It was the Wordle answer on December
+  21, 2024 (#1281). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 21, 2024 (#1281).
+past_answers:
+- date: '2024-12-21'
+  number: 1281
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- blame
+- blare
+- blaze
+- glade
+- blads
+- blady
+- blase
+- blate
+- blude
+- clade
+- slade
+anagrams:
+- abled
+- baled
+trap:
+  pattern: BLA_E
+  count: 6
+phonetic: "/bleɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sharp cutting edge of a knife, chisel, or other tool, a razor blade/sword.
+  - text: The flat functional end of a propeller, oar, hockey stick, screwdriver,
+      skate, etc.
+  - text: The narrow leaf of a grass or cereal.
+  - text: The thin, flat part of a plant leaf, attached to a stem (petiole). The lamina.
+  - text: A flat bone, especially the shoulder blade.
+  - text: A cut of beef from near the shoulder blade (part of the chuck).
+  - text: The part of the tongue just behind the tip, used to make laminal consonants.
+  - text: A sword or knife.
+  - text: A piece of prepared, sharp-edged stone, often flint, at least twice as long
+      as it is wide; a long flake of ground-edge stone or knapped vitreous stone.
+  - text: "(ultimate frisbee) A throw characterized by a tight parabolic trajectory
+      due to a steep lateral attitude."
+  - text: The rudder, daggerboard, or centerboard of a vessel.
+  - text: A bulldozer or surface-grading machine with mechanically adjustable blade
+      that is nominally perpendicular to the forward motion of the vehicle.
+  - text: A dashing young man.
+  - text: A homosexual, usually male.
+  - text: Thin plate, foil.
+  - text: One of a series of small plates that make up the aperture or the shutter
+      of a camera.
+  - text: "(in the plural) The principal rafters of a roof."
+  - text: The four large shell plates on the sides, and the five large ones of the
+      middle, of the carapace of the sea turtle, which yield the best tortoise shell.
+  - text: Airfoil in windmills and windturbines.
+  - text: A blade server.
+  - text: An exterior product of vectors. (The product may have more than two factors.
+      Also, a scalar counts as a 0-blade, a vector as a 1-blade; an exterior product
+      of k vectors may be called a k-blade.)
+  - text: The part of a key that is inserted into the lock.
+- pos: verb
+  defs:
+  - text: To skate on rollerblades.
+    example: Want to go blading with me later in the park?
+  - text: To furnish with a blade.
+  - text: To put forth or have a blade.
+  - text: To stab with a blade
+    example: The gang member got bladed in a fight.
+  - text: To cut (a person) so as to provoke bleeding.
+- pos: noun
+  defs:
+  - text: A kind of piton used in thin cracks.
 ---
-

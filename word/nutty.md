@@ -1,7 +1,49 @@
 ---
 layout: word
-title: nutty
+title: Is NUTTY a Wordle Word?
+head_title: Is NUTTY a Wordle Word? Yes – Possible Answer & Meaning
 word: nutty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnʌti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Containing nuts.<p><strong>Example:</strong> This is a nutty chocolate bar.</p></li><li><strong>Definition 2:</strong> Resembling or characteristic of nuts.</li><li><strong>Definition 3:</strong> Barmy, crazy, mad.<p><strong>Example:</strong> Your wife is as nutty as a fruitcake.</p></li><li><strong>Definition 4:</strong> Extravagantly fashionable</li></ul></div></div>"
+description: Yes, NUTTY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- putty
+- butty
+- cutty
+- gutty
+- jutty
+- natty
+- netty
+- nitty
+- nutsy
+- rutty
+- tutty
+- vutty
+trap:
+  pattern: _UTTY
+  count: 9
+phonetic: "/ˈnʌti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Containing nuts.
+    example: This is a nutty chocolate bar.
+  - text: Resembling or characteristic of nuts.
+  - text: Barmy, crazy, mad.
+    example: Your wife is as nutty as a fruitcake.
+  - text: Extravagantly fashionable
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: boggy
+title: Is BOGGY a Wordle Word?
+head_title: Is BOGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: boggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the qualities of a bog; i.e. dank, squishy, muddy, and full of water and rotting vegetation.<p><strong>Example:</strong> The edge of the woods led out onto a noisome, boggy fen, a paradise for mosquitos and small frogs.</p></li></ul></div></div>"
+description: Yes, BOGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- baggy
+- buggy
+- foggy
+- soggy
+- biggy
+- bodgy
+- bogey
+- boogy
+- doggy
+- loggy
+- moggy
+- noggy
+trap:
+  pattern: _OGGY
+  count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Having the qualities of a bog; i.e. dank, squishy, muddy, and full of water
+      and rotting vegetation.
+    example: The edge of the woods led out onto a noisome, boggy fen, a paradise for
+      mosquitos and small frogs.
 ---
-

@@ -1,7 +1,65 @@
 ---
 layout: word
-title: royal
+title: Is ROYAL a Wordle Word?
+head_title: 'Is ROYAL a Wordle Word? Yes – Past Answer #297 & Meaning'
 word: royal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɔɪəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A royal person; a member of a royal family.</li><li><strong>Definition 2:</strong> A standard size of printing paper, measuring 25 by 20 inches.</li><li><strong>Definition 3:</strong> A standard size of writing paper, measuring 24 by 19 inches.</li><li><strong>Definition 4:</strong> The Australian decimal currency intended to replace the pound in 1966; was changed to \"dollar\" before it was actually circulated.</li><li><strong>Definition 5:</strong> Any of various lycaenid butterflies.</li><li><strong>Definition 6:</strong> The fourth tine of an antler's beam.</li><li><strong>Definition 7:</strong> A stag with twelve points (six on each antler).</li><li><strong>Definition 8:</strong> In large sailing ships, square sail over the topgallant sail.</li><li><strong>Definition 9:</strong> An old English gold coin, the rial.</li><li><strong>Definition 10:</strong> A small mortar.</li><li><strong>Definition 11:</strong> In auction bridge, a royal spade.</li><li><strong>Definition 12:</strong> A tuft of beard on the lower lip.</li><li><strong>Definition 13:</strong> (campanology) Bell changes rung on ten bells.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to a monarch or their family.</li><li><strong>Definition 2:</strong> Having the air or demeanour of a monarch; illustrious; magnanimous; of more than common size or excellence.</li><li><strong>Definition 3:</strong> In large sailing ships, of a mast right above the topgallant mast and its sails.<p><strong>Example:</strong> royal mast;  royal sail</p></li><li><strong>Definition 4:</strong> Free-for-all, especially involving multiple combatants.</li><li><strong>Definition 5:</strong> Used as an intensifier.<p><strong>Example:</strong> a royal pain in the neck</p></li></ul></div></div>"
+description: Yes, ROYAL is a valid Wordle word. It was the Wordle answer on April
+  12, 2022 (#297). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 12, 2022 (#297).
+past_answers:
+- date: '2022-04-12'
+  number: 297
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- loyal
+- riyal
+- romal
+- roral
+- rosal
+- rotal
+phonetic: "/ˈɹɔɪəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A royal person; a member of a royal family.
+  - text: A standard size of printing paper, measuring 25 by 20 inches.
+  - text: A standard size of writing paper, measuring 24 by 19 inches.
+  - text: The Australian decimal currency intended to replace the pound in 1966; was
+      changed to "dollar" before it was actually circulated.
+  - text: Any of various lycaenid butterflies.
+  - text: The fourth tine of an antler's beam.
+  - text: A stag with twelve points (six on each antler).
+  - text: In large sailing ships, square sail over the topgallant sail.
+  - text: An old English gold coin, the rial.
+  - text: A small mortar.
+  - text: In auction bridge, a royal spade.
+  - text: A tuft of beard on the lower lip.
+  - text: "(campanology) Bell changes rung on ten bells."
+- pos: adjective
+  defs:
+  - text: Of or relating to a monarch or their family.
+  - text: Having the air or demeanour of a monarch; illustrious; magnanimous; of more
+      than common size or excellence.
+  - text: In large sailing ships, of a mast right above the topgallant mast and its
+      sails.
+    example: royal mast;  royal sail
+  - text: Free-for-all, especially involving multiple combatants.
+  - text: Used as an intensifier.
+    example: a royal pain in the neck
 ---
-

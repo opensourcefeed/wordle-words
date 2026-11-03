@@ -1,7 +1,53 @@
 ---
 layout: word
-title: brigs
+title: Is BRIGS a Wordle Word?
+head_title: Is BRIGS a Wordle Word? Yes – Valid Guess & Meaning
 word: brigs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹɪɡz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A two-masted vessel, square-rigged on both foremast and mainmast</li><li><strong>Definition 2:</strong> A jail or guardhouse, especially in a naval military prison or jail on a ship, navy base, or (in fiction) spacecraft.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Bridge.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Brigadier.</li></ul></div></div>"
+description: Yes, BRIGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- brags
+- bries
+- briks
+- brims
+- brins
+- brios
+- briss
+- brits
+- brogs
+- frigs
+- grigs
+- prigs
+trap:
+  pattern: BRI_S
+  count: 8
+phonetic: "/bɹɪɡz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A two-masted vessel, square-rigged on both foremast and mainmast
+  - text: A jail or guardhouse, especially in a naval military prison or jail on a
+      ship, navy base, or (in fiction) spacecraft.
+- pos: noun
+  defs:
+  - text: Bridge.
+- pos: noun
+  defs:
+  - text: Brigadier.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: pilei
+title: Is PILEI a Wordle Word?
+head_title: Is PILEI a Wordle Word? Yes – Valid Guess & Meaning
 word: pilei
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The cap of a mushroom.</li><li><strong>Definition 2:</strong> The bell of a jellyfish.</li><li><strong>Definition 3:</strong> A small thin cloud attached to a cumulus cloud.</li><li><strong>Definition 4:</strong> A conical felt hat worn in Ancient Rome and Greece.</li><li><strong>Definition 5:</strong> The top of the head of a bird, from the bill to the nape.</li></ul></div></div>"
+description: Yes, PILEI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- pilea
+- piled
+- piler
+- piles
+- piley
+trap:
+  pattern: PILE_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: The cap of a mushroom.
+  - text: The bell of a jellyfish.
+  - text: A small thin cloud attached to a cumulus cloud.
+  - text: A conical felt hat worn in Ancient Rome and Greece.
+  - text: The top of the head of a bird, from the bill to the nape.
 ---
-

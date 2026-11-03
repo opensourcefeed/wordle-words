@@ -1,7 +1,113 @@
 ---
 layout: word
-title: block
+title: Is BLOCK a Wordle Word?
+head_title: 'Is BLOCK a Wordle Word? Yes – Past Answer #950 & Meaning'
 word: block
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A substantial, often approximately cuboid, piece of any substance.<p><strong>Example:</strong> a block of ice</p></li><li><strong>Definition 2:</strong> A chopping block; cuboid base for cutting or beheading.<p><strong>Example:</strong> Anne Boleyn placed her head on the block and awaited her execution.</p></li><li><strong>Definition 3:</strong> A group of urban lots of property, several acres in extent, not crossed by public streets.<p><strong>Example:</strong> I'm going for a walk around the block.</p></li><li><strong>Definition 4:</strong> A residential building consisting of flats.<p><strong>Example:</strong> a block of flats</p></li><li><strong>Definition 5:</strong> The distance from one street to another in a city that is built (approximately) to a grid pattern.<p><strong>Example:</strong> The place you are looking for is two long blocks east and one short block north.</p></li><li><strong>Definition 6:</strong> Interference or obstruction of cognitive processes.</li><li><strong>Definition 7:</strong> The human head.<p><strong>Example:</strong> I'll knock your block off!</p></li><li><strong>Definition 8:</strong> A wig block: a simplified head model upon which wigs are worn.</li><li><strong>Definition 9:</strong> A mould on which hats, bonnets, etc., are shaped.</li><li><strong>Definition 10:</strong> A set of sheets (of paper) joined together at one end.<p><strong>Example:</strong> a block of 100 tickets</p></li><li><strong>Definition 11:</strong> A logical data storage unit containing one or more physical sectors (see cluster).</li><li><strong>Definition 12:</strong> A region of code in a program that acts as a single unit, such as a function or loop.</li><li><strong>Definition 13:</strong> A fixed-length group of bits making up part of a message.</li><li><strong>Definition 14:</strong> A case with one or more sheaves/pulleys, used with ropes to increase or redirect force, for example, as part of the rigging of a sailing ship.</li><li><strong>Definition 15:</strong> A portion of a macromolecule, comprising many units, that has at least one feature not present in adjacent portions.</li><li><strong>Definition 16:</strong> Something that prevents something from passing.<p><strong>Example:</strong> There's a block in the pipe that means the water can't get through.</p></li><li><strong>Definition 17:</strong> An action to interfere with the movement of an opposing player or of the object of play (ball, puck).</li><li><strong>Definition 18:</strong> A shot played by holding the bat vertically in the path of the ball, so that it loses momentum and drops to the ground.</li><li><strong>Definition 19:</strong> A defensive play by one or more players meant to deflect a spiked ball back to the hitter’s court.</li><li><strong>Definition 20:</strong> A joined group of four (or in some cases nine) postage stamps, forming a roughly square shape.</li><li><strong>Definition 21:</strong> A section of split logs used as fuel.</li><li><strong>Definition 22:</strong> Solitary confinement.</li><li><strong>Definition 23:</strong> A cellblock.</li><li><strong>Definition 24:</strong> The perch on which a bird of prey is kept.</li><li><strong>Definition 25:</strong> A piece of hard wood on which a stereotype or electrotype plate is mounted.</li><li><strong>Definition 26:</strong> A blockhead; a stupid fellow; a dolt.</li><li><strong>Definition 27:</strong> A section of a railroad where the block system is used.</li><li><strong>Definition 28:</strong> The position of a player or bat when guarding the wicket.</li><li><strong>Definition 29:</strong> A blockhole.</li><li><strong>Definition 30:</strong> The popping crease.</li><li><strong>Definition 31:</strong> A discrete group of vines in a vineyard, often distinguished from others by variety, clone, canopy training method, irrigation infrastructure, or some combination thereof.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fill (something) so that it is not possible to pass.<p><strong>Example:</strong> The pipe is blocked.</p></li><li><strong>Definition 2:</strong> To prevent (something or someone) from passing.<p><strong>Example:</strong> You're blocking the road – I can't get through!</p></li><li><strong>Definition 3:</strong> To prevent (something from happening or someone from doing something).<p><strong>Example:</strong> His plan to take over the business was blocked by the boss.</p></li><li><strong>Definition 4:</strong> To impede an opponent.<p><strong>Example:</strong> He blocked the basketball player's shot.</p></li><li><strong>Definition 5:</strong> To specify the positions and movements of the actors.<p><strong>Example:</strong> It was very difficult to block this scene convincingly.</p></li><li><strong>Definition 6:</strong> To hit with a block.</li><li><strong>Definition 7:</strong> To play a block shot.</li><li><strong>Definition 8:</strong> To disable communication via telephone, instant messaging, etc., with an undesirable someone.<p><strong>Example:</strong> I tried to send you a message, but you've blocked me!</p></li><li><strong>Definition 9:</strong> To wait.<p><strong>Example:</strong> When the condition expression is false, the thread blocks on the condition variable.</p></li><li><strong>Definition 10:</strong> To stretch or mould (a knitted item, a hat, etc.) into the desired shape.<p><strong>Example:</strong> I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard.</p></li><li><strong>Definition 11:</strong> To shape or sketch out roughly.</li></ul></div></div>"
+description: Yes, BLOCK is a valid Wordle word. It was the Wordle answer on January
+  25, 2024 (#950). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 25, 2024 (#950).
+past_answers:
+- date: '2024-01-25'
+  number: 950
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- black
+- clock
+- flock
+- blocs
+- blook
+- brock
+- plock
+definitions:
+- pos: noun
+  defs:
+  - text: A substantial, often approximately cuboid, piece of any substance.
+    example: a block of ice
+  - text: A chopping block; cuboid base for cutting or beheading.
+    example: Anne Boleyn placed her head on the block and awaited her execution.
+  - text: A group of urban lots of property, several acres in extent, not crossed
+      by public streets.
+    example: I'm going for a walk around the block.
+  - text: A residential building consisting of flats.
+    example: a block of flats
+  - text: The distance from one street to another in a city that is built (approximately)
+      to a grid pattern.
+    example: The place you are looking for is two long blocks east and one short block
+      north.
+  - text: Interference or obstruction of cognitive processes.
+  - text: The human head.
+    example: I'll knock your block off!
+  - text: 'A wig block: a simplified head model upon which wigs are worn.'
+  - text: A mould on which hats, bonnets, etc., are shaped.
+  - text: A set of sheets (of paper) joined together at one end.
+    example: a block of 100 tickets
+  - text: A logical data storage unit containing one or more physical sectors (see
+      cluster).
+  - text: A region of code in a program that acts as a single unit, such as a function
+      or loop.
+  - text: A fixed-length group of bits making up part of a message.
+  - text: A case with one or more sheaves/pulleys, used with ropes to increase or
+      redirect force, for example, as part of the rigging of a sailing ship.
+  - text: A portion of a macromolecule, comprising many units, that has at least one
+      feature not present in adjacent portions.
+  - text: Something that prevents something from passing.
+    example: There's a block in the pipe that means the water can't get through.
+  - text: An action to interfere with the movement of an opposing player or of the
+      object of play (ball, puck).
+  - text: A shot played by holding the bat vertically in the path of the ball, so
+      that it loses momentum and drops to the ground.
+  - text: A defensive play by one or more players meant to deflect a spiked ball back
+      to the hitter’s court.
+  - text: A joined group of four (or in some cases nine) postage stamps, forming a
+      roughly square shape.
+  - text: A section of split logs used as fuel.
+  - text: Solitary confinement.
+  - text: A cellblock.
+  - text: The perch on which a bird of prey is kept.
+  - text: A piece of hard wood on which a stereotype or electrotype plate is mounted.
+  - text: A blockhead; a stupid fellow; a dolt.
+  - text: A section of a railroad where the block system is used.
+  - text: The position of a player or bat when guarding the wicket.
+  - text: A blockhole.
+  - text: The popping crease.
+  - text: A discrete group of vines in a vineyard, often distinguished from others
+      by variety, clone, canopy training method, irrigation infrastructure, or some
+      combination thereof.
+- pos: verb
+  defs:
+  - text: To fill (something) so that it is not possible to pass.
+    example: The pipe is blocked.
+  - text: To prevent (something or someone) from passing.
+    example: You're blocking the road – I can't get through!
+  - text: To prevent (something from happening or someone from doing something).
+    example: His plan to take over the business was blocked by the boss.
+  - text: To impede an opponent.
+    example: He blocked the basketball player's shot.
+  - text: To specify the positions and movements of the actors.
+    example: It was very difficult to block this scene convincingly.
+  - text: To hit with a block.
+  - text: To play a block shot.
+  - text: To disable communication via telephone, instant messaging, etc., with an
+      undesirable someone.
+    example: I tried to send you a message, but you've blocked me!
+  - text: To wait.
+    example: When the condition expression is false, the thread blocks on the condition
+      variable.
+  - text: To stretch or mould (a knitted item, a hat, etc.) into the desired shape.
+    example: I blocked the mittens by wetting them and pinning them to a shaped piece
+      of cardboard.
+  - text: To shape or sketch out roughly.
 ---
-

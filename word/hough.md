@@ -1,7 +1,45 @@
 ---
 layout: word
-title: hough
+title: Is HOUGH a Wordle Word?
+head_title: Is HOUGH a Wordle Word? Yes – Valid Guess & Meaning
 word: hough
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɒk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The hollow behind the knee.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hamstring.</li></ul></div></div>"
+description: Yes, HOUGH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 4
+  repeated:
+  - H
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- bough
+- cough
+- dough
+- rough
+- tough
+- haugh
+- heugh
+- lough
+- sough
+trap:
+  pattern: _OUGH
+  count: 8
+phonetic: "/hɒk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The hollow behind the knee.
+- pos: verb
+  defs:
+  - text: To hamstring.
 ---
-

@@ -1,7 +1,34 @@
 ---
 layout: word
-title: sadhu
+title: Is SADHU a Wordle Word?
+head_title: Is SADHU a Wordle Word? Yes – Valid Guess & Meaning
 word: sadhu
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɑːdhuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ascetic or practitioner of yoga (yogi) who has given up pursuit of the first three Hindu goals of life: kama (enjoyment), artha (practical objectives) and even dharma (duty).</li></ul></div></div>"
+description: Yes, SADHU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- sadhe
+anagrams:
+- hauds
+phonetic: "/ˈsɑːdhuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'An ascetic or practitioner of yoga (yogi) who has given up pursuit of the
+      first three Hindu goals of life: kama (enjoyment), artha (practical objectives)
+      and even dharma (duty).'
 ---
-

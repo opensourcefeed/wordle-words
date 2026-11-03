@@ -1,7 +1,49 @@
 ---
 layout: word
-title: cinch
+title: Is CINCH a Wordle Word?
+head_title: 'Is CINCH a Wordle Word? Yes – Past Answer #402 & Meaning'
 word: cinch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sɪntʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A simple saddle girth used in Mexico.</li><li><strong>Definition 2:</strong> Something that is very easy to do.<p><strong>Example:</strong> No problem. It's a cinch.</p></li><li><strong>Definition 3:</strong> A firm hold.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bring to certain conclusion.</li><li><strong>Definition 2:</strong> To tighten down.</li></ul></div></div>"
+description: Yes, CINCH is a valid Wordle word. It was the Wordle answer on July 26,
+  2022 (#402). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 26, 2022 (#402).
+past_answers:
+- date: '2022-07-26'
+  number: 402
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- conch
+- finch
+- pinch
+- winch
+- cinct
+- ginch
+- linch
+trap:
+  pattern: _INCH
+  count: 6
+phonetic: "/sɪntʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A simple saddle girth used in Mexico.
+  - text: Something that is very easy to do.
+    example: No problem. It's a cinch.
+  - text: A firm hold.
+- pos: verb
+  defs:
+  - text: To bring to certain conclusion.
+  - text: To tighten down.
 ---
-

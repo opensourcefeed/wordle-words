@@ -1,7 +1,73 @@
 ---
 layout: word
-title: value
+title: Is VALUE a Wordle Word?
+head_title: 'Is VALUE a Wordle Word? Yes – Past Answer #1050 & Meaning'
 word: value
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvæljuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The quality (positive or negative) that renders something desirable or valuable.<p><strong>Example:</strong> The Shakespearean Shylock is of dubious value in the modern world.</p></li><li><strong>Definition 2:</strong> The degree of importance given to something.<p><strong>Example:</strong> The value of my children's happiness is second only to that of my wife.</p></li><li><strong>Definition 3:</strong> That which is valued or highly esteemed, such as one's morals, morality, or belief system.<p><strong>Example:</strong> He does not share his parents' values.</p></li><li><strong>Definition 4:</strong> The amount (of money or goods or services) that is considered to be a fair equivalent for something else.</li><li><strong>Definition 5:</strong> The relative duration of a musical note.<p><strong>Example:</strong> The value of a crotchet is twice that of a quaver.</p></li><li><strong>Definition 6:</strong> The relative darkness or lightness of a color in (a specific area of) a painting etc.</li><li><strong>Definition 7:</strong> Any definite numerical quantity or other mathematical object, determined by being measured, computed, or otherwise defined.<p><strong>Example:</strong> The exact value of pi cannot be represented in decimal notation.</p></li><li><strong>Definition 8:</strong> Precise meaning; import.<p><strong>Example:</strong> the value of a word; the value of a legal instrument</p></li><li><strong>Definition 9:</strong> (in the plural) The valuable ingredients to be obtained by treating a mass or compound; specifically, the precious metals contained in rock, gravel, etc.<p><strong>Example:</strong> The vein carries good values.</p></li><li><strong>Definition 10:</strong> Esteem; regard.</li><li><strong>Definition 11:</strong> Valour; also spelled valew.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To estimate the value of; judge the worth of something.<p><strong>Example:</strong> I will have the family jewels valued by a professional.</p></li><li><strong>Definition 2:</strong> To fix or determine the value of; assign a value to, as of jewelry or art work.</li><li><strong>Definition 3:</strong> To regard highly; think much of; place importance upon.<p><strong>Example:</strong> Gold was valued highly among the Romans.</p></li><li><strong>Definition 4:</strong> To hold dear.<p><strong>Example:</strong> I value these old photographs.</p></li></ul></div></div>"
+description: Yes, VALUE is a valid Wordle word. It was the Wordle answer on May 4,
+  2024 (#1050). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 4, 2024 (#1050).
+past_answers:
+- date: '2024-05-04'
+  number: 1050
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- vague
+- valve
+- salue
+- valse
+anagrams:
+- uveal
+phonetic: "/ˈvæljuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: The quality (positive or negative) that renders something desirable or valuable.
+    example: The Shakespearean Shylock is of dubious value in the modern world.
+  - text: The degree of importance given to something.
+    example: The value of my children's happiness is second only to that of my wife.
+  - text: That which is valued or highly esteemed, such as one's morals, morality,
+      or belief system.
+    example: He does not share his parents' values.
+  - text: The amount (of money or goods or services) that is considered to be a fair
+      equivalent for something else.
+  - text: The relative duration of a musical note.
+    example: The value of a crotchet is twice that of a quaver.
+  - text: The relative darkness or lightness of a color in (a specific area of) a
+      painting etc.
+  - text: Any definite numerical quantity or other mathematical object, determined
+      by being measured, computed, or otherwise defined.
+    example: The exact value of pi cannot be represented in decimal notation.
+  - text: Precise meaning; import.
+    example: the value of a word; the value of a legal instrument
+  - text: "(in the plural) The valuable ingredients to be obtained by treating a mass
+      or compound; specifically, the precious metals contained in rock, gravel, etc."
+    example: The vein carries good values.
+  - text: Esteem; regard.
+  - text: Valour; also spelled valew.
+- pos: verb
+  defs:
+  - text: To estimate the value of; judge the worth of something.
+    example: I will have the family jewels valued by a professional.
+  - text: To fix or determine the value of; assign a value to, as of jewelry or art
+      work.
+  - text: To regard highly; think much of; place importance upon.
+    example: Gold was valued highly among the Romans.
+  - text: To hold dear.
+    example: I value these old photographs.
 ---
-

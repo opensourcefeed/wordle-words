@@ -1,7 +1,50 @@
 ---
 layout: word
-title: vexes
+title: Is VEXES a Wordle Word?
+head_title: Is VEXES a Wordle Word? Yes – Valid Guess & Meaning
 word: vexes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trouble aggressively, to harass.</li><li><strong>Definition 2:</strong> To annoy, irritate.</li><li><strong>Definition 3:</strong> To cause (mental) suffering to; to distress.</li><li><strong>Definition 4:</strong> To twist, to weave.</li><li><strong>Definition 5:</strong> To be irritated; to fret.</li><li><strong>Definition 6:</strong> To toss back and forth; to agitate; to disquiet.</li></ul></div></div>"
+description: Yes, VEXES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- dexes
+- hexes
+- kexes
+- lexes
+- rexes
+- sexes
+- texes
+- vaxes
+- veges
+- veles
+- veves
+- vexed
+trap:
+  pattern: _EXES
+  count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: To trouble aggressively, to harass.
+  - text: To annoy, irritate.
+  - text: To cause (mental) suffering to; to distress.
+  - text: To twist, to weave.
+  - text: To be irritated; to fret.
+  - text: To toss back and forth; to agitate; to disquiet.
 ---
-

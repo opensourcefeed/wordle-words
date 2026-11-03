@@ -1,7 +1,74 @@
 ---
 layout: word
-title: chaps
+title: Is CHAPS a Wordle Word?
+head_title: Is CHAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: chaps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃæps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (obsolete outside Britain and Australia) A man, a fellow.<p><strong>Example:</strong> Who’s that chap over there?</p></li><li><strong>Definition 2:</strong> A customer, a buyer.</li><li><strong>Definition 3:</strong> A child.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cleft, crack, or chink, as in the surface of the earth, or in the skin.</li><li><strong>Definition 2:</strong> A division; a breach, as in a party.</li><li><strong>Definition 3:</strong> A blow; a rap.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Of the skin, to split or flake due to cold weather or dryness.</li><li><strong>Definition 2:</strong> To cause to open in slits or chinks; to split; to cause the skin of to crack or become rough.</li><li><strong>Definition 3:</strong> To strike, knock.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (often in the plural) The jaw.</li><li><strong>Definition 2:</strong> One of the jaws or cheeks of a vice, etc.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (authorship) One of the main sections into which the text of a book is divided.<p><strong>Example:</strong> Detective novel writers try to keep up the suspense until the last chapter.</p></li><li><strong>Definition 2:</strong> A section of a social or religious body.</li><li><strong>Definition 3:</strong> A sequence (of events), especially when presumed related and likely to continue.</li><li><strong>Definition 4:</strong> A decretal epistle.</li><li><strong>Definition 5:</strong> A location or compartment.</li></ul></div></div>"
+description: Yes, CHAPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- chaos
+- chads
+- chais
+- chals
+- chams
+- chape
+- chapt
+- chars
+- chats
+- chavs
+- chaws
+- chays
+anagrams:
+- caphs
+- pasch
+trap:
+  pattern: CHA_S
+  count: 11
+phonetic: "/tʃæps/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(obsolete outside Britain and Australia) A man, a fellow."
+    example: Who’s that chap over there?
+  - text: A customer, a buyer.
+  - text: A child.
+- pos: noun
+  defs:
+  - text: A cleft, crack, or chink, as in the surface of the earth, or in the skin.
+  - text: A division; a breach, as in a party.
+  - text: A blow; a rap.
+- pos: verb
+  defs:
+  - text: Of the skin, to split or flake due to cold weather or dryness.
+  - text: To cause to open in slits or chinks; to split; to cause the skin of to crack
+      or become rough.
+  - text: To strike, knock.
+- pos: noun
+  defs:
+  - text: "(often in the plural) The jaw."
+  - text: One of the jaws or cheeks of a vice, etc.
+- pos: noun
+  defs:
+  - text: "(authorship) One of the main sections into which the text of a book is
+      divided."
+    example: Detective novel writers try to keep up the suspense until the last chapter.
+  - text: A section of a social or religious body.
+  - text: A sequence (of events), especially when presumed related and likely to continue.
+  - text: A decretal epistle.
+  - text: A location or compartment.
 ---
-

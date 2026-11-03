@@ -1,7 +1,49 @@
 ---
 layout: word
-title: geans
+title: Is GEANS a Wordle Word?
+head_title: Is GEANS a Wordle Word? Yes – Valid Guess & Meaning
 word: geans
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wild cherry tree, Prunus avium, native to Europe and western Asia or its small, dark fruit.</li></ul></div></div>"
+description: Yes, GEANS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- beans
+- deans
+- geals
+- gears
+- geats
+- glans
+- grans
+- guans
+- gyans
+- jeans
+- leans
+- means
+anagrams:
+- genas
+- nages
+trap:
+  pattern: _EANS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A wild cherry tree, Prunus avium, native to Europe and western Asia or its
+      small, dark fruit.
 ---
-

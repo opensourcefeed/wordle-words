@@ -1,7 +1,53 @@
 ---
 layout: word
-title: dozes
+title: Is DOZES a Wordle Word?
+head_title: Is DOZES a Wordle Word? Yes – Valid Guess & Meaning
 word: dozes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light, short sleep or nap.<p><strong>Example:</strong> I felt much better after a short doze.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sleep lightly or briefly; to nap, snooze.<p><strong>Example:</strong> I didn’t sleep very well, but I think I may have dozed a bit.</p></li><li><strong>Definition 2:</strong> To make dull; to stupefy.</li><li><strong>Definition 3:</strong> To bulldoze.</li></ul></div></div>"
+description: Yes, DOZES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- dozen
+- cozes
+- dazes
+- dobes
+- doges
+- doles
+- domes
+- dopes
+- dores
+- doses
+- dotes
+- doves
+trap:
+  pattern: DO_ES
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A light, short sleep or nap.
+    example: I felt much better after a short doze.
+- pos: verb
+  defs:
+  - text: To sleep lightly or briefly; to nap, snooze.
+    example: I didn’t sleep very well, but I think I may have dozed a bit.
+  - text: To make dull; to stupefy.
+  - text: To bulldoze.
 ---
-

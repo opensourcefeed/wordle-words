@@ -1,7 +1,66 @@
 ---
 layout: word
-title: snout
+title: Is SNOUT a Wordle Word?
+head_title: 'Is SNOUT a Wordle Word? Yes – Past Answer #286 & Meaning'
 word: snout
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /snʌʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The long, projecting nose, mouth, and jaw of a beast, as of pigs.<p><strong>Example:</strong> The pig rooted around in the dirt with its snout.</p></li><li><strong>Definition 2:</strong> The front of the prow of a ship or boat.</li><li><strong>Definition 3:</strong> A person's nose.<p><strong>Example:</strong> His glasses kept slipping further down onto his prominent snout.</p></li><li><strong>Definition 4:</strong> The nozzle of a pipe, hose, etc.<p><strong>Example:</strong> If you place the snout right into the bucket, it won't spray as much.</p></li><li><strong>Definition 5:</strong> The anterior prolongation of the head of a gastropod; a rostrum.</li><li><strong>Definition 6:</strong> The anterior prolongation of the head of weevils and allied beetles; a rostrum.</li><li><strong>Definition 7:</strong> Tobacco; cigarettes.</li><li><strong>Definition 8:</strong> The terminus of a glacier.</li><li><strong>Definition 9:</strong> A police informer.</li><li><strong>Definition 10:</strong> A butterfly in the nymphalid subfamily Libytheinae, notable for the snout-like elongation on their heads.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To furnish with a nozzle or point.</li></ul></div></div>"
+description: Yes, SNOUT is a valid Wordle word. It was the Wordle answer on April
+  1, 2022 (#286). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 1, 2022 (#286).
+past_answers:
+- date: '2022-04-01'
+  number: 286
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- scout
+- shout
+- snort
+- spout
+- stout
+- knout
+- smout
+- snoot
+anagrams:
+- noust
+- nutso
+- stoun
+- tonus
+- touns
+trap:
+  pattern: S_OUT
+  count: 6
+phonetic: "/snʌʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The long, projecting nose, mouth, and jaw of a beast, as of pigs.
+    example: The pig rooted around in the dirt with its snout.
+  - text: The front of the prow of a ship or boat.
+  - text: A person's nose.
+    example: His glasses kept slipping further down onto his prominent snout.
+  - text: The nozzle of a pipe, hose, etc.
+    example: If you place the snout right into the bucket, it won't spray as much.
+  - text: The anterior prolongation of the head of a gastropod; a rostrum.
+  - text: The anterior prolongation of the head of weevils and allied beetles; a rostrum.
+  - text: Tobacco; cigarettes.
+  - text: The terminus of a glacier.
+  - text: A police informer.
+  - text: A butterfly in the nymphalid subfamily Libytheinae, notable for the snout-like
+      elongation on their heads.
+- pos: verb
+  defs:
+  - text: To furnish with a nozzle or point.
 ---
-

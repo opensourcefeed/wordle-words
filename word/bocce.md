@@ -1,7 +1,37 @@
 ---
 layout: word
-title: bocce
+title: Is BOCCE a Wordle Word?
+head_title: Is BOCCE a Wordle Word? Yes – Valid Guess & Meaning
 word: bocce
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɑtʃi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A game, similar to bowls or pétanque, played on a long, narrow, dirt-covered court</li><li><strong>Definition 2:</strong> One of the eight balls that the player throws in a game of bocce.</li></ul></div></div>"
+description: Yes, BOCCE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- bocca
+- bocci
+- boche
+- bonce
+phonetic: "/ˈbɑtʃi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A game, similar to bowls or pétanque, played on a long, narrow, dirt-covered
+      court
+  - text: One of the eight balls that the player throws in a game of bocce.
 ---
-

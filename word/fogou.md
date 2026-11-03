@@ -1,7 +1,32 @@
 ---
 layout: word
-title: fogou
+title: Is FOGOU a Wordle Word?
+head_title: Is FOGOU a Wordle Word? Yes – Valid Guess & Meaning
 word: fogou
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfuː.ɡuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A Cornish souterrain, an underground, dry-stone-walled chamber open on two ends.</li></ul></div></div>"
+description: Yes, FOGOU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- fogos
+phonetic: "/ˈfuː.ɡuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A Cornish souterrain, an underground, dry-stone-walled chamber open on two
+      ends.
 ---
-

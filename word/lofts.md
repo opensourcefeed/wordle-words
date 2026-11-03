@@ -1,7 +1,53 @@
 ---
 layout: word
-title: lofts
+title: Is LOFTS a Wordle Word?
+head_title: Is LOFTS a Wordle Word? Yes – Valid Guess & Meaning
 word: lofts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (except in derivatives) air, the air; the sky, the heavens.</li><li><strong>Definition 2:</strong> An attic or similar space (often used for storage) in the roof of a house or other building.</li><li><strong>Definition 3:</strong> The thickness of a soft object when not under pressure.</li><li><strong>Definition 4:</strong> A gallery or raised apartment in a church, hall, etc.<p><strong>Example:</strong> an organ loft</p></li><li><strong>Definition 5:</strong> The pitch or slope of the face of a golf club (tending to drive the ball upward).</li><li><strong>Definition 6:</strong> A floor or room placed above another.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To propel high into the air.</li><li><strong>Definition 2:</strong> To fly or travel through the air, as though propelled</li><li><strong>Definition 3:</strong> To throw the ball erroneously through the air instead of releasing it on the lane's surface.</li><li><strong>Definition 4:</strong> To furnish with a loft space.</li></ul></div></div>"
+description: Yes, LOFTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- lofty
+- lefts
+- lifts
+- loots
+- louts
+- lowts
+- softs
+- tofts
+definitions:
+- pos: noun
+  defs:
+  - text: "(except in derivatives) air, the air; the sky, the heavens."
+  - text: An attic or similar space (often used for storage) in the roof of a house
+      or other building.
+  - text: The thickness of a soft object when not under pressure.
+  - text: A gallery or raised apartment in a church, hall, etc.
+    example: an organ loft
+  - text: The pitch or slope of the face of a golf club (tending to drive the ball
+      upward).
+  - text: A floor or room placed above another.
+- pos: verb
+  defs:
+  - text: To propel high into the air.
+  - text: To fly or travel through the air, as though propelled
+  - text: To throw the ball erroneously through the air instead of releasing it on
+      the lane's surface.
+  - text: To furnish with a loft space.
 ---
-

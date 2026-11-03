@@ -1,7 +1,42 @@
 ---
 layout: word
-title: rowdy
+title: Is ROWDY a Wordle Word?
+head_title: 'Is ROWDY a Wordle Word? Yes – Past Answer #1522 & Meaning'
 word: rowdy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹaʊdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A boisterous person; a brawler.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Loud and disorderly; riotous; boisterous.</li></ul></div></div>"
+description: Yes, ROWDY is a valid Wordle word. It was the Wordle answer on August
+  19, 2025 (#1522). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 19, 2025 (#1522).
+past_answers:
+- date: '2025-08-19'
+  number: 1522
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- dowdy
+- howdy
+- rawdy
+- roady
+anagrams:
+- dowry
+- wordy
+phonetic: "/ˈɹaʊdi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A boisterous person; a brawler.
+- pos: adjective
+  defs:
+  - text: Loud and disorderly; riotous; boisterous.
 ---
-

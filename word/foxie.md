@@ -1,7 +1,58 @@
 ---
 layout: word
-title: foxie
+title: Is FOXIE a Wordle Word?
+head_title: Is FOXIE a Wordle Word? Yes – Valid Guess & Meaning
 word: foxie
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A red fox, small carnivore (Vulpes vulpes), related to dogs and wolves, with red or silver fur and a bushy tail.<p><strong>Example:</strong> The quick brown fox jumps over the lazy dog.</p></li><li><strong>Definition 2:</strong> Any of numerous species of small wild canids resembling the red fox. In the taxonomy they form the tribe Vulpini within the family Canidae, consisting of nine genera (see the Wikipedia article on the fox).</li><li><strong>Definition 3:</strong> The fur of a fox.</li><li><strong>Definition 4:</strong> A fox terrier.</li><li><strong>Definition 5:</strong> The gemmeous dragonet, a fish, Callionymus lyra, so called from its yellow color.</li><li><strong>Definition 6:</strong> A cunning person.</li><li><strong>Definition 7:</strong> A physically attractive man or woman.</li><li><strong>Definition 8:</strong> A small strand of rope made by twisting several rope-yarns together. Used for seizings, mats, sennits, and gaskets.</li><li><strong>Definition 9:</strong> A wedge driven into the split end of a bolt to tighten it.</li><li><strong>Definition 10:</strong> A hidden radio transmitter, finding which is the goal of radiosport.</li><li><strong>Definition 11:</strong> The fourteenth Lenormand card.</li><li><strong>Definition 12:</strong> A sword; so called from the stamp of a fox on the blade, or perhaps of a wolf taken for a fox.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Fox terrier</li></ul></div></div>"
+description: Yes, FOXIE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- doxie
+- fixie
+- fogie
+- folie
+- moxie
+definitions:
+- pos: noun
+  defs:
+  - text: A red fox, small carnivore (Vulpes vulpes), related to dogs and wolves,
+      with red or silver fur and a bushy tail.
+    example: The quick brown fox jumps over the lazy dog.
+  - text: Any of numerous species of small wild canids resembling the red fox. In
+      the taxonomy they form the tribe Vulpini within the family Canidae, consisting
+      of nine genera (see the Wikipedia article on the fox).
+  - text: The fur of a fox.
+  - text: A fox terrier.
+  - text: The gemmeous dragonet, a fish, Callionymus lyra, so called from its yellow
+      color.
+  - text: A cunning person.
+  - text: A physically attractive man or woman.
+  - text: A small strand of rope made by twisting several rope-yarns together. Used
+      for seizings, mats, sennits, and gaskets.
+  - text: A wedge driven into the split end of a bolt to tighten it.
+  - text: A hidden radio transmitter, finding which is the goal of radiosport.
+  - text: The fourteenth Lenormand card.
+  - text: A sword; so called from the stamp of a fox on the blade, or perhaps of a
+      wolf taken for a fox.
+- pos: noun
+  defs:
+  - text: Fox terrier
 ---
-

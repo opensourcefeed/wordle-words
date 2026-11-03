@@ -1,7 +1,46 @@
 ---
 layout: word
-title: vista
+title: Is VISTA a Wordle Word?
+head_title: Is VISTA a Wordle Word? Yes – Possible Answer & Meaning
 word: vista
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈviːstə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A distant view or prospect, especially one seen through some opening, avenue or passage.</li><li><strong>Definition 2:</strong> A site offering such a view.</li><li><strong>Definition 3:</strong> A vision; a view presented to the mind in prospect or in retrospect by the imagination.<p><strong>Example:</strong> a vista of pleasure to come</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a vista or landscape of.</li></ul></div></div>"
+description: Yes, VISTA is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- sista
+- vesta
+- visna
+- visto
+- vitta
+anagrams:
+- vitas
+phonetic: "/ˈviːstə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A distant view or prospect, especially one seen through some opening, avenue
+      or passage.
+  - text: A site offering such a view.
+  - text: A vision; a view presented to the mind in prospect or in retrospect by the
+      imagination.
+    example: a vista of pleasure to come
+- pos: verb
+  defs:
+  - text: To make a vista or landscape of.
 ---
-

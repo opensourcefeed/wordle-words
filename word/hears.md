@@ -1,7 +1,65 @@
 ---
 layout: word
-title: hears
+title: Is HEARS a Wordle Word?
+head_title: Is HEARS a Wordle Word? Yes – Valid Guess & Meaning
 word: hears
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɪə(ɹ)z/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (stative) To perceive sounds through the ear.<p><strong>Example:</strong> I was deaf, and now I can hear.</p></li><li><strong>Definition 2:</strong> (stative) To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way.<p><strong>Example:</strong> I heard a sound from outside the window.</p></li><li><strong>Definition 3:</strong> To exercise this faculty intentionally; to listen to.</li><li><strong>Definition 4:</strong> To listen favourably to; to grant (a request etc.).<p><strong>Example:</strong> Eventually the king chose to hear her entreaties.</p></li><li><strong>Definition 5:</strong> To receive information about; to come to learn of.</li><li><strong>Definition 6:</strong> (with from) To be contacted by.</li><li><strong>Definition 7:</strong> To listen to (a person, case) in a court of law; to try.<p><strong>Example:</strong> Your case will be heard at the end of the month.</p></li><li><strong>Definition 8:</strong> To sympathize with; to understand the feelings or opinion of.<p><strong>Example:</strong> You're tired of all the ads on TV? I hear ya.</p></li></ul></div></div>"
+description: Yes, HEARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- heard
+- heart
+- bears
+- dears
+- fears
+- gears
+- haars
+- heads
+- heals
+- heaps
+- heare
+- heats
+anagrams:
+- share
+- shear
+- hares
+- rheas
+trap:
+  pattern: _EARS
+  count: 13
+phonetic: "/hɪə(ɹ)z/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(stative) To perceive sounds through the ear."
+    example: I was deaf, and now I can hear.
+  - text: "(stative) To perceive (a sound, or something producing a sound) with the
+      ear, to recognize (something) in an auditory way."
+    example: I heard a sound from outside the window.
+  - text: To exercise this faculty intentionally; to listen to.
+  - text: To listen favourably to; to grant (a request etc.).
+    example: Eventually the king chose to hear her entreaties.
+  - text: To receive information about; to come to learn of.
+  - text: "(with from) To be contacted by."
+  - text: To listen to (a person, case) in a court of law; to try.
+    example: Your case will be heard at the end of the month.
+  - text: To sympathize with; to understand the feelings or opinion of.
+    example: You're tired of all the ads on TV? I hear ya.
 ---
-

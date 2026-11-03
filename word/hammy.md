@@ -1,7 +1,45 @@
 ---
 layout: word
-title: hammy
+title: Is HAMMY a Wordle Word?
+head_title: Is HAMMY a Wordle Word? Yes – Valid Guess & Meaning
 word: hammy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling or characteristic of ham.</li><li><strong>Definition 2:</strong> Amateurish; characterized by overacting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the great tendons situated in each side of the ham, or space back of the knee, and connected with the muscles of the back of the thigh.</li><li><strong>Definition 2:</strong> The biceps femoris, semimembranosus, and semitendinosus muscles.</li></ul></div></div>"
+description: Yes, HAMMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - M
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- mammy
+- bammy
+- gammy
+- jammy
+- lammy
+- rammy
+- sammy
+- tammy
+trap:
+  pattern: _AMMY
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of ham.
+  - text: Amateurish; characterized by overacting.
+- pos: noun
+  defs:
+  - text: One of the great tendons situated in each side of the ham, or space back
+      of the knee, and connected with the muscles of the back of the thigh.
+  - text: The biceps femoris, semimembranosus, and semitendinosus muscles.
 ---
-

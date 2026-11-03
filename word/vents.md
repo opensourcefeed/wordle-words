@@ -1,7 +1,81 @@
 ---
 layout: word
-title: vents
+title: Is VENTS a Wordle Word?
+head_title: Is VENTS a Wordle Word? Yes – Valid Guess & Meaning
 word: vents
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An opening through which gases, especially air, can pass.<p><strong>Example:</strong> the vent of a cask; the vent of a mould</p></li><li><strong>Definition 2:</strong> A small aperture.</li><li><strong>Definition 3:</strong> The opening of a volcano from which lava flows.</li><li><strong>Definition 4:</strong> A verbalized frustration.</li><li><strong>Definition 5:</strong> The excretory opening of lower orders of vertebrates.</li><li><strong>Definition 6:</strong> A slit in the seam of a garment.</li><li><strong>Definition 7:</strong> The opening at the breech of a firearm, through which fire is communicated to the powder of the charge; touchhole.</li><li><strong>Definition 8:</strong> In steam boilers, a sectional area of the passage for gases divided by the length of the same passage in feet.</li><li><strong>Definition 9:</strong> Opportunity of escape or passage from confinement or privacy; outlet.</li><li><strong>Definition 10:</strong> Emission; escape; passage to notice or expression; publication; utterance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To allow gases to escape.<p><strong>Example:</strong> The stove vents to the outside.</p></li><li><strong>Definition 2:</strong> To allow to escape through a vent.<p><strong>Example:</strong> Exhaust is vented to the outside.</p></li><li><strong>Definition 3:</strong> To express a strong emotion.<p><strong>Example:</strong> Can we talk? I need to vent.</p></li><li><strong>Definition 4:</strong> To snuff; to breathe or puff out; to snort.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Ventriloquism.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sell; to vend.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A baiting place; an inn.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Ventilation or ventilator.<p><strong>Example:</strong> I have adjusted the vent settings.</p></li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ventilate; to use a ventilator; to use ventilation.</li></ul></div></div>"
+description: Yes, VENTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- bents
+- cents
+- dents
+- fents
+- gents
+- hents
+- kents
+- ments
+- pents
+- rents
+- sents
+- tents
+trap:
+  pattern: _ENTS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: An opening through which gases, especially air, can pass.
+    example: the vent of a cask; the vent of a mould
+  - text: A small aperture.
+  - text: The opening of a volcano from which lava flows.
+  - text: A verbalized frustration.
+  - text: The excretory opening of lower orders of vertebrates.
+  - text: A slit in the seam of a garment.
+  - text: The opening at the breech of a firearm, through which fire is communicated
+      to the powder of the charge; touchhole.
+  - text: In steam boilers, a sectional area of the passage for gases divided by the
+      length of the same passage in feet.
+  - text: Opportunity of escape or passage from confinement or privacy; outlet.
+  - text: Emission; escape; passage to notice or expression; publication; utterance.
+- pos: verb
+  defs:
+  - text: To allow gases to escape.
+    example: The stove vents to the outside.
+  - text: To allow to escape through a vent.
+    example: Exhaust is vented to the outside.
+  - text: To express a strong emotion.
+    example: Can we talk? I need to vent.
+  - text: To snuff; to breathe or puff out; to snort.
+- pos: noun
+  defs:
+  - text: Ventriloquism.
+- pos: verb
+  defs:
+  - text: To sell; to vend.
+- pos: noun
+  defs:
+  - text: A baiting place; an inn.
+- pos: noun
+  defs:
+  - text: Ventilation or ventilator.
+    example: I have adjusted the vent settings.
+- pos: verb
+  defs:
+  - text: To ventilate; to use a ventilator; to use ventilation.
 ---
-

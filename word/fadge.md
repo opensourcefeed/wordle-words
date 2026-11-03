@@ -1,7 +1,45 @@
 ---
 layout: word
-title: fadge
+title: Is FADGE a Wordle Word?
+head_title: Is FADGE a Wordle Word? Yes – Valid Guess & Meaning
 word: fadge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be suitable (with or to something).</li><li><strong>Definition 2:</strong> To agree, to get along (with).</li><li><strong>Definition 3:</strong> To get on well; to cope, to thrive.</li><li><strong>Definition 4:</strong> To eat together.</li><li><strong>Definition 5:</strong> (of a horse) To move with a gait between a jog and a trot.</li></ul></div></div>"
+description: Yes, FADGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- badge
+- fudge
+- cadge
+- fidge
+- gadge
+- madge
+- radge
+- vadge
+- wadge
+trap:
+  pattern: _ADGE
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To be suitable (with or to something).
+  - text: To agree, to get along (with).
+  - text: To get on well; to cope, to thrive.
+  - text: To eat together.
+  - text: "(of a horse) To move with a gait between a jog and a trot."
 ---
-

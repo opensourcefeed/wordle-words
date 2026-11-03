@@ -1,7 +1,56 @@
 ---
 layout: word
-title: yoked
+title: Is YOKED a Wordle Word?
+head_title: Is YOKED a Wordle Word? Yes – Valid Guess & Meaning
 word: yoked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To link or to join.</li><li><strong>Definition 2:</strong> To unite, to connect.</li><li><strong>Definition 3:</strong> To enslave; to bring into bondage; to restrain; to confine.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Wearing a yoke.<p><strong>Example:</strong> The yoked oxen stood ready.</p></li><li><strong>Definition 2:</strong> Having large and well-defined muscles particularly at the neck and the trapezii (forming thus the “yoke“).<p><strong>Example:</strong> By the end of his fourth year of weight-lifting, Lee was yoked.</p></li><li><strong>Definition 3:</strong> Married.<p><strong>Example:</strong> They got yoked four years ago.</p></li></ul></div></div>"
+description: Yes, YOKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- boked
+- coked
+- hoked
+- joked
+- poked
+- roked
+- toked
+- yiked
+- yokeg
+- yokel
+- yoker
+- yokes
+trap:
+  pattern: _OKED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To link or to join.
+  - text: To unite, to connect.
+  - text: To enslave; to bring into bondage; to restrain; to confine.
+- pos: adjective
+  defs:
+  - text: Wearing a yoke.
+    example: The yoked oxen stood ready.
+  - text: Having large and well-defined muscles particularly at the neck and the trapezii
+      (forming thus the “yoke“).
+    example: By the end of his fourth year of weight-lifting, Lee was yoked.
+  - text: Married.
+    example: They got yoked four years ago.
 ---
-

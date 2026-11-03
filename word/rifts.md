@@ -1,7 +1,61 @@
 ---
 layout: word
-title: rifts
+title: Is RIFTS a Wordle Word?
+head_title: Is RIFTS a Wordle Word? Yes – Valid Guess & Meaning
 word: rifts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A chasm or fissure.<p><strong>Example:</strong> My marriage is in trouble: the fight created a rift between us and we can't reconnect.</p></li><li><strong>Definition 2:</strong> A break in the clouds, fog, mist etc., which allows light through.</li><li><strong>Definition 3:</strong> A shallow place in a stream; a ford.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form a rift; to split open.</li><li><strong>Definition 2:</strong> To cleave; to rive; to split.<p><strong>Example:</strong> to rift an oak</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (obsolete outside Scotland and northern Britain) To belch.</li></ul></div></div>"
+description: Yes, RIFTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- gifts
+- lifts
+- rafts
+- riffs
+- rifte
+- rifty
+- riots
+- rists
+- ritts
+- sifts
+- tifts
+- wifts
+anagrams:
+- first
+- frist
+- frits
+trap:
+  pattern: _IFTS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A chasm or fissure.
+    example: 'My marriage is in trouble: the fight created a rift between us and we
+      can''t reconnect.'
+  - text: A break in the clouds, fog, mist etc., which allows light through.
+  - text: A shallow place in a stream; a ford.
+- pos: verb
+  defs:
+  - text: To form a rift; to split open.
+  - text: To cleave; to rive; to split.
+    example: to rift an oak
+- pos: verb
+  defs:
+  - text: "(obsolete outside Scotland and northern Britain) To belch."
 ---
-

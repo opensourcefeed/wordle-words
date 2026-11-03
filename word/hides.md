@@ -1,7 +1,72 @@
 ---
 layout: word
-title: hides
+title: Is HIDES a Wordle Word?
+head_title: Is HIDES a Wordle Word? Yes – Valid Guess & Meaning
 word: hides
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /haɪdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put (something) in a place where it will be harder to discover or out of sight.<p><strong>Example:</strong> He hides his magazines under the bed.</p></li><li><strong>Definition 2:</strong> To put oneself in a place where one will be harder to find or out of sight.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The skin of an animal.</li><li><strong>Definition 2:</strong> The human skin.</li><li><strong>Definition 3:</strong> (usually United States) One's own life or personal safety, especially when in peril.</li><li><strong>Definition 4:</strong> (mainly British) A covered structure from which hunters, birdwatchers, etc can observe animals without scaring them.</li><li><strong>Definition 5:</strong> A secret room for hiding oneself or valuables; a hideaway.</li><li><strong>Definition 6:</strong> A covered structure to which a pet animal can retreat, as is recommended for snakes.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To beat with a whip made from hide.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A unit of land and tax assessment of varying size, originally as intended to support one household with dependents.</li></ul></div></div>"
+description: Yes, HIDES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- aides
+- bides
+- cides
+- fides
+- hades
+- hided
+- hider
+- hikes
+- hipes
+- hires
+- hives
+- nides
+anagrams:
+- shied
+- deshi
+- heids
+- sidhe
+trap:
+  pattern: _IDES
+  count: 10
+phonetic: "/haɪdz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To put (something) in a place where it will be harder to discover or out
+      of sight.
+    example: He hides his magazines under the bed.
+  - text: To put oneself in a place where one will be harder to find or out of sight.
+- pos: noun
+  defs:
+  - text: The skin of an animal.
+  - text: The human skin.
+  - text: "(usually United States) One's own life or personal safety, especially when
+      in peril."
+  - text: "(mainly British) A covered structure from which hunters, birdwatchers,
+      etc can observe animals without scaring them."
+  - text: A secret room for hiding oneself or valuables; a hideaway.
+  - text: A covered structure to which a pet animal can retreat, as is recommended
+      for snakes.
+- pos: verb
+  defs:
+  - text: To beat with a whip made from hide.
+- pos: noun
+  defs:
+  - text: A unit of land and tax assessment of varying size, originally as intended
+      to support one household with dependents.
 ---
-

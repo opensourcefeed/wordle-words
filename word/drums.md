@@ -1,7 +1,52 @@
 ---
 layout: word
-title: drums
+title: Is DRUMS a Wordle Word?
+head_title: Is DRUMS a Wordle Word? Yes – Valid Guess & Meaning
 word: drums
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹʌmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A percussive musical instrument spanned with a thin covering on at least one end for striking, forming an acoustic chamber, affecting what materials are used to make it; a membranophone.</li><li><strong>Definition 2:</strong> Any similar hollow, cylindrical object.<p><strong>Example:</strong> Replace the drum unit of your printer.</p></li><li><strong>Definition 3:</strong> A barrel or large cylindrical container for liquid transport and storage.<p><strong>Example:</strong> The restaurant ordered ketchup in 50-gallon drums.</p></li><li><strong>Definition 4:</strong> The encircling wall that supports a dome or cupola.</li><li><strong>Definition 5:</strong> Any of the cylindrical blocks that make up the shaft of a pillar.</li><li><strong>Definition 6:</strong> A drumfish (family Sciaenidae).</li><li><strong>Definition 7:</strong> A tip; a piece of information.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small hill or ridge of hills.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A social gathering or assembly held in the evening.</li><li><strong>Definition 2:</strong> A person's home; a house or other building, especially when insalubrious; a tavern, a brothel.</li></ul></div></div>"
+description: Yes, DRUMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- arums
+- doums
+- drams
+- drubs
+- drugs
+phonetic: "/dɹʌmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A percussive musical instrument spanned with a thin covering on at least
+      one end for striking, forming an acoustic chamber, affecting what materials
+      are used to make it; a membranophone.
+  - text: Any similar hollow, cylindrical object.
+    example: Replace the drum unit of your printer.
+  - text: A barrel or large cylindrical container for liquid transport and storage.
+    example: The restaurant ordered ketchup in 50-gallon drums.
+  - text: The encircling wall that supports a dome or cupola.
+  - text: Any of the cylindrical blocks that make up the shaft of a pillar.
+  - text: A drumfish (family Sciaenidae).
+  - text: A tip; a piece of information.
+- pos: noun
+  defs:
+  - text: A small hill or ridge of hills.
+- pos: noun
+  defs:
+  - text: A social gathering or assembly held in the evening.
+  - text: A person's home; a house or other building, especially when insalubrious;
+      a tavern, a brothel.
 ---
-

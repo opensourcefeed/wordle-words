@@ -1,7 +1,54 @@
 ---
 layout: word
-title: rotas
+title: Is ROTAS a Wordle Word?
+head_title: Is ROTAS a Wordle Word? Yes – Valid Guess & Meaning
 word: rotas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A schedule that allocates some task, responsibility or (rarely) privilege between a set of people according to a (possibly periodic) calendar.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind of zither, played like a guitar, used in the Middle Ages in church music.</li></ul></div></div>"
+description: Yes, ROTAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - T
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- botas
+- iotas
+- jotas
+- lotas
+- ratas
+- rotal
+- rotan
+- rotes
+- rotis
+- rotls
+- rotos
+anagrams:
+- roast
+- ratos
+- sorta
+- taros
+- toras
+definitions:
+- pos: noun
+  defs:
+  - text: A schedule that allocates some task, responsibility or (rarely) privilege
+      between a set of people according to a (possibly periodic) calendar.
+- pos: noun
+  defs:
+  - text: A kind of zither, played like a guitar, used in the Middle Ages in church
+      music.
 ---
-

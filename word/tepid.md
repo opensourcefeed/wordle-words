@@ -1,7 +1,39 @@
 ---
 layout: word
-title: tepid
+title: Is TEPID a Wordle Word?
+head_title: 'Is TEPID a Wordle Word? Yes – Past Answer #527 & Meaning'
 word: tepid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtɛpɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Lukewarm; neither warm nor cool.<p><strong>Example:</strong> I'm drinking a cup of tepid water.</p></li><li><strong>Definition 2:</strong> Uninterested; exhibiting little passion or eagerness.<p><strong>Example:</strong> He gave me a tepid response to the proposal.</p></li></ul></div></div>"
+description: Yes, TEPID is a valid Wordle word. It was the Wordle answer on November
+  28, 2022 (#527). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 28, 2022 (#527).
+past_answers:
+- date: '2022-11-28'
+  number: 527
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- lepid
+- teiid
+phonetic: "/ˈtɛpɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Lukewarm; neither warm nor cool.
+    example: I'm drinking a cup of tepid water.
+  - text: Uninterested; exhibiting little passion or eagerness.
+    example: He gave me a tepid response to the proposal.
 ---
-

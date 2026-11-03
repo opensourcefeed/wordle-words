@@ -1,7 +1,66 @@
 ---
 layout: word
-title: baths
+title: Is BATHS a Wordle Word?
+head_title: Is BATHS a Wordle Word? Yes – Valid Guess & Meaning
 word: baths
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɑːðz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tub or pool which is used for bathing: bathtub.</li><li><strong>Definition 2:</strong> A building or area where bathing occurs.</li><li><strong>Definition 3:</strong> The act of bathing.</li><li><strong>Definition 4:</strong> A substance or preparation in which something is immersed.<p><strong>Example:</strong> a bath of heated sand, ashes, steam, or hot air</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To wash a person or animal in a bath</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A former Hebrew unit of liquid volume (about 23 L or 6 gallons).</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A room containing a shower and/or bathtub, and (typically but not necessarily) a toilet.</li><li><strong>Definition 2:</strong> A lavatory: a room containing a toilet and (typically but not necessarily) a bathtub.<p><strong>Example:</strong> Most Americans don't know 'WC' and many Brits mock 'bathroom' but almost everyone understands 'toilet' or 'lavatory'.</p></li></ul></div></div>"
+description: Yes, BATHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- bathe
+- bachs
+- baghs
+- bates
+- batos
+- batts
+- beths
+- gaths
+- laths
+- maths
+- oaths
+- paths
+anagrams:
+- bahts
+- bhats
+trap:
+  pattern: _ATHS
+  count: 8
+phonetic: "/bɑːðz/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A tub or pool which is used for bathing: bathtub.'
+  - text: A building or area where bathing occurs.
+  - text: The act of bathing.
+  - text: A substance or preparation in which something is immersed.
+    example: a bath of heated sand, ashes, steam, or hot air
+- pos: verb
+  defs:
+  - text: To wash a person or animal in a bath
+- pos: noun
+  defs:
+  - text: A former Hebrew unit of liquid volume (about 23 L or 6 gallons).
+- pos: noun
+  defs:
+  - text: A room containing a shower and/or bathtub, and (typically but not necessarily)
+      a toilet.
+  - text: 'A lavatory: a room containing a toilet and (typically but not necessarily)
+      a bathtub.'
+    example: Most Americans don't know 'WC' and many Brits mock 'bathroom' but almost
+      everyone understands 'toilet' or 'lavatory'.
 ---
-

@@ -1,7 +1,96 @@
 ---
 layout: word
-title: belts
+title: Is BELTS a Wordle Word?
+head_title: Is BELTS a Wordle Word? Yes – Valid Guess & Meaning
 word: belts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɛlts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.<p><strong>Example:</strong> As part of the act, the fat clown's belt broke, causing his pants to fall down.</p></li><li><strong>Definition 2:</strong> A band used as a restraint for safety purposes, such as a seat belt.<p><strong>Example:</strong> Keep your belt fastened; this is going to be quite a bumpy ride.</p></li><li><strong>Definition 3:</strong> A band that is used in a machine to help transfer motion or power.<p><strong>Example:</strong> The motor had a single belt that snaked its way back and forth around a variety of wheels.</p></li><li><strong>Definition 4:</strong> Anything that resembles a belt, or that encircles or crosses like a belt; a strip or stripe.<p><strong>Example:</strong> a belt of trees; a belt of sand</p></li><li><strong>Definition 5:</strong> A trophy in the shape of a belt, generally awarded for martial arts.<p><strong>Example:</strong> the heavyweight belt</p></li><li><strong>Definition 6:</strong> A collection of rocky-constituted bodies (such as asteroids) which orbit a star.</li><li><strong>Definition 7:</strong> One of certain girdles or zones on the surface of the planets Jupiter and Saturn, supposed to be of the nature of clouds.</li><li><strong>Definition 8:</strong> A powerful blow, often made with a fist or heavy object.<p><strong>Example:</strong> After the bouncer gave him a solid belt to the gut, Simon had suddenly had enough of barfighting.</p></li><li><strong>Definition 9:</strong> A quick drink of liquor.<p><strong>Example:</strong> Care to join me in a belt of scotch?</p></li><li><strong>Definition 10:</strong> (usually capitalized) A geographical region known for a particular product, feature or demographic (Corn Belt, Bible Belt, Black Belt, Green Belt).</li><li><strong>Definition 11:</strong> The part of the strike zone at the height of the batter's waist.<p><strong>Example:</strong> That umpire called that pitch a strike at the belt.</p></li><li><strong>Definition 12:</strong> Device that holds and feeds cartridges into a belt-fed weapon</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To encircle.<p><strong>Example:</strong> The small town was belted by cornfields in all directions.</p></li><li><strong>Definition 2:</strong> To fasten a belt on.<p><strong>Example:</strong> Edgar belted himself in and turned the car's ignition.</p></li><li><strong>Definition 3:</strong> To invest (a person) with a belt as part of a formal ceremony such as knighthood.</li><li><strong>Definition 4:</strong> To hit with a belt.<p><strong>Example:</strong> The child was misbehaving so he was belted as punishment.</p></li><li><strong>Definition 5:</strong> To scream or sing in a loud manner.<p><strong>Example:</strong> He belted out the national anthem.</p></li><li><strong>Definition 6:</strong> To drink quickly, often in gulps.<p><strong>Example:</strong> He belted down a shot of whisky.</p></li><li><strong>Definition 7:</strong> To hit someone or something.<p><strong>Example:</strong> The angry player belted the official across the face, and as a result was ejected from the game.</p></li><li><strong>Definition 8:</strong> To hit a pitched ball a long distance, usually for a home run.<p><strong>Example:</strong> He belted that pitch over the grandstand.</p></li><li><strong>Definition 9:</strong> To move very fast<p><strong>Example:</strong> He was really belting along.</p></li></ul></div></div>"
+description: Yes, BELTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- beats
+- beets
+- bells
+- bents
+- bests
+- bolts
+- celts
+- delts
+- felts
+- gelts
+- kelts
+- melts
+anagrams:
+- blest
+- blets
+trap:
+  pattern: _ELTS
+  count: 10
+phonetic: "/bɛlts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A band worn around the waist to hold clothing to one's body (usually pants),
+      hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.
+    example: As part of the act, the fat clown's belt broke, causing his pants to
+      fall down.
+  - text: A band used as a restraint for safety purposes, such as a seat belt.
+    example: Keep your belt fastened; this is going to be quite a bumpy ride.
+  - text: A band that is used in a machine to help transfer motion or power.
+    example: The motor had a single belt that snaked its way back and forth around
+      a variety of wheels.
+  - text: Anything that resembles a belt, or that encircles or crosses like a belt;
+      a strip or stripe.
+    example: a belt of trees; a belt of sand
+  - text: A trophy in the shape of a belt, generally awarded for martial arts.
+    example: the heavyweight belt
+  - text: A collection of rocky-constituted bodies (such as asteroids) which orbit
+      a star.
+  - text: One of certain girdles or zones on the surface of the planets Jupiter and
+      Saturn, supposed to be of the nature of clouds.
+  - text: A powerful blow, often made with a fist or heavy object.
+    example: After the bouncer gave him a solid belt to the gut, Simon had suddenly
+      had enough of barfighting.
+  - text: A quick drink of liquor.
+    example: Care to join me in a belt of scotch?
+  - text: "(usually capitalized) A geographical region known for a particular product,
+      feature or demographic (Corn Belt, Bible Belt, Black Belt, Green Belt)."
+  - text: The part of the strike zone at the height of the batter's waist.
+    example: That umpire called that pitch a strike at the belt.
+  - text: Device that holds and feeds cartridges into a belt-fed weapon
+- pos: verb
+  defs:
+  - text: To encircle.
+    example: The small town was belted by cornfields in all directions.
+  - text: To fasten a belt on.
+    example: Edgar belted himself in and turned the car's ignition.
+  - text: To invest (a person) with a belt as part of a formal ceremony such as knighthood.
+  - text: To hit with a belt.
+    example: The child was misbehaving so he was belted as punishment.
+  - text: To scream or sing in a loud manner.
+    example: He belted out the national anthem.
+  - text: To drink quickly, often in gulps.
+    example: He belted down a shot of whisky.
+  - text: To hit someone or something.
+    example: The angry player belted the official across the face, and as a result
+      was ejected from the game.
+  - text: To hit a pitched ball a long distance, usually for a home run.
+    example: He belted that pitch over the grandstand.
+  - text: To move very fast
+    example: He was really belting along.
 ---
-

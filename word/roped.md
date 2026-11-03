@@ -1,7 +1,58 @@
 ---
 layout: word
-title: roped
+title: Is ROPED a Wordle Word?
+head_title: Is ROPED a Wordle Word? Yes – Valid Guess & Meaning
 word: roped
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tie (something) with rope.<p><strong>Example:</strong> The robber roped the victims.</p></li><li><strong>Definition 2:</strong> To throw a rope (or something similar, e.g. a lasso, cable, wire, etc.) around (something).<p><strong>Example:</strong> The cowboy roped the calf.</p></li><li><strong>Definition 3:</strong> To be formed into rope; to draw out or extend into a filament or thread.</li><li><strong>Definition 4:</strong> To commit suicide.<p><strong>Example:</strong> My life is a mess; I might as well rope.</p></li></ul></div></div>"
+description: Yes, ROPED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- coped
+- doped
+- hoped
+- loped
+- moped
+- ooped
+- raped
+- riped
+- robed
+- roded
+- roked
+- roper
+anagrams:
+- doper
+- orped
+- pedro
+- pored
+trap:
+  pattern: _OPED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To tie (something) with rope.
+    example: The robber roped the victims.
+  - text: To throw a rope (or something similar, e.g. a lasso, cable, wire, etc.)
+      around (something).
+    example: The cowboy roped the calf.
+  - text: To be formed into rope; to draw out or extend into a filament or thread.
+  - text: To commit suicide.
+    example: My life is a mess; I might as well rope.
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: blags
+title: Is BLAGS a Wordle Word?
+head_title: Is BLAGS a Wordle Word? Yes – Valid Guess & Meaning
 word: blags
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To obtain (something) for free, particularly by guile or persuasion.<p><strong>Example:</strong> Can I blag a fag?</p></li><li><strong>Definition 2:</strong> (specifically) To obtain confidential information by impersonation or other deception.<p><strong>Example:</strong> The newspaper is accused of blagging details of Gordon Brown's flat purchase from his solicitors.</p></li><li><strong>Definition 3:</strong> To pick up someone.</li><li><strong>Definition 4:</strong> (1960s) To inveigle by persuasion.<p><strong>Example:</strong> He's blagged his way into many a party.</p></li><li><strong>Definition 5:</strong> (1940s) To deceive; to perpetrate a hoax on.</li></ul></div></div>"
+description: Yes, BLAGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- blabs
+- blads
+- blaes
+- blahs
+- blams
+- blats
+- blaws
+- blays
+- blogs
+- brags
+- clags
+- flags
+trap:
+  pattern: BLA_S
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To obtain (something) for free, particularly by guile or persuasion.
+    example: Can I blag a fag?
+  - text: "(specifically) To obtain confidential information by impersonation or other
+      deception."
+    example: The newspaper is accused of blagging details of Gordon Brown's flat purchase
+      from his solicitors.
+  - text: To pick up someone.
+  - text: "(1960s) To inveigle by persuasion."
+    example: He's blagged his way into many a party.
+  - text: "(1940s) To deceive; to perpetrate a hoax on."
 ---
-

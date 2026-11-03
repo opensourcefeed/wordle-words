@@ -1,7 +1,46 @@
 ---
 layout: word
-title: turbo
+title: Is TURBO a Wordle Word?
+head_title: 'Is TURBO a Wordle Word? Yes – Past Answer #1391 & Meaning'
 word: turbo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtɜːbəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Turbocharger.</li><li><strong>Definition 2:</strong> Turbojet.</li><li><strong>Definition 3:</strong> Turbomolecular pump.</li><li><strong>Definition 4:</strong> Autofire.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To autofire.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> With rapidly-increasing blind levels.<p><strong>Example:</strong> This is a turbo tournament: the blinds increase every 5 minutes! Level 1 = 150/300; level 2 = 200/400; etc.</p></li><li><strong>Definition 2:</strong> Causing or relating to increased speed.<p><strong>Example:</strong> a turbo button on a controller; a PC equipped with a turbo mode</p></li></ul></div></div>"
+description: Yes, TURBO is a valid Wordle word. It was the Wordle answer on April
+  10, 2025 (#1391). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 10, 2025 (#1391).
+past_answers:
+- date: '2025-04-10'
+  number: 1391
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+phonetic: "/ˈtɜːbəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Turbocharger.
+  - text: Turbojet.
+  - text: Turbomolecular pump.
+  - text: Autofire.
+- pos: verb
+  defs:
+  - text: To autofire.
+- pos: adjective
+  defs:
+  - text: With rapidly-increasing blind levels.
+    example: 'This is a turbo tournament: the blinds increase every 5 minutes! Level
+      1 = 150/300; level 2 = 200/400; etc.'
+  - text: Causing or relating to increased speed.
+    example: a turbo button on a controller; a PC equipped with a turbo mode
 ---
-

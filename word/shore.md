@@ -1,7 +1,64 @@
 ---
 layout: word
-title: shore
+title: Is SHORE a Wordle Word?
+head_title: 'Is SHORE a Wordle Word? Yes – Past Answer #1152 & Meaning'
 word: shore
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɔː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Land adjoining a non-flowing body of water, such as an ocean, lake or pond.<p><strong>Example:</strong> lake shore;  bay shore;  gulf shore;  island shore;  mainland shore;  river shore;  estuary shore;  pond shore;  sandy shore;  rocky shore</p></li><li><strong>Definition 2:</strong> (from the perspective of one on a body of water) Land, usually near a port.<p><strong>Example:</strong> The passengers signed up for shore tours.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To set on shore.</li></ul></div></div>"
+description: Yes, SHORE is a valid Wordle word. It was the Wordle answer on August
+  14, 2024 (#1152). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 14, 2024 (#1152).
+past_answers:
+- date: '2024-08-14'
+  number: 1152
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- chore
+- score
+- share
+- shire
+- shone
+- shorn
+- short
+- shove
+- snore
+- spore
+- store
+- swore
+anagrams:
+- horse
+- heros
+- hoers
+- hoser
+- rohes
+- shero
+- shoer
+trap:
+  pattern: S_ORE
+  count: 7
+phonetic: "/ʃɔː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Land adjoining a non-flowing body of water, such as an ocean, lake or pond.
+    example: lake shore;  bay shore;  gulf shore;  island shore;  mainland shore; 
+      river shore;  estuary shore;  pond shore;  sandy shore;  rocky shore
+  - text: "(from the perspective of one on a body of water) Land, usually near a port."
+    example: The passengers signed up for shore tours.
+- pos: verb
+  defs:
+  - text: To set on shore.
 ---
-

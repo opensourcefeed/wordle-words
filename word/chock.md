@@ -1,7 +1,55 @@
 ---
 layout: word
-title: chock
+title: Is CHOCK a Wordle Word?
+head_title: 'Is CHOCK a Wordle Word? Yes – Past Answer #1258 & Meaning'
 word: chock
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃɒk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any object used as a wedge or filler, especially when placed behind a wheel to prevent it from rolling.</li><li><strong>Definition 2:</strong> Any fitting or fixture used to restrict movement, especially movement of a line; traditionally was a fixture near a bulwark with two horns pointing towards each other, with a gap between where the line can be inserted.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stop or fasten, as with a wedge, or block; to scotch.</li><li><strong>Definition 2:</strong> To fill up, as a cavity.</li><li><strong>Definition 3:</strong> To insert a line in a chock.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Entirely; quite.</li></ul></div></div>"
+description: Yes, CHOCK is a valid Wordle word. It was the Wordle answer on November
+  28, 2024 (#1258). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 28, 2024 (#1258).
+past_answers:
+- date: '2024-11-28'
+  number: 1258
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- check
+- chick
+- chuck
+- clock
+- crock
+- shock
+- chack
+- choco
+- chocs
+- chook
+- chowk
+phonetic: "/tʃɒk/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any object used as a wedge or filler, especially when placed behind a wheel
+      to prevent it from rolling.
+  - text: Any fitting or fixture used to restrict movement, especially movement of
+      a line; traditionally was a fixture near a bulwark with two horns pointing towards
+      each other, with a gap between where the line can be inserted.
+- pos: verb
+  defs:
+  - text: To stop or fasten, as with a wedge, or block; to scotch.
+  - text: To fill up, as a cavity.
+  - text: To insert a line in a chock.
+- pos: adverb
+  defs:
+  - text: Entirely; quite.
 ---
-

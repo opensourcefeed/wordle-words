@@ -1,7 +1,83 @@
 ---
 layout: word
-title: vails
+title: Is VAILS a Wordle Word?
+head_title: Is VAILS a Wordle Word? Yes – Valid Guess & Meaning
 word: vails
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Profit; return; proceeds.</li><li><strong>Definition 2:</strong> (chiefly in the plural) Money given to servants by visitors; a gratuity; also vale.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Submission.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pay homage, bow, submit, defer (to someone or something); to yield, give way (to something).</li><li><strong>Definition 2:</strong> To remove as a sign of deference, as a hat.</li><li><strong>Definition 3:</strong> To lower, let fall; to allow or cause to sink.</li><li><strong>Definition 4:</strong> (vexillology) (current, operational) To lower or \"dip\" a carried flag or banner in a salute by a forward reducing of the angle of the pike/flagstaff with respect to the ground; in extreme instances, as when saluting a monarch, both the banner and the finial of the pike are allowed to rest upon the ground.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something hung up or spread out to hide or protect the face, or hide an object from view; usually of gauze, crepe, or similar diaphanous material.</li><li><strong>Definition 2:</strong> A cover; disguise; a mask; a pretense.</li><li><strong>Definition 3:</strong> The calyptra of mosses.</li><li><strong>Definition 4:</strong> A membrane connecting the margin of the pileus of a mushroom with the stalk; a velum.</li><li><strong>Definition 5:</strong> A covering for a person or thing; as, a caul (especially over the head)<p><strong>Example:</strong> a nun's veil</p></li><li><strong>Definition 6:</strong> Velum (A circular membrane round the cap of medusa)</li><li><strong>Definition 7:</strong> A thin layer of tissue which is attached to or covers a mushroom.</li><li><strong>Definition 8:</strong> An obscuration of the clearness of the tones in pronunciation.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dress in, or decorate with, a veil.</li><li><strong>Definition 2:</strong> To conceal as with a veil.<p><strong>Example:</strong> The forest fire was veiled by smoke, but I could hear it clearly.</p></li></ul></div></div>"
+description: Yes, VAILS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- bails
+- fails
+- hails
+- jails
+- kails
+- mails
+- nails
+- pails
+- rails
+- sails
+- tails
+- vaids
+anagrams:
+- silva
+- valis
+- vials
+trap:
+  pattern: _AILS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: Profit; return; proceeds.
+  - text: "(chiefly in the plural) Money given to servants by visitors; a gratuity;
+      also vale."
+- pos: noun
+  defs:
+  - text: Submission.
+- pos: verb
+  defs:
+  - text: To pay homage, bow, submit, defer (to someone or something); to yield, give
+      way (to something).
+  - text: To remove as a sign of deference, as a hat.
+  - text: To lower, let fall; to allow or cause to sink.
+  - text: (vexillology) (current, operational) To lower or "dip" a carried flag or
+      banner in a salute by a forward reducing of the angle of the pike/flagstaff
+      with respect to the ground; in extreme instances, as when saluting a monarch,
+      both the banner and the finial of the pike are allowed to rest upon the ground.
+- pos: noun
+  defs:
+  - text: Something hung up or spread out to hide or protect the face, or hide an
+      object from view; usually of gauze, crepe, or similar diaphanous material.
+  - text: A cover; disguise; a mask; a pretense.
+  - text: The calyptra of mosses.
+  - text: A membrane connecting the margin of the pileus of a mushroom with the stalk;
+      a velum.
+  - text: A covering for a person or thing; as, a caul (especially over the head)
+    example: a nun's veil
+  - text: Velum (A circular membrane round the cap of medusa)
+  - text: A thin layer of tissue which is attached to or covers a mushroom.
+  - text: An obscuration of the clearness of the tones in pronunciation.
+- pos: verb
+  defs:
+  - text: To dress in, or decorate with, a veil.
+  - text: To conceal as with a veil.
+    example: The forest fire was veiled by smoke, but I could hear it clearly.
 ---
-

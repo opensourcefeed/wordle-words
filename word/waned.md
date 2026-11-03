@@ -1,7 +1,60 @@
 ---
 layout: word
-title: waned
+title: Is WANED a Wordle Word?
+head_title: Is WANED a Wordle Word? Yes – Valid Guess & Meaning
 word: waned
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To progressively lose its splendor, value, ardor, power, intensity etc.; to decline.</li><li><strong>Definition 2:</strong> Said of light that dims or diminishes in strength.</li><li><strong>Definition 3:</strong> Said of the Moon as it passes through the phases of its monthly cycle where its surface is less and less visible.</li><li><strong>Definition 4:</strong> Said of a time period that comes to an end.</li><li><strong>Definition 5:</strong> To decrease physically in size, amount, numbers or surface.</li><li><strong>Definition 6:</strong> To cause to decrease.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having wanes, i.e. rounded corners caused by lack of wood, often showing bark.</li></ul></div></div>"
+description: Yes, WANED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- baned
+- caned
+- eaned
+- laned
+- maned
+- paned
+- raned
+- saned
+- vaned
+- waded
+- waged
+- waked
+anagrams:
+- awned
+- dawen
+- dewan
+trap:
+  pattern: _ANED
+  count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To progressively lose its splendor, value, ardor, power, intensity etc.;
+      to decline.
+  - text: Said of light that dims or diminishes in strength.
+  - text: Said of the Moon as it passes through the phases of its monthly cycle where
+      its surface is less and less visible.
+  - text: Said of a time period that comes to an end.
+  - text: To decrease physically in size, amount, numbers or surface.
+  - text: To cause to decrease.
+- pos: adjective
+  defs:
+  - text: Having wanes, i.e. rounded corners caused by lack of wood, often showing
+      bark.
 ---
-

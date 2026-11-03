@@ -1,7 +1,41 @@
 ---
 layout: word
-title: holla
+title: Is HOLLA a Wordle Word?
+head_title: Is HOLLA a Wordle Word? Yes – Valid Guess & Meaning
 word: holla
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɒlə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cry \"hollo\"</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Hey, hello</li></ul></div></div>"
+description: Yes, HOLLA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- holly
+- hella
+- hollo
+- molla
+anagrams:
+- hallo
+phonetic: "/ˈhɒlə/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cry "hollo"
+- pos: interjection
+  defs:
+  - text: Hey, hello
 ---
-

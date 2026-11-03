@@ -1,7 +1,70 @@
 ---
 layout: word
-title: decks
+title: Is DECKS a Wordle Word?
+head_title: Is DECKS a Wordle Word? Yes – Valid Guess & Meaning
 word: decks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɛks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any raised flat surface that can be walked on: a balcony; a porch; a raised patio; a flat rooftop.</li><li><strong>Definition 2:</strong> The floorlike covering of the horizontal sections, or compartments, of a ship. Small vessels have only one deck; larger ships have two or three decks.<p><strong>Example:</strong> to swab the deck</p></li><li><strong>Definition 3:</strong> A main aeroplane surface, especially of a biplane or multiplane.</li><li><strong>Definition 4:</strong> A pack or set of playing cards.</li><li><strong>Definition 5:</strong> (by extension) A set of cards owned by each individual player and from which they draw when playing.</li><li><strong>Definition 6:</strong> A set of slides for a presentation.</li><li><strong>Definition 7:</strong> A heap or store.</li><li><strong>Definition 8:</strong> A folded paper used for distributing illicit drugs.</li><li><strong>Definition 9:</strong> The floor.<p><strong>Example:</strong> We hit the deck as bullets began to fly.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To furnish with a deck, as a vessel.</li><li><strong>Definition 2:</strong> To knock someone to the floor, especially with a single punch.<p><strong>Example:</strong> Wow, did you see her deck that guy who pinched her?</p></li><li><strong>Definition 3:</strong> To cause a player to run out of cards to draw and usually lose the game as a result.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (sometimes with out) To dress (someone) up, to clothe with more than ordinary elegance</li><li><strong>Definition 2:</strong> (sometimes with out) To decorate (something).</li><li><strong>Definition 3:</strong> To cover; to overspread.</li></ul></div></div>"
+description: Yes, DECKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- becks
+- dacks
+- decko
+- decos
+- desks
+- docks
+- ducks
+- fecks
+- gecks
+- hecks
+- kecks
+- mecks
+trap:
+  pattern: _ECKS
+  count: 10
+phonetic: "/dɛks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'Any raised flat surface that can be walked on: a balcony; a porch; a raised
+      patio; a flat rooftop.'
+  - text: The floorlike covering of the horizontal sections, or compartments, of a
+      ship. Small vessels have only one deck; larger ships have two or three decks.
+    example: to swab the deck
+  - text: A main aeroplane surface, especially of a biplane or multiplane.
+  - text: A pack or set of playing cards.
+  - text: "(by extension) A set of cards owned by each individual player and from
+      which they draw when playing."
+  - text: A set of slides for a presentation.
+  - text: A heap or store.
+  - text: A folded paper used for distributing illicit drugs.
+  - text: The floor.
+    example: We hit the deck as bullets began to fly.
+- pos: verb
+  defs:
+  - text: To furnish with a deck, as a vessel.
+  - text: To knock someone to the floor, especially with a single punch.
+    example: Wow, did you see her deck that guy who pinched her?
+  - text: To cause a player to run out of cards to draw and usually lose the game
+      as a result.
+- pos: verb
+  defs:
+  - text: "(sometimes with out) To dress (someone) up, to clothe with more than ordinary
+      elegance"
+  - text: "(sometimes with out) To decorate (something)."
+  - text: To cover; to overspread.
 ---
-

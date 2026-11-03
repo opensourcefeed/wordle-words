@@ -1,7 +1,44 @@
 ---
 layout: word
-title: sedan
+title: Is SEDAN a Wordle Word?
+head_title: 'Is SEDAN a Wordle Word? Yes – Past Answer #571 & Meaning'
 word: sedan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An enclosed windowed chair suitable for a single occupant, carried by at least two porters, in equal numbers in front and behind, using wooden rails that passed through metal brackets on the sides of the chair.</li><li><strong>Definition 2:</strong> An automobile designed in a configuration with separate compartments for engine space, driver/passenger space and luggage space.</li></ul></div></div>"
+description: Yes, SEDAN is a valid Wordle word. It was the Wordle answer on January
+  11, 2023 (#571). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 11, 2023 (#571).
+past_answers:
+- date: '2023-01-11'
+  number: 571
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- redan
+- sewan
+- sudan
+anagrams:
+- danse
+- deans
+- saned
+- snead
+definitions:
+- pos: noun
+  defs:
+  - text: An enclosed windowed chair suitable for a single occupant, carried by at
+      least two porters, in equal numbers in front and behind, using wooden rails
+      that passed through metal brackets on the sides of the chair.
+  - text: An automobile designed in a configuration with separate compartments for
+      engine space, driver/passenger space and luggage space.
 ---
-

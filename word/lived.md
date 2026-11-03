@@ -1,7 +1,77 @@
 ---
 layout: word
-title: lived
+title: Is LIVED a Wordle Word?
+head_title: Is LIVED a Wordle Word? Yes – Valid Guess & Meaning
 word: lived
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lɪvd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be alive; to have life.<p><strong>Example:</strong> He's not expected to live for more than a few months.</p></li><li><strong>Definition 2:</strong> To have permanent residence somewhere, to inhabit, to reside.<p><strong>Example:</strong> I live at 2a Acacia Avenue.  He lives in LA, but he's staying here over the summer.</p></li><li><strong>Definition 3:</strong> To survive; to persevere; to continue.<p><strong>Example:</strong> Her memory lives in that song.</p></li><li><strong>Definition 4:</strong> To cope.<p><strong>Example:</strong> You'll just have to live with it!  I can't live in a world without you.</p></li><li><strong>Definition 5:</strong> To pass life in a specified manner.<p><strong>Example:</strong> It is difficult to live in poverty.   And they lived happily ever after.</p></li><li><strong>Definition 6:</strong> To spend, as one's life; to pass; to maintain; to continue in, constantly or habitually.<p><strong>Example:</strong> To live an idle or a useful life.</p></li><li><strong>Definition 7:</strong> To act habitually in conformity with; to practice; to exemplify in one's way of life.</li><li><strong>Definition 8:</strong> To outlast danger; to float (said of a ship, boat, etc).<p><strong>Example:</strong> No ship could live in such a storm.</p></li><li><strong>Definition 9:</strong> (followed by \"on\" or \"upon\") To maintain or support one's existence; to provide for oneself; to feed; to subsist.<p><strong>Example:</strong> It is hard to live on the minimum wage.   They lived on stale bread.</p></li><li><strong>Definition 10:</strong> To make the most of life; to experience a full, rich life.<p><strong>Example:</strong> I'm sick of spending every day studying at home: I want to go out there and live!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (in combination) Having a specified duration of life.<p><strong>Example:</strong> a short-lived recycling scheme</p></li></ul></div></div>"
+description: Yes, LIVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- liver
+- livid
+- dived
+- gived
+- hived
+- jived
+- laved
+- liked
+- limed
+- lined
+- lited
+- liven
+anagrams:
+- devil
+- vilde
+trap:
+  pattern: _IVED
+  count: 7
+phonetic: "/lɪvd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To be alive; to have life.
+    example: He's not expected to live for more than a few months.
+  - text: To have permanent residence somewhere, to inhabit, to reside.
+    example: I live at 2a Acacia Avenue.  He lives in LA, but he's staying here over
+      the summer.
+  - text: To survive; to persevere; to continue.
+    example: Her memory lives in that song.
+  - text: To cope.
+    example: You'll just have to live with it!  I can't live in a world without you.
+  - text: To pass life in a specified manner.
+    example: It is difficult to live in poverty.   And they lived happily ever after.
+  - text: To spend, as one's life; to pass; to maintain; to continue in, constantly
+      or habitually.
+    example: To live an idle or a useful life.
+  - text: To act habitually in conformity with; to practice; to exemplify in one's
+      way of life.
+  - text: To outlast danger; to float (said of a ship, boat, etc).
+    example: No ship could live in such a storm.
+  - text: (followed by "on" or "upon") To maintain or support one's existence; to
+      provide for oneself; to feed; to subsist.
+    example: It is hard to live on the minimum wage.   They lived on stale bread.
+  - text: To make the most of life; to experience a full, rich life.
+    example: 'I''m sick of spending every day studying at home: I want to go out there
+      and live!'
+- pos: adjective
+  defs:
+  - text: "(in combination) Having a specified duration of life."
+    example: a short-lived recycling scheme
 ---
-

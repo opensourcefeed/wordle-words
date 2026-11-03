@@ -1,7 +1,51 @@
 ---
 layout: word
-title: rosin
+title: Is ROSIN a Wordle Word?
+head_title: Is ROSIN a Wordle Word? Yes – Valid Guess & Meaning
 word: rosin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɒ.zən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A solid form of resin, obtained from liquid resin by vaporizing its volatile components.</li><li><strong>Definition 2:</strong> Resin.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apply rosin to (something); to rub or cover with rosin.<p><strong>Example:</strong> We waited expectantly as the guest violinist rosined his bow in preparation for playing.</p></li></ul></div></div>"
+description: Yes, ROSIN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- resin
+- robin
+- eosin
+- ronin
+- rosit
+anagrams:
+- inros
+- irons
+- noirs
+- noris
+- nosir
+- ornis
+- roins
+phonetic: "/ˈɹɒ.zən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A solid form of resin, obtained from liquid resin by vaporizing its volatile
+      components.
+  - text: Resin.
+- pos: verb
+  defs:
+  - text: To apply rosin to (something); to rub or cover with rosin.
+    example: We waited expectantly as the guest violinist rosined his bow in preparation
+      for playing.
 ---
-

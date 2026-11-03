@@ -1,7 +1,37 @@
 ---
 layout: word
-title: tubal
+title: Is TUBAL a Wordle Word?
+head_title: Is TUBAL a Wordle Word? Yes – Possible Answer & Meaning
 word: tubal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtjuːbəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or pertaining to a tube, especially an anatomical one</li></ul></div></div>"
+description: Yes, TUBAL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- bubal
+- tubae
+- tubar
+- tubas
+anagrams:
+- balut
+phonetic: "/ˈtjuːbəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or pertaining to a tube, especially an anatomical one
 ---
-

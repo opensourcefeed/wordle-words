@@ -1,7 +1,49 @@
 ---
 layout: word
-title: clump
+title: Is CLUMP a Wordle Word?
+head_title: 'Is CLUMP a Wordle Word? Yes – Past Answer #1767 & Meaning'
 word: clump
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klʌmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cluster or lump; an unshaped piece or mass.</li><li><strong>Definition 2:</strong> A thick group or bunch, especially of bushes or hair.</li><li><strong>Definition 3:</strong> A dull thud.</li><li><strong>Definition 4:</strong> The compressed clay of coal strata.</li><li><strong>Definition 5:</strong> A small group of trees or plants.</li><li><strong>Definition 6:</strong> A thick addition to the sole of a shoe.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form clusters or lumps.</li><li><strong>Definition 2:</strong> To gather in dense groups.</li><li><strong>Definition 3:</strong> To walk with heavy footfalls.</li><li><strong>Definition 4:</strong> To strike; to beat.</li></ul></div></div>"
+description: Yes, CLUMP is a valid Wordle word. It was the Wordle answer on April
+  21, 2026 (#1767). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 21, 2026 (#1767).
+past_answers:
+- date: '2026-04-21'
+  number: 1767
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- chump
+- clamp
+- crump
+- plump
+- slump
+- clomp
+- flump
+phonetic: "/klʌmp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cluster or lump; an unshaped piece or mass.
+  - text: A thick group or bunch, especially of bushes or hair.
+  - text: A dull thud.
+  - text: The compressed clay of coal strata.
+  - text: A small group of trees or plants.
+  - text: A thick addition to the sole of a shoe.
+- pos: verb
+  defs:
+  - text: To form clusters or lumps.
+  - text: To gather in dense groups.
+  - text: To walk with heavy footfalls.
+  - text: To strike; to beat.
 ---
-

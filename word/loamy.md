@@ -1,7 +1,32 @@
 ---
 layout: word
-title: loamy
+title: Is LOAMY a Wordle Word?
+head_title: Is LOAMY a Wordle Word? Yes – Possible Answer & Meaning
 word: loamy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Consisting of loam; partaking of the nature of loam; resembling loam.</li></ul></div></div>"
+description: Yes, LOAMY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- foamy
+- loams
+definitions:
+- pos: adjective
+  defs:
+  - text: Consisting of loam; partaking of the nature of loam; resembling loam.
 ---
-

@@ -1,7 +1,114 @@
 ---
 layout: word
-title: sweep
+title: Is SWEEP a Wordle Word?
+head_title: 'Is SWEEP a Wordle Word? Yes – Past Answer #634 & Meaning'
 word: sweep
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swiːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A single action of sweeping.<p><strong>Example:</strong> Give the front steps a quick sweep to get rid of those fallen leaves.</p></li><li><strong>Definition 2:</strong> The person who steers a dragon boat.</li><li><strong>Definition 3:</strong> A person who stands at the stern of a surf boat, steering with a steering oar and commanding the crew.</li><li><strong>Definition 4:</strong> A chimney sweep.</li><li><strong>Definition 5:</strong> A methodical search, typically for bugs (electronic listening devices).</li><li><strong>Definition 6:</strong> A batsman's shot, played from a kneeling position with a swinging horizontal bat.<p><strong>Example:</strong> Bradman attempted a sweep, but in fact top edged the ball to the wicket keeper</p></li><li><strong>Definition 7:</strong> A lottery, usually on the results of a sporting event, where players win if their randomly chosen team wins.<p><strong>Example:</strong> Jim will win fifty dollars in the office sweep if Japan wins the World Cup.</p></li><li><strong>Definition 8:</strong> A flow of water parallel to shore caused by wave action at an ocean beach or at a point or headland.</li><li><strong>Definition 9:</strong> A throw or takedown that primarily uses the legs to attack an opponent's legs.</li><li><strong>Definition 10:</strong> Violent and general destruction.<p><strong>Example:</strong> the sweep of an epidemic disease</p></li><li><strong>Definition 11:</strong> A movable templet for making moulds, in loam moulding.</li><li><strong>Definition 12:</strong> In the game casino, the act of capturing all face-up cards from the table.</li><li><strong>Definition 13:</strong> The compass of any turning body or of any motion.<p><strong>Example:</strong> the sweep of a door; the sweep of the eye</p></li><li><strong>Definition 14:</strong> Direction or departure of a curve, a road, an arch, etc. away from a rectilinear line.</li><li><strong>Definition 15:</strong> A large oar used in small vessels, partly to propel them and partly to steer them.</li><li><strong>Definition 16:</strong> A rowing style in which each rower rows with oar on either the port or starboard side.<p><strong>Example:</strong> I am primarily a sweep rower.</p></li><li><strong>Definition 17:</strong> (refining) The almond furnace.</li><li><strong>Definition 18:</strong> A long pole, or piece of timber, moved on a horizontal fulcrum fixed to a tall post and used to raise and lower a bucket in a well for drawing water.</li><li><strong>Definition 19:</strong> Any of the blades of a windmill.</li><li><strong>Definition 20:</strong> (in the plural) The sweepings of workshops where precious metals are worked, containing filings, etc.</li><li><strong>Definition 21:</strong> Any of several sea chub in the kyphosid subfamily Scorpidinae.</li><li><strong>Definition 22:</strong> An expanse or a swath, a strip of land.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To clean (a surface) by means of a stroking motion of a broom or brush.<p><strong>Example:</strong> to sweep a floor, the street, or a chimney</p></li><li><strong>Definition 2:</strong> To move through a (horizontal) arc or similar long stroke.<p><strong>Example:</strong> The offended countess swept out of the ballroom.</p></li><li><strong>Definition 3:</strong> To search (a place) methodically.</li><li><strong>Definition 4:</strong> To travel quickly.</li><li><strong>Definition 5:</strong> To play a sweep shot.</li><li><strong>Definition 6:</strong> To brush the ice in front of a moving stone, causing it to travel farther and to curl less.</li><li><strong>Definition 7:</strong> To move something in a long sweeping motion, as a broom.</li><li><strong>Definition 8:</strong> To win (a series) without drawing or losing any of the games in that series.</li><li><strong>Definition 9:</strong> To defeat (a team) in a series without drawing or losing any of the games in that series.</li><li><strong>Definition 10:</strong> To remove something abruptly and thoroughly.<p><strong>Example:</strong> She swept the peelings off the table onto the floor.</p></li><li><strong>Definition 11:</strong> To brush against or over; to rub lightly along.<p><strong>Example:</strong> Their long descending train, / With rubies edg'd and sapphires, swept the plain.</p></li><li><strong>Definition 12:</strong> To carry with a long, swinging, or dragging motion; hence, to carry in a stately or proud fashion.</li><li><strong>Definition 13:</strong> To strike with a long stroke.</li><li><strong>Definition 14:</strong> To row with one oar to either the port or starboard side.</li><li><strong>Definition 15:</strong> To draw or drag something over.<p><strong>Example:</strong> to sweep the bottom of a river with a net</p></li><li><strong>Definition 16:</strong> To pass over, or traverse, with the eye or with an instrument of observation.<p><strong>Example:</strong> to sweep the heavens with a telescope</p></li><li><strong>Definition 17:</strong> (including) to vacuum a carpet or rug</li></ul></div></div>"
+description: Yes, SWEEP is a valid Wordle word. It was the Wordle answer on March
+  15, 2023 (#634). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 15, 2023 (#634).
+past_answers:
+- date: '2023-03-15'
+  number: 634
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- sheep
+- sleep
+- steep
+- sweet
+- sweed
+- sweel
+- sweer
+- swees
+- tweep
+anagrams:
+- weeps
+trap:
+  pattern: SWEE_
+  count: 6
+phonetic: "/swiːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A single action of sweeping.
+    example: Give the front steps a quick sweep to get rid of those fallen leaves.
+  - text: The person who steers a dragon boat.
+  - text: A person who stands at the stern of a surf boat, steering with a steering
+      oar and commanding the crew.
+  - text: A chimney sweep.
+  - text: A methodical search, typically for bugs (electronic listening devices).
+  - text: A batsman's shot, played from a kneeling position with a swinging horizontal
+      bat.
+    example: Bradman attempted a sweep, but in fact top edged the ball to the wicket
+      keeper
+  - text: A lottery, usually on the results of a sporting event, where players win
+      if their randomly chosen team wins.
+    example: Jim will win fifty dollars in the office sweep if Japan wins the World
+      Cup.
+  - text: A flow of water parallel to shore caused by wave action at an ocean beach
+      or at a point or headland.
+  - text: A throw or takedown that primarily uses the legs to attack an opponent's
+      legs.
+  - text: Violent and general destruction.
+    example: the sweep of an epidemic disease
+  - text: A movable templet for making moulds, in loam moulding.
+  - text: In the game casino, the act of capturing all face-up cards from the table.
+  - text: The compass of any turning body or of any motion.
+    example: the sweep of a door; the sweep of the eye
+  - text: Direction or departure of a curve, a road, an arch, etc. away from a rectilinear
+      line.
+  - text: A large oar used in small vessels, partly to propel them and partly to steer
+      them.
+  - text: A rowing style in which each rower rows with oar on either the port or starboard
+      side.
+    example: I am primarily a sweep rower.
+  - text: "(refining) The almond furnace."
+  - text: A long pole, or piece of timber, moved on a horizontal fulcrum fixed to
+      a tall post and used to raise and lower a bucket in a well for drawing water.
+  - text: Any of the blades of a windmill.
+  - text: "(in the plural) The sweepings of workshops where precious metals are worked,
+      containing filings, etc."
+  - text: Any of several sea chub in the kyphosid subfamily Scorpidinae.
+  - text: An expanse or a swath, a strip of land.
+- pos: verb
+  defs:
+  - text: To clean (a surface) by means of a stroking motion of a broom or brush.
+    example: to sweep a floor, the street, or a chimney
+  - text: To move through a (horizontal) arc or similar long stroke.
+    example: The offended countess swept out of the ballroom.
+  - text: To search (a place) methodically.
+  - text: To travel quickly.
+  - text: To play a sweep shot.
+  - text: To brush the ice in front of a moving stone, causing it to travel farther
+      and to curl less.
+  - text: To move something in a long sweeping motion, as a broom.
+  - text: To win (a series) without drawing or losing any of the games in that series.
+  - text: To defeat (a team) in a series without drawing or losing any of the games
+      in that series.
+  - text: To remove something abruptly and thoroughly.
+    example: She swept the peelings off the table onto the floor.
+  - text: To brush against or over; to rub lightly along.
+    example: Their long descending train, / With rubies edg'd and sapphires, swept
+      the plain.
+  - text: To carry with a long, swinging, or dragging motion; hence, to carry in a
+      stately or proud fashion.
+  - text: To strike with a long stroke.
+  - text: To row with one oar to either the port or starboard side.
+  - text: To draw or drag something over.
+    example: to sweep the bottom of a river with a net
+  - text: To pass over, or traverse, with the eye or with an instrument of observation.
+    example: to sweep the heavens with a telescope
+  - text: "(including) to vacuum a carpet or rug"
 ---
-

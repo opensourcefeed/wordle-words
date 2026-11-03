@@ -1,7 +1,86 @@
 ---
 layout: word
-title: spear
+title: Is SPEAR a Wordle Word?
+head_title: 'Is SPEAR a Wordle Word? Yes – Past Answer #1353 & Meaning'
 word: spear
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spɪɹ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long stick with a sharp tip used as a weapon for throwing or thrusting, or anything used to make a thrusting motion.</li><li><strong>Definition 2:</strong> A soldier armed with such a weapon; a spearman.</li><li><strong>Definition 3:</strong> A lance with barbed prongs, used by fishermen to retrieve fish.</li><li><strong>Definition 4:</strong> An illegal maneuver using the end of a hockey stick to strike into another hockey player.</li><li><strong>Definition 5:</strong> In professional wrestling, a running tackle in which the wrestler's shoulder is driven into the opponent's midsection.</li><li><strong>Definition 6:</strong> A shoot, as of grass; a spire.</li><li><strong>Definition 7:</strong> The feather of a horse.</li><li><strong>Definition 8:</strong> The rod to which the bucket, or plunger, of a pump is attached; a pump rod.</li><li><strong>Definition 9:</strong> A long, thin strip from a vegetable.<p><strong>Example:</strong> asparagus and broccoli spears</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pierce with a spear.</li><li><strong>Definition 2:</strong> (by extension) To penetrate or strike with, or as if with, any long narrow object; to make a thrusting motion that catches an object on the tip of a long device.</li><li><strong>Definition 3:</strong> To shoot into a long stem, as some plants do.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Male.<p><strong>Example:</strong> a spear counterpart</p></li><li><strong>Definition 2:</strong> Pertaining to male family members.<p><strong>Example:</strong> the spear side of the family</p></li></ul></div></div>"
+description: Yes, SPEAR is a valid Wordle word. It was the Wordle answer on March
+  3, 2025 (#1353). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 3, 2025 (#1353).
+past_answers:
+- date: '2025-03-03'
+  number: 1353
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- shear
+- smear
+- speak
+- swear
+- skear
+- speal
+- spean
+- speat
+- speer
+- speir
+- stear
+anagrams:
+- parse
+- spare
+- apers
+- apres
+- asper
+- pares
+- pears
+- prase
+- presa
+- rapes
+- reaps
+- repas
+trap:
+  pattern: S_EAR
+  count: 6
+phonetic: "/spɪɹ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long stick with a sharp tip used as a weapon for throwing or thrusting,
+      or anything used to make a thrusting motion.
+  - text: A soldier armed with such a weapon; a spearman.
+  - text: A lance with barbed prongs, used by fishermen to retrieve fish.
+  - text: An illegal maneuver using the end of a hockey stick to strike into another
+      hockey player.
+  - text: In professional wrestling, a running tackle in which the wrestler's shoulder
+      is driven into the opponent's midsection.
+  - text: A shoot, as of grass; a spire.
+  - text: The feather of a horse.
+  - text: The rod to which the bucket, or plunger, of a pump is attached; a pump rod.
+  - text: A long, thin strip from a vegetable.
+    example: asparagus and broccoli spears
+- pos: verb
+  defs:
+  - text: To pierce with a spear.
+  - text: "(by extension) To penetrate or strike with, or as if with, any long narrow
+      object; to make a thrusting motion that catches an object on the tip of a long
+      device."
+  - text: To shoot into a long stem, as some plants do.
+- pos: adjective
+  defs:
+  - text: Male.
+    example: a spear counterpart
+  - text: Pertaining to male family members.
+    example: the spear side of the family
 ---
-

@@ -1,7 +1,36 @@
 ---
 layout: word
-title: doyen
+title: Is DOYEN a Wordle Word?
+head_title: Is DOYEN a Wordle Word? Yes – Valid Guess & Meaning
 word: doyen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dwɑˈjæ̃/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A commander in charge of ten men.</li><li><strong>Definition 2:</strong> The senior, or eldest male member of a group.</li><li><strong>Definition 3:</strong> A leading light, or exemplar of a particular practice or movement.</li></ul></div></div>"
+description: Yes, DOYEN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- dozen
+- doven
+anagrams:
+- noyed
+phonetic: "/dwɑˈjæ̃/"
+definitions:
+- pos: noun
+  defs:
+  - text: A commander in charge of ten men.
+  - text: The senior, or eldest male member of a group.
+  - text: A leading light, or exemplar of a particular practice or movement.
 ---
-

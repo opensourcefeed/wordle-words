@@ -1,7 +1,41 @@
 ---
 layout: word
-title: unlit
+title: Is UNLIT a Wordle Word?
+head_title: 'Is UNLIT a Wordle Word? Yes – Past Answer #595 & Meaning'
 word: unlit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not lit</li></ul></div></div>"
+description: Yes, UNLIT is a valid Wordle word. It was the Wordle answer on February
+  4, 2023 (#595). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 4, 2023 (#595).
+past_answers:
+- date: '2023-02-04'
+  number: 595
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- unfit
+- enlit
+- unlet
+- unlid
+- unwit
+- uplit
+anagrams:
+- until
+definitions:
+- pos: adjective
+  defs:
+  - text: Not lit
 ---
-

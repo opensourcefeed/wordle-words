@@ -1,7 +1,47 @@
 ---
 layout: word
-title: gloat
+title: Is GLOAT a Wordle Word?
+head_title: 'Is GLOAT a Wordle Word? Yes – Past Answer #367 & Meaning'
 word: gloat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡləʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act or instance of gloating.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To exhibit a conspicuous (sometimes malevolent) pleasure or sense of self-satisfaction, often at an adversary's misfortune.</li><li><strong>Definition 2:</strong> To triumph, crow, relish, glory, revel.</li></ul></div></div>"
+description: Yes, GLOAT is a valid Wordle word. It was the Wordle answer on June 21,
+  2022 (#367). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 21, 2022 (#367).
+past_answers:
+- date: '2022-06-21'
+  number: 367
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- bloat
+- float
+- gloam
+- glost
+- glout
+- groat
+- ploat
+phonetic: "/ɡləʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: An act or instance of gloating.
+- pos: verb
+  defs:
+  - text: To exhibit a conspicuous (sometimes malevolent) pleasure or sense of self-satisfaction,
+      often at an adversary's misfortune.
+  - text: To triumph, crow, relish, glory, revel.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: quant
+title: Is QUANT a Wordle Word?
+head_title: Is QUANT a Wordle Word? Yes – Valid Guess & Meaning
 word: quant
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quantitative analyst.</li><li><strong>Definition 2:</strong> Short for quantity.</li><li><strong>Definition 3:</strong> Short for quantifier.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Short for quantifiable.</li><li><strong>Definition 2:</strong> Short for quantitative.</li></ul></div></div>"
+description: Yes, QUANT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- quart
+- quank
+- quint
+definitions:
+- pos: noun
+  defs:
+  - text: A quantitative analyst.
+  - text: Short for quantity.
+  - text: Short for quantifier.
+- pos: adjective
+  defs:
+  - text: Short for quantifiable.
+  - text: Short for quantitative.
 ---
-

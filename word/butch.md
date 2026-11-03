@@ -1,7 +1,43 @@
 ---
 layout: word
-title: butch
+title: Is BUTCH a Wordle Word?
+head_title: Is BUTCH a Wordle Word? Yes – Possible Answer & Meaning
 word: butch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bʊtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A lesbian who appears masculine or acts in a masculine manner.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (originally Polari) Very masculine, with a masculine appearance or attitude.</li></ul></div></div>"
+description: Yes, BUTCH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- batch
+- botch
+- bunch
+- dutch
+- hutch
+- butoh
+- cutch
+- kutch
+- mutch
+trap:
+  pattern: _UTCH
+  count: 6
+phonetic: "/bʊtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A lesbian who appears masculine or acts in a masculine manner.
+- pos: adjective
+  defs:
+  - text: "(originally Polari) Very masculine, with a masculine appearance or attitude."
 ---
-

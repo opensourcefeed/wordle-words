@@ -1,7 +1,39 @@
 ---
 layout: word
-title: braai
+title: Is BRAAI a Wordle Word?
+head_title: Is BRAAI a Wordle Word? Yes – Valid Guess & Meaning
 word: braai
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹaɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A barbecue (grill), especially an open outdoor grill built specifically for the purpose of braaing.</li><li><strong>Definition 2:</strong> A social meeting, including the braaing of meat; a cookout.<p><strong>Example:</strong> Come over to our place for a braai.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grill meat over an open flame.</li></ul></div></div>"
+description: Yes, BRAAI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - R
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- bravi
+phonetic: "/bɹaɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A barbecue (grill), especially an open outdoor grill built specifically
+      for the purpose of braaing.
+  - text: A social meeting, including the braaing of meat; a cookout.
+    example: Come over to our place for a braai.
+- pos: verb
+  defs:
+  - text: To grill meat over an open flame.
 ---
-

@@ -1,7 +1,75 @@
 ---
 layout: word
-title: coops
+title: Is COOPS a Wordle Word?
+head_title: Is COOPS a Wordle Word? Yes – Valid Guess & Meaning
 word: coops
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A unit of a housing co-operative; a purchased apartment where the apartment owners collectively are responsible for maintenance of common areas and upkeep.</li><li><strong>Definition 2:</strong> Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives.</li><li><strong>Definition 3:</strong> Any shop owned by a co-operative.</li><li><strong>Definition 4:</strong> A co-operative game, as opposed to a competitive game or deathmatch.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A basket, pen or enclosure for birds or small animals.</li><li><strong>Definition 2:</strong> A wickerwork basket (kipe) or other enclosure for catching fish.</li><li><strong>Definition 3:</strong> A narrow place of confinement, a cage; a jail, a prison.</li><li><strong>Definition 4:</strong> A barrel or cask for holding liquids.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To keep in a coop.</li><li><strong>Definition 2:</strong> To shut up or confine in a narrow space; to cramp.</li><li><strong>Definition 3:</strong> To unlawfully confine one or more voters to prevent them from casting their ballots in an election.</li><li><strong>Definition 4:</strong> (law enforcement) Of a police officer: to sleep or relax while on duty.</li><li><strong>Definition 5:</strong> To make or repair barrels, casks and other wooden vessels; to work upon in the manner of a cooper.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cart with sides and ends made from boards, enabling it to carry manure, etc.</li><li><strong>Definition 2:</strong> A cart which opens at the back to release its load; a tumbril.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small heap.</li></ul></div></div>"
+description: Yes, COOPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- chops
+- clops
+- comps
+- coofs
+- cooks
+- cools
+- cooms
+- coopt
+- coots
+- corps
+- coups
+- cowps
+anagrams:
+- scoop
+trap:
+  pattern: _OOPS
+  count: 11
+phonetic: "/kuːps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A unit of a housing co-operative; a purchased apartment where the apartment
+      owners collectively are responsible for maintenance of common areas and upkeep.
+  - text: Any co-operative, including housing, retail, utility, agricultural, banking
+      or worker cooperatives.
+  - text: Any shop owned by a co-operative.
+  - text: A co-operative game, as opposed to a competitive game or deathmatch.
+- pos: noun
+  defs:
+  - text: A basket, pen or enclosure for birds or small animals.
+  - text: A wickerwork basket (kipe) or other enclosure for catching fish.
+  - text: A narrow place of confinement, a cage; a jail, a prison.
+  - text: A barrel or cask for holding liquids.
+- pos: verb
+  defs:
+  - text: To keep in a coop.
+  - text: To shut up or confine in a narrow space; to cramp.
+  - text: To unlawfully confine one or more voters to prevent them from casting their
+      ballots in an election.
+  - text: "(law enforcement) Of a police officer: to sleep or relax while on duty."
+  - text: To make or repair barrels, casks and other wooden vessels; to work upon
+      in the manner of a cooper.
+- pos: noun
+  defs:
+  - text: A cart with sides and ends made from boards, enabling it to carry manure,
+      etc.
+  - text: A cart which opens at the back to release its load; a tumbril.
+- pos: noun
+  defs:
+  - text: A small heap.
 ---
-

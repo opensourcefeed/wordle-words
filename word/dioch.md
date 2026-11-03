@@ -1,7 +1,32 @@
 ---
 layout: word
-title: dioch
+title: Is DIOCH a Wordle Word?
+head_title: Is DIOCH a Wordle Word? Yes – Valid Guess & Meaning
 word: dioch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dʌɪək/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An African weaverbird of the genus Quelea.</li></ul></div></div>"
+description: Yes, DIOCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- ditch
+- deoch
+phonetic: "/dʌɪək/"
+definitions:
+- pos: noun
+  defs:
+  - text: An African weaverbird of the genus Quelea.
 ---
-

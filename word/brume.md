@@ -1,7 +1,42 @@
 ---
 layout: word
-title: brume
+title: Is BRUME a Wordle Word?
+head_title: Is BRUME a Wordle Word? Yes – Valid Guess & Meaning
 word: brume
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹuːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Mist, fog, vapour.<p><strong>Example:</strong> 1972, All around their bubble of stupidity I could feel the brume of the dragon. — John Gardner, Grendel (André Deutsch 1972, p. 77)</p></li></ul></div></div>"
+description: Yes, BRUME is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- brute
+- blume
+- brame
+- breme
+- brome
+- brule
+- grume
+anagrams:
+- umber
+- umbre
+phonetic: "/bɹuːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Mist, fog, vapour.
+    example: 1972, All around their bubble of stupidity I could feel the brume of
+      the dragon. — John Gardner, Grendel (André Deutsch 1972, p. 77)
 ---
-

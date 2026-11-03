@@ -1,7 +1,43 @@
 ---
 layout: word
-title: noobs
+title: Is NOOBS a Wordle Word?
+head_title: Is NOOBS a Wordle Word? Yes – Valid Guess & Meaning
 word: noobs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /njuːbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (often pejorative) A newb or newbie; refers to the idea that someone is new to a game, concept, or idea; implying a lack of experience. Also, in some areas the word noob can mean someone is obsessed with things.<p><strong>Example:</strong> Noobs are annoying, they never know the forum rules.</p></li></ul></div></div>"
+description: Yes, NOOBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- boobs
+- doobs
+- moobs
+- noois
+- nooks
+- noons
+- noops
+anagrams:
+- boons
+- boson
+phonetic: "/njuːbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(often pejorative) A newb or newbie; refers to the idea that someone is
+      new to a game, concept, or idea; implying a lack of experience. Also, in some
+      areas the word noob can mean someone is obsessed with things."
+    example: Noobs are annoying, they never know the forum rules.
 ---
-

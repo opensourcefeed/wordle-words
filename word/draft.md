@@ -1,7 +1,93 @@
 ---
 layout: word
-title: draft
+title: Is DRAFT a Wordle Word?
+head_title: 'Is DRAFT a Wordle Word? Yes – Past Answer #1299 & Meaning'
 word: draft
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹæft/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A current of air, usually coming into a room or vehicle.</li><li><strong>Definition 2:</strong> Draw through a flue of gasses (smoke) resulting from a combustion process.</li><li><strong>Definition 3:</strong> An act of drinking.</li><li><strong>Definition 4:</strong> The quantity of liquid (such as water, alcohol, or medicine) drunk in one swallow.<p><strong>Example:</strong> She took a deep draft from the bottle of water.</p></li><li><strong>Definition 5:</strong> A dose (of medicine, alcohol, etc.)</li><li><strong>Definition 6:</strong> Beer drawn from a cask or keg rather than a bottle or can.</li><li><strong>Definition 7:</strong> Depth of water needed to float a ship; depth below the water line to the bottom of a vessel's hull; depth of water drawn by a vessel.</li><li><strong>Definition 8:</strong> An early version of a written work (such as a book or e-mail) or drawing.<p><strong>Example:</strong> His first drafts were better than most authors' final products.</p></li><li><strong>Definition 9:</strong> A preliminary sketch or outline for a plan.</li><li><strong>Definition 10:</strong> A cheque, an order for money to be paid.</li><li><strong>Definition 11:</strong> Conscription, the system of forcing people to serve in the military.<p><strong>Example:</strong> He left the country to avoid the draft.</p></li><li><strong>Definition 12:</strong> A system of forcing or convincing people to take an elected position.</li><li><strong>Definition 13:</strong> A system of assigning rookie players to professional sports teams.</li><li><strong>Definition 14:</strong> The pulling force (tension) on couplers and draft gear during a slack stretched condition.</li><li><strong>Definition 15:</strong> The bevel given to the pattern for a casting, so that it can be drawn from the sand without damaging the mould.</li><li><strong>Definition 16:</strong> (possibly obsolete) The action or an act (especially of a beast of burden or vehicle) of pulling something along or back.<p><strong>Example:</strong> using oxen for draft   shot forth an arrow with a mighty draft</p></li><li><strong>Definition 17:</strong> (possibly obsolete) The act of drawing in a net for fish.</li><li><strong>Definition 18:</strong> (possibly obsolete) That which is drawn in; a catch, a haul.<p><strong>Example:</strong> he cast his net, which brought him a very great draft</p></li><li><strong>Definition 19:</strong> A quantity that is requisitioned or drawn out from a larger population.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To write a first version, make a preliminary sketch.</li><li><strong>Definition 2:</strong> To draw in outline; to make a draught, sketch, or plan of, as in architectural and mechanical drawing.</li><li><strong>Definition 3:</strong> To write a law.</li><li><strong>Definition 4:</strong> To conscript a person, force a person to serve in some capacity, especially in the military.<p><strong>Example:</strong> He was drafted during the Vietnam War.</p></li><li><strong>Definition 5:</strong> To select someone (or something) for a particular role or purpose.<p><strong>Example:</strong> There was a campaign to draft Smith to run for President.</p></li><li><strong>Definition 6:</strong> To select and separate an animal or animals from a group.<p><strong>Example:</strong> The calves were drafted from the cows.</p></li><li><strong>Definition 7:</strong> To select a rookie player onto a professional sports team.<p><strong>Example:</strong> After his last year of college football, he was drafted by the Miami Dolphins.</p></li><li><strong>Definition 8:</strong> To follow very closely (behind another vehicle), thereby providing an aerodynamic advantage to both lead and follower and conserving energy or increasing speed.</li><li><strong>Definition 9:</strong> To draw out; to call forth.</li><li><strong>Definition 10:</strong> To draw fibers out of a clump, for spinning in the production of yarn.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Referring to drinks on tap, in contrast to bottled.<p><strong>Example:</strong> I'd rather have a fresh, cheap draft beer.</p></li><li><strong>Definition 2:</strong> Referring to animals used for pulling heavy loads.<p><strong>Example:</strong> A Clydesdale is a draft horse.</p></li></ul></div></div>"
+description: Yes, DRAFT is a valid Wordle word. It was the Wordle answer on January
+  8, 2025 (#1299). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 8, 2025 (#1299).
+past_answers:
+- date: '2025-01-08'
+  number: 1299
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- craft
+- drift
+- graft
+- draff
+- drant
+- kraft
+phonetic: "/dɹæft/"
+definitions:
+- pos: noun
+  defs:
+  - text: A current of air, usually coming into a room or vehicle.
+  - text: Draw through a flue of gasses (smoke) resulting from a combustion process.
+  - text: An act of drinking.
+  - text: The quantity of liquid (such as water, alcohol, or medicine) drunk in one
+      swallow.
+    example: She took a deep draft from the bottle of water.
+  - text: A dose (of medicine, alcohol, etc.)
+  - text: Beer drawn from a cask or keg rather than a bottle or can.
+  - text: Depth of water needed to float a ship; depth below the water line to the
+      bottom of a vessel's hull; depth of water drawn by a vessel.
+  - text: An early version of a written work (such as a book or e-mail) or drawing.
+    example: His first drafts were better than most authors' final products.
+  - text: A preliminary sketch or outline for a plan.
+  - text: A cheque, an order for money to be paid.
+  - text: Conscription, the system of forcing people to serve in the military.
+    example: He left the country to avoid the draft.
+  - text: A system of forcing or convincing people to take an elected position.
+  - text: A system of assigning rookie players to professional sports teams.
+  - text: The pulling force (tension) on couplers and draft gear during a slack stretched
+      condition.
+  - text: The bevel given to the pattern for a casting, so that it can be drawn from
+      the sand without damaging the mould.
+  - text: "(possibly obsolete) The action or an act (especially of a beast of burden
+      or vehicle) of pulling something along or back."
+    example: using oxen for draft   shot forth an arrow with a mighty draft
+  - text: "(possibly obsolete) The act of drawing in a net for fish."
+  - text: "(possibly obsolete) That which is drawn in; a catch, a haul."
+    example: he cast his net, which brought him a very great draft
+  - text: A quantity that is requisitioned or drawn out from a larger population.
+- pos: verb
+  defs:
+  - text: To write a first version, make a preliminary sketch.
+  - text: To draw in outline; to make a draught, sketch, or plan of, as in architectural
+      and mechanical drawing.
+  - text: To write a law.
+  - text: To conscript a person, force a person to serve in some capacity, especially
+      in the military.
+    example: He was drafted during the Vietnam War.
+  - text: To select someone (or something) for a particular role or purpose.
+    example: There was a campaign to draft Smith to run for President.
+  - text: To select and separate an animal or animals from a group.
+    example: The calves were drafted from the cows.
+  - text: To select a rookie player onto a professional sports team.
+    example: After his last year of college football, he was drafted by the Miami
+      Dolphins.
+  - text: To follow very closely (behind another vehicle), thereby providing an aerodynamic
+      advantage to both lead and follower and conserving energy or increasing speed.
+  - text: To draw out; to call forth.
+  - text: To draw fibers out of a clump, for spinning in the production of yarn.
+- pos: adjective
+  defs:
+  - text: Referring to drinks on tap, in contrast to bottled.
+    example: I'd rather have a fresh, cheap draft beer.
+  - text: Referring to animals used for pulling heavy loads.
+    example: A Clydesdale is a draft horse.
 ---
-

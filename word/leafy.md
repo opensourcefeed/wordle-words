@@ -1,7 +1,49 @@
 ---
 layout: word
-title: leafy
+title: Is LEAFY a Wordle Word?
+head_title: 'Is LEAFY a Wordle Word? Yes – Past Answer #656 & Meaning'
 word: leafy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈliːfi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Covered with leaves<p><strong>Example:</strong> leafy trees</p></li><li><strong>Definition 2:</strong> Containing much foliage<p><strong>Example:</strong> a leafy avenue</p></li><li><strong>Definition 3:</strong> In the form of leaves (of some material)</li><li><strong>Definition 4:</strong> Resembling a leaf</li><li><strong>Definition 5:</strong> (of a place) wealthy, middle- or upper-class</li></ul></div></div>"
+description: Yes, LEAFY is a valid Wordle word. It was the Wordle answer on April
+  6, 2023 (#656). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 6, 2023 (#656).
+past_answers:
+- date: '2023-04-06'
+  number: 656
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- leaky
+- leady
+- leafs
+- leany
+- leary
+- leavy
+trap:
+  pattern: LEA_Y
+  count: 6
+phonetic: "/ˈliːfi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Covered with leaves
+    example: leafy trees
+  - text: Containing much foliage
+    example: a leafy avenue
+  - text: In the form of leaves (of some material)
+  - text: Resembling a leaf
+  - text: "(of a place) wealthy, middle- or upper-class"
 ---
-

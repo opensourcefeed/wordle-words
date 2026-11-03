@@ -1,7 +1,57 @@
 ---
 layout: word
-title: pouch
+title: Is POUCH a Wordle Word?
+head_title: Is POUCH a Wordle Word? Yes – Possible Answer & Meaning
 word: pouch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /paʊt͡ʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small bag usually closed with a drawstring.</li><li><strong>Definition 2:</strong> A pocket in which a marsupial carries its young.</li><li><strong>Definition 3:</strong> Any pocket or bag-shaped object, such as a cheek pouch.</li><li><strong>Definition 4:</strong> A protuberant belly; a paunch.</li><li><strong>Definition 5:</strong> A cyst or sac containing fluid.</li><li><strong>Definition 6:</strong> A silicle, or short pod, as of the shepherd's purse.</li><li><strong>Definition 7:</strong> A bulkhead in the hold of a vessel, to prevent grain etc. from shifting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To enclose within a pouch.<p><strong>Example:</strong> The beggar pouched the coin.</p></li><li><strong>Definition 2:</strong> To transport within a pouch, especially a diplomatic pouch.<p><strong>Example:</strong> We pouched the encryption device to our embassy in Beijing.</p></li><li><strong>Definition 3:</strong> (of fowls and fish) To swallow.</li><li><strong>Definition 4:</strong> To pout.</li><li><strong>Definition 5:</strong> To pocket; to put up with.</li></ul></div></div>"
+description: Yes, POUCH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- couch
+- pooch
+- porch
+- touch
+- vouch
+- gouch
+- mouch
+- poach
+- potch
+- pouce
+trap:
+  pattern: _OUCH
+  count: 6
+phonetic: "/paʊt͡ʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small bag usually closed with a drawstring.
+  - text: A pocket in which a marsupial carries its young.
+  - text: Any pocket or bag-shaped object, such as a cheek pouch.
+  - text: A protuberant belly; a paunch.
+  - text: A cyst or sac containing fluid.
+  - text: A silicle, or short pod, as of the shepherd's purse.
+  - text: A bulkhead in the hold of a vessel, to prevent grain etc. from shifting.
+- pos: verb
+  defs:
+  - text: To enclose within a pouch.
+    example: The beggar pouched the coin.
+  - text: To transport within a pouch, especially a diplomatic pouch.
+    example: We pouched the encryption device to our embassy in Beijing.
+  - text: "(of fowls and fish) To swallow."
+  - text: To pout.
+  - text: To pocket; to put up with.
 ---
-

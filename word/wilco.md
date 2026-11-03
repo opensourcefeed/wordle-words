@@ -1,7 +1,32 @@
 ---
 layout: word
-title: wilco
+title: Is WILCO a Wordle Word?
+head_title: Is WILCO a Wordle Word? Yes – Valid Guess & Meaning
 word: wilco
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɪl.kəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> (radio communications) Used to indicate agreement and compliance.<p><strong>Example:</strong> Wilco, Bravo Six Three will take the north road. Bravo Six Four will take the south road, out.</p></li></ul></div></div>"
+description: Yes, WILCO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+phonetic: "/ˈwɪl.kəʊ/"
+definitions:
+- pos: interjection
+  defs:
+  - text: "(radio communications) Used to indicate agreement and compliance."
+    example: Wilco, Bravo Six Three will take the north road. Bravo Six Four will
+      take the south road, out.
 ---
-

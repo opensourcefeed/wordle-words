@@ -1,7 +1,48 @@
 ---
 layout: word
-title: music
+title: Is MUSIC a Wordle Word?
+head_title: 'Is MUSIC a Wordle Word? Yes – Past Answer #820 & Meaning'
 word: music
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmjuːzɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.<p><strong>Example:</strong> I keep listening to this music because it's a masterpiece.</p></li><li><strong>Definition 2:</strong> Any pleasing or interesting sounds.</li><li><strong>Definition 3:</strong> An art form, created by organizing of pitch, rhythm, and sounds made using musical instruments and sometimes singing.</li><li><strong>Definition 4:</strong> A guide to playing or singing a particular tune; sheet music.</li><li><strong>Definition 5:</strong> Electronic signal jamming.</li><li><strong>Definition 6:</strong> Heated argument.</li><li><strong>Definition 7:</strong> Fun; amusement.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To seduce or entice with music.</li></ul></div></div>"
+description: Yes, MUSIC is a valid Wordle word. It was the Wordle answer on September
+  17, 2023 (#820). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 17, 2023 (#820).
+past_answers:
+- date: '2023-09-17'
+  number: 820
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- mesic
+- mucic
+- musit
+- mutic
+phonetic: "/ˈmjuːzɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A series of sounds organized in time, employing melody, harmony, tempo etc.
+      usually to convey a mood.
+    example: I keep listening to this music because it's a masterpiece.
+  - text: Any pleasing or interesting sounds.
+  - text: An art form, created by organizing of pitch, rhythm, and sounds made using
+      musical instruments and sometimes singing.
+  - text: A guide to playing or singing a particular tune; sheet music.
+  - text: Electronic signal jamming.
+  - text: Heated argument.
+  - text: Fun; amusement.
+- pos: verb
+  defs:
+  - text: To seduce or entice with music.
 ---
-

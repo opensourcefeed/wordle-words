@@ -1,7 +1,42 @@
 ---
 layout: word
-title: kindy
+title: Is KINDY a Wordle Word?
+head_title: Is KINDY a Wordle Word? Yes – Valid Guess & Meaning
 word: kindy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɪndi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An educational institution for young children, usually between ages 4 and 6; nursery school.</li><li><strong>Definition 2:</strong> The elementary school grade before first grade.</li><li><strong>Definition 3:</strong> The two levels between nursery and prep; the second and third years of preschool.</li></ul></div></div>"
+description: Yes, KINDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- kinky
+- windy
+- kandy
+- kiddy
+- kinda
+- kinds
+- kingy
+- lindy
+- rindy
+anagrams:
+- dinky
+phonetic: "/ˈkɪndi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An educational institution for young children, usually between ages 4 and
+      6; nursery school.
+  - text: The elementary school grade before first grade.
+  - text: The two levels between nursery and prep; the second and third years of preschool.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: fence
+title: Is FENCE a Wordle Word?
+head_title: 'Is FENCE a Wordle Word? Yes – Past Answer #1879 & Meaning'
 word: fence
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɛns/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thin artificial barrier that separates two pieces of land or a house perimeter.</li><li><strong>Definition 2:</strong> Someone who hides or buys and sells stolen goods, a criminal middleman for transactions of stolen goods.</li><li><strong>Definition 3:</strong> Skill in oral debate.</li><li><strong>Definition 4:</strong> The art or practice of fencing.</li><li><strong>Definition 5:</strong> A guard or guide on machinery.</li><li><strong>Definition 6:</strong> A barrier, for example an emotional barrier.</li><li><strong>Definition 7:</strong> A memory barrier.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To enclose, contain or separate by building fence.</li><li><strong>Definition 2:</strong> To defend or guard.</li><li><strong>Definition 3:</strong> To engage in the selling or buying of stolen goods.</li><li><strong>Definition 4:</strong> To engage in the sport of fencing.</li><li><strong>Definition 5:</strong> To jump over a fence.</li><li><strong>Definition 6:</strong> To conceal the truth by giving equivocal answers; to hedge; to be evasive.</li></ul></div></div>"
+description: Yes, FENCE is a valid Wordle word. It was the Wordle answer on August
+  11, 2026 (#1879). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 11, 2026 (#1879).
+past_answers:
+- date: '2026-08-11'
+  number: 1879
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- hence
+- pence
+- mence
+phonetic: "/fɛns/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thin artificial barrier that separates two pieces of land or a house perimeter.
+  - text: Someone who hides or buys and sells stolen goods, a criminal middleman for
+      transactions of stolen goods.
+  - text: Skill in oral debate.
+  - text: The art or practice of fencing.
+  - text: A guard or guide on machinery.
+  - text: A barrier, for example an emotional barrier.
+  - text: A memory barrier.
+- pos: verb
+  defs:
+  - text: To enclose, contain or separate by building fence.
+  - text: To defend or guard.
+  - text: To engage in the selling or buying of stolen goods.
+  - text: To engage in the sport of fencing.
+  - text: To jump over a fence.
+  - text: To conceal the truth by giving equivocal answers; to hedge; to be evasive.
 ---
-

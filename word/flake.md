@@ -1,7 +1,61 @@
 ---
 layout: word
-title: flake
+title: Is FLAKE a Wordle Word?
+head_title: 'Is FLAKE a Wordle Word? Yes – Past Answer #1140 & Meaning'
 word: flake
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A loose filmy mass or a thin chiplike layer of anything<p><strong>Example:</strong> There were a few flakes of paint on the floor from when we were painting the walls.</p></li><li><strong>Definition 2:</strong> A scale of a fish or similar animal</li><li><strong>Definition 3:</strong> A prehistoric tool chipped out of stone.</li><li><strong>Definition 4:</strong> A person who is impractical, flighty, unreliable, or inconsistent; especially with maintaining a living.<p><strong>Example:</strong> She makes pleasant conversation, but she's kind of a flake when it comes time for action.</p></li><li><strong>Definition 5:</strong> A carnation with only two colours in the flower, the petals having large stripes.</li><li><strong>Definition 6:</strong> A flat turn or tier of rope.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To break or chip off in a flake.<p><strong>Example:</strong> The paint flaked off after only a year.</p></li><li><strong>Definition 2:</strong> To prove unreliable or impractical; to abandon or desert, to fail to follow through.<p><strong>Example:</strong> He said he'd come and help, but he flaked.</p></li><li><strong>Definition 3:</strong> To store an item such as rope or sail in layers<p><strong>Example:</strong> The line is flaked into the container for easy attachment and deployment.</p></li><li><strong>Definition 4:</strong> To hit (another person).</li></ul></div></div>"
+description: Yes, FLAKE is a valid Wordle word. It was the Wordle answer on August
+  2, 2024 (#1140). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 2, 2024 (#1140).
+past_answers:
+- date: '2024-08-02'
+  number: 1140
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- flaky
+- flame
+- flare
+- fluke
+- flaks
+- flane
+- slake
+definitions:
+- pos: noun
+  defs:
+  - text: A loose filmy mass or a thin chiplike layer of anything
+    example: There were a few flakes of paint on the floor from when we were painting
+      the walls.
+  - text: A scale of a fish or similar animal
+  - text: A prehistoric tool chipped out of stone.
+  - text: A person who is impractical, flighty, unreliable, or inconsistent; especially
+      with maintaining a living.
+    example: She makes pleasant conversation, but she's kind of a flake when it comes
+      time for action.
+  - text: A carnation with only two colours in the flower, the petals having large
+      stripes.
+  - text: A flat turn or tier of rope.
+- pos: verb
+  defs:
+  - text: To break or chip off in a flake.
+    example: The paint flaked off after only a year.
+  - text: To prove unreliable or impractical; to abandon or desert, to fail to follow
+      through.
+    example: He said he'd come and help, but he flaked.
+  - text: To store an item such as rope or sail in layers
+    example: The line is flaked into the container for easy attachment and deployment.
+  - text: To hit (another person).
 ---
-

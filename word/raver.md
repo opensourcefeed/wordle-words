@@ -1,7 +1,49 @@
 ---
 layout: word
-title: raver
+title: Is RAVER a Wordle Word?
+head_title: Is RAVER a Wordle Word? Yes – Valid Guess & Meaning
 word: raver
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who attends rave parties, or who belongs to that subculture.</li><li><strong>Definition 2:</strong> A person who raves or rants.</li></ul></div></div>"
+description: Yes, RAVER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- racer
+- rarer
+- raven
+- river
+- rover
+- waver
+- caver
+- eaver
+- faver
+- haver
+- laver
+- paver
+anagrams:
+- verra
+trap:
+  pattern: _AVER
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A person who attends rave parties, or who belongs to that subculture.
+  - text: A person who raves or rants.
 ---
-

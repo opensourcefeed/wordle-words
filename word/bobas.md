@@ -1,7 +1,46 @@
 ---
 layout: word
-title: bobas
+title: Is BOBAS a Wordle Word?
+head_title: Is BOBAS a Wordle Word? Yes – Valid Guess & Meaning
 word: bobas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Short for boba tea.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small edible ball made primarily from tapioca starch; used in bubble tea.</li></ul></div></div>"
+description: Yes, BOBAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- babas
+- bobac
+- bobak
+- bobos
+- bolas
+- bomas
+- boras
+- botas
+- bubas
+- sobas
+anagrams:
+- boabs
+definitions:
+- pos: noun
+  defs:
+  - text: Short for boba tea.
+- pos: noun
+  defs:
+  - text: A small edible ball made primarily from tapioca starch; used in bubble tea.
 ---
-

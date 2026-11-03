@@ -1,7 +1,32 @@
 ---
 layout: word
-title: pekan
+title: Is PEKAN a Wordle Word?
+head_title: Is PEKAN a Wordle Word? Yes – Valid Guess & Meaning
 word: pekan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The fisher cat, the fisher (Martes pennanti), or the marten (Martes americana).</li></ul></div></div>"
+description: Yes, PEKAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- pecan
+- pekau
+- pekin
+definitions:
+- pos: noun
+  defs:
+  - text: The fisher cat, the fisher (Martes pennanti), or the marten (Martes americana).
 ---
-

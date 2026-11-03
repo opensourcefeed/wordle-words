@@ -1,7 +1,48 @@
 ---
 layout: word
-title: pelta
+title: Is PELTA a Wordle Word?
+head_title: Is PELTA a Wordle Word? Yes – Valid Guess & Meaning
 word: pelta
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small shield, especially one of an approximately elliptical form, or crescent-shaped.</li><li><strong>Definition 2:</strong> A crescent-shaped design used in mosaics.</li><li><strong>Definition 3:</strong> A flat apothecium with no rim.</li><li><strong>Definition 4:</strong> A crescent-shaped sheet of microtubules that encircles the base of the flagella of a protozoan.</li></ul></div></div>"
+description: Yes, PELTA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - T
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- delta
+- pelma
+- pelts
+- pesta
+anagrams:
+- leapt
+- petal
+- plate
+- pleat
+- lepta
+- palet
+- patel
+- tepal
+definitions:
+- pos: noun
+  defs:
+  - text: A small shield, especially one of an approximately elliptical form, or crescent-shaped.
+  - text: A crescent-shaped design used in mosaics.
+  - text: A flat apothecium with no rim.
+  - text: A crescent-shaped sheet of microtubules that encircles the base of the flagella
+      of a protozoan.
 ---
-

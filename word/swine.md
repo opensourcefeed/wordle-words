@@ -1,7 +1,53 @@
 ---
 layout: word
-title: swine
+title: Is SWINE a Wordle Word?
+head_title: 'Is SWINE a Wordle Word? Yes – Past Answer #706 & Meaning'
 word: swine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swaɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (plural swine) A pig (the animal).</li><li><strong>Definition 2:</strong> A contemptible person (plural swines).</li><li><strong>Definition 3:</strong> A police officer; a \"pig\".</li><li><strong>Definition 4:</strong> Something difficult or awkward; a pain.<p><strong>Example:</strong> That old car is a swine to manoeuvre.</p></li></ul></div></div>"
+description: Yes, SWINE is a valid Wordle word. It was the Wordle answer on May 26,
+  2023 (#706). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 26, 2023 (#706).
+past_answers:
+- date: '2023-05-26'
+  number: 706
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- shine
+- spine
+- swing
+- twine
+- dwine
+- gwine
+- saine
+- seine
+- swile
+- swink
+- swipe
+- swire
+anagrams:
+- sinew
+- sewin
+- wines
+phonetic: "/swaɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(plural swine) A pig (the animal)."
+  - text: A contemptible person (plural swines).
+  - text: A police officer; a "pig".
+  - text: Something difficult or awkward; a pain.
+    example: That old car is a swine to manoeuvre.
 ---
-

@@ -1,7 +1,100 @@
 ---
 layout: word
-title: calls
+title: Is CALLS a Wordle Word?
+head_title: Is CALLS a Wordle Word? Yes – Valid Guess & Meaning
 word: calls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɑlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A telephone conversation.<p><strong>Example:</strong> I received several calls today.</p></li><li><strong>Definition 2:</strong> A short visit, usually for social purposes.<p><strong>Example:</strong> I paid a call to a dear friend of mine.</p></li><li><strong>Definition 3:</strong> A visit by a ship or boat to a port.<p><strong>Example:</strong> The ship made a call at Southampton.</p></li><li><strong>Definition 4:</strong> A cry or shout.<p><strong>Example:</strong> He heard a call from the other side of the room.</p></li><li><strong>Definition 5:</strong> A decision or judgement.<p><strong>Example:</strong> That was a good call.</p></li><li><strong>Definition 6:</strong> The characteristic cry of a bird or other animal.<p><strong>Example:</strong> That sound is the distinctive call of the cuckoo bird.</p></li><li><strong>Definition 7:</strong> A beckoning or summoning.<p><strong>Example:</strong> I had to yield to the call of the wild.</p></li><li><strong>Definition 8:</strong> The right to speak at a given time during a debate or other public event; the floor.<p><strong>Example:</strong> I give the call to the Manager of Opposition Business.</p></li><li><strong>Definition 9:</strong> An option to buy stock at a specified price during or at a specified time.</li><li><strong>Definition 10:</strong> The act of calling to the other batsman.</li><li><strong>Definition 11:</strong> The state of being the batsman whose role it is to call (depends on where the ball goes.)</li><li><strong>Definition 12:</strong> A work shift which requires one to be available when requested (see on call).</li><li><strong>Definition 13:</strong> The act of jumping to a subprogram, saving the means to return to the original point.</li><li><strong>Definition 14:</strong> A statement of a particular state, or rule, made in many games such as bridge, craps, jacks, and so on.<p><strong>Example:</strong> There was a 20 dollar bet on the table, and my call was 9.</p></li><li><strong>Definition 15:</strong> The act of matching a bet made by a player who has previously bet in the same round of betting.</li><li><strong>Definition 16:</strong> A note blown on the horn to encourage the dogs in a hunt.</li><li><strong>Definition 17:</strong> A whistle or pipe, used by the boatswain and his mate to summon the sailors to duty.</li><li><strong>Definition 18:</strong> A pipe or other instrument to call birds or animals by imitating their note or cry. A game call.</li><li><strong>Definition 19:</strong> An invitation to take charge of or serve a church as its pastor.</li><li><strong>Definition 20:</strong> Vocation; employment; calling.</li><li><strong>Definition 21:</strong> A reference to, or statement of, an object, course, distance, or other matter of description in a survey or grant requiring or calling for a corresponding object, etc., on the land.</li><li><strong>Definition 22:</strong> (prostitution) A meeting with a client for paid sex; hookup; job.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (heading) To use one's voice.</li><li><strong>Definition 2:</strong> (heading) To visit.</li><li><strong>Definition 3:</strong> (heading) To name, identify or describe.</li><li><strong>Definition 4:</strong> (heading) Direct or indirect use of the voice.</li><li><strong>Definition 5:</strong> (sometimes with for) To require, demand.<p><strong>Example:</strong> He felt called to help the old man.</p></li><li><strong>Definition 6:</strong> To announce the early extinction of a debt by prepayment, usually at a premium.</li><li><strong>Definition 7:</strong> To demand repayment of a loan.</li><li><strong>Definition 8:</strong> To jump to (another part of a program) to perform some operation, returning to the original point on completion.<p><strong>Example:</strong> A recursive function is one that calls itself.</p></li></ul></div></div>"
+description: Yes, CALLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- balls
+- calfs
+- calks
+- calla
+- calle
+- calms
+- calos
+- calps
+- carls
+- cauls
+- cells
+- cills
+anagrams:
+- scall
+trap:
+  pattern: _ALLS
+  count: 10
+phonetic: "/kɑlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A telephone conversation.
+    example: I received several calls today.
+  - text: A short visit, usually for social purposes.
+    example: I paid a call to a dear friend of mine.
+  - text: A visit by a ship or boat to a port.
+    example: The ship made a call at Southampton.
+  - text: A cry or shout.
+    example: He heard a call from the other side of the room.
+  - text: A decision or judgement.
+    example: That was a good call.
+  - text: The characteristic cry of a bird or other animal.
+    example: That sound is the distinctive call of the cuckoo bird.
+  - text: A beckoning or summoning.
+    example: I had to yield to the call of the wild.
+  - text: The right to speak at a given time during a debate or other public event;
+      the floor.
+    example: I give the call to the Manager of Opposition Business.
+  - text: An option to buy stock at a specified price during or at a specified time.
+  - text: The act of calling to the other batsman.
+  - text: The state of being the batsman whose role it is to call (depends on where
+      the ball goes.)
+  - text: A work shift which requires one to be available when requested (see on call).
+  - text: The act of jumping to a subprogram, saving the means to return to the original
+      point.
+  - text: A statement of a particular state, or rule, made in many games such as bridge,
+      craps, jacks, and so on.
+    example: There was a 20 dollar bet on the table, and my call was 9.
+  - text: The act of matching a bet made by a player who has previously bet in the
+      same round of betting.
+  - text: A note blown on the horn to encourage the dogs in a hunt.
+  - text: A whistle or pipe, used by the boatswain and his mate to summon the sailors
+      to duty.
+  - text: A pipe or other instrument to call birds or animals by imitating their note
+      or cry. A game call.
+  - text: An invitation to take charge of or serve a church as its pastor.
+  - text: Vocation; employment; calling.
+  - text: A reference to, or statement of, an object, course, distance, or other matter
+      of description in a survey or grant requiring or calling for a corresponding
+      object, etc., on the land.
+  - text: "(prostitution) A meeting with a client for paid sex; hookup; job."
+- pos: verb
+  defs:
+  - text: "(heading) To use one's voice."
+  - text: "(heading) To visit."
+  - text: "(heading) To name, identify or describe."
+  - text: "(heading) Direct or indirect use of the voice."
+  - text: "(sometimes with for) To require, demand."
+    example: He felt called to help the old man.
+  - text: To announce the early extinction of a debt by prepayment, usually at a premium.
+  - text: To demand repayment of a loan.
+  - text: To jump to (another part of a program) to perform some operation, returning
+      to the original point on completion.
+    example: A recursive function is one that calls itself.
 ---
-

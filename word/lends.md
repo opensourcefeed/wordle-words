@@ -1,7 +1,56 @@
 ---
 layout: word
-title: lends
+title: Is LENDS a Wordle Word?
+head_title: Is LENDS a Wordle Word? Yes – Valid Guess & Meaning
 word: lends
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To allow to be used by someone temporarily, on condition that it or its equivalent will be returned.<p><strong>Example:</strong> I lent her 10 euros to pay for the train tickets, and she paid me back the next day.</p></li><li><strong>Definition 2:</strong> To make a loan.</li><li><strong>Definition 3:</strong> To be suitable or applicable, to fit.<p><strong>Example:</strong> Poems do not lend themselves to translation easily.</p></li><li><strong>Definition 4:</strong> To afford; to grant or furnish in general.<p><strong>Example:</strong> Can you lend me some assistance?</p></li><li><strong>Definition 5:</strong> To borrow.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Loins</li></ul></div></div>"
+description: Yes, LENDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- bends
+- fends
+- hends
+- lands
+- leads
+- lenes
+- lengs
+- lenis
+- lenos
+- leuds
+- linds
+- mends
+trap:
+  pattern: _ENDS
+  count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: To allow to be used by someone temporarily, on condition that it or its
+      equivalent will be returned.
+    example: I lent her 10 euros to pay for the train tickets, and she paid me back
+      the next day.
+  - text: To make a loan.
+  - text: To be suitable or applicable, to fit.
+    example: Poems do not lend themselves to translation easily.
+  - text: To afford; to grant or furnish in general.
+    example: Can you lend me some assistance?
+  - text: To borrow.
+- pos: noun
+  defs:
+  - text: Loins
 ---
-

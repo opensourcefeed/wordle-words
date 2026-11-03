@@ -1,7 +1,54 @@
 ---
 layout: word
-title: roups
+title: Is ROUPS a Wordle Word?
+head_title: Is ROUPS a Wordle Word? Yes – Valid Guess & Meaning
 word: roups
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An outcry.</li><li><strong>Definition 2:</strong> A sale of goods by auction.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cry or shout.</li><li><strong>Definition 2:</strong> To sell by auction.</li></ul></div></div>"
+description: Yes, ROUPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- coups
+- doups
+- loups
+- moups
+- noups
+- reups
+- romps
+- roops
+- rosps
+- roues
+- roufs
+- rouks
+anagrams:
+- porus
+- pours
+- puros
+trap:
+  pattern: _OUPS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: An outcry.
+  - text: A sale of goods by auction.
+- pos: verb
+  defs:
+  - text: To cry or shout.
+  - text: To sell by auction.
 ---
-

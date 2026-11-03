@@ -1,7 +1,47 @@
 ---
 layout: word
-title: mutts
+title: Is MUTTS a Wordle Word?
+head_title: Is MUTTS a Wordle Word? Yes – Valid Guess & Meaning
 word: mutts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A monastic or similar religious establishment in Hinduism and Jainism, usually more formal and hierarchical than an ashram.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mongrel dog (or sometimes cat); an animal of mixed breed or uncertain origin.</li><li><strong>Definition 2:</strong> (sometimes derogatory) A person of diverse ancestry.</li><li><strong>Definition 3:</strong> An idiot, a stupid person.</li></ul></div></div>"
+description: Yes, MUTTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- butts
+- matts
+- mitts
+- motts
+- munts
+- musts
+- mutas
+- mutes
+- mutis
+- mutti
+- putts
+definitions:
+- pos: noun
+  defs:
+  - text: A monastic or similar religious establishment in Hinduism and Jainism, usually
+      more formal and hierarchical than an ashram.
+- pos: noun
+  defs:
+  - text: A mongrel dog (or sometimes cat); an animal of mixed breed or uncertain
+      origin.
+  - text: "(sometimes derogatory) A person of diverse ancestry."
+  - text: An idiot, a stupid person.
 ---
-

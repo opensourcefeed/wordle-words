@@ -1,7 +1,58 @@
 ---
 layout: word
-title: harps
+title: Is HARPS a Wordle Word?
+head_title: Is HARPS a Wordle Word? Yes – Valid Guess & Meaning
 word: harps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A musical instrument consisting of a body and a curved neck, strung with strings of varying length that are stroked or plucked with the fingers and are vertical to the soundboard when viewed from the end of the body</li><li><strong>Definition 2:</strong> A harmonica.</li><li><strong>Definition 3:</strong> A grain sieve.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (usually with on) To repeatedly mention a subject.<p><strong>Example:</strong> Why do you harp on a single small mistake?</p></li><li><strong>Definition 2:</strong> To play on (a harp or similar instrument)</li><li><strong>Definition 3:</strong> To play (a tune) on the harp.</li><li><strong>Definition 4:</strong> To develop or give expression to by skill and art; to sound forth as from a harp; to hit upon.</li></ul></div></div>"
+description: Yes, HARPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- harpy
+- barps
+- carps
+- hards
+- hares
+- harks
+- harls
+- harms
+- harns
+- haros
+- harts
+- hasps
+anagrams:
+- sharp
+trap:
+  pattern: HAR_S
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A musical instrument consisting of a body and a curved neck, strung with
+      strings of varying length that are stroked or plucked with the fingers and are
+      vertical to the soundboard when viewed from the end of the body
+  - text: A harmonica.
+  - text: A grain sieve.
+- pos: verb
+  defs:
+  - text: "(usually with on) To repeatedly mention a subject."
+    example: Why do you harp on a single small mistake?
+  - text: To play on (a harp or similar instrument)
+  - text: To play (a tune) on the harp.
+  - text: To develop or give expression to by skill and art; to sound forth as from
+      a harp; to hit upon.
 ---
-

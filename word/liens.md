@@ -1,7 +1,47 @@
 ---
 layout: word
-title: liens
+title: Is LIENS a Wordle Word?
+head_title: Is LIENS a Wordle Word? Yes – Valid Guess & Meaning
 word: liens
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tendon.</li><li><strong>Definition 2:</strong> A right to take possession of a debtor’s property as security until a debt or duty is discharged.</li></ul></div></div>"
+description: Yes, LIENS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- liefs
+- liers
+- lieus
+- limns
+- linns
+- lions
+- miens
+- siens
+anagrams:
+- elsin
+- lenis
+- lines
+- nelis
+- silen
+definitions:
+- pos: noun
+  defs:
+  - text: A tendon.
+  - text: A right to take possession of a debtor’s property as security until a debt
+      or duty is discharged.
 ---
-

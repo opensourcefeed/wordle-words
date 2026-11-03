@@ -1,7 +1,55 @@
 ---
 layout: word
-title: borne
+title: Is BORNE a Wordle Word?
+head_title: 'Is BORNE a Wordle Word? Yes – Past Answer #1431 & Meaning'
 word: borne
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɔːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To carry or convey, literally or figuratively.<p><strong>Example:</strong> Judging from the look on his face, he wasn't bearing good news.</p></li><li><strong>Definition 2:</strong> To support, sustain, or endure.</li><li><strong>Definition 3:</strong> To support, keep up, or maintain.</li><li><strong>Definition 4:</strong> To press or impinge upon.</li><li><strong>Definition 5:</strong> To produce, yield, give birth to.</li><li><strong>Definition 6:</strong> (originally nautical) To be, or head, in a specific direction or azimuth (from somewhere).<p><strong>Example:</strong> By my readings, we're bearing due south, so we should turn about ten degrees east.</p></li><li><strong>Definition 7:</strong> To gain or win.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Carried, supported.</li></ul></div></div>"
+description: Yes, BORNE is a valid Wordle word. It was the Wordle answer on May 20,
+  2025 (#1431). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 20, 2025 (#1431).
+past_answers:
+- date: '2025-05-20'
+  number: 1431
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- bonne
+- borde
+- boree
+- borna
+- bowne
+- morne
+anagrams:
+- boner
+phonetic: "/bɔːn/"
+definitions:
+- pos: verb
+  defs:
+  - text: To carry or convey, literally or figuratively.
+    example: Judging from the look on his face, he wasn't bearing good news.
+  - text: To support, sustain, or endure.
+  - text: To support, keep up, or maintain.
+  - text: To press or impinge upon.
+  - text: To produce, yield, give birth to.
+  - text: "(originally nautical) To be, or head, in a specific direction or azimuth
+      (from somewhere)."
+    example: By my readings, we're bearing due south, so we should turn about ten
+      degrees east.
+  - text: To gain or win.
+- pos: adjective
+  defs:
+  - text: Carried, supported.
 ---
-

@@ -1,7 +1,61 @@
 ---
 layout: word
-title: ready
+title: Is READY a Wordle Word?
+head_title: 'Is READY a Wordle Word? Yes – Past Answer #1238 & Meaning'
 word: ready
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɛdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Ready money; cash</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare; to make ready for action.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Prepared for immediate action or use.<p><strong>Example:</strong> The porridge is ready to serve.</p></li><li><strong>Definition 2:</strong> Inclined; apt to happen.</li><li><strong>Definition 3:</strong> Liable at any moment.<p><strong>Example:</strong> The seed is ready to sprout.</p></li><li><strong>Definition 4:</strong> Not slow or hesitating; quick in action or perception of any kind.<p><strong>Example:</strong> a ready apprehension</p></li><li><strong>Definition 5:</strong> Offering itself at once; at hand; opportune; convenient.</li></ul></div></div>"
+description: Yes, READY is a valid Wordle word. It was the Wordle answer on November
+  8, 2024 (#1238). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 8, 2024 (#1238).
+past_answers:
+- date: '2024-11-08'
+  number: 1238
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- beady
+- heady
+- reedy
+- leady
+- readd
+- reads
+- reamy
+- reddy
+- roady
+anagrams:
+- deary
+- deray
+- rayed
+- yeard
+phonetic: "/ˈɹɛdi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Ready money; cash
+- pos: verb
+  defs:
+  - text: To prepare; to make ready for action.
+- pos: adjective
+  defs:
+  - text: Prepared for immediate action or use.
+    example: The porridge is ready to serve.
+  - text: Inclined; apt to happen.
+  - text: Liable at any moment.
+    example: The seed is ready to sprout.
+  - text: Not slow or hesitating; quick in action or perception of any kind.
+    example: a ready apprehension
+  - text: Offering itself at once; at hand; opportune; convenient.
 ---
-

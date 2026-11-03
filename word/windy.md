@@ -1,7 +1,50 @@
 ---
 layout: word
-title: windy
+title: Is WINDY a Wordle Word?
+head_title: 'Is WINDY a Wordle Word? Yes – Past Answer #747 & Meaning'
 word: windy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɪndi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Fart</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Accompanied by wind.<p><strong>Example:</strong> It was a long and windy night.</p></li><li><strong>Definition 2:</strong> Unsheltered and open to the wind.<p><strong>Example:</strong> They made love in a windy bus shelter.</p></li><li><strong>Definition 3:</strong> Empty and lacking substance.<p><strong>Example:</strong> They made windy promises they would not keep.</p></li><li><strong>Definition 4:</strong> Long-winded; orally verbose.</li><li><strong>Definition 5:</strong> Flatulent.</li><li><strong>Definition 6:</strong> Nervous, frightened.</li></ul></div></div>"
+description: Yes, WINDY is a valid Wordle word. It was the Wordle answer on July 6,
+  2023 (#747). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 6, 2023 (#747).
+past_answers:
+- date: '2023-07-06'
+  number: 747
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- kindy
+- lindy
+- rindy
+- widdy
+- winds
+- winey
+- wingy
+- winky
+phonetic: "/ˈwɪndi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Fart
+- pos: adjective
+  defs:
+  - text: Accompanied by wind.
+    example: It was a long and windy night.
+  - text: Unsheltered and open to the wind.
+    example: They made love in a windy bus shelter.
+  - text: Empty and lacking substance.
+    example: They made windy promises they would not keep.
+  - text: Long-winded; orally verbose.
+  - text: Flatulent.
+  - text: Nervous, frightened.
 ---
-

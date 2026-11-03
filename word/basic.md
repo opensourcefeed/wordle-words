@@ -1,7 +1,51 @@
 ---
 layout: word
-title: basic
+title: Is BASIC a Wordle Word?
+head_title: 'Is BASIC a Wordle Word? Yes – Past Answer #100 & Meaning'
 word: basic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbeɪsɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A necessary commodity, a staple requirement.<p><strong>Example:</strong> Rice is a basic for many Asian villagers.</p></li><li><strong>Definition 2:</strong> An elementary building block, e.g. a fundamental piece of knowledge.<p><strong>Example:</strong> Arithmetic is a basic for the study of mathematics.</p></li><li><strong>Definition 3:</strong> Basic training.<p><strong>Example:</strong> The drill sergeants gave him hell in basic.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Necessary, essential for life or some process.<p><strong>Example:</strong> Flour is a basic ingredient of bread.</p></li><li><strong>Definition 2:</strong> Elementary, simple, fundamental, merely functional.<p><strong>Example:</strong> The Hotel Sparta’s accommodation is very basic.</p></li><li><strong>Definition 3:</strong> Of or pertaining to a base; having a pH greater than 7.</li><li><strong>Definition 4:</strong> Unremarkable or uninteresting; boring; uncool.</li></ul></div></div>"
+description: Yes, BASIC is a valid Wordle word. It was the Wordle answer on September
+  27, 2021 (#100). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 27, 2021 (#100).
+past_answers:
+- date: '2021-09-27'
+  number: 100
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- basil
+- basin
+- basis
+- baric
+- basij
+phonetic: "/ˈbeɪsɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A necessary commodity, a staple requirement.
+    example: Rice is a basic for many Asian villagers.
+  - text: An elementary building block, e.g. a fundamental piece of knowledge.
+    example: Arithmetic is a basic for the study of mathematics.
+  - text: Basic training.
+    example: The drill sergeants gave him hell in basic.
+- pos: adjective
+  defs:
+  - text: Necessary, essential for life or some process.
+    example: Flour is a basic ingredient of bread.
+  - text: Elementary, simple, fundamental, merely functional.
+    example: The Hotel Sparta’s accommodation is very basic.
+  - text: Of or pertaining to a base; having a pH greater than 7.
+  - text: Unremarkable or uninteresting; boring; uncool.
 ---
-

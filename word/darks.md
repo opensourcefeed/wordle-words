@@ -1,7 +1,55 @@
 ---
 layout: word
-title: darks
+title: Is DARKS a Wordle Word?
+head_title: Is DARKS a Wordle Word? Yes – Valid Guess & Meaning
 word: darks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A complete or (more often) partial absence of light.<p><strong>Example:</strong> Dark surrounds us completely.</p></li><li><strong>Definition 2:</strong> Ignorance.<p><strong>Example:</strong> The lawyer was left in the dark as to why the jury was dismissed.</p></li><li><strong>Definition 3:</strong> Nightfall.<p><strong>Example:</strong> It was after dark before we got to playing baseball.</p></li><li><strong>Definition 4:</strong> A dark shade or dark passage in a painting, engraving, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grow or become dark, darken.</li><li><strong>Definition 2:</strong> To remain in the dark, lurk, lie hidden or concealed.</li><li><strong>Definition 3:</strong> To make dark, darken; to obscure.</li></ul></div></div>"
+description: Yes, DARKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- barks
+- carks
+- dacks
+- danks
+- darbs
+- dares
+- dargs
+- daris
+- darls
+- darns
+- darts
+- dawks
+trap:
+  pattern: _ARKS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: A complete or (more often) partial absence of light.
+    example: Dark surrounds us completely.
+  - text: Ignorance.
+    example: The lawyer was left in the dark as to why the jury was dismissed.
+  - text: Nightfall.
+    example: It was after dark before we got to playing baseball.
+  - text: A dark shade or dark passage in a painting, engraving, etc.
+- pos: verb
+  defs:
+  - text: To grow or become dark, darken.
+  - text: To remain in the dark, lurk, lie hidden or concealed.
+  - text: To make dark, darken; to obscure.
 ---
-

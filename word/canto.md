@@ -1,7 +1,51 @@
 ---
 layout: word
-title: canto
+title: Is CANTO a Wordle Word?
+head_title: Is CANTO a Wordle Word? Yes – Valid Guess & Meaning
 word: canto
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkæntəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the chief divisions of a long poem; a book.</li><li><strong>Definition 2:</strong> The treble or leading melody.</li></ul></div></div>"
+description: Yes, CANTO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- cando
+- canso
+- canti
+- cants
+- canty
+- cento
+- conto
+- manto
+- nanto
+- panto
+- santo
+- tanto
+anagrams:
+- acton
+- cotan
+- octan
+trap:
+  pattern: _ANTO
+  count: 6
+phonetic: "/ˈkæntəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: One of the chief divisions of a long poem; a book.
+  - text: The treble or leading melody.
 ---
-

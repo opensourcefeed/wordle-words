@@ -1,7 +1,70 @@
 ---
 layout: word
-title: drain
+title: Is DRAIN a Wordle Word?
+head_title: 'Is DRAIN a Wordle Word? Yes – Past Answer #63 & Meaning'
 word: drain
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹeɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A conduit allowing liquid to flow out of an otherwise contained volume; a plughole (UK)<p><strong>Example:</strong> The drain in the kitchen sink is clogged.</p></li><li><strong>Definition 2:</strong> An access point or conduit for rainwater that drains directly downstream in a (drainage) basin without going through sewers or water treatment in order to prevent or belay floods.</li><li><strong>Definition 3:</strong> Something consuming resources and providing nothing in return.<p><strong>Example:</strong> That rental property is a drain on our finances.</p></li><li><strong>Definition 4:</strong> An act of urination.</li><li><strong>Definition 5:</strong> One terminal of a field effect transistor (FET).</li><li><strong>Definition 6:</strong> An outhole.</li><li><strong>Definition 7:</strong> A drink.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lose liquid.<p><strong>Example:</strong> The clogged sink drained slowly.</p></li><li><strong>Definition 2:</strong> To flow gradually.<p><strong>Example:</strong> The water of low ground drains off.</p></li><li><strong>Definition 3:</strong> To cause liquid to flow out of.<p><strong>Example:</strong> Please drain the sink. It's full of dirty water.</p></li><li><strong>Definition 4:</strong> To convert a perennially wet place into a dry one.<p><strong>Example:</strong> They had to drain the swampy land before the parking lot could be built.</p></li><li><strong>Definition 5:</strong> To deplete of energy or resources.<p><strong>Example:</strong> The stress of this job is really draining me.</p></li><li><strong>Definition 6:</strong> To draw off by degrees; to cause to flow gradually out or off; hence, to exhaust.</li><li><strong>Definition 7:</strong> To filter.</li><li><strong>Definition 8:</strong> To fall off the bottom of the playfield.</li></ul></div></div>"
+description: Yes, DRAIN is a valid Wordle word. It was the Wordle answer on August
+  21, 2021 (#63). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 21, 2021 (#63).
+past_answers:
+- date: '2021-08-21'
+  number: 63
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- brain
+- drawn
+- grain
+- train
+- drail
+anagrams:
+- nadir
+- dinar
+- ranid
+phonetic: "/dɹeɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A conduit allowing liquid to flow out of an otherwise contained volume;
+      a plughole (UK)
+    example: The drain in the kitchen sink is clogged.
+  - text: An access point or conduit for rainwater that drains directly downstream
+      in a (drainage) basin without going through sewers or water treatment in order
+      to prevent or belay floods.
+  - text: Something consuming resources and providing nothing in return.
+    example: That rental property is a drain on our finances.
+  - text: An act of urination.
+  - text: One terminal of a field effect transistor (FET).
+  - text: An outhole.
+  - text: A drink.
+- pos: verb
+  defs:
+  - text: To lose liquid.
+    example: The clogged sink drained slowly.
+  - text: To flow gradually.
+    example: The water of low ground drains off.
+  - text: To cause liquid to flow out of.
+    example: Please drain the sink. It's full of dirty water.
+  - text: To convert a perennially wet place into a dry one.
+    example: They had to drain the swampy land before the parking lot could be built.
+  - text: To deplete of energy or resources.
+    example: The stress of this job is really draining me.
+  - text: To draw off by degrees; to cause to flow gradually out or off; hence, to
+      exhaust.
+  - text: To filter.
+  - text: To fall off the bottom of the playfield.
 ---
-

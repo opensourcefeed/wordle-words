@@ -1,7 +1,36 @@
 ---
 layout: word
-title: exine
+title: Is EXINE a Wordle Word?
+head_title: Is EXINE a Wordle Word? Yes – Valid Guess & Meaning
 word: exine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The outer layer of a pollen grain or spore; the exosporium</li></ul></div></div>"
+description: Yes, EXINE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - I
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- exile
+- exing
+- exite
+- ezine
+- oxine
+definitions:
+- pos: noun
+  defs:
+  - text: The outer layer of a pollen grain or spore; the exosporium
 ---
-

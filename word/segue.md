@@ -1,7 +1,40 @@
 ---
 layout: word
-title: segue
+title: Is SEGUE a Wordle Word?
+head_title: 'Is SEGUE a Wordle Word? Yes – Past Answer #1641 & Meaning'
 word: segue
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɛɡweɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An instance of segueing, a transition.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move smoothly from one state or subject to another.<p><strong>Example:</strong> I can tell she’s going to segue from our conversation about school to the topic of marriage.</p></li><li><strong>Definition 2:</strong> To make a smooth transition from one theme to another.<p><strong>Example:</strong> Beethoven’s symphonies effortlessly segue from one theme to the next.</p></li><li><strong>Definition 3:</strong> (of a disk jockey) To play a sequence of records with no talk between them.</li></ul></div></div>"
+description: Yes, SEGUE is a valid Wordle word. It was the Wordle answer on December
+  16, 2025 (#1641). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 16, 2025 (#1641).
+past_answers:
+- date: '2025-12-16'
+  number: 1641
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+phonetic: "/ˈsɛɡweɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An instance of segueing, a transition.
+- pos: verb
+  defs:
+  - text: To move smoothly from one state or subject to another.
+    example: I can tell she’s going to segue from our conversation about school to
+      the topic of marriage.
+  - text: To make a smooth transition from one theme to another.
+    example: Beethoven’s symphonies effortlessly segue from one theme to the next.
+  - text: "(of a disk jockey) To play a sequence of records with no talk between them."
 ---
-

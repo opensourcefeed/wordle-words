@@ -1,7 +1,68 @@
 ---
 layout: word
-title: mixed
+title: Is MIXED a Wordle Word?
+head_title: Is MIXED a Wordle Word? Yes – Valid Guess & Meaning
 word: mixed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɪkst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stir together.<p><strong>Example:</strong> Mix the eggs and milk with the flour until the consistency is smooth.</p></li><li><strong>Definition 2:</strong> To combine (items from two or more sources normally kept separate).<p><strong>Example:</strong> Don't mix the meat recipes with the dairy recipes.</p></li><li><strong>Definition 3:</strong> To form by mingling; to produce by the stirring together of ingredients; to concoct from different parts.<p><strong>Example:</strong> Yellow and blue paint mix to make green.</p></li><li><strong>Definition 4:</strong> To blend by the use of a mixer (machine).<p><strong>Example:</strong> Mix the egg whites until they are stiff.</p></li><li><strong>Definition 5:</strong> To combine (several tracks).<p><strong>Example:</strong> I'll mix the rhythm tracks down to a single track.</p></li><li><strong>Definition 6:</strong> To produce a finished version of (a recording).<p><strong>Example:</strong> I'm almost done mixing this song.</p></li><li><strong>Definition 7:</strong> To unite with in company; to join; to associate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having two or more separate aspects.<p><strong>Example:</strong> I get a very mixed feeling from this puzzling painting.</p></li><li><strong>Definition 2:</strong> Not completely pure, tainted or adulterated.<p><strong>Example:</strong> My joy was somewhat mixed when my partner said she was pregnant: it's a lot of responsibility.</p></li><li><strong>Definition 3:</strong> Including both male(s) and female(s).<p><strong>Example:</strong> My son attends a mixed school, my daughter an all-girl grammar school.</p></li><li><strong>Definition 4:</strong> Stemming from two or more races or breeds<p><strong>Example:</strong> Mixed blood can surprisingly produce inherited properties which neither parent showed</p></li></ul></div></div>"
+description: Yes, MIXED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- fixed
+- maxed
+- miked
+- mimed
+- mined
+- mired
+- mixen
+- mixer
+- mixes
+- muxed
+- nixed
+phonetic: "/mɪkst/"
+definitions:
+- pos: verb
+  defs:
+  - text: To stir together.
+    example: Mix the eggs and milk with the flour until the consistency is smooth.
+  - text: To combine (items from two or more sources normally kept separate).
+    example: Don't mix the meat recipes with the dairy recipes.
+  - text: To form by mingling; to produce by the stirring together of ingredients;
+      to concoct from different parts.
+    example: Yellow and blue paint mix to make green.
+  - text: To blend by the use of a mixer (machine).
+    example: Mix the egg whites until they are stiff.
+  - text: To combine (several tracks).
+    example: I'll mix the rhythm tracks down to a single track.
+  - text: To produce a finished version of (a recording).
+    example: I'm almost done mixing this song.
+  - text: To unite with in company; to join; to associate.
+- pos: adjective
+  defs:
+  - text: Having two or more separate aspects.
+    example: I get a very mixed feeling from this puzzling painting.
+  - text: Not completely pure, tainted or adulterated.
+    example: 'My joy was somewhat mixed when my partner said she was pregnant: it''s
+      a lot of responsibility.'
+  - text: Including both male(s) and female(s).
+    example: My son attends a mixed school, my daughter an all-girl grammar school.
+  - text: Stemming from two or more races or breeds
+    example: Mixed blood can surprisingly produce inherited properties which neither
+      parent showed
 ---
-

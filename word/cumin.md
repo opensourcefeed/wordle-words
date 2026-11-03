@@ -1,7 +1,38 @@
 ---
 layout: word
-title: cumin
+title: Is CUMIN a Wordle Word?
+head_title: 'Is CUMIN a Wordle Word? Yes – Past Answer #1059 & Meaning'
 word: cumin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkjuːmɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The flowering plant Cuminum cyminum, in the family Apiaceae.<p><strong>Example:</strong> Cumin is native to the region from the eastern Mediterranean to India.</p></li><li><strong>Definition 2:</strong> Its aromatic long seed, used as a spice, notably in Indian, Middle Eastern, and Mexican cookery.</li></ul></div></div>"
+description: Yes, CUMIN is a valid Wordle word. It was the Wordle answer on May 13,
+  2024 (#1059). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 13, 2024 (#1059).
+past_answers:
+- date: '2024-05-13'
+  number: 1059
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- cutin
+anagrams:
+- mucin
+phonetic: "/ˈkjuːmɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The flowering plant Cuminum cyminum, in the family Apiaceae.
+    example: Cumin is native to the region from the eastern Mediterranean to India.
+  - text: Its aromatic long seed, used as a spice, notably in Indian, Middle Eastern,
+      and Mexican cookery.
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: pooed
+title: Is POOED a Wordle Word?
+head_title: Is POOED a Wordle Word? Yes – Valid Guess & Meaning
 word: pooed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To defecate.</li><li><strong>Definition 2:</strong> To dirty something with feces.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To say \"pooh\".</li><li><strong>Definition 2:</strong> To say \"pooh\" to.</li></ul></div></div>"
+description: Yes, POOED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- booed
+- cooed
+- looed
+- mooed
+- pohed
+- poked
+- poled
+- pooey
+- pored
+- posed
+- poted
+- poxed
+anagrams:
+- ooped
+trap:
+  pattern: PO_ED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To defecate.
+  - text: To dirty something with feces.
+- pos: verb
+  defs:
+  - text: To say "pooh".
+  - text: To say "pooh" to.
 ---
-

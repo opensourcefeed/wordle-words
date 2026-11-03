@@ -1,7 +1,56 @@
 ---
 layout: word
-title: capes
+title: Is CAPES a Wordle Word?
+head_title: Is CAPES a Wordle Word? Yes – Valid Guess & Meaning
 word: capes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /keɪps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece or point of land, extending beyond the adjacent coast into a sea or lake; a promontory; a headland.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sleeveless garment or part of a garment, hanging from the neck over the back, arms, and shoulders.</li><li><strong>Definition 2:</strong> A superhero.</li></ul></div></div>"
+description: Yes, CAPES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- caper
+- cades
+- cafes
+- cages
+- cakes
+- cames
+- canes
+- capas
+- caped
+- capex
+- caphs
+- capos
+anagrams:
+- space
+- paces
+- scape
+trap:
+  pattern: CA_ES
+  count: 11
+phonetic: "/keɪps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A piece or point of land, extending beyond the adjacent coast into a sea
+      or lake; a promontory; a headland.
+- pos: noun
+  defs:
+  - text: A sleeveless garment or part of a garment, hanging from the neck over the
+      back, arms, and shoulders.
+  - text: A superhero.
 ---
-

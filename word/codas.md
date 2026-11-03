@@ -1,7 +1,47 @@
 ---
 layout: word
-title: codas
+title: Is CODAS a Wordle Word?
+head_title: Is CODAS a Wordle Word? Yes – Valid Guess & Meaning
 word: codas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person born hearing to deaf parents.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A passage that brings a movement or piece to a conclusion through prolongation.</li><li><strong>Definition 2:</strong> The optional final part of a syllable, placed after its nucleus, and usually composed of one or more consonants.<p><strong>Example:</strong> The word “salts” has three consonants — /l/, /t/, and /s/ — in its coda, whereas the word “glee” has no coda at all.</p></li><li><strong>Definition 3:</strong> In seismograms, the gradual return to baseline after a seismic event. The length of the coda can be used to estimate event magnitude, and the shape sometimes reveals details of subsurface structures.</li><li><strong>Definition 4:</strong> A conclusion (of a statement or event, for example), final portion, tail end.</li></ul></div></div>"
+description: Yes, CODAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- cocas
+- codes
+- colas
+- comas
+- sodas
+definitions:
+- pos: noun
+  defs:
+  - text: A person born hearing to deaf parents.
+- pos: noun
+  defs:
+  - text: A passage that brings a movement or piece to a conclusion through prolongation.
+  - text: The optional final part of a syllable, placed after its nucleus, and usually
+      composed of one or more consonants.
+    example: The word “salts” has three consonants — /l/, /t/, and /s/ — in its coda,
+      whereas the word “glee” has no coda at all.
+  - text: In seismograms, the gradual return to baseline after a seismic event. The
+      length of the coda can be used to estimate event magnitude, and the shape sometimes
+      reveals details of subsurface structures.
+  - text: A conclusion (of a statement or event, for example), final portion, tail
+      end.
 ---
-

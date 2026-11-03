@@ -1,7 +1,55 @@
 ---
 layout: word
-title: plops
+title: Is PLOPS a Wordle Word?
+head_title: Is PLOPS a Wordle Word? Yes – Valid Guess & Meaning
 word: plops
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sound or action like liquid hitting a hard surface, or an object falling into a body of water.<p><strong>Example:</strong> He heard the plops of rain on the roof.</p></li><li><strong>Definition 2:</strong> Excrement; derived from the \"plop\" sound made when it hits water in a toilet.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make the sound of an object dropping into a body of liquid.</li><li><strong>Definition 2:</strong> To land heavily or loosely.<p><strong>Example:</strong> He plopped down on the sofa to watch TV.</p></li><li><strong>Definition 3:</strong> To defecate; derived from the \"plop\" sound made when excrement hits water in a toilet.</li></ul></div></div>"
+description: Yes, PLOPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- clops
+- elops
+- flops
+- glops
+- plaps
+- plips
+- plods
+- plots
+- plows
+- ploys
+- plups
+- poops
+trap:
+  pattern: _LOPS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A sound or action like liquid hitting a hard surface, or an object falling
+      into a body of water.
+    example: He heard the plops of rain on the roof.
+  - text: Excrement; derived from the "plop" sound made when it hits water in a toilet.
+- pos: verb
+  defs:
+  - text: To make the sound of an object dropping into a body of liquid.
+  - text: To land heavily or loosely.
+    example: He plopped down on the sofa to watch TV.
+  - text: To defecate; derived from the "plop" sound made when excrement hits water
+      in a toilet.
 ---
-

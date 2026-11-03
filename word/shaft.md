@@ -1,7 +1,72 @@
 ---
 layout: word
-title: shaft
+title: Is SHAFT a Wordle Word?
+head_title: 'Is SHAFT a Wordle Word? Yes – Past Answer #1127 & Meaning'
 word: shaft
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The entire body of a long weapon, such as an arrow.</li><li><strong>Definition 2:</strong> The long, narrow, central body of a spear, arrow, or javelin.<p><strong>Example:</strong> Her hand slipped off the javelin's shaft towards the spearpoint and that's why her score was lowered.</p></li><li><strong>Definition 3:</strong> (by extension) Anything cast or thrown as a spear or javelin.</li><li><strong>Definition 4:</strong> Any long thin object, such as the handle of a tool, one of the poles between which an animal is harnessed to a vehicle, the driveshaft of a motorized vehicle with rear-wheel drive, an axle, etc.</li><li><strong>Definition 5:</strong> A beam or ray of light.<p><strong>Example:</strong> Isn't that shaft of light from that opening in the cave beautiful?</p></li><li><strong>Definition 6:</strong> The main axis of a feather.<p><strong>Example:</strong> I had no idea that they removed the feathers' shafts to make the pillows softer!</p></li><li><strong>Definition 7:</strong> The long narrow body of a lacrosse stick.<p><strong>Example:</strong> Sarah, if you wear gloves your hands might not slip on your shaft and you can up your game, girl!</p></li><li><strong>Definition 8:</strong> A vertical or inclined passage sunk into the earth as part of a mine<p><strong>Example:</strong> Your grandfather used to work with a crane hauling ore out of the gold mine's shafts.</p></li><li><strong>Definition 9:</strong> A vertical passage housing a lift or elevator; a liftshaft.<p><strong>Example:</strong> Darn it, my keys fell through the gap and into the elevator shaft.</p></li><li><strong>Definition 10:</strong> A ventilation or heating conduit; an air duct.<p><strong>Example:</strong> Our parrot flew into the air duct and got stuck in the shaft.</p></li><li><strong>Definition 11:</strong> Any column or pillar, particularly the body of a column between its capital and pedestal.</li><li><strong>Definition 12:</strong> The main cylindrical part of the penis.<p><strong>Example:</strong> The female labia minora is homologous to the penis shaft skin of males.</p></li><li><strong>Definition 13:</strong> The chamber of a blast furnace.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fuck over; to cause harm to, especially through deceit or treachery.<p><strong>Example:</strong> Your boss really shafted you by stealing your idea like that.</p></li><li><strong>Definition 2:</strong> To equip with a shaft.</li><li><strong>Definition 3:</strong> To fuck; to have sexual intercourse with.<p><strong>Example:</strong> Turns out my roommate was shafting my girlfriend.</p></li></ul></div></div>"
+description: Yes, SHAFT is a valid Wordle word. It was the Wordle answer on July 20,
+  2024 (#1127). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 20, 2024 (#1127).
+past_answers:
+- date: '2024-07-20'
+  number: 1127
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- shalt
+- shift
+- chaft
+- shakt
+- shart
+anagrams:
+- hafts
+definitions:
+- pos: noun
+  defs:
+  - text: The entire body of a long weapon, such as an arrow.
+  - text: The long, narrow, central body of a spear, arrow, or javelin.
+    example: Her hand slipped off the javelin's shaft towards the spearpoint and that's
+      why her score was lowered.
+  - text: "(by extension) Anything cast or thrown as a spear or javelin."
+  - text: Any long thin object, such as the handle of a tool, one of the poles between
+      which an animal is harnessed to a vehicle, the driveshaft of a motorized vehicle
+      with rear-wheel drive, an axle, etc.
+  - text: A beam or ray of light.
+    example: Isn't that shaft of light from that opening in the cave beautiful?
+  - text: The main axis of a feather.
+    example: I had no idea that they removed the feathers' shafts to make the pillows
+      softer!
+  - text: The long narrow body of a lacrosse stick.
+    example: Sarah, if you wear gloves your hands might not slip on your shaft and
+      you can up your game, girl!
+  - text: A vertical or inclined passage sunk into the earth as part of a mine
+    example: Your grandfather used to work with a crane hauling ore out of the gold
+      mine's shafts.
+  - text: A vertical passage housing a lift or elevator; a liftshaft.
+    example: Darn it, my keys fell through the gap and into the elevator shaft.
+  - text: A ventilation or heating conduit; an air duct.
+    example: Our parrot flew into the air duct and got stuck in the shaft.
+  - text: Any column or pillar, particularly the body of a column between its capital
+      and pedestal.
+  - text: The main cylindrical part of the penis.
+    example: The female labia minora is homologous to the penis shaft skin of males.
+  - text: The chamber of a blast furnace.
+- pos: verb
+  defs:
+  - text: To fuck over; to cause harm to, especially through deceit or treachery.
+    example: Your boss really shafted you by stealing your idea like that.
+  - text: To equip with a shaft.
+  - text: To fuck; to have sexual intercourse with.
+    example: Turns out my roommate was shafting my girlfriend.
 ---
-

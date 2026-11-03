@@ -1,7 +1,53 @@
 ---
 layout: word
-title: rarer
+title: Is RARER a Wordle Word?
+head_title: Is RARER a Wordle Word? Yes – Possible Answer & Meaning
 word: rarer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Very uncommon; scarce.<p><strong>Example:</strong> Black pearls are very rare and therefore very valuable.</p></li><li><strong>Definition 2:</strong> (of a gas) Thin; of low density.</li><li><strong>Definition 3:</strong> Good; enjoyable.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (particularly meats) Cooked very lightly, so the meat is still red (in the case of steak or beef in the general sense).</li></ul></div></div>"
+description: Yes, RARER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 3
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- parer
+- racer
+- barer
+- carer
+- darer
+- farer
+- oarer
+- rager
+- raker
+- raper
+- rared
+- raree
+trap:
+  pattern: RA_ER
+  count: 10
+definitions:
+- pos: adjective
+  defs:
+  - text: Very uncommon; scarce.
+    example: Black pearls are very rare and therefore very valuable.
+  - text: "(of a gas) Thin; of low density."
+  - text: Good; enjoyable.
+- pos: adjective
+  defs:
+  - text: "(particularly meats) Cooked very lightly, so the meat is still red (in
+      the case of steak or beef in the general sense)."
 ---
-

@@ -1,7 +1,60 @@
 ---
 layout: word
-title: blobs
+title: Is BLOBS a Wordle Word?
+head_title: Is BLOBS a Wordle Word? Yes – Valid Guess & Meaning
 word: blobs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Acronym of binary large object. (a data type that allows storage of binary data often of indeterminate length).<p><strong>Example:</strong> I've added a BLOB so that we can store pictures.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shapeless or amorphous mass; a vague shape or amount, especially of a liquid or semisolid substance; a clump, group or collection that lacks definite shape.</li><li><strong>Definition 2:</strong> In astronomy, a large cloud of gas. In particular, an extended Lyman-Alpha blob is a huge body of gas that may be the precursor to a galaxy.</li><li><strong>Definition 3:</strong> A bubble; a bleb.</li><li><strong>Definition 4:</strong> A small freshwater fish (Cottus bairdii); the miller's thumb.</li><li><strong>Definition 5:</strong> The partially inflated air bag used in the sport of blobbing.</li><li><strong>Definition 6:</strong> A score of zero.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drop in the form of a blob or blobs</li><li><strong>Definition 2:</strong> To drop a blob or blobs onto, cover with blobs.</li><li><strong>Definition 3:</strong> To fall in the form of a blob or blobs.</li><li><strong>Definition 4:</strong> To relax idly and mindlessly; to veg out.</li></ul></div></div>"
+description: Yes, BLOBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- blabs
+- blebs
+- blocs
+- blogs
+- blots
+- blows
+- blubs
+- boobs
+- flobs
+- globs
+- slobs
+definitions:
+- pos: noun
+  defs:
+  - text: Acronym of binary large object. (a data type that allows storage of binary
+      data often of indeterminate length).
+    example: I've added a BLOB so that we can store pictures.
+- pos: noun
+  defs:
+  - text: A shapeless or amorphous mass; a vague shape or amount, especially of a
+      liquid or semisolid substance; a clump, group or collection that lacks definite
+      shape.
+  - text: In astronomy, a large cloud of gas. In particular, an extended Lyman-Alpha
+      blob is a huge body of gas that may be the precursor to a galaxy.
+  - text: A bubble; a bleb.
+  - text: A small freshwater fish (Cottus bairdii); the miller's thumb.
+  - text: The partially inflated air bag used in the sport of blobbing.
+  - text: A score of zero.
+- pos: verb
+  defs:
+  - text: To drop in the form of a blob or blobs
+  - text: To drop a blob or blobs onto, cover with blobs.
+  - text: To fall in the form of a blob or blobs.
+  - text: To relax idly and mindlessly; to veg out.
 ---
-

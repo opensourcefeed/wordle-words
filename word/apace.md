@@ -1,7 +1,33 @@
 ---
 layout: word
-title: apace
+title: Is APACE a Wordle Word?
+head_title: Is APACE a Wordle Word? Yes – Valid Guess & Meaning
 word: apace
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Quickly, rapidly, with speed.<p><strong>Example:</strong> Construction of the new offices is proceeding apace.</p></li></ul></div></div>"
+description: Yes, APACE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- space
+- apage
+definitions:
+- pos: adverb
+  defs:
+  - text: Quickly, rapidly, with speed.
+    example: Construction of the new offices is proceeding apace.
 ---
-

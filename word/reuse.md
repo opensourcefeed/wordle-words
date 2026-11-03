@@ -1,7 +1,48 @@
 ---
 layout: word
-title: reuse
+title: Is REUSE a Wordle Word?
+head_title: 'Is REUSE a Wordle Word? Yes – Past Answer #1449 & Meaning'
 word: reuse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹiːˈjuːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of salvaging or in some manner restoring a discarded item to yield something usable.</li><li><strong>Definition 2:</strong> The act of using again, or in another place.<p><strong>Example:</strong> Code reuse can save programmers a lot of typing.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use again something that is considered past its usefulness (usually for something else).<p><strong>Example:</strong> The students reused empty plastic bottles in their science experiment.</p></li><li><strong>Definition 2:</strong> To use again, or in another place.</li></ul></div></div>"
+description: Yes, REUSE is a valid Wordle word. It was the Wordle answer on June 7,
+  2025 (#1449). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 7, 2025 (#1449).
+past_answers:
+- date: '2025-06-07'
+  number: 1449
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- rouse
+- meuse
+- reune
+anagrams:
+- resue
+phonetic: "/ɹiːˈjuːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of salvaging or in some manner restoring a discarded item to yield
+      something usable.
+  - text: The act of using again, or in another place.
+    example: Code reuse can save programmers a lot of typing.
+- pos: verb
+  defs:
+  - text: To use again something that is considered past its usefulness (usually for
+      something else).
+    example: The students reused empty plastic bottles in their science experiment.
+  - text: To use again, or in another place.
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: repel
+title: Is REPEL a Wordle Word?
+head_title: 'Is REPEL a Wordle Word? Yes – Past Answer #961 & Meaning'
 word: repel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈpɛl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn (someone) away from a privilege, right, job, etc.</li><li><strong>Definition 2:</strong> To reject, put off (a request, demand etc.).</li><li><strong>Definition 3:</strong> To ward off (a malignant influence, attack etc.).</li><li><strong>Definition 4:</strong> To drive back (an assailant, advancing force etc.).</li><li><strong>Definition 5:</strong> To force away by means of a repulsive force.</li><li><strong>Definition 6:</strong> To cause repulsion or dislike in; to disgust.</li><li><strong>Definition 7:</strong> To save (a shot).</li></ul></div></div>"
+description: Yes, REPEL is a valid Wordle word. It was the Wordle answer on February
+  5, 2024 (#961). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 5, 2024 (#961).
+past_answers:
+- date: '2024-02-05'
+  number: 961
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- rebel
+- revel
+- refel
+- repeg
+- repen
+anagrams:
+- leper
+- perle
+phonetic: "/ɹɪˈpɛl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To turn (someone) away from a privilege, right, job, etc.
+  - text: To reject, put off (a request, demand etc.).
+  - text: To ward off (a malignant influence, attack etc.).
+  - text: To drive back (an assailant, advancing force etc.).
+  - text: To force away by means of a repulsive force.
+  - text: To cause repulsion or dislike in; to disgust.
+  - text: To save (a shot).
 ---
-

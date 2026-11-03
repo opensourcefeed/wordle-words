@@ -1,7 +1,53 @@
 ---
 layout: word
-title: wiser
+title: Is WISER a Wordle Word?
+head_title: 'Is WISER a Wordle Word? Yes – Past Answer #1740 & Meaning'
 word: wiser
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwaɪzə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Showing good judgement or the benefit of experience.<p><strong>Example:</strong> \"It is a profitable thing, if one is wise, to seem foolish\" - Aeschylus</p></li><li><strong>Definition 2:</strong> Disrespectful.<p><strong>Example:</strong> Don't get wise with me!</p></li><li><strong>Definition 3:</strong> Aware, informed.<p><strong>Example:</strong> Be careful, the boss is wise.</p></li></ul></div></div>"
+description: Yes, WISER is a valid Wordle word. It was the Wordle answer on March
+  25, 2026 (#1740). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 25, 2026 (#1740).
+past_answers:
+- date: '2026-03-25'
+  number: 1740
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- miser
+- riser
+- wider
+- wiper
+- wirer
+- wised
+- wises
+- wiver
+anagrams:
+- sweir
+- swire
+- weirs
+- wires
+- wries
+phonetic: "/ˈwaɪzə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Showing good judgement or the benefit of experience.
+    example: '"It is a profitable thing, if one is wise, to seem foolish" - Aeschylus'
+  - text: Disrespectful.
+    example: Don't get wise with me!
+  - text: Aware, informed.
+    example: Be careful, the boss is wise.
 ---
-

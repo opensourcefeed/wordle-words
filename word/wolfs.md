@@ -1,7 +1,38 @@
 ---
 layout: word
-title: wolfs
+title: Is WOLFS a Wordle Word?
+head_title: Is WOLFS a Wordle Word? Yes – Valid Guess & Meaning
 word: wolfs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To devour; to gobble; to eat (something) voraciously.</li><li><strong>Definition 2:</strong> To make amorous advances to many women; to hit on women; to cruise for sex.</li><li><strong>Definition 3:</strong> To hunt for wolves.</li></ul></div></div>"
+description: Yes, WOLFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- golfs
+- rolfs
+- wolds
+- woofs
+anagrams:
+- flows
+- fowls
+definitions:
+- pos: verb
+  defs:
+  - text: To devour; to gobble; to eat (something) voraciously.
+  - text: To make amorous advances to many women; to hit on women; to cruise for sex.
+  - text: To hunt for wolves.
 ---
-

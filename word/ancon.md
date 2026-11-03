@@ -1,7 +1,39 @@
 ---
 layout: word
-title: ancon
+title: Is ANCON a Wordle Word?
+head_title: Is ANCON a Wordle Word? Yes – Valid Guess & Meaning
 word: ancon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæŋkɒn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The corner of a wall or rafter.</li><li><strong>Definition 2:</strong> A console that appears to support a cornice.</li><li><strong>Definition 3:</strong> The elbow.</li><li><strong>Definition 4:</strong> The olecranon.</li></ul></div></div>"
+description: Yes, ANCON is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- anion
+- anyon
+- ascon
+anagrams:
+- canon
+phonetic: "/ˈæŋkɒn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The corner of a wall or rafter.
+  - text: A console that appears to support a cornice.
+  - text: The elbow.
+  - text: The olecranon.
 ---
-

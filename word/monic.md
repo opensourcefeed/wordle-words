@@ -1,7 +1,49 @@
 ---
 layout: word
-title: monic
+title: Is MONIC a Wordle Word?
+head_title: Is MONIC a Wordle Word? Yes – Valid Guess & Meaning
 word: monic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A monic polynomial.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a polynomial whose leading coefficient is one.</li><li><strong>Definition 2:</strong> Monomorphic.</li><li><strong>Definition 3:</strong> Of a morphism: that it is a monomorphism.<p><strong>Example:</strong> If a composition (of morphisms) is monic then, by theorem, the pre-composite of it is monic as well.</p></li></ul></div></div>"
+description: Yes, MONIC is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- conic
+- ionic
+- manic
+- sonic
+- tonic
+- monie
+- nonic
+- yonic
+anagrams:
+- nomic
+trap:
+  pattern: _ONIC
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A monic polynomial.
+- pos: adjective
+  defs:
+  - text: Of a polynomial whose leading coefficient is one.
+  - text: Monomorphic.
+  - text: 'Of a morphism: that it is a monomorphism.'
+    example: If a composition (of morphisms) is monic then, by theorem, the pre-composite
+      of it is monic as well.
 ---
-

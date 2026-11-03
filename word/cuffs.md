@@ -1,7 +1,64 @@
 ---
 layout: word
-title: cuffs
+title: Is CUFFS a Wordle Word?
+head_title: Is CUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: cuffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kʌfs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Glove; mitten</li><li><strong>Definition 2:</strong> The end of a shirt sleeve that covers the wrist</li><li><strong>Definition 3:</strong> The end of a pants leg, folded up</li><li><strong>Definition 4:</strong> Handcuffs</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To furnish with cuffs.</li><li><strong>Definition 2:</strong> To handcuff.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blow, especially with the open hand; a box; a slap.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit, as a reproach, particularly with the open palm to the head; to slap.</li><li><strong>Definition 2:</strong> To fight; to scuffle; to box.</li><li><strong>Definition 3:</strong> To buffet.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The scruff of the neck.</li></ul></div></div>"
+description: Yes, CUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- buffs
+- caffs
+- coffs
+- cuffo
+- cuifs
+- curfs
+- duffs
+- fuffs
+- guffs
+- huffs
+- luffs
+- muffs
+anagrams:
+- scuff
+trap:
+  pattern: _UFFS
+  count: 13
+phonetic: "/kʌfs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Glove; mitten
+  - text: The end of a shirt sleeve that covers the wrist
+  - text: The end of a pants leg, folded up
+  - text: Handcuffs
+- pos: verb
+  defs:
+  - text: To furnish with cuffs.
+  - text: To handcuff.
+- pos: noun
+  defs:
+  - text: A blow, especially with the open hand; a box; a slap.
+- pos: verb
+  defs:
+  - text: To hit, as a reproach, particularly with the open palm to the head; to slap.
+  - text: To fight; to scuffle; to box.
+  - text: To buffet.
+- pos: noun
+  defs:
+  - text: The scruff of the neck.
 ---
-

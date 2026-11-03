@@ -1,7 +1,40 @@
 ---
 layout: word
-title: afire
+title: Is AFIRE a Wordle Word?
+head_title: Is AFIRE a Wordle Word? Yes – Possible Answer & Meaning
 word: afire
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈfaɪə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> On fire (often metaphorically).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> On fire (often metaphorically).</li></ul></div></div>"
+description: Yes, AFIRE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- afore
+anagrams:
+- faire
+- feria
+phonetic: "/əˈfaɪə(ɹ)/"
+definitions:
+- pos: adjective
+  defs:
+  - text: On fire (often metaphorically).
+- pos: adverb
+  defs:
+  - text: On fire (often metaphorically).
 ---
-

@@ -1,7 +1,35 @@
 ---
 layout: word
-title: klick
+title: Is KLICK a Wordle Word?
+head_title: Is KLICK a Wordle Word? Yes – Valid Guess & Meaning
 word: klick
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kilometer.</li><li><strong>Definition 2:</strong> (usually in the plural) Kilometres per hour.</li></ul></div></div>"
+description: Yes, KLICK is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - K
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- click
+- flick
+- slick
+- alick
+- knick
+definitions:
+- pos: noun
+  defs:
+  - text: A kilometer.
+  - text: "(usually in the plural) Kilometres per hour."
 ---
-

@@ -1,7 +1,35 @@
 ---
 layout: word
-title: burgh
+title: Is BURGH a Wordle Word?
+head_title: Is BURGH a Wordle Word? Yes – Valid Guess & Meaning
 word: burgh
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʌɹə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small mound, often used in reference to tumuli (mostly restricted to place names).</li><li><strong>Definition 2:</strong> A borough or chartered town (now only used as an official subdivision in Scotland).</li></ul></div></div>"
+description: Yes, BURGH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- burgs
+- murgh
+anagrams:
+- brugh
+phonetic: "/ˈbʌɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small mound, often used in reference to tumuli (mostly restricted to place
+      names).
+  - text: A borough or chartered town (now only used as an official subdivision in
+      Scotland).
 ---
-

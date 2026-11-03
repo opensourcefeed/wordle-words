@@ -1,7 +1,44 @@
 ---
 layout: word
-title: bloop
+title: Is BLOOP a Wordle Word?
+head_title: Is BLOOP a Wordle Word? Yes – Valid Guess & Meaning
 word: bloop
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bluːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A low-pitched beeping sound.<p><strong>Example:</strong> The robot produced a series of beeps and bloops before giving its answer to the problem.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a hit just beyond the infield.</li><li><strong>Definition 2:</strong> To produce a low-pitched beeping sound.</li><li><strong>Definition 3:</strong> To cover up splices in a soundtrack tape to eliminate the unwanted noise they may produce.</li></ul></div></div>"
+description: Yes, BLOOP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- blood
+- bloom
+- sloop
+- blook
+- cloop
+- gloop
+phonetic: "/bluːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A low-pitched beeping sound.
+    example: The robot produced a series of beeps and bloops before giving its answer
+      to the problem.
+- pos: verb
+  defs:
+  - text: To make a hit just beyond the infield.
+  - text: To produce a low-pitched beeping sound.
+  - text: To cover up splices in a soundtrack tape to eliminate the unwanted noise
+      they may produce.
 ---
-

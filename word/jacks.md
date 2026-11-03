@@ -1,7 +1,64 @@
 ---
 layout: word
-title: jacks
+title: Is JACKS a Wordle Word?
+head_title: Is JACKS a Wordle Word? Yes – Valid Guess & Meaning
 word: jacks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dʒæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coarse mediaeval coat of defence, especially one made of leather.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A man.</li><li><strong>Definition 2:</strong> A device or utensil.</li><li><strong>Definition 3:</strong> A non-tool object or thing.</li><li><strong>Definition 4:</strong> A plant or animal.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The edible fruit of the Asian tree (Artocarpus heterophyllus); also the tree itself.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A home run.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (games) A children's game involving picking up objects; knucklebones; jackstones.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Alternative form of jakes: an outhouse or lavatory.</li></ul></div></div>"
+description: Yes, JACKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- backs
+- cacks
+- dacks
+- hacks
+- jacky
+- jarks
+- jauks
+- jocks
+- kacks
+- lacks
+- macks
+- packs
+trap:
+  pattern: _ACKS
+  count: 15
+phonetic: "/dʒæks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A coarse mediaeval coat of defence, especially one made of leather.
+- pos: noun
+  defs:
+  - text: A man.
+  - text: A device or utensil.
+  - text: A non-tool object or thing.
+  - text: A plant or animal.
+- pos: noun
+  defs:
+  - text: The edible fruit of the Asian tree (Artocarpus heterophyllus); also the
+      tree itself.
+- pos: noun
+  defs:
+  - text: A home run.
+- pos: noun
+  defs:
+  - text: "(games) A children's game involving picking up objects; knucklebones; jackstones."
+- pos: noun
+  defs:
+  - text: 'Alternative form of jakes: an outhouse or lavatory.'
 ---
-

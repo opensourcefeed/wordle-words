@@ -1,7 +1,49 @@
 ---
 layout: word
-title: lidos
+title: Is LIDOS a Wordle Word?
+head_title: Is LIDOS a Wordle Word? Yes – Valid Guess & Meaning
 word: lidos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Part of the sea by a beach sectioned off for swimming and other aquatic activities.</li><li><strong>Definition 2:</strong> An outdoor swimming pool.</li></ul></div></div>"
+description: Yes, LIDOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- aidos
+- didos
+- eidos
+- fidos
+- lilos
+- limos
+- linos
+- lipos
+- ludos
+anagrams:
+- solid
+- diols
+- idols
+- loids
+- sloid
+- soldi
+definitions:
+- pos: noun
+  defs:
+  - text: Part of the sea by a beach sectioned off for swimming and other aquatic
+      activities.
+  - text: An outdoor swimming pool.
 ---
-

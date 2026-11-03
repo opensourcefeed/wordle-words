@@ -1,7 +1,41 @@
 ---
 layout: word
-title: bossy
+title: Is BOSSY a Wordle Word?
+head_title: 'Is BOSSY a Wordle Word? Yes – Past Answer #1223 & Meaning'
 word: bossy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɑsi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Tending to give orders to others, especially when unwarranted; domineering.</li></ul></div></div>"
+description: Yes, BOSSY is a valid Wordle word. It was the Wordle answer on October
+  24, 2024 (#1223). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 24, 2024 (#1223).
+past_answers:
+- date: '2024-10-24'
+  number: 1223
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- mossy
+- bassy
+- bosey
+- bosky
+- bossa
+- bousy
+- boysy
+- lossy
+- tossy
+phonetic: "/ˈbɑsi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Tending to give orders to others, especially when unwarranted; domineering.
 ---
-

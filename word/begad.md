@@ -1,7 +1,37 @@
 ---
 layout: word
-title: begad
+title: Is BEGAD a Wordle Word?
+head_title: Is BEGAD a Wordle Word? Yes – Valid Guess & Meaning
 word: begad
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> An expression of surprise, shock etc.</li></ul></div></div>"
+description: Yes, BEGAD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- began
+- begat
+- bedad
+- begar
+- bemad
+anagrams:
+- badge
+- debag
+definitions:
+- pos: interjection
+  defs:
+  - text: An expression of surprise, shock etc.
 ---
-

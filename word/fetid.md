@@ -1,7 +1,41 @@
 ---
 layout: word
-title: fetid
+title: Is FETID a Wordle Word?
+head_title: 'Is FETID a Wordle Word? Yes – Past Answer #1591 & Meaning'
 word: fetid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɛtɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The foul-smelling asafoetida plant, or its extracts.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Foul-smelling, stinking.<p><strong>Example:</strong> I caught the fetid odor of dirty socks.</p></li></ul></div></div>"
+description: Yes, FETID is a valid Wordle word. It was the Wordle answer on October
+  27, 2025 (#1591). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 27, 2025 (#1591).
+past_answers:
+- date: '2025-10-27'
+  number: 1591
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- betid
+- felid
+- feted
+phonetic: "/ˈfɛtɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The foul-smelling asafoetida plant, or its extracts.
+- pos: adjective
+  defs:
+  - text: Foul-smelling, stinking.
+    example: I caught the fetid odor of dirty socks.
 ---
-

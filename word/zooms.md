@@ -1,7 +1,61 @@
 ---
 layout: word
-title: zooms
+title: Is ZOOMS a Wordle Word?
+head_title: Is ZOOMS a Wordle Word? Yes – Valid Guess & Meaning
 word: zooms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To communicate with someone using the Zoom videoconferencing software.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A humming noise from something moving very fast</li><li><strong>Definition 2:</strong> A quick ascent</li><li><strong>Definition 3:</strong> A big increase</li><li><strong>Definition 4:</strong> An augmentation of a view</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move fast with a humming noise</li><li><strong>Definition 2:</strong> To fly an airplane straight up</li><li><strong>Definition 3:</strong> To move rapidly</li><li><strong>Definition 4:</strong> To go up sharply<p><strong>Example:</strong> prices zoomed</p></li><li><strong>Definition 5:</strong> To change the focal length of a zoom lens</li><li><strong>Definition 6:</strong> (used with in or out) to manipulate a display so as to magnify or shrink it</li></ul></div></div>"
+description: Yes, ZOOMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- booms
+- cooms
+- dooms
+- looms
+- rooms
+- sooms
+- tooms
+- zooks
+- zoomy
+- zoons
+anagrams:
+- mozos
+trap:
+  pattern: _OOMS
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To communicate with someone using the Zoom videoconferencing software.
+- pos: noun
+  defs:
+  - text: A humming noise from something moving very fast
+  - text: A quick ascent
+  - text: A big increase
+  - text: An augmentation of a view
+- pos: verb
+  defs:
+  - text: To move fast with a humming noise
+  - text: To fly an airplane straight up
+  - text: To move rapidly
+  - text: To go up sharply
+    example: prices zoomed
+  - text: To change the focal length of a zoom lens
+  - text: "(used with in or out) to manipulate a display so as to magnify or shrink
+      it"
 ---
-

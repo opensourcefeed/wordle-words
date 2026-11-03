@@ -1,7 +1,39 @@
 ---
 layout: word
-title: lofty
+title: Is LOFTY a Wordle Word?
+head_title: 'Is LOFTY a Wordle Word? Yes – Past Answer #448 & Meaning'
 word: lofty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɑfti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> High, tall, having great height or stature</li><li><strong>Definition 2:</strong> Idealistic, implying over-optimism<p><strong>Example:</strong> a lofty goal</p></li><li><strong>Definition 3:</strong> Extremely proud; arrogant; haughty</li></ul></div></div>"
+description: Yes, LOFTY is a valid Wordle word. It was the Wordle answer on September
+  10, 2022 (#448). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 10, 2022 (#448).
+past_answers:
+- date: '2022-09-10'
+  number: 448
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- lefty
+- lofts
+- softy
+phonetic: "/ˈlɑfti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: High, tall, having great height or stature
+  - text: Idealistic, implying over-optimism
+    example: a lofty goal
+  - text: Extremely proud; arrogant; haughty
 ---
-

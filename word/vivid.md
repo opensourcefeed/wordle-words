@@ -1,7 +1,40 @@
 ---
 layout: word
-title: vivid
+title: Is VIVID a Wordle Word?
+head_title: 'Is VIVID a Wordle Word? Yes – Past Answer #251 & Meaning'
 word: vivid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvɪvɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A felt-tipped permanent marker.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of perception) Clear, detailed or powerful.</li><li><strong>Definition 2:</strong> (of an image) Bright, intense or colourful.</li><li><strong>Definition 3:</strong> Full of life, strikingly alive.</li></ul></div></div>"
+description: Yes, VIVID is a valid Wordle word. It was the Wordle answer on February
+  25, 2022 (#251). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 25, 2022 (#251).
+past_answers:
+- date: '2022-02-25'
+  number: 251
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 3
+  repeated:
+  - V
+  - I
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- livid
+- virid
+phonetic: "/ˈvɪvɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A felt-tipped permanent marker.
+- pos: adjective
+  defs:
+  - text: "(of perception) Clear, detailed or powerful."
+  - text: "(of an image) Bright, intense or colourful."
+  - text: Full of life, strikingly alive.
 ---
-

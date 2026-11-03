@@ -1,7 +1,46 @@
 ---
 layout: word
-title: gleam
+title: Is GLEAM a Wordle Word?
+head_title: 'Is GLEAM a Wordle Word? Yes – Past Answer #1043 & Meaning'
 word: gleam
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡliːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small or indistinct shaft or stream of light.</li><li><strong>Definition 2:</strong> A glimpse or hint; an indistinct sign of something.<p><strong>Example:</strong> The rescue workers preserved a gleam of optimism that they might still survive.</p></li><li><strong>Definition 3:</strong> Brightness or shininess; splendor.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shine; to glitter; to glisten.</li><li><strong>Definition 2:</strong> To be briefly but strongly apparent.</li><li><strong>Definition 3:</strong> To disgorge filth, as a hawk.</li></ul></div></div>"
+description: Yes, GLEAM is a valid Wordle word. It was the Wordle answer on April
+  27, 2024 (#1043). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 27, 2024 (#1043).
+past_answers:
+- date: '2024-04-27'
+  number: 1043
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- glean
+- fleam
+- gloam
+phonetic: "/ɡliːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small or indistinct shaft or stream of light.
+  - text: A glimpse or hint; an indistinct sign of something.
+    example: The rescue workers preserved a gleam of optimism that they might still
+      survive.
+  - text: Brightness or shininess; splendor.
+- pos: verb
+  defs:
+  - text: To shine; to glitter; to glisten.
+  - text: To be briefly but strongly apparent.
+  - text: To disgorge filth, as a hawk.
 ---
-

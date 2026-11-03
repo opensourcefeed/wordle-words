@@ -1,7 +1,84 @@
 ---
 layout: word
-title: likes
+title: Is LIKES a Wordle Word?
+head_title: Is LIKES a Wordle Word? Yes – Valid Guess & Meaning
 word: likes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /laɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in the plural) Something that a person likes (prefers).<p><strong>Example:</strong> Tell me your likes and dislikes.</p></li><li><strong>Definition 2:</strong> An individual vote showing support for, or approval of, something posted on the Internet.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To enjoy, be pleased by; favor; be in favor of.<p><strong>Example:</strong> I like hamburgers.</p></li><li><strong>Definition 2:</strong> To please.</li><li><strong>Definition 3:</strong> To derive pleasure of, by or with someone or something.</li><li><strong>Definition 4:</strong> To prefer and maintain (an action) as a regular habit or activity.<p><strong>Example:</strong> I like to go to the dentist every six months.</p></li><li><strong>Definition 5:</strong> To have an appearance or expression; to look; to seem to be (in a specified condition).</li><li><strong>Definition 6:</strong> To come near; to avoid with difficulty; to escape narrowly.<p><strong>Example:</strong> He liked to have been too late.</p></li><li><strong>Definition 7:</strong> To find attractive; to prefer the company of; to have mild romantic feelings for.<p><strong>Example:</strong> I really like Sandra but don't know how to tell her.</p></li><li><strong>Definition 8:</strong> To liken; to compare.</li><li><strong>Definition 9:</strong> To show support for, or approval of, something posted on the Internet by marking it with a vote.<p><strong>Example:</strong> I can't stand Bloggs' tomato ketchup, but I liked it on Facebook so I could enter a competition.</p></li><li><strong>Definition 10:</strong> (with 'would' and in certain other phrases) To want, desire. See also would like.<p><strong>Example:</strong> We could go to the museum if you like.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes as the likes of') Someone similar to a given person, or something similar to a given object; a comparative; a type; a sort.<p><strong>Example:</strong> It was something the likes of which I had never seen before.</p></li><li><strong>Definition 2:</strong> The stroke that equalizes the number of strokes played by the opposing player or side.<p><strong>Example:</strong> to play the like</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be likely.</li></ul></div></div>"
+description: Yes, LIKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- liken
+- bikes
+- dikes
+- fikes
+- hikes
+- lakes
+- lifes
+- liked
+- liker
+- limes
+- lines
+- lipes
+trap:
+  pattern: _IKES
+  count: 11
+phonetic: "/laɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in the plural) Something that a person likes (prefers)."
+    example: Tell me your likes and dislikes.
+  - text: An individual vote showing support for, or approval of, something posted
+      on the Internet.
+- pos: verb
+  defs:
+  - text: To enjoy, be pleased by; favor; be in favor of.
+    example: I like hamburgers.
+  - text: To please.
+  - text: To derive pleasure of, by or with someone or something.
+  - text: To prefer and maintain (an action) as a regular habit or activity.
+    example: I like to go to the dentist every six months.
+  - text: To have an appearance or expression; to look; to seem to be (in a specified
+      condition).
+  - text: To come near; to avoid with difficulty; to escape narrowly.
+    example: He liked to have been too late.
+  - text: To find attractive; to prefer the company of; to have mild romantic feelings
+      for.
+    example: I really like Sandra but don't know how to tell her.
+  - text: To liken; to compare.
+  - text: To show support for, or approval of, something posted on the Internet by
+      marking it with a vote.
+    example: I can't stand Bloggs' tomato ketchup, but I liked it on Facebook so I
+      could enter a competition.
+  - text: "(with 'would' and in certain other phrases) To want, desire. See also would
+      like."
+    example: We could go to the museum if you like.
+- pos: noun
+  defs:
+  - text: "(sometimes as the likes of') Someone similar to a given person, or something
+      similar to a given object; a comparative; a type; a sort."
+    example: It was something the likes of which I had never seen before.
+  - text: The stroke that equalizes the number of strokes played by the opposing player
+      or side.
+    example: to play the like
+- pos: verb
+  defs:
+  - text: To be likely.
 ---
-

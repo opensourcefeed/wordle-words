@@ -1,7 +1,54 @@
 ---
 layout: word
-title: fated
+title: Is FATED a Wordle Word?
+head_title: Is FATED a Wordle Word? Yes – Valid Guess & Meaning
 word: fated
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ˈfeɪ̯ɾɨd]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To foreordain or predetermine, to make inevitable.<p><strong>Example:</strong> The oracle's prediction fated Oedipus to kill his father; not all his striving could change what would occur.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Foreordained, predetermined, established in advance by fate.</li></ul></div></div>"
+description: Yes, FATED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- bated
+- dated
+- faced
+- faded
+- faked
+- famed
+- fared
+- fates
+- faxed
+- fayed
+- fazed
+- feted
+anagrams:
+- defat
+trap:
+  pattern: _ATED
+  count: 10
+phonetic: "[ˈfeɪ̯ɾɨd]"
+definitions:
+- pos: verb
+  defs:
+  - text: To foreordain or predetermine, to make inevitable.
+    example: The oracle's prediction fated Oedipus to kill his father; not all his
+      striving could change what would occur.
+- pos: adjective
+  defs:
+  - text: Foreordained, predetermined, established in advance by fate.
 ---
-

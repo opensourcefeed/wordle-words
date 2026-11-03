@@ -1,7 +1,58 @@
 ---
 layout: word
-title: flogs
+title: Is FLOGS a Wordle Word?
+head_title: Is FLOGS a Wordle Word? Yes – Valid Guess & Meaning
 word: flogs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A contemptible, often arrogant person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To whip or scourge someone or something as punishment.</li><li><strong>Definition 2:</strong> To use something to extreme; to abuse.</li><li><strong>Definition 3:</strong> To sell.</li><li><strong>Definition 4:</strong> To steal something.</li><li><strong>Definition 5:</strong> To defeat easily or convincingly.</li><li><strong>Definition 6:</strong> To exploit.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A weblog designed to look authentic, but actually developed as part of a commercial marketing strategy to promote some product or service.</li></ul></div></div>"
+description: Yes, FLOGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- floss
+- blogs
+- clogs
+- flags
+- flegs
+- flobs
+- flocs
+- floes
+- flops
+- flors
+- flows
+- frogs
+anagrams:
+- golfs
+trap:
+  pattern: FLO_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A contemptible, often arrogant person.
+- pos: verb
+  defs:
+  - text: To whip or scourge someone or something as punishment.
+  - text: To use something to extreme; to abuse.
+  - text: To sell.
+  - text: To steal something.
+  - text: To defeat easily or convincingly.
+  - text: To exploit.
+- pos: noun
+  defs:
+  - text: A weblog designed to look authentic, but actually developed as part of a
+      commercial marketing strategy to promote some product or service.
 ---
-

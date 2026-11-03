@@ -1,7 +1,34 @@
 ---
 layout: word
-title: bizzo
+title: Is BIZZO a Wordle Word?
+head_title: Is BIZZO a Wordle Word? Yes – Valid Guess & Meaning
 word: bizzo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Business; a matter or matters of personal concern; a course of action.</li><li><strong>Definition 2:</strong> An item whose name has been forgotten; a thingumajig.</li></ul></div></div>"
+description: Yes, BIZZO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - Z
+  common:
+  - I
+  - O
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- bizzy
+- wizzo
+definitions:
+- pos: noun
+  defs:
+  - text: Business; a matter or matters of personal concern; a course of action.
+  - text: An item whose name has been forgotten; a thingumajig.
 ---
-

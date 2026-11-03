@@ -1,7 +1,59 @@
 ---
 layout: word
-title: tying
+title: Is TYING a Wordle Word?
+head_title: Is TYING a Wordle Word? Yes – Possible Answer & Meaning
 word: tying
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtaɪ.ɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To twist (a string, rope, or the like) around itself securely.<p><strong>Example:</strong> Tie the rope to this tree.</p></li><li><strong>Definition 2:</strong> To form (a knot or the like) in a string or the like.<p><strong>Example:</strong> Tie a knot in this rope for me, please.</p></li><li><strong>Definition 3:</strong> To attach or fasten (one thing to another) by string or the like.<p><strong>Example:</strong> Tie him to the tree.</p></li><li><strong>Definition 4:</strong> To secure (something) by string or the like.<p><strong>Example:</strong> Tie your shoes.</p></li><li><strong>Definition 5:</strong> To have the same score or position as another in a competition or ordering.<p><strong>Example:</strong> They tied for third place.</p></li><li><strong>Definition 6:</strong> To have the same score or position as (another) in a competition or ordering.<p><strong>Example:</strong> He tied me for third place.</p></li><li><strong>Definition 7:</strong> To unite (musical notes) with a line or slur in the notation.</li><li><strong>Definition 8:</strong> To believe; to credit.</li><li><strong>Definition 9:</strong> In the Perl programming language, to extend (a variable) so that standard operations performed upon it invoke custom functionality instead.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Action of the verb to tie; ligature.</li><li><strong>Definition 2:</strong> The act or process of washing ores in a buddle.</li></ul></div></div>"
+description: Yes, TYING is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- dying
+- eying
+- lying
+- thing
+- vying
+- hying
+- nying
+- toing
+trap:
+  pattern: _YING
+  count: 7
+phonetic: "/ˈtaɪ.ɪŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To twist (a string, rope, or the like) around itself securely.
+    example: Tie the rope to this tree.
+  - text: To form (a knot or the like) in a string or the like.
+    example: Tie a knot in this rope for me, please.
+  - text: To attach or fasten (one thing to another) by string or the like.
+    example: Tie him to the tree.
+  - text: To secure (something) by string or the like.
+    example: Tie your shoes.
+  - text: To have the same score or position as another in a competition or ordering.
+    example: They tied for third place.
+  - text: To have the same score or position as (another) in a competition or ordering.
+    example: He tied me for third place.
+  - text: To unite (musical notes) with a line or slur in the notation.
+  - text: To believe; to credit.
+  - text: In the Perl programming language, to extend (a variable) so that standard
+      operations performed upon it invoke custom functionality instead.
+- pos: noun
+  defs:
+  - text: Action of the verb to tie; ligature.
+  - text: The act or process of washing ores in a buddle.
 ---
-

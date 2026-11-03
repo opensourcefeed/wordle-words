@@ -1,7 +1,53 @@
 ---
 layout: word
-title: fluff
+title: Is FLUFF a Wordle Word?
+head_title: 'Is FLUFF a Wordle Word? Yes – Past Answer #382 & Meaning'
 word: fluff
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /flʌf/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Anything light, soft or fuzzy, especially fur, hair, feathers.</li><li><strong>Definition 2:</strong> Anything inconsequential or superficial.<p><strong>Example:</strong> That article was basically a bunch of fluff. It didn't say anything substantive.</p></li><li><strong>Definition 3:</strong> A lapse or mistake, especially a mistake in an actor's lines.</li><li><strong>Definition 4:</strong> Marshmallow creme.<p><strong>Example:</strong> That New England-style salami and fluff sandwich sure hit the spot!</p></li><li><strong>Definition 5:</strong> A passive partner in a lesbian relationship.</li><li><strong>Definition 6:</strong> A fart.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make something fluffy.<p><strong>Example:</strong> The cat fluffed its tail.</p></li><li><strong>Definition 2:</strong> To become fluffy, puff up.</li><li><strong>Definition 3:</strong> To move lightly like fluff.</li><li><strong>Definition 4:</strong> (of an actor or announcer) To make a mistake in one's lines.</li><li><strong>Definition 5:</strong> To do incorrectly, for example mishit, miskick, miscue etc.</li><li><strong>Definition 6:</strong> To fart.</li><li><strong>Definition 7:</strong> To arouse (a male pornographic actor) before filming.</li></ul></div></div>"
+description: Yes, FLUFF is a valid Wordle word. It was the Wordle answer on July 6,
+  2022 (#382). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 6, 2022 (#382).
+past_answers:
+- date: '2022-07-06'
+  number: 382
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 3
+  repeated:
+  - F
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- bluff
+- flaff
+- pluff
+- sluff
+phonetic: "/flʌf/"
+definitions:
+- pos: noun
+  defs:
+  - text: Anything light, soft or fuzzy, especially fur, hair, feathers.
+  - text: Anything inconsequential or superficial.
+    example: That article was basically a bunch of fluff. It didn't say anything substantive.
+  - text: A lapse or mistake, especially a mistake in an actor's lines.
+  - text: Marshmallow creme.
+    example: That New England-style salami and fluff sandwich sure hit the spot!
+  - text: A passive partner in a lesbian relationship.
+  - text: A fart.
+- pos: verb
+  defs:
+  - text: To make something fluffy.
+    example: The cat fluffed its tail.
+  - text: To become fluffy, puff up.
+  - text: To move lightly like fluff.
+  - text: "(of an actor or announcer) To make a mistake in one's lines."
+  - text: To do incorrectly, for example mishit, miskick, miscue etc.
+  - text: To fart.
+  - text: To arouse (a male pornographic actor) before filming.
 ---
-

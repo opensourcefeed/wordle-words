@@ -1,7 +1,47 @@
 ---
 layout: word
-title: yolks
+title: Is YOLKS a Wordle Word?
+head_title: Is YOLKS a Wordle Word? Yes – Valid Guess & Meaning
 word: yolks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jəʊks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The yellow, spherical part of an egg that is surrounded by the white albumen, and serves as nutriment for the growing young.</li><li><strong>Definition 2:</strong> The grease in a sheep's fleece.</li></ul></div></div>"
+description: Yes, YOLKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- bolks
+- folks
+- holks
+- polks
+- volks
+- yelks
+- yocks
+- yolky
+- yolps
+- yonks
+- yorks
+- youks
+trap:
+  pattern: _OLKS
+  count: 6
+phonetic: "/jəʊks/"
+definitions:
+- pos: noun
+  defs:
+  - text: The yellow, spherical part of an egg that is surrounded by the white albumen,
+      and serves as nutriment for the growing young.
+  - text: The grease in a sheep's fleece.
 ---
-

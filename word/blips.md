@@ -1,7 +1,51 @@
 ---
 layout: word
-title: blips
+title: Is BLIPS a Wordle Word?
+head_title: Is BLIPS a Wordle Word? Yes – Valid Guess & Meaning
 word: blips
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To emit one or more bleeps.<p><strong>Example:</strong> The robot bleeped to acknowledge its new instructions.</p></li><li><strong>Definition 2:</strong> To edit out inappropriate spoken language in a broadcast by replacing offending words with bleeps.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small dot registered on electronic equipment, such as a radar or oscilloscope screen.</li><li><strong>Definition 2:</strong> A short sound of a single pitch, usually electronically generated.</li><li><strong>Definition 3:</strong> (by extension) A brief and usually minor aberration or deviation from what is expected or normal.</li><li><strong>Definition 4:</strong> An individual message or document in the Google Wave software framework.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To change state abruptly, such as between off and on or dark and light, sometimes implying motion.</li></ul></div></div>"
+description: Yes, BLIPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- bliss
+- blins
+- blits
+- clips
+- flips
+- plips
+- slips
+definitions:
+- pos: verb
+  defs:
+  - text: To emit one or more bleeps.
+    example: The robot bleeped to acknowledge its new instructions.
+  - text: To edit out inappropriate spoken language in a broadcast by replacing offending
+      words with bleeps.
+- pos: noun
+  defs:
+  - text: A small dot registered on electronic equipment, such as a radar or oscilloscope
+      screen.
+  - text: A short sound of a single pitch, usually electronically generated.
+  - text: "(by extension) A brief and usually minor aberration or deviation from what
+      is expected or normal."
+  - text: An individual message or document in the Google Wave software framework.
+- pos: verb
+  defs:
+  - text: To change state abruptly, such as between off and on or dark and light,
+      sometimes implying motion.
 ---
-

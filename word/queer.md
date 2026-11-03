@@ -1,7 +1,66 @@
 ---
 layout: word
-title: queer
+title: Is QUEER a Wordle Word?
+head_title: 'Is QUEER a Wordle Word? Yes – Past Answer #1831 & Meaning'
 word: queer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kwɪə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes derogatory) A person who is or appears homosexual, or who has homosexual qualities.</li><li><strong>Definition 2:</strong> (sometimes derogatory) A person of any non-heterosexual sexuality or sexual identity.</li><li><strong>Definition 3:</strong> (sometimes derogatory) A person of any genderqueer identity.</li><li><strong>Definition 4:</strong> (definite, with \"the\") Counterfeit money.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To render an endeavor or agreement ineffective or null.</li><li><strong>Definition 2:</strong> To puzzle.</li><li><strong>Definition 3:</strong> To ridicule; to banter; to rally.</li><li><strong>Definition 4:</strong> To spoil the effect or success of, as by ridicule; to throw a wet blanket on; to spoil.</li><li><strong>Definition 5:</strong> To reevaluate or reinterpret (a work) with an eye to sexual orientation and/or to gender, as by applying queer theory.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Weird, odd or different; whimsical.</li><li><strong>Definition 2:</strong> Slightly unwell (mainly in \"to feel queer\").</li><li><strong>Definition 3:</strong> Drunk.</li><li><strong>Definition 4:</strong> (sometimes derogatory) Homosexual.</li><li><strong>Definition 5:</strong> (sometimes derogatory) Not heterosexual, or not cisgender: homosexual, bisexual, asexual, transgender, etc.</li><li><strong>Definition 6:</strong> (broadly) Pertaining to sexual or gender behaviour or identity which does not conform to conventional heterosexual or cisgender norms, assumptions etc.<p><strong>Example:</strong> the queer community</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Queerly.</li></ul></div></div>"
+description: Yes, QUEER is a valid Wordle word. It was the Wordle answer on June 24,
+  2026 (#1831). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 24, 2026 (#1831).
+past_answers:
+- date: '2026-06-24'
+  number: 1831
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- queen
+- queek
+- queem
+phonetic: "/kwɪə/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(sometimes derogatory) A person who is or appears homosexual, or who has
+      homosexual qualities."
+  - text: "(sometimes derogatory) A person of any non-heterosexual sexuality or sexual
+      identity."
+  - text: "(sometimes derogatory) A person of any genderqueer identity."
+  - text: (definite, with "the") Counterfeit money.
+- pos: verb
+  defs:
+  - text: To render an endeavor or agreement ineffective or null.
+  - text: To puzzle.
+  - text: To ridicule; to banter; to rally.
+  - text: To spoil the effect or success of, as by ridicule; to throw a wet blanket
+      on; to spoil.
+  - text: To reevaluate or reinterpret (a work) with an eye to sexual orientation
+      and/or to gender, as by applying queer theory.
+- pos: adjective
+  defs:
+  - text: Weird, odd or different; whimsical.
+  - text: Slightly unwell (mainly in "to feel queer").
+  - text: Drunk.
+  - text: "(sometimes derogatory) Homosexual."
+  - text: "(sometimes derogatory) Not heterosexual, or not cisgender: homosexual,
+      bisexual, asexual, transgender, etc."
+  - text: "(broadly) Pertaining to sexual or gender behaviour or identity which does
+      not conform to conventional heterosexual or cisgender norms, assumptions etc."
+    example: the queer community
+- pos: adverb
+  defs:
+  - text: Queerly.
 ---
-

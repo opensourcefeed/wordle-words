@@ -1,7 +1,40 @@
 ---
 layout: word
-title: dogma
+title: Is DOGMA a Wordle Word?
+head_title: 'Is DOGMA a Wordle Word? Yes – Past Answer #1260 & Meaning'
 word: dogma
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An authoritative principle, belief or statement of opinion, especially one considered to be absolutely true and indisputable, regardless of evidence or without evidence to support it.</li><li><strong>Definition 2:</strong> A doctrine (or set of doctrines) relating to matters such as morality and faith, set forth authoritatively by a religious organization or leader.<p><strong>Example:</strong> In the Catholic Church, new dogmas can only be declared by the pope after the extremely rare procedure ex cathedra to make them part of the official faith.</p></li></ul></div></div>"
+description: Yes, DOGMA is a valid Wordle word. It was the Wordle answer on November
+  30, 2024 (#1260). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 30, 2024 (#1260).
+past_answers:
+- date: '2024-11-30'
+  number: 1260
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- dolma
+- douma
+definitions:
+- pos: noun
+  defs:
+  - text: An authoritative principle, belief or statement of opinion, especially one
+      considered to be absolutely true and indisputable, regardless of evidence or
+      without evidence to support it.
+  - text: A doctrine (or set of doctrines) relating to matters such as morality and
+      faith, set forth authoritatively by a religious organization or leader.
+    example: In the Catholic Church, new dogmas can only be declared by the pope after
+      the extremely rare procedure ex cathedra to make them part of the official faith.
 ---
-

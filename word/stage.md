@@ -1,7 +1,94 @@
 ---
 layout: word
-title: stage
+title: Is STAGE a Wordle Word?
+head_title: 'Is STAGE a Wordle Word? Yes – Past Answer #600 & Meaning'
 word: stage
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /steɪd͡ʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A phase.<p><strong>Example:</strong> Completion of an identifiable stage of maintenance such as removing an aircraft engine for repair or storage.</p></li><li><strong>Definition 2:</strong> A platform; a surface, generally elevated, upon which show performances or other public events are given.<p><strong>Example:</strong> The band returned to the stage to play an encore.</p></li><li><strong>Definition 3:</strong> A floor or storey of a house.</li><li><strong>Definition 4:</strong> A floor elevated for the convenience of mechanical work, etc.; scaffolding; staging.</li><li><strong>Definition 5:</strong> A platform, often floating, serving as a kind of wharf.</li><li><strong>Definition 6:</strong> A stagecoach, an enclosed horsedrawn carriage used to carry passengers.<p><strong>Example:</strong> The stage pulled into town carrying the payroll for the mill and three ladies.</p></li><li><strong>Definition 7:</strong> A place of rest on a regularly travelled road; a station; a place appointed for a relay of horses.</li><li><strong>Definition 8:</strong> A degree of advancement in a journey; one of several portions into which a road or course is marked off; the distance between two places of rest on a road.<p><strong>Example:</strong> a stage of ten miles</p></li><li><strong>Definition 9:</strong> The number of an electronic circuit’s block, such as a filter, an amplifier, etc.<p><strong>Example:</strong> a 3-stage cascade of a 2nd-order bandpass Butterworth filter</p></li><li><strong>Definition 10:</strong> The place on a microscope where the slide is located for viewing.<p><strong>Example:</strong> He placed the slide on the stage.</p></li><li><strong>Definition 11:</strong> A level; one of the sequential areas making up the game.<p><strong>Example:</strong> How do you get past the flying creatures in the third stage?</p></li><li><strong>Definition 12:</strong> A place where anything is publicly exhibited, or a remarkable affair occurs; the scene.</li><li><strong>Definition 13:</strong> The succession of rock strata laid down in a single age on the geologic time scale.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce on a stage, to perform a play.<p><strong>Example:</strong> The local theater group will stage \"Pride and Prejudice\".</p></li><li><strong>Definition 2:</strong> To demonstrate in a deceptive manner.<p><strong>Example:</strong> The salesman's demonstration of the new cleanser was staged to make it appear highly effective.</p></li><li><strong>Definition 3:</strong> To orchestrate; to carry out.<p><strong>Example:</strong> A protest will be staged in the public square on Monday.</p></li><li><strong>Definition 4:</strong> To place in position to prepare for use.<p><strong>Example:</strong> We staged the cars to be ready for the start, then waited for the starter to drop the flag.</p></li><li><strong>Definition 5:</strong> To determine what stage (a disease, etc.) has progressed to</li></ul></div></div>"
+description: Yes, STAGE is a valid Wordle word. It was the Wordle answer on February
+  9, 2023 (#600). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 9, 2023 (#600).
+past_answers:
+- date: '2023-02-09'
+  number: 600
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- stake
+- stale
+- stare
+- state
+- stave
+- etage
+- stade
+- stags
+- stagy
+- stane
+- swage
+anagrams:
+- gates
+- geats
+- getas
+trap:
+  pattern: STA_E
+  count: 8
+phonetic: "/steɪd͡ʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A phase.
+    example: Completion of an identifiable stage of maintenance such as removing an
+      aircraft engine for repair or storage.
+  - text: A platform; a surface, generally elevated, upon which show performances
+      or other public events are given.
+    example: The band returned to the stage to play an encore.
+  - text: A floor or storey of a house.
+  - text: A floor elevated for the convenience of mechanical work, etc.; scaffolding;
+      staging.
+  - text: A platform, often floating, serving as a kind of wharf.
+  - text: A stagecoach, an enclosed horsedrawn carriage used to carry passengers.
+    example: The stage pulled into town carrying the payroll for the mill and three
+      ladies.
+  - text: A place of rest on a regularly travelled road; a station; a place appointed
+      for a relay of horses.
+  - text: A degree of advancement in a journey; one of several portions into which
+      a road or course is marked off; the distance between two places of rest on a
+      road.
+    example: a stage of ten miles
+  - text: The number of an electronic circuit’s block, such as a filter, an amplifier,
+      etc.
+    example: a 3-stage cascade of a 2nd-order bandpass Butterworth filter
+  - text: The place on a microscope where the slide is located for viewing.
+    example: He placed the slide on the stage.
+  - text: A level; one of the sequential areas making up the game.
+    example: How do you get past the flying creatures in the third stage?
+  - text: A place where anything is publicly exhibited, or a remarkable affair occurs;
+      the scene.
+  - text: The succession of rock strata laid down in a single age on the geologic
+      time scale.
+- pos: verb
+  defs:
+  - text: To produce on a stage, to perform a play.
+    example: The local theater group will stage "Pride and Prejudice".
+  - text: To demonstrate in a deceptive manner.
+    example: The salesman's demonstration of the new cleanser was staged to make it
+      appear highly effective.
+  - text: To orchestrate; to carry out.
+    example: A protest will be staged in the public square on Monday.
+  - text: To place in position to prepare for use.
+    example: We staged the cars to be ready for the start, then waited for the starter
+      to drop the flag.
+  - text: To determine what stage (a disease, etc.) has progressed to
 ---
-

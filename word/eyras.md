@@ -1,7 +1,39 @@
 ---
 layout: word
-title: eyras
+title: Is EYRAS a Wordle Word?
+head_title: Is EYRAS a Wordle Word? Yes – Valid Guess & Meaning
 word: eyras
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slender, reddish-yellow wild cat (Puma yagouaroundi eyra) ranging from southern Brazil to Texas.</li></ul></div></div>"
+description: Yes, EYRAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - A
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- eyres
+anagrams:
+- arsey
+- ayres
+- resay
+- sayer
+- years
+definitions:
+- pos: noun
+  defs:
+  - text: A slender, reddish-yellow wild cat (Puma yagouaroundi eyra) ranging from
+      southern Brazil to Texas.
 ---
-

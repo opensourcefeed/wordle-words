@@ -1,7 +1,67 @@
 ---
 layout: word
-title: dooms
+title: Is DOOMS a Wordle Word?
+head_title: Is DOOMS a Wordle Word? Yes – Valid Guess & Meaning
 word: dooms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /duːmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Destiny, especially terrible.</li><li><strong>Definition 2:</strong> An undesirable fate; an impending severe occurrence or danger that seems inevitable.</li><li><strong>Definition 3:</strong> A feeling of danger, impending danger, darkness or despair.</li><li><strong>Definition 4:</strong> A law.</li><li><strong>Definition 5:</strong> A judgment or decision.</li><li><strong>Definition 6:</strong> A sentence or penalty for illegal behaviour.</li><li><strong>Definition 7:</strong> Death.<p><strong>Example:</strong> They met an untimely doom when the mineshaft caved in.</p></li><li><strong>Definition 8:</strong> (sometimes capitalized) The Last Judgment; or, an artistic representation thereof.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pronounce sentence or judgment on; to condemn.<p><strong>Example:</strong> a criminal doomed to death</p></li><li><strong>Definition 2:</strong> To destine; to fix irrevocably the ill fate of.</li><li><strong>Definition 3:</strong> To judge; to estimate or determine as a judge.</li><li><strong>Definition 4:</strong> To ordain as a penalty; hence, to mulct or fine.</li><li><strong>Definition 5:</strong> To assess a tax upon, by estimate or at discretion.</li></ul></div></div>"
+description: Yes, DOOMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- booms
+- cooms
+- doobs
+- doofs
+- dooks
+- dools
+- doomy
+- doors
+- dorms
+- doums
+- looms
+- rooms
+anagrams:
+- dsomo
+- moods
+- sodom
+trap:
+  pattern: _OOMS
+  count: 8
+phonetic: "/duːmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Destiny, especially terrible.
+  - text: An undesirable fate; an impending severe occurrence or danger that seems
+      inevitable.
+  - text: A feeling of danger, impending danger, darkness or despair.
+  - text: A law.
+  - text: A judgment or decision.
+  - text: A sentence or penalty for illegal behaviour.
+  - text: Death.
+    example: They met an untimely doom when the mineshaft caved in.
+  - text: "(sometimes capitalized) The Last Judgment; or, an artistic representation
+      thereof."
+- pos: verb
+  defs:
+  - text: To pronounce sentence or judgment on; to condemn.
+    example: a criminal doomed to death
+  - text: To destine; to fix irrevocably the ill fate of.
+  - text: To judge; to estimate or determine as a judge.
+  - text: To ordain as a penalty; hence, to mulct or fine.
+  - text: To assess a tax upon, by estimate or at discretion.
 ---
-

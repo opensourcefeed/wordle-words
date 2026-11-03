@@ -1,7 +1,66 @@
 ---
 layout: word
-title: abate
+title: Is ABATE a Wordle Word?
+head_title: 'Is ABATE a Wordle Word? Yes – Past Answer #18 & Meaning'
 word: abate
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈbeɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Abatement.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (obsolete outside law) To put an end to; to cause to cease.<p><strong>Example:</strong> to abate a nuisance</p></li><li><strong>Definition 2:</strong> To become null and void.<p><strong>Example:</strong> The writ has abated.</p></li><li><strong>Definition 3:</strong> To nullify; make void.<p><strong>Example:</strong> to abate a writ</p></li><li><strong>Definition 4:</strong> To humble; to lower in status; to bring someone down physically or mentally.</li><li><strong>Definition 5:</strong> To be humbled; to be brought down physically or mentally.</li><li><strong>Definition 6:</strong> To curtail; to deprive.<p><strong>Example:</strong> Order restrictions and prohibitions to abate an emergency situation.</p></li><li><strong>Definition 7:</strong> To reduce in amount, size, or value.<p><strong>Example:</strong> Legacies are liable to be abated entirely or in proportion, upon a deficiency of assets.</p></li><li><strong>Definition 8:</strong> To decrease in size, value, or amount.</li><li><strong>Definition 9:</strong> To moderate; to lessen in force, intensity, to subside.</li><li><strong>Definition 10:</strong> To decrease in intensity or force; to subside.</li><li><strong>Definition 11:</strong> To deduct or omit.<p><strong>Example:</strong> We will abate this price from the total.</p></li><li><strong>Definition 12:</strong> To bar or except.</li><li><strong>Definition 13:</strong> To cut away or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.</li><li><strong>Definition 14:</strong> To dull the edge or point of; to blunt.</li><li><strong>Definition 15:</strong> To destroy, or level to the ground.</li></ul></div></div>"
+description: Yes, ABATE is a valid Wordle word. It was the Wordle answer on July 7,
+  2021 (#18). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 7, 2021 (#18).
+past_answers:
+- date: '2021-07-07'
+  number: 18
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- abase
+- agate
+- alate
+- amate
+anagrams:
+- abeat
+phonetic: "/əˈbeɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Abatement.
+- pos: verb
+  defs:
+  - text: "(obsolete outside law) To put an end to; to cause to cease."
+    example: to abate a nuisance
+  - text: To become null and void.
+    example: The writ has abated.
+  - text: To nullify; make void.
+    example: to abate a writ
+  - text: To humble; to lower in status; to bring someone down physically or mentally.
+  - text: To be humbled; to be brought down physically or mentally.
+  - text: To curtail; to deprive.
+    example: Order restrictions and prohibitions to abate an emergency situation.
+  - text: To reduce in amount, size, or value.
+    example: Legacies are liable to be abated entirely or in proportion, upon a deficiency
+      of assets.
+  - text: To decrease in size, value, or amount.
+  - text: To moderate; to lessen in force, intensity, to subside.
+  - text: To decrease in intensity or force; to subside.
+  - text: To deduct or omit.
+    example: We will abate this price from the total.
+  - text: To bar or except.
+  - text: To cut away or hammer down, in such a way as to leave a figure in relief,
+      as a sculpture, or in metalwork.
+  - text: To dull the edge or point of; to blunt.
+  - text: To destroy, or level to the ground.
 ---
-

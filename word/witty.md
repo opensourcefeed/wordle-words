@@ -1,7 +1,53 @@
 ---
 layout: word
-title: witty
+title: Is WITTY a Wordle Word?
+head_title: 'Is WITTY a Wordle Word? Yes – Past Answer #1471 & Meaning'
 word: witty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɪti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Wise, having good judgement.</li><li><strong>Definition 2:</strong> Possessing a strong intellect or intellectual capacity; intelligent, skilful, ingenious.</li><li><strong>Definition 3:</strong> Clever; amusingly ingenious.<p><strong>Example:</strong> His speech was both witty and informative.</p></li><li><strong>Definition 4:</strong> Full of wit.<p><strong>Example:</strong> His frequent quips mark him as particularly witty.</p></li><li><strong>Definition 5:</strong> Quick of mind; insightful; in possession of wits.<p><strong>Example:</strong> She may have grown older, but she has grown no less witty.</p></li></ul></div></div>"
+description: Yes, WITTY is a valid Wordle word. It was the Wordle answer on June 29,
+  2025 (#1471). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 29, 2025 (#1471).
+past_answers:
+- date: '2025-06-29'
+  number: 1471
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- bitty
+- ditty
+- kitty
+- jitty
+- nitty
+- titty
+- wifty
+- withy
+- zitty
+trap:
+  pattern: _ITTY
+  count: 8
+phonetic: "/ˈwɪti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Wise, having good judgement.
+  - text: Possessing a strong intellect or intellectual capacity; intelligent, skilful,
+      ingenious.
+  - text: Clever; amusingly ingenious.
+    example: His speech was both witty and informative.
+  - text: Full of wit.
+    example: His frequent quips mark him as particularly witty.
+  - text: Quick of mind; insightful; in possession of wits.
+    example: She may have grown older, but she has grown no less witty.
 ---
-

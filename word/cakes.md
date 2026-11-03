@@ -1,7 +1,66 @@
 ---
 layout: word
-title: cakes
+title: Is CAKES a Wordle Word?
+head_title: Is CAKES a Wordle Word? Yes – Valid Guess & Meaning
 word: cakes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /keɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rich, sweet dessert food, typically made of flour, sugar and eggs and baked in an oven, and often covered in icing.</li><li><strong>Definition 2:</strong> A small mass of baked dough, especially a thin loaf from unleavened dough.<p><strong>Example:</strong> a johnnycake</p></li><li><strong>Definition 3:</strong> A thin wafer-shaped mass of fried batter; a griddlecake or pancake.<p><strong>Example:</strong> buckwheat cakes</p></li><li><strong>Definition 4:</strong> A block of any of various dense materials.<p><strong>Example:</strong> a cake of sand</p></li><li><strong>Definition 5:</strong> A trivially easy task or responsibility; from a piece of cake.</li><li><strong>Definition 6:</strong> Money.</li><li><strong>Definition 7:</strong> Used to describe the doctrine of having one's cake and eating it too.</li><li><strong>Definition 8:</strong> A buttock, especially one that is exceptionally plump.<p><strong>Example:</strong> Mmm, I'd like to cut me some of that cake!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Coat (something) with a crust of solid material.<p><strong>Example:</strong> His shoes are caked with mud.</p></li><li><strong>Definition 2:</strong> To form into a cake, or mass.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cackle like a goose.</li></ul></div></div>"
+description: Yes, CAKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- bakes
+- cades
+- cafes
+- cages
+- caked
+- cakey
+- cames
+- canes
+- capes
+- cares
+- cases
+- cates
+trap:
+  pattern: _AKES
+  count: 11
+phonetic: "/keɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A rich, sweet dessert food, typically made of flour, sugar and eggs and
+      baked in an oven, and often covered in icing.
+  - text: A small mass of baked dough, especially a thin loaf from unleavened dough.
+    example: a johnnycake
+  - text: A thin wafer-shaped mass of fried batter; a griddlecake or pancake.
+    example: buckwheat cakes
+  - text: A block of any of various dense materials.
+    example: a cake of sand
+  - text: A trivially easy task or responsibility; from a piece of cake.
+  - text: Money.
+  - text: Used to describe the doctrine of having one's cake and eating it too.
+  - text: A buttock, especially one that is exceptionally plump.
+    example: Mmm, I'd like to cut me some of that cake!
+- pos: verb
+  defs:
+  - text: Coat (something) with a crust of solid material.
+    example: His shoes are caked with mud.
+  - text: To form into a cake, or mass.
+- pos: verb
+  defs:
+  - text: To cackle like a goose.
 ---
-

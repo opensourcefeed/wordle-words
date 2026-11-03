@@ -1,7 +1,38 @@
 ---
 layout: word
-title: atomy
+title: Is ATOMY a Wordle Word?
+head_title: Is ATOMY a Wordle Word? Yes – Valid Guess & Meaning
 word: atomy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈætəmi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A floating mote or speck of dust.</li><li><strong>Definition 2:</strong> An indivisible particle.</li><li><strong>Definition 3:</strong> A tiny being; a very small person.</li></ul></div></div>"
+description: Yes, ATOMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- anomy
+- atimy
+- atoms
+- atony
+- atopy
+phonetic: "/ˈætəmi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A floating mote or speck of dust.
+  - text: An indivisible particle.
+  - text: A tiny being; a very small person.
 ---
-

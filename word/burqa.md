@@ -1,7 +1,36 @@
 ---
 layout: word
-title: burqa
+title: Is BURQA a Wordle Word?
+head_title: Is BURQA a Wordle Word? Yes – Valid Guess & Meaning
 word: burqa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An Islamic garment that covers the whole body, which has a net screen covering the eyes so they cannot be seen, and is worn by women.</li><li><strong>Definition 2:</strong> A dress made from felt or karakul (the short curly fur of young lambs of the breed of that name), traditionally worn by men of the Caucasus region.</li></ul></div></div>"
+description: Yes, BURQA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- burka
+- burra
+- bursa
+definitions:
+- pos: noun
+  defs:
+  - text: An Islamic garment that covers the whole body, which has a net screen covering
+      the eyes so they cannot be seen, and is worn by women.
+  - text: A dress made from felt or karakul (the short curly fur of young lambs of
+      the breed of that name), traditionally worn by men of the Caucasus region.
 ---
-

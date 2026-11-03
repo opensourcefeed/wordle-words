@@ -1,7 +1,47 @@
 ---
 layout: word
-title: alike
+title: Is ALIKE a Wordle Word?
+head_title: 'Is ALIKE a Wordle Word? Yes – Past Answer #458 & Meaning'
 word: alike
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈlaɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having resemblance or similitude; similar; without difference.<p><strong>Example:</strong> The twins were alike.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In the same manner, form, or degree; in common; equally.<p><strong>Example:</strong> We are all alike concerned in religion.</p></li></ul></div></div>"
+description: Yes, ALIKE is a valid Wordle word. It was the Wordle answer on September
+  20, 2022 (#458). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 20, 2022 (#458).
+past_answers:
+- date: '2022-09-20'
+  number: 458
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- alive
+- aline
+- glike
+- ylike
+anagrams:
+- alkie
+phonetic: "/əˈlaɪk/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having resemblance or similitude; similar; without difference.
+    example: The twins were alike.
+- pos: adverb
+  defs:
+  - text: In the same manner, form, or degree; in common; equally.
+    example: We are all alike concerned in religion.
 ---
-

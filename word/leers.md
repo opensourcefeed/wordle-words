@@ -1,7 +1,72 @@
 ---
 layout: word
-title: leers
+title: Is LEERS a Wordle Word?
+head_title: Is LEERS a Wordle Word? Yes – Valid Guess & Meaning
 word: leers
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A significant side glance; a glance expressive of some passion, as malignity, amorousness, etc.; a sly or lecherous look.</li><li><strong>Definition 2:</strong> An arch or affected glance or cast of countenance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To look sideways or obliquely; now especially with sexual desire or malicious intent.</li><li><strong>Definition 2:</strong> To entice with a leer or leers.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The cheek.</li><li><strong>Definition 2:</strong> The face.</li><li><strong>Definition 3:</strong> One's appearance; countenance.</li><li><strong>Definition 4:</strong> Complexion; hue; colour.</li><li><strong>Definition 5:</strong> Flesh; skin.</li><li><strong>Definition 6:</strong> The flank or loin.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To teach.</li><li><strong>Definition 2:</strong> To learn.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long oven or kiln, often having a moving belt, used for annealing glass.</li></ul></div></div>"
+description: Yes, LEERS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- leery
+- beers
+- deers
+- feers
+- jeers
+- laers
+- lears
+- leeks
+- leeps
+- leets
+- lehrs
+- leirs
+anagrams:
+- leres
+- reels
+- sleer
+trap:
+  pattern: _EERS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A significant side glance; a glance expressive of some passion, as malignity,
+      amorousness, etc.; a sly or lecherous look.
+  - text: An arch or affected glance or cast of countenance.
+- pos: verb
+  defs:
+  - text: To look sideways or obliquely; now especially with sexual desire or malicious
+      intent.
+  - text: To entice with a leer or leers.
+- pos: noun
+  defs:
+  - text: The cheek.
+  - text: The face.
+  - text: One's appearance; countenance.
+  - text: Complexion; hue; colour.
+  - text: Flesh; skin.
+  - text: The flank or loin.
+- pos: verb
+  defs:
+  - text: To teach.
+  - text: To learn.
+- pos: noun
+  defs:
+  - text: A long oven or kiln, often having a moving belt, used for annealing glass.
 ---
-

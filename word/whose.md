@@ -1,7 +1,44 @@
 ---
 layout: word
-title: whose
+title: Is WHOSE a Wordle Word?
+head_title: 'Is WHOSE a Wordle Word? Yes – Past Answer #1413 & Meaning'
 word: whose
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /huːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> pronoun</p><ul><li><strong>Definition 1:</strong> (interrogative) That or those of whom or belonging to whom.<p><strong>Example:</strong> Several people have lost their suitcases. Whose have you found?</p></li><li><strong>Definition 2:</strong> (relative) That or those of whom or belonging to whom.<p><strong>Example:</strong> This car is blocking the way, but Mr Smith, whose it is, will be here shortly.</p></li></ul></div></div>"
+description: Yes, WHOSE is a valid Wordle word. It was the Wordle answer on May 2,
+  2025 (#1413). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 2, 2025 (#1413).
+past_answers:
+- date: '2025-05-02'
+  number: 1413
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- chose
+- those
+- whole
+- whoso
+- woose
+anagrams:
+- howes
+phonetic: "/huːz/"
+definitions:
+- pos: pronoun
+  defs:
+  - text: "(interrogative) That or those of whom or belonging to whom."
+    example: Several people have lost their suitcases. Whose have you found?
+  - text: "(relative) That or those of whom or belonging to whom."
+    example: This car is blocking the way, but Mr Smith, whose it is, will be here
+      shortly.
 ---
-

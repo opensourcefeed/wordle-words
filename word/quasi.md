@@ -1,7 +1,36 @@
 ---
 layout: word
-title: quasi
+title: Is QUASI a Wordle Word?
+head_title: Is QUASI a Wordle Word? Yes – Possible Answer & Meaning
 word: quasi
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkweɪ.zaɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling or having a likeness to something</li></ul></div></div>"
+description: Yes, QUASI is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- quash
+- quass
+anagrams:
+- quais
+phonetic: "/ˈkweɪ.zaɪ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling or having a likeness to something
 ---
-

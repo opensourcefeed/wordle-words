@@ -1,7 +1,60 @@
 ---
 layout: word
-title: first
+title: Is FIRST a Wordle Word?
+head_title: 'Is FIRST a Wordle Word? Yes – Past Answer #56 & Meaning'
 word: first
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɪrst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The person or thing in the first position.<p><strong>Example:</strong> He was the first to complete the course.</p></li><li><strong>Definition 2:</strong> The first gear of an engine.</li><li><strong>Definition 3:</strong> Something that has never happened before; a new occurrence.<p><strong>Example:</strong> This is a first. For once he has nothing to say.</p></li><li><strong>Definition 4:</strong> First base<p><strong>Example:</strong> There was a close play at first.</p></li><li><strong>Definition 5:</strong> A first-class honours degree.</li><li><strong>Definition 6:</strong> A first-edition copy of some publication.</li><li><strong>Definition 7:</strong> A fraction of an integer ending in one.<p><strong>Example:</strong> one forty-first of the estate</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Preceding all others of a series or kind; the ordinal of one; earliest.<p><strong>Example:</strong> I was the first runner to reach the finish line, and won the race.</p></li><li><strong>Definition 2:</strong> Most eminent or exalted; most excellent; chief; highest.<p><strong>Example:</strong> Demosthenes was the first orator of Greece.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Before anything else; firstly.<p><strong>Example:</strong> Clean the sink first, before you even think of starting to cook.</p></li><li><strong>Definition 2:</strong> For the first time;<p><strong>Example:</strong> I first witnessed a death when I was nine years old.</p></li></ul></div></div>"
+description: Yes, FIRST is a valid Wordle word. It was the Wordle answer on August
+  14, 2021 (#56). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 14, 2021 (#56).
+past_answers:
+- date: '2021-08-14'
+  number: 56
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- fiest
+anagrams:
+- frist
+- frits
+- rifts
+phonetic: "/fɪrst/"
+definitions:
+- pos: noun
+  defs:
+  - text: The person or thing in the first position.
+    example: He was the first to complete the course.
+  - text: The first gear of an engine.
+  - text: Something that has never happened before; a new occurrence.
+    example: This is a first. For once he has nothing to say.
+  - text: First base
+    example: There was a close play at first.
+  - text: A first-class honours degree.
+  - text: A first-edition copy of some publication.
+  - text: A fraction of an integer ending in one.
+    example: one forty-first of the estate
+- pos: adjective
+  defs:
+  - text: Preceding all others of a series or kind; the ordinal of one; earliest.
+    example: I was the first runner to reach the finish line, and won the race.
+  - text: Most eminent or exalted; most excellent; chief; highest.
+    example: Demosthenes was the first orator of Greece.
+- pos: adverb
+  defs:
+  - text: Before anything else; firstly.
+    example: Clean the sink first, before you even think of starting to cook.
+  - text: For the first time;
+    example: I first witnessed a death when I was nine years old.
 ---
-

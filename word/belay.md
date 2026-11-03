@@ -1,7 +1,55 @@
 ---
 layout: word
-title: belay
+title: Is BELAY a Wordle Word?
+head_title: Is BELAY a Wordle Word? Yes – Valid Guess & Meaning
 word: belay
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɪˈleɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The securing of a rope to a rock or other projection.</li><li><strong>Definition 2:</strong> The object to which a rope is secured.</li><li><strong>Definition 3:</strong> A location at which a climber stops and builds an anchor with which to secure their partner.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To surround; environ; enclose.</li><li><strong>Definition 2:</strong> To overlay; adorn.</li><li><strong>Definition 3:</strong> To besiege; invest; surround.</li><li><strong>Definition 4:</strong> To lie in wait for in order to attack; block up or obstruct.</li><li><strong>Definition 5:</strong> To make (a rope) fast by turning it around a fastening point such as a cleat or piton.</li><li><strong>Definition 6:</strong> To secure (a person) to a rope or (a rope) to a person.<p><strong>Example:</strong> He would need an experienced partner to belay him on the difficult climbs.</p></li><li><strong>Definition 7:</strong> To lay aside; stop; cancel.<p><strong>Example:</strong> Belay that order!</p></li><li><strong>Definition 8:</strong> The general command to stop or cease.</li></ul></div></div>"
+description: Yes, BELAY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- belly
+- delay
+- relay
+- belah
+- belar
+- beray
+anagrams:
+- bayle
+phonetic: "/bɪˈleɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The securing of a rope to a rock or other projection.
+  - text: The object to which a rope is secured.
+  - text: A location at which a climber stops and builds an anchor with which to secure
+      their partner.
+- pos: verb
+  defs:
+  - text: To surround; environ; enclose.
+  - text: To overlay; adorn.
+  - text: To besiege; invest; surround.
+  - text: To lie in wait for in order to attack; block up or obstruct.
+  - text: To make (a rope) fast by turning it around a fastening point such as a cleat
+      or piton.
+  - text: To secure (a person) to a rope or (a rope) to a person.
+    example: He would need an experienced partner to belay him on the difficult climbs.
+  - text: To lay aside; stop; cancel.
+    example: Belay that order!
+  - text: The general command to stop or cease.
 ---
-

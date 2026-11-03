@@ -1,7 +1,45 @@
 ---
 layout: word
-title: among
+title: Is AMONG a Wordle Word?
+head_title: 'Is AMONG a Wordle Word? Yes – Past Answer #1630 & Meaning'
 word: among
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈmɒŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst.)<p><strong>Example:</strong> How can you speak with authority about their customs when you have never lived among them?</p></li><li><strong>Definition 2:</strong> Denotes a belonging of a person or a thing to a group.<p><strong>Example:</strong> He is among the few who completely understand the subject.</p></li><li><strong>Definition 3:</strong> Denotes a sharing of a common feature in a group.<p><strong>Example:</strong> Lactose intolerance is common among people of Asian heritage.</p></li></ul></div></div>"
+description: Yes, AMONG is a valid Wordle word. It was the Wordle answer on December
+  5, 2025 (#1630). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 5, 2025 (#1630).
+past_answers:
+- date: '2025-12-05'
+  number: 1630
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- along
+- emong
+anagrams:
+- mango
+- ngoma
+phonetic: "/əˈmɒŋ/"
+definitions:
+- pos: preposition
+  defs:
+  - text: Denotes a mingling or intermixing with distinct or separable objects. (See
+      Usage Note at amidst.)
+    example: How can you speak with authority about their customs when you have never
+      lived among them?
+  - text: Denotes a belonging of a person or a thing to a group.
+    example: He is among the few who completely understand the subject.
+  - text: Denotes a sharing of a common feature in a group.
+    example: Lactose intolerance is common among people of Asian heritage.
 ---
-

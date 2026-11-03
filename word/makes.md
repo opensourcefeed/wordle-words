@@ -1,7 +1,137 @@
 ---
 layout: word
-title: makes
+title: Is MAKES a Wordle Word?
+head_title: Is MAKES a Wordle Word? Yes – Valid Guess & Meaning
 word: makes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /meɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Brand or kind; model.<p><strong>Example:</strong> What make of car do you drive?</p></li><li><strong>Definition 2:</strong> Manner or style of construction (style of how a thing is made); form.</li><li><strong>Definition 3:</strong> Origin (of a manufactured article); manufacture; production.<p><strong>Example:</strong> The camera was of German make.</p></li><li><strong>Definition 4:</strong> A person's character or disposition.</li><li><strong>Definition 5:</strong> The act or process of making something, especially in industrial manufacturing.</li><li><strong>Definition 6:</strong> Quantity produced, especially of materials.</li><li><strong>Definition 7:</strong> A software utility for automatically building large applications, or an implementation of this utility.</li><li><strong>Definition 8:</strong> Identification or recognition (of identity), especially from police records or evidence.</li><li><strong>Definition 9:</strong> (usually in phrase \"easy make\") Past, present or future target of seduction (usually female).</li><li><strong>Definition 10:</strong> A promotion.</li><li><strong>Definition 11:</strong> A home-made project</li><li><strong>Definition 12:</strong> Turn to declare the trump for a hand (in bridge), or to shuffle the cards.</li><li><strong>Definition 13:</strong> A made basket.</li><li><strong>Definition 14:</strong> The closing of an electrical circuit.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To create.</li><li><strong>Definition 2:</strong> To behave, to act.<p><strong>Example:</strong> He made as if to punch him, but they both laughed and shook hands.</p></li><li><strong>Definition 3:</strong> To tend; to contribute; to have effect; with for or against.</li><li><strong>Definition 4:</strong> To constitute.<p><strong>Example:</strong> One swallow does not a summer make.</p></li><li><strong>Definition 5:</strong> To add up to, have a sum of.<p><strong>Example:</strong> Two and four make six.</p></li><li><strong>Definition 6:</strong> (construed with of, typically interrogative) To interpret.<p><strong>Example:</strong> I don’t know what to make of it.</p></li><li><strong>Definition 7:</strong> (usually stressed) To bring into success.<p><strong>Example:</strong> She married into wealth and so has it made.</p></li><li><strong>Definition 8:</strong> (ditransitive, second object is an adjective or participle) To cause to be.<p><strong>Example:</strong> Did I make myself heard?</p></li><li><strong>Definition 9:</strong> To cause to appear to be; to represent as.</li><li><strong>Definition 10:</strong> (ditransitive, second object is a verb) To cause (to do something); to compel (to do something).<p><strong>Example:</strong> I was made to feel like a criminal.</p></li><li><strong>Definition 11:</strong> (ditransitive, second object is a verb, can be stressed for emphasis or clarity) To force to do.<p><strong>Example:</strong> Don’t let them make you suffer.</p></li><li><strong>Definition 12:</strong> (ditransitive, of a fact) To indicate or suggest to be.<p><strong>Example:</strong> His past mistakes don’t make him a bad person.</p></li><li><strong>Definition 13:</strong> (of a bed) To cover neatly with bedclothes.</li><li><strong>Definition 14:</strong> (law enforcement) To recognise, identify, spot.</li><li><strong>Definition 15:</strong> To arrive at a destination, usually at or by a certain time.<p><strong>Example:</strong> We should make Cincinnati by 7 tonight.</p></li><li><strong>Definition 16:</strong> To proceed (in a direction).<p><strong>Example:</strong> Make for the hills! It's a wildfire!</p></li><li><strong>Definition 17:</strong> To cover (a given distance) by travelling.</li><li><strong>Definition 18:</strong> To move at (a speed).<p><strong>Example:</strong> The ship could make 20 knots an hour in calm seas.</p></li><li><strong>Definition 19:</strong> To appoint; to name.</li><li><strong>Definition 20:</strong> To induct into the Mafia or a similar organization (as a made man).</li><li><strong>Definition 21:</strong> To defecate or urinate.</li><li><strong>Definition 22:</strong> To earn, to gain (money, points, membership or status).<p><strong>Example:</strong> He didn't make the choir after his voice changed.</p></li><li><strong>Definition 23:</strong> To pay, to cover (an expense); chiefly used after expressions of inability.</li><li><strong>Definition 24:</strong> To compose verses; to write poetry; to versify.</li><li><strong>Definition 25:</strong> To enact; to establish.</li><li><strong>Definition 26:</strong> To develop into; to prove to be.<p><strong>Example:</strong> She'll make a fine president.</p></li><li><strong>Definition 27:</strong> To form or formulate in the mind.<p><strong>Example:</strong> made a questionable decision</p></li><li><strong>Definition 28:</strong> To perform a feat.<p><strong>Example:</strong> make a leap</p></li><li><strong>Definition 29:</strong> To gain sufficient audience to warrant its existence.<p><strong>Example:</strong> In the end, my class didn't make, which left me with a bit of free time.</p></li><li><strong>Definition 30:</strong> To act in a certain manner; to have to do; to manage; to interfere; to be active; often in the phrase to meddle or make.</li><li><strong>Definition 31:</strong> To increase; to augment; to accrue.</li><li><strong>Definition 32:</strong> To be engaged or concerned in.</li><li><strong>Definition 33:</strong> To cause to be (in a specified place), used after a subjective what.</li><li><strong>Definition 34:</strong> To take the virginity of.</li><li><strong>Definition 35:</strong> To have sexual intercourse with.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Mate; a spouse or companion; a match.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A halfpenny.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.</li></ul></div></div>"
+description: Yes, MAKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- maker
+- bakes
+- cakes
+- fakes
+- hakes
+- jakes
+- lakes
+- mabes
+- maces
+- mages
+- makee
+- makis
+anagrams:
+- kames
+- kasme
+- meaks
+- samek
+trap:
+  pattern: MA_ES
+  count: 12
+phonetic: "/meɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Brand or kind; model.
+    example: What make of car do you drive?
+  - text: Manner or style of construction (style of how a thing is made); form.
+  - text: Origin (of a manufactured article); manufacture; production.
+    example: The camera was of German make.
+  - text: A person's character or disposition.
+  - text: The act or process of making something, especially in industrial manufacturing.
+  - text: Quantity produced, especially of materials.
+  - text: A software utility for automatically building large applications, or an
+      implementation of this utility.
+  - text: Identification or recognition (of identity), especially from police records
+      or evidence.
+  - text: (usually in phrase "easy make") Past, present or future target of seduction
+      (usually female).
+  - text: A promotion.
+  - text: A home-made project
+  - text: Turn to declare the trump for a hand (in bridge), or to shuffle the cards.
+  - text: A made basket.
+  - text: The closing of an electrical circuit.
+- pos: verb
+  defs:
+  - text: To create.
+  - text: To behave, to act.
+    example: He made as if to punch him, but they both laughed and shook hands.
+  - text: To tend; to contribute; to have effect; with for or against.
+  - text: To constitute.
+    example: One swallow does not a summer make.
+  - text: To add up to, have a sum of.
+    example: Two and four make six.
+  - text: "(construed with of, typically interrogative) To interpret."
+    example: I don’t know what to make of it.
+  - text: "(usually stressed) To bring into success."
+    example: She married into wealth and so has it made.
+  - text: "(ditransitive, second object is an adjective or participle) To cause to
+      be."
+    example: Did I make myself heard?
+  - text: To cause to appear to be; to represent as.
+  - text: "(ditransitive, second object is a verb) To cause (to do something); to
+      compel (to do something)."
+    example: I was made to feel like a criminal.
+  - text: "(ditransitive, second object is a verb, can be stressed for emphasis or
+      clarity) To force to do."
+    example: Don’t let them make you suffer.
+  - text: "(ditransitive, of a fact) To indicate or suggest to be."
+    example: His past mistakes don’t make him a bad person.
+  - text: "(of a bed) To cover neatly with bedclothes."
+  - text: "(law enforcement) To recognise, identify, spot."
+  - text: To arrive at a destination, usually at or by a certain time.
+    example: We should make Cincinnati by 7 tonight.
+  - text: To proceed (in a direction).
+    example: Make for the hills! It's a wildfire!
+  - text: To cover (a given distance) by travelling.
+  - text: To move at (a speed).
+    example: The ship could make 20 knots an hour in calm seas.
+  - text: To appoint; to name.
+  - text: To induct into the Mafia or a similar organization (as a made man).
+  - text: To defecate or urinate.
+  - text: To earn, to gain (money, points, membership or status).
+    example: He didn't make the choir after his voice changed.
+  - text: To pay, to cover (an expense); chiefly used after expressions of inability.
+  - text: To compose verses; to write poetry; to versify.
+  - text: To enact; to establish.
+  - text: To develop into; to prove to be.
+    example: She'll make a fine president.
+  - text: To form or formulate in the mind.
+    example: made a questionable decision
+  - text: To perform a feat.
+    example: make a leap
+  - text: To gain sufficient audience to warrant its existence.
+    example: In the end, my class didn't make, which left me with a bit of free time.
+  - text: To act in a certain manner; to have to do; to manage; to interfere; to be
+      active; often in the phrase to meddle or make.
+  - text: To increase; to augment; to accrue.
+  - text: To be engaged or concerned in.
+  - text: To cause to be (in a specified place), used after a subjective what.
+  - text: To take the virginity of.
+  - text: To have sexual intercourse with.
+- pos: noun
+  defs:
+  - text: Mate; a spouse or companion; a match.
+- pos: noun
+  defs:
+  - text: A halfpenny.
+- pos: noun
+  defs:
+  - text: An agricultural tool resembling a scythe, used to cut (harvest) certain
+      plants such as peas, reeds, or tares.
 ---
-

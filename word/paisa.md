@@ -1,7 +1,37 @@
 ---
 layout: word
-title: paisa
+title: Is PAISA a Wordle Word?
+head_title: Is PAISA a Wordle Word? Yes – Valid Guess & Meaning
 word: paisa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A subdivision of currency, equal to one hundredth of a rupee in various Asian countries.</li><li><strong>Definition 2:</strong> (British India) A subdivision of currency equivalent to 1/64 of a rupee or three pies.</li><li><strong>Definition 3:</strong> A subdivision of currency, equal to one hundredth of a Bangladeshi taka.</li></ul></div></div>"
+description: Yes, PAISA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- baisa
+- paise
+- palsa
+definitions:
+- pos: noun
+  defs:
+  - text: A subdivision of currency, equal to one hundredth of a rupee in various
+      Asian countries.
+  - text: "(British India) A subdivision of currency equivalent to 1/64 of a rupee
+      or three pies."
+  - text: A subdivision of currency, equal to one hundredth of a Bangladeshi taka.
 ---
-

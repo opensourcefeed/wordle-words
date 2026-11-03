@@ -1,7 +1,43 @@
 ---
 layout: word
-title: hamel
+title: Is HAMEL a Wordle Word?
+head_title: Is HAMEL a Wordle Word? Yes – Valid Guess & Meaning
 word: hamel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To mutilate; hamstring; cut away.</li><li><strong>Definition 2:</strong> To cut out the balls of the feet of (dogs) so as to render them unfit for hunting.</li><li><strong>Definition 3:</strong> To walk lame; limp.</li></ul></div></div>"
+description: Yes, HAMEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- camel
+- hazel
+- hamal
+- hamed
+- hames
+- havel
+- samel
+anagrams:
+- almeh
+- hemal
+definitions:
+- pos: verb
+  defs:
+  - text: To mutilate; hamstring; cut away.
+  - text: To cut out the balls of the feet of (dogs) so as to render them unfit for
+      hunting.
+  - text: To walk lame; limp.
 ---
-

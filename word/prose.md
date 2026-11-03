@@ -1,7 +1,63 @@
 ---
 layout: word
-title: prose
+title: Is PROSE a Wordle Word?
+head_title: 'Is PROSE a Wordle Word? Yes – Past Answer #1308 & Meaning'
 word: prose
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɹəʊz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Language, particularly written language, not intended as poetry.<p><strong>Example:</strong> Though known mostly for her prose, she also produced a small body of excellent poems.</p></li><li><strong>Definition 2:</strong> Language which evinces little imagination or animation; dull and commonplace discourse.</li><li><strong>Definition 3:</strong> A hymn with no regular meter, sometimes introduced into the Mass.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To write or repeat in a dull, tedious, or prosy way.</li></ul></div></div>"
+description: Yes, PROSE is a valid Wordle word. It was the Wordle answer on January
+  17, 2025 (#1308). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 17, 2025 (#1308).
+past_answers:
+- date: '2025-01-17'
+  number: 1308
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- arose
+- probe
+- prone
+- prove
+- brose
+- erose
+- prase
+- prese
+- prise
+- proke
+- prole
+- prore
+anagrams:
+- poser
+- spore
+- pores
+- repos
+- ropes
+trap:
+  pattern: PRO_E
+  count: 7
+phonetic: "/ˈpɹəʊz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Language, particularly written language, not intended as poetry.
+    example: Though known mostly for her prose, she also produced a small body of
+      excellent poems.
+  - text: Language which evinces little imagination or animation; dull and commonplace
+      discourse.
+  - text: A hymn with no regular meter, sometimes introduced into the Mass.
+- pos: verb
+  defs:
+  - text: To write or repeat in a dull, tedious, or prosy way.
 ---
-

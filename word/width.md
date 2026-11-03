@@ -1,7 +1,36 @@
 ---
 layout: word
-title: width
+title: Is WIDTH a Wordle Word?
+head_title: 'Is WIDTH a Wordle Word? Yes – Past Answer #1566 & Meaning'
 word: width
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɪdθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The state of being wide.</li><li><strong>Definition 2:</strong> The measurement of the extent of something from side to side.</li><li><strong>Definition 3:</strong> A piece of material measured along its smaller dimension, especially fabric.</li><li><strong>Definition 4:</strong> The horizontal distance between a batsman and the ball as it passes him.</li><li><strong>Definition 5:</strong> The use of all the width of the pitch, from one side to the other.<p><strong>Example:</strong> Manchester United like to play with width.</p></li></ul></div></div>"
+description: Yes, WIDTH is a valid Wordle word. It was the Wordle answer on October
+  2, 2025 (#1566). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 2, 2025 (#1566).
+past_answers:
+- date: '2025-10-02'
+  number: 1566
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+phonetic: "/ˈwɪdθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The state of being wide.
+  - text: The measurement of the extent of something from side to side.
+  - text: A piece of material measured along its smaller dimension, especially fabric.
+  - text: The horizontal distance between a batsman and the ball as it passes him.
+  - text: The use of all the width of the pitch, from one side to the other.
+    example: Manchester United like to play with width.
 ---
-

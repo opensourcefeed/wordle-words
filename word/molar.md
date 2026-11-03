@@ -1,7 +1,56 @@
 ---
 layout: word
-title: molar
+title: Is MOLAR a Wordle Word?
+head_title: 'Is MOLAR a Wordle Word? Yes – Past Answer #559 & Meaning'
 word: molar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmoʊlɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A back tooth having a broad surface used for grinding one's food.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to the molar teeth, or to grinding.</li></ul></div></div>"
+description: Yes, MOLAR is a valid Wordle word. It was the Wordle answer on December
+  30, 2022 (#559). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 30, 2022 (#559).
+past_answers:
+- date: '2022-12-30'
+  number: 559
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- polar
+- solar
+- bolar
+- malar
+- mogar
+- mohar
+- molal
+- molas
+- moler
+- mylar
+- tolar
+- volar
+anagrams:
+- moral
+- romal
+trap:
+  pattern: _OLAR
+  count: 6
+phonetic: "/ˈmoʊlɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A back tooth having a broad surface used for grinding one's food.
+- pos: adjective
+  defs:
+  - text: Of or relating to the molar teeth, or to grinding.
 ---
-

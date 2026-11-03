@@ -1,7 +1,41 @@
 ---
 layout: word
-title: visas
+title: Is VISAS a Wordle Word?
+head_title: Is VISAS a Wordle Word? Yes – Valid Guess & Meaning
 word: visas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A permit to enter and leave a country, normally issued by the authorities of the country to be visited.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To endorse (a passport, etc.).</li></ul></div></div>"
+description: Yes, VISAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- disas
+- vigas
+- vinas
+- vises
+- vitas
+- vivas
+definitions:
+- pos: noun
+  defs:
+  - text: A permit to enter and leave a country, normally issued by the authorities
+      of the country to be visited.
+- pos: verb
+  defs:
+  - text: To endorse (a passport, etc.).
 ---
-

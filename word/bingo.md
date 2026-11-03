@@ -1,7 +1,66 @@
 ---
 layout: word
-title: bingo
+title: Is BINGO a Wordle Word?
+head_title: 'Is BINGO a Wordle Word? Yes – Past Answer #1956 & Meaning'
 word: bingo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A game of chance for two or more players, who mark off numbers on a grid as they are announced by the caller; the game is won by the first person to call out \"bingo!\" or \"house!\" after crossing off all numbers on the grid or in one line of the grid.</li><li><strong>Definition 2:</strong> A win in such a game.<p><strong>Example:</strong> There were two bingos in the last game, so the players split the prize money.</p></li><li><strong>Definition 3:</strong> (Scrabble) A play where all seven of a player's letter tiles are played.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play the game of bingo.</li><li><strong>Definition 2:</strong> To give the winning cry of \"bingo!\" in a game.</li><li><strong>Definition 3:</strong> To play all of one's seven tiles in one move in the game of Scrabble, earning a score bonus.</li><li><strong>Definition 4:</strong> To return to base.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Just sufficient to return to base (or, alternatively, to divert to an alternative airfield). (also written Bingo or BINGO)</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Used by players of bingo to claim a win.</li><li><strong>Definition 2:</strong> Used when finding what one has been looking for or trying to recall, or on successful completion of a task.</li><li><strong>Definition 3:</strong> Used to declare \"You've just made my point!\" or \"My point exactly!\"</li></ul></div></div>"
+description: Yes, BINGO is a valid Wordle word. It was the Wordle answer on October
+  27, 2026 (#1956). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 27, 2026 (#1956).
+past_answers:
+- date: '2026-10-27'
+  number: 1956
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- binge
+- bongo
+- dingo
+- lingo
+- bings
+- bingy
+- jingo
+- pingo
+anagrams:
+- boing
+definitions:
+- pos: noun
+  defs:
+  - text: A game of chance for two or more players, who mark off numbers on a grid
+      as they are announced by the caller; the game is won by the first person to
+      call out "bingo!" or "house!" after crossing off all numbers on the grid or
+      in one line of the grid.
+  - text: A win in such a game.
+    example: There were two bingos in the last game, so the players split the prize
+      money.
+  - text: "(Scrabble) A play where all seven of a player's letter tiles are played."
+- pos: verb
+  defs:
+  - text: To play the game of bingo.
+  - text: To give the winning cry of "bingo!" in a game.
+  - text: To play all of one's seven tiles in one move in the game of Scrabble, earning
+      a score bonus.
+  - text: To return to base.
+- pos: adjective
+  defs:
+  - text: Just sufficient to return to base (or, alternatively, to divert to an alternative
+      airfield). (also written Bingo or BINGO)
+- pos: interjection
+  defs:
+  - text: Used by players of bingo to claim a win.
+  - text: Used when finding what one has been looking for or trying to recall, or
+      on successful completion of a task.
+  - text: Used to declare "You've just made my point!" or "My point exactly!"
 ---
-

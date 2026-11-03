@@ -1,7 +1,58 @@
 ---
 layout: word
-title: rimed
+title: Is RIMED a Wordle Word?
+head_title: Is RIMED a Wordle Word? Yes – Valid Guess & Meaning
 word: rimed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To compose or treat in verse; versify.</li><li><strong>Definition 2:</strong> (followed by with) Of a word, to be pronounced identically with another from the vowel in its stressed syllable to the end.<p><strong>Example:</strong> \"Creation\" rhymes with \"integration\" and \"station\".</p></li><li><strong>Definition 3:</strong> Of two or more words, to be pronounced identically from the vowel in the stressed syllable of each to the end of each.<p><strong>Example:</strong> \"India\" and \"windier\" rhyme with each other in non-rhotic accents.</p></li><li><strong>Definition 4:</strong> To number; count; reckon.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To freeze or congeal into hoarfrost.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Covered in frost<p><strong>Example:</strong> The rimed window permitted only shades of the traffic outside.</p></li></ul></div></div>"
+description: Yes, RIMED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- aimed
+- limed
+- mimed
+- riced
+- riled
+- rimer
+- rimes
+- riped
+- rived
+- timed
+anagrams:
+- dimer
+- mired
+definitions:
+- pos: verb
+  defs:
+  - text: To compose or treat in verse; versify.
+  - text: "(followed by with) Of a word, to be pronounced identically with another
+      from the vowel in its stressed syllable to the end."
+    example: '"Creation" rhymes with "integration" and "station".'
+  - text: Of two or more words, to be pronounced identically from the vowel in the
+      stressed syllable of each to the end of each.
+    example: '"India" and "windier" rhyme with each other in non-rhotic accents.'
+  - text: To number; count; reckon.
+- pos: verb
+  defs:
+  - text: To freeze or congeal into hoarfrost.
+- pos: adjective
+  defs:
+  - text: Covered in frost
+    example: The rimed window permitted only shades of the traffic outside.
 ---
-

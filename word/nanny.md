@@ -1,7 +1,54 @@
 ---
 layout: word
-title: nanny
+title: Is NANNY a Wordle Word?
+head_title: 'Is NANNY a Wordle Word? Yes – Past Answer #714 & Meaning'
 word: nanny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnæni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A child's nurse.</li><li><strong>Definition 2:</strong> A grandmother.</li><li><strong>Definition 3:</strong> A godmother.</li><li><strong>Definition 4:</strong> A female goat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To serve as a nanny.</li><li><strong>Definition 2:</strong> To treat like a nanny's charges; to coddle.</li></ul></div></div>"
+description: Yes, NANNY is a valid Wordle word. It was the Wordle answer on June 3,
+  2023 (#714). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 3, 2023 (#714).
+past_answers:
+- date: '2023-06-03'
+  number: 714
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - N
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- canny
+- fanny
+- ninny
+- danny
+- janny
+- manny
+- nanna
+- nanty
+- nonny
+- nunny
+- panny
+- ranny
+trap:
+  pattern: _ANNY
+  count: 8
+phonetic: "/ˈnæni/"
+definitions:
+- pos: noun
+  defs:
+  - text: A child's nurse.
+  - text: A grandmother.
+  - text: A godmother.
+  - text: A female goat.
+- pos: verb
+  defs:
+  - text: To serve as a nanny.
+  - text: To treat like a nanny's charges; to coddle.
 ---
-

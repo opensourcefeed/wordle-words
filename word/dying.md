@@ -1,7 +1,85 @@
 ---
 layout: word
-title: dying
+title: Is DYING a Wordle Word?
+head_title: Is DYING a Wordle Word? Yes – Possible Answer & Meaning
 word: dying
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪ.ɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stop living; to become dead; to undergo death.</li><li><strong>Definition 2:</strong> To (stop living and) undergo (a specified death).<p><strong>Example:</strong> He died a hero's death.</p></li><li><strong>Definition 3:</strong> To yearn intensely.<p><strong>Example:</strong> I'm dying for a packet of crisps.</p></li><li><strong>Definition 4:</strong> To be or become hated or utterly ignored or cut off, as if dead.<p><strong>Example:</strong> The day our sister eloped, she died to our mother.</p></li><li><strong>Definition 5:</strong> To become spiritually dead; to lose hope.<p><strong>Example:</strong> He died a little inside each time she refused to speak to him.</p></li><li><strong>Definition 6:</strong> To be mortified or shocked by a situation.<p><strong>Example:</strong> If anyone sees me wearing this ridiculous outfit, I'll die.</p></li><li><strong>Definition 7:</strong> To be so overcome with emotion or laughter as to be incapacitated.<p><strong>Example:</strong> When I found out my two favorite musicians would be recording an album together, I literally planned my own funeral arrangements and died.</p></li><li><strong>Definition 8:</strong> (of a machine) To stop working, to break down.<p><strong>Example:</strong> My car died in the middle of the freeway this morning.</p></li><li><strong>Definition 9:</strong> (of a computer program) To abort, to terminate (as an error condition).</li><li><strong>Definition 10:</strong> To perish; to cease to exist; to become lost or extinct.</li><li><strong>Definition 11:</strong> To sink; to faint; to pine; to languish, with weakness, discouragement, love, etc.</li><li><strong>Definition 12:</strong> (often with \"to\") To become indifferent; to cease to be subject.<p><strong>Example:</strong> to die to pleasure or to sin</p></li><li><strong>Definition 13:</strong> To disappear gradually in another surface, as where mouldings are lost in a sloped or curved face.</li><li><strong>Definition 14:</strong> To become vapid, flat, or spiritless, as liquor.</li><li><strong>Definition 15:</strong> (of a stand-up comedian or a joke) To fail to evoke laughter from the audience.<p><strong>Example:</strong> Then there was that time I died onstage in Montreal...</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To colour with dye, or as if with dye.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The process of approaching death; loss of life; less precisely, death.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (with \"the\") Those who are currently expiring, moribund.<p><strong>Example:</strong> The battlefield was littered with the dead and dying.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Approaching death; about to die; moribund.<p><strong>Example:</strong> The dying dog was put out of his misery with a single shot!</p></li><li><strong>Definition 2:</strong> Declining, terminal, or drawing to an end.<p><strong>Example:</strong> In the dying moments of daylight I glimpsed a sail on the horizon.</p></li><li><strong>Definition 3:</strong> Pertaining to death, or the moments before death.<p><strong>Example:</strong> His dying words were of his mother.</p></li></ul></div></div>"
+description: Yes, DYING is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 80
+neighbours:
+- doing
+- eying
+- lying
+- tying
+- vying
+- duing
+- hying
+- nying
+anagrams:
+- dingy
+trap:
+  pattern: _YING
+  count: 7
+phonetic: "/ˈdaɪ.ɪŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To stop living; to become dead; to undergo death.
+  - text: To (stop living and) undergo (a specified death).
+    example: He died a hero's death.
+  - text: To yearn intensely.
+    example: I'm dying for a packet of crisps.
+  - text: To be or become hated or utterly ignored or cut off, as if dead.
+    example: The day our sister eloped, she died to our mother.
+  - text: To become spiritually dead; to lose hope.
+    example: He died a little inside each time she refused to speak to him.
+  - text: To be mortified or shocked by a situation.
+    example: If anyone sees me wearing this ridiculous outfit, I'll die.
+  - text: To be so overcome with emotion or laughter as to be incapacitated.
+    example: When I found out my two favorite musicians would be recording an album
+      together, I literally planned my own funeral arrangements and died.
+  - text: "(of a machine) To stop working, to break down."
+    example: My car died in the middle of the freeway this morning.
+  - text: "(of a computer program) To abort, to terminate (as an error condition)."
+  - text: To perish; to cease to exist; to become lost or extinct.
+  - text: To sink; to faint; to pine; to languish, with weakness, discouragement,
+      love, etc.
+  - text: (often with "to") To become indifferent; to cease to be subject.
+    example: to die to pleasure or to sin
+  - text: To disappear gradually in another surface, as where mouldings are lost in
+      a sloped or curved face.
+  - text: To become vapid, flat, or spiritless, as liquor.
+  - text: "(of a stand-up comedian or a joke) To fail to evoke laughter from the audience."
+    example: Then there was that time I died onstage in Montreal...
+- pos: verb
+  defs:
+  - text: To colour with dye, or as if with dye.
+- pos: noun
+  defs:
+  - text: The process of approaching death; loss of life; less precisely, death.
+- pos: noun
+  defs:
+  - text: (with "the") Those who are currently expiring, moribund.
+    example: The battlefield was littered with the dead and dying.
+- pos: adjective
+  defs:
+  - text: Approaching death; about to die; moribund.
+    example: The dying dog was put out of his misery with a single shot!
+  - text: Declining, terminal, or drawing to an end.
+    example: In the dying moments of daylight I glimpsed a sail on the horizon.
+  - text: Pertaining to death, or the moments before death.
+    example: His dying words were of his mother.
 ---
-

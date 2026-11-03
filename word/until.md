@@ -1,7 +1,48 @@
 ---
 layout: word
-title: until
+title: Is UNTIL a Wordle Word?
+head_title: 'Is UNTIL a Wordle Word? Yes – Past Answer #866 & Meaning'
 word: until
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ənˈtɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Up to the time of (something happening).<p><strong>Example:</strong> If you can wait until after my meeting with her, we'll talk then.</p></li><li><strong>Definition 2:</strong> Up to (a certain place)<p><strong>Example:</strong> Keep walking until the second set of traffic lights, then turn left.</p></li><li><strong>Definition 3:</strong> Before (a time).</li><li><strong>Definition 4:</strong> To; physically towards.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> conjunction</p><ul><li><strong>Definition 1:</strong> Up to the time that (a condition becomes true).</li><li><strong>Definition 2:</strong> Before (a condition becoming true).</li></ul></div></div>"
+description: Yes, UNTIL is a valid Wordle word. It was the Wordle answer on November
+  2, 2023 (#866). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 2, 2023 (#866).
+past_answers:
+- date: '2023-11-02'
+  number: 866
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- untie
+- intil
+- untin
+anagrams:
+- unlit
+phonetic: "/ənˈtɪl/"
+definitions:
+- pos: preposition
+  defs:
+  - text: Up to the time of (something happening).
+    example: If you can wait until after my meeting with her, we'll talk then.
+  - text: Up to (a certain place)
+    example: Keep walking until the second set of traffic lights, then turn left.
+  - text: Before (a time).
+  - text: To; physically towards.
+- pos: conjunction
+  defs:
+  - text: Up to the time that (a condition becomes true).
+  - text: Before (a condition becoming true).
 ---
-

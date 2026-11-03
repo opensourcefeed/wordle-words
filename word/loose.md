@@ -1,7 +1,88 @@
 ---
 layout: word
-title: loose
+title: Is LOOSE a Wordle Word?
+head_title: 'Is LOOSE a Wordle Word? Yes – Past Answer #1883 & Meaning'
 word: loose
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /luːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The release of an arrow.</li><li><strong>Definition 2:</strong> A state of laxity or indulgence; unrestrained freedom, abandonment.</li><li><strong>Definition 3:</strong> All play other than set pieces (scrums and line-outs).</li><li><strong>Definition 4:</strong> Freedom from restraint.</li><li><strong>Definition 5:</strong> A letting go; discharge.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To let loose, to free from restraints.</li><li><strong>Definition 2:</strong> To unfasten, to loosen.</li><li><strong>Definition 3:</strong> To make less tight, to loosen.</li><li><strong>Definition 4:</strong> Of a grip or hold, to let go.</li><li><strong>Definition 5:</strong> To shoot (an arrow)</li><li><strong>Definition 6:</strong> To set sail.</li><li><strong>Definition 7:</strong> To solve; to interpret.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not fixed in place tightly or firmly.<p><strong>Example:</strong> This wheelbarrow has a loose wheel.</p></li><li><strong>Definition 2:</strong> Not held or packaged together.<p><strong>Example:</strong> 'You can buy apples in a pack, but they are cheaper loose.</p></li><li><strong>Definition 3:</strong> Not under control.<p><strong>Example:</strong> The dog is loose again.</p></li><li><strong>Definition 4:</strong> Not fitting closely<p><strong>Example:</strong> 'I wear loose clothes when it is hot.</p></li><li><strong>Definition 5:</strong> Not compact.<p><strong>Example:</strong> 'It is difficult walking on loose gravel.</p></li><li><strong>Definition 6:</strong> Relaxed.<p><strong>Example:</strong> She danced with a loose flowing movement.</p></li><li><strong>Definition 7:</strong> Not precise or exact; vague; indeterminate.<p><strong>Example:</strong> a loose way of reasoning</p></li><li><strong>Definition 8:</strong> Indiscreet.<p><strong>Example:</strong> Loose talk costs lives.</p></li><li><strong>Definition 9:</strong> (somewhat dated) Free from moral restraint; immoral, unchaste.</li><li><strong>Definition 10:</strong> Not being in the possession of any competing team during a game.<p><strong>Example:</strong> He caught an elbow going after a loose ball.</p></li><li><strong>Definition 11:</strong> Not costive; having lax bowels.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Begin shooting; release your arrows</li></ul></div></div>"
+description: Yes, LOOSE is a valid Wordle word. It was the Wordle answer on August
+  15, 2026 (#1883). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 15, 2026 (#1883).
+past_answers:
+- date: '2026-08-15'
+  number: 1883
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- goose
+- louse
+- moose
+- noose
+- boose
+- looie
+- lowse
+- roose
+- woose
+anagrams:
+- oleos
+- soole
+trap:
+  pattern: _OOSE
+  count: 7
+phonetic: "/luːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The release of an arrow.
+  - text: A state of laxity or indulgence; unrestrained freedom, abandonment.
+  - text: All play other than set pieces (scrums and line-outs).
+  - text: Freedom from restraint.
+  - text: A letting go; discharge.
+- pos: verb
+  defs:
+  - text: To let loose, to free from restraints.
+  - text: To unfasten, to loosen.
+  - text: To make less tight, to loosen.
+  - text: Of a grip or hold, to let go.
+  - text: To shoot (an arrow)
+  - text: To set sail.
+  - text: To solve; to interpret.
+- pos: adjective
+  defs:
+  - text: Not fixed in place tightly or firmly.
+    example: This wheelbarrow has a loose wheel.
+  - text: Not held or packaged together.
+    example: "'You can buy apples in a pack, but they are cheaper loose."
+  - text: Not under control.
+    example: The dog is loose again.
+  - text: Not fitting closely
+    example: "'I wear loose clothes when it is hot."
+  - text: Not compact.
+    example: "'It is difficult walking on loose gravel."
+  - text: Relaxed.
+    example: She danced with a loose flowing movement.
+  - text: Not precise or exact; vague; indeterminate.
+    example: a loose way of reasoning
+  - text: Indiscreet.
+    example: Loose talk costs lives.
+  - text: "(somewhat dated) Free from moral restraint; immoral, unchaste."
+  - text: Not being in the possession of any competing team during a game.
+    example: He caught an elbow going after a loose ball.
+  - text: Not costive; having lax bowels.
+- pos: interjection
+  defs:
+  - text: Begin shooting; release your arrows
 ---
-

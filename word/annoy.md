@@ -1,7 +1,45 @@
 ---
 layout: word
-title: annoy
+title: Is ANNOY a Wordle Word?
+head_title: 'Is ANNOY a Wordle Word? Yes – Past Answer #1572 & Meaning'
 word: annoy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈnɔɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A feeling of discomfort or vexation caused by what one dislikes.</li><li><strong>Definition 2:</strong> That which causes such a feeling.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To disturb or irritate, especially by continued or repeated acts; to bother with unpleasant deeds.<p><strong>Example:</strong> Marc loved his sister, but when she annoyed him he wanted to switch her off.</p></li><li><strong>Definition 2:</strong> To do something to upset or anger someone; to be troublesome.</li><li><strong>Definition 3:</strong> To molest; to harm; to injure.<p><strong>Example:</strong> to annoy an army by impeding its march, or by a cannonade</p></li></ul></div></div>"
+description: Yes, ANNOY is a valid Wordle word. It was the Wordle answer on October
+  8, 2025 (#1572). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 8, 2025 (#1572).
+past_answers:
+- date: '2025-10-08'
+  number: 1572
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+anagrams:
+- anyon
+phonetic: "/əˈnɔɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A feeling of discomfort or vexation caused by what one dislikes.
+  - text: That which causes such a feeling.
+- pos: verb
+  defs:
+  - text: To disturb or irritate, especially by continued or repeated acts; to bother
+      with unpleasant deeds.
+    example: Marc loved his sister, but when she annoyed him he wanted to switch her
+      off.
+  - text: To do something to upset or anger someone; to be troublesome.
+  - text: To molest; to harm; to injure.
+    example: to annoy an army by impeding its march, or by a cannonade
 ---
-

@@ -1,7 +1,68 @@
 ---
 layout: word
-title: laces
+title: Is LACES a Wordle Word?
+head_title: Is LACES a Wordle Word? Yes – Valid Guess & Meaning
 word: laces
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈleɪ.sɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light fabric containing patterns of holes, usually built up from a single thread. Wp</li><li><strong>Definition 2:</strong> A cord or ribbon passed through eyelets in a shoe or garment, pulled tight and tied to fasten the shoe or garment firmly. Wp</li><li><strong>Definition 3:</strong> A snare or gin, especially one made of interwoven cords; a net.</li><li><strong>Definition 4:</strong> Spirits added to coffee or another beverage.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fasten (something) with laces.</li><li><strong>Definition 2:</strong> To add alcohol, poison, a drug or anything else potentially harmful to (food or drink).</li><li><strong>Definition 3:</strong> To interweave items.<p><strong>Example:</strong> to lace one's fingers together</p></li><li><strong>Definition 4:</strong> To interweave the spokes of a bicycle wheel.</li><li><strong>Definition 5:</strong> To beat; to lash; to make stripes on.</li><li><strong>Definition 6:</strong> To adorn with narrow strips or braids of some decorative material.<p><strong>Example:</strong> cloth laced with silver</p></li></ul></div></div>"
+description: Yes, LACES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- daces
+- faces
+- laced
+- lacer
+- lacet
+- lacey
+- lacis
+- lacks
+- lades
+- lakes
+- lames
+- lanes
+anagrams:
+- scale
+- alces
+- alecs
+- claes
+trap:
+  pattern: LA_ES
+  count: 10
+phonetic: "/ˈleɪ.sɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A light fabric containing patterns of holes, usually built up from a single
+      thread. Wp
+  - text: A cord or ribbon passed through eyelets in a shoe or garment, pulled tight
+      and tied to fasten the shoe or garment firmly. Wp
+  - text: A snare or gin, especially one made of interwoven cords; a net.
+  - text: Spirits added to coffee or another beverage.
+- pos: verb
+  defs:
+  - text: To fasten (something) with laces.
+  - text: To add alcohol, poison, a drug or anything else potentially harmful to (food
+      or drink).
+  - text: To interweave items.
+    example: to lace one's fingers together
+  - text: To interweave the spokes of a bicycle wheel.
+  - text: To beat; to lash; to make stripes on.
+  - text: To adorn with narrow strips or braids of some decorative material.
+    example: cloth laced with silver
 ---
-

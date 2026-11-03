@@ -1,7 +1,63 @@
 ---
 layout: word
-title: burst
+title: Is BURST a Wordle Word?
+head_title: 'Is BURST a Wordle Word? Yes – Past Answer #1908 & Meaning'
 word: burst
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜːst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act or instance of bursting.<p><strong>Example:</strong> The bursts of the bombs could be heard miles away.</p></li><li><strong>Definition 2:</strong> A sudden, often intense, expression, manifestation or display.</li><li><strong>Definition 3:</strong> A series of shots fired from an automatic firearm.</li><li><strong>Definition 4:</strong> A drinking spree.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To break from internal pressure.<p><strong>Example:</strong> I blew the balloon up too much, and it burst.</p></li><li><strong>Definition 2:</strong> To cause to break from internal pressure.<p><strong>Example:</strong> I burst the balloon when I blew it up too much.</p></li><li><strong>Definition 3:</strong> To cause to break by any means.</li><li><strong>Definition 4:</strong> To separate (printer paper) at perforation lines.<p><strong>Example:</strong> I printed the report on form-feed paper, then burst the sheets.</p></li><li><strong>Definition 5:</strong> To enter or exit hurriedly and unexpectedly.</li><li><strong>Definition 6:</strong> To erupt; to change state suddenly as if bursting.<p><strong>Example:</strong> The flowers burst into bloom on the first day of spring.</p></li><li><strong>Definition 7:</strong> To produce as an effect of bursting.<p><strong>Example:</strong> to burst a hole through the wall</p></li><li><strong>Definition 8:</strong> To interrupt suddenly in a violent or explosive manner; to shatter.</li></ul></div></div>"
+description: Yes, BURST is a valid Wordle word. It was the Wordle answer on September
+  9, 2026 (#1908). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 9, 2026 (#1908).
+past_answers:
+- date: '2026-09-09'
+  number: 1908
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- burnt
+- buist
+- buret
+- bursa
+- burse
+- curst
+- durst
+- hurst
+- wurst
+anagrams:
+- brust
+- bruts
+phonetic: "/bɜːst/"
+definitions:
+- pos: noun
+  defs:
+  - text: An act or instance of bursting.
+    example: The bursts of the bombs could be heard miles away.
+  - text: A sudden, often intense, expression, manifestation or display.
+  - text: A series of shots fired from an automatic firearm.
+  - text: A drinking spree.
+- pos: verb
+  defs:
+  - text: To break from internal pressure.
+    example: I blew the balloon up too much, and it burst.
+  - text: To cause to break from internal pressure.
+    example: I burst the balloon when I blew it up too much.
+  - text: To cause to break by any means.
+  - text: To separate (printer paper) at perforation lines.
+    example: I printed the report on form-feed paper, then burst the sheets.
+  - text: To enter or exit hurriedly and unexpectedly.
+  - text: To erupt; to change state suddenly as if bursting.
+    example: The flowers burst into bloom on the first day of spring.
+  - text: To produce as an effect of bursting.
+    example: to burst a hole through the wall
+  - text: To interrupt suddenly in a violent or explosive manner; to shatter.
 ---
-

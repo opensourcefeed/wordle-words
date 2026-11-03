@@ -1,7 +1,71 @@
 ---
 layout: word
-title: helps
+title: Is HELPS a Wordle Word?
+head_title: Is HELPS a Wordle Word? Yes – Valid Guess & Meaning
 word: helps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɛlps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Action given to provide assistance; aid.<p><strong>Example:</strong> I need some help with my homework.</p></li><li><strong>Definition 2:</strong> (usually uncountable) Something or someone which provides assistance with a task.<p><strong>Example:</strong> He was a great help to me when I was moving house.</p></li><li><strong>Definition 3:</strong> Documentation provided with computer software, etc. and accessed using the computer.<p><strong>Example:</strong> I can't find anything in the help about rotating an image.</p></li><li><strong>Definition 4:</strong> (usually uncountable) One or more people employed to help in the maintenance of a house or the operation of a farm or enterprise.<p><strong>Example:</strong> Most of the hired help is seasonal, for the harvest.</p></li><li><strong>Definition 5:</strong> Correction of deficits, as by psychological counseling or medication or social support or remedial training.<p><strong>Example:</strong> He really needs help in handling customer complaints.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To provide assistance to (someone or something).<p><strong>Example:</strong> He helped his grandfather cook breakfast.</p></li><li><strong>Definition 2:</strong> To assist (a person) in getting something, especially food or drink at table; used with to.<p><strong>Example:</strong> Help yourself to whatever's in the fridge.</p></li><li><strong>Definition 3:</strong> To contribute in some way to.<p><strong>Example:</strong> If you want to get a job, it helps to have some prior experience.</p></li><li><strong>Definition 4:</strong> To provide assistance.<p><strong>Example:</strong> Please, help!</p></li><li><strong>Definition 5:</strong> To avoid; to prevent; to refrain from; to restrain (oneself). Usually used in nonassertive contexts with can.<p><strong>Example:</strong> Are they going to beat us? Not if I can help it!</p></li></ul></div></div>"
+description: Yes, HELPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- heaps
+- heles
+- hells
+- helms
+- helos
+- hemps
+- herps
+- hesps
+- kelps
+- yelps
+anagrams:
+- pelsh
+- plesh
+- shlep
+phonetic: "/hɛlps/"
+definitions:
+- pos: noun
+  defs:
+  - text: Action given to provide assistance; aid.
+    example: I need some help with my homework.
+  - text: "(usually uncountable) Something or someone which provides assistance with
+      a task."
+    example: He was a great help to me when I was moving house.
+  - text: Documentation provided with computer software, etc. and accessed using the
+      computer.
+    example: I can't find anything in the help about rotating an image.
+  - text: "(usually uncountable) One or more people employed to help in the maintenance
+      of a house or the operation of a farm or enterprise."
+    example: Most of the hired help is seasonal, for the harvest.
+  - text: Correction of deficits, as by psychological counseling or medication or
+      social support or remedial training.
+    example: He really needs help in handling customer complaints.
+- pos: verb
+  defs:
+  - text: To provide assistance to (someone or something).
+    example: He helped his grandfather cook breakfast.
+  - text: To assist (a person) in getting something, especially food or drink at table;
+      used with to.
+    example: Help yourself to whatever's in the fridge.
+  - text: To contribute in some way to.
+    example: If you want to get a job, it helps to have some prior experience.
+  - text: To provide assistance.
+    example: Please, help!
+  - text: To avoid; to prevent; to refrain from; to restrain (oneself). Usually used
+      in nonassertive contexts with can.
+    example: Are they going to beat us? Not if I can help it!
 ---
-

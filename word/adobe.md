@@ -1,7 +1,43 @@
 ---
 layout: word
-title: adobe
+title: Is ADOBE a Wordle Word?
+head_title: 'Is ADOBE a Wordle Word? Yes – Past Answer #40 & Meaning'
 word: adobe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈdəʊ.bi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An unburnt brick dried in the sun.<p><strong>Example:</strong> Many people in Texas and New Mexico live in adobe houses.</p></li><li><strong>Definition 2:</strong> The earth from which such bricks are made.</li><li><strong>Definition 3:</strong> A house made of adobe brick.</li></ul></div></div>"
+description: Yes, ADOBE is a valid Wordle word. It was the Wordle answer on July 29,
+  2021 (#40). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 29, 2021 (#40).
+past_answers:
+- date: '2021-07-29'
+  number: 40
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- adore
+- adobo
+- adoze
+anagrams:
+- abode
+phonetic: "/əˈdəʊ.bi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An unburnt brick dried in the sun.
+    example: Many people in Texas and New Mexico live in adobe houses.
+  - text: The earth from which such bricks are made.
+  - text: A house made of adobe brick.
 ---
-

@@ -1,7 +1,45 @@
 ---
 layout: word
-title: sires
+title: Is SIRES a Wordle Word?
+head_title: Is SIRES a Wordle Word? Yes – Valid Guess
 word: sires
-meaning: ""
+description: Yes, SIRES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- siren
+- cires
+- fires
+- hires
+- mires
+- seres
+- sices
+- sides
+- sikes
+- siles
+- sines
+- sipes
+anagrams:
+- rises
+- seirs
+trap:
+  pattern: SI_ES
+  count: 11
 ---
-

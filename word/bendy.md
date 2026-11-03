@@ -1,7 +1,46 @@
 ---
 layout: word
-title: bendy
+title: Is BENDY a Wordle Word?
+head_title: Is BENDY a Wordle Word? Yes – Valid Guess & Meaning
 word: bendy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɛndi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A field divided diagonally into several bends, varying in metal and colour.</li><li><strong>Definition 2:</strong> A bendy bus.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the ability to be bent easily.<p><strong>Example:</strong> Bendy rulers are far more fun than the wooden ones.</p></li><li><strong>Definition 2:</strong> Of a person, flexible; having the ability to bend easily.</li><li><strong>Definition 3:</strong> Containing many bends and twists.<p><strong>Example:</strong> a bendy road</p></li><li><strong>Definition 4:</strong> Of a vehicle, articulated.</li><li><strong>Definition 5:</strong> Divided into diagonal bands of colour</li></ul></div></div>"
+description: Yes, BENDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- beady
+- bandy
+- bends
+- benny
+- benty
+- bewdy
+- bundy
+- fendy
+phonetic: "/ˈbɛndi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A field divided diagonally into several bends, varying in metal and colour.
+  - text: A bendy bus.
+- pos: adjective
+  defs:
+  - text: Having the ability to be bent easily.
+    example: Bendy rulers are far more fun than the wooden ones.
+  - text: Of a person, flexible; having the ability to bend easily.
+  - text: Containing many bends and twists.
+    example: a bendy road
+  - text: Of a vehicle, articulated.
+  - text: Divided into diagonal bands of colour
 ---
-

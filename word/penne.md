@@ -1,7 +1,44 @@
 ---
 layout: word
-title: penne
+title: Is PENNE a Wordle Word?
+head_title: 'Is PENNE a Wordle Word? Yes – Past Answer #1138 & Meaning'
 word: penne
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of short, diagonally cut pasta.</li></ul></div></div>"
+description: Yes, PENNE is a valid Wordle word. It was the Wordle answer on July 31,
+  2024 (#1138). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 31, 2024 (#1138).
+past_answers:
+- date: '2024-07-31'
+  number: 1138
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - E
+  - N
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- pence
+- penny
+- benne
+- panne
+- peine
+- penie
+- penna
+- penni
+- pense
+- perne
+- renne
+- tenne
+definitions:
+- pos: noun
+  defs:
+  - text: A type of short, diagonally cut pasta.
 ---
-

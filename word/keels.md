@@ -1,7 +1,85 @@
 ---
 layout: word
-title: keels
+title: Is KEELS a Wordle Word?
+head_title: Is KEELS a Wordle Word? Yes – Valid Guess & Meaning
 word: keels
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To mark with ruddle.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put to death; to extinguish the life of.<p><strong>Example:</strong> Smoking kills more people each year than alcohol and drugs combined.</p></li><li><strong>Definition 2:</strong> To render inoperative.<p><strong>Example:</strong> He killed the engine and turned off the headlights, but remained in the car, waiting.</p></li><li><strong>Definition 3:</strong> To stop, cease or render void; to terminate.<p><strong>Example:</strong> My computer wouldn't respond until I killed some of the running processes.</p></li><li><strong>Definition 4:</strong> To amaze, exceed, stun or otherwise incapacitate.<p><strong>Example:</strong> That joke always kills me.</p></li><li><strong>Definition 5:</strong> To cause great pain, discomfort or distress to.<p><strong>Example:</strong> These tight shoes are killing my feet.</p></li><li><strong>Definition 6:</strong> To produce feelings of dissatisfaction or revulsion in.<p><strong>Example:</strong> It kills me to learn how many poor people are practically starving in this country while rich moguls spend such outrageous amounts on useless luxuries.</p></li><li><strong>Definition 7:</strong> To use up or to waste.<p><strong>Example:</strong> He told the bartender, pointing at the bottle of scotch he planned to consume, \"Leave it, I'm going to kill the bottle.\"</p></li><li><strong>Definition 8:</strong> To exert an overwhelming effect on.<p><strong>Example:</strong> Between the two of us, we killed the rest of the case of beer.</p></li><li><strong>Definition 9:</strong> To overpower, overwhelm or defeat.<p><strong>Example:</strong> The team had absolutely killed their traditional rivals, and the local sports bars were raucous with celebrations.</p></li><li><strong>Definition 10:</strong> To force a company out of business.</li><li><strong>Definition 11:</strong> To produce intense pain.<p><strong>Example:</strong> You don't ever want to get rabies. The doctor will have to give you multiple shots and they really kill.</p></li><li><strong>Definition 12:</strong> To punish severely.<p><strong>Example:</strong> My parents are going to kill me!</p></li><li><strong>Definition 13:</strong> To strike (a ball, etc.) with such force and placement as to make a shot that is impossible to defend against, usually winning a point.</li><li><strong>Definition 14:</strong> To cause (a ball, etc.) to be out of play, resulting in a stoppage of gameplay.</li><li><strong>Definition 15:</strong> To succeed with an audience, especially in comedy.</li><li><strong>Definition 16:</strong> To cause to assume the value zero.</li><li><strong>Definition 17:</strong> (IRC) To disconnect (a user) involuntarily from the network.</li><li><strong>Definition 18:</strong> To deadmelt.</li></ul></div></div>"
+description: Yes, KEELS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- feels
+- heels
+- jeels
+- keefs
+- keeks
+- keens
+- keeps
+- keets
+- kells
+- koels
+- peels
+- reels
+anagrams:
+- sleek
+- leeks
+trap:
+  pattern: _EELS
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To mark with ruddle.
+- pos: verb
+  defs:
+  - text: To put to death; to extinguish the life of.
+    example: Smoking kills more people each year than alcohol and drugs combined.
+  - text: To render inoperative.
+    example: He killed the engine and turned off the headlights, but remained in the
+      car, waiting.
+  - text: To stop, cease or render void; to terminate.
+    example: My computer wouldn't respond until I killed some of the running processes.
+  - text: To amaze, exceed, stun or otherwise incapacitate.
+    example: That joke always kills me.
+  - text: To cause great pain, discomfort or distress to.
+    example: These tight shoes are killing my feet.
+  - text: To produce feelings of dissatisfaction or revulsion in.
+    example: It kills me to learn how many poor people are practically starving in
+      this country while rich moguls spend such outrageous amounts on useless luxuries.
+  - text: To use up or to waste.
+    example: He told the bartender, pointing at the bottle of scotch he planned to
+      consume, "Leave it, I'm going to kill the bottle."
+  - text: To exert an overwhelming effect on.
+    example: Between the two of us, we killed the rest of the case of beer.
+  - text: To overpower, overwhelm or defeat.
+    example: The team had absolutely killed their traditional rivals, and the local
+      sports bars were raucous with celebrations.
+  - text: To force a company out of business.
+  - text: To produce intense pain.
+    example: You don't ever want to get rabies. The doctor will have to give you multiple
+      shots and they really kill.
+  - text: To punish severely.
+    example: My parents are going to kill me!
+  - text: To strike (a ball, etc.) with such force and placement as to make a shot
+      that is impossible to defend against, usually winning a point.
+  - text: To cause (a ball, etc.) to be out of play, resulting in a stoppage of gameplay.
+  - text: To succeed with an audience, especially in comedy.
+  - text: To cause to assume the value zero.
+  - text: "(IRC) To disconnect (a user) involuntarily from the network."
+  - text: To deadmelt.
 ---
-

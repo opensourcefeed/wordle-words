@@ -1,7 +1,127 @@
 ---
 layout: word
-title: cards
+title: Is CARDS a Wordle Word?
+head_title: Is CARDS a Wordle Word? Yes – Valid Guess & Meaning
 word: cards
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A playing card.</li><li><strong>Definition 2:</strong> (in the plural) Any game using playing cards; a card game.<p><strong>Example:</strong> He played cards with his friends.</p></li><li><strong>Definition 3:</strong> A resource or an argument, used to achieve a purpose.<p><strong>Example:</strong> He accused them of playing the race card.</p></li><li><strong>Definition 4:</strong> Any flat, normally rectangular piece of stiff paper, plastic etc.</li><li><strong>Definition 5:</strong> A map or chart.</li><li><strong>Definition 6:</strong> An amusing or entertaining person, often slightly eccentrically so.</li><li><strong>Definition 7:</strong> A list of scheduled events or of performers or contestants.<p><strong>Example:</strong> What’s on the card for tonight?</p></li><li><strong>Definition 8:</strong> A tabular presentation of the key statistics of an innings or match: batsmen’s scores and how they were dismissed, extras, total score and bowling figures.</li><li><strong>Definition 9:</strong> A removable electronic device that may be inserted into a powered electronic device to provide additional capability.<p><strong>Example:</strong> He needed to replace the card his computer used to connect to the internet.</p></li><li><strong>Definition 10:</strong> A greeting card.<p><strong>Example:</strong> She gave her neighbors a card congratulating them on their new baby.</p></li><li><strong>Definition 11:</strong> A business card.<p><strong>Example:</strong> The realtor gave me her card so I could call if I had any questions about buying a house.</p></li><li><strong>Definition 12:</strong> Title card / Intertitle: A piece of filmed, printed text edited into the midst of the photographed action at various points, generally to convey character dialogue or descriptive narrative material related to the plot.</li><li><strong>Definition 13:</strong> A test card.</li><li><strong>Definition 14:</strong> A published note, containing a brief statement, explanation, request, expression of thanks, etc.<p><strong>Example:</strong> to put a card in the newspapers</p></li><li><strong>Definition 15:</strong> A printed programme.</li><li><strong>Definition 16:</strong> (by extension) An attraction or inducement.<p><strong>Example:</strong> This will be a good card for the last day of the fair.</p></li><li><strong>Definition 17:</strong> A paper on which the points of the compass are marked; the dial or face of the mariner's compass.</li><li><strong>Definition 18:</strong> A perforated pasteboard or sheet-metal plate for warp threads, making part of the Jacquard apparatus of a loom.</li><li><strong>Definition 19:</strong> An indicator card.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To check IDs, especially against a minimum age requirement.<p><strong>Example:</strong> I heard you don't get carded at the other liquor store.</p></li><li><strong>Definition 2:</strong> To play cards.</li><li><strong>Definition 3:</strong> To make (a stated score), as recorded on a scoring card.<p><strong>Example:</strong> McIlroy carded a stellar nine-under-par 61 in the final round.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Material with embedded short wire bristles.</li><li><strong>Definition 2:</strong> A comb- or brush-like device or tool to raise the nap on a fabric.</li><li><strong>Definition 3:</strong> A hand-held tool formed similarly to a hairbrush but with bristles of wire or other rigid material. It is used principally with raw cotton, wool, hair, or other natural fibers to prepare these materials for spinning into yarn or thread on a spinning wheel, with a whorl or other hand-held spindle. The card serves to untangle, clean, remove debris from, and lay the fibers straight.</li><li><strong>Definition 4:</strong> A machine for disentangling the fibres of wool prior to spinning.</li><li><strong>Definition 5:</strong> A roll or sliver of fibre (as of wool) delivered from a carding machine.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a carding device to disentangle the fibres of wool prior to spinning.</li><li><strong>Definition 2:</strong> To scrape or tear someone’s flesh using a metal comb, as a form of torture.</li><li><strong>Definition 3:</strong> To comb with a card; to cleanse or disentangle by carding.<p><strong>Example:</strong> to card a horse</p></li><li><strong>Definition 4:</strong> To clean or clear, as if by using a card.</li><li><strong>Definition 5:</strong> To mix or mingle, as with an inferior or weaker article.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the officials appointed by the pope in the Roman Catholic Church, ranking only below the pope and the patriarchs, constituting the special college which elects the pope. (See Wikipedia article on Catholic cardinals.)</li><li><strong>Definition 2:</strong> Any of a genus of songbirds of the finch family, Cardinalis.</li><li><strong>Definition 3:</strong> Any of various related passerine birds of the family Cardinalidae (See Wikipedia article on cardinals) and other similar birds that were once considered to be related.</li><li><strong>Definition 4:</strong> (color) A deep red color, somewhat less vivid than scarlet, the traditional colour of a Catholic cardinal's cassock. (same as cardinal red)</li><li><strong>Definition 5:</strong> Short for cardinal number, a number indicating quantity, or the size of a set (e.g., zero, one, two, three). (See Wikipedia article on Cardinal number.)</li><li><strong>Definition 6:</strong> (grammar) Short for cardinal numeral, a word used to represent a cardinal number.</li><li><strong>Definition 7:</strong> Short for cardinal flower (Lobelia cardinalis), a flowering plant.</li><li><strong>Definition 8:</strong> Short for cardinal tetra (Paracheirodon axelrodi), a freshwater fish.</li><li><strong>Definition 9:</strong> (bow) A woman's short cloak with a hood, originally made of scarlet cloth.</li><li><strong>Definition 10:</strong> Mulled red wine.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Card games<p><strong>Example:</strong> He's a fan of cards.</p></li></ul></div></div>"
+description: Yes, CARDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- bards
+- caids
+- carbs
+- cardi
+- cardy
+- cares
+- carks
+- carls
+- carns
+- carps
+- carrs
+- carts
+trap:
+  pattern: _ARDS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A playing card.
+  - text: "(in the plural) Any game using playing cards; a card game."
+    example: He played cards with his friends.
+  - text: A resource or an argument, used to achieve a purpose.
+    example: He accused them of playing the race card.
+  - text: Any flat, normally rectangular piece of stiff paper, plastic etc.
+  - text: A map or chart.
+  - text: An amusing or entertaining person, often slightly eccentrically so.
+  - text: A list of scheduled events or of performers or contestants.
+    example: What’s on the card for tonight?
+  - text: 'A tabular presentation of the key statistics of an innings or match: batsmen’s
+      scores and how they were dismissed, extras, total score and bowling figures.'
+  - text: A removable electronic device that may be inserted into a powered electronic
+      device to provide additional capability.
+    example: He needed to replace the card his computer used to connect to the internet.
+  - text: A greeting card.
+    example: She gave her neighbors a card congratulating them on their new baby.
+  - text: A business card.
+    example: The realtor gave me her card so I could call if I had any questions about
+      buying a house.
+  - text: 'Title card / Intertitle: A piece of filmed, printed text edited into the
+      midst of the photographed action at various points, generally to convey character
+      dialogue or descriptive narrative material related to the plot.'
+  - text: A test card.
+  - text: A published note, containing a brief statement, explanation, request, expression
+      of thanks, etc.
+    example: to put a card in the newspapers
+  - text: A printed programme.
+  - text: "(by extension) An attraction or inducement."
+    example: This will be a good card for the last day of the fair.
+  - text: A paper on which the points of the compass are marked; the dial or face
+      of the mariner's compass.
+  - text: A perforated pasteboard or sheet-metal plate for warp threads, making part
+      of the Jacquard apparatus of a loom.
+  - text: An indicator card.
+- pos: verb
+  defs:
+  - text: To check IDs, especially against a minimum age requirement.
+    example: I heard you don't get carded at the other liquor store.
+  - text: To play cards.
+  - text: To make (a stated score), as recorded on a scoring card.
+    example: McIlroy carded a stellar nine-under-par 61 in the final round.
+- pos: noun
+  defs:
+  - text: Material with embedded short wire bristles.
+  - text: A comb- or brush-like device or tool to raise the nap on a fabric.
+  - text: A hand-held tool formed similarly to a hairbrush but with bristles of wire
+      or other rigid material. It is used principally with raw cotton, wool, hair,
+      or other natural fibers to prepare these materials for spinning into yarn or
+      thread on a spinning wheel, with a whorl or other hand-held spindle. The card
+      serves to untangle, clean, remove debris from, and lay the fibers straight.
+  - text: A machine for disentangling the fibres of wool prior to spinning.
+  - text: A roll or sliver of fibre (as of wool) delivered from a carding machine.
+- pos: verb
+  defs:
+  - text: To use a carding device to disentangle the fibres of wool prior to spinning.
+  - text: To scrape or tear someone’s flesh using a metal comb, as a form of torture.
+  - text: To comb with a card; to cleanse or disentangle by carding.
+    example: to card a horse
+  - text: To clean or clear, as if by using a card.
+  - text: To mix or mingle, as with an inferior or weaker article.
+- pos: noun
+  defs:
+  - text: One of the officials appointed by the pope in the Roman Catholic Church,
+      ranking only below the pope and the patriarchs, constituting the special college
+      which elects the pope. (See Wikipedia article on Catholic cardinals.)
+  - text: Any of a genus of songbirds of the finch family, Cardinalis.
+  - text: Any of various related passerine birds of the family Cardinalidae (See Wikipedia
+      article on cardinals) and other similar birds that were once considered to be
+      related.
+  - text: "(color) A deep red color, somewhat less vivid than scarlet, the traditional
+      colour of a Catholic cardinal's cassock. (same as cardinal red)"
+  - text: Short for cardinal number, a number indicating quantity, or the size of
+      a set (e.g., zero, one, two, three). (See Wikipedia article on Cardinal number.)
+  - text: "(grammar) Short for cardinal numeral, a word used to represent a cardinal
+      number."
+  - text: Short for cardinal flower (Lobelia cardinalis), a flowering plant.
+  - text: Short for cardinal tetra (Paracheirodon axelrodi), a freshwater fish.
+  - text: "(bow) A woman's short cloak with a hood, originally made of scarlet cloth."
+  - text: Mulled red wine.
+- pos: noun
+  defs:
+  - text: Card games
+    example: He's a fan of cards.
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: whole
+title: Is WHOLE a Wordle Word?
+head_title: 'Is WHOLE a Wordle Word? Yes – Past Answer #1499 & Meaning'
 word: whole
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /həʊl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something complete, without any parts missing.<p><strong>Example:</strong> This variety of fascinating details didn't fall together into an enjoyable, coherent whole.</p></li><li><strong>Definition 2:</strong> An entirety.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Entire, undivided.<p><strong>Example:</strong> I ate a whole fish.</p></li><li><strong>Definition 2:</strong> Sound, uninjured, healthy.<p><strong>Example:</strong> He is of whole mind, but the same cannot be said about his physical state.</p></li><li><strong>Definition 3:</strong> (of food) From which none of its constituents has been removed.<p><strong>Example:</strong> whole wheat; whole milk</p></li><li><strong>Definition 4:</strong> As yet unworked.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In entirety; entirely; wholly.<p><strong>Example:</strong> I ate a fish whole!</p></li></ul></div></div>"
+description: Yes, WHOLE is a valid Wordle word. It was the Wordle answer on July 27,
+  2025 (#1499). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 27, 2025 (#1499).
+past_answers:
+- date: '2025-07-27'
+  number: 1499
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- whale
+- while
+- whose
+- ahole
+- dhole
+- thole
+phonetic: "/həʊl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something complete, without any parts missing.
+    example: This variety of fascinating details didn't fall together into an enjoyable,
+      coherent whole.
+  - text: An entirety.
+- pos: adjective
+  defs:
+  - text: Entire, undivided.
+    example: I ate a whole fish.
+  - text: Sound, uninjured, healthy.
+    example: He is of whole mind, but the same cannot be said about his physical state.
+  - text: "(of food) From which none of its constituents has been removed."
+    example: whole wheat; whole milk
+  - text: As yet unworked.
+- pos: adverb
+  defs:
+  - text: In entirety; entirely; wholly.
+    example: I ate a fish whole!
 ---
-

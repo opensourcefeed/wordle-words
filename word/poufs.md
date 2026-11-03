@@ -1,7 +1,73 @@
 ---
 layout: word
-title: poufs
+title: Is POUFS a Wordle Word?
+head_title: Is POUFS a Wordle Word? Yes – Valid Guess & Meaning
 word: poufs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The product of flatulence, or the sound of breaking wind.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A male homosexual, especially one who is effeminate.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A headdress for women popular in 18th century France.</li><li><strong>Definition 2:</strong> A high hair style for women consisting of a roll or pad of hair, worn up.</li><li><strong>Definition 3:</strong> Part of an item of clothing consisting of gathered fabric in a bunch.</li><li><strong>Definition 4:</strong> A low cushioned seat with no back; a padded footstool.</li><li><strong>Definition 5:</strong> A short skirt gathered into a rounded puffy shape; a puffball.</li><li><strong>Definition 6:</strong> A ball of fabric (such as nylon monofilament netting) used for washing (as an alternative to a flannel, washcloth, sponge, etc.).</li><li><strong>Definition 7:</strong> A small saddle cushion worn atop the buttocks (as a fashion trend – similar to a bustle).</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sharp exhalation of a small amount of breath through the mouth.</li><li><strong>Definition 2:</strong> The ability to breathe easily while exerting oneself.<p><strong>Example:</strong> out of puff</p></li><li><strong>Definition 3:</strong> A small quantity of gas or smoke in the air.<p><strong>Example:</strong> puff of smoke</p></li><li><strong>Definition 4:</strong> A sudden gust.</li><li><strong>Definition 5:</strong> An act of inhaling smoke from a cigarette, cigar or pipe.</li><li><strong>Definition 6:</strong> A flamboyant or alluring statement of praise.</li><li><strong>Definition 7:</strong> A puffer, one who is employed by the owner or seller of goods sold at auction to bid up the price; an act or scam of that type.</li><li><strong>Definition 8:</strong> A puffball.</li><li><strong>Definition 9:</strong> A powder puff.</li><li><strong>Definition 10:</strong> The drug cannabis.</li><li><strong>Definition 11:</strong> A light cake filled with cream, cream cheese, etc.<p><strong>Example:</strong> cream puff</p></li><li><strong>Definition 12:</strong> Life.</li><li><strong>Definition 13:</strong> A portion of fabric gathered up so as to be left full in the middle.<p><strong>Example:</strong> a sleeve with a puff at the shoulder</p></li><li><strong>Definition 14:</strong> A region of a chromosome exhibiting a local increase in diameter.</li></ul></div></div>"
+description: Yes, POUFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- houfs
+- moufs
+- pouff
+- poufy
+- pouis
+- pouks
+- pours
+- pouts
+- roufs
+definitions:
+- pos: noun
+  defs:
+  - text: The product of flatulence, or the sound of breaking wind.
+- pos: noun
+  defs:
+  - text: A male homosexual, especially one who is effeminate.
+- pos: noun
+  defs:
+  - text: A headdress for women popular in 18th century France.
+  - text: A high hair style for women consisting of a roll or pad of hair, worn up.
+  - text: Part of an item of clothing consisting of gathered fabric in a bunch.
+  - text: A low cushioned seat with no back; a padded footstool.
+  - text: A short skirt gathered into a rounded puffy shape; a puffball.
+  - text: A ball of fabric (such as nylon monofilament netting) used for washing (as
+      an alternative to a flannel, washcloth, sponge, etc.).
+  - text: A small saddle cushion worn atop the buttocks (as a fashion trend – similar
+      to a bustle).
+- pos: noun
+  defs:
+  - text: A sharp exhalation of a small amount of breath through the mouth.
+  - text: The ability to breathe easily while exerting oneself.
+    example: out of puff
+  - text: A small quantity of gas or smoke in the air.
+    example: puff of smoke
+  - text: A sudden gust.
+  - text: An act of inhaling smoke from a cigarette, cigar or pipe.
+  - text: A flamboyant or alluring statement of praise.
+  - text: A puffer, one who is employed by the owner or seller of goods sold at auction
+      to bid up the price; an act or scam of that type.
+  - text: A puffball.
+  - text: A powder puff.
+  - text: The drug cannabis.
+  - text: A light cake filled with cream, cream cheese, etc.
+    example: cream puff
+  - text: Life.
+  - text: A portion of fabric gathered up so as to be left full in the middle.
+    example: a sleeve with a puff at the shoulder
+  - text: A region of a chromosome exhibiting a local increase in diameter.
 ---
-

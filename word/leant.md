@@ -1,7 +1,50 @@
 ---
 layout: word
-title: leant
+title: Is LEANT a Wordle Word?
+head_title: Is LEANT a Wordle Word? Yes – Possible Answer & Meaning
 word: leant
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɛnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To incline, deviate, or bend, from a vertical position; to be in a position thus inclining or deviating.<p><strong>Example:</strong> She leaned out of the window.</p></li><li><strong>Definition 2:</strong> To incline in opinion or desire; to conform in conduct; often with to, toward, etc.<p><strong>Example:</strong> I’m leaning towards voting Conservative in the next election.  The Hispanic vote leans Democratic.</p></li><li><strong>Definition 3:</strong> Followed by against, on, or upon: to rest or rely, for support, comfort, etc.</li><li><strong>Definition 4:</strong> To hang outwards.</li><li><strong>Definition 5:</strong> To press against.</li></ul></div></div>"
+description: Yes, LEANT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- leapt
+- least
+- meant
+- leans
+- leany
+- neant
+anagrams:
+- laten
+phonetic: "/ˈlɛnt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To incline, deviate, or bend, from a vertical position; to be in a position
+      thus inclining or deviating.
+    example: She leaned out of the window.
+  - text: To incline in opinion or desire; to conform in conduct; often with to, toward,
+      etc.
+    example: I’m leaning towards voting Conservative in the next election.  The Hispanic
+      vote leans Democratic.
+  - text: 'Followed by against, on, or upon: to rest or rely, for support, comfort,
+      etc.'
+  - text: To hang outwards.
+  - text: To press against.
 ---
-

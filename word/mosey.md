@@ -1,7 +1,47 @@
 ---
 layout: word
-title: mosey
+title: Is MOSEY a Wordle Word?
+head_title: Is MOSEY a Wordle Word? Yes – Valid Guess & Meaning
 word: mosey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmoʊ.zi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To set off, get going; to start a journey.</li><li><strong>Definition 2:</strong> To go off quickly: to hurry up.</li><li><strong>Definition 3:</strong> To amble; to walk or proceed in a leisurely manner.</li></ul></div></div>"
+description: Yes, MOSEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- money
+- mossy
+- nosey
+- bosey
+- cosey
+- hosey
+- mobey
+- mokey
+- moley
+- mooey
+- mopey
+- mosed
+trap:
+  pattern: MO_EY
+  count: 8
+phonetic: "/ˈmoʊ.zi/"
+definitions:
+- pos: verb
+  defs:
+  - text: To set off, get going; to start a journey.
+  - text: 'To go off quickly: to hurry up.'
+  - text: To amble; to walk or proceed in a leisurely manner.
 ---
-

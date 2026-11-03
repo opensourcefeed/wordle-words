@@ -1,7 +1,38 @@
 ---
 layout: word
-title: desis
+title: Is DESIS a Wordle Word?
+head_title: Is DESIS a Wordle Word? Yes – Valid Guess & Meaning
 word: desis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A member of the South Asian diaspora.</li></ul></div></div>"
+description: Yes, DESIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- defis
+- delis
+- denis
+- desks
+- devis
+anagrams:
+- sides
+definitions:
+- pos: noun
+  defs:
+  - text: A member of the South Asian diaspora.
 ---
-

@@ -1,7 +1,65 @@
 ---
 layout: word
-title: edges
+title: Is EDGES a Wordle Word?
+head_title: Is EDGES a Wordle Word? Yes – Valid Guess & Meaning
 word: edges
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛdʒɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The boundary line of a surface.</li><li><strong>Definition 2:</strong> A one-dimensional face of a polytope. In particular, the joining line between two vertices of a polygon; the place where two faces of a polyhedron meet.</li><li><strong>Definition 3:</strong> An advantage.<p><strong>Example:</strong> I have the edge on him.</p></li><li><strong>Definition 4:</strong> The thin cutting side of the blade of an instrument, such as an ax, knife, sword, or scythe; that which cuts as an edge does, or wounds deeply, etc.</li><li><strong>Definition 5:</strong> A sharp terminating border; a margin; a brink; an extreme verge.<p><strong>Example:</strong> He is standing on the edge of a precipice.</p></li><li><strong>Definition 6:</strong> Sharpness; readiness or fitness to cut; keenness; intenseness of desire.</li><li><strong>Definition 7:</strong> The border or part adjacent to the line of division; the beginning or early part (of a period of time)<p><strong>Example:</strong> in the edge of evening</p></li><li><strong>Definition 8:</strong> A shot where the ball comes off the edge of the bat, often unintentionally.</li><li><strong>Definition 9:</strong> A connected pair of vertices in a graph.</li><li><strong>Definition 10:</strong> In male masturbation, a level of sexual arousal that is maintained just short of reaching the point of inevitability, or climax; see also edging.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move an object slowly and carefully in a particular direction.<p><strong>Example:</strong> He edged the book across the table.</p></li><li><strong>Definition 2:</strong> To move slowly and carefully in a particular direction.<p><strong>Example:</strong> He edged away from her.</p></li><li><strong>Definition 3:</strong> (usually in the form 'just edge') To win by a small margin.</li><li><strong>Definition 4:</strong> To hit the ball with an edge of the bat, causing a fine deflection.</li><li><strong>Definition 5:</strong> To trim the margin of a lawn where the grass meets the sidewalk, usually with an electric or gas-powered lawn edger.</li><li><strong>Definition 6:</strong> To furnish with an edge; to construct an edging.</li><li><strong>Definition 7:</strong> To furnish with an edge, as a tool or weapon; to sharpen.</li><li><strong>Definition 8:</strong> To make sharp or keen; to incite; to exasperate; to goad; to urge or egg on.</li><li><strong>Definition 9:</strong> To delay one's orgasm so as to remain almost at the point of orgasm.</li></ul></div></div>"
+description: Yes, EDGES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- edged
+- edger
+anagrams:
+- sedge
+phonetic: "/ˈɛdʒɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The boundary line of a surface.
+  - text: A one-dimensional face of a polytope. In particular, the joining line between
+      two vertices of a polygon; the place where two faces of a polyhedron meet.
+  - text: An advantage.
+    example: I have the edge on him.
+  - text: The thin cutting side of the blade of an instrument, such as an ax, knife,
+      sword, or scythe; that which cuts as an edge does, or wounds deeply, etc.
+  - text: A sharp terminating border; a margin; a brink; an extreme verge.
+    example: He is standing on the edge of a precipice.
+  - text: Sharpness; readiness or fitness to cut; keenness; intenseness of desire.
+  - text: The border or part adjacent to the line of division; the beginning or early
+      part (of a period of time)
+    example: in the edge of evening
+  - text: A shot where the ball comes off the edge of the bat, often unintentionally.
+  - text: A connected pair of vertices in a graph.
+  - text: In male masturbation, a level of sexual arousal that is maintained just
+      short of reaching the point of inevitability, or climax; see also edging.
+- pos: verb
+  defs:
+  - text: To move an object slowly and carefully in a particular direction.
+    example: He edged the book across the table.
+  - text: To move slowly and carefully in a particular direction.
+    example: He edged away from her.
+  - text: "(usually in the form 'just edge') To win by a small margin."
+  - text: To hit the ball with an edge of the bat, causing a fine deflection.
+  - text: To trim the margin of a lawn where the grass meets the sidewalk, usually
+      with an electric or gas-powered lawn edger.
+  - text: To furnish with an edge; to construct an edging.
+  - text: To furnish with an edge, as a tool or weapon; to sharpen.
+  - text: To make sharp or keen; to incite; to exasperate; to goad; to urge or egg
+      on.
+  - text: To delay one's orgasm so as to remain almost at the point of orgasm.
 ---
-

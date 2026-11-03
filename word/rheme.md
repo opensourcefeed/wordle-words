@@ -1,7 +1,39 @@
 ---
 layout: word
-title: rheme
+title: Is RHEME a Wordle Word?
+head_title: Is RHEME a Wordle Word? Yes – Valid Guess & Meaning
 word: rheme
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹiːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The part of a sentence that provides new information regarding the current theme.</li><li><strong>Definition 2:</strong> A sign that represents its object in respect of quality and so, in its signified interpretant, is represented as a character or mark; sumisign.</li></ul></div></div>"
+description: Yes, RHEME is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- rhyme
+- theme
+- pheme
+- rhime
+anagrams:
+- rehem
+phonetic: "/ɹiːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: The part of a sentence that provides new information regarding the current
+      theme.
+  - text: A sign that represents its object in respect of quality and so, in its signified
+      interpretant, is represented as a character or mark; sumisign.
 ---
-

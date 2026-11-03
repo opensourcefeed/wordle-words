@@ -1,7 +1,48 @@
 ---
 layout: word
-title: nazis
+title: Is NAZIS a Wordle Word?
+head_title: Is NAZIS a Wordle Word? Yes – Valid Guess & Meaning
 word: nazis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A member of the National Socialist German Workers Party (Nationalsozialistische Deutsche Arbeiterpartei, commonly called the NSDAP or Nazi Party).</li><li><strong>Definition 2:</strong> One who subscribes to or advocates (neo-)Nazism or a similarly fascist, racist (especially anti-Semitic), xenophobic, ethnic supremacist, or ultranationalist ideology; a neo-Nazi.</li><li><strong>Definition 3:</strong> (usually derogatory, sometimes offensive, see usage notes below) One who imposes one’s views on others; one who is considered unfairly oppressive or needlessly strict. (also frequently uncapitalised: nazi)<p><strong>Example:</strong> She’s a total grammar Nazi.</p></li><li><strong>Definition 4:</strong> A German, a person of German descent, or a person perceived to be of German descent.</li></ul></div></div>"
+description: Yes, NAZIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- kazis
+- nabis
+- naris
+- nasis
+- natis
+- nazes
+- nazir
+definitions:
+- pos: noun
+  defs:
+  - text: A member of the National Socialist German Workers Party (Nationalsozialistische
+      Deutsche Arbeiterpartei, commonly called the NSDAP or Nazi Party).
+  - text: One who subscribes to or advocates (neo-)Nazism or a similarly fascist,
+      racist (especially anti-Semitic), xenophobic, ethnic supremacist, or ultranationalist
+      ideology; a neo-Nazi.
+  - text: "(usually derogatory, sometimes offensive, see usage notes below) One who
+      imposes one’s views on others; one who is considered unfairly oppressive or
+      needlessly strict. (also frequently uncapitalised: nazi)"
+    example: She’s a total grammar Nazi.
+  - text: A German, a person of German descent, or a person perceived to be of German
+      descent.
 ---
-

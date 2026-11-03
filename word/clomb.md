@@ -1,7 +1,44 @@
 ---
 layout: word
-title: clomb
+title: Is CLOMB a Wordle Word?
+head_title: Is CLOMB a Wordle Word? Yes – Valid Guess & Meaning
 word: clomb
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kləʊm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ascend; rise; to go up.<p><strong>Example:</strong> Prices climbed steeply.</p></li><li><strong>Definition 2:</strong> To mount; to move upwards on.<p><strong>Example:</strong> Climbing a tree</p></li><li><strong>Definition 3:</strong> To scale; to get to the top of something.</li><li><strong>Definition 4:</strong> To move (especially up and down something) by gripping with the hands and using the feet.</li><li><strong>Definition 5:</strong> To practise the sport of climbing</li><li><strong>Definition 6:</strong> To jump high</li><li><strong>Definition 7:</strong> To move to a higher position on the social ladder.</li><li><strong>Definition 8:</strong> Of plants, to grow upwards by clinging to something.</li></ul></div></div>"
+description: Yes, CLOMB is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- climb
+- clomp
+- coomb
+- cromb
+- plomb
+phonetic: "/kləʊm/"
+definitions:
+- pos: verb
+  defs:
+  - text: To ascend; rise; to go up.
+    example: Prices climbed steeply.
+  - text: To mount; to move upwards on.
+    example: Climbing a tree
+  - text: To scale; to get to the top of something.
+  - text: To move (especially up and down something) by gripping with the hands and
+      using the feet.
+  - text: To practise the sport of climbing
+  - text: To jump high
+  - text: To move to a higher position on the social ladder.
+  - text: Of plants, to grow upwards by clinging to something.
 ---
-

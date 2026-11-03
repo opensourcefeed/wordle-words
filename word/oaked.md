@@ -1,7 +1,45 @@
 ---
 layout: word
-title: oaked
+title: Is OAKED a Wordle Word?
+head_title: Is OAKED a Wordle Word? Yes – Valid Guess & Meaning
 word: oaked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a wine: aged in oak so that it acquires flavor from tannins in the wood.</li></ul></div></div>"
+description: Yes, OAKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- oaken
+- baked
+- caked
+- faked
+- laked
+- naked
+- oaker
+- oared
+- raked
+- waked
+trap:
+  pattern: _AKED
+  count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Of a wine: aged in oak so that it acquires flavor from tannins in the wood.'
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: blebs
+title: Is BLEBS a Wordle Word?
+head_title: Is BLEBS a Wordle Word? Yes – Valid Guess & Meaning
 word: blebs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bubble, such as in paint or glass.</li><li><strong>Definition 2:</strong> A large vesicle or bulla, usually containing a serous fluid.</li><li><strong>Definition 3:</strong> An irregular bulge in the plasma membrane of a cell undergoing apoptosis.</li><li><strong>Definition 4:</strong> A bubble-like inclusion of one mineral within another.</li></ul></div></div>"
+description: Yes, BLEBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- bless
+- blabs
+- blees
+- blets
+- bleys
+- blobs
+- blubs
+- plebs
+- slebs
+definitions:
+- pos: noun
+  defs:
+  - text: A bubble, such as in paint or glass.
+  - text: A large vesicle or bulla, usually containing a serous fluid.
+  - text: An irregular bulge in the plasma membrane of a cell undergoing apoptosis.
+  - text: A bubble-like inclusion of one mineral within another.
 ---
-

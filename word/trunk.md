@@ -1,7 +1,55 @@
 ---
 layout: word
-title: trunk
+title: Is TRUNK a Wordle Word?
+head_title: 'Is TRUNK a Wordle Word? Yes – Past Answer #1927 & Meaning'
 word: trunk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹʌŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (heading, biological) Part of a body.</li><li><strong>Definition 2:</strong> (heading) A container.</li><li><strong>Definition 3:</strong> (heading) A channel for flow of some kind.</li><li><strong>Definition 4:</strong> In software projects under source control: the most current source tree, from which the latest unstable builds (so-called \"trunk builds\") are compiled.</li><li><strong>Definition 5:</strong> The main line or body of anything.<p><strong>Example:</strong> the trunk of a vein or of an artery, as distinct from the branches</p></li><li><strong>Definition 6:</strong> A large pipe forming the piston rod of a steam engine, of sufficient diameter to allow one end of the connecting rod to be attached to the crank, and the other end to pass within the pipe directly to the piston, thus making the engine more compact.</li><li><strong>Definition 7:</strong> Shorts used for swimming (swim trunks).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lop off; to curtail; to truncate.</li><li><strong>Definition 2:</strong> To extract (ores) from the slimes in which they are contained, by means of a trunk.</li></ul></div></div>"
+description: Yes, TRUNK is a valid Wordle word. It was the Wordle answer on September
+  28, 2026 (#1927). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 28, 2026 (#1927).
+past_answers:
+- date: '2026-09-28'
+  number: 1927
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- drunk
+- truck
+- crunk
+- krunk
+- thunk
+- trank
+- tronk
+phonetic: "/tɹʌŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(heading, biological) Part of a body."
+  - text: "(heading) A container."
+  - text: "(heading) A channel for flow of some kind."
+  - text: 'In software projects under source control: the most current source tree,
+      from which the latest unstable builds (so-called "trunk builds") are compiled.'
+  - text: The main line or body of anything.
+    example: the trunk of a vein or of an artery, as distinct from the branches
+  - text: A large pipe forming the piston rod of a steam engine, of sufficient diameter
+      to allow one end of the connecting rod to be attached to the crank, and the
+      other end to pass within the pipe directly to the piston, thus making the engine
+      more compact.
+  - text: Shorts used for swimming (swim trunks).
+- pos: verb
+  defs:
+  - text: To lop off; to curtail; to truncate.
+  - text: To extract (ores) from the slimes in which they are contained, by means
+      of a trunk.
 ---
-

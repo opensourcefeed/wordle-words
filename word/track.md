@@ -1,7 +1,87 @@
 ---
 layout: word
-title: track
+title: Is TRACK a Wordle Word?
+head_title: 'Is TRACK a Wordle Word? Yes – Past Answer #1361 & Meaning'
 word: track
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹæk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mark left by something that has passed along.<p><strong>Example:</strong> Can you see any tracks in the snow?</p></li><li><strong>Definition 2:</strong> A mark or impression left by the foot, either of man or animal.<p><strong>Example:</strong> The fox tracks were still visible in the snow.</p></li><li><strong>Definition 3:</strong> The entire lower surface of the foot; said of birds, etc.</li><li><strong>Definition 4:</strong> A road or other similar beaten path.<p><strong>Example:</strong> Follow the track for a hundred metres.</p></li><li><strong>Definition 5:</strong> Physical course; way.<p><strong>Example:</strong> Astronomers predicted the track of the comet.</p></li><li><strong>Definition 6:</strong> A path or course laid out for a race, for exercise, etc.<p><strong>Example:</strong> The athletes ran round the track.</p></li><li><strong>Definition 7:</strong> The direction and progress of someone or something; path.</li><li><strong>Definition 8:</strong> The way or rails along which a train moves.<p><strong>Example:</strong> They briefly closed the railway to remove debris found on the track.</p></li><li><strong>Definition 9:</strong> A tract or area, such as of land.</li><li><strong>Definition 10:</strong> The street, as a prostitute's place of work.</li><li><strong>Definition 11:</strong> Awareness of something, especially when arising from close monitoring.</li><li><strong>Definition 12:</strong> The distance between two opposite wheels on a same axletree.</li><li><strong>Definition 13:</strong> Short for caterpillar track.</li><li><strong>Definition 14:</strong> The pitch.</li><li><strong>Definition 15:</strong> Sound stored on a record.</li><li><strong>Definition 16:</strong> The physical track on a record.</li><li><strong>Definition 17:</strong> A song or other relatively short piece of music, on a record, separated from others by a short silence.<p><strong>Example:</strong> My favourite track on the album is \"Sunshine\".</p></li><li><strong>Definition 18:</strong> A circular (never-ending) data storage unit on a side of magnetic or optical disk, divided into sectors.</li><li><strong>Definition 19:</strong> The racing events of track and field; track and field in general.<p><strong>Example:</strong> I'm going to try out for track next week.</p></li><li><strong>Definition 20:</strong> A session talk on a conference.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To continue over time.</li><li><strong>Definition 2:</strong> To follow the tracks of.<p><strong>Example:</strong> My uncle spent all day tracking the deer, whose hoofprints were clear in the mud.</p></li><li><strong>Definition 3:</strong> To make tracks on.</li><li><strong>Definition 4:</strong> To create a musical recording (a track).<p><strong>Example:</strong> Lil Kyle is gonna track with that DJ next week.</p></li><li><strong>Definition 5:</strong> To make sense; to be consistent with known information</li></ul></div></div>"
+description: Yes, TRACK is a valid Wordle word. It was the Wordle answer on March
+  11, 2025 (#1361). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 11, 2025 (#1361).
+past_answers:
+- date: '2025-03-11'
+  number: 1361
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- crack
+- trace
+- tract
+- trick
+- truck
+- wrack
+- brack
+- drack
+- frack
+- thack
+- traik
+- trank
+trap:
+  pattern: _RACK
+  count: 6
+phonetic: "/tɹæk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mark left by something that has passed along.
+    example: Can you see any tracks in the snow?
+  - text: A mark or impression left by the foot, either of man or animal.
+    example: The fox tracks were still visible in the snow.
+  - text: The entire lower surface of the foot; said of birds, etc.
+  - text: A road or other similar beaten path.
+    example: Follow the track for a hundred metres.
+  - text: Physical course; way.
+    example: Astronomers predicted the track of the comet.
+  - text: A path or course laid out for a race, for exercise, etc.
+    example: The athletes ran round the track.
+  - text: The direction and progress of someone or something; path.
+  - text: The way or rails along which a train moves.
+    example: They briefly closed the railway to remove debris found on the track.
+  - text: A tract or area, such as of land.
+  - text: The street, as a prostitute's place of work.
+  - text: Awareness of something, especially when arising from close monitoring.
+  - text: The distance between two opposite wheels on a same axletree.
+  - text: Short for caterpillar track.
+  - text: The pitch.
+  - text: Sound stored on a record.
+  - text: The physical track on a record.
+  - text: A song or other relatively short piece of music, on a record, separated
+      from others by a short silence.
+    example: My favourite track on the album is "Sunshine".
+  - text: A circular (never-ending) data storage unit on a side of magnetic or optical
+      disk, divided into sectors.
+  - text: The racing events of track and field; track and field in general.
+    example: I'm going to try out for track next week.
+  - text: A session talk on a conference.
+- pos: verb
+  defs:
+  - text: To continue over time.
+  - text: To follow the tracks of.
+    example: My uncle spent all day tracking the deer, whose hoofprints were clear
+      in the mud.
+  - text: To make tracks on.
+  - text: To create a musical recording (a track).
+    example: Lil Kyle is gonna track with that DJ next week.
+  - text: To make sense; to be consistent with known information
 ---
-

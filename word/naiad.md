@@ -1,7 +1,37 @@
 ---
 layout: word
-title: naiad
+title: Is NAIAD a Wordle Word?
+head_title: Is NAIAD a Wordle Word? Yes – Valid Guess & Meaning
 word: naiad
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnaɪæd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A female deity (nymph) associated with water, especially a spring, stream, or other fresh water.</li><li><strong>Definition 2:</strong> The aquatic larva (nymph) of a dragonfly or damselfly.</li><li><strong>Definition 3:</strong> Any of various aquatic plants of the genus Najas.</li></ul></div></div>"
+description: Yes, NAIAD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- namad
+anagrams:
+- diana
+phonetic: "/ˈnaɪæd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A female deity (nymph) associated with water, especially a spring, stream,
+      or other fresh water.
+  - text: The aquatic larva (nymph) of a dragonfly or damselfly.
+  - text: Any of various aquatic plants of the genus Najas.
 ---
-

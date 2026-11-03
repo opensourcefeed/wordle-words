@@ -1,7 +1,46 @@
 ---
 layout: word
-title: amirs
+title: Is AMIRS a Wordle Word?
+head_title: Is AMIRS a Wordle Word? Yes – Valid Guess & Meaning
 word: amirs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prince, commander or other leader or ruler in an Islamic nation.</li><li><strong>Definition 2:</strong> A descendant of the prophet Muhammad.</li></ul></div></div>"
+description: Yes, AMIRS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- amiss
+- amias
+- amids
+- amies
+- amins
+- emirs
+- smirs
+anagrams:
+- mairs
+- ramis
+- simar
+trap:
+  pattern: AMI_S
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A prince, commander or other leader or ruler in an Islamic nation.
+  - text: A descendant of the prophet Muhammad.
 ---
-

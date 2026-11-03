@@ -1,7 +1,76 @@
 ---
 layout: word
-title: busts
+title: Is BUSTS a Wordle Word?
+head_title: Is BUSTS a Wordle Word? Yes – Valid Guess & Meaning
 word: busts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bʌsts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sculptural portrayal of a person's head and shoulders.</li><li><strong>Definition 2:</strong> The breasts and upper thorax of a woman.</li><li><strong>Definition 3:</strong> The downward portion of a boom and bust cycle; a recession.</li><li><strong>Definition 4:</strong> A police raid or takedown of a criminal enterprise.</li><li><strong>Definition 5:</strong> A disappointment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of arresting someone for a crime, or raiding a suspected criminal operation.<p><strong>Example:</strong> a narcotics bust</p></li><li><strong>Definition 2:</strong> A failed enterprise; a bomb.</li><li><strong>Definition 3:</strong> A refutation of an opening, or of a previously published analysis.</li><li><strong>Definition 4:</strong> A player who fails to meet expectations.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To break.<p><strong>Example:</strong> I busted my cooker while trying to fix it.</p></li><li><strong>Definition 2:</strong> To arrest (someone) for a crime.</li><li><strong>Definition 3:</strong> To catch (someone) in the act of doing something wrong, socially and morally inappropriate, or illegal, especially when being done in a sneaky or secretive state.</li><li><strong>Definition 4:</strong> An emphatic synonym of do or get.<p><strong>Example:</strong> He busted huge air off that jump!</p></li><li><strong>Definition 5:</strong> To reduce in rank.<p><strong>Example:</strong> He busted him down to patrolman for insubordination.</p></li><li><strong>Definition 6:</strong> To undo a trade, generally an error trade, that has already been executed.</li><li><strong>Definition 7:</strong> To lose all of one's chips.</li><li><strong>Definition 8:</strong> To exceed a score of 21.</li><li><strong>Definition 9:</strong> To break in (an animal).</li><li><strong>Definition 10:</strong> To ejaculate; to eject semen.</li></ul></div></div>"
+description: Yes, BUSTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- basts
+- bests
+- buats
+- bunts
+- buses
+- busks
+- busti
+- busty
+- butts
+- dusts
+- fusts
+- gusts
+anagrams:
+- stubs
+trap:
+  pattern: _USTS
+  count: 9
+phonetic: "/bʌsts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sculptural portrayal of a person's head and shoulders.
+  - text: The breasts and upper thorax of a woman.
+  - text: The downward portion of a boom and bust cycle; a recession.
+  - text: A police raid or takedown of a criminal enterprise.
+  - text: A disappointment.
+- pos: noun
+  defs:
+  - text: The act of arresting someone for a crime, or raiding a suspected criminal
+      operation.
+    example: a narcotics bust
+  - text: A failed enterprise; a bomb.
+  - text: A refutation of an opening, or of a previously published analysis.
+  - text: A player who fails to meet expectations.
+- pos: verb
+  defs:
+  - text: To break.
+    example: I busted my cooker while trying to fix it.
+  - text: To arrest (someone) for a crime.
+  - text: To catch (someone) in the act of doing something wrong, socially and morally
+      inappropriate, or illegal, especially when being done in a sneaky or secretive
+      state.
+  - text: An emphatic synonym of do or get.
+    example: He busted huge air off that jump!
+  - text: To reduce in rank.
+    example: He busted him down to patrolman for insubordination.
+  - text: To undo a trade, generally an error trade, that has already been executed.
+  - text: To lose all of one's chips.
+  - text: To exceed a score of 21.
+  - text: To break in (an animal).
+  - text: To ejaculate; to eject semen.
 ---
-

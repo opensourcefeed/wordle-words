@@ -1,7 +1,42 @@
 ---
 layout: word
-title: poult
+title: Is POULT a Wordle Word?
+head_title: Is POULT a Wordle Word? Yes – Valid Guess & Meaning
 word: poult
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɒlt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A young bird, a chick; now especially, a young game bird (turkey, partridge, grouse etc.).</li></ul></div></div>"
+description: Yes, POULT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- moult
+- boult
+- poule
+- poulp
+- poupt
+- powlt
+anagrams:
+- plout
+- pluot
+- pluto
+phonetic: "/pɒlt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A young bird, a chick; now especially, a young game bird (turkey, partridge,
+      grouse etc.).
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: inure
+title: Is INURE a Wordle Word?
+head_title: Is INURE a Wordle Word? Yes – Valid Guess & Meaning
 word: inure
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈnjɔː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause someone to become accustomed to something (usually) unpleasant.</li><li><strong>Definition 2:</strong> To take effect, to be operative.<p><strong>Example:</strong> Jim buys a beach house that includes the right to travel across the neighbor's property to get to the water. That right of way is said, cryptically, \"to inure to the benefit of Jim\".</p></li><li><strong>Definition 3:</strong> To commit.</li></ul></div></div>"
+description: Yes, INURE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- enure
+- inurn
+anagrams:
+- urine
+phonetic: "/ɪˈnjɔː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cause someone to become accustomed to something (usually) unpleasant.
+  - text: To take effect, to be operative.
+    example: Jim buys a beach house that includes the right to travel across the neighbor's
+      property to get to the water. That right of way is said, cryptically, "to inure
+      to the benefit of Jim".
+  - text: To commit.
 ---
-

@@ -1,7 +1,35 @@
 ---
 layout: word
-title: unrig
+title: Is UNRIG a Wordle Word?
+head_title: Is UNRIG a Wordle Word? Yes – Valid Guess & Meaning
 word: unrig
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the rigging from (a vessel, etc.).</li><li><strong>Definition 2:</strong> To disable.</li><li><strong>Definition 3:</strong> To undress (someone).</li></ul></div></div>"
+description: Yes, UNRIG is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- unrid
+- unrip
+anagrams:
+- ruing
+definitions:
+- pos: verb
+  defs:
+  - text: To remove the rigging from (a vessel, etc.).
+  - text: To disable.
+  - text: To undress (someone).
 ---
-

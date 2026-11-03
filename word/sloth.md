@@ -1,7 +1,45 @@
 ---
 layout: word
-title: sloth
+title: Is SLOTH a Wordle Word?
+head_title: 'Is SLOTH a Wordle Word? Yes – Past Answer #474 & Meaning'
 word: sloth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slɑθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Laziness; slowness in the mindset; disinclination to action or labour.</li><li><strong>Definition 2:</strong> A herbivorous, arboreal South American mammal of the families Megalonychidae and Bradypodidae, noted for its slowness and inactivity.</li><li><strong>Definition 3:</strong> A collective term for a group of bears.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be idle; to idle (away time).</li></ul></div></div>"
+description: Yes, SLOTH is a valid Wordle word. It was the Wordle answer on October
+  6, 2022 (#474). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 6, 2022 (#474).
+past_answers:
+- date: '2022-10-06'
+  number: 474
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- cloth
+- slosh
+- sooth
+- slots
+anagrams:
+- holts
+phonetic: "/slɑθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Laziness; slowness in the mindset; disinclination to action or labour.
+  - text: A herbivorous, arboreal South American mammal of the families Megalonychidae
+      and Bradypodidae, noted for its slowness and inactivity.
+  - text: A collective term for a group of bears.
+- pos: verb
+  defs:
+  - text: To be idle; to idle (away time).
 ---
-

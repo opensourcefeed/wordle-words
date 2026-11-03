@@ -1,7 +1,79 @@
 ---
 layout: word
-title: claps
+title: Is CLAPS a Wordle Word?
+head_title: Is CLAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: claps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klæps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of striking the palms of the hands, or any two surfaces, together.<p><strong>Example:</strong> He summoned the waiter with a clap.</p></li><li><strong>Definition 2:</strong> The explosive sound of thunder.</li><li><strong>Definition 3:</strong> Any loud, sudden, explosive sound made by striking hard surfaces together, or resembling such a sound.<p><strong>Example:</strong> Off in the distance, he heard the clap of thunder.</p></li><li><strong>Definition 4:</strong> A slap with the hand, usually in a jovial manner.<p><strong>Example:</strong> His father's affection never went further than a handshake or a clap on the shoulder.</p></li><li><strong>Definition 5:</strong> A single, sudden act or motion; a stroke; a blow.</li><li><strong>Definition 6:</strong> The nether part of the beak of a hawk.</li><li><strong>Definition 7:</strong> A dropping of cow dung (presumably from the sound made as it hits the ground)</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To strike the palms of the hands together, creating a sharp sound.<p><strong>Example:</strong> The children began to clap in time with the music.</p></li><li><strong>Definition 2:</strong> To applaud.<p><strong>Example:</strong> It isn’t the singers they are clapping; it's the composer.</p></li><li><strong>Definition 3:</strong> To slap with the hand in a jovial manner.<p><strong>Example:</strong> He would often clap his teammates on the back for encouragement.</p></li><li><strong>Definition 4:</strong> To bring two surfaces together forcefully, creating a sharp sound.<p><strong>Example:</strong> He clapped across the floor in his boots.</p></li><li><strong>Definition 5:</strong> To come together suddenly with noise.</li><li><strong>Definition 6:</strong> To create or assemble (something) hastily (usually followed by up or together).<p><strong>Example:</strong> The rival factions clapped up a truce.</p></li><li><strong>Definition 7:</strong> To set or put, usually in haste.<p><strong>Example:</strong> She was the prettiest thing I'd ever clapped eyes on.</p></li><li><strong>Definition 8:</strong> To shoot (somebody) with a gun.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (with \"the\") Gonorrhea.</li></ul></div></div>"
+description: Yes, CLAPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- class
+- alaps
+- chaps
+- clads
+- claes
+- clags
+- clams
+- clans
+- clapt
+- clats
+- claws
+- clays
+anagrams:
+- clasp
+- scalp
+- calps
+trap:
+  pattern: CLA_S
+  count: 10
+phonetic: "/klæps/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of striking the palms of the hands, or any two surfaces, together.
+    example: He summoned the waiter with a clap.
+  - text: The explosive sound of thunder.
+  - text: Any loud, sudden, explosive sound made by striking hard surfaces together,
+      or resembling such a sound.
+    example: Off in the distance, he heard the clap of thunder.
+  - text: A slap with the hand, usually in a jovial manner.
+    example: His father's affection never went further than a handshake or a clap
+      on the shoulder.
+  - text: A single, sudden act or motion; a stroke; a blow.
+  - text: The nether part of the beak of a hawk.
+  - text: A dropping of cow dung (presumably from the sound made as it hits the ground)
+- pos: verb
+  defs:
+  - text: To strike the palms of the hands together, creating a sharp sound.
+    example: The children began to clap in time with the music.
+  - text: To applaud.
+    example: It isn’t the singers they are clapping; it's the composer.
+  - text: To slap with the hand in a jovial manner.
+    example: He would often clap his teammates on the back for encouragement.
+  - text: To bring two surfaces together forcefully, creating a sharp sound.
+    example: He clapped across the floor in his boots.
+  - text: To come together suddenly with noise.
+  - text: To create or assemble (something) hastily (usually followed by up or together).
+    example: The rival factions clapped up a truce.
+  - text: To set or put, usually in haste.
+    example: She was the prettiest thing I'd ever clapped eyes on.
+  - text: To shoot (somebody) with a gun.
+- pos: noun
+  defs:
+  - text: (with "the") Gonorrhea.
 ---
-

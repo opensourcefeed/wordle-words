@@ -1,7 +1,74 @@
 ---
 layout: word
-title: hames
+title: Is HAMES a Wordle Word?
+head_title: Is HAMES a Wordle Word? Yes – Valid Guess & Meaning
 word: hames
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A covering, skin, membrane.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Part of the harness that fits round the neck of a draught horse that the reins pass through.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mess.<p><strong>Example:</strong> You've made a right hames of it, you eejit!</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The stems of various cultivated plants, left after harvesting the crop to be used as animal litter or for thatching.</li><li><strong>Definition 2:</strong> An individual plant stem.</li><li><strong>Definition 3:</strong> Part of a harness; a hame.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dwelling.</li><li><strong>Definition 2:</strong> One’s native land; the place or country in which one dwells; the place where one’s ancestors dwell or dwelt.</li><li><strong>Definition 3:</strong> The locality where a thing is usually found, or was first found, or where it is naturally abundant; habitat; seat.<p><strong>Example:</strong> the home of the pine</p></li><li><strong>Definition 4:</strong> A focus point.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A directory that contains a user's files.</li></ul></div></div>"
+description: Yes, HAMES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- cames
+- dames
+- fames
+- games
+- hades
+- hajes
+- hakes
+- hales
+- hamed
+- hamel
+- hares
+- hates
+anagrams:
+- shame
+- haems
+trap:
+  pattern: _AMES
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A covering, skin, membrane.
+- pos: noun
+  defs:
+  - text: Part of the harness that fits round the neck of a draught horse that the
+      reins pass through.
+- pos: noun
+  defs:
+  - text: A mess.
+    example: You've made a right hames of it, you eejit!
+- pos: noun
+  defs:
+  - text: The stems of various cultivated plants, left after harvesting the crop to
+      be used as animal litter or for thatching.
+  - text: An individual plant stem.
+  - text: Part of a harness; a hame.
+- pos: noun
+  defs:
+  - text: A dwelling.
+  - text: One’s native land; the place or country in which one dwells; the place where
+      one’s ancestors dwell or dwelt.
+  - text: The locality where a thing is usually found, or was first found, or where
+      it is naturally abundant; habitat; seat.
+    example: the home of the pine
+  - text: A focus point.
+- pos: noun
+  defs:
+  - text: A directory that contains a user's files.
 ---
-

@@ -1,7 +1,96 @@
 ---
 layout: word
-title: brace
+title: Is BRACE a Wordle Word?
+head_title: 'Is BRACE a Wordle Word? Yes – Past Answer #1154 & Meaning'
 word: brace
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹeɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Armor for the arm; vambrace.</li><li><strong>Definition 2:</strong> A measurement of length, originally representing a person's outstretched arms.</li><li><strong>Definition 3:</strong> A curved instrument or handle of iron or wood, for holding and turning bits, etc.; a bitstock.</li><li><strong>Definition 4:</strong> That which holds anything tightly or supports it firmly; a bandage or a prop.</li><li><strong>Definition 5:</strong> A cord, ligament, or rod, for producing or maintaining tension.</li><li><strong>Definition 6:</strong> A thong used to regulate the tension of a drum.</li><li><strong>Definition 7:</strong> The state of being braced or tight; tension.</li><li><strong>Definition 8:</strong> Harness; warlike preparation.</li><li><strong>Definition 9:</strong> A curved, pointed line, also known as \"curly bracket\": { or } connecting two or more words or lines, which are to be considered together, such as in {role, roll}; in music, used to connect staves.</li><li><strong>Definition 10:</strong> A pair, a couple; originally used of dogs, and later of animals generally (e.g., a brace of conies) and then other things, but rarely human persons. (The plural in this sense is unchanged.) In British use (as plural), this is a particularly common reference to game birds.</li><li><strong>Definition 11:</strong> A piece of material used to transmit, or change the direction of, weight or pressure; any one of the pieces, in a frame or truss, which divide the structure into triangular parts. It may act as a tie, or as a strut, and serves to prevent distortion of the structure, and transverse strains in its members. A boiler brace is a diagonal stay, connecting the head with the shell.</li><li><strong>Definition 12:</strong> A rope reeved through a block at the end of a yard, by which the yard is moved horizontally; also, a rudder gudgeon.</li><li><strong>Definition 13:</strong> The mouth of a shaft.</li><li><strong>Definition 14:</strong> (chiefly in the plural) Straps or bands to sustain trousers; suspenders.</li><li><strong>Definition 15:</strong> (plural in North America, singular or plural in the UK) A system of wires, brackets, and elastic bands used to correct crooked teeth or to reduce overbite.</li><li><strong>Definition 16:</strong> Two goals scored by one player in a game.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare for something bad, such as an impact or blow.<p><strong>Example:</strong> All hands, brace for impact!</p></li><li><strong>Definition 2:</strong> To place in a position for resisting pressure; to hold firmly.<p><strong>Example:</strong> He braced himself against the crowd.</p></li><li><strong>Definition 3:</strong> To swing round the yards of a square rigged ship, using braces, to present a more efficient sail surface to the direction of the wind.<p><strong>Example:</strong> to brace the yards</p></li><li><strong>Definition 4:</strong> To stop someone for questioning, usually said of police.</li><li><strong>Definition 5:</strong> To confront with questions, demands or requests.</li><li><strong>Definition 6:</strong> To furnish with braces; to support; to prop.<p><strong>Example:</strong> to brace a beam in a building</p></li><li><strong>Definition 7:</strong> To draw tight; to tighten; to put in a state of tension; to strain; to strengthen.<p><strong>Example:</strong> to brace the nerves</p></li><li><strong>Definition 8:</strong> To bind or tie closely; to fasten tightly.</li></ul></div></div>"
+description: Yes, BRACE is a valid Wordle word. It was the Wordle answer on August
+  16, 2024 (#1154). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 16, 2024 (#1154).
+past_answers:
+- date: '2024-08-16'
+  number: 1154
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- brake
+- brave
+- grace
+- trace
+- brach
+- brack
+- bract
+- brame
+- brane
+- braze
+anagrams:
+- acerb
+- caber
+- cabre
+trap:
+  pattern: BRA_E
+  count: 6
+phonetic: "/bɹeɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Armor for the arm; vambrace.
+  - text: A measurement of length, originally representing a person's outstretched
+      arms.
+  - text: A curved instrument or handle of iron or wood, for holding and turning bits,
+      etc.; a bitstock.
+  - text: That which holds anything tightly or supports it firmly; a bandage or a
+      prop.
+  - text: A cord, ligament, or rod, for producing or maintaining tension.
+  - text: A thong used to regulate the tension of a drum.
+  - text: The state of being braced or tight; tension.
+  - text: Harness; warlike preparation.
+  - text: 'A curved, pointed line, also known as "curly bracket": { or } connecting
+      two or more words or lines, which are to be considered together, such as in
+      {role, roll}; in music, used to connect staves.'
+  - text: A pair, a couple; originally used of dogs, and later of animals generally
+      (e.g., a brace of conies) and then other things, but rarely human persons. (The
+      plural in this sense is unchanged.) In British use (as plural), this is a particularly
+      common reference to game birds.
+  - text: A piece of material used to transmit, or change the direction of, weight
+      or pressure; any one of the pieces, in a frame or truss, which divide the structure
+      into triangular parts. It may act as a tie, or as a strut, and serves to prevent
+      distortion of the structure, and transverse strains in its members. A boiler
+      brace is a diagonal stay, connecting the head with the shell.
+  - text: A rope reeved through a block at the end of a yard, by which the yard is
+      moved horizontally; also, a rudder gudgeon.
+  - text: The mouth of a shaft.
+  - text: "(chiefly in the plural) Straps or bands to sustain trousers; suspenders."
+  - text: "(plural in North America, singular or plural in the UK) A system of wires,
+      brackets, and elastic bands used to correct crooked teeth or to reduce overbite."
+  - text: Two goals scored by one player in a game.
+- pos: verb
+  defs:
+  - text: To prepare for something bad, such as an impact or blow.
+    example: All hands, brace for impact!
+  - text: To place in a position for resisting pressure; to hold firmly.
+    example: He braced himself against the crowd.
+  - text: To swing round the yards of a square rigged ship, using braces, to present
+      a more efficient sail surface to the direction of the wind.
+    example: to brace the yards
+  - text: To stop someone for questioning, usually said of police.
+  - text: To confront with questions, demands or requests.
+  - text: To furnish with braces; to support; to prop.
+    example: to brace a beam in a building
+  - text: To draw tight; to tighten; to put in a state of tension; to strain; to strengthen.
+    example: to brace the nerves
+  - text: To bind or tie closely; to fasten tightly.
 ---
-

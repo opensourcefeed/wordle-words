@@ -1,7 +1,34 @@
 ---
 layout: word
-title: simar
+title: Is SIMAR a Wordle Word?
+head_title: Is SIMAR a Wordle Word? Yes – Valid Guess
 word: simar
-meaning: ""
+description: Yes, SIMAR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- cimar
+- simas
+- sitar
+- sizar
+- symar
+anagrams:
+- amirs
+- mairs
+- ramis
 ---
-

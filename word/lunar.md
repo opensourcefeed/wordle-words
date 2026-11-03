@@ -1,7 +1,52 @@
 ---
 layout: word
-title: lunar
+title: Is LUNAR a Wordle Word?
+head_title: 'Is LUNAR a Wordle Word? Yes – Past Answer #550 & Meaning'
 word: lunar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈl(j)uːnə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The middle bone of the proximal series of the carpus in the wrist, which is shaped like a half-moon.</li><li><strong>Definition 2:</strong> An observation of a lunar distance, especially for establishing the longitude of a ship at sea.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, pertaining to, or resembling the Moon (that is, Luna, the Earth's moon); Lunar.<p><strong>Example:</strong> lunar observations  a lunar eclipse</p></li><li><strong>Definition 2:</strong> Shaped like a crescent moon; lunate.</li><li><strong>Definition 3:</strong> (Believed to be) influenced by the Moon, as in character, growth, or properties.</li><li><strong>Definition 4:</strong> Of or pertaining to silver (which was symbolically associated with the Moon by alchemists).</li><li><strong>Definition 5:</strong> Of or pertaining to travel through space between the Earth and the Moon, or exploration and scientific investigation of the Moon.</li></ul></div></div>"
+description: Yes, LUNAR is a valid Wordle word. It was the Wordle answer on December
+  21, 2022 (#550). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 21, 2022 (#550).
+past_answers:
+- date: '2022-12-21'
+  number: 550
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- lunas
+anagrams:
+- ulnar
+- urnal
+phonetic: "/ˈl(j)uːnə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The middle bone of the proximal series of the carpus in the wrist, which
+      is shaped like a half-moon.
+  - text: An observation of a lunar distance, especially for establishing the longitude
+      of a ship at sea.
+- pos: adjective
+  defs:
+  - text: Of, pertaining to, or resembling the Moon (that is, Luna, the Earth's moon);
+      Lunar.
+    example: lunar observations  a lunar eclipse
+  - text: Shaped like a crescent moon; lunate.
+  - text: "(Believed to be) influenced by the Moon, as in character, growth, or properties."
+  - text: Of or pertaining to silver (which was symbolically associated with the Moon
+      by alchemists).
+  - text: Of or pertaining to travel through space between the Earth and the Moon,
+      or exploration and scientific investigation of the Moon.
 ---
-

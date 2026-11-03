@@ -1,7 +1,73 @@
 ---
 layout: word
-title: conks
+title: Is CONKS a Wordle Word?
+head_title: Is CONKS a Wordle Word? Yes – Valid Guess & Meaning
 word: conks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A marine gastropod of the family Strombidae which lives in its own spiral shell.</li><li><strong>Definition 2:</strong> The shell of this sea animal.</li><li><strong>Definition 3:</strong> A musical instrument made from a large spiral seashell, somewhat like a trumpet.</li><li><strong>Definition 4:</strong> The semidome of an apse, or the apse itself.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A machine (rather like a rotating pestle and mortar) used to refine the flavour and texture of chocolate by warming and grinding.</li><li><strong>Definition 2:</strong> A person who operates such a machine.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The shelf- or bracket-shaped fruiting body of a bracket fungus (also called a shelf fungus), i.e. a mushroom growing off a tree trunk.</li><li><strong>Definition 2:</strong> A nose, especially a large one.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit, especially on the head.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hairstyle involving the chemical straightening and styling of kinky hair.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To chemically straighten tightly curled hair.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (often with out) To fail or show signs of failing, cease operating, break down, become unconscious.</li></ul></div></div>"
+description: Yes, CONKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- bonks
+- cocks
+- cones
+- confs
+- conky
+- conns
+- conus
+- cooks
+- corks
+- cowks
+- gonks
+- honks
+anagrams:
+- nocks
+trap:
+  pattern: _ONKS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A marine gastropod of the family Strombidae which lives in its own spiral
+      shell.
+  - text: The shell of this sea animal.
+  - text: A musical instrument made from a large spiral seashell, somewhat like a
+      trumpet.
+  - text: The semidome of an apse, or the apse itself.
+- pos: noun
+  defs:
+  - text: A machine (rather like a rotating pestle and mortar) used to refine the
+      flavour and texture of chocolate by warming and grinding.
+  - text: A person who operates such a machine.
+- pos: noun
+  defs:
+  - text: The shelf- or bracket-shaped fruiting body of a bracket fungus (also called
+      a shelf fungus), i.e. a mushroom growing off a tree trunk.
+  - text: A nose, especially a large one.
+- pos: verb
+  defs:
+  - text: To hit, especially on the head.
+- pos: noun
+  defs:
+  - text: A hairstyle involving the chemical straightening and styling of kinky hair.
+- pos: verb
+  defs:
+  - text: To chemically straighten tightly curled hair.
+- pos: verb
+  defs:
+  - text: "(often with out) To fail or show signs of failing, cease operating, break
+      down, become unconscious."
 ---
-

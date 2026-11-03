@@ -1,7 +1,61 @@
 ---
 layout: word
-title: muffs
+title: Is MUFFS a Wordle Word?
+head_title: Is MUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: muffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece of fur or cloth, usually with open ends, used for keeping the hands warm.</li><li><strong>Definition 2:</strong> Female pubic hair; female genitals.</li><li><strong>Definition 3:</strong> A blown cylinder of glass which is afterward flattened out to make a sheet.</li><li><strong>Definition 4:</strong> The feathers sticking out from both sides of the face under the beak of some birds.</li><li><strong>Definition 5:</strong> A short hollow cylinder surrounding an object such as a pipe.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fool, a stupid or poor-spirited person.</li><li><strong>Definition 2:</strong> An error, a mistake; a failure to hold a ball when once in the hands.</li><li><strong>Definition 3:</strong> A bird, the whitethroat.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drop or mishandle (the ball, a catch etc.); to play badly.</li><li><strong>Definition 2:</strong> To mishandle; to bungle.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A muffin.</li></ul></div></div>"
+description: Yes, MUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- buffs
+- cuffs
+- duffs
+- fuffs
+- guffs
+- huffs
+- luffs
+- meffs
+- miffs
+- muffy
+- nuffs
+- puffs
+trap:
+  pattern: _UFFS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A piece of fur or cloth, usually with open ends, used for keeping the hands
+      warm.
+  - text: Female pubic hair; female genitals.
+  - text: A blown cylinder of glass which is afterward flattened out to make a sheet.
+  - text: The feathers sticking out from both sides of the face under the beak of
+      some birds.
+  - text: A short hollow cylinder surrounding an object such as a pipe.
+- pos: noun
+  defs:
+  - text: A fool, a stupid or poor-spirited person.
+  - text: An error, a mistake; a failure to hold a ball when once in the hands.
+  - text: A bird, the whitethroat.
+- pos: verb
+  defs:
+  - text: To drop or mishandle (the ball, a catch etc.); to play badly.
+  - text: To mishandle; to bungle.
+- pos: noun
+  defs:
+  - text: A muffin.
 ---
-

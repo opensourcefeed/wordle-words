@@ -1,7 +1,46 @@
 ---
 layout: word
-title: koris
+title: Is KORIS a Wordle Word?
+head_title: Is KORIS a Wordle Word? Yes – Valid Guess & Meaning
 word: koris
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The monetary unit of Kutch prior to 1947, divided into 24 dokdas.</li></ul></div></div>"
+description: Yes, KORIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- doris
+- goris
+- horis
+- kojis
+- koras
+- kores
+- koros
+- korus
+- kuris
+- loris
+- noris
+- zoris
+trap:
+  pattern: _ORIS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The monetary unit of Kutch prior to 1947, divided into 24 dokdas.
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: goons
+title: Is GOONS a Wordle Word?
+head_title: Is GOONS a Wordle Word? Yes – Valid Guess & Meaning
 word: goons
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thug; a usually muscular henchman with little intelligence (also known as a 'hired goon').</li><li><strong>Definition 2:</strong> A fool; someone considered silly, stupid, awkward, or outlandish.</li><li><strong>Definition 3:</strong> An enforcer or fighter.</li><li><strong>Definition 4:</strong> (WWII, PoW slang) A German guard in a prisoner-of-war camp.</li><li><strong>Definition 5:</strong> A member of the comedy web site Something Awful.</li></ul></div></div>"
+description: Yes, GOONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- boons
+- goods
+- goofs
+- googs
+- gools
+- goony
+- goops
+- goors
+- gowns
+- hoons
+- loons
+- moons
+anagrams:
+- songo
+trap:
+  pattern: _OONS
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: A thug; a usually muscular henchman with little intelligence (also known
+      as a 'hired goon').
+  - text: A fool; someone considered silly, stupid, awkward, or outlandish.
+  - text: An enforcer or fighter.
+  - text: "(WWII, PoW slang) A German guard in a prisoner-of-war camp."
+  - text: A member of the comedy web site Something Awful.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: endue
+title: Is ENDUE a Wordle Word?
+head_title: Is ENDUE a Wordle Word? Yes – Valid Guess & Meaning
 word: endue
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɛnˈdjuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pass food into the stomach; to digest; also figuratively, to take on, absorb.</li><li><strong>Definition 2:</strong> To take on, to take the form of.</li><li><strong>Definition 3:</strong> To put on (a piece of clothing); to clothe (someone with something).</li><li><strong>Definition 4:</strong> To invest (someone) with a given quality, property etc.; to endow.</li></ul></div></div>"
+description: Yes, ENDUE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- ensue
+- undue
+- indue
+anagrams:
+- undee
+phonetic: "/ɛnˈdjuː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To pass food into the stomach; to digest; also figuratively, to take on,
+      absorb.
+  - text: To take on, to take the form of.
+  - text: To put on (a piece of clothing); to clothe (someone with something).
+  - text: To invest (someone) with a given quality, property etc.; to endow.
 ---
-

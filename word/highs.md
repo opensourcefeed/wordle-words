@@ -1,7 +1,50 @@
 ---
 layout: word
-title: highs
+title: Is HIGHS a Wordle Word?
+head_title: Is HIGHS a Wordle Word? Yes – Valid Guess & Meaning
 word: highs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A high point or position, literally or figuratively; an elevated place; a superior region; a height; the sky; heaven.</li><li><strong>Definition 2:</strong> A point of success or achievement; a time when things are at their best.<p><strong>Example:</strong> It was one of the highs of his career.</p></li><li><strong>Definition 3:</strong> A period of euphoria, from excitement or from an intake of drugs.<p><strong>Example:</strong> That pill gave me a high for a few hours, before I had a comedown.</p></li><li><strong>Definition 4:</strong> A drug that gives such a high.</li><li><strong>Definition 5:</strong> A large area of elevated atmospheric pressure; an anticyclone.<p><strong>Example:</strong> A large high is centred on the Azores.</p></li><li><strong>Definition 6:</strong> The maximum value attained by some quantity within a specified period.<p><strong>Example:</strong> Inflation reached a ten-year high.</p></li><li><strong>Definition 7:</strong> The maximum atmospheric temperature recorded at a particular location, especially during one 24-hour period.<p><strong>Example:</strong> Today's high was 32°C.</p></li><li><strong>Definition 8:</strong> The highest card dealt or drawn.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Thought; intention; determination; purpose.</li></ul></div></div>"
+description: Yes, HIGHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - H
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- hight
+- hoghs
+- nighs
+- sighs
+definitions:
+- pos: noun
+  defs:
+  - text: A high point or position, literally or figuratively; an elevated place;
+      a superior region; a height; the sky; heaven.
+  - text: A point of success or achievement; a time when things are at their best.
+    example: It was one of the highs of his career.
+  - text: A period of euphoria, from excitement or from an intake of drugs.
+    example: That pill gave me a high for a few hours, before I had a comedown.
+  - text: A drug that gives such a high.
+  - text: A large area of elevated atmospheric pressure; an anticyclone.
+    example: A large high is centred on the Azores.
+  - text: The maximum value attained by some quantity within a specified period.
+    example: Inflation reached a ten-year high.
+  - text: The maximum atmospheric temperature recorded at a particular location, especially
+      during one 24-hour period.
+    example: Today's high was 32°C.
+  - text: The highest card dealt or drawn.
+- pos: noun
+  defs:
+  - text: Thought; intention; determination; purpose.
 ---
-

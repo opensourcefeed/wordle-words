@@ -1,7 +1,73 @@
 ---
 layout: word
-title: bored
+title: Is BORED a Wordle Word?
+head_title: Is BORED a Wordle Word? Yes – Valid Guess & Meaning
 word: bored
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɔːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To inspire boredom in somebody.</li><li><strong>Definition 2:</strong> To make a hole through something.</li><li><strong>Definition 3:</strong> To make a hole with, or as if with, a boring instrument; to cut a circular hole by the rotary motion of a tool.<p><strong>Example:</strong> An insect bores into a tree.</p></li><li><strong>Definition 4:</strong> To form or enlarge (something) by means of a boring instrument or apparatus.<p><strong>Example:</strong> to bore a steam cylinder or a gun barrel; to bore a hole</p></li><li><strong>Definition 5:</strong> To make (a passage) by laborious effort, as in boring; to force a narrow and difficult passage through.<p><strong>Example:</strong> to bore one's way through a crowd</p></li><li><strong>Definition 6:</strong> To be pierced or penetrated by an instrument that cuts as it turns.<p><strong>Example:</strong> This timber does not bore well.</p></li><li><strong>Definition 7:</strong> To push forward in a certain direction with laborious effort.</li><li><strong>Definition 8:</strong> (of a horse) To shoot out the nose or toss it in the air.</li><li><strong>Definition 9:</strong> To fool; to trick.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Suffering from boredom; mildly annoyed and restless through having nothing to do</li><li><strong>Definition 2:</strong> Uninterested, without attention<p><strong>Example:</strong> The piano teacher's bored look indicated he wasn't paying much attention to his pupil's lackluster rendition of Mozart's Requiem</p></li><li><strong>Definition 3:</strong> Perforated by a hole or holes (through bioerosion or other)</li></ul></div></div>"
+description: Yes, BORED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- bared
+- boded
+- boked
+- boned
+- booed
+- boree
+- borek
+- borel
+- borer
+- bores
+- bowed
+- boxed
+anagrams:
+- borde
+- orbed
+- robed
+trap:
+  pattern: BO_ED
+  count: 8
+phonetic: "/bɔːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To inspire boredom in somebody.
+  - text: To make a hole through something.
+  - text: To make a hole with, or as if with, a boring instrument; to cut a circular
+      hole by the rotary motion of a tool.
+    example: An insect bores into a tree.
+  - text: To form or enlarge (something) by means of a boring instrument or apparatus.
+    example: to bore a steam cylinder or a gun barrel; to bore a hole
+  - text: To make (a passage) by laborious effort, as in boring; to force a narrow
+      and difficult passage through.
+    example: to bore one's way through a crowd
+  - text: To be pierced or penetrated by an instrument that cuts as it turns.
+    example: This timber does not bore well.
+  - text: To push forward in a certain direction with laborious effort.
+  - text: "(of a horse) To shoot out the nose or toss it in the air."
+  - text: To fool; to trick.
+- pos: adjective
+  defs:
+  - text: Suffering from boredom; mildly annoyed and restless through having nothing
+      to do
+  - text: Uninterested, without attention
+    example: The piano teacher's bored look indicated he wasn't paying much attention
+      to his pupil's lackluster rendition of Mozart's Requiem
+  - text: Perforated by a hole or holes (through bioerosion or other)
 ---
-

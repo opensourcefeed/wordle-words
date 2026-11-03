@@ -1,7 +1,36 @@
 ---
 layout: word
-title: pygmy
+title: Is PYGMY a Wordle Word?
+head_title: Is PYGMY a Wordle Word? Yes – Possible Answer & Meaning
 word: pygmy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɪɡmiː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (often capitalized) A member of one of various Ancient Equatorial African tribal peoples, notable for their very short stature.</li><li><strong>Definition 2:</strong> A member of a race of dwarfs.</li><li><strong>Definition 3:</strong> Any dwarfish person or thing.</li><li><strong>Definition 4:</strong> An insignificant person, at least in some respect.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating or belonging to the Pygmy people.</li><li><strong>Definition 2:</strong> Like a pygmy; unusually short or small for its kind.</li></ul></div></div>"
+description: Yes, PYGMY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels: []
+  unique_letters: 4
+  repeated:
+  - Y
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- pigmy
+phonetic: "/pɪɡmiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(often capitalized) A member of one of various Ancient Equatorial African
+      tribal peoples, notable for their very short stature."
+  - text: A member of a race of dwarfs.
+  - text: Any dwarfish person or thing.
+  - text: An insignificant person, at least in some respect.
+- pos: adjective
+  defs:
+  - text: Relating or belonging to the Pygmy people.
+  - text: Like a pygmy; unusually short or small for its kind.
 ---
-

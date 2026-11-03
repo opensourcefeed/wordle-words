@@ -1,7 +1,66 @@
 ---
 layout: word
-title: perfs
+title: Is PERFS a Wordle Word?
+head_title: Is PERFS a Wordle Word? Yes – Valid Guess & Meaning
 word: perfs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of perforating or the state of being perforated.</li><li><strong>Definition 2:</strong> Any opening in a solid object.</li><li><strong>Definition 3:</strong> An abnormal opening in an organ, such as a rupture.</li><li><strong>Definition 4:</strong> A series of holes punched through something in order to assist in separating parts.</li><li><strong>Definition 5:</strong> That portion of a surface that remains after an open disk is removed from it.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action.<p><strong>Example:</strong> the performance of an undertaking or a duty</p></li><li><strong>Definition 2:</strong> That which is performed or accomplished; a thing done or carried through; an achievement; a deed; an act; a feat; especially, an action of an elaborate or public character.</li><li><strong>Definition 3:</strong> A live show or concert.</li><li><strong>Definition 4:</strong> The amount of useful work accomplished estimated in terms of time needed, resources used, etc.<p><strong>Example:</strong> Better performance means more work accomplished in shorter time and/or using fewer resources.</p></li><li><strong>Definition 5:</strong> The actual use of language in concrete situations by native speakers of a language, as opposed to the system of linguistic knowledge they possess (competence), cf. :w:linguistic performance.</li></ul></div></div>"
+description: Yes, PERFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- kerfs
+- nerfs
+- pelfs
+- percs
+- peres
+- peris
+- perks
+- perls
+- perms
+- perns
+- perps
+- perts
+trap:
+  pattern: PER_S
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: The act of perforating or the state of being perforated.
+  - text: Any opening in a solid object.
+  - text: An abnormal opening in an organ, such as a rupture.
+  - text: A series of holes punched through something in order to assist in separating
+      parts.
+  - text: That portion of a surface that remains after an open disk is removed from
+      it.
+- pos: noun
+  defs:
+  - text: The act of performing; carrying into execution or action; execution; achievement;
+      accomplishment; representation by action.
+    example: the performance of an undertaking or a duty
+  - text: That which is performed or accomplished; a thing done or carried through;
+      an achievement; a deed; an act; a feat; especially, an action of an elaborate
+      or public character.
+  - text: A live show or concert.
+  - text: The amount of useful work accomplished estimated in terms of time needed,
+      resources used, etc.
+    example: Better performance means more work accomplished in shorter time and/or
+      using fewer resources.
+  - text: The actual use of language in concrete situations by native speakers of
+      a language, as opposed to the system of linguistic knowledge they possess (competence),
+      cf. :w:linguistic performance.
 ---
-

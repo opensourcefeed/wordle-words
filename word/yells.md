@@ -1,7 +1,53 @@
 ---
 layout: word
-title: yells
+title: Is YELLS a Wordle Word?
+head_title: Is YELLS a Wordle Word? Yes – Valid Guess & Meaning
 word: yells
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shout.</li><li><strong>Definition 2:</strong> A phrase to be shouted.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Shout; holler; make a loud sound with the voice.</li><li><strong>Definition 2:</strong> To convey by shouting<p><strong>Example:</strong> He yelled directions to the party from the car.</p></li><li><strong>Definition 3:</strong> To tell someone off (in a loud and angry manner)<p><strong>Example:</strong> If I come home late again, my dad is gonna yell at me.</p></li></ul></div></div>"
+description: Yes, YELLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- bells
+- cells
+- dells
+- fells
+- hells
+- jells
+- kells
+- mells
+- pells
+- sells
+- tells
+- vells
+trap:
+  pattern: _ELLS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: A shout.
+  - text: A phrase to be shouted.
+- pos: verb
+  defs:
+  - text: Shout; holler; make a loud sound with the voice.
+  - text: To convey by shouting
+    example: He yelled directions to the party from the car.
+  - text: To tell someone off (in a loud and angry manner)
+    example: If I come home late again, my dad is gonna yell at me.
 ---
-

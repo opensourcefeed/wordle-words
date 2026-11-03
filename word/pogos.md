@@ -1,7 +1,51 @@
 ---
 layout: word
-title: pogos
+title: Is POGOS a Wordle Word?
+head_title: Is POGOS a Wordle Word? Yes – Valid Guess & Meaning
 word: pogos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dance associated with the 1970s punk rock movement in which participants jump up and down on the spot in the manner of someone riding a pogo stick.</li><li><strong>Definition 2:</strong> The act of lifting the front wheel of the bicycle in the air and jumping up and down on the rear wheel while in a stationary position.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A corndog on a stick.</li></ul></div></div>"
+description: Yes, POGOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- fogos
+- gogos
+- hogos
+- logos
+- mogos
+- pegos
+- podos
+- polos
+- pomos
+- popos
+- povos
+anagrams:
+- goops
+trap:
+  pattern: _OGOS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A dance associated with the 1970s punk rock movement in which participants
+      jump up and down on the spot in the manner of someone riding a pogo stick.
+  - text: The act of lifting the front wheel of the bicycle in the air and jumping
+      up and down on the rear wheel while in a stationary position.
+- pos: noun
+  defs:
+  - text: A corndog on a stick.
 ---
-

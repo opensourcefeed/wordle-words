@@ -1,7 +1,67 @@
 ---
 layout: word
-title: bales
+title: Is BALES a Wordle Word?
+head_title: Is BALES a Wordle Word? Yes – Valid Guess & Meaning
 word: bales
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /beɪlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large fire, a conflagration or bonfire.</li><li><strong>Definition 2:</strong> A funeral pyre.</li><li><strong>Definition 3:</strong> A beacon-fire.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rounded bundle or package of goods in a cloth cover, and corded for storage or transportation.</li><li><strong>Definition 2:</strong> A bundle of compressed wool or hay, compacted for shipping and handling.</li><li><strong>Definition 3:</strong> A measurement of hay equal to 10 flakes. Approximately 70-90 lbs (32-41 kg).</li><li><strong>Definition 4:</strong> A measurement of paper equal to 10 reams.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove water from a boat with buckets etc.</li></ul></div></div>"
+description: Yes, BALES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- baler
+- babes
+- bakes
+- balas
+- balds
+- baled
+- balks
+- balls
+- balms
+- balus
+- banes
+- bares
+anagrams:
+- ables
+- baels
+- beals
+- blaes
+- blase
+- sable
+trap:
+  pattern: _ALES
+  count: 15
+phonetic: "/beɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large fire, a conflagration or bonfire.
+  - text: A funeral pyre.
+  - text: A beacon-fire.
+- pos: noun
+  defs:
+  - text: A rounded bundle or package of goods in a cloth cover, and corded for storage
+      or transportation.
+  - text: A bundle of compressed wool or hay, compacted for shipping and handling.
+  - text: A measurement of hay equal to 10 flakes. Approximately 70-90 lbs (32-41
+      kg).
+  - text: A measurement of paper equal to 10 reams.
+- pos: verb
+  defs:
+  - text: To remove water from a boat with buckets etc.
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: nacre
+title: Is NACRE a Wordle Word?
+head_title: Is NACRE a Wordle Word? Yes – Valid Guess & Meaning
 word: nacre
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈneɪkə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shellfish which contains mother-of-pearl.</li><li><strong>Definition 2:</strong> A pearly substance which lines the interior of many shells; mother-of-pearl.</li></ul></div></div>"
+description: Yes, NACRE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- nache
+- narre
+- sacre
+anagrams:
+- crane
+- caner
+- carne
+- crena
+- rance
+phonetic: "/ˈneɪkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shellfish which contains mother-of-pearl.
+  - text: A pearly substance which lines the interior of many shells; mother-of-pearl.
 ---
-

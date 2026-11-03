@@ -1,7 +1,52 @@
 ---
 layout: word
-title: faker
+title: Is FAKER a Wordle Word?
+head_title: Is FAKER a Wordle Word? Yes – Valid Guess & Meaning
 word: faker
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfeɪkɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who fakes something.</li><li><strong>Definition 2:</strong> An impostor or impersonator.</li><li><strong>Definition 3:</strong> A thief.</li><li><strong>Definition 4:</strong> A peddler of petty things.</li><li><strong>Definition 5:</strong> A workman who dresses things up.</li></ul></div></div>"
+description: Yes, FAKER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- baker
+- maker
+- taker
+- daker
+- facer
+- fader
+- faked
+- fakes
+- fakey
+- fakir
+- farer
+- faver
+anagrams:
+- freak
+trap:
+  pattern: _AKER
+  count: 12
+phonetic: "/ˈfeɪkɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who fakes something.
+  - text: An impostor or impersonator.
+  - text: A thief.
+  - text: A peddler of petty things.
+  - text: A workman who dresses things up.
 ---
-

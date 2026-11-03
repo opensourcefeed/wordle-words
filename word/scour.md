@@ -1,7 +1,57 @@
 ---
 layout: word
-title: scour
+title: Is SCOUR a Wordle Word?
+head_title: 'Is SCOUR a Wordle Word? Yes – Past Answer #333 & Meaning'
 word: scour
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The removal of sediment caused by swiftly moving water.<p><strong>Example:</strong> Bridge scour may scoop out scour holes and compromise the integrity of the structure.</p></li><li><strong>Definition 2:</strong> A place scoured out by running water, as in the bed of a stream below a waterfall.</li><li><strong>Definition 3:</strong> A place where wool is washed to remove grease and impurities prior to processing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To clean, polish, or wash something by rubbing and scrubbing it vigorously, frequently with an abrasive or cleaning agent.<p><strong>Example:</strong> He scoured the burnt food from the pan.</p></li><li><strong>Definition 2:</strong> To remove debris and dirt by purging; to sweep along or off (by a current of water).</li><li><strong>Definition 3:</strong> To clear the digestive tract by administering medication that induces defecation or vomiting; to purge.<p><strong>Example:</strong> to scour a horse</p></li><li><strong>Definition 4:</strong> To (cause livestock to) suffer from diarrhoea or dysentery.<p><strong>Example:</strong> If a lamb is scouring, do not delay treatment.</p></li><li><strong>Definition 5:</strong> To cleanse (without rubbing).</li></ul></div></div>"
+description: Yes, SCOUR is a valid Wordle word. It was the Wordle answer on May 18,
+  2022 (#333). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 18, 2022 (#333).
+past_answers:
+- date: '2022-05-18'
+  number: 333
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- scout
+- scaur
+- scoug
+- scoup
+- stour
+anagrams:
+- cours
+definitions:
+- pos: noun
+  defs:
+  - text: The removal of sediment caused by swiftly moving water.
+    example: Bridge scour may scoop out scour holes and compromise the integrity of
+      the structure.
+  - text: A place scoured out by running water, as in the bed of a stream below a
+      waterfall.
+  - text: A place where wool is washed to remove grease and impurities prior to processing.
+- pos: verb
+  defs:
+  - text: To clean, polish, or wash something by rubbing and scrubbing it vigorously,
+      frequently with an abrasive or cleaning agent.
+    example: He scoured the burnt food from the pan.
+  - text: To remove debris and dirt by purging; to sweep along or off (by a current
+      of water).
+  - text: To clear the digestive tract by administering medication that induces defecation
+      or vomiting; to purge.
+    example: to scour a horse
+  - text: To (cause livestock to) suffer from diarrhoea or dysentery.
+    example: If a lamb is scouring, do not delay treatment.
+  - text: To cleanse (without rubbing).
 ---
-

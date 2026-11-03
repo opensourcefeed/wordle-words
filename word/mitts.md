@@ -1,7 +1,44 @@
 ---
 layout: word
-title: mitts
+title: Is MITTS a Wordle Word?
+head_title: Is MITTS a Wordle Word? Yes – Valid Guess & Meaning
 word: mitts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mitten</li><li><strong>Definition 2:</strong> An oversized, protective glove such as an oven mitt or a baseball mitt.</li><li><strong>Definition 3:</strong> (especially in plural) A hand.</li></ul></div></div>"
+description: Yes, MITTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- bitts
+- ditts
+- fitts
+- matts
+- milts
+- mints
+- mists
+- mitas
+- mites
+- mitis
+- mitta
+- motts
+definitions:
+- pos: noun
+  defs:
+  - text: A mitten
+  - text: An oversized, protective glove such as an oven mitt or a baseball mitt.
+  - text: "(especially in plural) A hand."
 ---
-

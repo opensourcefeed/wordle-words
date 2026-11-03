@@ -1,7 +1,43 @@
 ---
 layout: word
-title: halal
+title: Is HALAL a Wordle Word?
+head_title: Is HALAL a Wordle Word? Yes – Valid Guess & Meaning
 word: halal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /həˈlæl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make halal.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Permissible, according to Muslim religious customs, to have or do.</li><li><strong>Definition 2:</strong> (of food) Fit to eat according to Muslim religious customs.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a halal manner; in accordance with Muslim religious customs.</li></ul></div></div>"
+description: Yes, HALAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- hadal
+- hamal
+- salal
+anagrams:
+- lahal
+phonetic: "/həˈlæl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make halal.
+- pos: adjective
+  defs:
+  - text: Permissible, according to Muslim religious customs, to have or do.
+  - text: "(of food) Fit to eat according to Muslim religious customs."
+- pos: adverb
+  defs:
+  - text: In a halal manner; in accordance with Muslim religious customs.
 ---
-

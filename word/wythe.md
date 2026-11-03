@@ -1,7 +1,43 @@
 ---
 layout: word
-title: wythe
+title: Is WYTHE a Wordle Word?
+head_title: Is WYTHE a Wordle Word? Yes – Valid Guess & Meaning
 word: wythe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /waɪθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A unit of thickness in masonry construction defined by the quantity of masonry units 4\" or greater.<p><strong>Example:</strong> That wall has to be at least three wythes of brick to support your load.</p></li></ul></div></div>"
+description: Yes, WYTHE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- hythe
+- kythe
+- lythe
+- rythe
+- sythe
+- tythe
+- withe
+anagrams:
+- thewy
+trap:
+  pattern: _YTHE
+  count: 7
+phonetic: "/waɪθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A unit of thickness in masonry construction defined by the quantity of masonry
+      units 4" or greater.
+    example: That wall has to be at least three wythes of brick to support your load.
 ---
-

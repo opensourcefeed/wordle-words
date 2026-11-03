@@ -1,7 +1,35 @@
 ---
 layout: word
-title: chemo
+title: Is CHEMO a Wordle Word?
+head_title: Is CHEMO a Wordle Word? Yes – Valid Guess & Meaning
 word: chemo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkiːməʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any chemical treatment intended to be therapeutic with respect to a disease state.</li><li><strong>Definition 2:</strong> (most common usage) chemical treatment to kill or halt the replication and/or spread of cancerous cells in a patient.</li></ul></div></div>"
+description: Yes, CHEMO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- chems
+- chimo
+phonetic: "/ˈkiːməʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any chemical treatment intended to be therapeutic with respect to a disease
+      state.
+  - text: "(most common usage) chemical treatment to kill or halt the replication
+      and/or spread of cancerous cells in a patient."
 ---
-

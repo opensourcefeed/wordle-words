@@ -1,7 +1,35 @@
 ---
 layout: word
-title: beano
+title: Is BEANO a Wordle Word?
+head_title: Is BEANO a Wordle Word? Yes – Valid Guess & Meaning
 word: beano
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbiːnəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A beanfeast; any noisy celebration, a party.</li><li><strong>Definition 2:</strong> Any home-made gas or indigestion remedy.</li></ul></div></div>"
+description: Yes, BEANO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- beans
+- beany
+phonetic: "/ˈbiːnəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A beanfeast; any noisy celebration, a party.
+  - text: Any home-made gas or indigestion remedy.
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: roust
+title: Is ROUST a Wordle Word?
+head_title: Is ROUST a Wordle Word? Yes – Valid Guess & Meaning
 word: roust
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A strong tide or current, especially in a narrow channel.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To rout out of bed; to rouse</li><li><strong>Definition 2:</strong> To harass, to treat in a rough way.</li><li><strong>Definition 3:</strong> To arrest</li><li><strong>Definition 4:</strong> To drive strongly</li></ul></div></div>"
+description: Yes, ROUST is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- joust
+- roast
+- roost
+- rouse
+- moust
+- noust
+- roist
+- rouet
+- royst
+anagrams:
+- torus
+- routs
+- stour
+- sutor
+- tours
+definitions:
+- pos: noun
+  defs:
+  - text: A strong tide or current, especially in a narrow channel.
+- pos: verb
+  defs:
+  - text: To rout out of bed; to rouse
+  - text: To harass, to treat in a rough way.
+  - text: To arrest
+  - text: To drive strongly
 ---
-

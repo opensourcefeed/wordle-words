@@ -1,7 +1,56 @@
 ---
 layout: word
-title: ailed
+title: Is AILED a Wordle Word?
+head_title: Is AILED a Wordle Word? Yes – Valid Guess & Meaning
 word: ailed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /eɪld/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause to suffer; to trouble, afflict. (Now chiefly in interrogative or indefinite constructions.)<p><strong>Example:</strong> Have some chicken soup. It's good for what ails you.</p></li><li><strong>Definition 2:</strong> To be ill; to suffer; to be troubled.</li></ul></div></div>"
+description: Yes, AILED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- abled
+- aided
+- aimed
+- aired
+- arled
+- axled
+- biled
+- filed
+- oiled
+- piled
+- riled
+- siled
+anagrams:
+- ideal
+- eliad
+- laide
+trap:
+  pattern: _ILED
+  count: 9
+phonetic: "/eɪld/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cause to suffer; to trouble, afflict. (Now chiefly in interrogative or
+      indefinite constructions.)
+    example: Have some chicken soup. It's good for what ails you.
+  - text: To be ill; to suffer; to be troubled.
 ---
-

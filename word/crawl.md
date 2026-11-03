@@ -1,7 +1,69 @@
 ---
 layout: word
-title: crawl
+title: Is CRAWL a Wordle Word?
+head_title: 'Is CRAWL a Wordle Word? Yes – Past Answer #1301 & Meaning'
 word: crawl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹɔl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of moving slowly on hands and knees etc, or with frequent stops.</li><li><strong>Definition 2:</strong> A rapid swimming stroke with alternate overarm strokes and a fluttering kick.</li><li><strong>Definition 3:</strong> A very slow pace.<p><strong>Example:</strong> My computer has slowed down to a crawl since I installed that software package.</p></li><li><strong>Definition 4:</strong> A piece of horizontally or vertically scrolling text overlaid on the main image.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To creep; to move slowly on hands and knees, or by dragging the body along the ground.<p><strong>Example:</strong> Clutching my wounded side, I crawled back to the trench.</p></li><li><strong>Definition 2:</strong> To move forward slowly, with frequent stops.<p><strong>Example:</strong> The rush-hour traffic crawled around the bypass.</p></li><li><strong>Definition 3:</strong> To act in a servile manner.<p><strong>Example:</strong> Don't come crawling to me with your useless apologies!</p></li><li><strong>Definition 4:</strong> (with \"with\") See crawl with.</li><li><strong>Definition 5:</strong> To feel a swarming sensation.<p><strong>Example:</strong> The horrible sight made my skin crawl.</p></li><li><strong>Definition 6:</strong> To swim using the crawl stroke.<p><strong>Example:</strong> I think I'll crawl the next hundred metres.</p></li><li><strong>Definition 7:</strong> To move over an area on hands and knees.<p><strong>Example:</strong> The baby crawled the entire second floor.</p></li><li><strong>Definition 8:</strong> To visit while becoming inebriated.<p><strong>Example:</strong> They crawled the downtown bars.</p></li><li><strong>Definition 9:</strong> To visit files or web sites in order to index them for searching.<p><strong>Example:</strong> Yahoo Search has updated its Slurp Crawler to crawl web sites faster and more efficiently.</p></li></ul></div></div>"
+description: Yes, CRAWL is a valid Wordle word. It was the Wordle answer on January
+  10, 2025 (#1301). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 10, 2025 (#1301).
+past_answers:
+- date: '2025-01-10'
+  number: 1301
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- brawl
+- drawl
+- trawl
+- chawl
+- craal
+- craws
+- crowl
+- wrawl
+phonetic: "/kɹɔl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of moving slowly on hands and knees etc, or with frequent stops.
+  - text: A rapid swimming stroke with alternate overarm strokes and a fluttering
+      kick.
+  - text: A very slow pace.
+    example: My computer has slowed down to a crawl since I installed that software
+      package.
+  - text: A piece of horizontally or vertically scrolling text overlaid on the main
+      image.
+- pos: verb
+  defs:
+  - text: To creep; to move slowly on hands and knees, or by dragging the body along
+      the ground.
+    example: Clutching my wounded side, I crawled back to the trench.
+  - text: To move forward slowly, with frequent stops.
+    example: The rush-hour traffic crawled around the bypass.
+  - text: To act in a servile manner.
+    example: Don't come crawling to me with your useless apologies!
+  - text: (with "with") See crawl with.
+  - text: To feel a swarming sensation.
+    example: The horrible sight made my skin crawl.
+  - text: To swim using the crawl stroke.
+    example: I think I'll crawl the next hundred metres.
+  - text: To move over an area on hands and knees.
+    example: The baby crawled the entire second floor.
+  - text: To visit while becoming inebriated.
+    example: They crawled the downtown bars.
+  - text: To visit files or web sites in order to index them for searching.
+    example: Yahoo Search has updated its Slurp Crawler to crawl web sites faster
+      and more efficiently.
 ---
-

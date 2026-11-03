@@ -1,7 +1,43 @@
 ---
 layout: word
-title: hoary
+title: Is HOARY a Wordle Word?
+head_title: Is HOARY a Wordle Word? Yes – Valid Guess & Meaning
 word: hoary
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɔː.ɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> White, whitish, or greyish-white.</li><li><strong>Definition 2:</strong> White or grey with age.<p><strong>Example:</strong> The old man bowed his hoary head in acquiescence.</p></li><li><strong>Definition 3:</strong> Of a pale silvery grey.</li><li><strong>Definition 4:</strong> Covered with short, dense, greyish white hairs; canescent.</li><li><strong>Definition 5:</strong> Remote in time past.</li><li><strong>Definition 6:</strong> Moldy; mossy; musty.</li><li><strong>Definition 7:</strong> Old or old-fashioned.</li></ul></div></div>"
+description: Yes, HOARY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- hoard
+- goary
+- hoagy
+- hoars
+- roary
+phonetic: "/hɔː.ɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: White, whitish, or greyish-white.
+  - text: White or grey with age.
+    example: The old man bowed his hoary head in acquiescence.
+  - text: Of a pale silvery grey.
+  - text: Covered with short, dense, greyish white hairs; canescent.
+  - text: Remote in time past.
+  - text: Moldy; mossy; musty.
+  - text: Old or old-fashioned.
 ---
-

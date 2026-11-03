@@ -1,7 +1,38 @@
 ---
 layout: word
-title: fondu
+title: Is FONDU a Wordle Word?
+head_title: Is FONDU a Wordle Word? Yes – Valid Guess & Meaning
 word: fondu
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The graded shift from one color into another.</li><li><strong>Definition 2:</strong> Involving a lowering of the body by bending the knee of the supporting leg.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dish made of melted cheese, chocolate etc., or of a boiling liquid into which food can be dipped.</li></ul></div></div>"
+description: Yes, FONDU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- fonda
+- fonds
+anagrams:
+- found
+- fundo
+definitions:
+- pos: noun
+  defs:
+  - text: The graded shift from one color into another.
+  - text: Involving a lowering of the body by bending the knee of the supporting leg.
+- pos: noun
+  defs:
+  - text: A dish made of melted cheese, chocolate etc., or of a boiling liquid into
+      which food can be dipped.
 ---
-

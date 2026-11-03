@@ -1,7 +1,37 @@
 ---
 layout: word
-title: amped
+title: Is AMPED a Wordle Word?
+head_title: Is AMPED a Wordle Word? Yes – Valid Guess & Meaning
 word: amped
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /æmpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (usually with up) To amplify.<p><strong>Example:</strong> He asked the disk jockey to amp it up.</p></li><li><strong>Definition 2:</strong> (usually with up) To excite.</li><li><strong>Definition 3:</strong> (usually with up) To intensify or increase.<p><strong>Example:</strong> 2014, Andy Paul, Amp Up Your Sales, AMACOM Books</p></li></ul></div></div>"
+description: Yes, AMPED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- imped
+- umped
+phonetic: "/æmpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(usually with up) To amplify."
+    example: He asked the disk jockey to amp it up.
+  - text: "(usually with up) To excite."
+  - text: "(usually with up) To intensify or increase."
+    example: 2014, Andy Paul, Amp Up Your Sales, AMACOM Books
 ---
-

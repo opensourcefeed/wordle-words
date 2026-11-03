@@ -1,7 +1,43 @@
 ---
 layout: word
-title: parol
+title: Is PAROL a Wordle Word?
+head_title: Is PAROL a Wordle Word? Yes – Valid Guess & Meaning
 word: parol
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpæɹ.əl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A word; an oral utterance.</li><li><strong>Definition 2:</strong> Oral declaration; word of mouth.</li><li><strong>Definition 3:</strong> A writing not under seal.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Word of mouth.</li><li><strong>Definition 2:</strong> Verbal, oral, informal.</li></ul></div></div>"
+description: Yes, PAROL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - O
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- carol
+anagrams:
+- polar
+- poral
+- proal
+phonetic: "/ˈpæɹ.əl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A word; an oral utterance.
+  - text: Oral declaration; word of mouth.
+  - text: A writing not under seal.
+- pos: adjective
+  defs:
+  - text: Word of mouth.
+  - text: Verbal, oral, informal.
 ---
-

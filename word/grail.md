@@ -1,7 +1,47 @@
 ---
 layout: word
-title: grail
+title: Is GRAIL a Wordle Word?
+head_title: 'Is GRAIL a Wordle Word? Yes – Past Answer #863 & Meaning'
 word: grail
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹeɪɫ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The Holy Grail.</li><li><strong>Definition 2:</strong> The object of an extended or difficult quest.http//www.merriam-webster.com/dictionary/grail<p><strong>Example:</strong> Becoming an astronaut was his grail.</p></li></ul></div></div>"
+description: Yes, GRAIL is a valid Wordle word. It was the Wordle answer on October
+  30, 2023 (#863). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 30, 2023 (#863).
+past_answers:
+- date: '2023-10-30'
+  number: 863
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- frail
+- grain
+- trail
+- brail
+- drail
+- graal
+- graip
+anagrams:
+- argil
+- glair
+phonetic: "/ɡɹeɪɫ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The Holy Grail.
+  - text: The object of an extended or difficult quest.http//www.merriam-webster.com/dictionary/grail
+    example: Becoming an astronaut was his grail.
 ---
-

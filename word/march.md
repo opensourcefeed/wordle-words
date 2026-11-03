@@ -1,7 +1,55 @@
 ---
 layout: word
-title: march
+title: Is MARCH a Wordle Word?
+head_title: 'Is MARCH a Wordle Word? Yes – Past Answer #651 & Meaning'
 word: march
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɑːtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.</li><li><strong>Definition 2:</strong> A political rally or parade</li><li><strong>Definition 3:</strong> Any song in the genre of music written for marching (see Wikipedia's article on this type of music)</li><li><strong>Definition 4:</strong> Steady forward movement or progression.<p><strong>Example:</strong> the march of time</p></li><li><strong>Definition 5:</strong> (euchre) The feat of taking all the tricks of a hand.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To walk with long, regular strides, as a soldier does.</li><li><strong>Definition 2:</strong> To cause someone to walk somewhere.</li><li><strong>Definition 3:</strong> To go to war; to make military advances.</li><li><strong>Definition 4:</strong> To make steady progress.</li></ul></div></div>"
+description: Yes, MARCH is a valid Wordle word. It was the Wordle answer on April
+  1, 2023 (#651). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 1, 2023 (#651).
+past_answers:
+- date: '2023-04-01'
+  number: 651
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- marsh
+- match
+- larch
+- marah
+- marcs
+- merch
+- mirch
+- parch
+anagrams:
+- charm
+phonetic: "/mɑːtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A formal, rhythmic way of walking, used especially by soldiers, bands and
+      in ceremonies.
+  - text: A political rally or parade
+  - text: Any song in the genre of music written for marching (see Wikipedia's article
+      on this type of music)
+  - text: Steady forward movement or progression.
+    example: the march of time
+  - text: "(euchre) The feat of taking all the tricks of a hand."
+- pos: verb
+  defs:
+  - text: To walk with long, regular strides, as a soldier does.
+  - text: To cause someone to walk somewhere.
+  - text: To go to war; to make military advances.
+  - text: To make steady progress.
 ---
-

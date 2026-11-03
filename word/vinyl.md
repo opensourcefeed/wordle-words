@@ -1,7 +1,43 @@
 ---
 layout: word
-title: vinyl
+title: Is VINYL a Wordle Word?
+head_title: 'Is VINYL a Wordle Word? Yes – Past Answer #1234 & Meaning'
 word: vinyl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvaɪ.nəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The univalent radical CH2=CH−, derived from ethylene.</li><li><strong>Definition 2:</strong> Any of various compounds and substances containing the vinyl radical, especially various tough, flexible, shiny plastics.</li><li><strong>Definition 3:</strong> Phonograph records as a medium.<p><strong>Example:</strong> Many DJs prefer vinyl to CDs.</p></li><li><strong>Definition 4:</strong> A phonograph record.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Containing the vinyl radical.</li><li><strong>Definition 2:</strong> Made of polyvinyl chloride.</li><li><strong>Definition 3:</strong> Pertaining to a phonograph record.</li></ul></div></div>"
+description: Yes, VINYL is a valid Wordle word. It was the Wordle answer on November
+  4, 2024 (#1234). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 4, 2024 (#1234).
+past_answers:
+- date: '2024-11-04'
+  number: 1234
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- vinal
+phonetic: "/ˈvaɪ.nəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The univalent radical CH2=CH−, derived from ethylene.
+  - text: Any of various compounds and substances containing the vinyl radical, especially
+      various tough, flexible, shiny plastics.
+  - text: Phonograph records as a medium.
+    example: Many DJs prefer vinyl to CDs.
+  - text: A phonograph record.
+- pos: adjective
+  defs:
+  - text: Containing the vinyl radical.
+  - text: Made of polyvinyl chloride.
+  - text: Pertaining to a phonograph record.
 ---
-

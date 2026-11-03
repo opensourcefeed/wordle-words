@@ -1,7 +1,42 @@
 ---
 layout: word
-title: soapy
+title: Is SOAPY a Wordle Word?
+head_title: Is SOAPY a Wordle Word? Yes – Possible Answer & Meaning
 word: soapy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsəʊpi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling soap.<p><strong>Example:</strong> a soapy taste</p></li><li><strong>Definition 2:</strong> Resembling a soap opera.</li><li><strong>Definition 3:</strong> Full of soap.<p><strong>Example:</strong> soapy water</p></li><li><strong>Definition 4:</strong> Covered in soap.<p><strong>Example:</strong> His skin was still soapy after the shower.</p></li><li><strong>Definition 5:</strong> Committing or involving flattery.</li></ul></div></div>"
+description: Yes, SOAPY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- soaps
+- soppy
+- soupy
+anagrams:
+- poyas
+phonetic: "/ˈsəʊpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling soap.
+    example: a soapy taste
+  - text: Resembling a soap opera.
+  - text: Full of soap.
+    example: soapy water
+  - text: Covered in soap.
+    example: His skin was still soapy after the shower.
+  - text: Committing or involving flattery.
 ---
-

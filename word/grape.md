@@ -1,7 +1,70 @@
 ---
 layout: word
-title: grape
+title: Is GRAPE a Wordle Word?
+head_title: 'Is GRAPE a Wordle Word? Yes – Past Answer #1863 & Meaning'
 word: grape
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹeɪp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small, round, smooth-skinned edible fruit, usually purple, red, or green, that grows in bunches on vines of genus Vitis.</li><li><strong>Definition 2:</strong> A woody vine that bears clusters of grapes; a grapevine; of genus Vitis.</li><li><strong>Definition 3:</strong> A dark purplish-red colour, the colour of many grapes.</li><li><strong>Definition 4:</strong> Grapeshot.</li><li><strong>Definition 5:</strong> A mangy tumour on a horse's leg.</li><li><strong>Definition 6:</strong> A person's head.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pick grapes.</li><li><strong>Definition 2:</strong> (of livestock) To develop tubercules as a result of tuberculosis.</li><li><strong>Definition 3:</strong> To develop a texture with small grape-like clusters of a contaminant or foreign substance.</li><li><strong>Definition 4:</strong> (north) To grope.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Containing grapes or having a grape flavor.</li><li><strong>Definition 2:</strong> Of a dark purplish red colour.</li></ul></div></div>"
+description: Yes, GRAPE is a valid Wordle word. It was the Wordle answer on July 26,
+  2026 (#1863). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 26, 2026 (#1863).
+past_answers:
+- date: '2026-07-26'
+  number: 1863
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- drape
+- grace
+- grade
+- graph
+- grate
+- grave
+- graze
+- gripe
+- grope
+- crape
+- frape
+- grame
+anagrams:
+- gaper
+- pager
+- parge
+trap:
+  pattern: GRA_E
+  count: 7
+phonetic: "/ɡɹeɪp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small, round, smooth-skinned edible fruit, usually purple, red, or green,
+      that grows in bunches on vines of genus Vitis.
+  - text: A woody vine that bears clusters of grapes; a grapevine; of genus Vitis.
+  - text: A dark purplish-red colour, the colour of many grapes.
+  - text: Grapeshot.
+  - text: A mangy tumour on a horse's leg.
+  - text: A person's head.
+- pos: verb
+  defs:
+  - text: To pick grapes.
+  - text: "(of livestock) To develop tubercules as a result of tuberculosis."
+  - text: To develop a texture with small grape-like clusters of a contaminant or
+      foreign substance.
+  - text: "(north) To grope."
+- pos: adjective
+  defs:
+  - text: Containing grapes or having a grape flavor.
+  - text: Of a dark purplish red colour.
 ---
-

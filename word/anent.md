@@ -1,7 +1,44 @@
 ---
 layout: word
-title: anent
+title: Is ANENT a Wordle Word?
+head_title: Is ANENT a Wordle Word? Yes – Valid Guess & Meaning
 word: anent
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈnɛnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Concerning, with regard to, about, in respect to, as to, insofar as, inasmuch as., apropos</li><li><strong>Definition 2:</strong> In the opinion or judgment of.</li><li><strong>Definition 3:</strong> Against, in front of, fronting; before; opposite; over against, on the other side.</li><li><strong>Definition 4:</strong> In a line with; side by side with; on a level with.</li></ul></div></div>"
+description: Yes, ANENT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - A
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- agent
+- ahent
+- ament
+anagrams:
+- nante
+- neant
+- nenta
+phonetic: "/əˈnɛnt/"
+definitions:
+- pos: preposition
+  defs:
+  - text: Concerning, with regard to, about, in respect to, as to, insofar as, inasmuch
+      as., apropos
+  - text: In the opinion or judgment of.
+  - text: Against, in front of, fronting; before; opposite; over against, on the other
+      side.
+  - text: In a line with; side by side with; on a level with.
 ---
-

@@ -1,7 +1,67 @@
 ---
 layout: word
-title: rawer
+title: Is RAWER a Wordle Word?
+head_title: Is RAWER a Wordle Word? Yes – Valid Guess & Meaning
 word: rawer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of food) Not cooked.</li><li><strong>Definition 2:</strong> (of materials, products, etc.) Not treated or processed; in a natural state, unrefined, unprocessed.<p><strong>Example:</strong> raw cane sugar</p></li><li><strong>Definition 3:</strong> Having had the skin removed or abraded; chafed, tender; exposed, lacerated.<p><strong>Example:</strong> a raw wound</p></li><li><strong>Definition 4:</strong> New or inexperienced.<p><strong>Example:</strong> a raw beginner</p></li><li><strong>Definition 5:</strong> Crude in quality; rough, uneven, unsophisticated.<p><strong>Example:</strong> a raw voice</p></li><li><strong>Definition 6:</strong> (of data) Uncorrected, without analysis.</li><li><strong>Definition 7:</strong> (of weather) Unpleasantly cold or damp.<p><strong>Example:</strong> a raw wind</p></li><li><strong>Definition 8:</strong> (of an emotion, personality, etc.) Unmasked, undisguised, strongly expressed<p><strong>Example:</strong> raw emotion</p></li><li><strong>Definition 9:</strong> Candid in a representation of unpleasant facts, conditions, etc.<p><strong>Example:</strong> a raw description of the American political arena</p></li><li><strong>Definition 10:</strong> (of language) Unrefined, crude, or insensitive, especially with reference to sexual matters</li><li><strong>Definition 11:</strong> Not covered; bare; bald.</li></ul></div></div>"
+description: Yes, RAWER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- racer
+- rarer
+- rower
+- lawer
+- pawer
+- rager
+- raker
+- raper
+- raser
+- rater
+- raver
+- razer
+anagrams:
+- warre
+trap:
+  pattern: RA_ER
+  count: 10
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of food) Not cooked."
+  - text: "(of materials, products, etc.) Not treated or processed; in a natural state,
+      unrefined, unprocessed."
+    example: raw cane sugar
+  - text: Having had the skin removed or abraded; chafed, tender; exposed, lacerated.
+    example: a raw wound
+  - text: New or inexperienced.
+    example: a raw beginner
+  - text: Crude in quality; rough, uneven, unsophisticated.
+    example: a raw voice
+  - text: "(of data) Uncorrected, without analysis."
+  - text: "(of weather) Unpleasantly cold or damp."
+    example: a raw wind
+  - text: "(of an emotion, personality, etc.) Unmasked, undisguised, strongly expressed"
+    example: raw emotion
+  - text: Candid in a representation of unpleasant facts, conditions, etc.
+    example: a raw description of the American political arena
+  - text: "(of language) Unrefined, crude, or insensitive, especially with reference
+      to sexual matters"
+  - text: Not covered; bare; bald.
 ---
-

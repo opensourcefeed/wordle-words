@@ -1,7 +1,64 @@
 ---
 layout: word
-title: squat
+title: Is SQUAT a Wordle Word?
+head_title: 'Is SQUAT a Wordle Word? Yes – Past Answer #622 & Meaning'
 word: squat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Nothing; nothing whatsoever.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A position assumed by bending deeply at the knees while resting on one's feet.</li><li><strong>Definition 2:</strong> (exercise) Any of various modes of callisthenic exercises performed by moving the body and bending at least one knee.</li><li><strong>Definition 3:</strong> A building occupied without permission, as practiced by a squatter.</li><li><strong>Definition 4:</strong> A place of concealment in which a hare spends time when inactive, especially during the day; a form.</li><li><strong>Definition 5:</strong> A toilet used by squatting as opposed to sitting; a squat toilet.</li><li><strong>Definition 6:</strong> A sudden or crushing fall.</li><li><strong>Definition 7:</strong> A small vein of ore.</li><li><strong>Definition 8:</strong> A mineral consisting of tin ore and spar.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bend deeply at the knees while resting on one's feet.</li><li><strong>Definition 2:</strong> (exercise) To perform one or more callisthenic exercises by moving the body and bending at least one knee.</li><li><strong>Definition 3:</strong> To occupy or reside in a place without the permission of the owner.</li><li><strong>Definition 4:</strong> To sit close to the ground; to cower; to stoop, or lie close, to escape observation, as a partridge or rabbit.</li><li><strong>Definition 5:</strong> To bruise or flatten by a fall; to squash.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relatively short or low, and thick or broad.</li><li><strong>Definition 2:</strong> Sitting on the hams or heels; sitting close to the ground; cowering; crouching.</li></ul></div></div>"
+description: Yes, SQUAT is a valid Wordle word. It was the Wordle answer on March
+  3, 2023 (#622). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 3, 2023 (#622).
+past_answers:
+- date: '2023-03-03'
+  number: 622
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- squad
+- squab
+- squit
+anagrams:
+- quats
+definitions:
+- pos: noun
+  defs:
+  - text: Nothing; nothing whatsoever.
+- pos: noun
+  defs:
+  - text: A position assumed by bending deeply at the knees while resting on one's
+      feet.
+  - text: "(exercise) Any of various modes of callisthenic exercises performed by
+      moving the body and bending at least one knee."
+  - text: A building occupied without permission, as practiced by a squatter.
+  - text: A place of concealment in which a hare spends time when inactive, especially
+      during the day; a form.
+  - text: A toilet used by squatting as opposed to sitting; a squat toilet.
+  - text: A sudden or crushing fall.
+  - text: A small vein of ore.
+  - text: A mineral consisting of tin ore and spar.
+- pos: verb
+  defs:
+  - text: To bend deeply at the knees while resting on one's feet.
+  - text: "(exercise) To perform one or more callisthenic exercises by moving the
+      body and bending at least one knee."
+  - text: To occupy or reside in a place without the permission of the owner.
+  - text: To sit close to the ground; to cower; to stoop, or lie close, to escape
+      observation, as a partridge or rabbit.
+  - text: To bruise or flatten by a fall; to squash.
+- pos: adjective
+  defs:
+  - text: Relatively short or low, and thick or broad.
+  - text: Sitting on the hams or heels; sitting close to the ground; cowering; crouching.
 ---
-

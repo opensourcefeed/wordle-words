@@ -1,7 +1,59 @@
 ---
 layout: word
-title: couth
+title: Is COUTH a Wordle Word?
+head_title: Is COUTH a Wordle Word? Yes – Valid Guess & Meaning
 word: couth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (auxiliary verb, defective) To know how to; to be able to.<p><strong>Example:</strong> She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?</p></li><li><strong>Definition 2:</strong> (modal auxiliary verb, defective) May; to be permitted or enabled to.<p><strong>Example:</strong> You can go outside and play when you're finished with your homework.   Can I use your pen?</p></li><li><strong>Definition 3:</strong> (modal auxiliary verb, defective) To have the potential to; be possible.<p><strong>Example:</strong> Animals can experience emotions.</p></li><li><strong>Definition 4:</strong> (auxiliary verb, defective) Used with verbs of perception.<p><strong>Example:</strong> Can you hear that?.</p></li><li><strong>Definition 5:</strong> To know.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Familiar, known; well-known, renowned.</li><li><strong>Definition 2:</strong> Variant of couthie.</li></ul></div></div>"
+description: Yes, COUTH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- couch
+- cough
+- mouth
+- south
+- youth
+- couta
+- fouth
+- routh
+anagrams:
+- touch
+- chout
+- oucht
+trap:
+  pattern: _OUTH
+  count: 6
+phonetic: "/kuːθ/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(auxiliary verb, defective) To know how to; to be able to."
+    example: She can speak English, French, and German.   I can play football.   Can
+      you remember your fifth birthday?
+  - text: "(modal auxiliary verb, defective) May; to be permitted or enabled to."
+    example: You can go outside and play when you're finished with your homework.  
+      Can I use your pen?
+  - text: "(modal auxiliary verb, defective) To have the potential to; be possible."
+    example: Animals can experience emotions.
+  - text: "(auxiliary verb, defective) Used with verbs of perception."
+    example: Can you hear that?.
+  - text: To know.
+- pos: adjective
+  defs:
+  - text: Familiar, known; well-known, renowned.
+  - text: Variant of couthie.
 ---
-

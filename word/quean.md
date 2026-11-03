@@ -1,7 +1,39 @@
 ---
 layout: word
-title: quean
+title: Is QUEAN a Wordle Word?
+head_title: Is QUEAN a Wordle Word? Yes – Valid Guess & Meaning
 word: quean
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kwiːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A woman, now especially an impudent or disreputable woman; a prostitute.</li><li><strong>Definition 2:</strong> A young woman, a girl; a daughter.</li></ul></div></div>"
+description: Yes, QUEAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare:
+  - Q
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- queen
+- quern
+- queyn
+- quran
+anagrams:
+- quena
+phonetic: "/kwiːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A woman, now especially an impudent or disreputable woman; a prostitute.
+  - text: A young woman, a girl; a daughter.
 ---
-

@@ -1,7 +1,60 @@
 ---
 layout: word
-title: cared
+title: Is CARED a Wordle Word?
+head_title: Is CARED a Wordle Word? Yes – Valid Guess & Meaning
 word: cared
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɛəd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be concerned (about), to have an interest (in); to feel concern (about).<p><strong>Example:</strong> \"She doesn't care what you think.\" \"I don't care, I'm still going.\"</p></li><li><strong>Definition 2:</strong> (polite) To want, to desire; to like; to be inclined towards.<p><strong>Example:</strong> I don't care to hear your opinion.</p></li><li><strong>Definition 3:</strong> (with for) To look after or look out for.<p><strong>Example:</strong> He cared for his mother while she was sick.</p></li><li><strong>Definition 4:</strong> To mind; to object.</li></ul></div></div>"
+description: Yes, CARED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- bared
+- caaed
+- caged
+- caked
+- caned
+- caped
+- carer
+- cares
+- caret
+- carex
+- cased
+- caved
+anagrams:
+- cedar
+- acred
+- arced
+- cadre
+- ecard
+- raced
+trap:
+  pattern: _ARED
+  count: 12
+phonetic: "/kɛəd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To be concerned (about), to have an interest (in); to feel concern (about).
+    example: '"She doesn''t care what you think." "I don''t care, I''m still going."'
+  - text: "(polite) To want, to desire; to like; to be inclined towards."
+    example: I don't care to hear your opinion.
+  - text: "(with for) To look after or look out for."
+    example: He cared for his mother while she was sick.
+  - text: To mind; to object.
 ---
-

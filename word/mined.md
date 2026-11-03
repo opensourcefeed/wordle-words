@@ -1,7 +1,58 @@
 ---
 layout: word
-title: mined
+title: Is MINED a Wordle Word?
+head_title: Is MINED a Wordle Word? Yes – Valid Guess & Meaning
 word: mined
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /maɪnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove (ore) from the ground.</li><li><strong>Definition 2:</strong> To dig into, for ore or metal.</li><li><strong>Definition 3:</strong> To sow mines (the explosive devices) in (an area).</li><li><strong>Definition 4:</strong> To damage (a vehicle or ship) with a mine (an explosive device).</li><li><strong>Definition 5:</strong> To dig a tunnel or hole; to burrow in the earth.</li><li><strong>Definition 6:</strong> To dig away, or otherwise remove, the substratum or foundation of; to lay a mine under; to sap; to undermine.</li><li><strong>Definition 7:</strong> (by extension) To ruin or destroy by slow degrees or secret means.</li><li><strong>Definition 8:</strong> To pick one's nose.</li><li><strong>Definition 9:</strong> To earn new units of cryptocurrency by doing certain calculations.</li></ul></div></div>"
+description: Yes, MINED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- miner
+- dined
+- fined
+- lined
+- maned
+- mened
+- miked
+- mimed
+- mines
+- mired
+- mixed
+- pined
+anagrams:
+- denim
+- medin
+trap:
+  pattern: _INED
+  count: 9
+phonetic: "/maɪnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To remove (ore) from the ground.
+  - text: To dig into, for ore or metal.
+  - text: To sow mines (the explosive devices) in (an area).
+  - text: To damage (a vehicle or ship) with a mine (an explosive device).
+  - text: To dig a tunnel or hole; to burrow in the earth.
+  - text: To dig away, or otherwise remove, the substratum or foundation of; to lay
+      a mine under; to sap; to undermine.
+  - text: "(by extension) To ruin or destroy by slow degrees or secret means."
+  - text: To pick one's nose.
+  - text: To earn new units of cryptocurrency by doing certain calculations.
 ---
-

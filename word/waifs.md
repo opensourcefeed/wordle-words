@@ -1,7 +1,48 @@
 ---
 layout: word
-title: waifs
+title: Is WAIFS a Wordle Word?
+head_title: Is WAIFS a Wordle Word? Yes – Valid Guess & Meaning
 word: waifs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A castaway; a homeless child.</li><li><strong>Definition 2:</strong> (of a plant outside its native range) A plant that has been introduced but is not persistently naturalized.</li><li><strong>Definition 3:</strong> Goods found of which the owner is not known; originally, such goods as a pursued thief threw away to prevent being apprehended, which belonged to the king unless the owner made pursuit of the felon, took him, and brought him to justice.</li><li><strong>Definition 4:</strong> Hence, anything found, or without an owner; that which comes along, as it were, by chance.</li></ul></div></div>"
+description: Yes, WAIFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- kaifs
+- naifs
+- waffs
+- waift
+- wails
+- wains
+- wairs
+- waits
+- wakfs
+- waqfs
+definitions:
+- pos: noun
+  defs:
+  - text: A castaway; a homeless child.
+  - text: "(of a plant outside its native range) A plant that has been introduced
+      but is not persistently naturalized."
+  - text: Goods found of which the owner is not known; originally, such goods as a
+      pursued thief threw away to prevent being apprehended, which belonged to the
+      king unless the owner made pursuit of the felon, took him, and brought him to
+      justice.
+  - text: Hence, anything found, or without an owner; that which comes along, as it
+      were, by chance.
 ---
-

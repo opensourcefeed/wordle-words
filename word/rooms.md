@@ -1,7 +1,72 @@
 ---
 layout: word
-title: rooms
+title: Is ROOMS a Wordle Word?
+head_title: Is ROOMS a Wordle Word? Yes – Valid Guess & Meaning
 word: rooms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹuːmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Opportunity or scope (to do something).</li><li><strong>Definition 2:</strong> Space for something, or to carry out an activity.</li><li><strong>Definition 3:</strong> A particular portion of space.</li><li><strong>Definition 4:</strong> Sufficient space for or to do something.</li><li><strong>Definition 5:</strong> A space between the timbers of a ship's frame.</li><li><strong>Definition 6:</strong> Place; stead.</li><li><strong>Definition 7:</strong> A separate part of a building, enclosed by walls, a floor and a ceiling.</li><li><strong>Definition 8:</strong> (with possessive pronoun) (One's) bedroom.<p><strong>Example:</strong> Go to your room!</p></li><li><strong>Definition 9:</strong> (in the plural) A set of rooms inhabited by someone; one's lodgings.</li><li><strong>Definition 10:</strong> (always in the singular, metonymy) The people in a room.<p><strong>Example:</strong> The room was on its feet.</p></li><li><strong>Definition 11:</strong> An area for working in a coal mine.</li><li><strong>Definition 12:</strong> A portion of a cave that is wider than a passage.</li><li><strong>Definition 13:</strong> A IRC or chat room.<p><strong>Example:</strong> Some users may not be able to access the AOL room.</p></li><li><strong>Definition 14:</strong> Place or position in society; office; rank; post, sometimes when vacated by its former occupant.</li><li><strong>Definition 15:</strong> Furniture sufficient to furnish a room.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reside, especially as a boarder or tenant.<p><strong>Example:</strong> Doctor Watson roomed with Sherlock Holmes at Baker Street.</p></li><li><strong>Definition 2:</strong> To assign to a room; to allocate a room to.</li></ul></div></div>"
+description: Yes, ROOMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- roomy
+- booms
+- cooms
+- dooms
+- looms
+- roams
+- roods
+- roofs
+- rooks
+- roons
+- roops
+- roots
+anagrams:
+- moors
+- smoor
+trap:
+  pattern: _OOMS
+  count: 8
+phonetic: "/ɹuːmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Opportunity or scope (to do something).
+  - text: Space for something, or to carry out an activity.
+  - text: A particular portion of space.
+  - text: Sufficient space for or to do something.
+  - text: A space between the timbers of a ship's frame.
+  - text: Place; stead.
+  - text: A separate part of a building, enclosed by walls, a floor and a ceiling.
+  - text: "(with possessive pronoun) (One's) bedroom."
+    example: Go to your room!
+  - text: "(in the plural) A set of rooms inhabited by someone; one's lodgings."
+  - text: "(always in the singular, metonymy) The people in a room."
+    example: The room was on its feet.
+  - text: An area for working in a coal mine.
+  - text: A portion of a cave that is wider than a passage.
+  - text: A IRC or chat room.
+    example: Some users may not be able to access the AOL room.
+  - text: Place or position in society; office; rank; post, sometimes when vacated
+      by its former occupant.
+  - text: Furniture sufficient to furnish a room.
+- pos: verb
+  defs:
+  - text: To reside, especially as a boarder or tenant.
+    example: Doctor Watson roomed with Sherlock Holmes at Baker Street.
+  - text: To assign to a room; to allocate a room to.
 ---
-

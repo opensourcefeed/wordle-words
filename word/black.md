@@ -1,7 +1,102 @@
 ---
 layout: word
-title: black
+title: Is BLACK a Wordle Word?
+head_title: 'Is BLACK a Wordle Word? Yes – Past Answer #295 & Meaning'
 word: black
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blak/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.</li><li><strong>Definition 2:</strong> A black dye or pigment.</li><li><strong>Definition 3:</strong> A pen, pencil, crayon, etc., made of black pigment.</li><li><strong>Definition 4:</strong> (in the plural) Black cloth hung up at funerals.</li><li><strong>Definition 5:</strong> (sometimes capitalised) A person of African, Aborigine, or Maori descent; a dark-skinned person.</li><li><strong>Definition 6:</strong> Blackness, the condition of having dark skin.</li><li><strong>Definition 7:</strong> The black ball.</li><li><strong>Definition 8:</strong> The edge of home plate.</li><li><strong>Definition 9:</strong> A type of firecracker that is really more dark brown in colour.</li><li><strong>Definition 10:</strong> Blackcurrant syrup (in mixed drinks, e.g. snakebite and black, cider and black).</li><li><strong>Definition 11:</strong> (in chess and similar games) The person playing with the black set of pieces.<p><strong>Example:</strong> At this point black makes a disastrous move.</p></li><li><strong>Definition 12:</strong> Something, or a part of a thing, which is black.</li><li><strong>Definition 13:</strong> A stain; a spot.</li><li><strong>Definition 14:</strong> A dark smut fungus, harmful to wheat.</li><li><strong>Definition 15:</strong> Marijuana.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make black; to blacken.</li><li><strong>Definition 2:</strong> To apply blacking to (something).</li><li><strong>Definition 3:</strong> To boycott, usually as part of an industrial dispute.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of an object) Absorbing all light and reflecting none; dark and hueless.</li><li><strong>Definition 2:</strong> (of a place, etc) Without light.</li><li><strong>Definition 3:</strong> (sometimes capitalized) Of or relating to any of various ethnic groups having dark pigmentation of the skin.</li><li><strong>Definition 4:</strong> Designated for use by those ethnic groups which have dark pigmentation of the skin.<p><strong>Example:</strong> black drinking fountain; black hospital</p></li><li><strong>Definition 5:</strong> (of a card) Of the spades or clubs suits. Compare red<p><strong>Example:</strong> I was dealt two red queens, and he got one of the black queens.</p></li><li><strong>Definition 6:</strong> Bad; evil; ill-omened.</li><li><strong>Definition 7:</strong> Expressing menace, or discontent; threatening; sullen.<p><strong>Example:</strong> He shot her a black look.</p></li><li><strong>Definition 8:</strong> (of objects, markets, etc) Illegitimate, illegal or disgraced.</li><li><strong>Definition 9:</strong> Overcrowded.</li><li><strong>Definition 10:</strong> (of coffee or tea) Without any cream, milk or creamer.<p><strong>Example:</strong> Jim drinks his coffee black, but Ellen prefers it with creamer.</p></li><li><strong>Definition 11:</strong> Of or relating to the playing pieces of a board game deemed to belong to the \"black\" set (in chess the set used by the player who moves second) (often regardless of the pieces' actual colour).</li><li><strong>Definition 12:</strong> Said of a symbol or character that is solid, filled with color. Compare white.</li><li><strong>Definition 13:</strong> Related to the Christian Democratic Union of Germany.<p><strong>Example:</strong> After the election, the parties united in a black-yellow alliance.</p></li><li><strong>Definition 14:</strong> Clandestine; relating to a political, military, or espionage operation or site, the existence or details of which is withheld from the general public.<p><strong>Example:</strong> 5 percent of the Defense Department funding will go to black projects.</p></li><li><strong>Definition 15:</strong> Occult; relating to something (such as mystical or magical knowledge) which is unknown to or kept secret from the general public.</li><li><strong>Definition 16:</strong> Protestant, often with the implication of being militantly pro-British or anti-Catholic</li><li><strong>Definition 17:</strong> Having one or more features (hair, fur, armour, clothes, bark, etc) that is dark (or black); in taxonomy, especially: dark in comparison to another species with the same base name.</li><li><strong>Definition 18:</strong> Foul; dirty.</li></ul></div></div>"
+description: Yes, BLACK is a valid Wordle word. It was the Wordle answer on April
+  10, 2022 (#295). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 10, 2022 (#295).
+past_answers:
+- date: '2022-04-10'
+  number: 295
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- blank
+- block
+- clack
+- flack
+- slack
+- alack
+- brack
+- plack
+trap:
+  pattern: _LACK
+  count: 6
+phonetic: "/blak/"
+definitions:
+- pos: noun
+  defs:
+  - text: The colour/color perceived in the absence of light, but also when no light
+      is reflected, but rather absorbed.
+  - text: A black dye or pigment.
+  - text: A pen, pencil, crayon, etc., made of black pigment.
+  - text: "(in the plural) Black cloth hung up at funerals."
+  - text: "(sometimes capitalised) A person of African, Aborigine, or Maori descent;
+      a dark-skinned person."
+  - text: Blackness, the condition of having dark skin.
+  - text: The black ball.
+  - text: The edge of home plate.
+  - text: A type of firecracker that is really more dark brown in colour.
+  - text: Blackcurrant syrup (in mixed drinks, e.g. snakebite and black, cider and
+      black).
+  - text: "(in chess and similar games) The person playing with the black set of pieces."
+    example: At this point black makes a disastrous move.
+  - text: Something, or a part of a thing, which is black.
+  - text: A stain; a spot.
+  - text: A dark smut fungus, harmful to wheat.
+  - text: Marijuana.
+- pos: verb
+  defs:
+  - text: To make black; to blacken.
+  - text: To apply blacking to (something).
+  - text: To boycott, usually as part of an industrial dispute.
+- pos: adjective
+  defs:
+  - text: "(of an object) Absorbing all light and reflecting none; dark and hueless."
+  - text: "(of a place, etc) Without light."
+  - text: "(sometimes capitalized) Of or relating to any of various ethnic groups
+      having dark pigmentation of the skin."
+  - text: Designated for use by those ethnic groups which have dark pigmentation of
+      the skin.
+    example: black drinking fountain; black hospital
+  - text: "(of a card) Of the spades or clubs suits. Compare red"
+    example: I was dealt two red queens, and he got one of the black queens.
+  - text: Bad; evil; ill-omened.
+  - text: Expressing menace, or discontent; threatening; sullen.
+    example: He shot her a black look.
+  - text: "(of objects, markets, etc) Illegitimate, illegal or disgraced."
+  - text: Overcrowded.
+  - text: "(of coffee or tea) Without any cream, milk or creamer."
+    example: Jim drinks his coffee black, but Ellen prefers it with creamer.
+  - text: Of or relating to the playing pieces of a board game deemed to belong to
+      the "black" set (in chess the set used by the player who moves second) (often
+      regardless of the pieces' actual colour).
+  - text: Said of a symbol or character that is solid, filled with color. Compare
+      white.
+  - text: Related to the Christian Democratic Union of Germany.
+    example: After the election, the parties united in a black-yellow alliance.
+  - text: Clandestine; relating to a political, military, or espionage operation or
+      site, the existence or details of which is withheld from the general public.
+    example: 5 percent of the Defense Department funding will go to black projects.
+  - text: Occult; relating to something (such as mystical or magical knowledge) which
+      is unknown to or kept secret from the general public.
+  - text: Protestant, often with the implication of being militantly pro-British or
+      anti-Catholic
+  - text: 'Having one or more features (hair, fur, armour, clothes, bark, etc) that
+      is dark (or black); in taxonomy, especially: dark in comparison to another species
+      with the same base name.'
+  - text: Foul; dirty.
 ---
-

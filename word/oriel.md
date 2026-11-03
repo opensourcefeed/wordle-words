@@ -1,7 +1,41 @@
 ---
 layout: word
-title: oriel
+title: Is ORIEL a Wordle Word?
+head_title: Is ORIEL a Wordle Word? Yes – Valid Guess & Meaning
 word: oriel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɔːɹiəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large polygonal recess in a building, such as a bay window, forming a protrusion on the outer wall.</li><li><strong>Definition 2:</strong> A gallery for minstrels.</li><li><strong>Definition 3:</strong> A small apartment next to a hall, used for dining.</li></ul></div></div>"
+description: Yes, ORIEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - I
+  - E
+  - L
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- ariel
+anagrams:
+- oiler
+- reoil
+phonetic: "/ˈɔːɹiəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large polygonal recess in a building, such as a bay window, forming a
+      protrusion on the outer wall.
+  - text: A gallery for minstrels.
+  - text: A small apartment next to a hall, used for dining.
 ---
-

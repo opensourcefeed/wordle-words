@@ -1,7 +1,71 @@
 ---
 layout: word
-title: heaps
+title: Is HEAPS a Wordle Word?
+head_title: Is HEAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: heaps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hiːps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A crowd; a throng; a multitude or great number of people.</li><li><strong>Definition 2:</strong> A pile or mass; a collection of things laid in a body, or thrown together so as to form an elevation.<p><strong>Example:</strong> a heap of earth or stones</p></li><li><strong>Definition 3:</strong> A great number or large quantity of things.</li><li><strong>Definition 4:</strong> A data structure consisting of trees in which each node is greater than all its children.</li><li><strong>Definition 5:</strong> Memory that is dynamically allocated.<p><strong>Example:</strong> You should move these structures from the stack to the heap to avoid a potential stack overflow.</p></li><li><strong>Definition 6:</strong> A dilapidated place or vehicle.<p><strong>Example:</strong> My first car was an old heap.</p></li><li><strong>Definition 7:</strong> A lot, a large amount<p><strong>Example:</strong> Thanks a heap!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pile in a heap.<p><strong>Example:</strong> He heaped the laundry upon the bed and began folding.</p></li><li><strong>Definition 2:</strong> To form or round into a heap, as in measuring.</li><li><strong>Definition 3:</strong> To supply in great quantity.<p><strong>Example:</strong> They heaped praise upon their newest hero.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very much, a lot<p><strong>Example:</strong> I love him heaps.</p></li></ul></div></div>"
+description: Yes, HEAPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- heads
+- heals
+- heapy
+- hears
+- heats
+- helps
+- hemps
+- herps
+- hesps
+- leaps
+- neaps
+- reaps
+anagrams:
+- phase
+- shape
+- ephas
+phonetic: "/hiːps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A crowd; a throng; a multitude or great number of people.
+  - text: A pile or mass; a collection of things laid in a body, or thrown together
+      so as to form an elevation.
+    example: a heap of earth or stones
+  - text: A great number or large quantity of things.
+  - text: A data structure consisting of trees in which each node is greater than
+      all its children.
+  - text: Memory that is dynamically allocated.
+    example: You should move these structures from the stack to the heap to avoid
+      a potential stack overflow.
+  - text: A dilapidated place or vehicle.
+    example: My first car was an old heap.
+  - text: A lot, a large amount
+    example: Thanks a heap!
+- pos: verb
+  defs:
+  - text: To pile in a heap.
+    example: He heaped the laundry upon the bed and began folding.
+  - text: To form or round into a heap, as in measuring.
+  - text: To supply in great quantity.
+    example: They heaped praise upon their newest hero.
+- pos: adverb
+  defs:
+  - text: Very much, a lot
+    example: I love him heaps.
 ---
-

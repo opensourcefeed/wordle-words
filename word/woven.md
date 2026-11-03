@@ -1,7 +1,57 @@
 ---
 layout: word
-title: woven
+title: Is WOVEN a Wordle Word?
+head_title: 'Is WOVEN a Wordle Word? Yes – Past Answer #430 & Meaning'
 word: woven
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwəʊvən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form something by passing lengths or strands of material over and under one another.<p><strong>Example:</strong> This loom weaves yarn into sweaters.</p></li><li><strong>Definition 2:</strong> To spin a cocoon or a web.<p><strong>Example:</strong> Spiders weave beautiful but deadly webs.</p></li><li><strong>Definition 3:</strong> To unite by close connection or intermixture.</li><li><strong>Definition 4:</strong> To compose creatively and intricately; to fabricate.<p><strong>Example:</strong> to weave the plot of a story</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cloth formed by weaving. It only stretches in the bias directions (between the warp and weft directions), unless the threads are elastic.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Fabricated by weaving.<p><strong>Example:</strong> Woven kevlar is tough enough to be bulletproof.</p></li><li><strong>Definition 2:</strong> Interlaced<p><strong>Example:</strong> The woven words of the sonnet were deep and moving.</p></li></ul></div></div>"
+description: Yes, WOVEN is a valid Wordle word. It was the Wordle answer on August
+  23, 2022 (#430). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 23, 2022 (#430).
+past_answers:
+- date: '2022-08-23'
+  number: 430
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- coven
+- woken
+- women
+- doven
+- hoven
+- roven
+- woxen
+phonetic: "/ˈwəʊvən/"
+definitions:
+- pos: verb
+  defs:
+  - text: To form something by passing lengths or strands of material over and under
+      one another.
+    example: This loom weaves yarn into sweaters.
+  - text: To spin a cocoon or a web.
+    example: Spiders weave beautiful but deadly webs.
+  - text: To unite by close connection or intermixture.
+  - text: To compose creatively and intricately; to fabricate.
+    example: to weave the plot of a story
+- pos: noun
+  defs:
+  - text: A cloth formed by weaving. It only stretches in the bias directions (between
+      the warp and weft directions), unless the threads are elastic.
+- pos: adjective
+  defs:
+  - text: Fabricated by weaving.
+    example: Woven kevlar is tough enough to be bulletproof.
+  - text: Interlaced
+    example: The woven words of the sonnet were deep and moving.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: liken
+title: Is LIKEN a Wordle Word?
+head_title: 'Is LIKEN a Wordle Word? Yes – Past Answer #1782 & Meaning'
 word: liken
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlaɪkən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (followed by to or unto) To compare; to state that (something) is like (something else).<p><strong>Example:</strong> The physics teacher likened the effect of mass on space to an indentation in a sheet of rubber.</p></li></ul></div></div>"
+description: Yes, LIKEN is a valid Wordle word. It was the Wordle answer on May 6,
+  2026 (#1782). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 6, 2026 (#1782).
+past_answers:
+- date: '2026-05-06'
+  number: 1782
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- linen
+- liked
+- liker
+- likes
+- likin
+- limen
+- liven
+anagrams:
+- inkle
+phonetic: "/ˈlaɪkən/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(followed by to or unto) To compare; to state that (something) is like
+      (something else)."
+    example: The physics teacher likened the effect of mass on space to an indentation
+      in a sheet of rubber.
 ---
-

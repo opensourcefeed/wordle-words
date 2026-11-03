@@ -1,7 +1,38 @@
 ---
 layout: word
-title: egger
+title: Is EGGER a Wordle Word?
+head_title: Is EGGER a Wordle Word? Yes – Valid Guess & Meaning
 word: egger
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛɡə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who gathers eggs.</li></ul></div></div>"
+description: Yes, EGGER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - E
+  - G
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- eager
+- agger
+- edger
+- eggar
+- egged
+anagrams:
+- grege
+phonetic: "/ˈɛɡə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who gathers eggs.
 ---
-

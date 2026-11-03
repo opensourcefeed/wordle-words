@@ -1,7 +1,65 @@
 ---
 layout: word
-title: silly
+title: Is SILLY a Wordle Word?
+head_title: 'Is SILLY a Wordle Word? Yes – Past Answer #1309 & Meaning'
 word: silly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɪli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A silly person.</li><li><strong>Definition 2:</strong> A term of address.</li><li><strong>Definition 3:</strong> A mistake.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Laughable or amusing through foolishness or a foolish appearance.</li><li><strong>Definition 2:</strong> Blessed, particularly:</li><li><strong>Definition 3:</strong> Pitiful, inspiring compassion, particularly:</li><li><strong>Definition 4:</strong> Simple, plain, particularly:</li><li><strong>Definition 5:</strong> Mentally simple, foolish, particularly:</li><li><strong>Definition 6:</strong> (of a fielding position) Very close to the batsman, facing the bowler; closer than short.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Sillily: in a silly manner.</li></ul></div></div>"
+description: Yes, SILLY is a valid Wordle word. It was the Wordle answer on January
+  18, 2025 (#1309). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 18, 2025 (#1309).
+past_answers:
+- date: '2025-01-18'
+  number: 1309
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- billy
+- dilly
+- filly
+- hilly
+- sally
+- silky
+- sully
+- willy
+- gilly
+- milly
+- rilly
+- sills
+anagrams:
+- slily
+- yills
+trap:
+  pattern: _ILLY
+  count: 10
+phonetic: "/ˈsɪli/"
+definitions:
+- pos: noun
+  defs:
+  - text: A silly person.
+  - text: A term of address.
+  - text: A mistake.
+- pos: adjective
+  defs:
+  - text: Laughable or amusing through foolishness or a foolish appearance.
+  - text: 'Blessed, particularly:'
+  - text: 'Pitiful, inspiring compassion, particularly:'
+  - text: 'Simple, plain, particularly:'
+  - text: 'Mentally simple, foolish, particularly:'
+  - text: "(of a fielding position) Very close to the batsman, facing the bowler;
+      closer than short."
+- pos: adverb
+  defs:
+  - text: 'Sillily: in a silly manner.'
 ---
-

@@ -1,7 +1,30 @@
 ---
 layout: word
-title: gogga
+title: Is GOGGA a Wordle Word?
+head_title: Is GOGGA a Wordle Word? Yes – Valid Guess & Meaning
 word: gogga
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈxɒxə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Insect.</li></ul></div></div>"
+description: Yes, GOGGA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 3
+  repeated:
+  - G
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+phonetic: "/ˈxɒxə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Insect.
 ---
-

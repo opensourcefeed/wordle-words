@@ -1,7 +1,35 @@
 ---
 layout: word
-title: buzzy
+title: Is BUZZY a Wordle Word?
+head_title: Is BUZZY a Wordle Word? Yes – Valid Guess & Meaning
 word: buzzy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʌzi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a buzzing sound.</li><li><strong>Definition 2:</strong> Being the subject of cultural buzz.</li></ul></div></div>"
+description: Yes, BUZZY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - Z
+  common: []
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- fuzzy
+- bezzy
+- bizzy
+- huzzy
+- muzzy
+phonetic: "/ˈbʌzi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a buzzing sound.
+  - text: Being the subject of cultural buzz.
 ---
-

@@ -35,22 +35,25 @@ None of the local work has shipped, and the current local config would break the
 Searchers want three facts: (1) Is it an accepted guess? (2) Can it be a daily answer? (3) Has it already been an answer, and when?
 Competitors such as fiveletterwords.io already show all three. A bare "Yes, it's a candidate" will not win.
 
-- [ ] **Page title and meta, built from the query wording** (H, S)
-  - `<title>Is TIGER a Wordle Word? Yes – Valid Guess, Answer History & Meaning</title>`
-  - Meta description with the direct answer in the first 150 chars.
-  - `<h1>Is TIGER a Wordle word?</h1>`, followed immediately by a one-line answer box (✅ Valid guess · ✅/❌ Possible answer · 📅 Past answer #NNN on DATE).
-  - Per-word meta descriptions (`jekyll-seo-tag` is in place, but word pages currently fall back to the site description).
-- [ ] **Add Wordle status data** (H, M)
-  - Split the list into *answer pool* (about 2.3k) and *allowed guesses only*.
-  - Add a `past_answers.yml` file (date, puzzle #, word). Make the update scriptable.
-  - Show the answer rules in plain language, for example "Plurals ending in S and past-tense -ED words are almost never answers."
-- [ ] **Compute unique per-word content** (offline in the generator, no API needed) (H, M). This turns 15k templated pages into pages that are useful, which also lowers the risk under Google's "scaled content" policy.
-  - Vowel and consonant breakdown, repeated letters, a letter-frequency score, and a starter-word rating with a short reason.
-  - **Neighbours**: words one letter different (TIGER → TILER, TIMER, TIDER…). These double as internal links.
-  - Anagrams, plus "same pattern" words (`_IGER`), with a hard-mode trap warning when there are many.
-- [ ] **Clean up definitions**: show at most 3 short senses, drop the "Meaning 1 / Definition 1" labels, and use `<ol>`/`<dl>`. Keep the phonetic and part of speech. (M, S)
-- [ ] **Structured data**: `BreadcrumbList` plus `DefinedTerm`/`WebPage` JSON-LD on word pages, and `WebSite` with `SearchAction` on home. (M, S)
-- [ ] **"No" answers**: the 404 page should run a JS lookup on the requested word and say *"XYZZY is not a valid Wordle word"*, then suggest close valid words. Also consider static pages for frequently searched invalid words (4- and 6-letter words, proper nouns), once Search Console shows that demand exists. (M, M)
+- [x] **Page title and meta, built from the query wording** (H, S)
+  - `<title>` such as *Is TIGER a Wordle Word? Yes – Past Answer #200 & Meaning* (or *Possible Answer* / *Valid Guess*).
+  - Per-word meta description that gives the answer first, e.g. *"Yes, TIGER is a valid Wordle word. It was the Wordle answer on January 5, 2022 (#200)…"*.
+  - `<h1>Is TIGER a Wordle Word?</h1>`, then an answer card with letter tiles, a verdict and badges (Accepted guess · Past answer #N · date / Possible future answer / Not on the answer list).
+- [x] **Wordle status data** (H, M)
+  - `_data/original-answers.yml`: the original 2,315-word answer list. If a word on it hasn't been used yet, the page shows it as a "possible future answer".
+  - `_data/past-answers.yml`: every answer up to **yesterday**, with date and puzzle number (today's answer is never shown, so there are no spoilers). Refresh with `ruby scripts/update_past_answers.rb`.
+  - Plain-language answer rules on guess-only words ending in -S or -ED.
+- [x] **Unique per-word content**, computed offline by `scripts/build_pages.rb` (H, M)
+  - Starter-word rating (tier and top-%) based on letter frequency in answers, plus vowels, unique and repeated letters, and common and rare letters.
+  - Up to 12 neighbours (words one letter away, common answer words first) and anagrams, all as internal links. Sensitive words are never linked.
+  - Hard-mode trap warning when 6+ words share a pattern (e.g. `_ATCH`: 10 words).
+- [x] **Cleaned-up definitions**: stored as structured `phonetic` + `definitions` front matter (no raw HTML, output escaped). The page shows up to 3 definitions per part of speech, with the rest in a "more definitions" toggle, and examples in italics. (M, S)
+- [x] **Structured data**: `BreadcrumbList` + `DefinedTerm` JSON-LD on word pages, alongside `jekyll-seo-tag`'s `WebPage`. Skipped `WebSite`/`SearchAction`, because Google retired the sitelinks search box in late 2024. (M, S)
+- [x] **"No" answers**: the 404 page checks the requested word (`/word/xyzzq`) against `assets/words.json`. It says why it isn't valid (not in the list, wrong length, non-letters), suggests valid words one letter away, and includes a check-another-word box. (M, M)
+- [ ] **Static pages for popular invalid words** (4- and 6-letter words, proper nouns): wait for Search Console data to show which ones people actually search. (M, M)
+- [ ] **Keep data fresh**: run `ruby scripts/update_past_answers.rb && bundle exec ruby scripts/build_pages.rb` weekly. Best automated with a scheduled GitHub Action (see P5). (M, S)
+
+**Page-data workflow:** `generate_word_pages.rb` (fetch missing definitions) → `scripts/update_past_answers.rb` → `scripts/build_pages.rb` → `scripts/validate_words.rb`.
 
 ## P2 – Crawlability, internal linking and hub pages
 

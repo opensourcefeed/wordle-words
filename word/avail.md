@@ -1,7 +1,56 @@
 ---
 layout: word
-title: avail
+title: Is AVAIL a Wordle Word?
+head_title: 'Is AVAIL a Wordle Word? Yes – Past Answer #609 & Meaning'
 word: avail
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈveɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Effect in achieving a goal or aim; purpose, use (now usually in negative constructions).<p><strong>Example:</strong> I tried fixing it, to no avail.  Labor, without economy, is of little avail.</p></li><li><strong>Definition 2:</strong> Proceeds; profits from business transactions.</li><li><strong>Definition 3:</strong> An advertising slot or package.</li><li><strong>Definition 4:</strong> A press avail.<p><strong>Example:</strong> While holding an avail yesterday, the candidate lashed out at critics.</p></li><li><strong>Definition 5:</strong> Non-binding notice of availability for work.</li><li><strong>Definition 6:</strong> A readily available stock of oil.</li><li><strong>Definition 7:</strong> Benefit; value, profit; advantage toward success.</li><li><strong>Definition 8:</strong> Effort; striving.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn to the advantage of.<p><strong>Example:</strong> I availed myself of the opportunity.</p></li><li><strong>Definition 2:</strong> To be of service to.<p><strong>Example:</strong> Artifices will not avail the sinner in the day of judgment.</p></li><li><strong>Definition 3:</strong> To promote; to assist.</li><li><strong>Definition 4:</strong> To be of use or advantage; to answer or serve the purpose; to have strength, force, or efficacy sufficient to accomplish the object.<p><strong>Example:</strong> Medicines will not avail to halt the disease.</p></li><li><strong>Definition 5:</strong> To provide; to make available.</li></ul></div></div>"
+description: Yes, AVAIL is a valid Wordle word. It was the Wordle answer on February
+  18, 2023 (#609). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 18, 2023 (#609).
+past_answers:
+- date: '2023-02-18'
+  number: 609
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+phonetic: "/əˈveɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Effect in achieving a goal or aim; purpose, use (now usually in negative
+      constructions).
+    example: I tried fixing it, to no avail.  Labor, without economy, is of little
+      avail.
+  - text: Proceeds; profits from business transactions.
+  - text: An advertising slot or package.
+  - text: A press avail.
+    example: While holding an avail yesterday, the candidate lashed out at critics.
+  - text: Non-binding notice of availability for work.
+  - text: A readily available stock of oil.
+  - text: Benefit; value, profit; advantage toward success.
+  - text: Effort; striving.
+- pos: verb
+  defs:
+  - text: To turn to the advantage of.
+    example: I availed myself of the opportunity.
+  - text: To be of service to.
+    example: Artifices will not avail the sinner in the day of judgment.
+  - text: To promote; to assist.
+  - text: To be of use or advantage; to answer or serve the purpose; to have strength,
+      force, or efficacy sufficient to accomplish the object.
+    example: Medicines will not avail to halt the disease.
+  - text: To provide; to make available.
 ---
-

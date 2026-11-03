@@ -1,9 +1,39 @@
 ---
 layout: word
-title: nancy
+title: Is NANCY a Wordle Word?
+head_title: Is NANCY a Wordle Word? Yes – Valid Guess & Meaning
 word: nancy
+description: Yes, NANCY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnænsi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An effeminate man, especially a homosexual.</li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- fancy
+- nanny
+- dancy
+- nance
+- nanty
+- noncy
+anagrams:
+- canny
+phonetic: "/ˈnænsi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An effeminate man, especially a homosexual.
 ---
-

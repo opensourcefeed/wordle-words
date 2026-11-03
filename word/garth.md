@@ -1,7 +1,38 @@
 ---
 layout: word
-title: garth
+title: Is GARTH a Wordle Word?
+head_title: Is GARTH a Wordle Word? Yes – Valid Guess & Meaning
 word: garth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɑː(ɹ)θ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A grassy quadrangle surrounded by cloisters</li><li><strong>Definition 2:</strong> A close; a yard; a croft; a garden.<p><strong>Example:</strong> a cloister garth</p></li><li><strong>Definition 3:</strong> A clearing in the woods; as such, part of many placenames in northern England</li><li><strong>Definition 4:</strong> A group or a household dedicated to the pagan faith Heathenry.</li><li><strong>Definition 5:</strong> A location or sacred space, in ritual and poetry in modern Heathenry.</li><li><strong>Definition 6:</strong> A dam or weir for catching fish.</li></ul></div></div>"
+description: Yes, GARTH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- earth
+- girth
+phonetic: "/ɡɑː(ɹ)θ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A grassy quadrangle surrounded by cloisters
+  - text: A close; a yard; a croft; a garden.
+    example: a cloister garth
+  - text: A clearing in the woods; as such, part of many placenames in northern England
+  - text: A group or a household dedicated to the pagan faith Heathenry.
+  - text: A location or sacred space, in ritual and poetry in modern Heathenry.
+  - text: A dam or weir for catching fish.
 ---
-

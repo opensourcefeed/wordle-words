@@ -1,7 +1,52 @@
 ---
 layout: word
-title: needs
+title: Is NEEDS a Wordle Word?
+head_title: Is NEEDS a Wordle Word? Yes – Valid Guess & Meaning
 word: needs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /niːdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Of necessity; necessarily; indispensably; used with an auxiliary verb (often must), and equivalent to \"of need\".<p><strong>Example:</strong> One must needs run when the devil drives.</p></li></ul></div></div>"
+description: Yes, NEEDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- needy
+- deeds
+- feeds
+- heeds
+- meeds
+- neebs
+- neefs
+- neems
+- neeps
+- nerds
+- reeds
+- seeds
+anagrams:
+- dense
+- deens
+- denes
+- sneed
+trap:
+  pattern: _EEDS
+  count: 9
+phonetic: "/niːdz/"
+definitions:
+- pos: adverb
+  defs:
+  - text: Of necessity; necessarily; indispensably; used with an auxiliary verb (often
+      must), and equivalent to "of need".
+    example: One must needs run when the devil drives.
 ---
-

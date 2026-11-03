@@ -1,7 +1,39 @@
 ---
 layout: word
-title: ronin
+title: Is RONIN a Wordle Word?
+head_title: Is RONIN a Wordle Word? Yes – Valid Guess & Meaning
 word: ronin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A masterless samurai (who often becomes a mercenary to make ends meet).</li><li><strong>Definition 2:</strong> (in Japan) A student who has failed the entrance examination for the high school or university of their choice: if the student does not wish to take the exam the following year or is unable to, the student becomes a ronin, assuming full responsibility for their own training and survival.</li></ul></div></div>"
+description: Yes, RONIN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - R
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- robin
+- conin
+- renin
+- rosin
+definitions:
+- pos: noun
+  defs:
+  - text: A masterless samurai (who often becomes a mercenary to make ends meet).
+  - text: "(in Japan) A student who has failed the entrance examination for the high
+      school or university of their choice: if the student does not wish to take the
+      exam the following year or is unable to, the student becomes a ronin, assuming
+      full responsibility for their own training and survival."
 ---
-

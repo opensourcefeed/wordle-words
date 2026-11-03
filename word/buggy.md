@@ -1,7 +1,56 @@
 ---
 layout: word
-title: buggy
+title: Is BUGGY a Wordle Word?
+head_title: 'Is BUGGY a Wordle Word? Yes – Past Answer #412 & Meaning'
 word: buggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bʌ.ɡi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small horse-drawn cart.</li><li><strong>Definition 2:</strong> A small motor vehicle, such as a dune buggy.</li><li><strong>Definition 3:</strong> A hearse.</li><li><strong>Definition 4:</strong> A pushchair; a stroller.</li><li><strong>Definition 5:</strong> A shopping cart or trolley.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Infested with insects</li><li><strong>Definition 2:</strong> Containing programming errors<p><strong>Example:</strong> This software is so buggy that I don't know how anyone can use it!</p></li><li><strong>Definition 3:</strong> Resembling an insect</li><li><strong>Definition 4:</strong> Crazy; bughouse</li></ul></div></div>"
+description: Yes, BUGGY is a valid Wordle word. It was the Wordle answer on August
+  5, 2022 (#412). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 5, 2022 (#412).
+past_answers:
+- date: '2022-08-05'
+  number: 412
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - G
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- baggy
+- biggy
+- boggy
+- bulgy
+- bungy
+- fuggy
+- huggy
+- muggy
+- puggy
+- ruggy
+- vuggy
+trap:
+  pattern: _UGGY
+  count: 7
+phonetic: "/bʌ.ɡi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small horse-drawn cart.
+  - text: A small motor vehicle, such as a dune buggy.
+  - text: A hearse.
+  - text: A pushchair; a stroller.
+  - text: A shopping cart or trolley.
+- pos: adjective
+  defs:
+  - text: Infested with insects
+  - text: Containing programming errors
+    example: This software is so buggy that I don't know how anyone can use it!
+  - text: Resembling an insect
+  - text: Crazy; bughouse
 ---
-

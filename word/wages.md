@@ -1,7 +1,59 @@
 ---
 layout: word
-title: wages
+title: Is WAGES a Wordle Word?
+head_title: Is WAGES a Wordle Word? Yes – Valid Guess & Meaning
 word: wages
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈweɪd͡ʒɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (often in plural) An amount of money paid to a worker for a specified quantity of work, usually calculated on an hourly basis and expressed in an amount of money per hour.<p><strong>Example:</strong> Before her promotion, her wages were 20% less.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To wager, bet.</li><li><strong>Definition 2:</strong> To expose oneself to, as a risk; to incur, as a danger; to venture; to hazard.</li><li><strong>Definition 3:</strong> To employ for wages; to hire.</li><li><strong>Definition 4:</strong> To conduct or carry out (a war or other contest).</li><li><strong>Definition 5:</strong> To adventure, or lay out, for hire or reward; to hire out.</li><li><strong>Definition 6:</strong> To give security for the performance of.</li></ul></div></div>"
+description: Yes, WAGES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- wager
+- cages
+- gages
+- mages
+- nages
+- pages
+- rages
+- sages
+- wades
+- waged
+- wakes
+- wales
+anagrams:
+- swage
+trap:
+  pattern: WA_ES
+  count: 11
+phonetic: "/ˈweɪd͡ʒɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(often in plural) An amount of money paid to a worker for a specified quantity
+      of work, usually calculated on an hourly basis and expressed in an amount of
+      money per hour."
+    example: Before her promotion, her wages were 20% less.
+- pos: verb
+  defs:
+  - text: To wager, bet.
+  - text: To expose oneself to, as a risk; to incur, as a danger; to venture; to hazard.
+  - text: To employ for wages; to hire.
+  - text: To conduct or carry out (a war or other contest).
+  - text: To adventure, or lay out, for hire or reward; to hire out.
+  - text: To give security for the performance of.
 ---
-

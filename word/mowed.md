@@ -1,7 +1,54 @@
 ---
 layout: word
-title: mowed
+title: Is MOWED a Wordle Word?
+head_title: Is MOWED a Wordle Word? Yes – Valid Guess & Meaning
 word: mowed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /məʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut down grass or crops.<p><strong>Example:</strong> He mowed the lawn every few weeks in the summer.</p></li><li><strong>Definition 2:</strong> To cut down or slaughter in great numbers.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make grimaces, mock.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put into mows.</li></ul></div></div>"
+description: Yes, MOWED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- mower
+- bowed
+- cowed
+- dowed
+- jowed
+- lowed
+- mawed
+- mewed
+- mobed
+- moled
+- mooed
+- moped
+trap:
+  pattern: _OWED
+  count: 13
+phonetic: "/məʊd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To cut down grass or crops.
+    example: He mowed the lawn every few weeks in the summer.
+  - text: To cut down or slaughter in great numbers.
+- pos: verb
+  defs:
+  - text: To make grimaces, mock.
+- pos: verb
+  defs:
+  - text: To put into mows.
 ---
-

@@ -1,6 +1,35 @@
 ---
 layout: word
-title: riata
+title: Is RIATA a Wordle Word?
+head_title: Is RIATA a Wordle Word? Yes – Valid Guess
 word: riata
+description: Yes, RIATA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - R
+  - I
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- reata
+- riato
+anagrams:
+- tiara
+- aarti
+- atria
+- raita
+- taira
 ---
-

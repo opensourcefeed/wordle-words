@@ -1,7 +1,47 @@
 ---
 layout: word
-title: duffs
+title: Is DUFFS a Wordle Word?
+head_title: Is DUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: duffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To disguise something to make it look new.</li><li><strong>Definition 2:</strong> To alter the branding of stolen cattle; to steal cattle.</li><li><strong>Definition 3:</strong> (with \"up\") To beat up.<p><strong>Example:</strong> I heard Nick got duffed up behind the shopping centre at the weekend.</p></li><li><strong>Definition 4:</strong> To hit the ground behind the ball.</li></ul></div></div>"
+description: Yes, DUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- buffs
+- cuffs
+- daffs
+- diffs
+- doffs
+- dufus
+- fuffs
+- guffs
+- huffs
+- luffs
+- muffs
+- nuffs
+trap:
+  pattern: _UFFS
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: To disguise something to make it look new.
+  - text: To alter the branding of stolen cattle; to steal cattle.
+  - text: (with "up") To beat up.
+    example: I heard Nick got duffed up behind the shopping centre at the weekend.
+  - text: To hit the ground behind the ball.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: bonny
+title: Is BONNY a Wordle Word?
+head_title: Is BONNY a Wordle Word? Yes – Valid Guess & Meaning
 word: bonny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Merry; happy.</li><li><strong>Definition 2:</strong> Beautiful; pretty; attractive.</li><li><strong>Definition 3:</strong> Fine, good (often used ironically).<p><strong>Example:</strong> My bonnie friend, come over here.</p></li></ul></div></div>"
+description: Yes, BONNY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- boney
+- bunny
+- benny
+- bonne
+- donny
+- nonny
+- sonny
+- yonny
+definitions:
+- pos: adjective
+  defs:
+  - text: Merry; happy.
+  - text: Beautiful; pretty; attractive.
+  - text: Fine, good (often used ironically).
+    example: My bonnie friend, come over here.
 ---
-

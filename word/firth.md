@@ -1,7 +1,45 @@
 ---
 layout: word
-title: firth
+title: Is FIRTH a Wordle Word?
+head_title: Is FIRTH a Wordle Word? Yes – Valid Guess & Meaning
 word: firth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɜːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An arm or inlet of the sea; a river estuary.</li></ul></div></div>"
+description: Yes, FIRTH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- birth
+- fifth
+- filth
+- forth
+- girth
+- mirth
+- airth
+- furth
+- tirth
+- yirth
+anagrams:
+- frith
+trap:
+  pattern: _IRTH
+  count: 7
+phonetic: "/fɜːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An arm or inlet of the sea; a river estuary.
 ---
-

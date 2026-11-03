@@ -1,7 +1,58 @@
 ---
 layout: word
-title: frits
+title: Is FRITS a Wordle Word?
+head_title: Is FRITS a Wordle Word? Yes – Valid Guess & Meaning
 word: frits
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fused mixture of materials used to make glass.</li><li><strong>Definition 2:</strong> A similar material used in the manufacture of ceramic beads and small ornaments. (eastern Mediterranean; Bronze and Iron Age)</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To add frit to a glass or ceramic mixture</li><li><strong>Definition 2:</strong> To prepare by heat (the materials for making glass); to fuse partially.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A frit fly.</li></ul></div></div>"
+description: Yes, FRITS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- fritz
+- brits
+- crits
+- flits
+- frats
+- frets
+- fribs
+- fries
+- frigs
+- frita
+- frite
+- frith
+anagrams:
+- first
+- frist
+- rifts
+trap:
+  pattern: FRIT_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A fused mixture of materials used to make glass.
+  - text: A similar material used in the manufacture of ceramic beads and small ornaments.
+      (eastern Mediterranean; Bronze and Iron Age)
+- pos: verb
+  defs:
+  - text: To add frit to a glass or ceramic mixture
+  - text: To prepare by heat (the materials for making glass); to fuse partially.
+- pos: noun
+  defs:
+  - text: A frit fly.
 ---
-

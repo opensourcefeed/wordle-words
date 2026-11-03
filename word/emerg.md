@@ -1,7 +1,39 @@
 ---
 layout: word
-title: emerg
+title: Is EMERG a Wordle Word?
+head_title: Is EMERG a Wordle Word? Yes – Valid Guess & Meaning
 word: emerg
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A situation which poses an immediate risk and which requires urgent attention.<p><strong>Example:</strong> Cardiac arrest is an emergency and if you find someone in cardiac arrest you should call 999 immediately.</p></li><li><strong>Definition 2:</strong> The department of a hospital that treats emergencies.</li><li><strong>Definition 3:</strong> An individual brought in at short notice to replace a member of staff, a player in a sporting team, etc.</li><li><strong>Definition 4:</strong> The quality of being emergent; sudden or unexpected appearance; an unforeseen occurrence.</li></ul></div></div>"
+description: Yes, EMERG is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- emery
+anagrams:
+- merge
+definitions:
+- pos: noun
+  defs:
+  - text: A situation which poses an immediate risk and which requires urgent attention.
+    example: Cardiac arrest is an emergency and if you find someone in cardiac arrest
+      you should call 999 immediately.
+  - text: The department of a hospital that treats emergencies.
+  - text: An individual brought in at short notice to replace a member of staff, a
+      player in a sporting team, etc.
+  - text: The quality of being emergent; sudden or unexpected appearance; an unforeseen
+      occurrence.
 ---
-

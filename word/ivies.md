@@ -1,7 +1,36 @@
 ---
 layout: word
-title: ivies
+title: Is IVIES a Wordle Word?
+head_title: Is IVIES a Wordle Word? Yes – Valid Guess & Meaning
 word: ivies
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several woody, climbing or trailing evergreen plants of the genus Hedera.</li><li><strong>Definition 2:</strong> Any similar plant of any genus.</li></ul></div></div>"
+description: Yes, IVIES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- ivied
+anagrams:
+- visie
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several woody, climbing or trailing evergreen plants of the genus
+      Hedera.
+  - text: Any similar plant of any genus.
 ---
-

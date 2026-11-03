@@ -1,7 +1,44 @@
 ---
 layout: word
-title: lurid
+title: Is LURID a Wordle Word?
+head_title: 'Is LURID a Wordle Word? Yes – Past Answer #1609 & Meaning'
 word: lurid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈl(j)ʊə.ɹɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Shocking, horrifying.<p><strong>Example:</strong> The accident was described with lurid detail.</p></li><li><strong>Definition 2:</strong> Melodramatic.</li><li><strong>Definition 3:</strong> Ghastly, pale, wan in appearance.</li><li><strong>Definition 4:</strong> Being of a light yellow hue.<p><strong>Example:</strong> Some paperback novels have lurid covers.</p></li><li><strong>Definition 5:</strong> Having a brown colour tinged with red, as of flame seen through smoke.</li><li><strong>Definition 6:</strong> Having a colour tinged with purple, yellow, and grey.</li></ul></div></div>"
+description: Yes, LURID is a valid Wordle word. It was the Wordle answer on November
+  14, 2025 (#1609). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 14, 2025 (#1609).
+past_answers:
+- date: '2025-11-14'
+  number: 1609
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- lucid
+- lured
+- murid
+phonetic: "/ˈl(j)ʊə.ɹɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Shocking, horrifying.
+    example: The accident was described with lurid detail.
+  - text: Melodramatic.
+  - text: Ghastly, pale, wan in appearance.
+  - text: Being of a light yellow hue.
+    example: Some paperback novels have lurid covers.
+  - text: Having a brown colour tinged with red, as of flame seen through smoke.
+  - text: Having a colour tinged with purple, yellow, and grey.
 ---
-

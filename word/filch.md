@@ -1,7 +1,44 @@
 ---
 layout: word
-title: filch
+title: Is FILCH a Wordle Word?
+head_title: Is FILCH a Wordle Word? Yes – Valid Guess & Meaning
 word: filch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɪltʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something which has been filched or stolen.</li><li><strong>Definition 2:</strong> An act of filching; larceny, theft.</li><li><strong>Definition 3:</strong> A person who filches; a filcher, a pilferer, a thief.</li><li><strong>Definition 4:</strong> A hooked stick used to filch objects.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To illegally take possession of (especially items of low value); to pilfer, to steal.<p><strong>Example:</strong> Hey, someone filched my wallet!</p></li></ul></div></div>"
+description: Yes, FILCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- filth
+- finch
+- fitch
+- hilch
+- milch
+- pilch
+- zilch
+phonetic: "/fɪltʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something which has been filched or stolen.
+  - text: An act of filching; larceny, theft.
+  - text: A person who filches; a filcher, a pilferer, a thief.
+  - text: A hooked stick used to filch objects.
+- pos: verb
+  defs:
+  - text: To illegally take possession of (especially items of low value); to pilfer,
+      to steal.
+    example: Hey, someone filched my wallet!
 ---
-

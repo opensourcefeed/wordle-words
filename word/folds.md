@@ -1,7 +1,96 @@
 ---
 layout: word
-title: folds
+title: Is FOLDS a Wordle Word?
+head_title: Is FOLDS a Wordle Word? Yes – Valid Guess & Meaning
 word: folds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fəʊldz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of folding.<p><strong>Example:</strong> After two reraises in quick succession, John realised his best option was probably a fold.</p></li><li><strong>Definition 2:</strong> A bend or crease.</li><li><strong>Definition 3:</strong> Any correct move in origami.</li><li><strong>Definition 4:</strong> (newspapers) The division between the top and bottom halves of a broadsheet: headlines above the fold will be readable in a newsstand display; usually the fold.</li><li><strong>Definition 5:</strong> (by extension) The division between the part of a web page visible in a web browser window without scrolling; usually the fold.</li><li><strong>Definition 6:</strong> That which is folded together, or which enfolds or envelops; embrace.</li><li><strong>Definition 7:</strong> The bending or curving of one or a stack of originally flat and planar surfaces, such as sedimentary strata, as a result of plastic (i.e. permanent) deformation.</li><li><strong>Definition 8:</strong> In functional programming, any of a family of higher-order functions that process a data structure recursively to build up a value.</li><li><strong>Definition 9:</strong> A section of source code that can be collapsed out of view in an editor to aid readability.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bend (any thin material, such as paper) over so that it comes in contact with itself.</li><li><strong>Definition 2:</strong> To make the proper arrangement (in a thin material) by bending.<p><strong>Example:</strong> If you fold the sheets, they'll fit more easily in the drawer.</p></li><li><strong>Definition 3:</strong> To become folded; to form folds.<p><strong>Example:</strong> Cardboard doesn't fold very easily.</p></li><li><strong>Definition 4:</strong> To fall over; to be crushed.<p><strong>Example:</strong> The chair folded under his enormous weight.</p></li><li><strong>Definition 5:</strong> To enclose within folded arms (see also enfold).</li><li><strong>Definition 6:</strong> To give way on a point or in an argument.</li><li><strong>Definition 7:</strong> To withdraw from betting.<p><strong>Example:</strong> With no hearts in the river and no chance to hit his straight, he folded.</p></li><li><strong>Definition 8:</strong> (by extension) To withdraw or quit in general.</li><li><strong>Definition 9:</strong> To stir gently, with a folding action.<p><strong>Example:</strong> Fold the egg whites into the batter.</p></li><li><strong>Definition 10:</strong> Of a company, to cease to trade.<p><strong>Example:</strong> The company folded after six quarters of negative growth.</p></li><li><strong>Definition 11:</strong> To double or lay together, as the arms or the hands.<p><strong>Example:</strong> He folded his arms in defiance.</p></li><li><strong>Definition 12:</strong> To cover or wrap up; to conceal.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pen or enclosure for sheep or other domestic animals.</li><li><strong>Definition 2:</strong> (collective) A group of sheep or goats.</li><li><strong>Definition 3:</strong> Home, family.</li><li><strong>Definition 4:</strong> A church congregation, a group of people who adhere to a common faith and habitually attend a given church; the Christian church as a whole, the flock of Christ.</li><li><strong>Definition 5:</strong> A group of people with shared ideas or goals or who live or work together.</li><li><strong>Definition 6:</strong> A boundary or limit.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To confine animals in a fold.</li></ul></div></div>"
+description: Yes, FOLDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- bolds
+- colds
+- foids
+- folks
+- fonds
+- foods
+- fords
+- fouds
+- golds
+- holds
+- molds
+- solds
+trap:
+  pattern: _OLDS
+  count: 8
+phonetic: "/fəʊldz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An act of folding.
+    example: After two reraises in quick succession, John realised his best option
+      was probably a fold.
+  - text: A bend or crease.
+  - text: Any correct move in origami.
+  - text: "(newspapers) The division between the top and bottom halves of a broadsheet:
+      headlines above the fold will be readable in a newsstand display; usually the
+      fold."
+  - text: "(by extension) The division between the part of a web page visible in a
+      web browser window without scrolling; usually the fold."
+  - text: That which is folded together, or which enfolds or envelops; embrace.
+  - text: The bending or curving of one or a stack of originally flat and planar surfaces,
+      such as sedimentary strata, as a result of plastic (i.e. permanent) deformation.
+  - text: In functional programming, any of a family of higher-order functions that
+      process a data structure recursively to build up a value.
+  - text: A section of source code that can be collapsed out of view in an editor
+      to aid readability.
+- pos: verb
+  defs:
+  - text: To bend (any thin material, such as paper) over so that it comes in contact
+      with itself.
+  - text: To make the proper arrangement (in a thin material) by bending.
+    example: If you fold the sheets, they'll fit more easily in the drawer.
+  - text: To become folded; to form folds.
+    example: Cardboard doesn't fold very easily.
+  - text: To fall over; to be crushed.
+    example: The chair folded under his enormous weight.
+  - text: To enclose within folded arms (see also enfold).
+  - text: To give way on a point or in an argument.
+  - text: To withdraw from betting.
+    example: With no hearts in the river and no chance to hit his straight, he folded.
+  - text: "(by extension) To withdraw or quit in general."
+  - text: To stir gently, with a folding action.
+    example: Fold the egg whites into the batter.
+  - text: Of a company, to cease to trade.
+    example: The company folded after six quarters of negative growth.
+  - text: To double or lay together, as the arms or the hands.
+    example: He folded his arms in defiance.
+  - text: To cover or wrap up; to conceal.
+- pos: noun
+  defs:
+  - text: A pen or enclosure for sheep or other domestic animals.
+  - text: "(collective) A group of sheep or goats."
+  - text: Home, family.
+  - text: A church congregation, a group of people who adhere to a common faith and
+      habitually attend a given church; the Christian church as a whole, the flock
+      of Christ.
+  - text: A group of people with shared ideas or goals or who live or work together.
+  - text: A boundary or limit.
+- pos: verb
+  defs:
+  - text: To confine animals in a fold.
 ---
-

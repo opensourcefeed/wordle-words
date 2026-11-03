@@ -1,7 +1,66 @@
 ---
 layout: word
-title: fakes
+title: Is FAKES a Wordle Word?
+head_title: Is FAKES a Wordle Word? Yes – Valid Guess & Meaning
 word: fakes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /feɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something which is not genuine, or is presented fraudulently.</li><li><strong>Definition 2:</strong> A trick; a swindle.</li><li><strong>Definition 3:</strong> A move meant to deceive an opposing player, used for gaining advantage for example when dribbling an opponent.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cheat; to swindle; to steal; to rob.</li><li><strong>Definition 2:</strong> To modify fraudulently, so as to make an object appear better or other than it really is</li><li><strong>Definition 3:</strong> To make a counterfeit, to counterfeit, to forge, to falsify.</li><li><strong>Definition 4:</strong> To make a false display of, to affect, to feign, to simulate.<p><strong>Example:</strong> to fake a marriage</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the circles or windings of a cable or hawser, as it lies in a coil; a single turn or coil.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To coil (a rope, line, or hawser), by winding alternately in opposite directions, in layers usually of zigzag or figure of eight form, to prevent twisting when running out.</li></ul></div></div>"
+description: Yes, FAKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- bakes
+- cakes
+- faces
+- fades
+- faked
+- faker
+- fakey
+- fales
+- fames
+- fanes
+- fares
+- fates
+trap:
+  pattern: _AKES
+  count: 11
+phonetic: "/feɪks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something which is not genuine, or is presented fraudulently.
+  - text: A trick; a swindle.
+  - text: A move meant to deceive an opposing player, used for gaining advantage for
+      example when dribbling an opponent.
+- pos: verb
+  defs:
+  - text: To cheat; to swindle; to steal; to rob.
+  - text: To modify fraudulently, so as to make an object appear better or other than
+      it really is
+  - text: To make a counterfeit, to counterfeit, to forge, to falsify.
+  - text: To make a false display of, to affect, to feign, to simulate.
+    example: to fake a marriage
+- pos: noun
+  defs:
+  - text: One of the circles or windings of a cable or hawser, as it lies in a coil;
+      a single turn or coil.
+- pos: verb
+  defs:
+  - text: To coil (a rope, line, or hawser), by winding alternately in opposite directions,
+      in layers usually of zigzag or figure of eight form, to prevent twisting when
+      running out.
 ---
-

@@ -1,7 +1,45 @@
 ---
 layout: word
-title: vivas
+title: Is VIVAS a Wordle Word?
+head_title: Is VIVAS a Wordle Word? Yes – Valid Guess & Meaning
 word: vivas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shout of applause.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An oral examination, typically for an academic qualification.</li></ul></div></div>"
+description: Yes, VIVAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 4
+  repeated:
+  - V
+  common:
+  - I
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- divas
+- kivas
+- nivas
+- rivas
+- vigas
+- vinas
+- visas
+- vitas
+- vivat
+- vives
+- vivos
+definitions:
+- pos: noun
+  defs:
+  - text: A shout of applause.
+- pos: noun
+  defs:
+  - text: An oral examination, typically for an academic qualification.
 ---
-

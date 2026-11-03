@@ -1,7 +1,59 @@
 ---
 layout: word
-title: tooth
+title: Is TOOTH a Wordle Word?
+head_title: 'Is TOOTH a Wordle Word? Yes – Past Answer #1326 & Meaning'
 word: tooth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tuːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating.</li><li><strong>Definition 2:</strong> A sharp projection on the blade of a saw or similar implement.</li><li><strong>Definition 3:</strong> A projection on the edge of a gear that meshes with similar projections on adjacent gears, or on the circumference of a cog that engages with a chain.</li><li><strong>Definition 4:</strong> A projection or point in other parts of the body resembling the tooth of a vertebrate animal.</li><li><strong>Definition 5:</strong> A pointed projection from the margin of a leaf.</li><li><strong>Definition 6:</strong> The rough surface of some kinds of cel or other films that allows better adhesion of artwork.</li><li><strong>Definition 7:</strong> Liking, fondness (compare toothsome).<p><strong>Example:</strong> I have a sweet tooth: I love sugary treats.</p></li><li><strong>Definition 8:</strong> An irreducible component of a comb that intersects the handle in exactly one point, that point being distinct from the unique point of intersection for any other tooth of the comb.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To provide or furnish with teeth.</li><li><strong>Definition 2:</strong> To indent; to jag.<p><strong>Example:</strong> to tooth a saw</p></li><li><strong>Definition 3:</strong> To lock into each other, like gear wheels.</li></ul></div></div>"
+description: Yes, TOOTH is a valid Wordle word. It was the Wordle answer on February
+  4, 2025 (#1326). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 4, 2025 (#1326).
+past_answers:
+- date: '2025-02-04'
+  number: 1326
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - T
+  - O
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- booth
+- sooth
+- mooth
+- toots
+- troth
+phonetic: "/tuːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hard, calcareous structure present in the mouth of many vertebrate animals,
+      generally used for eating.
+  - text: A sharp projection on the blade of a saw or similar implement.
+  - text: A projection on the edge of a gear that meshes with similar projections
+      on adjacent gears, or on the circumference of a cog that engages with a chain.
+  - text: A projection or point in other parts of the body resembling the tooth of
+      a vertebrate animal.
+  - text: A pointed projection from the margin of a leaf.
+  - text: The rough surface of some kinds of cel or other films that allows better
+      adhesion of artwork.
+  - text: Liking, fondness (compare toothsome).
+    example: 'I have a sweet tooth: I love sugary treats.'
+  - text: An irreducible component of a comb that intersects the handle in exactly
+      one point, that point being distinct from the unique point of intersection for
+      any other tooth of the comb.
+- pos: verb
+  defs:
+  - text: To provide or furnish with teeth.
+  - text: To indent; to jag.
+    example: to tooth a saw
+  - text: To lock into each other, like gear wheels.
 ---
-

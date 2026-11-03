@@ -1,7 +1,63 @@
 ---
 layout: word
-title: hulls
+title: Is HULLS a Wordle Word?
+head_title: Is HULLS a Wordle Word? Yes – Valid Guess & Meaning
 word: hulls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hʌlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The outer covering of a fruit or seed.</li><li><strong>Definition 2:</strong> Any covering.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the outer covering of a fruit or seed.<p><strong>Example:</strong> She sat on the back porch hulling peanuts.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The body or frame of a vessel, such as a ship or plane.</li><li><strong>Definition 2:</strong> (of a set A) The smallest set that possesses a particular property (such as convexity) and contains every point of A; slightly more formally, the intersection of all sets which possess the specified property and of which A is a subset.<p><strong>Example:</strong> The orthogonal convex hull of an orthogonal polygon is the smallest orthogonally convex polygon that encloses the original polygon.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drift; to be carried by the impetus of wind or water on the ship's hull alone, with sails furled.</li><li><strong>Definition 2:</strong> To hit (a ship) in the hull with cannon fire etc.</li></ul></div></div>"
+description: Yes, HULLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- bulls
+- culls
+- dulls
+- fulls
+- gulls
+- halls
+- hells
+- hills
+- hulas
+- hules
+- hulks
+- hullo
+trap:
+  pattern: _ULLS
+  count: 12
+phonetic: "/hʌlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The outer covering of a fruit or seed.
+  - text: Any covering.
+- pos: verb
+  defs:
+  - text: To remove the outer covering of a fruit or seed.
+    example: She sat on the back porch hulling peanuts.
+- pos: noun
+  defs:
+  - text: The body or frame of a vessel, such as a ship or plane.
+  - text: "(of a set A) The smallest set that possesses a particular property (such
+      as convexity) and contains every point of A; slightly more formally, the intersection
+      of all sets which possess the specified property and of which A is a subset."
+    example: The orthogonal convex hull of an orthogonal polygon is the smallest orthogonally
+      convex polygon that encloses the original polygon.
+- pos: verb
+  defs:
+  - text: To drift; to be carried by the impetus of wind or water on the ship's hull
+      alone, with sails furled.
+  - text: To hit (a ship) in the hull with cannon fire etc.
 ---
-

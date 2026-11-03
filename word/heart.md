@@ -1,7 +1,75 @@
 ---
 layout: word
-title: heart
+title: Is HEART a Wordle Word?
+head_title: 'Is HEART a Wordle Word? Yes – Past Answer #767 & Meaning'
 word: heart
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɑːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion.</li><li><strong>Definition 2:</strong> Emotions, kindness, moral effort, or spirit in general.<p><strong>Example:</strong> The team lost, but they showed a lot of heart.</p></li><li><strong>Definition 3:</strong> The seat of the affections or sensibilities, collectively or separately, as love, hate, joy, grief, courage, etc.; rarely, the seat of the understanding or will; usually in a good sense; personality.<p><strong>Example:</strong> a good, tender, loving, bad, hard, or selfish heart</p></li><li><strong>Definition 4:</strong> Courage; courageous purpose; spirit.</li><li><strong>Definition 5:</strong> Vigorous and efficient activity; power of fertile production; condition of the soil, whether good or bad.</li><li><strong>Definition 6:</strong> A term of affectionate or kindly and familiar address.<p><strong>Example:</strong> Listen, dear heart, we must go now.</p></li><li><strong>Definition 7:</strong> Personality, disposition.<p><strong>Example:</strong> a cold heart</p></li><li><strong>Definition 8:</strong> A wight or being.</li><li><strong>Definition 9:</strong> A conventional shape or symbol used to represent the heart, love, or emotion: ♥ or sometimes <3.</li><li><strong>Definition 10:</strong> A playing card of the suit hearts featuring one or more heart-shaped symbols.</li><li><strong>Definition 11:</strong> The twenty-fourth Lenormand card.</li><li><strong>Definition 12:</strong> The centre, essence, or core.<p><strong>Example:</strong> Buddhists believe that suffering is right at the heart of all life.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be fond of. Often bracketed or abbreviated with a heart symbol.<p><strong>Example:</strong> 2008 July 25, \"The Media Hearts Obama?\", On The Media, National Public Radio</p></li><li><strong>Definition 2:</strong> To give heart to; to hearten; to encourage.</li><li><strong>Definition 3:</strong> To fill an interior with rubble, as a wall or a breakwater.</li><li><strong>Definition 4:</strong> To form a dense cluster of leaves, a heart, especially of lettuce or cabbage.</li></ul></div></div>"
+description: Yes, HEART is a valid Wordle word. It was the Wordle answer on July 26,
+  2023 (#767). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 26, 2023 (#767).
+past_answers:
+- date: '2023-07-26'
+  number: 767
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- heard
+- feart
+- heare
+- hears
+- heast
+- peart
+anagrams:
+- earth
+- hater
+- rathe
+- thrae
+phonetic: "/hɑːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A muscular organ that pumps blood through the body, traditionally thought
+      to be the seat of emotion.
+  - text: Emotions, kindness, moral effort, or spirit in general.
+    example: The team lost, but they showed a lot of heart.
+  - text: The seat of the affections or sensibilities, collectively or separately,
+      as love, hate, joy, grief, courage, etc.; rarely, the seat of the understanding
+      or will; usually in a good sense; personality.
+    example: a good, tender, loving, bad, hard, or selfish heart
+  - text: Courage; courageous purpose; spirit.
+  - text: Vigorous and efficient activity; power of fertile production; condition
+      of the soil, whether good or bad.
+  - text: A term of affectionate or kindly and familiar address.
+    example: Listen, dear heart, we must go now.
+  - text: Personality, disposition.
+    example: a cold heart
+  - text: A wight or being.
+  - text: 'A conventional shape or symbol used to represent the heart, love, or emotion:
+      ♥ or sometimes <3.'
+  - text: A playing card of the suit hearts featuring one or more heart-shaped symbols.
+  - text: The twenty-fourth Lenormand card.
+  - text: The centre, essence, or core.
+    example: Buddhists believe that suffering is right at the heart of all life.
+- pos: verb
+  defs:
+  - text: To be fond of. Often bracketed or abbreviated with a heart symbol.
+    example: 2008 July 25, "The Media Hearts Obama?", On The Media, National Public
+      Radio
+  - text: To give heart to; to hearten; to encourage.
+  - text: To fill an interior with rubble, as a wall or a breakwater.
+  - text: To form a dense cluster of leaves, a heart, especially of lettuce or cabbage.
 ---
-

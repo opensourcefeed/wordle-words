@@ -1,7 +1,44 @@
 ---
 layout: word
-title: tetes
+title: Is TETES a Wordle Word?
+head_title: Is TETES a Wordle Word? Yes – Valid Guess
 word: tetes
-meaning: ""
+description: Yes, TETES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - T
+  - E
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- betes
+- cetes
+- fetes
+- hetes
+- jetes
+- ketes
+- metes
+- netes
+- tates
+- teles
+- temes
+- tenes
+anagrams:
+- teets
+- teste
+trap:
+  pattern: _ETES
+  count: 9
 ---
-

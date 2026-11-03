@@ -1,7 +1,101 @@
 ---
 layout: word
-title: spike
+title: Is SPIKE a Wordle Word?
+head_title: 'Is SPIKE a Wordle Word? Yes – Past Answer #47 & Meaning'
 word: spike
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spaɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> In a violin-family instrument, the carved wooden plug which sits in the bottom block of the instrument.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The spike of a cello or double bass that makes contact with the floor and supports the weight of the instrument.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sort of very large nail.</li><li><strong>Definition 2:</strong> A piece of pointed metal etc. set with points upward or outward.<p><strong>Example:</strong> The trap was lined with spikes.</p></li><li><strong>Definition 3:</strong> Anything resembling such a nail in shape.</li><li><strong>Definition 4:</strong> An ear of corn or grain.</li><li><strong>Definition 5:</strong> A kind of inflorescence in which sessile flowers are arranged on an unbranched elongated axis.</li><li><strong>Definition 6:</strong> (chiefly in the plural) A running shoe with spikes in the sole to provide grip.</li><li><strong>Definition 7:</strong> A sharp peak in a graph.</li><li><strong>Definition 8:</strong> A surge in power or in the price of a commodity etc.</li><li><strong>Definition 9:</strong> The long, narrow part of a high-heeled shoe that elevates the heel.</li><li><strong>Definition 10:</strong> A long nail for storing papers by skewering them; (by extension) the metaphorical place where rejected newspaper articles are sent.</li><li><strong>Definition 11:</strong> An attack from, usually, above the height of the net performed with the intent to send the ball straight to the floor of the opponent or off the hands of the opposing block.</li><li><strong>Definition 12:</strong> An adolescent male deer.</li><li><strong>Definition 13:</strong> The casual ward of a workhouse.</li><li><strong>Definition 14:</strong> Spike lavender.<p><strong>Example:</strong> oil of spike</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fasten with spikes, or long, large nails.<p><strong>Example:</strong> to spike down planks</p></li><li><strong>Definition 2:</strong> To set or furnish with spikes.</li><li><strong>Definition 3:</strong> To embed nails into (a tree) so that any attempt to cut it down will damage equipment or injure people.</li><li><strong>Definition 4:</strong> To fix on a spike.</li><li><strong>Definition 5:</strong> To discard; to decide not to publish or make public.</li><li><strong>Definition 6:</strong> To increase sharply.<p><strong>Example:</strong> Traffic accidents spiked in December when there was ice on the roads.</p></li><li><strong>Definition 7:</strong> To covertly put alcohol or another intoxicating substance into a drink.<p><strong>Example:</strong> She spiked my lemonade with vodka!</p></li><li><strong>Definition 8:</strong> To add a small amount of one substance to another.<p><strong>Example:</strong> The water sample to be tested has been spiked with arsenic, antimony, mercury, and lead in quantities commonly found in industrial effluents.</p></li><li><strong>Definition 9:</strong> To attack from, usually, above the height of the net with the intent to send the ball straight to the floor of the opponent or off the hands of the opposing block.</li><li><strong>Definition 10:</strong> To render (a gun) unusable by driving a metal spike into its touch hole.</li><li><strong>Definition 11:</strong> (football slang) To slam the football to the ground, usually in celebration of scoring a touchdown, or to stop expiring time on the game clock after snapping the ball as to save time for the losing team to attempt to score the tying or winning points.</li></ul></div></div>"
+description: Yes, SPIKE is a valid Wordle word. It was the Wordle answer on August
+  5, 2021 (#47). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 5, 2021 (#47).
+past_answers:
+- date: '2021-08-05'
+  number: 47
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- spice
+- spiky
+- spine
+- spire
+- spite
+- spoke
+- spake
+- spide
+- spile
+anagrams:
+- kepis
+- kipes
+- pikes
+trap:
+  pattern: SPI_E
+  count: 7
+phonetic: "/spaɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: In a violin-family instrument, the carved wooden plug which sits in the
+      bottom block of the instrument.
+- pos: noun
+  defs:
+  - text: The spike of a cello or double bass that makes contact with the floor and
+      supports the weight of the instrument.
+- pos: noun
+  defs:
+  - text: A sort of very large nail.
+  - text: A piece of pointed metal etc. set with points upward or outward.
+    example: The trap was lined with spikes.
+  - text: Anything resembling such a nail in shape.
+  - text: An ear of corn or grain.
+  - text: A kind of inflorescence in which sessile flowers are arranged on an unbranched
+      elongated axis.
+  - text: "(chiefly in the plural) A running shoe with spikes in the sole to provide
+      grip."
+  - text: A sharp peak in a graph.
+  - text: A surge in power or in the price of a commodity etc.
+  - text: The long, narrow part of a high-heeled shoe that elevates the heel.
+  - text: A long nail for storing papers by skewering them; (by extension) the metaphorical
+      place where rejected newspaper articles are sent.
+  - text: An attack from, usually, above the height of the net performed with the
+      intent to send the ball straight to the floor of the opponent or off the hands
+      of the opposing block.
+  - text: An adolescent male deer.
+  - text: The casual ward of a workhouse.
+  - text: Spike lavender.
+    example: oil of spike
+- pos: verb
+  defs:
+  - text: To fasten with spikes, or long, large nails.
+    example: to spike down planks
+  - text: To set or furnish with spikes.
+  - text: To embed nails into (a tree) so that any attempt to cut it down will damage
+      equipment or injure people.
+  - text: To fix on a spike.
+  - text: To discard; to decide not to publish or make public.
+  - text: To increase sharply.
+    example: Traffic accidents spiked in December when there was ice on the roads.
+  - text: To covertly put alcohol or another intoxicating substance into a drink.
+    example: She spiked my lemonade with vodka!
+  - text: To add a small amount of one substance to another.
+    example: The water sample to be tested has been spiked with arsenic, antimony,
+      mercury, and lead in quantities commonly found in industrial effluents.
+  - text: To attack from, usually, above the height of the net with the intent to
+      send the ball straight to the floor of the opponent or off the hands of the
+      opposing block.
+  - text: To render (a gun) unusable by driving a metal spike into its touch hole.
+  - text: "(football slang) To slam the football to the ground, usually in celebration
+      of scoring a touchdown, or to stop expiring time on the game clock after snapping
+      the ball as to save time for the losing team to attempt to score the tying or
+      winning points."
 ---
-

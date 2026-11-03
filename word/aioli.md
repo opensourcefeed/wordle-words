@@ -1,7 +1,34 @@
 ---
 layout: word
-title: aioli
+title: Is AIOLI a Wordle Word?
+head_title: Is AIOLI a Wordle Word? Yes – Valid Guess & Meaning
 word: aioli
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /aɪˈəʊlɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of sauce, similar to mayonnaise, made from garlic, egg, lemon juice and olive oil.</li></ul></div></div>"
+description: Yes, AIOLI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - A
+  - I
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+phonetic: "/aɪˈəʊlɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of sauce, similar to mayonnaise, made from garlic, egg, lemon juice
+      and olive oil.
 ---
-

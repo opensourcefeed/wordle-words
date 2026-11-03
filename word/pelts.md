@@ -1,7 +1,60 @@
 ---
 layout: word
-title: pelts
+title: Is PELTS a Wordle Word?
+head_title: Is PELTS a Wordle Word? Yes – Valid Guess & Meaning
 word: pelts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blow or stroke from something thrown.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bombard, as with missiles.<p><strong>Example:</strong> They pelted the attacking army with bullets.</p></li><li><strong>Definition 2:</strong> To throw; to use as a missile.<p><strong>Example:</strong> The children pelted apples at us.</p></li><li><strong>Definition 3:</strong> To rain or hail heavily.<p><strong>Example:</strong> It's pelting down out there!</p></li><li><strong>Definition 4:</strong> To beat or hit, especially repeatedly.</li><li><strong>Definition 5:</strong> To move rapidly, especially in or on a conveyance.</li><li><strong>Definition 6:</strong> To throw out words.</li></ul></div></div>"
+description: Yes, PELTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- belts
+- celts
+- delts
+- felts
+- gelts
+- kelts
+- melts
+- peats
+- pects
+- pelas
+- peles
+- pelfs
+anagrams:
+- slept
+- spelt
+- plets
+trap:
+  pattern: _ELTS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A blow or stroke from something thrown.
+- pos: verb
+  defs:
+  - text: To bombard, as with missiles.
+    example: They pelted the attacking army with bullets.
+  - text: To throw; to use as a missile.
+    example: The children pelted apples at us.
+  - text: To rain or hail heavily.
+    example: It's pelting down out there!
+  - text: To beat or hit, especially repeatedly.
+  - text: To move rapidly, especially in or on a conveyance.
+  - text: To throw out words.
 ---
-

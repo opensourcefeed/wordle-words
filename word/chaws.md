@@ -1,7 +1,55 @@
 ---
 layout: word
-title: chaws
+title: Is CHAWS a Wordle Word?
+head_title: Is CHAWS a Wordle Word? Yes – Valid Guess & Meaning
 word: chaws
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Chewing tobacco.<p><strong>Example:</strong> When the doctor told him to quit smoking, Harvey switched to chaw, but then developed cancer of the mouth.</p></li><li><strong>Definition 2:</strong> A plug or wad of chewing tobacco.</li><li><strong>Definition 3:</strong> The jaw.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To chew; to grind with one's teeth; to masticate (food, or the cud)</li><li><strong>Definition 2:</strong> To ruminate (about) in thought; to ponder; to consider</li><li><strong>Definition 3:</strong> To steal.<p><strong>Example:</strong> Some pikey's chawed my bike.</p></li></ul></div></div>"
+description: Yes, CHAWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- chaos
+- chads
+- chais
+- chals
+- chams
+- chaps
+- chars
+- chats
+- chavs
+- chawk
+- chawl
+- chays
+anagrams:
+- schwa
+trap:
+  pattern: CHA_S
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: Chewing tobacco.
+    example: When the doctor told him to quit smoking, Harvey switched to chaw, but
+      then developed cancer of the mouth.
+  - text: A plug or wad of chewing tobacco.
+  - text: The jaw.
+- pos: verb
+  defs:
+  - text: To chew; to grind with one's teeth; to masticate (food, or the cud)
+  - text: To ruminate (about) in thought; to ponder; to consider
+  - text: To steal.
+    example: Some pikey's chawed my bike.
 ---
-

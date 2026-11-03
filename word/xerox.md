@@ -1,7 +1,40 @@
 ---
 layout: word
-title: xerox
+title: Is XEROX a Wordle Word?
+head_title: Is XEROX a Wordle Word? Yes – Valid Guess & Meaning
 word: xerox
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A photocopy.<p><strong>Example:</strong> Hand me that xerox, would you?</p></li><li><strong>Definition 2:</strong> A photocopier.<p><strong>Example:</strong> The xerox broke down yesterday.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a paper copy or copies by means of a photocopier.<p><strong>Example:</strong> I xeroxed the report for all the people at the meeting.</p></li></ul></div></div>"
+description: Yes, XEROX is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - X
+  common:
+  - E
+  - R
+  - O
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- ferox
+definitions:
+- pos: noun
+  defs:
+  - text: A photocopy.
+    example: Hand me that xerox, would you?
+  - text: A photocopier.
+    example: The xerox broke down yesterday.
+- pos: verb
+  defs:
+  - text: To make a paper copy or copies by means of a photocopier.
+    example: I xeroxed the report for all the people at the meeting.
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: azure
+title: Is AZURE a Wordle Word?
+head_title: 'Is AZURE a Wordle Word? Yes – Past Answer #832 & Meaning'
 word: azure
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /æˈzjʊə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blue colour on a coat of arms, represented in engraving by horizontal parallel lines.</li><li><strong>Definition 2:</strong> The clear blue colour of the sky; also, a pigment or dye of this colour.</li><li><strong>Definition 3:</strong> The unclouded sky; the blue vault above.</li><li><strong>Definition 4:</strong> Any of various widely distributed lycaenid butterflies of the genus Celastrina.</li><li><strong>Definition 5:</strong> Any of various Australasian lycaenid butterflies of the genus Ogyris.</li><li><strong>Definition 6:</strong> Lapis lazuli.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To colour blue.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sky blue; resembling the clear blue colour of the unclouded sky</li><li><strong>Definition 2:</strong> Cloudless</li><li><strong>Definition 3:</strong> In blazon, of the colour blue.</li></ul></div></div>"
+description: Yes, AZURE is a valid Wordle word. It was the Wordle answer on September
+  29, 2023 (#832). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 29, 2023 (#832).
+past_answers:
+- date: '2023-09-29'
+  number: 832
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- alure
+- azurn
+- azury
+phonetic: "/æˈzjʊə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A blue colour on a coat of arms, represented in engraving by horizontal
+      parallel lines.
+  - text: The clear blue colour of the sky; also, a pigment or dye of this colour.
+  - text: The unclouded sky; the blue vault above.
+  - text: Any of various widely distributed lycaenid butterflies of the genus Celastrina.
+  - text: Any of various Australasian lycaenid butterflies of the genus Ogyris.
+  - text: Lapis lazuli.
+- pos: verb
+  defs:
+  - text: To colour blue.
+- pos: adjective
+  defs:
+  - text: Sky blue; resembling the clear blue colour of the unclouded sky
+  - text: Cloudless
+  - text: In blazon, of the colour blue.
 ---
-

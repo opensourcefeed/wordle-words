@@ -1,7 +1,43 @@
 ---
 layout: word
-title: janky
+title: Is JANKY a Wordle Word?
+head_title: Is JANKY a Wordle Word? Yes – Valid Guess & Meaning
 word: janky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈd͡ʒæŋ.ki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of poor quality.</li><li><strong>Definition 2:</strong> Strange, odd.</li><li><strong>Definition 3:</strong> Unresponsive (of a software application’s user interface), sluggish.</li></ul></div></div>"
+description: Yes, JANKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- lanky
+- banky
+- hanky
+- jacky
+- janny
+- janty
+- junky
+- manky
+- tanky
+trap:
+  pattern: _ANKY
+  count: 7
+phonetic: "/ˈd͡ʒæŋ.ki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of poor quality.
+  - text: Strange, odd.
+  - text: Unresponsive (of a software application’s user interface), sluggish.
 ---
-

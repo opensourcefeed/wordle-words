@@ -1,7 +1,40 @@
 ---
 layout: word
-title: agley
+title: Is AGLEY a Wordle Word?
+head_title: Is AGLEY a Wordle Word? Yes – Valid Guess & Meaning
 word: agley
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈɡleɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Wrong; askew.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Wrong, awry, askew, amiss, or distortedly.</li></ul></div></div>"
+description: Yes, AGLEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- alley
+- aglee
+- aglet
+- aguey
+anagrams:
+- eagly
+phonetic: "/əˈɡleɪ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Wrong; askew.
+- pos: adverb
+  defs:
+  - text: Wrong, awry, askew, amiss, or distortedly.
 ---
-

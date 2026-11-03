@@ -1,7 +1,53 @@
 ---
 layout: word
-title: verve
+title: Is VERVE a Wordle Word?
+head_title: 'Is VERVE a Wordle Word? Yes – Past Answer #795 & Meaning'
 word: verve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /vɜː(r)v/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Excitement of imagination such as that which animates a poet, artist, or musician, in composing or performing</li><li><strong>Definition 2:</strong> Artistic energy and enthusiasm</li><li><strong>Definition 3:</strong> Vigour, vitality and liveliness</li><li><strong>Definition 4:</strong> Rapture, enthusiasm</li><li><strong>Definition 5:</strong> Spirit, energy</li></ul></div></div>"
+description: Yes, VERVE is a valid Wordle word. It was the Wordle answer on August
+  23, 2023 (#795). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 23, 2023 (#795).
+past_answers:
+- date: '2023-08-23'
+  number: 795
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - V
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- nerve
+- serve
+- verge
+- verse
+- kerve
+- perve
+- varve
+- verde
+- verre
+- verte
+- veuve
+trap:
+  pattern: VER_E
+  count: 6
+phonetic: "/vɜː(r)v/"
+definitions:
+- pos: noun
+  defs:
+  - text: Excitement of imagination such as that which animates a poet, artist, or
+      musician, in composing or performing
+  - text: Artistic energy and enthusiasm
+  - text: Vigour, vitality and liveliness
+  - text: Rapture, enthusiasm
+  - text: Spirit, energy
 ---
-

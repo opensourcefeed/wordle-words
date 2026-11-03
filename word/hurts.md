@@ -1,7 +1,55 @@
 ---
 layout: word
-title: hurts
+title: Is HURTS a Wordle Word?
+head_title: Is HURTS a Wordle Word? Yes – Valid Guess & Meaning
 word: hurts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɜːts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An emotional or psychological humiliation or bad experience.<p><strong>Example:</strong> how to overcome old hurts of the past</p></li><li><strong>Definition 2:</strong> A bodily injury causing pain; a wound or bruise.</li><li><strong>Definition 3:</strong> Injury; damage; detriment; harm</li><li><strong>Definition 4:</strong> A roundel azure (blue circular spot).</li><li><strong>Definition 5:</strong> A band on a trip-hammer helve, bearing the trunnions.</li><li><strong>Definition 6:</strong> A husk.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be painful.<p><strong>Example:</strong> Does your leg still hurt? / It is starting to feel better.</p></li><li><strong>Definition 2:</strong> To cause (a creature) physical pain and/or injury.<p><strong>Example:</strong> If anybody hurts my little brother, I will get upset.</p></li><li><strong>Definition 3:</strong> To cause (somebody) emotional pain.</li><li><strong>Definition 4:</strong> To undermine, impede, or damage.<p><strong>Example:</strong> This latest gaffe hurts the legislator’s reelection prospects still further.</p></li></ul></div></div>"
+description: Yes, HURTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- harts
+- hunts
+- hurds
+- hurls
+- hurty
+- nurts
+- yurts
+anagrams:
+- hurst
+- ruths
+phonetic: "/hɜːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: An emotional or psychological humiliation or bad experience.
+    example: how to overcome old hurts of the past
+  - text: A bodily injury causing pain; a wound or bruise.
+  - text: Injury; damage; detriment; harm
+  - text: A roundel azure (blue circular spot).
+  - text: A band on a trip-hammer helve, bearing the trunnions.
+  - text: A husk.
+- pos: verb
+  defs:
+  - text: To be painful.
+    example: Does your leg still hurt? / It is starting to feel better.
+  - text: To cause (a creature) physical pain and/or injury.
+    example: If anybody hurts my little brother, I will get upset.
+  - text: To cause (somebody) emotional pain.
+  - text: To undermine, impede, or damage.
+    example: This latest gaffe hurts the legislator’s reelection prospects still further.
 ---
-

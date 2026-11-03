@@ -1,7 +1,53 @@
 ---
 layout: word
-title: wools
+title: Is WOOLS a Wordle Word?
+head_title: Is WOOLS a Wordle Word? Yes – Valid Guess & Meaning
 word: wools
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The hair of the sheep, llama and some other ruminants.</li><li><strong>Definition 2:</strong> A cloth or yarn made from the wool of sheep.</li><li><strong>Definition 3:</strong> Anything with a texture like that of wool.</li><li><strong>Definition 4:</strong> A fine fiber obtained from the leaves of certain trees, such as firs and pines.</li><li><strong>Definition 5:</strong> Short, thick hair, especially when crisped or curled.</li><li><strong>Definition 6:</strong> Yarn (including that which is made from synthetic fibers.)</li><li><strong>Definition 7:</strong> Derogatory term for residents of the satellite towns outside Liverpool, such as St Helens or Warrington. See also Yonner.</li></ul></div></div>"
+description: Yes, WOOLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- wooly
+- bools
+- cools
+- dools
+- fools
+- gools
+- mools
+- pools
+- sools
+- tools
+- woods
+- woofs
+trap:
+  pattern: _OOLS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: The hair of the sheep, llama and some other ruminants.
+  - text: A cloth or yarn made from the wool of sheep.
+  - text: Anything with a texture like that of wool.
+  - text: A fine fiber obtained from the leaves of certain trees, such as firs and
+      pines.
+  - text: Short, thick hair, especially when crisped or curled.
+  - text: Yarn (including that which is made from synthetic fibers.)
+  - text: Derogatory term for residents of the satellite towns outside Liverpool,
+      such as St Helens or Warrington. See also Yonner.
 ---
-

@@ -1,7 +1,68 @@
 ---
 layout: word
-title: limps
+title: Is LIMPS a Wordle Word?
+head_title: Is LIMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: limps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lɪmps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An irregular, jerky or awkward gait.<p><strong>Example:</strong> She walks with a limp.</p></li><li><strong>Definition 2:</strong> A scraper for removing poor ore or refuse from the sieve.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To walk lamely, as if favouring one leg.</li><li><strong>Definition 2:</strong> (of a vehicle) To travel with a malfunctioning system of propulsion.<p><strong>Example:</strong> The bomber limped home on one engine.</p></li><li><strong>Definition 3:</strong> To move or proceed irregularly.<p><strong>Example:</strong> The business limped through the recession</p></li><li><strong>Definition 4:</strong> To call, particularly in an unraised pot pre-flop.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A scraper of board or sheet-iron shaped like half the head of a small cask, used for scraping the ore off the sieve in the operation of hand-jigging.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be inadequate or unsatisfactory.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To happen; befall; chance.</li><li><strong>Definition 2:</strong> To come upon; meet.</li></ul></div></div>"
+description: Yes, LIMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- dimps
+- gimps
+- lamps
+- limas
+- limbs
+- limes
+- limns
+- limos
+- limpa
+- lisps
+- lumps
+- nimps
+anagrams:
+- plims
+trap:
+  pattern: _IMPS
+  count: 8
+phonetic: "/lɪmps/"
+definitions:
+- pos: noun
+  defs:
+  - text: An irregular, jerky or awkward gait.
+    example: She walks with a limp.
+  - text: A scraper for removing poor ore or refuse from the sieve.
+- pos: verb
+  defs:
+  - text: To walk lamely, as if favouring one leg.
+  - text: "(of a vehicle) To travel with a malfunctioning system of propulsion."
+    example: The bomber limped home on one engine.
+  - text: To move or proceed irregularly.
+    example: The business limped through the recession
+  - text: To call, particularly in an unraised pot pre-flop.
+- pos: noun
+  defs:
+  - text: A scraper of board or sheet-iron shaped like half the head of a small cask,
+      used for scraping the ore off the sieve in the operation of hand-jigging.
+- pos: verb
+  defs:
+  - text: To be inadequate or unsatisfactory.
+- pos: verb
+  defs:
+  - text: To happen; befall; chance.
+  - text: To come upon; meet.
 ---
-

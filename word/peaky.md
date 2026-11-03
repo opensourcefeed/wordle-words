@@ -1,7 +1,42 @@
 ---
 layout: word
-title: peaky
+title: Is PEAKY a Wordle Word?
+head_title: Is PEAKY a Wordle Word? Yes – Valid Guess & Meaning
 word: peaky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpiːki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sickly; peaked.</li><li><strong>Definition 2:</strong> Characterised by peaks.</li></ul></div></div>"
+description: Yes, PEAKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- leaky
+- perky
+- pesky
+- beaky
+- peake
+- peaks
+- peasy
+- peaty
+- peavy
+- pecky
+- peeky
+phonetic: "/ˈpiːki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Sickly; peaked.
+  - text: Characterised by peaks.
 ---
-

@@ -1,7 +1,55 @@
 ---
 layout: word
-title: beaks
+title: Is BEAKS a Wordle Word?
+head_title: Is BEAKS a Wordle Word? Yes – Valid Guess & Meaning
 word: beaks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /biːks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Anatomical uses.</li><li><strong>Definition 2:</strong> Figurative uses.</li><li><strong>Definition 3:</strong> Colloquial uses.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Strike with the beak.</li><li><strong>Definition 2:</strong> Seize with the beak.</li><li><strong>Definition 3:</strong> To play truant.</li></ul></div></div>"
+description: Yes, BEAKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- beads
+- beaky
+- beals
+- beams
+- beans
+- bears
+- beats
+- beaus
+- becks
+- berks
+- boaks
+- braks
+anagrams:
+- bakes
+trap:
+  pattern: BEA_S
+  count: 8
+phonetic: "/biːks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Anatomical uses.
+  - text: Figurative uses.
+  - text: Colloquial uses.
+- pos: verb
+  defs:
+  - text: Strike with the beak.
+  - text: Seize with the beak.
+  - text: To play truant.
 ---
-

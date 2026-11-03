@@ -1,7 +1,40 @@
 ---
 layout: word
-title: agony
+title: Is AGONY a Wordle Word?
+head_title: 'Is AGONY a Wordle Word? Yes – Past Answer #665 & Meaning'
 word: agony
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæ.ɡə.niː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Extreme pain.</li><li><strong>Definition 2:</strong> The sufferings of Jesus Christ in the garden of Gethsemane.</li><li><strong>Definition 3:</strong> Violent contest or striving.</li><li><strong>Definition 4:</strong> Paroxysm of joy; keen emotion.</li><li><strong>Definition 5:</strong> The last struggle of life; death struggle.</li></ul></div></div>"
+description: Yes, AGONY is a valid Wordle word. It was the Wordle answer on April
+  15, 2023 (#665). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 15, 2023 (#665).
+past_answers:
+- date: '2023-04-15'
+  number: 665
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- agone
+- agons
+- atony
+phonetic: "/ˈæ.ɡə.niː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Extreme pain.
+  - text: The sufferings of Jesus Christ in the garden of Gethsemane.
+  - text: Violent contest or striving.
+  - text: Paroxysm of joy; keen emotion.
+  - text: The last struggle of life; death struggle.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: think
+title: Is THINK a Wordle Word?
+head_title: 'Is THINK a Wordle Word? Yes – Past Answer #882 & Meaning'
 word: think
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /θɪŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of thinking; consideration (of something).<p><strong>Example:</strong> I'll have a think about that and let you know.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ponder, to go over in one's head.<p><strong>Example:</strong> Idly, the detective thought what his next move should be.</p></li><li><strong>Definition 2:</strong> To communicate to oneself in one's mind, to try to find a solution to a problem.<p><strong>Example:</strong> I thought for three hours about the problem and still couldn’t find the solution.</p></li><li><strong>Definition 3:</strong> To conceive of something or someone (usually followed by of; infrequently, by on).<p><strong>Example:</strong> I tend to think of her as rather ugly.</p></li><li><strong>Definition 4:</strong> To be of opinion (that); to consider, judge, regard, or look upon (something) as.<p><strong>Example:</strong> At the time I thought his adamant refusal to give in right.</p></li><li><strong>Definition 5:</strong> To guess; to reckon.<p><strong>Example:</strong> I think she’ll pass the examination.</p></li><li><strong>Definition 6:</strong> To plan; to be considering; to be of a mind (to do something).</li><li><strong>Definition 7:</strong> To presume; to venture.</li></ul></div></div>"
+description: Yes, THINK is a valid Wordle word. It was the Wordle answer on November
+  18, 2023 (#882). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 18, 2023 (#882).
+past_answers:
+- date: '2023-11-18'
+  number: 882
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- thank
+- thick
+- thing
+- thilk
+- thine
+- thins
+- thunk
+- twink
+phonetic: "/θɪŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: An act of thinking; consideration (of something).
+    example: I'll have a think about that and let you know.
+- pos: verb
+  defs:
+  - text: To ponder, to go over in one's head.
+    example: Idly, the detective thought what his next move should be.
+  - text: To communicate to oneself in one's mind, to try to find a solution to a
+      problem.
+    example: I thought for three hours about the problem and still couldn’t find the
+      solution.
+  - text: To conceive of something or someone (usually followed by of; infrequently,
+      by on).
+    example: I tend to think of her as rather ugly.
+  - text: To be of opinion (that); to consider, judge, regard, or look upon (something)
+      as.
+    example: At the time I thought his adamant refusal to give in right.
+  - text: To guess; to reckon.
+    example: I think she’ll pass the examination.
+  - text: To plan; to be considering; to be of a mind (to do something).
+  - text: To presume; to venture.
 ---
-

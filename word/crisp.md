@@ -1,7 +1,77 @@
 ---
 layout: word
-title: crisp
+title: Is CRISP a Wordle Word?
+head_title: 'Is CRISP a Wordle Word? Yes – Past Answer #1316 & Meaning'
 word: crisp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹɪsp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thin slice of fried potato eaten as a snack.</li><li><strong>Definition 2:</strong> A baked dessert made with fruit and crumb topping</li><li><strong>Definition 3:</strong> Anything baked or fried and eaten as a snack<p><strong>Example:</strong> kale crisps</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make crisp.<p><strong>Example:</strong> to crisp bacon by frying it</p></li><li><strong>Definition 2:</strong> To become crisp.<p><strong>Example:</strong> to put celery into ice water to crisp</p></li><li><strong>Definition 3:</strong> To cause to curl or wrinkle (of the leaves or petals of plants, for example); to form into ringlets or tight curls (of hair).</li><li><strong>Definition 4:</strong> To become curled.</li><li><strong>Definition 5:</strong> To cause to undulate irregularly (of water); to cause to ripple.</li><li><strong>Definition 6:</strong> To undulate or ripple.</li><li><strong>Definition 7:</strong> To wrinkle, contort or tense (a part of one's body).</li><li><strong>Definition 8:</strong> To become contorted or tensed (of a part of the body).</li><li><strong>Definition 9:</strong> To interweave (of the branches of trees).</li><li><strong>Definition 10:</strong> To make a sharp or harsh sound.</li><li><strong>Definition 11:</strong> To colour (something with highlights); to add small amounts of colour to (something).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of something seen or heard) Sharp, clearly defined.<p><strong>Example:</strong> This new television set has a very crisp image.</p></li><li><strong>Definition 2:</strong> Brittle; friable; in a condition to break with a short, sharp fracture.<p><strong>Example:</strong> The crisp snow crunched underfoot.</p></li><li><strong>Definition 3:</strong> Possessing a certain degree of firmness and freshness.</li><li><strong>Definition 4:</strong> (of weather, air etc.) Dry and cold.</li><li><strong>Definition 5:</strong> (of movement, action etc.) Quick and accurate.</li><li><strong>Definition 6:</strong> (of talk, text, etc.) Brief and to the point.<p><strong>Example:</strong> An expert, given a certain query, will often come up with a crisp answer: “yes” or “no”.</p></li><li><strong>Definition 7:</strong> (of wine) having a refreshing amount of acidity; having less acidity than green wine, but more than a flabby one.</li><li><strong>Definition 8:</strong> Lively; sparking; effervescing.</li><li><strong>Definition 9:</strong> Curling in stiff curls or ringlets.<p><strong>Example:</strong> crisp hair</p></li><li><strong>Definition 10:</strong> Curled by the ripple of water.</li><li><strong>Definition 11:</strong> Not using fuzzy logic; based on a binary distinction between true and false.</li></ul></div></div>"
+description: Yes, CRISP is a valid Wordle word. It was the Wordle answer on January
+  25, 2025 (#1316). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 25, 2025 (#1316).
+past_answers:
+- date: '2025-01-25'
+  number: 1316
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- crimp
+- crise
+- criss
+anagrams:
+- crips
+- scrip
+phonetic: "/kɹɪsp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thin slice of fried potato eaten as a snack.
+  - text: A baked dessert made with fruit and crumb topping
+  - text: Anything baked or fried and eaten as a snack
+    example: kale crisps
+- pos: verb
+  defs:
+  - text: To make crisp.
+    example: to crisp bacon by frying it
+  - text: To become crisp.
+    example: to put celery into ice water to crisp
+  - text: To cause to curl or wrinkle (of the leaves or petals of plants, for example);
+      to form into ringlets or tight curls (of hair).
+  - text: To become curled.
+  - text: To cause to undulate irregularly (of water); to cause to ripple.
+  - text: To undulate or ripple.
+  - text: To wrinkle, contort or tense (a part of one's body).
+  - text: To become contorted or tensed (of a part of the body).
+  - text: To interweave (of the branches of trees).
+  - text: To make a sharp or harsh sound.
+  - text: To colour (something with highlights); to add small amounts of colour to
+      (something).
+- pos: adjective
+  defs:
+  - text: "(of something seen or heard) Sharp, clearly defined."
+    example: This new television set has a very crisp image.
+  - text: Brittle; friable; in a condition to break with a short, sharp fracture.
+    example: The crisp snow crunched underfoot.
+  - text: Possessing a certain degree of firmness and freshness.
+  - text: "(of weather, air etc.) Dry and cold."
+  - text: "(of movement, action etc.) Quick and accurate."
+  - text: "(of talk, text, etc.) Brief and to the point."
+    example: 'An expert, given a certain query, will often come up with a crisp answer:
+      “yes” or “no”.'
+  - text: "(of wine) having a refreshing amount of acidity; having less acidity than
+      green wine, but more than a flabby one."
+  - text: Lively; sparking; effervescing.
+  - text: Curling in stiff curls or ringlets.
+    example: crisp hair
+  - text: Curled by the ripple of water.
+  - text: Not using fuzzy logic; based on a binary distinction between true and false.
 ---
-

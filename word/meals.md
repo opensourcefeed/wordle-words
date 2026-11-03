@@ -1,7 +1,67 @@
 ---
 layout: word
-title: meals
+title: Is MEALS a Wordle Word?
+head_title: Is MEALS a Wordle Word? Yes – Valid Guess & Meaning
 word: meals
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack).<p><strong>Example:</strong> Breakfast is the morning meal, lunch is the noon meal, and dinner, or supper, is the evening meal.</p></li><li><strong>Definition 2:</strong> Food served or eaten as a repast.</li><li><strong>Definition 3:</strong> A time or an occasion.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The coarse-ground edible part of various grains often used to feed animals; flour or a coarser blend than flour.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A speck or spot.</li><li><strong>Definition 2:</strong> A part; a fragment; a portion.</li></ul></div></div>"
+description: Yes, MEALS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- mealy
+- beals
+- deals
+- feals
+- geals
+- heals
+- meads
+- meaks
+- means
+- meats
+- meils
+- mells
+anagrams:
+- almes
+- lames
+- leams
+- males
+- melas
+- mesal
+- samel
+trap:
+  pattern: _EALS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: Food that is prepared and eaten, usually at a specific time, and usually
+      in a comparatively large quantity (as opposed to a snack).
+    example: Breakfast is the morning meal, lunch is the noon meal, and dinner, or
+      supper, is the evening meal.
+  - text: Food served or eaten as a repast.
+  - text: A time or an occasion.
+- pos: noun
+  defs:
+  - text: The coarse-ground edible part of various grains often used to feed animals;
+      flour or a coarser blend than flour.
+- pos: noun
+  defs:
+  - text: A speck or spot.
+  - text: A part; a fragment; a portion.
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: boner
+title: Is BONER a Wordle Word?
+head_title: Is BONER a Wordle Word? Yes – Valid Guess & Meaning
 word: boner
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An erect penis.<p><strong>Example:</strong> Why do guys get boners when they wake up in the morning?</p></li><li><strong>Definition 2:</strong> One who or that which bones (removes bones).</li><li><strong>Definition 3:</strong> A blunder; a silly mistake.<p><strong>Example:</strong> He really pulled a boner that time!</p></li></ul></div></div>"
+description: Yes, BONER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- boney
+- boxer
+- goner
+- biner
+- boned
+- bones
+- borer
+- bower
+- doner
+- honer
+- loner
+- moner
+anagrams:
+- borne
+trap:
+  pattern: _ONER
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: An erect penis.
+    example: Why do guys get boners when they wake up in the morning?
+  - text: One who or that which bones (removes bones).
+  - text: A blunder; a silly mistake.
+    example: He really pulled a boner that time!
 ---
-

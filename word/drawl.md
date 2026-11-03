@@ -1,7 +1,46 @@
 ---
 layout: word
-title: drawl
+title: Is DRAWL a Wordle Word?
+head_title: Is DRAWL a Wordle Word? Yes – Possible Answer & Meaning
 word: drawl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹɔːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A way of speaking slowly while lengthening vowel sounds and running words together. Characteristic of some southern US accents, as well as Scots.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drag on slowly and heavily; to while or dawdle away time indolently.</li><li><strong>Definition 2:</strong> To utter or pronounce in a dull, spiritless tone, as if by dragging out the utterance.</li><li><strong>Definition 3:</strong> To move slowly and heavily; move in a dull, slow, lazy manner.</li><li><strong>Definition 4:</strong> To speak with a slow, spiritless utterance, from affectation, laziness, or lack of interest.</li></ul></div></div>"
+description: Yes, DRAWL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- brawl
+- crawl
+- drawn
+- trawl
+- drail
+- draws
+- wrawl
+phonetic: "/dɹɔːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A way of speaking slowly while lengthening vowel sounds and running words
+      together. Characteristic of some southern US accents, as well as Scots.
+- pos: verb
+  defs:
+  - text: To drag on slowly and heavily; to while or dawdle away time indolently.
+  - text: To utter or pronounce in a dull, spiritless tone, as if by dragging out
+      the utterance.
+  - text: To move slowly and heavily; move in a dull, slow, lazy manner.
+  - text: To speak with a slow, spiritless utterance, from affectation, laziness,
+      or lack of interest.
 ---
-

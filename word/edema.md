@@ -1,7 +1,34 @@
 ---
 layout: word
-title: edema
+title: Is EDEMA a Wordle Word?
+head_title: Is EDEMA a Wordle Word? Yes – Valid Guess & Meaning
 word: edema
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An excessive accumulation of serum in tissue spaces or a body cavity.</li><li><strong>Definition 2:</strong> A similar swelling in plants caused by excessive accumulation of water.</li></ul></div></div>"
+description: Yes, EDEMA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- enema
+anagrams:
+- adeem
+definitions:
+- pos: noun
+  defs:
+  - text: An excessive accumulation of serum in tissue spaces or a body cavity.
+  - text: A similar swelling in plants caused by excessive accumulation of water.
 ---
-

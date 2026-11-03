@@ -1,7 +1,75 @@
 ---
 layout: word
-title: plows
+title: Is PLOWS a Wordle Word?
+head_title: Is PLOWS a Wordle Word? Yes – Valid Guess & Meaning
 word: plows
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The notional area of land able to be farmed in a year by a team of 8 oxen pulling a carruca plow, usually reckoned at 120 acres.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A device pulled through the ground in order to break it open into furrows for planting.<p><strong>Example:</strong> The horse-drawn plough had a tremendous impact on agriculture.</p></li><li><strong>Definition 2:</strong> The use of a plough; tillage.</li><li><strong>Definition 3:</strong> Alternative form of Plough (Synonym of Ursa Major)</li><li><strong>Definition 4:</strong> A joiner's plane for making grooves.</li><li><strong>Definition 5:</strong> A bookbinder's implement for trimming or shaving off the edges of books.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a plough on to prepare for planting.<p><strong>Example:</strong> I've still got to plough that field.</p></li><li><strong>Definition 2:</strong> To use a plough.<p><strong>Example:</strong> Some days I have to plough from sunrise to sunset.</p></li><li><strong>Definition 3:</strong> To have sex with, penetrate.</li><li><strong>Definition 4:</strong> To move with force.<p><strong>Example:</strong> Trucks plowed through the water to ferry flood victims to safety.</p></li><li><strong>Definition 5:</strong> To furrow; to make furrows, grooves, or ridges in.</li><li><strong>Definition 6:</strong> To run through, as in sailing.</li><li><strong>Definition 7:</strong> To trim, or shave off the edges of, as a book or paper, with a plough.</li><li><strong>Definition 8:</strong> (joinery) To cut a groove in, as in a plank, or the edge of a board; especially, a rectangular groove to receive the end of a shelf or tread, the edge of a panel, a tongue, etc.</li><li><strong>Definition 9:</strong> (university slang) To fail (a student).</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Land that has been or is meant to be ploughed</li></ul></div></div>"
+description: Yes, PLOWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- blows
+- clows
+- flows
+- glows
+- plews
+- plods
+- plops
+- plots
+- plowt
+- ploys
+- prows
+- slows
+anagrams:
+- lowps
+trap:
+  pattern: _LOWS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: The notional area of land able to be farmed in a year by a team of 8 oxen
+      pulling a carruca plow, usually reckoned at 120 acres.
+- pos: noun
+  defs:
+  - text: A device pulled through the ground in order to break it open into furrows
+      for planting.
+    example: The horse-drawn plough had a tremendous impact on agriculture.
+  - text: The use of a plough; tillage.
+  - text: Alternative form of Plough (Synonym of Ursa Major)
+  - text: A joiner's plane for making grooves.
+  - text: A bookbinder's implement for trimming or shaving off the edges of books.
+- pos: verb
+  defs:
+  - text: To use a plough on to prepare for planting.
+    example: I've still got to plough that field.
+  - text: To use a plough.
+    example: Some days I have to plough from sunrise to sunset.
+  - text: To have sex with, penetrate.
+  - text: To move with force.
+    example: Trucks plowed through the water to ferry flood victims to safety.
+  - text: To furrow; to make furrows, grooves, or ridges in.
+  - text: To run through, as in sailing.
+  - text: To trim, or shave off the edges of, as a book or paper, with a plough.
+  - text: "(joinery) To cut a groove in, as in a plank, or the edge of a board; especially,
+      a rectangular groove to receive the end of a shelf or tread, the edge of a panel,
+      a tongue, etc."
+  - text: "(university slang) To fail (a student)."
+- pos: noun
+  defs:
+  - text: Land that has been or is meant to be ploughed
 ---
-

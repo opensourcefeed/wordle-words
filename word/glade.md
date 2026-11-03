@@ -1,7 +1,54 @@
 ---
 layout: word
-title: glade
+title: Is GLADE a Wordle Word?
+head_title: 'Is GLADE a Wordle Word? Yes – Past Answer #1463 & Meaning'
 word: glade
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡleɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An open passage through a wood; a grassy open or cleared space in a forest.</li><li><strong>Definition 2:</strong> An everglade.</li><li><strong>Definition 3:</strong> An open space in the ice on a river or lake.</li><li><strong>Definition 4:</strong> A bright surface of ice or snow.<p><strong>Example:</strong> a glade of ice</p></li><li><strong>Definition 5:</strong> A gleam of light.</li><li><strong>Definition 6:</strong> A bright patch of sky; the bright space between clouds.</li></ul></div></div>"
+description: Yes, GLADE is a valid Wordle word. It was the Wordle answer on June 21,
+  2025 (#1463). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 21, 2025 (#1463).
+past_answers:
+- date: '2025-06-21'
+  number: 1463
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- blade
+- glare
+- glaze
+- glide
+- grade
+- clade
+- glace
+- glads
+- glady
+- glede
+- glode
+- slade
+anagrams:
+- galed
+phonetic: "/ɡleɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An open passage through a wood; a grassy open or cleared space in a forest.
+  - text: An everglade.
+  - text: An open space in the ice on a river or lake.
+  - text: A bright surface of ice or snow.
+    example: a glade of ice
+  - text: A gleam of light.
+  - text: A bright patch of sky; the bright space between clouds.
 ---
-

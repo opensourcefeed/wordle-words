@@ -1,7 +1,37 @@
 ---
 layout: word
-title: chela
+title: Is CHELA a Wordle Word?
+head_title: Is CHELA a Wordle Word? Yes – Valid Guess & Meaning
 word: chela
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkilə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pincer-like claw of a crustacean or arachnid.</li></ul></div></div>"
+description: Yes, CHELA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- cheba
+- cheka
+- chelp
+- chola
+anagrams:
+- leach
+phonetic: "/ˈkilə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pincer-like claw of a crustacean or arachnid.
 ---
-

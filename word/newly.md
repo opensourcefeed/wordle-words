@@ -1,7 +1,35 @@
 ---
 layout: word
-title: newly
+title: Is NEWLY a Wordle Word?
+head_title: 'Is NEWLY a Wordle Word? Yes – Past Answer #1787 & Meaning'
 word: newly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnjuːli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very recently; in the immediate past.<p><strong>Example:</strong> She smelled the newly budding flowers.</p></li></ul></div></div>"
+description: Yes, NEWLY is a valid Wordle word. It was the Wordle answer on May 11,
+  2026 (#1787). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 11, 2026 (#1787).
+past_answers:
+- date: '2026-05-11'
+  number: 1787
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- nelly
+- newsy
+phonetic: "/ˈnjuːli/"
+definitions:
+- pos: adverb
+  defs:
+  - text: Very recently; in the immediate past.
+    example: She smelled the newly budding flowers.
 ---
-

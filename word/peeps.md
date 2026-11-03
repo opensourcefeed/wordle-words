@@ -1,7 +1,71 @@
 ---
 layout: word
-title: peeps
+title: Is PEEPS a Wordle Word?
+head_title: Is PEEPS a Wordle Word? Yes – Valid Guess & Meaning
 word: peeps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quiet sound, particularly one from a baby bird.</li><li><strong>Definition 2:</strong> A feeble utterance or complaint.<p><strong>Example:</strong> I don't want to hear a peep out of you!</p></li><li><strong>Definition 3:</strong> The sound of a steam engine's whistle; typically shrill.</li><li><strong>Definition 4:</strong> A kind of bird; a sandpiper.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a soft, shrill noise like a baby bird.</li><li><strong>Definition 2:</strong> To speak briefly with a quiet voice.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quick look or glimpse, especially a furtive one.</li><li><strong>Definition 2:</strong> The first partial appearance of something; a beginning to appear.<p><strong>Example:</strong> the peep of day</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To look, especially through a narrow opening, or while trying not to be seen or noticed.<p><strong>Example:</strong> The man peeped through the small hole.</p></li><li><strong>Definition 2:</strong> To begin to appear; to look forth from concealment; to make the first appearance.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A spot on a die or domino.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Person.</li></ul></div></div>"
+description: Yes, PEEPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - P
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- beeps
+- deeps
+- geeps
+- jeeps
+- keeps
+- leeps
+- meeps
+- neeps
+- peeks
+- peels
+- peens
+- peepe
+trap:
+  pattern: _EEPS
+  count: 12
+phonetic: "/piːps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A quiet sound, particularly one from a baby bird.
+  - text: A feeble utterance or complaint.
+    example: I don't want to hear a peep out of you!
+  - text: The sound of a steam engine's whistle; typically shrill.
+  - text: A kind of bird; a sandpiper.
+- pos: verb
+  defs:
+  - text: To make a soft, shrill noise like a baby bird.
+  - text: To speak briefly with a quiet voice.
+- pos: noun
+  defs:
+  - text: A quick look or glimpse, especially a furtive one.
+  - text: The first partial appearance of something; a beginning to appear.
+    example: the peep of day
+- pos: verb
+  defs:
+  - text: To look, especially through a narrow opening, or while trying not to be
+      seen or noticed.
+    example: The man peeped through the small hole.
+  - text: To begin to appear; to look forth from concealment; to make the first appearance.
+- pos: noun
+  defs:
+  - text: A spot on a die or domino.
+- pos: noun
+  defs:
+  - text: Person.
 ---
-

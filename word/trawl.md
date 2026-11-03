@@ -1,7 +1,46 @@
 ---
 layout: word
-title: trawl
+title: Is TRAWL a Wordle Word?
+head_title: 'Is TRAWL a Wordle Word? Yes – Past Answer #38 & Meaning'
 word: trawl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹɔːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A net or dragnet used for trawling.</li><li><strong>Definition 2:</strong> A long fishing line having many short lines bearing hooks attached to it; a setline.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take (fish or other marine animals) with a trawl.</li><li><strong>Definition 2:</strong> To fish from a slow-moving boat.</li><li><strong>Definition 3:</strong> To make an exhaustive search for something within a defined area.</li></ul></div></div>"
+description: Yes, TRAWL is a valid Wordle word. It was the Wordle answer on July 27,
+  2021 (#38). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 27, 2021 (#38).
+past_answers:
+- date: '2021-07-27'
+  number: 38
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- brawl
+- crawl
+- drawl
+- trail
+- wrawl
+phonetic: "/tɹɔːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A net or dragnet used for trawling.
+  - text: A long fishing line having many short lines bearing hooks attached to it;
+      a setline.
+- pos: verb
+  defs:
+  - text: To take (fish or other marine animals) with a trawl.
+  - text: To fish from a slow-moving boat.
+  - text: To make an exhaustive search for something within a defined area.
 ---
-

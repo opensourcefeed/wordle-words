@@ -1,7 +1,35 @@
 ---
 layout: word
-title: terga
+title: Is TERGA a Wordle Word?
+head_title: Is TERGA a Wordle Word? Yes – Valid Guess
 word: terga
-meaning: ""
+description: Yes, TERGA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  - R
+  - A
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- terra
+- targa
+- terza
+anagrams:
+- grate
+- great
+- gater
+- retag
+- targe
 ---
-

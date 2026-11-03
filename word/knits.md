@@ -1,7 +1,58 @@
 ---
 layout: word
-title: knits
+title: Is KNITS a Wordle Word?
+head_title: Is KNITS a Wordle Word? Yes – Valid Guess & Meaning
 word: knits
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A knitted garment.</li><li><strong>Definition 2:</strong> A session of knitting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn thread or yarn into a piece of fabric by forming loops that are pulled through each other. This can be done by hand with needles or by machine.<p><strong>Example:</strong> The first generation knitted to order; the second still knits for its own use; the next leaves knitting to industrial manufacturers.</p></li><li><strong>Definition 2:</strong> To join closely and firmly together.<p><strong>Example:</strong> The fight for survival knitted the men closely together.</p></li><li><strong>Definition 3:</strong> To become closely and firmly joined; become compacted.</li><li><strong>Definition 4:</strong> To grow together.<p><strong>Example:</strong> All those seedlings knitted into a kaleidoscopic border.</p></li><li><strong>Definition 5:</strong> To combine from various elements.<p><strong>Example:</strong> The witness knitted together his testimony from contradictory pieces of hearsay.</p></li><li><strong>Definition 6:</strong> Of bones: to heal following a fracture.<p><strong>Example:</strong> I’ll go skiing again after my bones knit.</p></li><li><strong>Definition 7:</strong> To form into a knot, or into knots; to tie together, as cord; to fasten by tying.</li><li><strong>Definition 8:</strong> To draw together; to contract into wrinkles.</li></ul></div></div>"
+description: Yes, KNITS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- knots
+- knuts
+- snits
+- units
+anagrams:
+- stink
+- skint
+- tinks
+phonetic: "/nɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A knitted garment.
+  - text: A session of knitting.
+- pos: verb
+  defs:
+  - text: To turn thread or yarn into a piece of fabric by forming loops that are
+      pulled through each other. This can be done by hand with needles or by machine.
+    example: The first generation knitted to order; the second still knits for its
+      own use; the next leaves knitting to industrial manufacturers.
+  - text: To join closely and firmly together.
+    example: The fight for survival knitted the men closely together.
+  - text: To become closely and firmly joined; become compacted.
+  - text: To grow together.
+    example: All those seedlings knitted into a kaleidoscopic border.
+  - text: To combine from various elements.
+    example: The witness knitted together his testimony from contradictory pieces
+      of hearsay.
+  - text: 'Of bones: to heal following a fracture.'
+    example: I’ll go skiing again after my bones knit.
+  - text: To form into a knot, or into knots; to tie together, as cord; to fasten
+      by tying.
+  - text: To draw together; to contract into wrinkles.
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: repot
+title: Is REPOT a Wordle Word?
+head_title: Is REPOT a Wordle Word? Yes – Valid Guess & Meaning
 word: repot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move a growing plant from one pot to a larger one to allow for further growth</li></ul></div></div>"
+description: Yes, REPOT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - O
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- depot
+- regot
+- repat
+- repos
+- reput
+anagrams:
+- trope
+- opter
+- porte
+- toper
+definitions:
+- pos: verb
+  defs:
+  - text: To move a growing plant from one pot to a larger one to allow for further
+      growth
 ---
-

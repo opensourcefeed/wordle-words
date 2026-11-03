@@ -1,7 +1,44 @@
 ---
 layout: word
-title: jumpy
+title: Is JUMPY a Wordle Word?
+head_title: 'Is JUMPY a Wordle Word? Yes – Past Answer #1482 & Meaning'
 word: jumpy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʒʌmpi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Nervous and excited.</li></ul></div></div>"
+description: Yes, JUMPY is a valid Wordle word. It was the Wordle answer on July 10,
+  2025 (#1482). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 10, 2025 (#1482).
+past_answers:
+- date: '2025-07-10'
+  number: 1482
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- dumpy
+- lumpy
+- bumpy
+- humpy
+- jimpy
+- jumby
+- jumps
+- pumpy
+- rumpy
+- tumpy
+trap:
+  pattern: _UMPY
+  count: 8
+phonetic: "/ˈdʒʌmpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Nervous and excited.
 ---
-

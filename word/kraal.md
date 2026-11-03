@@ -1,7 +1,39 @@
 ---
 layout: word
-title: kraal
+title: Is KRAAL a Wordle Word?
+head_title: Is KRAAL a Wordle Word? Yes – Valid Guess & Meaning
 word: kraal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹɑːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> In Central and Southern Africa, a small rural community.</li><li><strong>Definition 2:</strong> In Central and Southern Africa, a rural village of huts surrounded by a stockade.</li><li><strong>Definition 3:</strong> An enclosure for livestock.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To enclose (livestock) within a kraal or stockade.</li></ul></div></div>"
+description: Yes, KRAAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- craal
+- graal
+phonetic: "/kɹɑːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: In Central and Southern Africa, a small rural community.
+  - text: In Central and Southern Africa, a rural village of huts surrounded by a
+      stockade.
+  - text: An enclosure for livestock.
+- pos: verb
+  defs:
+  - text: To enclose (livestock) within a kraal or stockade.
 ---
-

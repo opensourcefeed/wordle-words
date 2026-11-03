@@ -1,7 +1,34 @@
 ---
 layout: word
-title: deink
+title: Is DEINK a Wordle Word?
+head_title: Is DEINK a Wordle Word? Yes – Valid Guess & Meaning
 word: deink
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove ink from.<p><strong>Example:</strong> Paper may need to be deinked as part of the recycling process.</p></li></ul></div></div>"
+description: Yes, DEINK is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- drink
+- reink
+anagrams:
+- inked
+definitions:
+- pos: verb
+  defs:
+  - text: To remove ink from.
+    example: Paper may need to be deinked as part of the recycling process.
 ---
-

@@ -1,7 +1,83 @@
 ---
 layout: word
-title: lined
+title: Is LINED a Wordle Word?
+head_title: Is LINED a Wordle Word? Yes – Valid Guess & Meaning
 word: lined
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /laɪnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place (objects) into a line (usually used with \"up\"); to form into a line; to align.<p><strong>Example:</strong> to line troops</p></li><li><strong>Definition 2:</strong> To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.<p><strong>Example:</strong> to line works with soldiers</p></li><li><strong>Definition 3:</strong> To form a line along.</li><li><strong>Definition 4:</strong> To mark with a line or lines, to cover with lines.<p><strong>Example:</strong> to line a copy book</p></li><li><strong>Definition 5:</strong> To represent by lines; to delineate; to portray.</li><li><strong>Definition 6:</strong> To read or repeat line by line.<p><strong>Example:</strong> to line out a hymn</p></li><li><strong>Definition 7:</strong> To hit a line drive; to hit a line drive which is caught for an out. Compare fly and ground.<p><strong>Example:</strong> Jones lined to left in his last at-bat.</p></li><li><strong>Definition 8:</strong> To track (wild bees) to their nest by following their line of flight.</li><li><strong>Definition 9:</strong> To measure.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover the inner surface of (something), originally especially with linen.<p><strong>Example:</strong> The bird lines its nest with soft grass.</p></li><li><strong>Definition 2:</strong> To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper.</li><li><strong>Definition 3:</strong> To fill or supply (something), as a purse with money.<p><strong>Example:</strong> to line the shelves</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of a dog) To copulate with, to impregnate.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a lining, an inner layer or covering.<p><strong>Example:</strong> Fred liked fully lined trousers with his suits.</p></li><li><strong>Definition 2:</strong> (of paper) Having lines, ruled.<p><strong>Example:</strong> For handwritten work Fred preferred lined paper to plain.</p></li><li><strong>Definition 3:</strong> (of skin) Having visible lines or wrinkles.</li></ul></div></div>"
+description: Yes, LINED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- linen
+- liner
+- dined
+- fined
+- laned
+- liked
+- limed
+- lines
+- liney
+- lited
+- lived
+- mined
+anagrams:
+- eldin
+trap:
+  pattern: _INED
+  count: 9
+phonetic: "/laɪnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To place (objects) into a line (usually used with "up"); to form into a
+      line; to align.
+    example: to line troops
+  - text: To place persons or things along the side of for security or defense; to
+      strengthen by adding; to fortify.
+    example: to line works with soldiers
+  - text: To form a line along.
+  - text: To mark with a line or lines, to cover with lines.
+    example: to line a copy book
+  - text: To represent by lines; to delineate; to portray.
+  - text: To read or repeat line by line.
+    example: to line out a hymn
+  - text: To hit a line drive; to hit a line drive which is caught for an out. Compare
+      fly and ground.
+    example: Jones lined to left in his last at-bat.
+  - text: To track (wild bees) to their nest by following their line of flight.
+  - text: To measure.
+- pos: verb
+  defs:
+  - text: To cover the inner surface of (something), originally especially with linen.
+    example: The bird lines its nest with soft grass.
+  - text: To reinforce (the back of a book) with glue and glued scrap material such
+      as fabric or paper.
+  - text: To fill or supply (something), as a purse with money.
+    example: to line the shelves
+- pos: verb
+  defs:
+  - text: "(of a dog) To copulate with, to impregnate."
+- pos: adjective
+  defs:
+  - text: Having a lining, an inner layer or covering.
+    example: Fred liked fully lined trousers with his suits.
+  - text: "(of paper) Having lines, ruled."
+    example: For handwritten work Fred preferred lined paper to plain.
+  - text: "(of skin) Having visible lines or wrinkles."
 ---
-

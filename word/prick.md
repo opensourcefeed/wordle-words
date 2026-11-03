@@ -1,7 +1,57 @@
 ---
 layout: word
-title: prick
+title: Is PRICK a Wordle Word?
+head_title: 'Is PRICK a Wordle Word? Yes – Past Answer #216 & Meaning'
 word: prick
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small hole or perforation, caused by piercing.</li><li><strong>Definition 2:</strong> An indentation or small mark made with a pointed object.</li><li><strong>Definition 3:</strong> A dot or other diacritical mark used in writing; a point.</li><li><strong>Definition 4:</strong> A tiny particle; a small amount of something; a jot.</li><li><strong>Definition 5:</strong> A small pointed object.</li><li><strong>Definition 6:</strong> The experience or feeling of being pierced or punctured by a small, sharp object.<p><strong>Example:</strong> I felt a sharp prick as the nurse took a sample of blood.</p></li><li><strong>Definition 7:</strong> A feeling of remorse.</li><li><strong>Definition 8:</strong> The penis.</li><li><strong>Definition 9:</strong> Someone (especially a man or boy) who is unpleasant, rude or annoying.</li><li><strong>Definition 10:</strong> A small roll of yarn or tobacco.</li><li><strong>Definition 11:</strong> The footprint of a hare.</li><li><strong>Definition 12:</strong> A point or mark on the dial, noting the hour.</li><li><strong>Definition 13:</strong> The point on a target at which an archer aims; the mark; the pin.</li></ul></div></div>"
+description: Yes, PRICK is a valid Wordle word. It was the Wordle answer on January
+  21, 2022 (#216). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 21, 2022 (#216).
+past_answers:
+- date: '2022-01-21'
+  number: 216
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- brick
+- crick
+- price
+- trick
+- erick
+- pricy
+- prink
+- wrick
+trap:
+  pattern: _RICK
+  count: 6
+phonetic: "/pɹɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small hole or perforation, caused by piercing.
+  - text: An indentation or small mark made with a pointed object.
+  - text: A dot or other diacritical mark used in writing; a point.
+  - text: A tiny particle; a small amount of something; a jot.
+  - text: A small pointed object.
+  - text: The experience or feeling of being pierced or punctured by a small, sharp
+      object.
+    example: I felt a sharp prick as the nurse took a sample of blood.
+  - text: A feeling of remorse.
+  - text: The penis.
+  - text: Someone (especially a man or boy) who is unpleasant, rude or annoying.
+  - text: A small roll of yarn or tobacco.
+  - text: The footprint of a hare.
+  - text: A point or mark on the dial, noting the hour.
+  - text: The point on a target at which an archer aims; the mark; the pin.
 ---
-

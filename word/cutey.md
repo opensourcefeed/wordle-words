@@ -1,7 +1,38 @@
 ---
 layout: word
-title: cutey
+title: Is CUTEY a Wordle Word?
+head_title: Is CUTEY a Wordle Word? Yes – Valid Guess & Meaning
 word: cutey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cute person or animal.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A clementine: a small, waxy-peeled orange hybrid cultivar that is easy to peel by hand.</li><li><strong>Definition 2:</strong> (by extension) Any small mandarin orange variety such as a tangerine or a satsuma.</li></ul></div></div>"
+description: Yes, CUTEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- cuter
+- cutes
+- cutty
+definitions:
+- pos: noun
+  defs:
+  - text: A cute person or animal.
+- pos: noun
+  defs:
+  - text: 'A clementine: a small, waxy-peeled orange hybrid cultivar that is easy
+      to peel by hand.'
+  - text: "(by extension) Any small mandarin orange variety such as a tangerine or
+      a satsuma."
 ---
-

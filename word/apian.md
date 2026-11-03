@@ -1,7 +1,34 @@
 ---
 layout: word
-title: apian
+title: Is APIAN a Wordle Word?
+head_title: Is APIAN a Wordle Word? Yes – Valid Guess & Meaning
 word: apian
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (very rare) A bee.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to bees.</li></ul></div></div>"
+description: Yes, APIAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- avian
+definitions:
+- pos: noun
+  defs:
+  - text: "(very rare) A bee."
+- pos: adjective
+  defs:
+  - text: Relating to bees.
 ---
-

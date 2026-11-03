@@ -1,7 +1,30 @@
 ---
 layout: word
-title: wifie
+title: Is WIFIE a Wordle Word?
+head_title: Is WIFIE a Wordle Word? Yes – Valid Guess & Meaning
 word: wifie
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A woman, especially older woman.</li><li><strong>Definition 2:</strong> One's wife.</li></ul></div></div>"
+description: Yes, WIFIE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+definitions:
+- pos: noun
+  defs:
+  - text: A woman, especially older woman.
+  - text: One's wife.
 ---
-

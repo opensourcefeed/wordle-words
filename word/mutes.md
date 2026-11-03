@@ -1,7 +1,68 @@
 ---
 layout: word
-title: mutes
+title: Is MUTES a Wordle Word?
+head_title: Is MUTES a Wordle Word? Yes – Valid Guess & Meaning
 word: mutes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stopped consonant; a stop.</li><li><strong>Definition 2:</strong> An actor who does not speak; a mime performer.</li><li><strong>Definition 3:</strong> A person who does not have the power of speech.</li><li><strong>Definition 4:</strong> A hired mourner at a funeral; an undertaker's assistant.</li><li><strong>Definition 5:</strong> An object for dulling the sound of an instrument, especially a brass instrument, or damper for pianoforte; a sordine.</li><li><strong>Definition 6:</strong> An electronic switch or control that mutes the sound.</li><li><strong>Definition 7:</strong> A mute swan.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To silence, to make quiet.</li><li><strong>Definition 2:</strong> To turn off the sound of.<p><strong>Example:</strong> Please mute the music while I make a call.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The faeces of a hawk or falcon.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Of a bird: to defecate.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cast off; to moult.</li></ul></div></div>"
+description: Yes, MUTES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- butes
+- cutes
+- jutes
+- lutes
+- mates
+- metes
+- mites
+- motes
+- mules
+- mures
+- muses
+- mutas
+anagrams:
+- muset
+trap:
+  pattern: _UTES
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A stopped consonant; a stop.
+  - text: An actor who does not speak; a mime performer.
+  - text: A person who does not have the power of speech.
+  - text: A hired mourner at a funeral; an undertaker's assistant.
+  - text: An object for dulling the sound of an instrument, especially a brass instrument,
+      or damper for pianoforte; a sordine.
+  - text: An electronic switch or control that mutes the sound.
+  - text: A mute swan.
+- pos: verb
+  defs:
+  - text: To silence, to make quiet.
+  - text: To turn off the sound of.
+    example: Please mute the music while I make a call.
+- pos: noun
+  defs:
+  - text: The faeces of a hawk or falcon.
+- pos: verb
+  defs:
+  - text: 'Of a bird: to defecate.'
+- pos: verb
+  defs:
+  - text: To cast off; to moult.
 ---
-

@@ -1,7 +1,96 @@
 ---
 layout: word
-title: blown
+title: Is BLOWN a Wordle Word?
+head_title: 'Is BLOWN a Wordle Word? Yes – Past Answer #363 & Meaning'
 word: blown
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bləʊn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce an air current.</li><li><strong>Definition 2:</strong> To propel by an air current.<p><strong>Example:</strong> Blow the dust off that book and open it up.</p></li><li><strong>Definition 3:</strong> To be propelled by an air current.<p><strong>Example:</strong> The leaves blow through the streets in the fall.</p></li><li><strong>Definition 4:</strong> To create or shape by blowing; as in to blow bubbles, to blow glass.</li><li><strong>Definition 5:</strong> To force a current of air upon with the mouth, or by other means.<p><strong>Example:</strong> to blow the fire</p></li><li><strong>Definition 6:</strong> To clear of contents by forcing air through.<p><strong>Example:</strong> to blow an egg</p></li><li><strong>Definition 7:</strong> To cause to make sound by blowing, as a musical instrument.</li><li><strong>Definition 8:</strong> To make a sound as the result of being blown.<p><strong>Example:</strong> In the harbor, the ships' horns blew.</p></li><li><strong>Definition 9:</strong> (of a cetacean) To exhale visibly through the spout the seawater which it has taken in while feeding.<p><strong>Example:</strong> There she blows! (i.e. \"I see a whale spouting!\")</p></li><li><strong>Definition 10:</strong> To explode.<p><strong>Example:</strong> Get away from that burning gas tank! It's about to blow!</p></li><li><strong>Definition 11:</strong> (with \"up\" or with prep phrase headed by \"to\") To cause to explode, shatter, or be utterly destroyed.<p><strong>Example:</strong> The aerosol can was blown to bits.</p></li><li><strong>Definition 12:</strong> To cause sudden destruction of.<p><strong>Example:</strong> He blew the tires and the engine.</p></li><li><strong>Definition 13:</strong> To suddenly fail destructively.<p><strong>Example:</strong> He tried to sprint, but his ligaments blew and he was barely able to walk to the finish line.</p></li><li><strong>Definition 14:</strong> (used to express displeasure or frustration) Damn.</li><li><strong>Definition 15:</strong> To be very undesirable. (See also suck.)<p><strong>Example:</strong> This blows!</p></li><li><strong>Definition 16:</strong> To recklessly squander.<p><strong>Example:</strong> I blew $35 thou on a car.</p></li><li><strong>Definition 17:</strong> To fellate; to perform oral sex on (usually a man)<p><strong>Example:</strong> Who did you have to blow to get those backstage passes?</p></li><li><strong>Definition 18:</strong> To leave, especially suddenly or in a hurry.<p><strong>Example:</strong> Let's blow this joint.</p></li><li><strong>Definition 19:</strong> To make flyblown, to defile, especially with fly eggs.</li><li><strong>Definition 20:</strong> To spread by report; to publish; to disclose.</li><li><strong>Definition 21:</strong> To inflate, as with pride; to puff up.</li><li><strong>Definition 22:</strong> To breathe hard or quick; to pant; to puff.</li><li><strong>Definition 23:</strong> To put out of breath; to cause to blow from fatigue.<p><strong>Example:</strong> to blow a horse</p></li><li><strong>Definition 24:</strong> To talk loudly; to boast; to storm.</li><li><strong>Definition 25:</strong> To sing.<p><strong>Example:</strong> That girl has a wonderful voice; just listen to her blow!</p></li><li><strong>Definition 26:</strong> To leave the Church of Scientology in an unauthorized manner.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To blossom; to cause to bloom or blossom.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Distended, swollen or inflated<p><strong>Example:</strong> Cattle are said to be blown when gorged with green food which develops gas.</p></li><li><strong>Definition 2:</strong> Panting and out of breath</li><li><strong>Definition 3:</strong> (of glass) Formed by blowing</li><li><strong>Definition 4:</strong> Under the influence of drugs, especially marijuana.</li><li><strong>Definition 5:</strong> Stale; worthless</li><li><strong>Definition 6:</strong> Covered with the eggs and larvae of flies; flyblown.</li><li><strong>Definition 7:</strong> Given a hot rod blower.</li></ul></div></div>"
+description: Yes, BLOWN is a valid Wordle word. It was the Wordle answer on June 17,
+  2022 (#363). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 17, 2022 (#363).
+past_answers:
+- date: '2022-06-17'
+  number: 363
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- brown
+- clown
+- flown
+- blawn
+- blows
+- blowy
+phonetic: "/bləʊn/"
+definitions:
+- pos: verb
+  defs:
+  - text: To produce an air current.
+  - text: To propel by an air current.
+    example: Blow the dust off that book and open it up.
+  - text: To be propelled by an air current.
+    example: The leaves blow through the streets in the fall.
+  - text: To create or shape by blowing; as in to blow bubbles, to blow glass.
+  - text: To force a current of air upon with the mouth, or by other means.
+    example: to blow the fire
+  - text: To clear of contents by forcing air through.
+    example: to blow an egg
+  - text: To cause to make sound by blowing, as a musical instrument.
+  - text: To make a sound as the result of being blown.
+    example: In the harbor, the ships' horns blew.
+  - text: "(of a cetacean) To exhale visibly through the spout the seawater which
+      it has taken in while feeding."
+    example: There she blows! (i.e. "I see a whale spouting!")
+  - text: To explode.
+    example: Get away from that burning gas tank! It's about to blow!
+  - text: (with "up" or with prep phrase headed by "to") To cause to explode, shatter,
+      or be utterly destroyed.
+    example: The aerosol can was blown to bits.
+  - text: To cause sudden destruction of.
+    example: He blew the tires and the engine.
+  - text: To suddenly fail destructively.
+    example: He tried to sprint, but his ligaments blew and he was barely able to
+      walk to the finish line.
+  - text: "(used to express displeasure or frustration) Damn."
+  - text: To be very undesirable. (See also suck.)
+    example: This blows!
+  - text: To recklessly squander.
+    example: I blew $35 thou on a car.
+  - text: To fellate; to perform oral sex on (usually a man)
+    example: Who did you have to blow to get those backstage passes?
+  - text: To leave, especially suddenly or in a hurry.
+    example: Let's blow this joint.
+  - text: To make flyblown, to defile, especially with fly eggs.
+  - text: To spread by report; to publish; to disclose.
+  - text: To inflate, as with pride; to puff up.
+  - text: To breathe hard or quick; to pant; to puff.
+  - text: To put out of breath; to cause to blow from fatigue.
+    example: to blow a horse
+  - text: To talk loudly; to boast; to storm.
+  - text: To sing.
+    example: That girl has a wonderful voice; just listen to her blow!
+  - text: To leave the Church of Scientology in an unauthorized manner.
+- pos: verb
+  defs:
+  - text: To blossom; to cause to bloom or blossom.
+- pos: adjective
+  defs:
+  - text: Distended, swollen or inflated
+    example: Cattle are said to be blown when gorged with green food which develops
+      gas.
+  - text: Panting and out of breath
+  - text: "(of glass) Formed by blowing"
+  - text: Under the influence of drugs, especially marijuana.
+  - text: Stale; worthless
+  - text: Covered with the eggs and larvae of flies; flyblown.
+  - text: Given a hot rod blower.
 ---
-

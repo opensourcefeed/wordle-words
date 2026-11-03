@@ -1,7 +1,83 @@
 ---
 layout: word
-title: cooks
+title: Is COOKS a Wordle Word?
+head_title: Is COOKS a Wordle Word? Yes – Valid Guess & Meaning
 word: cooks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kʊks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who prepares food.<p><strong>Example:</strong> I'm a terrible cook, so I eat a lot of frozen dinners.</p></li><li><strong>Definition 2:</strong> The head cook of a manor house</li><li><strong>Definition 3:</strong> The degree or quality of cookedness of food</li><li><strong>Definition 4:</strong> One who manufactures certain illegal drugs, especially meth.<p><strong>Example:</strong> Police found two meth cooks working in the illicit lab.</p></li><li><strong>Definition 5:</strong> A session of manufacturing certain illegal drugs, especially meth.</li><li><strong>Definition 6:</strong> A fish, the European striped wrasse, Labrus mixtus.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare (food) for eating by heating it, often by combining it with other ingredients.<p><strong>Example:</strong> I'm cooking bangers and mash.</p></li><li><strong>Definition 2:</strong> To prepare (unspecified) food for eating by heating it, often by combining it with other ingredients.<p><strong>Example:</strong> He's in the kitchen, cooking.</p></li><li><strong>Definition 3:</strong> To be cooked.<p><strong>Example:</strong> The dinner is cooking on the stove.</p></li><li><strong>Definition 4:</strong> To be uncomfortably hot.<p><strong>Example:</strong> Look at that poor dog shut up in that car on a day like today - it must be cooking in there.</p></li><li><strong>Definition 5:</strong> To execute by electric chair.</li><li><strong>Definition 6:</strong> To hold onto (a grenade) briefly after igniting the fuse, so that it explodes almost immediately after being thrown.</li><li><strong>Definition 7:</strong> To concoct or prepare.</li><li><strong>Definition 8:</strong> To tamper with or alter; to cook up.</li><li><strong>Definition 9:</strong> To play or improvise in an inspired and rhythmically exciting way. (From 1930s jive talk.)<p><strong>Example:</strong> Crank up the Coltrane and start cooking!</p></li><li><strong>Definition 10:</strong> To play music vigorously.<p><strong>Example:</strong> On the Wagner piece, the orchestra was cooking!</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make the noise of the cuckoo.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw.</li></ul></div></div>"
+description: Yes, COOKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- books
+- cocks
+- conks
+- coofs
+- cooky
+- cools
+- cooms
+- coops
+- coots
+- corks
+- cowks
+- dooks
+anagrams:
+- socko
+trap:
+  pattern: _OOKS
+  count: 14
+phonetic: "/kʊks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who prepares food.
+    example: I'm a terrible cook, so I eat a lot of frozen dinners.
+  - text: The head cook of a manor house
+  - text: The degree or quality of cookedness of food
+  - text: One who manufactures certain illegal drugs, especially meth.
+    example: Police found two meth cooks working in the illicit lab.
+  - text: A session of manufacturing certain illegal drugs, especially meth.
+  - text: A fish, the European striped wrasse, Labrus mixtus.
+- pos: verb
+  defs:
+  - text: To prepare (food) for eating by heating it, often by combining it with other
+      ingredients.
+    example: I'm cooking bangers and mash.
+  - text: To prepare (unspecified) food for eating by heating it, often by combining
+      it with other ingredients.
+    example: He's in the kitchen, cooking.
+  - text: To be cooked.
+    example: The dinner is cooking on the stove.
+  - text: To be uncomfortably hot.
+    example: Look at that poor dog shut up in that car on a day like today - it must
+      be cooking in there.
+  - text: To execute by electric chair.
+  - text: To hold onto (a grenade) briefly after igniting the fuse, so that it explodes
+      almost immediately after being thrown.
+  - text: To concoct or prepare.
+  - text: To tamper with or alter; to cook up.
+  - text: To play or improvise in an inspired and rhythmically exciting way. (From
+      1930s jive talk.)
+    example: Crank up the Coltrane and start cooking!
+  - text: To play music vigorously.
+    example: On the Wagner piece, the orchestra was cooking!
+- pos: verb
+  defs:
+  - text: To make the noise of the cuckoo.
+- pos: verb
+  defs:
+  - text: To throw.
 ---
-

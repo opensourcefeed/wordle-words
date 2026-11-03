@@ -1,7 +1,41 @@
 ---
 layout: word
-title: ingot
+title: Is INGOT a Wordle Word?
+head_title: Is INGOT a Wordle Word? Yes – Possible Answer & Meaning
 word: ingot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪŋɡət/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A solid block of more or less pure metal, often but not necessarily bricklike in shape and trapezoidal in cross-section, the result of pouring out and cooling molten metal, often immediately after smelting from raw ore or alloying from constituents.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form (scraps of metal) into ingots.</li></ul></div></div>"
+description: Yes, INGOT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- ungot
+anagrams:
+- tigon
+- toing
+phonetic: "/ˈɪŋɡət/"
+definitions:
+- pos: noun
+  defs:
+  - text: A solid block of more or less pure metal, often but not necessarily bricklike
+      in shape and trapezoidal in cross-section, the result of pouring out and cooling
+      molten metal, often immediately after smelting from raw ore or alloying from
+      constituents.
+- pos: verb
+  defs:
+  - text: To form (scraps of metal) into ingots.
 ---
-

@@ -1,7 +1,65 @@
 ---
 layout: word
-title: carve
+title: Is CARVE a Wordle Word?
+head_title: 'Is CARVE a Wordle Word? Yes – Past Answer #1209 & Meaning'
 word: carve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɑːv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A carucate.</li><li><strong>Definition 2:</strong> The act of carving<p><strong>Example:</strong> give that turkey a careful carve</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut.</li><li><strong>Definition 2:</strong> To cut meat in order to serve it.<p><strong>Example:</strong> You carve the roast and I'll serve the vegetables.</p></li><li><strong>Definition 3:</strong> To shape to sculptural effect; to produce (a work) by cutting, or to cut (a material) into a finished work.<p><strong>Example:</strong> to carve a name into a tree</p></li><li><strong>Definition 4:</strong> To perform a series of turns without pivoting, so that the tip and tail of the snowboard take the same path.</li><li><strong>Definition 5:</strong> To take or make, as by cutting; to provide.</li><li><strong>Definition 6:</strong> To lay out; to contrive; to design; to plan.</li></ul></div></div>"
+description: Yes, CARVE is a valid Wordle word. It was the Wordle answer on October
+  10, 2024 (#1209). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 10, 2024 (#1209).
+past_answers:
+- date: '2024-10-10'
+  number: 1209
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- curve
+- calve
+- carle
+- carne
+- carpe
+- carse
+- carte
+- carvy
+- parve
+- varve
+anagrams:
+- crave
+- caver
+- varec
+trap:
+  pattern: CAR_E
+  count: 6
+phonetic: "/kɑːv/"
+definitions:
+- pos: noun
+  defs:
+  - text: A carucate.
+  - text: The act of carving
+    example: give that turkey a careful carve
+- pos: verb
+  defs:
+  - text: To cut.
+  - text: To cut meat in order to serve it.
+    example: You carve the roast and I'll serve the vegetables.
+  - text: To shape to sculptural effect; to produce (a work) by cutting, or to cut
+      (a material) into a finished work.
+    example: to carve a name into a tree
+  - text: To perform a series of turns without pivoting, so that the tip and tail
+      of the snowboard take the same path.
+  - text: To take or make, as by cutting; to provide.
+  - text: To lay out; to contrive; to design; to plan.
 ---
-

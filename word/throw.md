@@ -1,7 +1,104 @@
 ---
 layout: word
-title: throw
+title: Is THROW a Wordle Word?
+head_title: 'Is THROW a Wordle Word? Yes – Past Answer #888 & Meaning'
 word: throw
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To change place.</li><li><strong>Definition 2:</strong> To change in state or status</li><li><strong>Definition 3:</strong> To move through time.</li><li><strong>Definition 4:</strong> To be accepted.</li><li><strong>Definition 5:</strong> In any game, to decline to play in one's turn.</li><li><strong>Definition 6:</strong> To do or be better.</li><li><strong>Definition 7:</strong> To take heed.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The flight of a thrown object.<p><strong>Example:</strong> What a great throw by the quarterback!</p></li><li><strong>Definition 2:</strong> The act of throwing something.<p><strong>Example:</strong> The gambler staked everything on one throw of the dice.</p></li><li><strong>Definition 3:</strong> One's ability to throw.<p><strong>Example:</strong> He's always had a pretty decent throw.</p></li><li><strong>Definition 4:</strong> A distance travelled; displacement.<p><strong>Example:</strong> the throw of the piston</p></li><li><strong>Definition 5:</strong> A piece of fabric used to cover a bed, sofa or other soft furnishing.</li><li><strong>Definition 6:</strong> A single instance, occurrence, venture, or chance.<p><strong>Example:</strong> Football tickets are expensive at fifty bucks a throw.</p></li><li><strong>Definition 7:</strong> A violent effort.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hurl; to cause an object to move rapidly through the air.<p><strong>Example:</strong> throw a shoe; throw a javelin; the horse threw its rider</p></li><li><strong>Definition 2:</strong> To eject or cause to fall off.</li><li><strong>Definition 3:</strong> To move to another position or condition; to displace.<p><strong>Example:</strong> throw the switch</p></li><li><strong>Definition 4:</strong> To make (a pot) by shaping clay as it turns on a wheel.</li><li><strong>Definition 5:</strong> (of a bowler) to deliver (the ball) illegally by straightening the bowling arm during delivery.</li><li><strong>Definition 6:</strong> To send (an error) to an exception-handling mechanism in order to interrupt normal processing.<p><strong>Example:</strong> If the file is read-only, the method throws an invalid-operation exception.</p></li><li><strong>Definition 7:</strong> To intentionally lose a game.<p><strong>Example:</strong> The tennis player was accused of taking bribes to throw the match.</p></li><li><strong>Definition 8:</strong> To confuse or mislead.<p><strong>Example:</strong> The deliberate red herring threw me at first.</p></li><li><strong>Definition 9:</strong> To send desperately.<p><strong>Example:</strong> Their sergeant threw the troops into pitched battle.</p></li><li><strong>Definition 10:</strong> To imprison.<p><strong>Example:</strong> The magistrate ordered the suspect to be thrown into jail.</p></li><li><strong>Definition 11:</strong> To organize an event, especially a party.</li><li><strong>Definition 12:</strong> To roll (a die or dice).</li><li><strong>Definition 13:</strong> To cause a certain number on the die or dice to be shown after rolling it.</li><li><strong>Definition 14:</strong> To discard.</li><li><strong>Definition 15:</strong> To lift the opponent off the ground and bring him back down, especially into a position behind the thrower.</li><li><strong>Definition 16:</strong> (said of one's voice) To change in order to give the illusion that the voice is that of someone else.</li><li><strong>Definition 17:</strong> To show sudden emotion, especially anger.</li><li><strong>Definition 18:</strong> To project or send forth.</li><li><strong>Definition 19:</strong> To put on hastily; to spread carelessly.</li><li><strong>Definition 20:</strong> To twist two or more filaments of (silk, etc.) so as to form one thread; to twist together, as singles, in a direction contrary to the twist of the singles themselves; sometimes applied to the whole class of operations by which silk is prepared for the weaver.</li><li><strong>Definition 21:</strong> (of a team, a manager, etc.) To select (a pitcher); to assign a pitcher to a given role (such as starter or reliever).</li><li><strong>Definition 22:</strong> To install (a bridge).</li><li><strong>Definition 23:</strong> To twist or turn.<p><strong>Example:</strong> a thrown nail</p></li></ul></div></div>"
+description: Yes, THROW is a valid Wordle word. It was the Wordle answer on November
+  24, 2023 (#888). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 24, 2023 (#888).
+past_answers:
+- date: '2023-11-24'
+  number: 888
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- threw
+- throb
+- shrow
+- theow
+- thraw
+- throe
+anagrams:
+- worth
+- rowth
+- whort
+- wroth
+definitions:
+- pos: verb
+  defs:
+  - text: To change place.
+  - text: To change in state or status
+  - text: To move through time.
+  - text: To be accepted.
+  - text: In any game, to decline to play in one's turn.
+  - text: To do or be better.
+  - text: To take heed.
+- pos: noun
+  defs:
+  - text: The flight of a thrown object.
+    example: What a great throw by the quarterback!
+  - text: The act of throwing something.
+    example: The gambler staked everything on one throw of the dice.
+  - text: One's ability to throw.
+    example: He's always had a pretty decent throw.
+  - text: A distance travelled; displacement.
+    example: the throw of the piston
+  - text: A piece of fabric used to cover a bed, sofa or other soft furnishing.
+  - text: A single instance, occurrence, venture, or chance.
+    example: Football tickets are expensive at fifty bucks a throw.
+  - text: A violent effort.
+- pos: verb
+  defs:
+  - text: To hurl; to cause an object to move rapidly through the air.
+    example: throw a shoe; throw a javelin; the horse threw its rider
+  - text: To eject or cause to fall off.
+  - text: To move to another position or condition; to displace.
+    example: throw the switch
+  - text: To make (a pot) by shaping clay as it turns on a wheel.
+  - text: "(of a bowler) to deliver (the ball) illegally by straightening the bowling
+      arm during delivery."
+  - text: To send (an error) to an exception-handling mechanism in order to interrupt
+      normal processing.
+    example: If the file is read-only, the method throws an invalid-operation exception.
+  - text: To intentionally lose a game.
+    example: The tennis player was accused of taking bribes to throw the match.
+  - text: To confuse or mislead.
+    example: The deliberate red herring threw me at first.
+  - text: To send desperately.
+    example: Their sergeant threw the troops into pitched battle.
+  - text: To imprison.
+    example: The magistrate ordered the suspect to be thrown into jail.
+  - text: To organize an event, especially a party.
+  - text: To roll (a die or dice).
+  - text: To cause a certain number on the die or dice to be shown after rolling it.
+  - text: To discard.
+  - text: To lift the opponent off the ground and bring him back down, especially
+      into a position behind the thrower.
+  - text: "(said of one's voice) To change in order to give the illusion that the
+      voice is that of someone else."
+  - text: To show sudden emotion, especially anger.
+  - text: To project or send forth.
+  - text: To put on hastily; to spread carelessly.
+  - text: To twist two or more filaments of (silk, etc.) so as to form one thread;
+      to twist together, as singles, in a direction contrary to the twist of the singles
+      themselves; sometimes applied to the whole class of operations by which silk
+      is prepared for the weaver.
+  - text: "(of a team, a manager, etc.) To select (a pitcher); to assign a pitcher
+      to a given role (such as starter or reliever)."
+  - text: To install (a bridge).
+  - text: To twist or turn.
+    example: a thrown nail
 ---
-

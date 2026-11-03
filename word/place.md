@@ -1,7 +1,58 @@
 ---
 layout: word
-title: place
+title: Is PLACE a Wordle Word?
+head_title: 'Is PLACE a Wordle Word? Yes – Past Answer #964 & Meaning'
 word: place
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pleɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (physical) An area; somewhere within an area.</li><li><strong>Definition 2:</strong> A location or position in space.</li><li><strong>Definition 3:</strong> A particular location in a book or document, particularly the current location of a reader.</li><li><strong>Definition 4:</strong> A passage or extract from a book or document.</li><li><strong>Definition 5:</strong> A topic.</li><li><strong>Definition 6:</strong> A frame of mind.<p><strong>Example:</strong> I'm in a strange place at the moment.</p></li><li><strong>Definition 7:</strong> A chess position; a square of the chessboard.</li><li><strong>Definition 8:</strong> (social) A responsibility or position in an organization.</li><li><strong>Definition 9:</strong> A fortified position: a fortress, citadel, or walled town.</li><li><strong>Definition 10:</strong> Numerically, the column counting a certain quantity.<p><strong>Example:</strong> three decimal places;  the hundreds place</p></li><li><strong>Definition 11:</strong> Ordinal relation; position in the order of proceeding.<p><strong>Example:</strong> That's what I said in the first place!</p></li><li><strong>Definition 12:</strong> Reception; effect; implying the making room for.</li></ul></div></div>"
+description: Yes, PLACE is a valid Wordle word. It was the Wordle answer on February
+  8, 2024 (#964). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 8, 2024 (#964).
+past_answers:
+- date: '2024-02-08'
+  number: 964
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- peace
+- plane
+- plate
+- glace
+- plack
+- plage
+- ploce
+anagrams:
+- caple
+phonetic: "/pleɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(physical) An area; somewhere within an area."
+  - text: A location or position in space.
+  - text: A particular location in a book or document, particularly the current location
+      of a reader.
+  - text: A passage or extract from a book or document.
+  - text: A topic.
+  - text: A frame of mind.
+    example: I'm in a strange place at the moment.
+  - text: A chess position; a square of the chessboard.
+  - text: "(social) A responsibility or position in an organization."
+  - text: 'A fortified position: a fortress, citadel, or walled town.'
+  - text: Numerically, the column counting a certain quantity.
+    example: three decimal places;  the hundreds place
+  - text: Ordinal relation; position in the order of proceeding.
+    example: That's what I said in the first place!
+  - text: Reception; effect; implying the making room for.
 ---
-

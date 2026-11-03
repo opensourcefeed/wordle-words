@@ -1,7 +1,58 @@
 ---
 layout: word
-title: musts
+title: Is MUSTS a Wordle Word?
+head_title: Is MUSTS a Wordle Word? Yes – Valid Guess & Meaning
 word: musts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something that is mandatory or required.<p><strong>Example:</strong> If you'll be out all day, a map is a must.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The property of being stale or musty.</li><li><strong>Definition 2:</strong> Something that exhibits the property of being stale or musty.</li><li><strong>Definition 3:</strong> Fruit juice that will ferment or has fermented, usually from grapes.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A time during which male elephants exhibit increased levels of sexual activity and aggressiveness (also spelled musth).</li><li><strong>Definition 2:</strong> An elephant in this sexual and aggressive state.</li></ul></div></div>"
+description: Yes, MUSTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- musty
+- busts
+- dusts
+- fusts
+- gusts
+- justs
+- lusts
+- masts
+- mists
+- mosts
+- munts
+- muses
+anagrams:
+- smuts
+- stums
+trap:
+  pattern: _USTS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: Something that is mandatory or required.
+    example: If you'll be out all day, a map is a must.
+- pos: noun
+  defs:
+  - text: The property of being stale or musty.
+  - text: Something that exhibits the property of being stale or musty.
+  - text: Fruit juice that will ferment or has fermented, usually from grapes.
+- pos: noun
+  defs:
+  - text: A time during which male elephants exhibit increased levels of sexual activity
+      and aggressiveness (also spelled musth).
+  - text: An elephant in this sexual and aggressive state.
 ---
-

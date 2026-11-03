@@ -1,7 +1,58 @@
 ---
 layout: word
-title: rapid
+title: Is RAPID a Wordle Word?
+head_title: 'Is RAPID a Wordle Word? Yes – Past Answer #1334 & Meaning'
 word: rapid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹæpɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (often in the plural) a rough section of a river or stream which is difficult to navigate due to the swift and turbulent motion of the water.</li><li><strong>Definition 2:</strong> A burst of rapid fire.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Very swift or quick.<p><strong>Example:</strong> a rapid stream</p></li><li><strong>Definition 2:</strong> Steep, changing altitude quickly. (of a slope)</li><li><strong>Definition 3:</strong> Needing only a brief exposure time. (of a lens, plate, film, etc.)</li><li><strong>Definition 4:</strong> Violent, severe.</li><li><strong>Definition 5:</strong> Happy.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> (archaic or colloquial) Rapidly.</li></ul></div></div>"
+description: Yes, RAPID is a valid Wordle word. It was the Wordle answer on February
+  12, 2025 (#1334). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 12, 2025 (#1334).
+past_answers:
+- date: '2025-02-12'
+  number: 1334
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- rabid
+- vapid
+- ranid
+- raped
+- rapin
+- sapid
+anagrams:
+- adrip
+- padri
+- pardi
+- parid
+phonetic: "/ˈɹæpɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(often in the plural) a rough section of a river or stream which is difficult
+      to navigate due to the swift and turbulent motion of the water."
+  - text: A burst of rapid fire.
+- pos: adjective
+  defs:
+  - text: Very swift or quick.
+    example: a rapid stream
+  - text: Steep, changing altitude quickly. (of a slope)
+  - text: Needing only a brief exposure time. (of a lens, plate, film, etc.)
+  - text: Violent, severe.
+  - text: Happy.
+- pos: adverb
+  defs:
+  - text: "(archaic or colloquial) Rapidly."
 ---
-

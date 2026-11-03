@@ -1,7 +1,91 @@
 ---
 layout: word
-title: plant
+title: Is PLANT a Wordle Word?
+head_title: 'Is PLANT a Wordle Word? Yes – Past Answer #307 & Meaning'
 word: plant
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /plænt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree.<p><strong>Example:</strong> The garden had a couple of trees, and a cluster of colourful plants around the border.</p></li><li><strong>Definition 2:</strong> An organism of the kingdom Plantae; now specifically, a living organism of the Embryophyta (land plants) or of the Chlorophyta (green algae), a eukaryote that includes double-membraned chloroplasts in its cells containing chlorophyll a and b, or any organism closely related to such an organism.</li><li><strong>Definition 3:</strong> Now specifically, a multicellular eukaryote that includes chloroplasts in its cells, which have a cell wall.</li><li><strong>Definition 4:</strong> Any creature that grows on soil or similar surfaces, including plants and fungi.</li><li><strong>Definition 5:</strong> A factory or other industrial or institutional building or facility.</li><li><strong>Definition 6:</strong> An object placed surreptitiously in order to cause suspicion to fall upon a person.<p><strong>Example:</strong> That gun's not mine! It's a plant! I've never seen it before!</p></li><li><strong>Definition 7:</strong> Anyone assigned to behave as a member of the public during a covert operation (as in a police investigation).</li><li><strong>Definition 8:</strong> A person, placed amongst an audience, whose role is to cause confusion, laughter etc.</li><li><strong>Definition 9:</strong> A play in which the cue ball knocks one (usually red) ball onto another, in order to pot the second; a set.</li><li><strong>Definition 10:</strong> Machinery, such as the kind used in earthmoving or construction.</li><li><strong>Definition 11:</strong> A young tree; a sapling; hence, a stick or staff.</li><li><strong>Definition 12:</strong> The sole of the foot.</li><li><strong>Definition 13:</strong> A plan; a swindle; a trick.</li><li><strong>Definition 14:</strong> An oyster which has been bedded, in distinction from one of natural growth.</li><li><strong>Definition 15:</strong> A young oyster suitable for transplanting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place (a seed or plant) in soil or other substrate in order that it may live and grow.</li><li><strong>Definition 2:</strong> To place (an object, or sometimes a person), often with the implication of intending deceit.<p><strong>Example:</strong> That gun's not mine! It was planted there by the real murderer!</p></li><li><strong>Definition 3:</strong> To place or set something firmly or with conviction.<p><strong>Example:</strong> Plant your feet firmly and give the rope a good tug.</p></li><li><strong>Definition 4:</strong> To place in the ground.</li><li><strong>Definition 5:</strong> To furnish or supply with plants.<p><strong>Example:</strong> to plant a garden, an orchard, or a forest</p></li><li><strong>Definition 6:</strong> To engender; to generate; to set the germ of.</li><li><strong>Definition 7:</strong> To furnish with a fixed and organized population; to settle; to establish.<p><strong>Example:</strong> to plant a colony</p></li><li><strong>Definition 8:</strong> To introduce and establish the principles or seeds of.<p><strong>Example:</strong> to plant Christianity among the heathen</p></li><li><strong>Definition 9:</strong> To set up; to install; to instate.</li></ul></div></div>"
+description: Yes, PLANT is a valid Wordle word. It was the Wordle answer on April
+  22, 2022 (#307). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 22, 2022 (#307).
+past_answers:
+- date: '2022-04-22'
+  number: 307
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- plait
+- plane
+- plank
+- slant
+- alant
+- planc
+- planh
+- plans
+- plast
+- platt
+trap:
+  pattern: PLAN_
+  count: 6
+phonetic: "/plænt/"
+definitions:
+- pos: noun
+  defs:
+  - text: An organism that is not an animal, especially an organism capable of photosynthesis.
+      Typically a small or herbaceous organism of this kind, rather than a tree.
+    example: The garden had a couple of trees, and a cluster of colourful plants around
+      the border.
+  - text: An organism of the kingdom Plantae; now specifically, a living organism
+      of the Embryophyta (land plants) or of the Chlorophyta (green algae), a eukaryote
+      that includes double-membraned chloroplasts in its cells containing chlorophyll
+      a and b, or any organism closely related to such an organism.
+  - text: Now specifically, a multicellular eukaryote that includes chloroplasts in
+      its cells, which have a cell wall.
+  - text: Any creature that grows on soil or similar surfaces, including plants and
+      fungi.
+  - text: A factory or other industrial or institutional building or facility.
+  - text: An object placed surreptitiously in order to cause suspicion to fall upon
+      a person.
+    example: That gun's not mine! It's a plant! I've never seen it before!
+  - text: Anyone assigned to behave as a member of the public during a covert operation
+      (as in a police investigation).
+  - text: A person, placed amongst an audience, whose role is to cause confusion,
+      laughter etc.
+  - text: A play in which the cue ball knocks one (usually red) ball onto another,
+      in order to pot the second; a set.
+  - text: Machinery, such as the kind used in earthmoving or construction.
+  - text: A young tree; a sapling; hence, a stick or staff.
+  - text: The sole of the foot.
+  - text: A plan; a swindle; a trick.
+  - text: An oyster which has been bedded, in distinction from one of natural growth.
+  - text: A young oyster suitable for transplanting.
+- pos: verb
+  defs:
+  - text: To place (a seed or plant) in soil or other substrate in order that it may
+      live and grow.
+  - text: To place (an object, or sometimes a person), often with the implication
+      of intending deceit.
+    example: That gun's not mine! It was planted there by the real murderer!
+  - text: To place or set something firmly or with conviction.
+    example: Plant your feet firmly and give the rope a good tug.
+  - text: To place in the ground.
+  - text: To furnish or supply with plants.
+    example: to plant a garden, an orchard, or a forest
+  - text: To engender; to generate; to set the germ of.
+  - text: To furnish with a fixed and organized population; to settle; to establish.
+    example: to plant a colony
+  - text: To introduce and establish the principles or seeds of.
+    example: to plant Christianity among the heathen
+  - text: To set up; to install; to instate.
 ---
-

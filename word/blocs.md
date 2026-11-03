@@ -1,7 +1,41 @@
 ---
 layout: word
-title: blocs
+title: Is BLOCS a Wordle Word?
+head_title: Is BLOCS a Wordle Word? Yes – Valid Guess & Meaning
 word: blocs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blɒks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A group of voters or politicians who share common goals.</li><li><strong>Definition 2:</strong> A group of countries acting together for political or economic goals, an alliance: e.g., the eastern bloc, the western bloc, a trading bloc, the Eurozone, the European Union.<p><strong>Example:</strong> Climate change a security risk for EU, say bloc's foreign policy chiefs (EUobserver)</p></li></ul></div></div>"
+description: Yes, BLOCS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- block
+- blobs
+- blogs
+- blots
+- blows
+- flocs
+phonetic: "/blɒks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A group of voters or politicians who share common goals.
+  - text: 'A group of countries acting together for political or economic goals, an
+      alliance: e.g., the eastern bloc, the western bloc, a trading bloc, the Eurozone,
+      the European Union.'
+    example: Climate change a security risk for EU, say bloc's foreign policy chiefs
+      (EUobserver)
 ---
-

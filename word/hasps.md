@@ -1,7 +1,44 @@
 ---
 layout: word
-title: hasps
+title: Is HASPS a Wordle Word?
+head_title: Is HASPS a Wordle Word? Yes – Valid Guess & Meaning
 word: hasps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A clasp, especially a metal strap fastened by a padlock or a pin; also, a hook for fastening a door.</li><li><strong>Definition 2:</strong> A spindle to wind yarn, thread, or silk on.</li><li><strong>Definition 3:</strong> An instrument for cutting the surface of grassland; a scarifier.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A measure of two hanks of linen thread.</li></ul></div></div>"
+description: Yes, HASPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- gasps
+- harps
+- hasks
+- hesps
+- jasps
+- rasps
+- wasps
+anagrams:
+- shaps
+definitions:
+- pos: noun
+  defs:
+  - text: A clasp, especially a metal strap fastened by a padlock or a pin; also,
+      a hook for fastening a door.
+  - text: A spindle to wind yarn, thread, or silk on.
+  - text: An instrument for cutting the surface of grassland; a scarifier.
+- pos: noun
+  defs:
+  - text: A measure of two hanks of linen thread.
 ---
-

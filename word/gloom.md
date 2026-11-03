@@ -1,7 +1,50 @@
 ---
 layout: word
-title: gloom
+title: Is GLOOM a Wordle Word?
+head_title: 'Is GLOOM a Wordle Word? Yes – Past Answer #352 & Meaning'
 word: gloom
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡlum/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Darkness, dimness or obscurity.<p><strong>Example:</strong> the gloom of a forest, or of midnight</p></li><li><strong>Definition 2:</strong> A melancholic, depressing or despondent atmosphere.</li><li><strong>Definition 3:</strong> Cloudiness or heaviness of mind; melancholy; aspect of sorrow; low spirits; dullness.</li><li><strong>Definition 4:</strong> A drying oven used in gunpowder manufacture.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be dark or gloomy.</li><li><strong>Definition 2:</strong> To look or feel sad, sullen or despondent.</li><li><strong>Definition 3:</strong> To render gloomy or dark; to obscure; to darken.</li><li><strong>Definition 4:</strong> To fill with gloom; to make sad, dismal, or sullen.</li><li><strong>Definition 5:</strong> To shine or appear obscurely or imperfectly; to glimmer.</li></ul></div></div>"
+description: Yes, GLOOM is a valid Wordle word. It was the Wordle answer on June 6,
+  2022 (#352). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 6, 2022 (#352).
+past_answers:
+- date: '2022-06-06'
+  number: 352
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- bloom
+- groom
+- gloam
+- gloop
+- sloom
+phonetic: "/ɡlum/"
+definitions:
+- pos: noun
+  defs:
+  - text: Darkness, dimness or obscurity.
+    example: the gloom of a forest, or of midnight
+  - text: A melancholic, depressing or despondent atmosphere.
+  - text: Cloudiness or heaviness of mind; melancholy; aspect of sorrow; low spirits;
+      dullness.
+  - text: A drying oven used in gunpowder manufacture.
+- pos: verb
+  defs:
+  - text: To be dark or gloomy.
+  - text: To look or feel sad, sullen or despondent.
+  - text: To render gloomy or dark; to obscure; to darken.
+  - text: To fill with gloom; to make sad, dismal, or sullen.
+  - text: To shine or appear obscurely or imperfectly; to glimmer.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: bolos
+title: Is BOLOS a Wordle Word?
+head_title: Is BOLOS a Wordle Word? Yes – Valid Guess & Meaning
 word: bolos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long, heavy, single-edged machete.</li><li><strong>Definition 2:</strong> A type of punch; an uppercut.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A soldier not capable of the minimum standards of marksmanship.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A string or leather necktie secured with an ornamental slide.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A request for law enforcement officers to be on the lookout for a suspect.</li></ul></div></div>"
+description: Yes, BOLOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- bobos
+- bohos
+- bokos
+- bolas
+- bolds
+- boles
+- bolks
+- bolls
+- bolts
+- bolus
+- botos
+- boyos
+anagrams:
+- bools
+- lobos
+- obols
+trap:
+  pattern: _OLOS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A long, heavy, single-edged machete.
+  - text: A type of punch; an uppercut.
+- pos: noun
+  defs:
+  - text: A soldier not capable of the minimum standards of marksmanship.
+- pos: noun
+  defs:
+  - text: A string or leather necktie secured with an ornamental slide.
+- pos: noun
+  defs:
+  - text: A request for law enforcement officers to be on the lookout for a suspect.
 ---
-

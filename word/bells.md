@@ -1,7 +1,87 @@
 ---
 layout: word
-title: bells
+title: Is BELLS a Wordle Word?
+head_title: Is BELLS a Wordle Word? Yes – Valid Guess & Meaning
 word: bells
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɛlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A percussive instrument made of metal or other hard material, typically but not always in the shape of an inverted cup with a flared rim, which resonates when struck.</li><li><strong>Definition 2:</strong> The sounding of a bell as a signal.</li><li><strong>Definition 3:</strong> A telephone call.<p><strong>Example:</strong> I’ll give you a bell later.</p></li><li><strong>Definition 4:</strong> A signal at a school that tells the students when a class is starting or ending.</li><li><strong>Definition 5:</strong> The flared end of a brass or woodwind instrument.</li><li><strong>Definition 6:</strong> Any of a series of strokes on a bell (or similar), struck every half hour to indicate the time (within a four hour watch)</li><li><strong>Definition 7:</strong> The flared end of a pipe, designed to mate with a narrow spigot.</li><li><strong>Definition 8:</strong> A device control code that produces a beep (or rings a small electromechanical bell on older teleprinters etc.).</li><li><strong>Definition 9:</strong> Anything shaped like a bell, such as the cup or corolla of a flower.</li><li><strong>Definition 10:</strong> The part of the capital of a column included between the abacus and neck molding; also used for the naked core of nearly cylindrical shape, assumed to exist within the leafage of a capital.</li><li><strong>Definition 11:</strong> An instrument situated on a bicycle's handlebar, used by the cyclist to warn of his or her presence.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attach a bell to.<p><strong>Example:</strong> Who will bell the cat?</p></li><li><strong>Definition 2:</strong> To shape so that it flares out like a bell.<p><strong>Example:</strong> to bell a tube</p></li><li><strong>Definition 3:</strong> To telephone.</li><li><strong>Definition 4:</strong> To develop bells or corollas; to take the form of a bell; to blossom.<p><strong>Example:</strong> Hops bell.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The bellow or bay of certain animals, such as a hound on the hunt or a stag in rut.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bellow or roar.</li><li><strong>Definition 2:</strong> To utter in a loud manner; to thunder forth.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Ship's bells; the strokes on a ship's bell, every half hour, to mark the passage of time.</li><li><strong>Definition 2:</strong> Short for bell-bottoms.</li></ul></div></div>"
+description: Yes, BELLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- belle
+- belly
+- balls
+- beals
+- belli
+- bello
+- belts
+- bills
+- bolls
+- bulls
+- cells
+- dells
+trap:
+  pattern: _ELLS
+  count: 14
+phonetic: "/bɛlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A percussive instrument made of metal or other hard material, typically
+      but not always in the shape of an inverted cup with a flared rim, which resonates
+      when struck.
+  - text: The sounding of a bell as a signal.
+  - text: A telephone call.
+    example: I’ll give you a bell later.
+  - text: A signal at a school that tells the students when a class is starting or
+      ending.
+  - text: The flared end of a brass or woodwind instrument.
+  - text: Any of a series of strokes on a bell (or similar), struck every half hour
+      to indicate the time (within a four hour watch)
+  - text: The flared end of a pipe, designed to mate with a narrow spigot.
+  - text: A device control code that produces a beep (or rings a small electromechanical
+      bell on older teleprinters etc.).
+  - text: Anything shaped like a bell, such as the cup or corolla of a flower.
+  - text: The part of the capital of a column included between the abacus and neck
+      molding; also used for the naked core of nearly cylindrical shape, assumed to
+      exist within the leafage of a capital.
+  - text: An instrument situated on a bicycle's handlebar, used by the cyclist to
+      warn of his or her presence.
+- pos: verb
+  defs:
+  - text: To attach a bell to.
+    example: Who will bell the cat?
+  - text: To shape so that it flares out like a bell.
+    example: to bell a tube
+  - text: To telephone.
+  - text: To develop bells or corollas; to take the form of a bell; to blossom.
+    example: Hops bell.
+- pos: noun
+  defs:
+  - text: The bellow or bay of certain animals, such as a hound on the hunt or a stag
+      in rut.
+- pos: verb
+  defs:
+  - text: To bellow or roar.
+  - text: To utter in a loud manner; to thunder forth.
+- pos: noun
+  defs:
+  - text: Ship's bells; the strokes on a ship's bell, every half hour, to mark the
+      passage of time.
+  - text: Short for bell-bottoms.
 ---
-

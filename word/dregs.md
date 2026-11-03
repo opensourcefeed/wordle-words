@@ -1,7 +1,39 @@
 ---
 layout: word
-title: dregs
+title: Is DREGS a Wordle Word?
+head_title: Is DREGS a Wordle Word? Yes – Valid Guess & Meaning
 word: dregs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹɛɡz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (collectively) The sediment settled at the bottom of a liquid; the lees in a container of unfiltered wine.</li><li><strong>Definition 2:</strong> (the dregs) The worst and lowest part of something.<p><strong>Example:</strong> the dregs of society</p></li></ul></div></div>"
+description: Yes, DREGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- dress
+- drags
+- drees
+- dreks
+- dreys
+- drugs
+phonetic: "/dɹɛɡz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(collectively) The sediment settled at the bottom of a liquid; the lees
+      in a container of unfiltered wine."
+  - text: "(the dregs) The worst and lowest part of something."
+    example: the dregs of society
 ---
-

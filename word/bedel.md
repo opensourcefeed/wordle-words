@@ -1,7 +1,42 @@
 ---
 layout: word
-title: bedel
+title: Is BEDEL a Wordle Word?
+head_title: Is BEDEL a Wordle Word? Yes – Valid Guess & Meaning
 word: bedel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An administrative official at universities in several European countries, often with a policiary function at the time when universities had their own jurisdiction over students.<p><strong>Example:</strong> Oxford today has four bedels, representing Divinity, Law, Medicine, and Arts.</p></li></ul></div></div>"
+description: Yes, BEDEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- betel
+- bevel
+- bezel
+- bedes
+- bedew
+- wedel
+anagrams:
+- bleed
+- debel
+definitions:
+- pos: noun
+  defs:
+  - text: An administrative official at universities in several European countries,
+      often with a policiary function at the time when universities had their own
+      jurisdiction over students.
+    example: Oxford today has four bedels, representing Divinity, Law, Medicine, and
+      Arts.
 ---
-

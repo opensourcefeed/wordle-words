@@ -1,7 +1,35 @@
 ---
 layout: word
-title: pipit
+title: Is PIPIT a Wordle Word?
+head_title: Is PIPIT a Wordle Word? Yes – Valid Guess & Meaning
 word: pipit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɪpɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various small passerine birds, mainly from the genus Anthus, that are often drab, ground feeding insectivores of open country.</li></ul></div></div>"
+description: Yes, PIPIT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 3
+  repeated:
+  - P
+  - I
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- pipet
+- pipid
+- pipis
+phonetic: "/ˈpɪpɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various small passerine birds, mainly from the genus Anthus, that
+      are often drab, ground feeding insectivores of open country.
 ---
-

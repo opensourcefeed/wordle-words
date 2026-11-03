@@ -1,7 +1,58 @@
 ---
 layout: word
-title: cried
+title: Is CRIED a Wordle Word?
+head_title: Is CRIED a Wordle Word? Yes – Possible Answer & Meaning
 word: cried
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shed tears; to weep.<p><strong>Example:</strong> That sad movie always makes me cry.</p></li><li><strong>Definition 2:</strong> To utter loudly; to call out; to declare publicly.</li><li><strong>Definition 3:</strong> To shout, scream, yell.</li><li><strong>Definition 4:</strong> To utter inarticulate sounds, as animals do.</li><li><strong>Definition 5:</strong> To cause to do something, or bring to some state, by crying or weeping.<p><strong>Example:</strong> Tonight I'll cry myself to sleep.</p></li><li><strong>Definition 6:</strong> To make oral and public proclamation of; to notify or advertise by outcry, especially things lost or found, goods to be sold, etc.<p><strong>Example:</strong> to cry goods</p></li><li><strong>Definition 7:</strong> Hence, to publish the banns of, as for marriage.</li></ul></div></div>"
+description: Yes, CRIED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- creed
+- crier
+- dried
+- fried
+- pried
+- tried
+- clied
+- cries
+- wried
+anagrams:
+- cider
+- dicer
+- drice
+- riced
+trap:
+  pattern: _RIED
+  count: 6
+phonetic: "/kɹaɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To shed tears; to weep.
+    example: That sad movie always makes me cry.
+  - text: To utter loudly; to call out; to declare publicly.
+  - text: To shout, scream, yell.
+  - text: To utter inarticulate sounds, as animals do.
+  - text: To cause to do something, or bring to some state, by crying or weeping.
+    example: Tonight I'll cry myself to sleep.
+  - text: To make oral and public proclamation of; to notify or advertise by outcry,
+      especially things lost or found, goods to be sold, etc.
+    example: to cry goods
+  - text: Hence, to publish the banns of, as for marriage.
 ---
-

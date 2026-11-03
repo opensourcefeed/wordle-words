@@ -1,7 +1,34 @@
 ---
 layout: word
-title: timid
+title: Is TIMID a Wordle Word?
+head_title: Is TIMID a Wordle Word? Yes – Possible Answer & Meaning
 word: timid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtɪmɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Lacking in courage or confidence.<p><strong>Example:</strong> John's a very timid person. I'll doubt he'll be brave enough to face his brother.</p></li></ul></div></div>"
+description: Yes, TIMID is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- timed
+- tumid
+phonetic: "/ˈtɪmɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Lacking in courage or confidence.
+    example: John's a very timid person. I'll doubt he'll be brave enough to face
+      his brother.
 ---
-

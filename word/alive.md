@@ -1,7 +1,84 @@
 ---
 layout: word
-title: alive
+title: Is ALIVE a Wordle Word?
+head_title: 'Is ALIVE a Wordle Word? Yes – Past Answer #957 & Meaning'
 word: alive
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having life; living; not dead<p><strong>Example:</strong> As long as the plant is alive, he will continue to water it.</p></li><li><strong>Definition 2:</strong> In a state of action; in force or operation; existent<p><strong>Example:</strong> to keep the affections alive</p></li><li><strong>Definition 3:</strong> Busy with activity of many living beings; swarming; thronged; busy.<p><strong>Example:</strong> Although quite dull during the day, the main street comes alive at night, with many bars and clubs opening.</p></li><li><strong>Definition 4:</strong> Sprightly; lively; brisk.</li><li><strong>Definition 5:</strong> Susceptible; easy to impress; having keen feelings, as opposed to apathy</li><li><strong>Definition 6:</strong> (as an intensifier) out of all living creatures.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (only used attributively) Having life; that is alive.<p><strong>Example:</strong> The post office will not ship live animals.</p></li><li><strong>Definition 2:</strong> Being in existence; actual<p><strong>Example:</strong> He is a live example of the consequences of excessive drinking.</p></li><li><strong>Definition 3:</strong> Having active properties; being energized.</li><li><strong>Definition 4:</strong> Operational; in actual use rather than in testing etc.</li><li><strong>Definition 5:</strong> Taken from a living animal.<p><strong>Example:</strong> live feathers</p></li><li><strong>Definition 6:</strong> Imparting power; having motion.<p><strong>Example:</strong> a live, or driving, axle</p></li><li><strong>Definition 7:</strong> Still in active play.<p><strong>Example:</strong> a live ball</p></li><li><strong>Definition 8:</strong> Seen or heard from a broadcast, as it happens.<p><strong>Example:</strong> The station presented a live news program every evening.</p></li><li><strong>Definition 9:</strong> (of a performance or speech) In person.<p><strong>Example:</strong> This nightclub has a live band on weekends.</p></li><li><strong>Definition 10:</strong> (entertainment, performing) Recorded in front of an audience and not having been edited after recording.<p><strong>Example:</strong> a live album</p></li><li><strong>Definition 11:</strong> Of firearms or explosives, capable of causing harm.<p><strong>Example:</strong> The air force practices dropping live bombs on the uninhabited island.</p></li><li><strong>Definition 12:</strong> (circuitry) Electrically charged or energized, usually indicating that the item may cause electrocution if touched.<p><strong>Example:</strong> Use caution when working near live wires.</p></li><li><strong>Definition 13:</strong> Being a bet which can be raised by the bettor, usually in reference to a blind or straddle.<p><strong>Example:</strong> Tommy's blind was live, so he was given the option to raise.</p></li><li><strong>Definition 14:</strong> Featuring humans; not animated, in the phrases “live actors” or “live action”.</li><li><strong>Definition 15:</strong> Being in a state of ignition; burning.<p><strong>Example:</strong> a live coal; live embers</p></li><li><strong>Definition 16:</strong> Full of earnestness; active; wide awake; glowing.<p><strong>Example:</strong> a live man, or orator</p></li><li><strong>Definition 17:</strong> Vivid; bright.</li></ul></div></div>"
+description: Yes, ALIVE is a valid Wordle word. It was the Wordle answer on February
+  1, 2024 (#957). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 1, 2024 (#957).
+past_answers:
+- date: '2024-02-01'
+  number: 957
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- alike
+- olive
+- aline
+- blive
+- slive
+definitions:
+- pos: adjective
+  defs:
+  - text: Having life; living; not dead
+    example: As long as the plant is alive, he will continue to water it.
+  - text: In a state of action; in force or operation; existent
+    example: to keep the affections alive
+  - text: Busy with activity of many living beings; swarming; thronged; busy.
+    example: Although quite dull during the day, the main street comes alive at night,
+      with many bars and clubs opening.
+  - text: Sprightly; lively; brisk.
+  - text: Susceptible; easy to impress; having keen feelings, as opposed to apathy
+  - text: "(as an intensifier) out of all living creatures."
+- pos: adjective
+  defs:
+  - text: "(only used attributively) Having life; that is alive."
+    example: The post office will not ship live animals.
+  - text: Being in existence; actual
+    example: He is a live example of the consequences of excessive drinking.
+  - text: Having active properties; being energized.
+  - text: Operational; in actual use rather than in testing etc.
+  - text: Taken from a living animal.
+    example: live feathers
+  - text: Imparting power; having motion.
+    example: a live, or driving, axle
+  - text: Still in active play.
+    example: a live ball
+  - text: Seen or heard from a broadcast, as it happens.
+    example: The station presented a live news program every evening.
+  - text: "(of a performance or speech) In person."
+    example: This nightclub has a live band on weekends.
+  - text: "(entertainment, performing) Recorded in front of an audience and not having
+      been edited after recording."
+    example: a live album
+  - text: Of firearms or explosives, capable of causing harm.
+    example: The air force practices dropping live bombs on the uninhabited island.
+  - text: "(circuitry) Electrically charged or energized, usually indicating that
+      the item may cause electrocution if touched."
+    example: Use caution when working near live wires.
+  - text: Being a bet which can be raised by the bettor, usually in reference to a
+      blind or straddle.
+    example: Tommy's blind was live, so he was given the option to raise.
+  - text: Featuring humans; not animated, in the phrases “live actors” or “live action”.
+  - text: Being in a state of ignition; burning.
+    example: a live coal; live embers
+  - text: Full of earnestness; active; wide awake; glowing.
+    example: a live man, or orator
+  - text: Vivid; bright.
 ---
-

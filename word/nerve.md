@@ -1,7 +1,66 @@
 ---
 layout: word
-title: nerve
+title: Is NERVE a Wordle Word?
+head_title: 'Is NERVE a Wordle Word? Yes – Past Answer #1292 & Meaning'
 word: nerve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nɛɾv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bundle of neurons with their connective tissue sheaths, blood vessels and lymphatics.<p><strong>Example:</strong> The nerves can be seen through the skin.</p></li><li><strong>Definition 2:</strong> A neuron.</li><li><strong>Definition 3:</strong> A vein in a leaf; a grain in wood<p><strong>Example:</strong> Some plants have ornamental value because of their contrasting nerves.</p></li><li><strong>Definition 4:</strong> Courage, boldness.<p><strong>Example:</strong> He hasn't the nerve to tell her he likes her. What a wimp!</p></li><li><strong>Definition 5:</strong> Patience.<p><strong>Example:</strong> The web-team found git-sed is really a time and nerve saver when doing mass changes on your repositories</p></li><li><strong>Definition 6:</strong> Stamina, endurance, fortitude.</li><li><strong>Definition 7:</strong> Audacity, gall.<p><strong>Example:</strong> He had the nerve to enter my house uninvited.</p></li><li><strong>Definition 8:</strong> (polymer technology) The elastic resistance of raw rubber or other polymers to permanent deformation during processing.</li><li><strong>Definition 9:</strong> (in the plural) Agitation caused by fear, stress or other negative emotion.<p><strong>Example:</strong> Ellie had a bad case of nerves before the big test.</p></li><li><strong>Definition 10:</strong> Sinew, tendon.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give courage.<p><strong>Example:</strong> May their example nerve us to face the enemy.</p></li><li><strong>Definition 2:</strong> To give strength; to supply energy or vigour.<p><strong>Example:</strong> The liquor nerved up several of the men after their icy march.</p></li></ul></div></div>"
+description: Yes, NERVE is a valid Wordle word. It was the Wordle answer on January
+  1, 2025 (#1292). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 1, 2025 (#1292).
+past_answers:
+- date: '2025-01-01'
+  number: 1292
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- serve
+- verve
+- kerve
+- neive
+- nervy
+- perve
+anagrams:
+- never
+- erven
+phonetic: "/nɛɾv/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bundle of neurons with their connective tissue sheaths, blood vessels
+      and lymphatics.
+    example: The nerves can be seen through the skin.
+  - text: A neuron.
+  - text: A vein in a leaf; a grain in wood
+    example: Some plants have ornamental value because of their contrasting nerves.
+  - text: Courage, boldness.
+    example: He hasn't the nerve to tell her he likes her. What a wimp!
+  - text: Patience.
+    example: The web-team found git-sed is really a time and nerve saver when doing
+      mass changes on your repositories
+  - text: Stamina, endurance, fortitude.
+  - text: Audacity, gall.
+    example: He had the nerve to enter my house uninvited.
+  - text: "(polymer technology) The elastic resistance of raw rubber or other polymers
+      to permanent deformation during processing."
+  - text: "(in the plural) Agitation caused by fear, stress or other negative emotion."
+    example: Ellie had a bad case of nerves before the big test.
+  - text: Sinew, tendon.
+- pos: verb
+  defs:
+  - text: To give courage.
+    example: May their example nerve us to face the enemy.
+  - text: To give strength; to supply energy or vigour.
+    example: The liquor nerved up several of the men after their icy march.
 ---
-

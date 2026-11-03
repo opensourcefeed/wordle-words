@@ -1,7 +1,45 @@
 ---
 layout: word
-title: fusty
+title: Is FUSTY a Wordle Word?
+head_title: Is FUSTY a Wordle Word? Yes – Valid Guess & Meaning
 word: fusty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Moldy or musty.</li><li><strong>Definition 2:</strong> Stale-smelling or stuffy.</li><li><strong>Definition 3:</strong> (by extension) Old-fashioned, refusing to change or update.</li><li><strong>Definition 4:</strong> (of wine) Tasting of the cask.</li></ul></div></div>"
+description: Yes, FUSTY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- dusty
+- fussy
+- gusty
+- lusty
+- musty
+- rusty
+- busty
+- festy
+- fisty
+- fusts
+anagrams:
+- yufts
+trap:
+  pattern: _USTY
+  count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: Moldy or musty.
+  - text: Stale-smelling or stuffy.
+  - text: "(by extension) Old-fashioned, refusing to change or update."
+  - text: "(of wine) Tasting of the cask."
 ---
-

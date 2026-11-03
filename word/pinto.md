@@ -1,7 +1,50 @@
 ---
 layout: word
-title: pinto
+title: Is PINTO a Wordle Word?
+head_title: 'Is PINTO a Wordle Word? Yes – Past Answer #377 & Meaning'
 word: pinto
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɪntəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A horse with a patchy coloration that includes white.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Pied, mottled.</li></ul></div></div>"
+description: Yes, PINTO is a valid Wordle word. It was the Wordle answer on July 1,
+  2022 (#377). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 1, 2022 (#377).
+past_answers:
+- date: '2022-07-01'
+  number: 377
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- panto
+- pingo
+- pinko
+- pinta
+- pints
+- ponto
+- punto
+- tinto
+anagrams:
+- point
+- pinot
+- piton
+- potin
+phonetic: "/ˈpɪntəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A horse with a patchy coloration that includes white.
+- pos: adjective
+  defs:
+  - text: Pied, mottled.
 ---
-

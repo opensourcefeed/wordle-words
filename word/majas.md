@@ -1,6 +1,40 @@
 ---
 layout: word
-title: majas
+title: Is MAJAS a Wordle Word?
+head_title: Is MAJAS a Wordle Word? Yes – Valid Guess
 word: majas
+description: Yes, MAJAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- macas
+- magas
+- majat
+- majos
+- malas
+- mamas
+- manas
+- maras
+- masas
+- mayas
+- mazas
+- rajas
+trap:
+  pattern: MA_AS
+  count: 10
 ---
-

@@ -1,7 +1,66 @@
 ---
 layout: word
-title: hairs
+title: Is HAIRS a Wordle Word?
+head_title: Is HAIRS a Wordle Word? Yes – Valid Guess & Meaning
 word: hairs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.</li><li><strong>Definition 2:</strong> The collection or mass of such growths growing from the skin of humans and animals, and forming a covering for a part of the head or for any part or the whole body.<p><strong>Example:</strong> In the western world, women usually have long hair while men usually have short hair.</p></li><li><strong>Definition 3:</strong> A slender outgrowth from the chitinous cuticle of insects, spiders, crustaceans, and other invertebrates. Such hairs are totally unlike those of vertebrates in structure, composition, and mode of growth.</li><li><strong>Definition 4:</strong> A cellular outgrowth of the epidermis, consisting of one or of several cells, whether pointed, hooked, knobbed, or stellated.<p><strong>Example:</strong> Internal hairs occur in the flower stalk of the yellow frog lily (Nuphar).</p></li><li><strong>Definition 5:</strong> A locking spring or other safety device in the lock of a rifle, etc., capable of being released by a slight pressure on a hair-trigger.</li><li><strong>Definition 6:</strong> Haircloth; a hair shirt.</li><li><strong>Definition 7:</strong> Any very small distance, or degree; a hairbreadth.<p><strong>Example:</strong> Just a little louder please—turn that knob a hair to the right.</p></li><li><strong>Definition 8:</strong> Complexity; difficulty; quality of being hairy</li></ul></div></div>"
+description: Yes, HAIRS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- hairy
+- fairs
+- gairs
+- haars
+- haiks
+- hails
+- hains
+- heirs
+- lairs
+- mairs
+- pairs
+- sairs
+anagrams:
+- arish
+trap:
+  pattern: _AIRS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A pigmented filament of keratin which grows from a follicle on the skin
+      of humans and other mammals.
+  - text: The collection or mass of such growths growing from the skin of humans and
+      animals, and forming a covering for a part of the head or for any part or the
+      whole body.
+    example: In the western world, women usually have long hair while men usually
+      have short hair.
+  - text: A slender outgrowth from the chitinous cuticle of insects, spiders, crustaceans,
+      and other invertebrates. Such hairs are totally unlike those of vertebrates
+      in structure, composition, and mode of growth.
+  - text: A cellular outgrowth of the epidermis, consisting of one or of several cells,
+      whether pointed, hooked, knobbed, or stellated.
+    example: Internal hairs occur in the flower stalk of the yellow frog lily (Nuphar).
+  - text: A locking spring or other safety device in the lock of a rifle, etc., capable
+      of being released by a slight pressure on a hair-trigger.
+  - text: Haircloth; a hair shirt.
+  - text: Any very small distance, or degree; a hairbreadth.
+    example: Just a little louder please—turn that knob a hair to the right.
+  - text: Complexity; difficulty; quality of being hairy
 ---
-

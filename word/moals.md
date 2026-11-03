@@ -1,6 +1,45 @@
 ---
 layout: word
-title: moals
+title: Is MOALS a Wordle Word?
+head_title: Is MOALS a Wordle Word? Yes – Valid Guess
 word: moals
+description: Yes, MOALS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- coals
+- foals
+- goals
+- meals
+- mgals
+- moais
+- moans
+- moars
+- moats
+- moils
+- molls
+- mools
+anagrams:
+- loams
+- lomas
+- molas
+trap:
+  pattern: MO_LS
+  count: 6
 ---
-

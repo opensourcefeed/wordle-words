@@ -1,7 +1,56 @@
 ---
 layout: word
-title: gamer
+title: Is GAMER a Wordle Word?
+head_title: 'Is GAMER a Wordle Word? Yes – Past Answer #335 & Meaning'
 word: gamer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡeɪmɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who plays any kind of game.</li><li><strong>Definition 2:</strong> A person whose hobby is video games.</li><li><strong>Definition 3:</strong> A person who games the system.</li><li><strong>Definition 4:</strong> (obsolete) A gambler</li></ul></div></div>"
+description: Yes, GAMER is a valid Wordle word. It was the Wordle answer on May 20,
+  2022 (#335). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 20, 2022 (#335).
+past_answers:
+- date: '2022-05-20'
+  number: 335
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- gayer
+- gazer
+- tamer
+- gager
+- gamed
+- games
+- gamey
+- gaper
+- gater
+- gomer
+- lamer
+- namer
+anagrams:
+- grame
+- marge
+- regma
+trap:
+  pattern: GA_ER
+  count: 6
+phonetic: "/ˈɡeɪmɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who plays any kind of game.
+  - text: A person whose hobby is video games.
+  - text: A person who games the system.
+  - text: "(obsolete) A gambler"
 ---
-

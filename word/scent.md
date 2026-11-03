@@ -1,7 +1,66 @@
 ---
 layout: word
-title: scent
+title: Is SCENT a Wordle Word?
+head_title: 'Is SCENT a Wordle Word? Yes – Past Answer #1097 & Meaning'
 word: scent
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sɛnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A distinctive odour or smell.<p><strong>Example:</strong> the scent of a skunk</p></li><li><strong>Definition 2:</strong> An odour left by an animal that may be used for tracing.<p><strong>Example:</strong> The dogs lost the scent.</p></li><li><strong>Definition 3:</strong> The sense of smell.<p><strong>Example:</strong> I believe the bloodhound has the best scent of all dogs.</p></li><li><strong>Definition 4:</strong> A perfume.</li><li><strong>Definition 5:</strong> Any trail or trace that can be followed to find something or someone, such as the paper left behind in a paperchase.</li><li><strong>Definition 6:</strong> Sense, perception.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To detect the scent of; to discern by the sense of smell.<p><strong>Example:</strong> The hounds scented the fox in the woods.</p></li><li><strong>Definition 2:</strong> To have a suspicion of.<p><strong>Example:</strong> I scented trouble when I saw them running down the hill towards me.</p></li><li><strong>Definition 3:</strong> To impart an odour to.<p><strong>Example:</strong> Scent the air with burning sage before you begin your meditation.</p></li><li><strong>Definition 4:</strong> To have a smell.</li><li><strong>Definition 5:</strong> To hunt animals by means of the sense of smell.</li></ul></div></div>"
+description: Yes, SCENT is a valid Wordle word. It was the Wordle answer on June 20,
+  2024 (#1097). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 20, 2024 (#1097).
+past_answers:
+- date: '2024-06-20'
+  number: 1097
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- scant
+- scene
+- spent
+- sceat
+- scena
+- scend
+- shent
+- sient
+- stent
+- suent
+anagrams:
+- cents
+trap:
+  pattern: S_ENT
+  count: 6
+phonetic: "/sɛnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A distinctive odour or smell.
+    example: the scent of a skunk
+  - text: An odour left by an animal that may be used for tracing.
+    example: The dogs lost the scent.
+  - text: The sense of smell.
+    example: I believe the bloodhound has the best scent of all dogs.
+  - text: A perfume.
+  - text: Any trail or trace that can be followed to find something or someone, such
+      as the paper left behind in a paperchase.
+  - text: Sense, perception.
+- pos: verb
+  defs:
+  - text: To detect the scent of; to discern by the sense of smell.
+    example: The hounds scented the fox in the woods.
+  - text: To have a suspicion of.
+    example: I scented trouble when I saw them running down the hill towards me.
+  - text: To impart an odour to.
+    example: Scent the air with burning sage before you begin your meditation.
+  - text: To have a smell.
+  - text: To hunt animals by means of the sense of smell.
 ---
-

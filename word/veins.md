@@ -1,7 +1,60 @@
 ---
 layout: word
-title: veins
+title: Is VEINS a Wordle Word?
+head_title: Is VEINS a Wordle Word? Yes – Valid Guess & Meaning
 word: veins
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /veɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blood vessel that transports blood from the capillaries back to the heart.</li><li><strong>Definition 2:</strong> (in plural) The entrails of a shrimp.</li><li><strong>Definition 3:</strong> In leaves, a thickened portion of the leaf containing the vascular bundle.</li><li><strong>Definition 4:</strong> The nervure of an insect’s wing.</li><li><strong>Definition 5:</strong> A stripe or streak of a different colour or composition in materials such as wood, cheese, marble or other rocks.</li><li><strong>Definition 6:</strong> A topic of discussion; a train of association, thoughts, emotions, etc.<p><strong>Example:</strong> in the same vein</p></li><li><strong>Definition 7:</strong> A style, tendency, or quality.<p><strong>Example:</strong> The play is in a satirical vein.</p></li><li><strong>Definition 8:</strong> A fissure, cleft or cavity, as in the earth or other substance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To mark with veins or a vein-like pattern.</li></ul></div></div>"
+description: Yes, VEINS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- beins
+- meins
+- peins
+- reins
+- teins
+- veils
+- veiny
+- zeins
+anagrams:
+- nevis
+- snive
+- vines
+- visne
+trap:
+  pattern: _EINS
+  count: 7
+phonetic: "/veɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A blood vessel that transports blood from the capillaries back to the heart.
+  - text: "(in plural) The entrails of a shrimp."
+  - text: In leaves, a thickened portion of the leaf containing the vascular bundle.
+  - text: The nervure of an insect’s wing.
+  - text: A stripe or streak of a different colour or composition in materials such
+      as wood, cheese, marble or other rocks.
+  - text: A topic of discussion; a train of association, thoughts, emotions, etc.
+    example: in the same vein
+  - text: A style, tendency, or quality.
+    example: The play is in a satirical vein.
+  - text: A fissure, cleft or cavity, as in the earth or other substance.
+- pos: verb
+  defs:
+  - text: To mark with veins or a vein-like pattern.
 ---
-

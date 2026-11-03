@@ -1,7 +1,53 @@
 ---
 layout: word
-title: sooty
+title: Is SOOTY a Wordle Word?
+head_title: Is SOOTY a Wordle Word? Yes – Possible Answer & Meaning
 word: sooty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsʊti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To blacken or make dirty with soot.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, relating to, or producing soot.</li><li><strong>Definition 2:</strong> Soiled with soot</li><li><strong>Definition 3:</strong> Of the color of soot.</li><li><strong>Definition 4:</strong> Dark-skinned; black.</li></ul></div></div>"
+description: Yes, SOOTY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- booty
+- sooth
+- cooty
+- footy
+- hooty
+- pooty
+- rooty
+- softy
+- sooey
+- sooky
+- soote
+- soots
+anagrams:
+- toyos
+trap:
+  pattern: _OOTY
+  count: 8
+phonetic: "/ˈsʊti/"
+definitions:
+- pos: verb
+  defs:
+  - text: To blacken or make dirty with soot.
+- pos: adjective
+  defs:
+  - text: Of, relating to, or producing soot.
+  - text: Soiled with soot
+  - text: Of the color of soot.
+  - text: Dark-skinned; black.
 ---
-

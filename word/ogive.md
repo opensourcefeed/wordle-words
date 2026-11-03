@@ -1,7 +1,39 @@
 ---
 layout: word
-title: ogive
+title: Is OGIVE a Wordle Word?
+head_title: Is OGIVE a Wordle Word? Yes – Valid Guess & Meaning
 word: ogive
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈəʊdʒaɪv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The curve of a cumulative distribution function.</li><li><strong>Definition 2:</strong> A Gothic pointed arch, or a rib of a Gothic vault.</li><li><strong>Definition 3:</strong> The pointed, curved nose of a bullet, missile, or rocket.</li><li><strong>Definition 4:</strong> A three-dimensional wave-bulge, characteristic of glaciers that have experienced extreme underlying topographic change.</li></ul></div></div>"
+description: Yes, OGIVE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- olive
+anagrams:
+- vogie
+phonetic: "/ˈəʊdʒaɪv/"
+definitions:
+- pos: noun
+  defs:
+  - text: The curve of a cumulative distribution function.
+  - text: A Gothic pointed arch, or a rib of a Gothic vault.
+  - text: The pointed, curved nose of a bullet, missile, or rocket.
+  - text: A three-dimensional wave-bulge, characteristic of glaciers that have experienced
+      extreme underlying topographic change.
 ---
-

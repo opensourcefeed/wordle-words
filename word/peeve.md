@@ -1,7 +1,45 @@
 ---
 layout: word
-title: peeve
+title: Is PEEVE a Wordle Word?
+head_title: 'Is PEEVE a Wordle Word? Yes – Past Answer #1932 & Meaning'
 word: peeve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An annoyance or grievance.<p><strong>Example:</strong> stylistic peeve</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To annoy; vex.<p><strong>Example:</strong> He was peeved to note that his hard work had been undone.</p></li></ul></div></div>"
+description: Yes, PEEVE is a valid Wordle word. It was the Wordle answer on October
+  3, 2026 (#1932). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 3, 2026 (#1932).
+past_answers:
+- date: '2026-10-03'
+  number: 1932
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- deeve
+- keeve
+- peece
+- peepe
+- peevo
+- perve
+- preve
+- reeve
+phonetic: "/piːv/"
+definitions:
+- pos: noun
+  defs:
+  - text: An annoyance or grievance.
+    example: stylistic peeve
+- pos: verb
+  defs:
+  - text: To annoy; vex.
+    example: He was peeved to note that his hard work had been undone.
 ---
-

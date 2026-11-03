@@ -1,7 +1,47 @@
 ---
 layout: word
-title: moony
+title: Is MOONY a Wordle Word?
+head_title: Is MOONY a Wordle Word? Yes – Valid Guess & Meaning
 word: moony
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of mooning, flashing the buttocks.<p><strong>Example:</strong> She was doing a moony.</p></li><li><strong>Definition 2:</strong> A silly person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling the moon.</li><li><strong>Definition 2:</strong> Moonlit.</li><li><strong>Definition 3:</strong> Absent-minded.</li><li><strong>Definition 4:</strong> Silly.</li><li><strong>Definition 5:</strong> Sickly or tipsy.</li></ul></div></div>"
+description: Yes, MOONY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- moody
+- goony
+- loony
+- moany
+- mooey
+- mooly
+- moong
+- mooni
+- moons
+- moory
+definitions:
+- pos: noun
+  defs:
+  - text: The act of mooning, flashing the buttocks.
+    example: She was doing a moony.
+  - text: A silly person.
+- pos: adjective
+  defs:
+  - text: Resembling the moon.
+  - text: Moonlit.
+  - text: Absent-minded.
+  - text: Silly.
+  - text: Sickly or tipsy.
 ---
-

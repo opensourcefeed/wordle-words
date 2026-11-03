@@ -1,7 +1,47 @@
 ---
 layout: word
-title: prigs
+title: Is PRIGS a Wordle Word?
+head_title: Is PRIGS a Wordle Word? Yes – Valid Guess & Meaning
 word: prigs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tinker.</li><li><strong>Definition 2:</strong> A petty thief or pickpocket.</li><li><strong>Definition 3:</strong> A deliberately superior person; a person who demonstrates an exaggerated conformity or propriety, especially in an irritatingly arrogant or smug manner.</li><li><strong>Definition 4:</strong> A conceited dandy; a fop.</li></ul></div></div>"
+description: Yes, PRIGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- brigs
+- frigs
+- grigs
+- pligs
+- prags
+- pries
+- prims
+- priss
+- prius
+- progs
+- trigs
+anagrams:
+- sprig
+- grips
+definitions:
+- pos: noun
+  defs:
+  - text: A tinker.
+  - text: A petty thief or pickpocket.
+  - text: A deliberately superior person; a person who demonstrates an exaggerated
+      conformity or propriety, especially in an irritatingly arrogant or smug manner.
+  - text: A conceited dandy; a fop.
 ---
-

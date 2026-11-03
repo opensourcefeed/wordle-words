@@ -1,7 +1,33 @@
 ---
 layout: word
-title: quipu
+title: Is QUIPU a Wordle Word?
+head_title: Is QUIPU a Wordle Word? Yes – Valid Guess & Meaning
 word: quipu
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈki.pu/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A recording device, used by the Incas, consisting of intricate knotted cords.</li></ul></div></div>"
+description: Yes, QUIPU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 4
+  repeated:
+  - U
+  common:
+  - I
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- quipo
+- quips
+phonetic: "/ˈki.pu/"
+definitions:
+- pos: noun
+  defs:
+  - text: A recording device, used by the Incas, consisting of intricate knotted cords.
 ---
-

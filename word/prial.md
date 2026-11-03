@@ -1,7 +1,39 @@
 ---
 layout: word
-title: prial
+title: Is PRIAL a Wordle Word?
+head_title: Is PRIAL a Wordle Word? Yes – Valid Guess & Meaning
 word: prial
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pair royal; two royal cards (e.g. two kings, or a king and queen).</li></ul></div></div>"
+description: Yes, PRIAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- trial
+- phial
+- prian
+- prill
+- proal
+- urial
+anagrams:
+- pilar
+definitions:
+- pos: noun
+  defs:
+  - text: A pair royal; two royal cards (e.g. two kings, or a king and queen).
 ---
-

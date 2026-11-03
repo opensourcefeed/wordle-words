@@ -1,7 +1,44 @@
 ---
 layout: word
-title: dados
+title: Is DADOS a Wordle Word?
+head_title: Is DADOS a Wordle Word? Yes – Valid Guess & Meaning
 word: dados
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The section of a pedestal above the base.</li><li><strong>Definition 2:</strong> The lower portion of an interior wall decorated differently from the upper portion.</li><li><strong>Definition 3:</strong> The rectangular channel in a board cut across the grain.</li></ul></div></div>"
+description: Yes, DADOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- dadas
+- dadis
+- datos
+- didos
+- dodos
+- fados
+- mados
+- sados
+anagrams:
+- saddo
+definitions:
+- pos: noun
+  defs:
+  - text: The section of a pedestal above the base.
+  - text: The lower portion of an interior wall decorated differently from the upper
+      portion.
+  - text: The rectangular channel in a board cut across the grain.
 ---
-

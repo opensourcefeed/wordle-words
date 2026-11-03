@@ -1,7 +1,53 @@
 ---
 layout: word
-title: nuked
+title: Is NUKED a Wordle Word?
+head_title: Is NUKED a Wordle Word? Yes – Valid Guess & Meaning
 word: nuked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a nuclear weapon on a target.<p><strong>Example:</strong> If a nuclear war ever breaks out, military facilities are likely to be nuked first.</p></li><li><strong>Definition 2:</strong> To destroy or erase completely.<p><strong>Example:</strong> To try to hide his posting history on Usenet, he had his posts nuked from the Google archives.</p></li><li><strong>Definition 3:</strong> (by extension) To carry out a denial-of-service attack against (an IRC user).</li><li><strong>Definition 4:</strong> To expose to some form of radiation.</li><li><strong>Definition 5:</strong> To cook in a microwave oven.<p><strong>Example:</strong> I’ll nuke some pizza for dinner.</p></li><li><strong>Definition 6:</strong> To over-analyze or overly despair over something.</li></ul></div></div>"
+description: Yes, NUKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- duked
+- euked
+- juked
+- naked
+- nukes
+- nused
+- puked
+- yuked
+anagrams:
+- unked
+trap:
+  pattern: _UKED
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To use a nuclear weapon on a target.
+    example: If a nuclear war ever breaks out, military facilities are likely to be
+      nuked first.
+  - text: To destroy or erase completely.
+    example: To try to hide his posting history on Usenet, he had his posts nuked
+      from the Google archives.
+  - text: "(by extension) To carry out a denial-of-service attack against (an IRC
+      user)."
+  - text: To expose to some form of radiation.
+  - text: To cook in a microwave oven.
+    example: I’ll nuke some pizza for dinner.
+  - text: To over-analyze or overly despair over something.
 ---
-

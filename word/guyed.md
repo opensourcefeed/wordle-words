@@ -1,7 +1,30 @@
 ---
 layout: word
-title: guyed
+title: Is GUYED a Wordle Word?
+head_title: Is GUYED a Wordle Word? Yes – Valid Guess & Meaning
 word: guyed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Fitted with or attached to a guy.</li><li><strong>Definition 2:</strong> Fitted to serve as a guy.</li></ul></div></div>"
+description: Yes, GUYED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+phonetic: "/ˈɡaɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Fitted with or attached to a guy.
+  - text: Fitted to serve as a guy.
 ---
-

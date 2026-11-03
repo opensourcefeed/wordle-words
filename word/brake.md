@@ -1,7 +1,51 @@
 ---
 layout: word
-title: brake
+title: Is BRAKE a Wordle Word?
+head_title: 'Is BRAKE a Wordle Word? Yes – Past Answer #184 & Meaning'
 word: brake
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹeɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fern; bracken.</li></ul></div></div>"
+description: Yes, BRAKE is a valid Wordle word. It was the Wordle answer on December
+  20, 2021 (#184). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 20, 2021 (#184).
+past_answers:
+- date: '2021-12-20'
+  number: 184
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- brace
+- brave
+- broke
+- drake
+- braks
+- braky
+- brame
+- brane
+- braze
+- crake
+anagrams:
+- baker
+- break
+- kebar
+trap:
+  pattern: BRA_E
+  count: 6
+phonetic: "/bɹeɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fern; bracken.
 ---
-

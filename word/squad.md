@@ -1,7 +1,47 @@
 ---
 layout: word
-title: squad
+title: Is SQUAD a Wordle Word?
+head_title: 'Is SQUAD a Wordle Word? Yes – Past Answer #1704 & Meaning'
 word: squad
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A group of people organized for some common purpose, usually of about ten members.</li><li><strong>Definition 2:</strong> One's friend group, taken collectively; one's peeps.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To act as part of, or on behalf of, a squad.<p><strong>Example:</strong> We squad on the fifth of the month.</p></li></ul></div></div>"
+description: Yes, SQUAD is a valid Wordle word. It was the Wordle answer on April
+  11, 2022 (#296) and February 17, 2026 (#1704). See its meaning, starter rating and
+  similar words.
+status: past
+answer_text: It was the Wordle answer on April 11, 2022 (#296) and February 17, 2026
+  (#1704).
+past_answers:
+- date: '2022-04-11'
+  number: 296
+- date: '2026-02-17'
+  number: 1704
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- squat
+- squab
+- squid
+anagrams:
+- quads
+definitions:
+- pos: noun
+  defs:
+  - text: A group of people organized for some common purpose, usually of about ten
+      members.
+  - text: One's friend group, taken collectively; one's peeps.
+- pos: verb
+  defs:
+  - text: To act as part of, or on behalf of, a squad.
+    example: We squad on the fifth of the month.
 ---
-

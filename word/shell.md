@@ -1,7 +1,115 @@
 ---
 layout: word
-title: shell
+title: Is SHELL a Wordle Word?
+head_title: 'Is SHELL a Wordle Word? Yes – Past Answer #1201 & Meaning'
 word: shell
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɛl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hard external covering of an animal.</li><li><strong>Definition 2:</strong> The hard calcareous covering of a bird egg.</li><li><strong>Definition 3:</strong> One of the outer layers of skin of an onion.<p><strong>Example:</strong> The restaurant served caramelized onion shells.</p></li><li><strong>Definition 4:</strong> The hard external covering of various plant seed forms.</li><li><strong>Definition 5:</strong> The accreted mineral formed around a hollow geode.</li><li><strong>Definition 6:</strong> The casing of a self-contained single-unit artillery projectile.</li><li><strong>Definition 7:</strong> A hollow, usually spherical or cylindrical projectile fired from a siege mortar or a smoothbore cannon. It contains an explosive substance designed to be ignited by a fuse or by percussion at the target site so that it will burst and scattered at high velocity its contents and fragments. Formerly called a bomb.</li><li><strong>Definition 8:</strong> The cartridge of a breechloading firearm; a load; a bullet; a round.</li><li><strong>Definition 9:</strong> Any slight hollow structure; a framework, or exterior structure, regarded as not complete or filled in, as the shell of a house.</li><li><strong>Definition 10:</strong> A garment, usually worn by women, such as a shirt, blouse, or top, with short sleeves or no sleeves, that often fastens in the rear.</li><li><strong>Definition 11:</strong> A coarse or flimsy coffin; a thin interior coffin enclosed within a more substantial one.</li><li><strong>Definition 12:</strong> A string instrument, as a lyre, whose acoustical chamber is formed like a shell.<p><strong>Example:</strong> The first lyre may have been made by drawing strings over the underside of a tortoise shell.</p></li><li><strong>Definition 13:</strong> The body of a drum; the often wooden, often cylindrical acoustic chamber, with or without rims added for tuning and for attaching the drum head.</li><li><strong>Definition 14:</strong> An engraved copper roller used in print works.</li><li><strong>Definition 15:</strong> The thin coating of copper on an electrotype.</li><li><strong>Definition 16:</strong> The watertight outer covering of the hull of a vessel, often made with planking or metal plating.</li><li><strong>Definition 17:</strong> (rigging) The outer frame or case of a block within which the sheaves revolve.</li><li><strong>Definition 18:</strong> A light boat whose frame is covered with thin wood, impermeable fabric, or water-proofed paper; a racing shell or dragon boat.</li><li><strong>Definition 19:</strong> A set of atomic orbitals that have the same principal quantum number.</li><li><strong>Definition 20:</strong> The outward form independent of what is inside.</li><li><strong>Definition 21:</strong> The empty outward form of someone or something.<p><strong>Example:</strong> The setback left him a mere shell; he was never the same again.</p></li><li><strong>Definition 22:</strong> An emaciated person.<p><strong>Example:</strong> He's lost so much weight from illness; he's a shell of his former self.</p></li><li><strong>Definition 23:</strong> A psychological barrier to social interaction.<p><strong>Example:</strong> Even after months of therapy he's still in his shell.</p></li><li><strong>Definition 24:</strong> An operating system software user interface, whose primary purpose is to launch other programs and control their interactions; the user's command interpreter. Shell is a way to separate the internal complexity of the implementation of the command from the user. The internals can change while the user experience/interface remains the same.<p><strong>Example:</strong> The name \"Bash\" is an acronym which stands for \"Bourne-again shell\", itself a pun on the name of the \"Bourne shell\", an earlier Unix shell designed by Stephen Bourne, and the Christian concept of being \"born again\".</p></li><li><strong>Definition 25:</strong> A legal entity that has no operations.<p><strong>Example:</strong> A shell corporation was formed to acquire the old factory.</p></li><li><strong>Definition 26:</strong> A concave rough cast-iron tool in which a convex lens is ground to shape.</li><li><strong>Definition 27:</strong> A gouge bit or shell bit.</li><li><strong>Definition 28:</strong> The onset and coda of a syllable.</li><li><strong>Definition 29:</strong> A person's ear.<p><strong>Example:</strong> Can I have a quick word in your shell?</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the outer covering or shell of something.</li><li><strong>Definition 2:</strong> To bombard, to fire projectiles at, especially with artillery.</li><li><strong>Definition 3:</strong> To disburse or give up money, to pay. (Often used with out).</li><li><strong>Definition 4:</strong> To fall off, as a shell, crust, etc.</li><li><strong>Definition 5:</strong> To cast the shell, or exterior covering; to fall out of the pod or husk.<p><strong>Example:</strong> Nuts shell in falling.</p></li><li><strong>Definition 6:</strong> To switch to a shell or command line.</li><li><strong>Definition 7:</strong> To form shallow, irregular cracks (in a coating).</li><li><strong>Definition 8:</strong> To form a shelling.</li></ul></div></div>"
+description: Yes, SHELL is a valid Wordle word. It was the Wordle answer on October
+  2, 2024 (#1201). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 2, 2024 (#1201).
+past_answers:
+- date: '2024-10-02'
+  number: 1201
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- shall
+- shelf
+- smell
+- spell
+- swell
+- sheal
+- sheel
+- sheol
+- shill
+- skell
+- snell
+- stell
+anagrams:
+- hells
+trap:
+  pattern: S_ELL
+  count: 7
+phonetic: "/ʃɛl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hard external covering of an animal.
+  - text: The hard calcareous covering of a bird egg.
+  - text: One of the outer layers of skin of an onion.
+    example: The restaurant served caramelized onion shells.
+  - text: The hard external covering of various plant seed forms.
+  - text: The accreted mineral formed around a hollow geode.
+  - text: The casing of a self-contained single-unit artillery projectile.
+  - text: A hollow, usually spherical or cylindrical projectile fired from a siege
+      mortar or a smoothbore cannon. It contains an explosive substance designed to
+      be ignited by a fuse or by percussion at the target site so that it will burst
+      and scattered at high velocity its contents and fragments. Formerly called a
+      bomb.
+  - text: The cartridge of a breechloading firearm; a load; a bullet; a round.
+  - text: Any slight hollow structure; a framework, or exterior structure, regarded
+      as not complete or filled in, as the shell of a house.
+  - text: A garment, usually worn by women, such as a shirt, blouse, or top, with
+      short sleeves or no sleeves, that often fastens in the rear.
+  - text: A coarse or flimsy coffin; a thin interior coffin enclosed within a more
+      substantial one.
+  - text: A string instrument, as a lyre, whose acoustical chamber is formed like
+      a shell.
+    example: The first lyre may have been made by drawing strings over the underside
+      of a tortoise shell.
+  - text: The body of a drum; the often wooden, often cylindrical acoustic chamber,
+      with or without rims added for tuning and for attaching the drum head.
+  - text: An engraved copper roller used in print works.
+  - text: The thin coating of copper on an electrotype.
+  - text: The watertight outer covering of the hull of a vessel, often made with planking
+      or metal plating.
+  - text: "(rigging) The outer frame or case of a block within which the sheaves revolve."
+  - text: A light boat whose frame is covered with thin wood, impermeable fabric,
+      or water-proofed paper; a racing shell or dragon boat.
+  - text: A set of atomic orbitals that have the same principal quantum number.
+  - text: The outward form independent of what is inside.
+  - text: The empty outward form of someone or something.
+    example: The setback left him a mere shell; he was never the same again.
+  - text: An emaciated person.
+    example: He's lost so much weight from illness; he's a shell of his former self.
+  - text: A psychological barrier to social interaction.
+    example: Even after months of therapy he's still in his shell.
+  - text: An operating system software user interface, whose primary purpose is to
+      launch other programs and control their interactions; the user's command interpreter.
+      Shell is a way to separate the internal complexity of the implementation of
+      the command from the user. The internals can change while the user experience/interface
+      remains the same.
+    example: The name "Bash" is an acronym which stands for "Bourne-again shell",
+      itself a pun on the name of the "Bourne shell", an earlier Unix shell designed
+      by Stephen Bourne, and the Christian concept of being "born again".
+  - text: A legal entity that has no operations.
+    example: A shell corporation was formed to acquire the old factory.
+  - text: A concave rough cast-iron tool in which a convex lens is ground to shape.
+  - text: A gouge bit or shell bit.
+  - text: The onset and coda of a syllable.
+  - text: A person's ear.
+    example: Can I have a quick word in your shell?
+- pos: verb
+  defs:
+  - text: To remove the outer covering or shell of something.
+  - text: To bombard, to fire projectiles at, especially with artillery.
+  - text: To disburse or give up money, to pay. (Often used with out).
+  - text: To fall off, as a shell, crust, etc.
+  - text: To cast the shell, or exterior covering; to fall out of the pod or husk.
+    example: Nuts shell in falling.
+  - text: To switch to a shell or command line.
+  - text: To form shallow, irregular cracks (in a coating).
+  - text: To form a shelling.
 ---
-

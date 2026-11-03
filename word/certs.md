@@ -1,7 +1,44 @@
 ---
 layout: word
-title: certs
+title: Is CERTS a Wordle Word?
+head_title: Is CERTS a Wordle Word? Yes – Valid Guess & Meaning
 word: certs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Certificate.<p><strong>Example:</strong> I bought some gift certs for my family for Christmas.</p></li><li><strong>Definition 2:</strong> A certainty; something guaranteed to happen.</li></ul></div></div>"
+description: Yes, CERTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- carts
+- celts
+- cents
+- ceres
+- ceros
+- certy
+- nerts
+- perts
+- terts
+- verts
+anagrams:
+- crest
+definitions:
+- pos: noun
+  defs:
+  - text: Certificate.
+    example: I bought some gift certs for my family for Christmas.
+  - text: A certainty; something guaranteed to happen.
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: owner
+title: Is OWNER a Wordle Word?
+head_title: 'Is OWNER a Wordle Word? Yes – Past Answer #1176 & Meaning'
 word: owner
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈəʊnə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who owns something.<p><strong>Example:</strong> The police recovered the stolen car and returned it to its owner.</p></li><li><strong>Definition 2:</strong> The captain of a ship.</li></ul></div></div>"
+description: Yes, OWNER is a valid Wordle word. It was the Wordle answer on September
+  7, 2024 (#1176). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 7, 2024 (#1176).
+past_answers:
+- date: '2024-09-07'
+  number: 1176
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- awner
+- owler
+- owned
+anagrams:
+- rewon
+- rowen
+phonetic: "/ˈəʊnə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who owns something.
+    example: The police recovered the stolen car and returned it to its owner.
+  - text: The captain of a ship.
 ---
-

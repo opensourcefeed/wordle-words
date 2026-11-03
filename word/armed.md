@@ -1,7 +1,63 @@
 ---
 layout: word
-title: armed
+title: Is ARMED a Wordle Word?
+head_title: Is ARMED a Wordle Word? Yes – Valid Guess & Meaning
 word: armed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɑːmd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take by the arm; to take up in one's arms.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To supply with armour or (later especially) weapons.<p><strong>Example:</strong> The king armed his knights with swords and shields.</p></li><li><strong>Definition 2:</strong> To prepare a tool or a weapon for action; to activate.<p><strong>Example:</strong> Remember to arm the alarm system before leaving for work.</p></li><li><strong>Definition 3:</strong> To cover or furnish with a plate, or with whatever will add strength, force, security, or efficiency.<p><strong>Example:</strong> to arm the hit of a sword; to arm a hook in angling</p></li><li><strong>Definition 4:</strong> To furnish with means of defence; to prepare for resistance; to fortify, in a moral sense.</li><li><strong>Definition 5:</strong> To take up weapons; to arm oneself.</li><li><strong>Definition 6:</strong> To fit (a magnet) with an armature.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (sometimes in combination) Equipped, especially with a weapon.<p><strong>Example:</strong> nuclear-armed</p></li><li><strong>Definition 2:</strong> (of a weapon) Prepared for use; loaded.</li><li><strong>Definition 3:</strong> Furnished with whatever serves to add strength, force, or efficiency.</li><li><strong>Definition 4:</strong> Having prickles or thorns.</li></ul></div></div>"
+description: Yes, ARMED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- aimed
+- arced
+- arked
+- arled
+- armer
+- armet
+- arsed
+anagrams:
+- dream
+- derma
+- madre
+phonetic: "/ɑːmd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To take by the arm; to take up in one's arms.
+- pos: verb
+  defs:
+  - text: To supply with armour or (later especially) weapons.
+    example: The king armed his knights with swords and shields.
+  - text: To prepare a tool or a weapon for action; to activate.
+    example: Remember to arm the alarm system before leaving for work.
+  - text: To cover or furnish with a plate, or with whatever will add strength, force,
+      security, or efficiency.
+    example: to arm the hit of a sword; to arm a hook in angling
+  - text: To furnish with means of defence; to prepare for resistance; to fortify,
+      in a moral sense.
+  - text: To take up weapons; to arm oneself.
+  - text: To fit (a magnet) with an armature.
+- pos: adjective
+  defs:
+  - text: "(sometimes in combination) Equipped, especially with a weapon."
+    example: nuclear-armed
+  - text: "(of a weapon) Prepared for use; loaded."
+  - text: Furnished with whatever serves to add strength, force, or efficiency.
+  - text: Having prickles or thorns.
 ---
-

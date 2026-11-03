@@ -1,7 +1,56 @@
 ---
 layout: word
-title: dotes
+title: Is DOTES a Wordle Word?
+head_title: Is DOTES a Wordle Word? Yes – Valid Guess & Meaning
 word: dotes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dəʊts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A darling, a cutie.</li><li><strong>Definition 2:</strong> An imbecile; a dotard.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (usually with on) To be weakly or foolishly fond of somebody.<p><strong>Example:</strong> Little Bill's parents just keep doting on him.</p></li><li><strong>Definition 2:</strong> To act in a foolish manner; to be senile.</li></ul></div></div>"
+description: Yes, DOTES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- botes
+- cotes
+- dates
+- dites
+- dobes
+- doges
+- doles
+- domes
+- dopes
+- dores
+- doses
+- doted
+anagrams:
+- doest
+- tosed
+trap:
+  pattern: DO_ES
+  count: 11
+phonetic: "/dəʊts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A darling, a cutie.
+  - text: An imbecile; a dotard.
+- pos: verb
+  defs:
+  - text: "(usually with on) To be weakly or foolishly fond of somebody."
+    example: Little Bill's parents just keep doting on him.
+  - text: To act in a foolish manner; to be senile.
 ---
-

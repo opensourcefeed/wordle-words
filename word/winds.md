@@ -1,7 +1,73 @@
 ---
 layout: word
-title: winds
+title: Is WINDS a Wordle Word?
+head_title: Is WINDS a Wordle Word? Yes – Valid Guess & Meaning
 word: winds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɪndz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.<p><strong>Example:</strong> As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack.</p></li><li><strong>Definition 2:</strong> Air artificially put in motion by any force or action.<p><strong>Example:</strong> the wind of a cannon ball;  the wind of a bellows</p></li><li><strong>Definition 3:</strong> The ability to breathe easily.<p><strong>Example:</strong> After the second lap he was already out of wind.</p></li><li><strong>Definition 4:</strong> News of an event, especially by hearsay or gossip. (Used with catch, often in the past tense.)<p><strong>Example:</strong> Steve caught wind of Martha's dalliance with his best friend.</p></li><li><strong>Definition 5:</strong> One of the five basic elements in Indian and Japanese models of the Classical elements).</li><li><strong>Definition 6:</strong> Flatus.<p><strong>Example:</strong> Eww. Someone just passed wind.</p></li><li><strong>Definition 7:</strong> Breath modulated by the respiratory and vocal organs, or by an instrument.</li><li><strong>Definition 8:</strong> The woodwind section of an orchestra. Occasionally also used to include the brass section.</li><li><strong>Definition 9:</strong> A direction from which the wind may blow; a point of the compass; especially, one of the cardinal points, which are often called the \"four winds\".</li><li><strong>Definition 10:</strong> Types of playing-tile in the game of mah-jongg, named after the four winds.</li><li><strong>Definition 11:</strong> A disease of sheep, in which the intestines are distended with air, or rather affected with a violent inflammation. It occurs immediately after shearing.</li><li><strong>Definition 12:</strong> Mere breath or talk; empty effort; idle words.</li><li><strong>Definition 13:</strong> A bird, the dotterel.</li><li><strong>Definition 14:</strong> The region of the solar plexus, where a blow may paralyze the diaphragm and cause temporary loss of breath or other injury.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of winding or turning; a turn; a bend; a twist.</li></ul></div></div>"
+description: Yes, WINDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- windy
+- binds
+- finds
+- hinds
+- kinds
+- linds
+- minds
+- pinds
+- rinds
+- sinds
+- tinds
+- wands
+trap:
+  pattern: _INDS
+  count: 11
+phonetic: "/wɪndz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Real or perceived movement of atmospheric air usually caused by convection
+      or differences in air pressure.
+    example: As they accelerated onto the motorway, the wind tore the plywood off
+      the car's roof-rack.
+  - text: Air artificially put in motion by any force or action.
+    example: the wind of a cannon ball;  the wind of a bellows
+  - text: The ability to breathe easily.
+    example: After the second lap he was already out of wind.
+  - text: News of an event, especially by hearsay or gossip. (Used with catch, often
+      in the past tense.)
+    example: Steve caught wind of Martha's dalliance with his best friend.
+  - text: One of the five basic elements in Indian and Japanese models of the Classical
+      elements).
+  - text: Flatus.
+    example: Eww. Someone just passed wind.
+  - text: Breath modulated by the respiratory and vocal organs, or by an instrument.
+  - text: The woodwind section of an orchestra. Occasionally also used to include
+      the brass section.
+  - text: A direction from which the wind may blow; a point of the compass; especially,
+      one of the cardinal points, which are often called the "four winds".
+  - text: Types of playing-tile in the game of mah-jongg, named after the four winds.
+  - text: A disease of sheep, in which the intestines are distended with air, or rather
+      affected with a violent inflammation. It occurs immediately after shearing.
+  - text: Mere breath or talk; empty effort; idle words.
+  - text: A bird, the dotterel.
+  - text: The region of the solar plexus, where a blow may paralyze the diaphragm
+      and cause temporary loss of breath or other injury.
+- pos: noun
+  defs:
+  - text: The act of winding or turning; a turn; a bend; a twist.
 ---
-

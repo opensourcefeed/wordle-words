@@ -1,7 +1,62 @@
 ---
 layout: word
-title: riser
+title: Is RISER a Wordle Word?
+head_title: 'Is RISER a Wordle Word? Yes – Past Answer #1780 & Meaning'
 word: riser
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹaɪ.zə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone or something which rises.</li><li><strong>Definition 2:</strong> A platform or stand used to lift or elevate something.<p><strong>Example:</strong> The choir stood on risers for the performance.</p></li><li><strong>Definition 3:</strong> The vertical part of a step on a staircase.</li><li><strong>Definition 4:</strong> The main body of a bow.</li><li><strong>Definition 5:</strong> A vertical utility conduit, pipe or path between floors of a building for placement of cables (e.g. telephone, networking), or to convey fluids (e.g. gas, water).</li><li><strong>Definition 6:</strong> A pipe connecting an individual exhaust port of an internal combustion engine to the muffler, particularly on aircraft.</li><li><strong>Definition 7:</strong> A Manx cat with a showable short tail.</li><li><strong>Definition 8:</strong> A strip of webbing joining a parachute's harness to the rigging lines.</li></ul></div></div>"
+description: Yes, RISER is a valid Wordle word. It was the Wordle answer on May 4,
+  2026 (#1780). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 4, 2026 (#1780).
+past_answers:
+- date: '2026-05-04'
+  number: 1780
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- miser
+- rider
+- riper
+- risen
+- river
+- wiser
+- raser
+- ricer
+- rifer
+- rimer
+- rises
+anagrams:
+- serir
+trap:
+  pattern: RI_ER
+  count: 7
+phonetic: "/ˈɹaɪ.zə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone or something which rises.
+  - text: A platform or stand used to lift or elevate something.
+    example: The choir stood on risers for the performance.
+  - text: The vertical part of a step on a staircase.
+  - text: The main body of a bow.
+  - text: A vertical utility conduit, pipe or path between floors of a building for
+      placement of cables (e.g. telephone, networking), or to convey fluids (e.g.
+      gas, water).
+  - text: A pipe connecting an individual exhaust port of an internal combustion engine
+      to the muffler, particularly on aircraft.
+  - text: A Manx cat with a showable short tail.
+  - text: A strip of webbing joining a parachute's harness to the rigging lines.
 ---
-

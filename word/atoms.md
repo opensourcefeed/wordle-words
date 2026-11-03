@@ -1,7 +1,57 @@
 ---
 layout: word
-title: atoms
+title: Is ATOMS a Wordle Word?
+head_title: Is ATOMS a Wordle Word? Yes – Valid Guess & Meaning
 word: atoms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈatəmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a nucleus surrounded by electrons.</li><li><strong>Definition 2:</strong> (history of science) A hypothetical particle posited by Greek philosophers as an ultimate and indivisible component of matter.</li><li><strong>Definition 3:</strong> The smallest, indivisible constituent part or unit of something.</li><li><strong>Definition 4:</strong> In logical atomism, a fundamental fact that cannot be further broken down.</li><li><strong>Definition 5:</strong> The smallest medieval unit of time, equal to fifteen ninety-fourths of a second.</li><li><strong>Definition 6:</strong> A mote of dust in a sunbeam.</li><li><strong>Definition 7:</strong> A very small amount; a whit.</li><li><strong>Definition 8:</strong> (Lisp) An individual number or symbol, as opposed to a list; a scalar value.</li><li><strong>Definition 9:</strong> A non-zero member of a Boolean algebra that is not a union of any other elements. Or, a non-zero member of a Boolean lattice that has only zero below it.<p><strong>Example:</strong> In a Venn diagram, an atom is depicted as an area circumscribed by lines but not cut by any line.</p></li><li><strong>Definition 10:</strong> An element of a set that is not itself a set; an urelement.</li><li><strong>Definition 11:</strong> (usually capitalised as \"Atom\") A member of an age group division in hockey for ten- to 11-year-olds.</li></ul></div></div>"
+description: Yes, ATOMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- atocs
+- atoks
+- atomy
+anagrams:
+- atmos
+- moats
+- stoma
+phonetic: "/ˈatəmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The smallest possible amount of matter which still retains its identity
+      as a chemical element, now known to consist of a nucleus surrounded by electrons.
+  - text: "(history of science) A hypothetical particle posited by Greek philosophers
+      as an ultimate and indivisible component of matter."
+  - text: The smallest, indivisible constituent part or unit of something.
+  - text: In logical atomism, a fundamental fact that cannot be further broken down.
+  - text: The smallest medieval unit of time, equal to fifteen ninety-fourths of a
+      second.
+  - text: A mote of dust in a sunbeam.
+  - text: A very small amount; a whit.
+  - text: "(Lisp) An individual number or symbol, as opposed to a list; a scalar value."
+  - text: A non-zero member of a Boolean algebra that is not a union of any other
+      elements. Or, a non-zero member of a Boolean lattice that has only zero below
+      it.
+    example: In a Venn diagram, an atom is depicted as an area circumscribed by lines
+      but not cut by any line.
+  - text: An element of a set that is not itself a set; an urelement.
+  - text: (usually capitalised as "Atom") A member of an age group division in hockey
+      for ten- to 11-year-olds.
 ---
-

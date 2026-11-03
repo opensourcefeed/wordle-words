@@ -1,7 +1,50 @@
 ---
 layout: word
-title: growl
+title: Is GROWL a Wordle Word?
+head_title: 'Is GROWL a Wordle Word? Yes – Past Answer #127 & Meaning'
 word: growl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A deep, rumbling, threatening sound made in the throat by an animal.</li><li><strong>Definition 2:</strong> (by extension) The rumbling sound made by a person's stomach when hungry.</li><li><strong>Definition 3:</strong> (by extension) An aggressive grumbling.</li><li><strong>Definition 4:</strong> (by extension) A low-pitched rumbling sound produced with a wind instrument.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To utter a deep guttural sound, as an angry animal; to give forth an angry, grumbling sound.<p><strong>Example:</strong> The dog growled at me as I walked past.</p></li><li><strong>Definition 2:</strong> Of a wind instrument: to produce a low-pitched rumbling sound.</li><li><strong>Definition 3:</strong> To send a user a message via the Growl software library.</li><li><strong>Definition 4:</strong> To express (something) by growling.<p><strong>Example:</strong> The old man growled his displeasure at the postman.</p></li><li><strong>Definition 5:</strong> To play a wind instrument in a way that produces a low-pitched rumbling sound.</li></ul></div></div>"
+description: Yes, GROWL is a valid Wordle word. It was the Wordle answer on October
+  24, 2021 (#127). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 24, 2021 (#127).
+past_answers:
+- date: '2021-10-24'
+  number: 127
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- grown
+- prowl
+- crowl
+- grows
+definitions:
+- pos: noun
+  defs:
+  - text: A deep, rumbling, threatening sound made in the throat by an animal.
+  - text: "(by extension) The rumbling sound made by a person's stomach when hungry."
+  - text: "(by extension) An aggressive grumbling."
+  - text: "(by extension) A low-pitched rumbling sound produced with a wind instrument."
+- pos: verb
+  defs:
+  - text: To utter a deep guttural sound, as an angry animal; to give forth an angry,
+      grumbling sound.
+    example: The dog growled at me as I walked past.
+  - text: 'Of a wind instrument: to produce a low-pitched rumbling sound.'
+  - text: To send a user a message via the Growl software library.
+  - text: To express (something) by growling.
+    example: The old man growled his displeasure at the postman.
+  - text: To play a wind instrument in a way that produces a low-pitched rumbling
+      sound.
 ---
-

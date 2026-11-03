@@ -1,7 +1,46 @@
 ---
 layout: word
-title: eying
+title: Is EYING a Wordle Word?
+head_title: Is EYING a Wordle Word? Yes – Possible Answer & Meaning
 word: eying
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To observe carefully or appraisingly.<p><strong>Example:</strong> After eyeing the document for half an hour, she decided not to sign it.</p></li><li><strong>Definition 2:</strong> To appear; to look.</li></ul></div></div>"
+description: Yes, EYING is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- dying
+- eking
+- lying
+- tying
+- vying
+- ehing
+- ering
+- exing
+- hying
+- nying
+anagrams:
+- gynie
+trap:
+  pattern: _YING
+  count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To observe carefully or appraisingly.
+    example: After eyeing the document for half an hour, she decided not to sign it.
+  - text: To appear; to look.
 ---
-

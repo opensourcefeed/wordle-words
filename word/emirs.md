@@ -1,7 +1,42 @@
 ---
 layout: word
-title: emirs
+title: Is EMIRS a Wordle Word?
+head_title: Is EMIRS a Wordle Word? Yes – Valid Guess & Meaning
 word: emirs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prince, commander or other leader or ruler in an Islamic nation.</li><li><strong>Definition 2:</strong> A descendant of the prophet Muhammad.</li></ul></div></div>"
+description: Yes, EMIRS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- amirs
+- emics
+- emits
+- smirs
+anagrams:
+- miser
+- meris
+- mires
+- riems
+- rimes
+definitions:
+- pos: noun
+  defs:
+  - text: A prince, commander or other leader or ruler in an Islamic nation.
+  - text: A descendant of the prophet Muhammad.
 ---
-

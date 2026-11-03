@@ -1,7 +1,42 @@
 ---
 layout: word
-title: splat
+title: Is SPLAT a Wordle Word?
+head_title: 'Is SPLAT a Wordle Word? Yes – Past Answer #852 & Meaning'
 word: splat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /splæt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The narrow wooden centre piece of a chair back.</li></ul></div></div>"
+description: Yes, SPLAT is a valid Wordle word. It was the Wordle answer on October
+  19, 2023 (#852). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 19, 2023 (#852).
+past_answers:
+- date: '2023-10-19'
+  number: 852
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- split
+- salat
+- speat
+- splay
+- sprat
+anagrams:
+- plast
+- plats
+- spalt
+phonetic: "/splæt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The narrow wooden centre piece of a chair back.
 ---
-

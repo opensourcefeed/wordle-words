@@ -1,7 +1,34 @@
 ---
 layout: word
-title: cecum
+title: Is CECUM a Wordle Word?
+head_title: Is CECUM a Wordle Word? Yes – Valid Guess & Meaning
 word: cecum
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blind pouch connected to the large intestine between the ileum and the colon.</li></ul></div></div>"
+description: Yes, CECUM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- mecum
+- tecum
+anagrams:
+- cumec
+definitions:
+- pos: noun
+  defs:
+  - text: A blind pouch connected to the large intestine between the ileum and the
+      colon.
 ---
-

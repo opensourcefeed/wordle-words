@@ -1,7 +1,39 @@
 ---
 layout: word
-title: cynic
+title: Is CYNIC a Wordle Word?
+head_title: 'Is CYNIC a Wordle Word? Yes – Past Answer #240 & Meaning'
 word: cynic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɪnɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who believes that all people are motivated by selfishness.</li><li><strong>Definition 2:</strong> A person whose outlook is scornfully negative.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Cynical (in all senses)</li><li><strong>Definition 2:</strong> Relating to the Dog Star.<p><strong>Example:</strong> the cynic, or Sothic, year; cynic cycle</p></li></ul></div></div>"
+description: Yes, CYNIC is a valid Wordle word. It was the Wordle answer on February
+  14, 2022 (#240). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 14, 2022 (#240).
+past_answers:
+- date: '2022-02-14'
+  number: 240
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- conic
+phonetic: "/ˈsɪnɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who believes that all people are motivated by selfishness.
+  - text: A person whose outlook is scornfully negative.
+- pos: adjective
+  defs:
+  - text: Cynical (in all senses)
+  - text: Relating to the Dog Star.
+    example: the cynic, or Sothic, year; cynic cycle
 ---
-

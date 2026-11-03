@@ -1,7 +1,69 @@
 ---
 layout: word
-title: quiet
+title: Is QUIET a Wordle Word?
+head_title: 'Is QUIET a Wordle Word? Yes – Past Answer #16 & Meaning'
 word: quiet
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkwaɪ.ət/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The absence of sound; quietness.<p><strong>Example:</strong> There was a strange quiet in the normally very lively plaza.</p></li><li><strong>Definition 2:</strong> The absence of movement; stillness, tranquility</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become quiet, silent, still, tranquil, calm.<p><strong>Example:</strong> When you quiet, we can start talking.</p></li><li><strong>Definition 2:</strong> To cause someone to become quiet.<p><strong>Example:</strong> Can you quiet your child? He's making lots of noise.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> With little or no sound; free of disturbing noise.<p><strong>Example:</strong> I can't hear the music; it is too quiet.</p></li><li><strong>Definition 2:</strong> Having little motion or activity; calm.<p><strong>Example:</strong> a quiet night at home</p></li><li><strong>Definition 3:</strong> Not busy, of low quantity.<p><strong>Example:</strong> Business was quiet for the season.</p></li><li><strong>Definition 4:</strong> Not talking much or not talking loudly; reserved.<p><strong>Example:</strong> He's a very quiet man usually, but is very chatty after a few beers.</p></li><li><strong>Definition 5:</strong> Not showy; undemonstrative.<p><strong>Example:</strong> a quiet dress</p></li><li><strong>Definition 6:</strong> Requiring little or no interaction.<p><strong>Example:</strong> a quiet install</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Be quiet.<p><strong>Example:</strong> Quiet! The children are sleeping.</p></li></ul></div></div>"
+description: Yes, QUIET is a valid Wordle word. It was the Wordle answer on July 5,
+  2021 (#16). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 5, 2021 (#16).
+past_answers:
+- date: '2021-07-05'
+  number: 16
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - T
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- quilt
+- quies
+- quint
+- quirt
+- quist
+anagrams:
+- quite
+phonetic: "/ˈkwaɪ.ət/"
+definitions:
+- pos: noun
+  defs:
+  - text: The absence of sound; quietness.
+    example: There was a strange quiet in the normally very lively plaza.
+  - text: The absence of movement; stillness, tranquility
+- pos: verb
+  defs:
+  - text: To become quiet, silent, still, tranquil, calm.
+    example: When you quiet, we can start talking.
+  - text: To cause someone to become quiet.
+    example: Can you quiet your child? He's making lots of noise.
+- pos: adjective
+  defs:
+  - text: With little or no sound; free of disturbing noise.
+    example: I can't hear the music; it is too quiet.
+  - text: Having little motion or activity; calm.
+    example: a quiet night at home
+  - text: Not busy, of low quantity.
+    example: Business was quiet for the season.
+  - text: Not talking much or not talking loudly; reserved.
+    example: He's a very quiet man usually, but is very chatty after a few beers.
+  - text: Not showy; undemonstrative.
+    example: a quiet dress
+  - text: Requiring little or no interaction.
+    example: a quiet install
+- pos: interjection
+  defs:
+  - text: Be quiet.
+    example: Quiet! The children are sleeping.
 ---
-

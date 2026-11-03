@@ -1,7 +1,77 @@
 ---
 layout: word
-title: dawgs
+title: Is DAWGS a Wordle Word?
+head_title: Is DAWGS a Wordle Word? Yes – Valid Guess & Meaning
 word: dawgs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Dude, bud, pal, used to address a close male friend.<p><strong>Example:</strong> Sup, dawg.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.<p><strong>Example:</strong> The dog barked all night long.</p></li><li><strong>Definition 2:</strong> Any member of the Family Canidae, including domestic dogs, wolves, coyotes, jackals, foxes, and their relatives (extant and extinct); canid.</li><li><strong>Definition 3:</strong> A male dog, wolf or fox, as opposed to a bitch or vixen.</li><li><strong>Definition 4:</strong> A dull, unattractive girl or woman.<p><strong>Example:</strong> She’s a real dog.</p></li><li><strong>Definition 5:</strong> A man (derived from definition 2).<p><strong>Example:</strong> He's a silly dog.</p></li><li><strong>Definition 6:</strong> A coward.<p><strong>Example:</strong> Come back and fight, you dogs!</p></li><li><strong>Definition 7:</strong> Someone who is morally reprehensible.<p><strong>Example:</strong> You dirty dog.</p></li><li><strong>Definition 8:</strong> A sexually aggressive man (cf. horny).</li><li><strong>Definition 9:</strong> Any of various mechanical devices for holding, gripping, or fastening something, particularly with a tooth-like projection.</li><li><strong>Definition 10:</strong> A click or pallet adapted to engage the teeth of a ratchet-wheel, to restrain the back action; a click or pawl. (See also: ratchet, windlass)</li><li><strong>Definition 11:</strong> A metal support for logs in a fireplace.<p><strong>Example:</strong> The dogs were too hot to touch.</p></li><li><strong>Definition 12:</strong> The eighteenth Lenormand card.</li><li><strong>Definition 13:</strong> A hot dog.</li><li><strong>Definition 14:</strong> Underdog.</li><li><strong>Definition 15:</strong> (almost always in the plural) Foot.</li><li><strong>Definition 16:</strong> (from \"dog and bone\") Phone or mobile phone.<p><strong>Example:</strong> My dog is dead.</p></li><li><strong>Definition 17:</strong> One of the cones used to divide up a racetrack when training horses.</li><li><strong>Definition 18:</strong> A flop; a film that performs poorly at the box office.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Meat from a dog eaten as food.<p><strong>Example:</strong> We visited South Korea this time around, where we ate dog meat for the first time.</p></li><li><strong>Definition 2:</strong> Meat prepared to be given to a dog as food.</li><li><strong>Definition 3:</strong> An insult intended to assert hyperbolically that another person has value only as a corpse to be fed to a dog.<p><strong>Example:</strong> Did you just step on my blue suede shoes? You're dog meat now!</p></li></ul></div></div>"
+description: Yes, DAWGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- dangs
+- dargs
+- dawds
+- dawks
+- dawns
+- dawts
+anagrams:
+- gawds
+definitions:
+- pos: noun
+  defs:
+  - text: Dude, bud, pal, used to address a close male friend.
+    example: Sup, dawg.
+- pos: noun
+  defs:
+  - text: A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated
+      for thousands of years, of highly variable appearance due to human breeding.
+    example: The dog barked all night long.
+  - text: Any member of the Family Canidae, including domestic dogs, wolves, coyotes,
+      jackals, foxes, and their relatives (extant and extinct); canid.
+  - text: A male dog, wolf or fox, as opposed to a bitch or vixen.
+  - text: A dull, unattractive girl or woman.
+    example: She’s a real dog.
+  - text: A man (derived from definition 2).
+    example: He's a silly dog.
+  - text: A coward.
+    example: Come back and fight, you dogs!
+  - text: Someone who is morally reprehensible.
+    example: You dirty dog.
+  - text: A sexually aggressive man (cf. horny).
+  - text: Any of various mechanical devices for holding, gripping, or fastening something,
+      particularly with a tooth-like projection.
+  - text: 'A click or pallet adapted to engage the teeth of a ratchet-wheel, to restrain
+      the back action; a click or pawl. (See also: ratchet, windlass)'
+  - text: A metal support for logs in a fireplace.
+    example: The dogs were too hot to touch.
+  - text: The eighteenth Lenormand card.
+  - text: A hot dog.
+  - text: Underdog.
+  - text: "(almost always in the plural) Foot."
+  - text: (from "dog and bone") Phone or mobile phone.
+    example: My dog is dead.
+  - text: One of the cones used to divide up a racetrack when training horses.
+  - text: A flop; a film that performs poorly at the box office.
+- pos: noun
+  defs:
+  - text: Meat from a dog eaten as food.
+    example: We visited South Korea this time around, where we ate dog meat for the
+      first time.
+  - text: Meat prepared to be given to a dog as food.
+  - text: An insult intended to assert hyperbolically that another person has value
+      only as a corpse to be fed to a dog.
+    example: Did you just step on my blue suede shoes? You're dog meat now!
 ---
-

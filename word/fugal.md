@@ -1,7 +1,33 @@
 ---
 layout: word
-title: fugal
+title: Is FUGAL a Wordle Word?
+head_title: Is FUGAL a Wordle Word? Yes – Valid Guess & Meaning
 word: fugal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to a fugue</li><li><strong>Definition 2:</strong> Relating to flight (fleeing)</li></ul></div></div>"
+description: Yes, FUGAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- fural
+- jugal
+- rugal
+definitions:
+- pos: adjective
+  defs:
+  - text: Relating to a fugue
+  - text: Relating to flight (fleeing)
 ---
-

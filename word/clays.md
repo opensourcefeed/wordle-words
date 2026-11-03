@@ -1,7 +1,67 @@
 ---
 layout: word
-title: clays
+title: Is CLAYS a Wordle Word?
+head_title: Is CLAYS a Wordle Word? Yes – Valid Guess & Meaning
 word: clays
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kleɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mineral substance made up of small crystals of silica and alumina, that is ductile when moist; the material of pre-fired ceramics.</li><li><strong>Definition 2:</strong> An earth material with ductile qualities.</li><li><strong>Definition 3:</strong> A tennis court surface made of crushed stone, brick, shale, or other unbound mineral aggregate.<p><strong>Example:</strong> The French Open is played on clay.</p></li><li><strong>Definition 4:</strong> The material of the human body.</li><li><strong>Definition 5:</strong> A particle less than 3.9 microns in diameter, following the Wentworth scale.</li><li><strong>Definition 6:</strong> A clay pipe for smoking tobacco.</li><li><strong>Definition 7:</strong> A clay pigeon.<p><strong>Example:</strong> We went shooting clays at the weekend.</p></li><li><strong>Definition 8:</strong> Land or territory of a country or other political region, especially when subject to territorial claims<p><strong>Example:</strong> Danzig is rightfully German clay.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To add clay to, to spread clay onto.</li><li><strong>Definition 2:</strong> (of sugar) To purify using clay.<p><strong>Example:</strong> 1809, Jonathan Williams, On the Process of Claying Sugar, in Transactions of the American Philosophical Society, Volume 6.</p></li></ul></div></div>"
+description: Yes, CLAYS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- class
+- alays
+- blays
+- chays
+- clads
+- claes
+- clags
+- clams
+- clans
+- claps
+- clats
+- claws
+anagrams:
+- scaly
+- acyls
+trap:
+  pattern: CLA_S
+  count: 10
+phonetic: "/kleɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mineral substance made up of small crystals of silica and alumina, that
+      is ductile when moist; the material of pre-fired ceramics.
+  - text: An earth material with ductile qualities.
+  - text: A tennis court surface made of crushed stone, brick, shale, or other unbound
+      mineral aggregate.
+    example: The French Open is played on clay.
+  - text: The material of the human body.
+  - text: A particle less than 3.9 microns in diameter, following the Wentworth scale.
+  - text: A clay pipe for smoking tobacco.
+  - text: A clay pigeon.
+    example: We went shooting clays at the weekend.
+  - text: Land or territory of a country or other political region, especially when
+      subject to territorial claims
+    example: Danzig is rightfully German clay.
+- pos: verb
+  defs:
+  - text: To add clay to, to spread clay onto.
+  - text: "(of sugar) To purify using clay."
+    example: 1809, Jonathan Williams, On the Process of Claying Sugar, in Transactions
+      of the American Philosophical Society, Volume 6.
 ---
-

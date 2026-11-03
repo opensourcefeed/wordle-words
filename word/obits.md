@@ -1,7 +1,40 @@
 ---
 layout: word
-title: obits
+title: Is OBITS a Wordle Word?
+head_title: Is OBITS a Wordle Word? Yes – Valid Guess & Meaning
 word: obits
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Death of a person.</li><li><strong>Definition 2:</strong> A mass or other service held for the soul of a dead person.</li><li><strong>Definition 3:</strong> A record of a person's death.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An obituary.</li></ul></div></div>"
+description: Yes, OBITS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- obias
+- omits
+anagrams:
+- bitos
+definitions:
+- pos: noun
+  defs:
+  - text: Death of a person.
+  - text: A mass or other service held for the soul of a dead person.
+  - text: A record of a person's death.
+- pos: noun
+  defs:
+  - text: An obituary.
 ---
-

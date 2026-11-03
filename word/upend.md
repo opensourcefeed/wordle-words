@@ -1,7 +1,37 @@
 ---
 layout: word
-title: upend
+title: Is UPEND a Wordle Word?
+head_title: Is UPEND a Wordle Word? Yes – Valid Guess & Meaning
 word: upend
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʌpˈɛnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To end up; to set on end.</li><li><strong>Definition 2:</strong> To tip or turn over.<p><strong>Example:</strong> When he upended the bottle of water over his sleeping sister, the lid popped off and surprised them both.</p></li><li><strong>Definition 3:</strong> To destroy, invalidate, overthrow, or defeat.<p><strong>Example:</strong> The scientific evidence upended the popular myth.</p></li></ul></div></div>"
+description: Yes, UPEND is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- spend
+anagrams:
+- pendu
+phonetic: "/ʌpˈɛnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To end up; to set on end.
+  - text: To tip or turn over.
+    example: When he upended the bottle of water over his sleeping sister, the lid
+      popped off and surprised them both.
+  - text: To destroy, invalidate, overthrow, or defeat.
+    example: The scientific evidence upended the popular myth.
 ---
-

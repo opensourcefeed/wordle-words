@@ -1,7 +1,58 @@
 ---
 layout: word
-title: vibes
+title: Is VIBES a Wordle Word?
+head_title: Is VIBES a Wordle Word? Yes – Valid Guess & Meaning
 word: vibes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /vaɪbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vibraphone.</li><li><strong>Definition 2:</strong> Vibration.</li><li><strong>Definition 3:</strong> A vibrator (sex toy).</li><li><strong>Definition 4:</strong> (originally New Age jargon) An atmosphere or aura felt to belong to a person, place or thing.<p><strong>Example:</strong> The couple canceled their night out when they got a bad vibe from the new babysitter.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stimulate with a vibrator.</li><li><strong>Definition 2:</strong> To relax and enjoy oneself.</li><li><strong>Definition 3:</strong> To agree.</li><li><strong>Definition 4:</strong> To get along; to hit it off.</li></ul></div></div>"
+description: Yes, VIBES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- bibes
+- gibes
+- jibes
+- kibes
+- ribes
+- vibed
+- vibex
+- vibey
+- vices
+- vines
+- vires
+- vises
+trap:
+  pattern: _IBES
+  count: 6
+phonetic: "/vaɪbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A vibraphone.
+  - text: Vibration.
+  - text: A vibrator (sex toy).
+  - text: "(originally New Age jargon) An atmosphere or aura felt to belong to a person,
+      place or thing."
+    example: The couple canceled their night out when they got a bad vibe from the
+      new babysitter.
+- pos: verb
+  defs:
+  - text: To stimulate with a vibrator.
+  - text: To relax and enjoy oneself.
+  - text: To agree.
+  - text: To get along; to hit it off.
 ---
-

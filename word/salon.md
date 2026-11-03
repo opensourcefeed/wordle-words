@@ -1,7 +1,45 @@
 ---
 layout: word
-title: salon
+title: Is SALON a Wordle Word?
+head_title: Is SALON a Wordle Word? Yes – Possible Answer & Meaning
 word: salon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /səˈlɒn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large room, especially one used to receive and entertain guests.</li><li><strong>Definition 2:</strong> A gathering of people for a social or intellectual meeting.</li><li><strong>Definition 3:</strong> An art gallery or exhibition; especially the Paris salon or autumn salon.</li><li><strong>Definition 4:</strong> A beauty salon or similar establishment.</li></ul></div></div>"
+description: Yes, SALON is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- talon
+- balon
+- halon
+- salol
+- salop
+- sayon
+- solon
+anagrams:
+- loans
+- sloan
+- solan
+phonetic: "/səˈlɒn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large room, especially one used to receive and entertain guests.
+  - text: A gathering of people for a social or intellectual meeting.
+  - text: An art gallery or exhibition; especially the Paris salon or autumn salon.
+  - text: A beauty salon or similar establishment.
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: orate
+title: Is ORATE a Wordle Word?
+head_title: Is ORATE a Wordle Word? Yes – Valid Guess & Meaning
 word: orate
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To speak formally; to give a speech.</li><li><strong>Definition 2:</strong> To speak passionately; to preach for or against something.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Competent in oracy; having good speaking skills.</li></ul></div></div>"
+description: Yes, ORATE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- crate
+- grate
+- irate
+- ovate
+- frate
+- olate
+- prate
+- urate
+- wrate
+anagrams:
+- oater
+- roate
+trap:
+  pattern: _RATE
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To speak formally; to give a speech.
+  - text: To speak passionately; to preach for or against something.
+- pos: adjective
+  defs:
+  - text: Competent in oracy; having good speaking skills.
 ---
-

@@ -1,7 +1,68 @@
 ---
 layout: word
-title: chain
+title: Is CHAIN a Wordle Word?
+head_title: 'Is CHAIN a Wordle Word? Yes – Past Answer #904 & Meaning'
 word: chain
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈt͡ʃeɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A series of interconnected rings or links usually made of metal.<p><strong>Example:</strong> He wore a gold chain around the neck.</p></li><li><strong>Definition 2:</strong> A series of interconnected things.<p><strong>Example:</strong> This led to an unfortunate chain of events.</p></li><li><strong>Definition 3:</strong> A series of stores or businesses with the same brand name.<p><strong>Example:</strong> That chain of restaurants is expanding into our town.</p></li><li><strong>Definition 4:</strong> A number of atoms in a series, which combine to form a molecule.<p><strong>Example:</strong> When examined, the molecular chain included oxygen and hydrogen.</p></li><li><strong>Definition 5:</strong> A series of interconnected links of known length, used as a measuring device.</li><li><strong>Definition 6:</strong> A long measuring tape.</li><li><strong>Definition 7:</strong> A unit of length equal to 22 yards. The length of a Gunter's surveying chain. The length of a cricket pitch. Equal to 20.12 metres, 4 rods, or 100 links.</li><li><strong>Definition 8:</strong> A totally ordered set, especially a totally ordered subset of a poset.</li><li><strong>Definition 9:</strong> A sequence of linked house purchases, each of which is dependent on the preceding and succeeding purchase (said to be \"broken\" if a buyer or seller pulls out).</li><li><strong>Definition 10:</strong> That which confines, fetters, or secures; a bond.<p><strong>Example:</strong> the chains of habit</p></li><li><strong>Definition 11:</strong> (in the plural) Iron links bolted to the side of a vessel to bold the dead-eyes connected with the shrouds; also, the channels.</li><li><strong>Definition 12:</strong> The warp threads of a web.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fasten something with a chain.</li><li><strong>Definition 2:</strong> To link multiple items together.</li><li><strong>Definition 3:</strong> To secure someone with fetters.</li><li><strong>Definition 4:</strong> To obstruct the mouth of a river etc with a chain.</li><li><strong>Definition 5:</strong> To obligate.</li><li><strong>Definition 6:</strong> To relate data items with a chain of pointers.</li><li><strong>Definition 7:</strong> To be chained to another data item.</li><li><strong>Definition 8:</strong> To measure a distance using a 66-foot long chain, as in land surveying.</li><li><strong>Definition 9:</strong> (associated with Acorn Computers) To load and automatically run (a program).</li></ul></div></div>"
+description: Yes, CHAIN is a valid Wordle word. It was the Wordle answer on December
+  10, 2023 (#904). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 10, 2023 (#904).
+past_answers:
+- date: '2023-12-10'
+  number: 904
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- chair
+- chais
+anagrams:
+- china
+phonetic: "/ˈt͡ʃeɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A series of interconnected rings or links usually made of metal.
+    example: He wore a gold chain around the neck.
+  - text: A series of interconnected things.
+    example: This led to an unfortunate chain of events.
+  - text: A series of stores or businesses with the same brand name.
+    example: That chain of restaurants is expanding into our town.
+  - text: A number of atoms in a series, which combine to form a molecule.
+    example: When examined, the molecular chain included oxygen and hydrogen.
+  - text: A series of interconnected links of known length, used as a measuring device.
+  - text: A long measuring tape.
+  - text: A unit of length equal to 22 yards. The length of a Gunter's surveying chain.
+      The length of a cricket pitch. Equal to 20.12 metres, 4 rods, or 100 links.
+  - text: A totally ordered set, especially a totally ordered subset of a poset.
+  - text: A sequence of linked house purchases, each of which is dependent on the
+      preceding and succeeding purchase (said to be "broken" if a buyer or seller
+      pulls out).
+  - text: That which confines, fetters, or secures; a bond.
+    example: the chains of habit
+  - text: "(in the plural) Iron links bolted to the side of a vessel to bold the dead-eyes
+      connected with the shrouds; also, the channels."
+  - text: The warp threads of a web.
+- pos: verb
+  defs:
+  - text: To fasten something with a chain.
+  - text: To link multiple items together.
+  - text: To secure someone with fetters.
+  - text: To obstruct the mouth of a river etc with a chain.
+  - text: To obligate.
+  - text: To relate data items with a chain of pointers.
+  - text: To be chained to another data item.
+  - text: To measure a distance using a 66-foot long chain, as in land surveying.
+  - text: "(associated with Acorn Computers) To load and automatically run (a program)."
 ---
-

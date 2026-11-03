@@ -1,7 +1,59 @@
 ---
 layout: word
-title: pleat
+title: Is PLEAT a Wordle Word?
+head_title: 'Is PLEAT a Wordle Word? Yes – Past Answer #230 & Meaning'
 word: pleat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pliːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fold in the fabric of a garment, usually a skirt, as a part of the design of the garment, with the purpose of adding controlled fullness and freedom of movement, or taking up excess fabric. There are many types of pleats, differing in their construction and appearance.</li><li><strong>Definition 2:</strong> A fold in an organ, usually a longitudinal fold in a long leaf such as that of palmetto, lending it stiffness.</li><li><strong>Definition 3:</strong> A plait.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form one or more pleats in a piece of fabric or a garment.</li><li><strong>Definition 2:</strong> To plait.</li></ul></div></div>"
+description: Yes, PLEAT is a valid Wordle word. It was the Wordle answer on February
+  4, 2022 (#230). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 4, 2022 (#230).
+past_answers:
+- date: '2022-02-04'
+  number: 230
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- bleat
+- cleat
+- plead
+- pleas
+- ploat
+anagrams:
+- leapt
+- petal
+- plate
+- lepta
+- palet
+- patel
+- pelta
+- tepal
+phonetic: "/pliːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fold in the fabric of a garment, usually a skirt, as a part of the design
+      of the garment, with the purpose of adding controlled fullness and freedom of
+      movement, or taking up excess fabric. There are many types of pleats, differing
+      in their construction and appearance.
+  - text: A fold in an organ, usually a longitudinal fold in a long leaf such as that
+      of palmetto, lending it stiffness.
+  - text: A plait.
+- pos: verb
+  defs:
+  - text: To form one or more pleats in a piece of fabric or a garment.
+  - text: To plait.
 ---
-

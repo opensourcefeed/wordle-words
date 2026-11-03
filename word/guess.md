@@ -1,7 +1,43 @@
 ---
 layout: word
-title: guess
+title: Is GUESS a Wordle Word?
+head_title: 'Is GUESS a Wordle Word? Yes – Past Answer #1636 & Meaning'
 word: guess
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɛs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reach a partly (or totally) unqualified conclusion.</li><li><strong>Definition 2:</strong> To solve by a correct conjecture; to conjecture rightly.<p><strong>Example:</strong> He who guesses the riddle shall have the ring.</p></li><li><strong>Definition 3:</strong> To suppose (introducing a proposition of uncertain plausibility).<p><strong>Example:</strong> That album is quite hard to find, but I guess you could try ordering it online.</p></li><li><strong>Definition 4:</strong> To think, conclude, or decide (without a connotation of uncertainty). Usually in first person: \"I guess\".<p><strong>Example:</strong> \"I guess I'll go to bed.\"</p></li><li><strong>Definition 5:</strong> To hit upon or reproduce by memory.</li></ul></div></div>"
+description: Yes, GUESS is a valid Wordle word. It was the Wordle answer on December
+  11, 2025 (#1636). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 11, 2025 (#1636).
+past_answers:
+- date: '2025-12-11'
+  number: 1636
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- guest
+phonetic: "/ɡɛs/"
+definitions:
+- pos: verb
+  defs:
+  - text: To reach a partly (or totally) unqualified conclusion.
+  - text: To solve by a correct conjecture; to conjecture rightly.
+    example: He who guesses the riddle shall have the ring.
+  - text: To suppose (introducing a proposition of uncertain plausibility).
+    example: That album is quite hard to find, but I guess you could try ordering
+      it online.
+  - text: 'To think, conclude, or decide (without a connotation of uncertainty). Usually
+      in first person: "I guess".'
+    example: '"I guess I''ll go to bed."'
+  - text: To hit upon or reproduce by memory.
 ---
-

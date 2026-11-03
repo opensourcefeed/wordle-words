@@ -1,7 +1,98 @@
 ---
 layout: word
-title: bones
+title: Is BONES a Wordle Word?
+head_title: Is BONES a Wordle Word? Yes – Valid Guess & Meaning
 word: bones
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bəʊnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A composite material consisting largely of calcium phosphate and collagen and making up the skeleton of most vertebrates.</li><li><strong>Definition 2:</strong> Any of the components of an endoskeleton, made of bone.</li><li><strong>Definition 3:</strong> A bone of a fish; a fishbone.</li><li><strong>Definition 4:</strong> A bonefish</li><li><strong>Definition 5:</strong> One of the rigid parts of a corset that forms its frame, the boning, originally made of whalebone.</li><li><strong>Definition 6:</strong> One of the fragments of bone held between the fingers of the hand and rattled together to keep time to music.</li><li><strong>Definition 7:</strong> Anything made of bone, such as a bobbin for weaving bone lace.</li><li><strong>Definition 8:</strong> The framework of anything.</li><li><strong>Definition 9:</strong> An off-white colour, like the colour of bone.</li><li><strong>Definition 10:</strong> A dollar.</li><li><strong>Definition 11:</strong> The wishbone formation.</li><li><strong>Definition 12:</strong> An erect penis; a boner.</li><li><strong>Definition 13:</strong> (chiefly in the plural) A domino or dice.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare (meat, etc) by removing the bone or bones from.</li><li><strong>Definition 2:</strong> To fertilize with bone.</li><li><strong>Definition 3:</strong> To put whalebone into.<p><strong>Example:</strong> to bone stays</p></li><li><strong>Definition 4:</strong> To make level, using a particular procedure; to survey a level line.<p><strong>Example:</strong> boning rod</p></li><li><strong>Definition 5:</strong> (usually of a man) To have sexual intercourse with.</li><li><strong>Definition 6:</strong> (in Aboriginal culture) To perform \"bone pointing\", a ritual that is intended to bring illness or even death to the victim.</li><li><strong>Definition 7:</strong> (usually with \"up\") To study.<p><strong>Example:</strong> bone up</p></li><li><strong>Definition 8:</strong> To polish boots to a shiny finish.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apprehend, steal.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sight along an object or set of objects to check whether they are level or in line.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A percussive folk musical instrument played as a pair in one hand, often made from bovine ribs.</li><li><strong>Definition 2:</strong> The act of two fists meeting together in the manner equivalent to a high-five.</li><li><strong>Definition 3:</strong> The framework or foundation of something.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B♭ˌ (contra B♭).<p><strong>Example:</strong> Jim plays the trombone very well.</p></li><li><strong>Definition 2:</strong> The common European bittern.</li></ul></div></div>"
+description: Yes, BONES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- boney
+- bonus
+- banes
+- benes
+- bines
+- bodes
+- bokes
+- boles
+- bonds
+- boned
+- boner
+- bongs
+anagrams:
+- ebons
+trap:
+  pattern: _ONES
+  count: 11
+phonetic: "/bəʊnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A composite material consisting largely of calcium phosphate and collagen
+      and making up the skeleton of most vertebrates.
+  - text: Any of the components of an endoskeleton, made of bone.
+  - text: A bone of a fish; a fishbone.
+  - text: A bonefish
+  - text: One of the rigid parts of a corset that forms its frame, the boning, originally
+      made of whalebone.
+  - text: One of the fragments of bone held between the fingers of the hand and rattled
+      together to keep time to music.
+  - text: Anything made of bone, such as a bobbin for weaving bone lace.
+  - text: The framework of anything.
+  - text: An off-white colour, like the colour of bone.
+  - text: A dollar.
+  - text: The wishbone formation.
+  - text: An erect penis; a boner.
+  - text: "(chiefly in the plural) A domino or dice."
+- pos: verb
+  defs:
+  - text: To prepare (meat, etc) by removing the bone or bones from.
+  - text: To fertilize with bone.
+  - text: To put whalebone into.
+    example: to bone stays
+  - text: To make level, using a particular procedure; to survey a level line.
+    example: boning rod
+  - text: "(usually of a man) To have sexual intercourse with."
+  - text: (in Aboriginal culture) To perform "bone pointing", a ritual that is intended
+      to bring illness or even death to the victim.
+  - text: (usually with "up") To study.
+    example: bone up
+  - text: To polish boots to a shiny finish.
+- pos: verb
+  defs:
+  - text: To apprehend, steal.
+- pos: verb
+  defs:
+  - text: To sight along an object or set of objects to check whether they are level
+      or in line.
+- pos: noun
+  defs:
+  - text: A percussive folk musical instrument played as a pair in one hand, often
+      made from bovine ribs.
+  - text: The act of two fists meeting together in the manner equivalent to a high-five.
+  - text: The framework or foundation of something.
+- pos: noun
+  defs:
+  - text: A musical instrument in the brass family, having a cylindrical bore, and
+      usually a sliding tube (but sometimes piston valves, and rarely both). Most
+      often refers to the tenor trombone, which is the most common type of trombone
+      and has a fundamental tone of B♭ˌ (contra B♭).
+    example: Jim plays the trombone very well.
+  - text: The common European bittern.
 ---
-

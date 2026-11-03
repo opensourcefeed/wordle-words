@@ -1,7 +1,36 @@
 ---
 layout: word
-title: nidus
+title: Is NIDUS a Wordle Word?
+head_title: Is NIDUS a Wordle Word? Yes – Valid Guess & Meaning
 word: nidus
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An aggregate of neurons.</li><li><strong>Definition 2:</strong> A nest for insects or small animals.</li><li><strong>Definition 3:</strong> A place of infection in an organism.</li><li><strong>Definition 4:</strong> An origin (originating point) for a phenomenon.</li></ul></div></div>"
+description: Yes, NIDUS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- fidus
+- nides
+- nisus
+- nodus
+definitions:
+- pos: noun
+  defs:
+  - text: An aggregate of neurons.
+  - text: A nest for insects or small animals.
+  - text: A place of infection in an organism.
+  - text: An origin (originating point) for a phenomenon.
 ---
-

@@ -1,7 +1,69 @@
 ---
 layout: word
-title: kerns
+title: Is KERNS a Wordle Word?
+head_title: Is KERNS a Wordle Word? Yes – Valid Guess & Meaning
 word: kerns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A corn; grain; kernel.</li><li><strong>Definition 2:</strong> The last handful or sheaf reaped at the harvest.</li><li><strong>Definition 3:</strong> The harvest home.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any part of a letter which extends into the space used by another letter.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (chiefly proportional font printing) To adjust the horizontal space between selected pairs of letters (characters or glyphs); to perform such adjustments to a portion of text, according to preset rules.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light-armed foot soldier of the ancient militia of Ireland and Scotland; in archaic contexts often used as a term of contempt.</li><li><strong>Definition 2:</strong> A boor; a low person.</li><li><strong>Definition 3:</strong> An idler; a vagabond.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A churn.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mill for grinding corn, especially a hand-mill made of two circular stones.</li></ul></div></div>"
+description: Yes, KERNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- derns
+- ferns
+- herns
+- karns
+- keens
+- kerbs
+- kerfs
+- kerne
+- keros
+- kirns
+- perns
+- terns
+anagrams:
+- nerks
+- renks
+trap:
+  pattern: _ERNS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A corn; grain; kernel.
+  - text: The last handful or sheaf reaped at the harvest.
+  - text: The harvest home.
+- pos: noun
+  defs:
+  - text: Any part of a letter which extends into the space used by another letter.
+- pos: verb
+  defs:
+  - text: "(chiefly proportional font printing) To adjust the horizontal space between
+      selected pairs of letters (characters or glyphs); to perform such adjustments
+      to a portion of text, according to preset rules."
+- pos: noun
+  defs:
+  - text: A light-armed foot soldier of the ancient militia of Ireland and Scotland;
+      in archaic contexts often used as a term of contempt.
+  - text: A boor; a low person.
+  - text: An idler; a vagabond.
+- pos: noun
+  defs:
+  - text: A churn.
+- pos: noun
+  defs:
+  - text: A mill for grinding corn, especially a hand-mill made of two circular stones.
 ---
-

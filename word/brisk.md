@@ -1,7 +1,53 @@
 ---
 layout: word
-title: brisk
+title: Is BRISK a Wordle Word?
+head_title: 'Is BRISK a Wordle Word? Yes – Past Answer #464 & Meaning'
 word: brisk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹɪsk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (often with \"up\") To make or become lively; to enliven; to animate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Full of liveliness and activity; characterized by quickness of motion or action<p><strong>Example:</strong> We took a brisk walk yesterday.</p></li><li><strong>Definition 2:</strong> Full of spirit of life; effervescing</li><li><strong>Definition 3:</strong> Sparkling; fizzy<p><strong>Example:</strong> brisk cider</p></li><li><strong>Definition 4:</strong> Stimulating or invigorating.<p><strong>Example:</strong> This morning was a brisk fall day. It wasn't cold enough for frost, but you wanted to keep moving.</p></li><li><strong>Definition 5:</strong> Abrupt, curt in one's manner or in relation to others.</li></ul></div></div>"
+description: Yes, BRISK is a valid Wordle word. It was the Wordle answer on September
+  26, 2022 (#464). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 26, 2022 (#464).
+past_answers:
+- date: '2022-09-26'
+  number: 464
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- brick
+- brink
+- frisk
+- brise
+- briss
+- brusk
+anagrams:
+- birks
+- briks
+phonetic: "/bɹɪsk/"
+definitions:
+- pos: verb
+  defs:
+  - text: (often with "up") To make or become lively; to enliven; to animate.
+- pos: adjective
+  defs:
+  - text: Full of liveliness and activity; characterized by quickness of motion or
+      action
+    example: We took a brisk walk yesterday.
+  - text: Full of spirit of life; effervescing
+  - text: Sparkling; fizzy
+    example: brisk cider
+  - text: Stimulating or invigorating.
+    example: This morning was a brisk fall day. It wasn't cold enough for frost, but
+      you wanted to keep moving.
+  - text: Abrupt, curt in one's manner or in relation to others.
 ---
-

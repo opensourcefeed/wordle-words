@@ -1,7 +1,31 @@
 ---
 layout: word
-title: lycee
+title: Is LYCEE a Wordle Word?
+head_title: Is LYCEE a Wordle Word? Yes – Valid Guess & Meaning
 word: lycee
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A public secondary school in France.</li></ul></div></div>"
+description: Yes, LYCEE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- lycea
+- sycee
+definitions:
+- pos: noun
+  defs:
+  - text: A public secondary school in France.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: titan
+title: Is TITAN a Wordle Word?
+head_title: 'Is TITAN a Wordle Word? Yes – Past Answer #1071 & Meaning'
 word: titan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtaɪtən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something or someone of very large stature, greatness, or godliness.</li></ul></div></div>"
+description: Yes, TITAN is a valid Wordle word. It was the Wordle answer on May 25,
+  2024 (#1071). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 25, 2024 (#1071).
+past_answers:
+- date: '2024-05-25'
+  number: 1071
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - I
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- titar
+- titas
+- titin
+- witan
+anagrams:
+- taint
+- nitta
+- tanti
+phonetic: "/ˈtaɪtən/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something or someone of very large stature, greatness, or godliness.
 ---
-

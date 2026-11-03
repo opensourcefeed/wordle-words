@@ -1,7 +1,45 @@
 ---
 layout: word
-title: polka
+title: Is POLKA a Wordle Word?
+head_title: 'Is POLKA a Wordle Word? Yes – Past Answer #619 & Meaning'
 word: polka
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɒl.kə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A lively dance originating in Bohemia.</li><li><strong>Definition 2:</strong> The music for this dance.</li><li><strong>Definition 3:</strong> A polka jacket.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dance the polka.</li></ul></div></div>"
+description: Yes, POLKA is a valid Wordle word. It was the Wordle answer on February
+  28, 2023 (#619). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 28, 2023 (#619).
+past_answers:
+- date: '2023-02-28'
+  number: 619
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- poaka
+- polks
+- pooka
+- pulka
+anagrams:
+- pokal
+phonetic: "/ˈpɒl.kə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A lively dance originating in Bohemia.
+  - text: The music for this dance.
+  - text: A polka jacket.
+- pos: verb
+  defs:
+  - text: To dance the polka.
 ---
-

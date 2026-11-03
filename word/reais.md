@@ -1,7 +1,51 @@
 ---
 layout: word
-title: reais
+title: Is REAIS a Wordle Word?
+head_title: Is REAIS a Wordle Word? Yes – Valid Guess & Meaning
 word: reais
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A unit of currency used in Brazil since 1994. Symbol: R$.</li><li><strong>Definition 2:</strong> A coin worth one real.</li></ul></div></div>"
+description: Yes, REAIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  - I
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- reads
+- reaks
+- reals
+- reams
+- reans
+- reaps
+- rears
+- refis
+anagrams:
+- arise
+- raise
+- aesir
+- serai
+- seria
+trap:
+  pattern: REA_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: 'A unit of currency used in Brazil since 1994. Symbol: R$.'
+  - text: A coin worth one real.
 ---
-

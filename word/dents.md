@@ -1,7 +1,65 @@
 ---
 layout: word
-title: dents
+title: Is DENTS a Wordle Word?
+head_title: Is DENTS a Wordle Word? Yes – Valid Guess & Meaning
 word: dents
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɛnts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shallow deformation in the surface of an object, produced by an impact.<p><strong>Example:</strong> The crash produced a dent in the left side of the car.</p></li><li><strong>Definition 2:</strong> A type of maize/corn with a relatively soft outer hull, and a soft type of starch that shrinks at maturity to leave an indentation in the surface of the kernel.</li><li><strong>Definition 3:</strong> (by extension) A sudden negative change, such as loss, damage, weakening, consumption or diminution, especially one produced by an external force, event or action<p><strong>Example:</strong> That purchase put a bit of a dent in my wallet.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To impact something, producing a dent.</li><li><strong>Definition 2:</strong> To develop a dent or dents.<p><strong>Example:</strong> Copper is soft and dents easily.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tooth, as of a card, a gear wheel, etc.</li><li><strong>Definition 2:</strong> A slot or a wire in a reed</li></ul></div></div>"
+description: Yes, DENTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- bents
+- cents
+- dants
+- debts
+- deets
+- delts
+- denes
+- denis
+- dente
+- dints
+- dunts
+- fents
+anagrams:
+- stend
+- tends
+trap:
+  pattern: _ENTS
+  count: 14
+phonetic: "/dɛnts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shallow deformation in the surface of an object, produced by an impact.
+    example: The crash produced a dent in the left side of the car.
+  - text: A type of maize/corn with a relatively soft outer hull, and a soft type
+      of starch that shrinks at maturity to leave an indentation in the surface of
+      the kernel.
+  - text: "(by extension) A sudden negative change, such as loss, damage, weakening,
+      consumption or diminution, especially one produced by an external force, event
+      or action"
+    example: That purchase put a bit of a dent in my wallet.
+- pos: verb
+  defs:
+  - text: To impact something, producing a dent.
+  - text: To develop a dent or dents.
+    example: Copper is soft and dents easily.
+- pos: noun
+  defs:
+  - text: A tooth, as of a card, a gear wheel, etc.
+  - text: A slot or a wire in a reed
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: today
+title: Is TODAY a Wordle Word?
+head_title: 'Is TODAY a Wordle Word? Yes – Past Answer #266 & Meaning'
 word: today
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /təˈdeɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A current day or date.<p><strong>Example:</strong> Today is the day we'll fix this once and for all.</p></li><li><strong>Definition 2:</strong> From 6am to 6pm on the current day.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> On the current day or date.<p><strong>Example:</strong> I want this done today.</p></li><li><strong>Definition 2:</strong> In the current era; nowadays.<p><strong>Example:</strong> In the 1500s, people had to do things by hand, but today we have electric can openers.</p></li></ul></div></div>"
+description: Yes, TODAY is a valid Wordle word. It was the Wordle answer on March
+  12, 2022 (#266). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 12, 2022 (#266).
+past_answers:
+- date: '2022-03-12'
+  number: 266
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- toddy
+- tokay
+anagrams:
+- toady
+phonetic: "/təˈdeɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A current day or date.
+    example: Today is the day we'll fix this once and for all.
+  - text: From 6am to 6pm on the current day.
+- pos: adverb
+  defs:
+  - text: On the current day or date.
+    example: I want this done today.
+  - text: In the current era; nowadays.
+    example: In the 1500s, people had to do things by hand, but today we have electric
+      can openers.
 ---
-

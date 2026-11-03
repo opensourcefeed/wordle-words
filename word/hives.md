@@ -1,7 +1,49 @@
 ---
 layout: word
-title: hives
+title: Is HIVES a Wordle Word?
+head_title: Is HIVES a Wordle Word? Yes – Valid Guess & Meaning
 word: hives
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /haɪvz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Itchy, swollen, red areas of the skin which can appear quickly in response to an allergen or due to other conditions.</li></ul></div></div>"
+description: Yes, HIVES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- cives
+- dives
+- fives
+- gives
+- haves
+- hides
+- hikes
+- hipes
+- hires
+- hived
+- hiver
+- hoves
+anagrams:
+- shive
+trap:
+  pattern: _IVES
+  count: 10
+phonetic: "/haɪvz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Itchy, swollen, red areas of the skin which can appear quickly in response
+      to an allergen or due to other conditions.
 ---
-

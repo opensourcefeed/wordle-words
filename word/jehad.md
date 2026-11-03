@@ -1,7 +1,33 @@
 ---
 layout: word
-title: jehad
+title: Is JEHAD a Wordle Word?
+head_title: Is JEHAD a Wordle Word? Yes – Valid Guess & Meaning
 word: jehad
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A holy war undertaken by Muslims.</li><li><strong>Definition 2:</strong> An aggressive campaign for an idea.</li><li><strong>Definition 3:</strong> A personal spiritual struggle for self-improvement and/or against evil.</li></ul></div></div>"
+description: Yes, JEHAD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- jihad
+definitions:
+- pos: noun
+  defs:
+  - text: A holy war undertaken by Muslims.
+  - text: An aggressive campaign for an idea.
+  - text: A personal spiritual struggle for self-improvement and/or against evil.
 ---
-

@@ -1,7 +1,49 @@
 ---
 layout: word
-title: smote
+title: Is SMOTE a Wordle Word?
+head_title: Is SMOTE a Wordle Word? Yes – Possible Answer & Meaning
 word: smote
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sməʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit, to strike.</li><li><strong>Definition 2:</strong> To strike down or kill with godly force.</li><li><strong>Definition 3:</strong> To injure with divine power.</li><li><strong>Definition 4:</strong> To put to rout in battle; to overthrow by war.</li><li><strong>Definition 5:</strong> To afflict; to chasten; to punish.</li><li><strong>Definition 6:</strong> (now only in passive) To strike with love or infatuation.<p><strong>Example:</strong> Bob was smitten with Laura from the first time he saw her.</p></li></ul></div></div>"
+description: Yes, SMOTE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- smite
+- smoke
+- emote
+- scote
+- shote
+- smore
+- soote
+anagrams:
+- mesto
+- moste
+- motes
+- tomes
+phonetic: "/sməʊt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To hit, to strike.
+  - text: To strike down or kill with godly force.
+  - text: To injure with divine power.
+  - text: To put to rout in battle; to overthrow by war.
+  - text: To afflict; to chasten; to punish.
+  - text: "(now only in passive) To strike with love or infatuation."
+    example: Bob was smitten with Laura from the first time he saw her.
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: appal
+title: Is APPAL a Wordle Word?
+head_title: Is APPAL a Wordle Word? Yes – Valid Guess & Meaning
 word: appal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fill with horror; to dismay.<p><strong>Example:</strong> The evidence put forth at the court appalled most of the jury.</p></li><li><strong>Definition 2:</strong> To make pale; to blanch.</li><li><strong>Definition 3:</strong> To weaken; to reduce in strength</li><li><strong>Definition 4:</strong> To grow faint; to become weak; to become dismayed or discouraged.</li><li><strong>Definition 5:</strong> To lose flavour or become stale.</li></ul></div></div>"
+description: Yes, APPAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - P
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- appam
+- appay
+- appel
+anagrams:
+- papal
+- lappa
+definitions:
+- pos: verb
+  defs:
+  - text: To fill with horror; to dismay.
+    example: The evidence put forth at the court appalled most of the jury.
+  - text: To make pale; to blanch.
+  - text: To weaken; to reduce in strength
+  - text: To grow faint; to become weak; to become dismayed or discouraged.
+  - text: To lose flavour or become stale.
 ---
-

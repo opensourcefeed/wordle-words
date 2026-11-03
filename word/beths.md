@@ -1,7 +1,38 @@
 ---
 layout: word
-title: beths
+title: Is BETHS a Wordle Word?
+head_title: Is BETHS a Wordle Word? Yes – Valid Guess & Meaning
 word: beths
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The second letter of the Aramaic alphabet, 𐡁</li><li><strong>Definition 2:</strong> The second letter of the Hebrew alphabet, ב</li><li><strong>Definition 3:</strong> The second letter of the Syriac alphabet, ܒ</li></ul></div></div>"
+description: Yes, BETHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- baths
+- betas
+- betes
+- heths
+- meths
+- seths
+- teths
+definitions:
+- pos: noun
+  defs:
+  - text: "The second letter of the Aramaic alphabet, \U00010841"
+  - text: The second letter of the Hebrew alphabet, ב
+  - text: The second letter of the Syriac alphabet, ܒ
 ---
-

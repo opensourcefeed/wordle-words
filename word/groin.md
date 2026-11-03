@@ -1,7 +1,56 @@
 ---
 layout: word
-title: groin
+title: Is GROIN a Wordle Word?
+head_title: 'Is GROIN a Wordle Word? Yes – Past Answer #142 & Meaning'
 word: groin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹɔɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The crease or depression of the human body at the junction of the trunk and the thigh, together with the surrounding region.</li><li><strong>Definition 2:</strong> The area adjoining this fold or depression.<p><strong>Example:</strong> He pulled a muscle in his groin.</p></li><li><strong>Definition 3:</strong> The projecting solid angle formed by the meeting of two vaults</li><li><strong>Definition 4:</strong> The genitals.<p><strong>Example:</strong> He got kicked in the groin and was writhing in pain.</p></li><li><strong>Definition 5:</strong> The surface formed by two such vaults.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To deliver a blow to the genitals of.<p><strong>Example:</strong> In the scrum he somehow got groined.</p></li><li><strong>Definition 2:</strong> To build with groins.</li><li><strong>Definition 3:</strong> (literary) To hollow out, to excavate.<p><strong>Example:</strong> 'Down some profound dull tunnel, long since scooped / Through granites which titanic wars had groined.' (From Strange Meeting by Wilfred Owen).</p></li></ul></div></div>"
+description: Yes, GROIN is a valid Wordle word. It was the Wordle answer on November
+  8, 2021 (#142). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 8, 2021 (#142).
+past_answers:
+- date: '2021-11-08'
+  number: 142
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- grain
+- groan
+- grown
+- grein
+- proin
+anagrams:
+- giron
+phonetic: "/ɡɹɔɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The crease or depression of the human body at the junction of the trunk
+      and the thigh, together with the surrounding region.
+  - text: The area adjoining this fold or depression.
+    example: He pulled a muscle in his groin.
+  - text: The projecting solid angle formed by the meeting of two vaults
+  - text: The genitals.
+    example: He got kicked in the groin and was writhing in pain.
+  - text: The surface formed by two such vaults.
+- pos: verb
+  defs:
+  - text: To deliver a blow to the genitals of.
+    example: In the scrum he somehow got groined.
+  - text: To build with groins.
+  - text: "(literary) To hollow out, to excavate."
+    example: "'Down some profound dull tunnel, long since scooped / Through granites
+      which titanic wars had groined.' (From Strange Meeting by Wilfred Owen)."
 ---
-

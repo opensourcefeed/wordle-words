@@ -1,7 +1,58 @@
 ---
 layout: word
-title: moans
+title: Is MOANS a Wordle Word?
+head_title: Is MOANS a Wordle Word? Yes – Valid Guess & Meaning
 word: moans
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A low, mournful cry of pain, sorrow or pleasure</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To complain about; to bemoan, to bewail; to mourn.</li><li><strong>Definition 2:</strong> To grieve.</li><li><strong>Definition 3:</strong> To distress (someone); to sadden.</li><li><strong>Definition 4:</strong> To make a moan or similar sound.</li><li><strong>Definition 5:</strong> To say in a moan, or with a moaning voice.<p><strong>Example:</strong> ‘Please don't leave me,’ he moaned.</p></li><li><strong>Definition 6:</strong> To complain; to grumble.</li></ul></div></div>"
+description: Yes, MOANS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- koans
+- loans
+- means
+- moais
+- moals
+- moana
+- moany
+- moars
+- moats
+- moons
+- morns
+- roans
+anagrams:
+- mason
+- manos
+- manso
+- monas
+- nomas
+- soman
+definitions:
+- pos: noun
+  defs:
+  - text: A low, mournful cry of pain, sorrow or pleasure
+- pos: verb
+  defs:
+  - text: To complain about; to bemoan, to bewail; to mourn.
+  - text: To grieve.
+  - text: To distress (someone); to sadden.
+  - text: To make a moan or similar sound.
+  - text: To say in a moan, or with a moaning voice.
+    example: "‘Please don't leave me,’ he moaned."
+  - text: To complain; to grumble.
 ---
-

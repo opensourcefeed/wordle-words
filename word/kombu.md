@@ -1,7 +1,31 @@
 ---
 layout: word
-title: kombu
+title: Is KOMBU a Wordle Word?
+head_title: Is KOMBU a Wordle Word? Yes – Valid Guess & Meaning
 word: kombu
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɒmbuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Edible kelp (from the class Phaeophyceae) used in East Asian cuisine.</li></ul></div></div>"
+description: Yes, KOMBU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- kombi
+- konbu
+phonetic: "/ˈkɒmbuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Edible kelp (from the class Phaeophyceae) used in East Asian cuisine.
 ---
-

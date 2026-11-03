@@ -1,7 +1,47 @@
 ---
 layout: word
-title: bland
+title: Is BLAND a Wordle Word?
+head_title: 'Is BLAND a Wordle Word? Yes – Past Answer #389 & Meaning'
 word: bland
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blænd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a soothing effect; not irritating or stimulating.<p><strong>Example:</strong> a bland diet</p></li><li><strong>Definition 2:</strong> Lacking in taste, flavor, or vigor.<p><strong>Example:</strong> The coffee was bland.</p></li><li><strong>Definition 3:</strong> Lacking interest; boring; dull.</li><li><strong>Definition 4:</strong> Mild; soft, gentle, balmy; smooth in manner; suave.</li></ul></div></div>"
+description: Yes, BLAND is a valid Wordle word. It was the Wordle answer on July 13,
+  2022 (#389). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 13, 2022 (#389).
+past_answers:
+- date: '2022-07-13'
+  number: 389
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- blank
+- blend
+- blind
+- blond
+- brand
+- gland
+- aland
+- blanc
+- blaud
+- eland
+phonetic: "/blænd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a soothing effect; not irritating or stimulating.
+    example: a bland diet
+  - text: Lacking in taste, flavor, or vigor.
+    example: The coffee was bland.
+  - text: Lacking interest; boring; dull.
+  - text: Mild; soft, gentle, balmy; smooth in manner; suave.
 ---
-

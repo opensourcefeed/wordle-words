@@ -1,7 +1,56 @@
 ---
 layout: word
-title: dower
+title: Is DOWER a Wordle Word?
+head_title: Is DOWER a Wordle Word? Yes – Valid Guess & Meaning
 word: dower
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ˈdaʊ.ə(ɹ)]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The part of or interest in a deceased husband's property provided to his widow, usually in the form of a life estate.</li><li><strong>Definition 2:</strong> Property given by a groom directly to his bride at or before their wedding in order to legitimize the marriage; dowry.</li><li><strong>Definition 3:</strong> That with which one is gifted or endowed; endowment; gift.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give a dower or dowry.</li><li><strong>Definition 2:</strong> To endow.</li></ul></div></div>"
+description: Yes, DOWER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- cower
+- dowel
+- lower
+- mower
+- power
+- rower
+- sower
+- tower
+- bower
+- doner
+- doper
+- doser
+anagrams:
+- rowed
+trap:
+  pattern: _OWER
+  count: 10
+phonetic: "[ˈdaʊ.ə(ɹ)]"
+definitions:
+- pos: noun
+  defs:
+  - text: The part of or interest in a deceased husband's property provided to his
+      widow, usually in the form of a life estate.
+  - text: Property given by a groom directly to his bride at or before their wedding
+      in order to legitimize the marriage; dowry.
+  - text: That with which one is gifted or endowed; endowment; gift.
+- pos: verb
+  defs:
+  - text: To give a dower or dowry.
+  - text: To endow.
 ---
-

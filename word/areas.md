@@ -1,7 +1,55 @@
 ---
 layout: word
-title: areas
+title: Is AREAS a Wordle Word?
+head_title: Is AREAS a Wordle Word? Yes – Valid Guess & Meaning
 word: areas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A measure of the extent of a surface; it is measured in square units.</li><li><strong>Definition 2:</strong> A particular geographic region.</li><li><strong>Definition 3:</strong> Any particular extent of surface, especially an empty or unused extent.<p><strong>Example:</strong> The photo is a little dark in that area.</p></li><li><strong>Definition 4:</strong> The extent, scope, or range of an object or concept.<p><strong>Example:</strong> The plans are a bit vague in that area.</p></li><li><strong>Definition 5:</strong> An open space, below ground level, between the front of a house and the pavement.</li><li><strong>Definition 6:</strong> Penalty box; penalty area.</li><li><strong>Definition 7:</strong> Genitals.</li></ul></div></div>"
+description: Yes, AREAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- arbas
+- aread
+- areae
+- areal
+- arear
+- arets
+- arias
+- arnas
+- arpas
+- arras
+- ureas
+trap:
+  pattern: AR_AS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A measure of the extent of a surface; it is measured in square units.
+  - text: A particular geographic region.
+  - text: Any particular extent of surface, especially an empty or unused extent.
+    example: The photo is a little dark in that area.
+  - text: The extent, scope, or range of an object or concept.
+    example: The plans are a bit vague in that area.
+  - text: An open space, below ground level, between the front of a house and the
+      pavement.
+  - text: Penalty box; penalty area.
+  - text: Genitals.
 ---
-

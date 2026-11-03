@@ -1,7 +1,52 @@
 ---
 layout: word
-title: miler
+title: Is MILER a Wordle Word?
+head_title: Is MILER a Wordle Word? Yes – Valid Guess & Meaning
 word: miler
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmaɪləɹ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (often in combination) An athlete or a horse who specializes in running races of one mile, or a specified number of miles.</li><li><strong>Definition 2:</strong> (in combination) A race whose length is the specified number of miles.<p><strong>Example:</strong> I ran an eight-miler on Sunday and I'm still feeling sore.</p></li></ul></div></div>"
+description: Yes, MILER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- filer
+- miner
+- miser
+- miles
+- milor
+- mimer
+- miter
+- mixer
+- moler
+- oiler
+- piler
+- siler
+anagrams:
+- meril
+trap:
+  pattern: _ILER
+  count: 7
+phonetic: "/ˈmaɪləɹ/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(often in combination) An athlete or a horse who specializes in running
+      races of one mile, or a specified number of miles."
+  - text: "(in combination) A race whose length is the specified number of miles."
+    example: I ran an eight-miler on Sunday and I'm still feeling sore.
 ---
-

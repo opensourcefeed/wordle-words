@@ -1,7 +1,56 @@
 ---
 layout: word
-title: riced
+title: Is RICED a Wordle Word?
+head_title: Is RICED a Wordle Word? Yes – Valid Guess & Meaning
 word: riced
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To squeeze through a ricer; to mash or make into rice-sized pieces (especially potatoes).</li><li><strong>Definition 2:</strong> To harvest wild rice (Zizania sp.)</li><li><strong>Definition 3:</strong> To throw rice at a person (usually at a wedding).</li><li><strong>Definition 4:</strong> To customize the user interface of a computer system, e.g. a desktop environment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made into or consisting of finely minced pieces resembling rice<p><strong>Example:</strong> riced cauliflower</p></li></ul></div></div>"
+description: Yes, RICED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- diced
+- niced
+- raced
+- ricer
+- rices
+- ricey
+- riled
+- rimed
+- riped
+- rived
+- ticed
+- viced
+anagrams:
+- cider
+- cried
+- dicer
+- drice
+definitions:
+- pos: verb
+  defs:
+  - text: To squeeze through a ricer; to mash or make into rice-sized pieces (especially
+      potatoes).
+  - text: To harvest wild rice (Zizania sp.)
+  - text: To throw rice at a person (usually at a wedding).
+  - text: To customize the user interface of a computer system, e.g. a desktop environment.
+- pos: adjective
+  defs:
+  - text: Made into or consisting of finely minced pieces resembling rice
+    example: riced cauliflower
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: churr
+title: Is CHURR a Wordle Word?
+head_title: Is CHURR a Wordle Word? Yes – Valid Guess & Meaning
 word: churr
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The trilled sound made by an insect.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make the prolonged trilling sound of an insect (e.g. a grasshopper, a cicada).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A low vocal sound made by some birds.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make the low vocal sound of some birds.</li></ul></div></div>"
+description: Yes, CHURR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- churn
+- charr
+- chirr
+- churl
+definitions:
+- pos: noun
+  defs:
+  - text: The trilled sound made by an insect.
+- pos: verb
+  defs:
+  - text: To make the prolonged trilling sound of an insect (e.g. a grasshopper, a
+      cicada).
+- pos: noun
+  defs:
+  - text: A low vocal sound made by some birds.
+- pos: verb
+  defs:
+  - text: To make the low vocal sound of some birds.
 ---
-

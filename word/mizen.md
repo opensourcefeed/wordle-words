@@ -1,7 +1,36 @@
 ---
 layout: word
-title: mizen
+title: Is MIZEN a Wordle Word?
+head_title: Is MIZEN a Wordle Word? Yes – Valid Guess & Meaning
 word: mizen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Mizzenmast.</li><li><strong>Definition 2:</strong> A fore-and-aft sail set on a mizzenmast.</li></ul></div></div>"
+description: Yes, MIZEN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- dizen
+- hizen
+- mixen
+- mizes
+- wizen
+definitions:
+- pos: noun
+  defs:
+  - text: Mizzenmast.
+  - text: A fore-and-aft sail set on a mizzenmast.
 ---
-

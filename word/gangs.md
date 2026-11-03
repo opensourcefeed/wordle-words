@@ -1,7 +1,88 @@
 ---
 layout: word
-title: gangs
+title: Is GANGS a Wordle Word?
+head_title: Is GANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: gangs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To go; walk; proceed.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A number going in company; a number of friends or persons associated for a particular purpose.<p><strong>Example:</strong> The gang from our office is going out for drinks Friday night.</p></li><li><strong>Definition 2:</strong> A group of laborers under one foreman; a squad.<p><strong>Example:</strong> a gang of sailors; a railroad gang</p></li><li><strong>Definition 3:</strong> A criminal group with a common cultural background and identifying features, often associated with a particular section of a city.<p><strong>Example:</strong> a youth gang; a neighborhood gang; motorcycle gang.</p></li><li><strong>Definition 4:</strong> A group of criminals or alleged criminals who band together for mutual protection and profit.<p><strong>Example:</strong> The Winter Hill Gang was quite proficient at murdering rival mobsters in order to take over their rackets.</p></li><li><strong>Definition 5:</strong> A group of politicians united in furtherance of a political goal.<p><strong>Example:</strong> Not all members of the Gang of Six are consistent in their opposition to filibuster.</p></li><li><strong>Definition 6:</strong> A chain gang.</li><li><strong>Definition 7:</strong> A combination of similar tools or implements arranged so as, by acting together, to save time or labor; a set.<p><strong>Example:</strong> a gang of saws; a gang of plows.</p></li><li><strong>Definition 8:</strong> A set; all required for an outfit.<p><strong>Example:</strong> a new gang of stays.</p></li><li><strong>Definition 9:</strong> (electrics) A number of switches or other electrical devices wired into one unit and covered by one faceplate.<p><strong>Example:</strong> an outlet gang box; a double gang switch.</p></li><li><strong>Definition 10:</strong> (electrics) A group of wires attached as a bundle.<p><strong>Example:</strong> Do a drop for the telephone gang, then another drop for the Internet gang, both through the ceiling of the wiring closet.</p></li><li><strong>Definition 11:</strong> A going, journey; a course, path, track.</li><li><strong>Definition 12:</strong> An outhouse: an outbuilding used as a lavatory.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attach similar items together to form a larger unit.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To participate in a gangbang.<p><strong>Example:</strong> We all got to gangbang the porn star.</p></li><li><strong>Definition 2:</strong> To beat one or a smaller amount of people as a gang.</li><li><strong>Definition 3:</strong> To belong to a gang; to commit criminal acts as part of a gang.<p><strong>Example:</strong> It broke my heart to see him out there gangbanging.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The earthy waste substances occurring in metallic ore.</li></ul></div></div>"
+description: Yes, GANGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- bangs
+- cangs
+- dangs
+- fangs
+- ganks
+- gants
+- gings
+- gongs
+- hangs
+- kangs
+- mangs
+- pangs
+trap:
+  pattern: _ANGS
+  count: 15
+definitions:
+- pos: verb
+  defs:
+  - text: To go; walk; proceed.
+- pos: noun
+  defs:
+  - text: A number going in company; a number of friends or persons associated for
+      a particular purpose.
+    example: The gang from our office is going out for drinks Friday night.
+  - text: A group of laborers under one foreman; a squad.
+    example: a gang of sailors; a railroad gang
+  - text: A criminal group with a common cultural background and identifying features,
+      often associated with a particular section of a city.
+    example: a youth gang; a neighborhood gang; motorcycle gang.
+  - text: A group of criminals or alleged criminals who band together for mutual protection
+      and profit.
+    example: The Winter Hill Gang was quite proficient at murdering rival mobsters
+      in order to take over their rackets.
+  - text: A group of politicians united in furtherance of a political goal.
+    example: Not all members of the Gang of Six are consistent in their opposition
+      to filibuster.
+  - text: A chain gang.
+  - text: A combination of similar tools or implements arranged so as, by acting together,
+      to save time or labor; a set.
+    example: a gang of saws; a gang of plows.
+  - text: A set; all required for an outfit.
+    example: a new gang of stays.
+  - text: "(electrics) A number of switches or other electrical devices wired into
+      one unit and covered by one faceplate."
+    example: an outlet gang box; a double gang switch.
+  - text: "(electrics) A group of wires attached as a bundle."
+    example: Do a drop for the telephone gang, then another drop for the Internet
+      gang, both through the ceiling of the wiring closet.
+  - text: A going, journey; a course, path, track.
+  - text: 'An outhouse: an outbuilding used as a lavatory.'
+- pos: verb
+  defs:
+  - text: To attach similar items together to form a larger unit.
+- pos: verb
+  defs:
+  - text: To participate in a gangbang.
+    example: We all got to gangbang the porn star.
+  - text: To beat one or a smaller amount of people as a gang.
+  - text: To belong to a gang; to commit criminal acts as part of a gang.
+    example: It broke my heart to see him out there gangbanging.
+- pos: noun
+  defs:
+  - text: The earthy waste substances occurring in metallic ore.
 ---
-

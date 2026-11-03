@@ -1,7 +1,42 @@
 ---
 layout: word
-title: haler
+title: Is HALER a Wordle Word?
+head_title: Is HALER a Wordle Word? Yes – Valid Guess & Meaning
 word: haler
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈheɪlə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sound, entire, healthy; robust, not impaired.</li></ul></div></div>"
+description: Yes, HALER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- baler
+- hater
+- paler
+- haled
+- hales
+- haver
+- hayer
+- hazer
+- taler
+- waler
+phonetic: "/ˈheɪlə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Sound, entire, healthy; robust, not impaired.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: cites
+title: Is CITES a Wordle Word?
+head_title: Is CITES a Wordle Word? Yes – Valid Guess & Meaning
 word: cites
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /saɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To quote; to repeat, as a passage from a book, or the words of another.</li><li><strong>Definition 2:</strong> To list the source(s) from which one took information, words or literary or verbal context.</li><li><strong>Definition 3:</strong> To summon officially or authoritatively to appear in court.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A citation<p><strong>Example:</strong> We used the number of cites as a rough measure of the significance of each published paper.</p></li></ul></div></div>"
+description: Yes, CITES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- bites
+- cates
+- cetes
+- cides
+- cines
+- cires
+- cited
+- citee
+- citer
+- cives
+- cotes
+- cutes
+anagrams:
+- cesti
+- etics
+- tices
+trap:
+  pattern: _ITES
+  count: 12
+phonetic: "/saɪts/"
+definitions:
+- pos: verb
+  defs:
+  - text: To quote; to repeat, as a passage from a book, or the words of another.
+  - text: To list the source(s) from which one took information, words or literary
+      or verbal context.
+  - text: To summon officially or authoritatively to appear in court.
+- pos: noun
+  defs:
+  - text: A citation
+    example: We used the number of cites as a rough measure of the significance of
+      each published paper.
 ---
-

@@ -1,7 +1,67 @@
 ---
 layout: word
-title: slack
+title: Is SLACK a Wordle Word?
+head_title: Is SLACK a Wordle Word? Yes – Possible Answer & Meaning
 word: slack
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slæk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The part of anything that hangs loose, having no strain upon it.<p><strong>Example:</strong> take in the slack</p></li><li><strong>Definition 2:</strong> A tidal marsh or shallow that periodically fills and drains.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (normally said of a rope) Lax; not tense; not firmly extended.<p><strong>Example:</strong> a slack rope</p></li><li><strong>Definition 2:</strong> Weak; not holding fast.<p><strong>Example:</strong> a slack hand</p></li><li><strong>Definition 3:</strong> Lacking diligence or care; not earnest or eager.<p><strong>Example:</strong> slack in duty or service</p></li><li><strong>Definition 4:</strong> Not active,successful, or violent.<p><strong>Example:</strong> Business is slack.</p></li><li><strong>Definition 5:</strong> Excess; surplus to requirements.<p><strong>Example:</strong> the slack capacity of an oil pipeline</p></li><li><strong>Definition 6:</strong> Vulgar; sexually explicit, especially in dancehall music.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Slackly.<p><strong>Example:</strong> slack dried hops</p></li></ul></div></div>"
+description: Yes, SLACK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- black
+- clack
+- flack
+- shack
+- slick
+- smack
+- snack
+- stack
+- alack
+- plack
+- slank
+- spack
+anagrams:
+- calks
+- kcals
+- lacks
+trap:
+  pattern: S_ACK
+  count: 7
+phonetic: "/slæk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The part of anything that hangs loose, having no strain upon it.
+    example: take in the slack
+  - text: A tidal marsh or shallow that periodically fills and drains.
+- pos: adjective
+  defs:
+  - text: "(normally said of a rope) Lax; not tense; not firmly extended."
+    example: a slack rope
+  - text: Weak; not holding fast.
+    example: a slack hand
+  - text: Lacking diligence or care; not earnest or eager.
+    example: slack in duty or service
+  - text: Not active,successful, or violent.
+    example: Business is slack.
+  - text: Excess; surplus to requirements.
+    example: the slack capacity of an oil pipeline
+  - text: Vulgar; sexually explicit, especially in dancehall music.
+- pos: adverb
+  defs:
+  - text: Slackly.
+    example: slack dried hops
 ---
-

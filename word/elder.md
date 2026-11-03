@@ -1,7 +1,81 @@
 ---
 layout: word
-title: elder
+title: Is ELDER a Wordle Word?
+head_title: 'Is ELDER a Wordle Word? Yes – Past Answer #233 & Meaning'
 word: elder
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈeldə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An older person or an older member, usually a leader, of some community.<p><strong>Example:</strong> We were presented to the village elder.</p></li><li><strong>Definition 2:</strong> One who is older than another.<p><strong>Example:</strong> Respect your elders.</p></li><li><strong>Definition 3:</strong> One who lived at an earlier period; a predecessor.</li><li><strong>Definition 4:</strong> An officer of a church, sometimes having teaching responsibilities.</li><li><strong>Definition 5:</strong> A clergyman authorized to administer all the sacraments.<p><strong>Example:</strong> a travelling elder</p></li><li><strong>Definition 6:</strong> One ordained to the lowest office in the Melchizedek priesthood.<p><strong>Example:</strong> After being a member of the Church for a while, Bill was ordained to the office of elder.</p></li><li><strong>Definition 7:</strong> Male missionary.<p><strong>Example:</strong> The elders are coming over for dinner tonight.</p></li><li><strong>Definition 8:</strong> (often capitalized) Title for a male missionary; title for a general authority.<p><strong>Example:</strong> One of the long-time leaders in the Church is Elder Packer.</p></li><li><strong>Definition 9:</strong> A pagan or Heathen priest or priestess.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To admonish or reprove for improper conduct by the elders of the meeting.<p><strong>Example:</strong> I was eldered for directly responding to someone else's message in meeting for worship.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of an object, concept, relationship, etc., having existed for a relatively long period of time.<p><strong>Example:</strong> an old abandoned building;  an old friend</p></li><li><strong>Definition 2:</strong> Having been used and thus no longer new or unused.<p><strong>Example:</strong> I find that an old toothbrush is good to clean the keyboard with.</p></li><li><strong>Definition 3:</strong> Having existed or lived for the specified time.<p><strong>Example:</strong> How old are they? She’s five years old and he's seven. We also have a young teen and a two-year-old child.</p></li><li><strong>Definition 4:</strong> (heading) Of an earlier time.</li><li><strong>Definition 5:</strong> Tiresome after prolonged repetition.<p><strong>Example:</strong> Your constant pestering is getting old.</p></li><li><strong>Definition 6:</strong> Said of subdued colors, particularly reds, pinks and oranges, as if they had faded over time.</li><li><strong>Definition 7:</strong> A grammatical intensifier, often used in describing something positive. (Mostly in idioms like good old, big old and little old, any old and some old.)<p><strong>Example:</strong> We're having a good old time. My next car will be a big old SUV.  My wife makes the best little old apple pie in Texas.</p></li><li><strong>Definition 8:</strong> Excessive, abundant.</li></ul></div></div>"
+description: Yes, ELDER is a valid Wordle word. It was the Wordle answer on February
+  7, 2022 (#233). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 7, 2022 (#233).
+past_answers:
+- date: '2022-02-07'
+  number: 233
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- older
+- alder
+- eider
+- elver
+- ender
+anagrams:
+- lered
+phonetic: "/ˈeldə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An older person or an older member, usually a leader, of some community.
+    example: We were presented to the village elder.
+  - text: One who is older than another.
+    example: Respect your elders.
+  - text: One who lived at an earlier period; a predecessor.
+  - text: An officer of a church, sometimes having teaching responsibilities.
+  - text: A clergyman authorized to administer all the sacraments.
+    example: a travelling elder
+  - text: One ordained to the lowest office in the Melchizedek priesthood.
+    example: After being a member of the Church for a while, Bill was ordained to
+      the office of elder.
+  - text: Male missionary.
+    example: The elders are coming over for dinner tonight.
+  - text: "(often capitalized) Title for a male missionary; title for a general authority."
+    example: One of the long-time leaders in the Church is Elder Packer.
+  - text: A pagan or Heathen priest or priestess.
+- pos: verb
+  defs:
+  - text: To admonish or reprove for improper conduct by the elders of the meeting.
+    example: I was eldered for directly responding to someone else's message in meeting
+      for worship.
+- pos: adjective
+  defs:
+  - text: Of an object, concept, relationship, etc., having existed for a relatively
+      long period of time.
+    example: an old abandoned building;  an old friend
+  - text: Having been used and thus no longer new or unused.
+    example: I find that an old toothbrush is good to clean the keyboard with.
+  - text: Having existed or lived for the specified time.
+    example: How old are they? She’s five years old and he's seven. We also have a
+      young teen and a two-year-old child.
+  - text: "(heading) Of an earlier time."
+  - text: Tiresome after prolonged repetition.
+    example: Your constant pestering is getting old.
+  - text: Said of subdued colors, particularly reds, pinks and oranges, as if they
+      had faded over time.
+  - text: A grammatical intensifier, often used in describing something positive.
+      (Mostly in idioms like good old, big old and little old, any old and some old.)
+    example: We're having a good old time. My next car will be a big old SUV.  My
+      wife makes the best little old apple pie in Texas.
+  - text: Excessive, abundant.
 ---
-

@@ -1,7 +1,35 @@
 ---
 layout: word
-title: ackee
+title: Is ACKEE a Wordle Word?
+head_title: Is ACKEE a Wordle Word? Yes – Valid Guess & Meaning
 word: ackee
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈkiː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tropical evergreen tree, Blighia sapida, related to the lychee and longan.</li><li><strong>Definition 2:</strong> The fruit of the tree, of which only the arils are edible, the remainder being poisonous.<p><strong>Example:</strong> Ackee and saltfish is a traditional Jamaican dish.</p></li></ul></div></div>"
+description: Yes, ACKEE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- acker
+phonetic: "/əˈkiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A tropical evergreen tree, Blighia sapida, related to the lychee and longan.
+  - text: The fruit of the tree, of which only the arils are edible, the remainder
+      being poisonous.
+    example: Ackee and saltfish is a traditional Jamaican dish.
 ---
-

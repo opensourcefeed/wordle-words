@@ -1,7 +1,35 @@
 ---
 layout: word
-title: ceroc
+title: Is CEROC a Wordle Word?
+head_title: Is CEROC a Wordle Word? Yes – Valid Guess & Meaning
 word: ceroc
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A style of dance which combines salsa with jive and rock and roll.</li></ul></div></div>"
+description: Yes, CEROC is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - E
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- ceric
+- ceros
+anagrams:
+- recco
+definitions:
+- pos: noun
+  defs:
+  - text: A style of dance which combines salsa with jive and rock and roll.
 ---
-

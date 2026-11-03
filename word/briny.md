@@ -1,7 +1,40 @@
 ---
 layout: word
-title: briny
+title: Is BRINY a Wordle Word?
+head_title: 'Is BRINY a Wordle Word? Yes – Past Answer #1064 & Meaning'
 word: briny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɹaɪni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sea.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, pertaining to, resembling or containing brine; salty.</li></ul></div></div>"
+description: Yes, BRINY is a valid Wordle word. It was the Wordle answer on May 18,
+  2024 (#1064). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 18, 2024 (#1064).
+past_answers:
+- date: '2024-05-18'
+  number: 1064
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- brine
+- bring
+- brink
+- bliny
+- brins
+phonetic: "/ˈbɹaɪni/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sea.
+- pos: adjective
+  defs:
+  - text: Of, pertaining to, resembling or containing brine; salty.
 ---
-

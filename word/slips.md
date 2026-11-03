@@ -1,7 +1,39 @@
 ---
 layout: word
-title: slips
+title: Is SLIPS a Wordle Word?
+head_title: Is SLIPS a Wordle Word? Yes – Valid Guess
 word: slips
-meaning: ""
+description: Yes, SLIPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- blips
+- clips
+- flips
+- plips
+- ships
+- skips
+- slaps
+- slims
+- slipe
+- slipt
+- slits
+- slops
+anagrams:
+- lisps
 ---
-

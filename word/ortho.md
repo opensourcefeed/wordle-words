@@ -1,7 +1,36 @@
 ---
 layout: word
-title: ortho
+title: Is ORTHO a Wordle Word?
+head_title: Is ORTHO a Wordle Word? Yes – Valid Guess & Meaning
 word: ortho
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An isomer of a benzene derivative having two substituents adjacent on the ring.</li><li><strong>Definition 2:</strong> A certain type of flat eyepiece.</li><li><strong>Definition 3:</strong> An orthochromatic plate.</li><li><strong>Definition 4:</strong> (imaging) An orthophoto.</li><li><strong>Definition 5:</strong> Orthopedics.</li></ul></div></div>"
+description: Yes, ORTHO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+anagrams:
+- thoro
+definitions:
+- pos: noun
+  defs:
+  - text: An isomer of a benzene derivative having two substituents adjacent on the
+      ring.
+  - text: A certain type of flat eyepiece.
+  - text: An orthochromatic plate.
+  - text: "(imaging) An orthophoto."
+  - text: Orthopedics.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: farts
+title: Is FARTS a Wordle Word?
+head_title: Is FARTS a Wordle Word? Yes – Valid Guess & Meaning
 word: farts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɑːɹts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An emission of digestive gases from the anus; a flatus.</li><li><strong>Definition 2:</strong> (impolite) An irritating person; a fool.</li><li><strong>Definition 3:</strong> (impolite, potentially offensive) (usually as \"old fart\") An elderly person; especially one perceived to hold old-fashioned views.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (impolite) To emit digestive gases from the anus; to flatulate.</li><li><strong>Definition 2:</strong> (usually as \"fart around\") To waste time with idle and inconsequential tasks; to go about one's activities in a lackadaisical manner; to be lazy or over-relaxed in one's manner or bearing.</li><li><strong>Definition 3:</strong> To emit (fumes, gases, etc.).</li></ul></div></div>"
+description: Yes, FARTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- carts
+- darts
+- facts
+- fards
+- fares
+- farls
+- farms
+- faros
+- fasts
+- fauts
+- forts
+- harts
+anagrams:
+- frats
+- rafts
+trap:
+  pattern: _ARTS
+  count: 9
+phonetic: "/fɑːɹts/"
+definitions:
+- pos: noun
+  defs:
+  - text: An emission of digestive gases from the anus; a flatus.
+  - text: "(impolite) An irritating person; a fool."
+  - text: (impolite, potentially offensive) (usually as "old fart") An elderly person;
+      especially one perceived to hold old-fashioned views.
+- pos: verb
+  defs:
+  - text: "(impolite) To emit digestive gases from the anus; to flatulate."
+  - text: (usually as "fart around") To waste time with idle and inconsequential tasks;
+      to go about one's activities in a lackadaisical manner; to be lazy or over-relaxed
+      in one's manner or bearing.
+  - text: To emit (fumes, gases, etc.).
 ---
-

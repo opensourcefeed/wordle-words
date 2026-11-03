@@ -1,7 +1,42 @@
 ---
 layout: word
-title: mocky
+title: Is MOCKY a Wordle Word?
+head_title: Is MOCKY a Wordle Word? Yes – Valid Guess & Meaning
 word: mocky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A Jew.</li></ul></div></div>"
+description: Yes, MOCKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- mucky
+- rocky
+- cocky
+- jocky
+- locky
+- micky
+- moaky
+- mochy
+- mocks
+- mokky
+- pocky
+- tocky
+trap:
+  pattern: _OCKY
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A Jew.
 ---
-

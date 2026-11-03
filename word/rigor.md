@@ -1,7 +1,42 @@
 ---
 layout: word
-title: rigor
+title: Is RIGOR a Wordle Word?
+head_title: Is RIGOR a Wordle Word? Yes – Possible Answer & Meaning
 word: rigor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪɡɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Short for rigor mortis.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Severity or strictness.</li><li><strong>Definition 2:</strong> Harshness, as of climate.</li><li><strong>Definition 3:</strong> A trembling or shivering response.</li><li><strong>Definition 4:</strong> Character of being unyielding or inflexible.</li><li><strong>Definition 5:</strong> Shrewd questioning.</li><li><strong>Definition 6:</strong> Higher level of difficulty.</li></ul></div></div>"
+description: Yes, RIGOR is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- vigor
+- rigol
+phonetic: "/ɹɪɡɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Short for rigor mortis.
+- pos: noun
+  defs:
+  - text: Severity or strictness.
+  - text: Harshness, as of climate.
+  - text: A trembling or shivering response.
+  - text: Character of being unyielding or inflexible.
+  - text: Shrewd questioning.
+  - text: Higher level of difficulty.
 ---
-

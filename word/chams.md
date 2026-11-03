@@ -1,7 +1,58 @@
 ---
 layout: word
-title: chams
+title: Is CHAMS a Wordle Word?
+head_title: Is CHAMS a Wordle Word? Yes – Valid Guess & Meaning
 word: chams
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An autocrat or dominant critic, especially Samuel Johnson.<p><strong>Example:</strong> 1997: \"Sitting at a table, drinking Ale, observing the Mist thro’ the Window-Panes, Mason forty-five, the Cham sixty-four.\" — Thomas Pynchon, Mason & Dixon</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A ruler over various Turkish, Tatar and Mongol peoples in the Middle Ages.</li><li><strong>Definition 2:</strong> An Ottoman sultan.</li><li><strong>Definition 3:</strong> A noble or man of rank in various Muslim countries of Central Asia, including Afghanistan.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A caravanserai; a resting-place for a travelling caravan.</li></ul></div></div>"
+description: Yes, CHAMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- champ
+- chaos
+- chads
+- chais
+- chals
+- chaps
+- chars
+- chats
+- chavs
+- chaws
+- chays
+- chems
+anagrams:
+- chasm
+- machs
+trap:
+  pattern: CHA_S
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: An autocrat or dominant critic, especially Samuel Johnson.
+    example: '1997: "Sitting at a table, drinking Ale, observing the Mist thro’ the
+      Window-Panes, Mason forty-five, the Cham sixty-four." — Thomas Pynchon, Mason
+      & Dixon'
+- pos: noun
+  defs:
+  - text: A ruler over various Turkish, Tatar and Mongol peoples in the Middle Ages.
+  - text: An Ottoman sultan.
+  - text: A noble or man of rank in various Muslim countries of Central Asia, including
+      Afghanistan.
+- pos: noun
+  defs:
+  - text: A caravanserai; a resting-place for a travelling caravan.
 ---
-

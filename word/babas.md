@@ -1,7 +1,54 @@
 ---
 layout: word
-title: babas
+title: Is BABAS a Wordle Word?
+head_title: Is BABAS a Wordle Word? Yes – Valid Guess & Meaning
 word: babas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind of sponge cake soaked in rum-flavoured syrup.</li><li><strong>Definition 2:</strong> (esp. among people of East European ancestry) A grandmother.</li><li><strong>Definition 3:</strong> An old woman, especially a traditional old woman from an eastern European culture.</li><li><strong>Definition 4:</strong> (esp. among people of Indian ancestry) A father.</li><li><strong>Definition 5:</strong> (Hinduism, Islam, Sikhism) A holy man, a spiritual leader.</li><li><strong>Definition 6:</strong> A baby, child.</li><li><strong>Definition 7:</strong> In baby talk, often used for a variety of words beginning with b, such as bottle or blanket.</li></ul></div></div>"
+description: Yes, BABAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - B
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- babes
+- babus
+- balas
+- bamas
+- basas
+- bayas
+- bazas
+- bobas
+- bubas
+- cabas
+- yabas
+anagrams:
+- abbas
+trap:
+  pattern: BA_AS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of sponge cake soaked in rum-flavoured syrup.
+  - text: "(esp. among people of East European ancestry) A grandmother."
+  - text: An old woman, especially a traditional old woman from an eastern European
+      culture.
+  - text: "(esp. among people of Indian ancestry) A father."
+  - text: "(Hinduism, Islam, Sikhism) A holy man, a spiritual leader."
+  - text: A baby, child.
+  - text: In baby talk, often used for a variety of words beginning with b, such as
+      bottle or blanket.
 ---
-

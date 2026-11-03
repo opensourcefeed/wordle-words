@@ -1,7 +1,44 @@
 ---
 layout: word
-title: whizz
+title: Is WHIZZ a Wordle Word?
+head_title: Is WHIZZ a Wordle Word? Yes – Valid Guess & Meaning
 word: whizz
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A whirring or hissing sound (as above).</li><li><strong>Definition 2:</strong> Someone who is remarkably skilled at something.</li><li><strong>Definition 3:</strong> (especially with the verb \"take\") An act of urination.<p><strong>Example:</strong> I have to take a whiz.</p></li><li><strong>Definition 4:</strong> Amphetamine.</li><li><strong>Definition 5:</strong> (with \"the\") Pickpocketing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a whirring or hissing sound, similar to that of an object speeding through the air.</li><li><strong>Definition 2:</strong> To rush or move swiftly with such a sound.</li><li><strong>Definition 3:</strong> To throw or spin rapidly.</li><li><strong>Definition 4:</strong> To urinate.<p><strong>Example:</strong> We whizzed in the bushes.</p></li></ul></div></div>"
+description: Yes, WHIZZ is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - Z
+  common:
+  - I
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- chizz
+- phizz
+definitions:
+- pos: noun
+  defs:
+  - text: A whirring or hissing sound (as above).
+  - text: Someone who is remarkably skilled at something.
+  - text: (especially with the verb "take") An act of urination.
+    example: I have to take a whiz.
+  - text: Amphetamine.
+  - text: (with "the") Pickpocketing.
+- pos: verb
+  defs:
+  - text: To make a whirring or hissing sound, similar to that of an object speeding
+      through the air.
+  - text: To rush or move swiftly with such a sound.
+  - text: To throw or spin rapidly.
+  - text: To urinate.
+    example: We whizzed in the bushes.
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: dealt
+title: Is DEALT a Wordle Word?
+head_title: 'Is DEALT a Wordle Word? Yes – Past Answer #1914 & Meaning'
 word: dealt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɛlt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To distribute among a number of recipients, to give out as one’s portion or share.<p><strong>Example:</strong> The fighting is over; now we deal out the spoils of victory.</p></li><li><strong>Definition 2:</strong> To administer or give out, as in small portions.</li><li><strong>Definition 3:</strong> To distribute cards to the players in a game.<p><strong>Example:</strong> I was dealt four aces.</p></li><li><strong>Definition 4:</strong> To pitch.<p><strong>Example:</strong> The whole crowd waited for him to deal a real humdinger.</p></li><li><strong>Definition 5:</strong> To have dealings or business.</li><li><strong>Definition 6:</strong> To conduct oneself, to behave.</li><li><strong>Definition 7:</strong> To take action; to act.</li><li><strong>Definition 8:</strong> To trade professionally (followed by in).<p><strong>Example:</strong> She deals in gold.</p></li><li><strong>Definition 9:</strong> To sell, especially to sell illicit drugs.<p><strong>Example:</strong> This club takes a dim view of members who deal drugs.</p></li><li><strong>Definition 10:</strong> To be concerned with.</li><li><strong>Definition 11:</strong> To handle, to manage, to cope.<p><strong>Example:</strong> I can't deal with this.</p></li></ul></div></div>"
+description: Yes, DEALT is a valid Wordle word. It was the Wordle answer on September
+  15, 2026 (#1914). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 15, 2026 (#1914).
+past_answers:
+- date: '2026-09-15'
+  number: 1914
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - L
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- deals
+anagrams:
+- delta
+- lated
+phonetic: "/ˈdɛlt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To distribute among a number of recipients, to give out as one’s portion
+      or share.
+    example: The fighting is over; now we deal out the spoils of victory.
+  - text: To administer or give out, as in small portions.
+  - text: To distribute cards to the players in a game.
+    example: I was dealt four aces.
+  - text: To pitch.
+    example: The whole crowd waited for him to deal a real humdinger.
+  - text: To have dealings or business.
+  - text: To conduct oneself, to behave.
+  - text: To take action; to act.
+  - text: To trade professionally (followed by in).
+    example: She deals in gold.
+  - text: To sell, especially to sell illicit drugs.
+    example: This club takes a dim view of members who deal drugs.
+  - text: To be concerned with.
+  - text: To handle, to manage, to cope.
+    example: I can't deal with this.
 ---
-

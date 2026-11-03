@@ -1,7 +1,60 @@
 ---
 layout: word
-title: goods
+title: Is GOODS a Wordle Word?
+head_title: Is GOODS a Wordle Word? Yes – Valid Guess & Meaning
 word: goods
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡʊdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.</li><li><strong>Definition 2:</strong> A result that is positive in the view of the speaker.</li><li><strong>Definition 3:</strong> The abstract instantiation of goodness; that which possesses desirable qualities, promotes success, welfare, or happiness, is serviceable, fit, excellent, kind, benevolent, etc.<p><strong>Example:</strong> The best is the enemy of the good.</p></li><li><strong>Definition 4:</strong> (usually in the plural) An item of merchandise.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is produced, then traded, bought or sold, then finally consumed.</li><li><strong>Definition 2:</strong> (often preceded by the) Something authentic, important, or revealing.</li><li><strong>Definition 3:</strong> Freight (not passengers)</li><li><strong>Definition 4:</strong> Short for goods train.</li></ul></div></div>"
+description: Yes, GOODS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- goody
+- foods
+- goads
+- golds
+- goodo
+- goofs
+- googs
+- gools
+- goons
+- goops
+- goors
+- gowds
+anagrams:
+- godso
+trap:
+  pattern: GOO_S
+  count: 8
+phonetic: "/ɡʊdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The forces or behaviours that are the enemy of evil. Usually consists of
+      helping others and general benevolence.
+  - text: A result that is positive in the view of the speaker.
+  - text: The abstract instantiation of goodness; that which possesses desirable qualities,
+      promotes success, welfare, or happiness, is serviceable, fit, excellent, kind,
+      benevolent, etc.
+    example: The best is the enemy of the good.
+  - text: "(usually in the plural) An item of merchandise."
+- pos: noun
+  defs:
+  - text: That which is produced, then traded, bought or sold, then finally consumed.
+  - text: "(often preceded by the) Something authentic, important, or revealing."
+  - text: Freight (not passengers)
+  - text: Short for goods train.
 ---
-

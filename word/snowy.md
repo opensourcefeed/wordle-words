@@ -1,7 +1,41 @@
 ---
 layout: word
-title: snowy
+title: Is SNOWY a Wordle Word?
+head_title: 'Is SNOWY a Wordle Word? Yes – Past Answer #1917 & Meaning'
 word: snowy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /snəʊi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Marked by snow, characterized by snow.<p><strong>Example:</strong> snowy day</p></li><li><strong>Definition 2:</strong> Covered with snow, snow-covered, besnowed.<p><strong>Example:</strong> snowy hillside</p></li><li><strong>Definition 3:</strong> Snow-white in color, white as snow.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large, white, nomadic Arctic owl, Bubo scandiacus.</li></ul></div></div>"
+description: Yes, SNOWY is a valid Wordle word. It was the Wordle answer on September
+  18, 2026 (#1917). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 18, 2026 (#1917).
+past_answers:
+- date: '2026-09-18'
+  number: 1917
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- showy
+- snowk
+- snows
+phonetic: "/snəʊi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Marked by snow, characterized by snow.
+    example: snowy day
+  - text: Covered with snow, snow-covered, besnowed.
+    example: snowy hillside
+  - text: Snow-white in color, white as snow.
+- pos: noun
+  defs:
+  - text: A large, white, nomadic Arctic owl, Bubo scandiacus.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: withy
+title: Is WITHY a Wordle Word?
+head_title: Is WITHY a Wordle Word? Yes – Valid Guess & Meaning
 word: withy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɪð.i/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The osier (Salix viminalis), a type of willow.</li><li><strong>Definition 2:</strong> A long flexible twig of the osier; a withe.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Flexible, like a withe.</li></ul></div></div>"
+description: Yes, WITHY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- pithy
+- witty
+- withe
+- withs
+anagrams:
+- whity
+phonetic: "/ˈwɪð.i/"
+definitions:
+- pos: noun
+  defs:
+  - text: The osier (Salix viminalis), a type of willow.
+  - text: A long flexible twig of the osier; a withe.
+- pos: adjective
+  defs:
+  - text: Flexible, like a withe.
 ---
-

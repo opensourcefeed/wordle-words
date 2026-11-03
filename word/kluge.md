@@ -1,7 +1,35 @@
 ---
 layout: word
-title: kluge
+title: Is KLUGE a Wordle Word?
+head_title: Is KLUGE a Wordle Word? Yes – Valid Guess & Meaning
 word: kluge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kluːdʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To build or use a kludge.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something that should not work, but does.</li><li><strong>Definition 2:</strong> A device assembled from components intended for disparate purposes.</li></ul></div></div>"
+description: Yes, KLUGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+anagrams:
+- kugel
+phonetic: "/kluːdʒ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To build or use a kludge.
+- pos: noun
+  defs:
+  - text: Something that should not work, but does.
+  - text: A device assembled from components intended for disparate purposes.
 ---
-

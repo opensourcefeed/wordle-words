@@ -1,7 +1,51 @@
 ---
 layout: word
-title: nixes
+title: Is NIXES a Wordle Word?
+head_title: Is NIXES a Wordle Word? Yes – Valid Guess & Meaning
 word: nixes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make something become nothing; to reject or cancel.<p><strong>Example:</strong> Nix the last order – the customer walked out.</p></li><li><strong>Definition 2:</strong> To destroy or eradicate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Nothing</li></ul></div></div>"
+description: Yes, NIXES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare:
+  - X
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- aixes
+- fixes
+- mixes
+- nides
+- nifes
+- nines
+- nites
+- nixed
+- nixer
+- noxes
+- pixes
+- sixes
+trap:
+  pattern: _IXES
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To make something become nothing; to reject or cancel.
+    example: Nix the last order – the customer walked out.
+  - text: To destroy or eradicate.
+- pos: noun
+  defs:
+  - text: Nothing
 ---
-

@@ -1,6 +1,33 @@
 ---
 layout: word
-title: plock
+title: Is PLOCK a Wordle Word?
+head_title: Is PLOCK a Wordle Word? Yes – Valid Guess
 word: plock
+description: Yes, PLOCK is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- block
+- clock
+- flock
+- pluck
+- plack
+- pleck
+- ploce
+- plonk
+- plook
+- plouk
 ---
-

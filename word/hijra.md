@@ -1,7 +1,34 @@
 ---
 layout: word
-title: hijra
+title: Is HIJRA a Wordle Word?
+head_title: Is HIJRA a Wordle Word? Yes – Valid Guess & Meaning
 word: hijra
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A eunuch in South Asia, especially one who dresses as a woman.</li><li><strong>Definition 2:</strong> A (typically biologically male or intersex, but sometimes biologically female) member of a somewhat feminine third gender found in India and Pakistan.</li></ul></div></div>"
+description: Yes, HIJRA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- hejra
+definitions:
+- pos: noun
+  defs:
+  - text: A eunuch in South Asia, especially one who dresses as a woman.
+  - text: A (typically biologically male or intersex, but sometimes biologically female)
+      member of a somewhat feminine third gender found in India and Pakistan.
 ---
-

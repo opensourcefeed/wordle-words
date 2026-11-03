@@ -1,7 +1,66 @@
 ---
 layout: word
-title: gaffs
+title: Is GAFFS a Wordle Word?
+head_title: Is GAFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: gaffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tool consisting of a large metal hook with a handle or pole, especially the one used to pull large fish aboard a boat.</li><li><strong>Definition 2:</strong> A minor error or faux pas, a gaffe.<p><strong>Example:</strong> We politely ignored his gaff.</p></li><li><strong>Definition 3:</strong> A trick or con.<p><strong>Example:</strong> The sideshow feat was just a gaff, but the audience was too proud to admit they'd been fooled.</p></li><li><strong>Definition 4:</strong> The upper spar used to control a gaff-rigged sail.</li><li><strong>Definition 5:</strong> A garment worn to hide the genitals.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a gaff, especially to land a fish.</li><li><strong>Definition 2:</strong> To cheat or hoax.</li><li><strong>Definition 3:</strong> To gamble.</li><li><strong>Definition 4:</strong> To affix or cover with gaffer tape.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (especially Manchester and Cockney) A place of residence.<p><strong>Example:</strong> We're going round to Mike's gaff later to watch the footie.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sturdy adhesive tape, made of plastic reinforced with cross-linked fibre, often used by lighting electricians.</li></ul></div></div>"
+description: Yes, GAFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- gaffe
+- baffs
+- caffs
+- daffs
+- faffs
+- goffs
+- guffs
+- haffs
+- naffs
+- raffs
+- waffs
+- yaffs
+trap:
+  pattern: _AFFS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A tool consisting of a large metal hook with a handle or pole, especially
+      the one used to pull large fish aboard a boat.
+  - text: A minor error or faux pas, a gaffe.
+    example: We politely ignored his gaff.
+  - text: A trick or con.
+    example: The sideshow feat was just a gaff, but the audience was too proud to
+      admit they'd been fooled.
+  - text: The upper spar used to control a gaff-rigged sail.
+  - text: A garment worn to hide the genitals.
+- pos: verb
+  defs:
+  - text: To use a gaff, especially to land a fish.
+  - text: To cheat or hoax.
+  - text: To gamble.
+  - text: To affix or cover with gaffer tape.
+- pos: noun
+  defs:
+  - text: "(especially Manchester and Cockney) A place of residence."
+    example: We're going round to Mike's gaff later to watch the footie.
+- pos: noun
+  defs:
+  - text: A sturdy adhesive tape, made of plastic reinforced with cross-linked fibre,
+      often used by lighting electricians.
 ---
-

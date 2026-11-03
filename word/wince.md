@@ -1,7 +1,53 @@
 ---
 layout: word
-title: wince
+title: Is WINCE a Wordle Word?
+head_title: 'Is WINCE a Wordle Word? Yes – Past Answer #217 & Meaning'
 word: wince
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɪns/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden movement or gesture of shrinking away.</li><li><strong>Definition 2:</strong> A reel used in dyeing, steeping, or washing cloth; a winch. It is placed over the division wall between two wince pits so as to allow the cloth to descend into either compartment at will.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flinch as if in pain or distress.</li><li><strong>Definition 2:</strong> To wash (cloth), dip it in dye, etc., with the use of a wince.</li><li><strong>Definition 3:</strong> To kick or flounce when unsteady or impatient.<p><strong>Example:</strong> A horse winces.</p></li></ul></div></div>"
+description: Yes, WINCE is a valid Wordle word. It was the Wordle answer on January
+  22, 2022 (#217). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 22, 2022 (#217).
+past_answers:
+- date: '2022-01-22'
+  number: 217
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- mince
+- since
+- winch
+- pince
+- rince
+- winge
+- winze
+- yince
+trap:
+  pattern: _INCE
+  count: 6
+phonetic: "/wɪns/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden movement or gesture of shrinking away.
+  - text: A reel used in dyeing, steeping, or washing cloth; a winch. It is placed
+      over the division wall between two wince pits so as to allow the cloth to descend
+      into either compartment at will.
+- pos: verb
+  defs:
+  - text: To flinch as if in pain or distress.
+  - text: To wash (cloth), dip it in dye, etc., with the use of a wince.
+  - text: To kick or flounce when unsteady or impatient.
+    example: A horse winces.
 ---
-

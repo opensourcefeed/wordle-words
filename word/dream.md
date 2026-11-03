@@ -1,7 +1,58 @@
 ---
 layout: word
-title: dream
+title: Is DREAM a Wordle Word?
+head_title: 'Is DREAM a Wordle Word? Yes – Past Answer #504 & Meaning'
 word: dream
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹiːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Imaginary events seen in the mind while sleeping.</li><li><strong>Definition 2:</strong> A hope or wish.</li><li><strong>Definition 3:</strong> A visionary scheme; a wild conceit; an idle fancy.<p><strong>Example:</strong> a dream of bliss</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To see imaginary events in one's mind while sleeping.</li><li><strong>Definition 2:</strong> To hope, to wish.</li><li><strong>Definition 3:</strong> To daydream.<p><strong>Example:</strong> Stop dreaming and get back to work.</p></li><li><strong>Definition 4:</strong> To envision as an imaginary experience (usually when asleep).<p><strong>Example:</strong> I dreamed a vivid dream last night.</p></li><li><strong>Definition 5:</strong> To consider the possibility (of).<p><strong>Example:</strong> I wouldn't dream of snubbing you in public.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Ideal; perfect.</li></ul></div></div>"
+description: Yes, DREAM is a valid Wordle word. It was the Wordle answer on November
+  5, 2022 (#504). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 5, 2022 (#504).
+past_answers:
+- date: '2022-11-05'
+  number: 504
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- cream
+- dread
+- bream
+- drear
+anagrams:
+- armed
+- derma
+- madre
+phonetic: "/dɹiːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Imaginary events seen in the mind while sleeping.
+  - text: A hope or wish.
+  - text: A visionary scheme; a wild conceit; an idle fancy.
+    example: a dream of bliss
+- pos: verb
+  defs:
+  - text: To see imaginary events in one's mind while sleeping.
+  - text: To hope, to wish.
+  - text: To daydream.
+    example: Stop dreaming and get back to work.
+  - text: To envision as an imaginary experience (usually when asleep).
+    example: I dreamed a vivid dream last night.
+  - text: To consider the possibility (of).
+    example: I wouldn't dream of snubbing you in public.
+- pos: adjective
+  defs:
+  - text: Ideal; perfect.
 ---
-

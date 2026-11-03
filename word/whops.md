@@ -1,7 +1,40 @@
 ---
 layout: word
-title: whops
+title: Is WHOPS a Wordle Word?
+head_title: Is WHOPS a Wordle Word? Yes – Valid Guess & Meaning
 word: whops
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blow or strike.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw or move (something) quickly, usually with an impact.<p><strong>Example:</strong> He angrily whopped the book onto the table.</p></li><li><strong>Definition 2:</strong> To administer corporal punishment</li></ul></div></div>"
+description: Yes, WHOPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- chops
+- shops
+- whaps
+- whips
+- whows
+- whups
+- woops
+definitions:
+- pos: noun
+  defs:
+  - text: A blow or strike.
+- pos: verb
+  defs:
+  - text: To throw or move (something) quickly, usually with an impact.
+    example: He angrily whopped the book onto the table.
+  - text: To administer corporal punishment
 ---
-

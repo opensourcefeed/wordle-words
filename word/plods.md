@@ -1,7 +1,40 @@
 ---
 layout: word
-title: plods
+title: Is PLODS a Wordle Word?
+head_title: Is PLODS a Wordle Word? Yes – Valid Guess & Meaning
 word: plods
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To walk or move slowly and heavily or laboriously (+ on, through, over).</li><li><strong>Definition 2:</strong> To trudge over or through.</li><li><strong>Definition 3:</strong> To toil; to drudge; especially, to study laboriously and patiently.</li></ul></div></div>"
+description: Yes, PLODS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- alods
+- clods
+- plops
+- plots
+- plows
+- ploys
+- pluds
+- poods
+- prods
+definitions:
+- pos: verb
+  defs:
+  - text: To walk or move slowly and heavily or laboriously (+ on, through, over).
+  - text: To trudge over or through.
+  - text: To toil; to drudge; especially, to study laboriously and patiently.
 ---
-

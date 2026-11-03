@@ -1,7 +1,64 @@
 ---
 layout: word
-title: plots
+title: Is PLOTS a Wordle Word?
+head_title: Is PLOTS a Wordle Word? Yes – Valid Guess & Meaning
 word: plots
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (authorship) The course of a story, comprising a series of incidents which are gradually unfolded, sometimes by unexpected means.</li><li><strong>Definition 2:</strong> An area or land used for building on or planting on.</li><li><strong>Definition 3:</strong> A graph or diagram drawn by hand or produced by a mechanical or electronic device.</li><li><strong>Definition 4:</strong> A secret plan to achieve an end, the end or means usually being illegal or otherwise questionable.<p><strong>Example:</strong> The assassination of Lincoln was part of a larger plot.</p></li><li><strong>Definition 5:</strong> Contrivance; deep reach thought; ability to plot or intrigue.</li><li><strong>Definition 6:</strong> Participation in any stratagem or conspiracy.</li><li><strong>Definition 7:</strong> A plan; a purpose.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To conceive (a crime, etc).<p><strong>Example:</strong> They had plotted a robbery.</p></li><li><strong>Definition 2:</strong> To trace out (a graph or diagram).<p><strong>Example:</strong> They plotted the number of edits per day.</p></li><li><strong>Definition 3:</strong> To mark (a point on a graph, chart, etc).<p><strong>Example:</strong> Every five minutes they plotted their position.</p></li><li><strong>Definition 4:</strong> To conceive a crime, misdeed, etc.<p><strong>Example:</strong> They were plotting against the king.</p></li></ul></div></div>"
+description: Yes, PLOTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- blots
+- clots
+- phots
+- plats
+- plets
+- plods
+- plops
+- plotz
+- plows
+- ploys
+- poots
+- pyots
+anagrams:
+- polts
+definitions:
+- pos: noun
+  defs:
+  - text: "(authorship) The course of a story, comprising a series of incidents which
+      are gradually unfolded, sometimes by unexpected means."
+  - text: An area or land used for building on or planting on.
+  - text: A graph or diagram drawn by hand or produced by a mechanical or electronic
+      device.
+  - text: A secret plan to achieve an end, the end or means usually being illegal
+      or otherwise questionable.
+    example: The assassination of Lincoln was part of a larger plot.
+  - text: Contrivance; deep reach thought; ability to plot or intrigue.
+  - text: Participation in any stratagem or conspiracy.
+  - text: A plan; a purpose.
+- pos: verb
+  defs:
+  - text: To conceive (a crime, etc).
+    example: They had plotted a robbery.
+  - text: To trace out (a graph or diagram).
+    example: They plotted the number of edits per day.
+  - text: To mark (a point on a graph, chart, etc).
+    example: Every five minutes they plotted their position.
+  - text: To conceive a crime, misdeed, etc.
+    example: They were plotting against the king.
 ---
-

@@ -1,7 +1,40 @@
 ---
 layout: word
-title: waive
+title: Is WAIVE a Wordle Word?
+head_title: Is WAIVE a Wordle Word? Yes – Possible Answer & Meaning
 word: waive
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /weɪv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To relinquish (a right etc.); to give up claim to; to forego.<p><strong>Example:</strong> If you waive the right to be silent, anything you say can be used against you in a court of law.</p></li><li><strong>Definition 2:</strong> To put aside, avoid.</li><li><strong>Definition 3:</strong> To outlaw (someone).</li><li><strong>Definition 4:</strong> To abandon, give up (someone or something).</li></ul></div></div>"
+description: Yes, WAIVE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- naive
+- waide
+- waite
+phonetic: "/weɪv/"
+definitions:
+- pos: verb
+  defs:
+  - text: To relinquish (a right etc.); to give up claim to; to forego.
+    example: If you waive the right to be silent, anything you say can be used against
+      you in a court of law.
+  - text: To put aside, avoid.
+  - text: To outlaw (someone).
+  - text: To abandon, give up (someone or something).
 ---
-

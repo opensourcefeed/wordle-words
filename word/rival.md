@@ -1,7 +1,57 @@
 ---
 layout: word
-title: rival
+title: Is RIVAL a Wordle Word?
+head_title: 'Is RIVAL a Wordle Word? Yes – Past Answer #544 & Meaning'
 word: rival
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹaɪvəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A competitor (person, team, company, etc.) with the same goal as another, or striving to attain the same thing. Defeating a rival may be a primary or necessary goal of a competitor.<p><strong>Example:</strong> Chris is my biggest rival in the 400-metre race.</p></li><li><strong>Definition 2:</strong> Someone or something with similar claims of quality or distinction as another.<p><strong>Example:</strong> As a social historian, he has no rival.</p></li><li><strong>Definition 3:</strong> One having a common right or privilege with another; a partner.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To oppose or compete with.<p><strong>Example:</strong> to rival somebody in love</p></li><li><strong>Definition 2:</strong> To be equal to, or match, or to surpass another.</li><li><strong>Definition 3:</strong> To strive to equal or excel; to emulate.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the same pretensions or claims; standing in competition for superiority.<p><strong>Example:</strong> rival lovers; rival claims or pretensions</p></li></ul></div></div>"
+description: Yes, RIVAL is a valid Wordle word. It was the Wordle answer on December
+  15, 2022 (#544). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 15, 2022 (#544).
+past_answers:
+- date: '2022-12-15'
+  number: 544
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- nival
+- rivas
+- rivel
+- riyal
+anagrams:
+- viral
+phonetic: "/ˈɹaɪvəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A competitor (person, team, company, etc.) with the same goal as another,
+      or striving to attain the same thing. Defeating a rival may be a primary or
+      necessary goal of a competitor.
+    example: Chris is my biggest rival in the 400-metre race.
+  - text: Someone or something with similar claims of quality or distinction as another.
+    example: As a social historian, he has no rival.
+  - text: One having a common right or privilege with another; a partner.
+- pos: verb
+  defs:
+  - text: To oppose or compete with.
+    example: to rival somebody in love
+  - text: To be equal to, or match, or to surpass another.
+  - text: To strive to equal or excel; to emulate.
+- pos: adjective
+  defs:
+  - text: Having the same pretensions or claims; standing in competition for superiority.
+    example: rival lovers; rival claims or pretensions
 ---
-

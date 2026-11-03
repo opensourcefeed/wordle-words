@@ -1,7 +1,50 @@
 ---
 layout: word
-title: plait
+title: Is PLAIT a Wordle Word?
+head_title: 'Is PLAIT a Wordle Word? Yes – Past Answer #1019 & Meaning'
 word: plait
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pleɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A flat fold; a doubling, as of cloth; a pleat.<p><strong>Example:</strong> a box plait</p></li><li><strong>Definition 2:</strong> A braid, as of hair or straw; a plat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fold; to double in narrow folds; to pleat<p><strong>Example:</strong> to plait a ruffle</p></li><li><strong>Definition 2:</strong> To interweave the strands or locks of; to braid<p><strong>Example:</strong> plaiting rope</p></li></ul></div></div>"
+description: Yes, PLAIT is a valid Wordle word. It was the Wordle answer on April
+  3, 2024 (#1019). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 3, 2024 (#1019).
+past_answers:
+- date: '2024-04-03'
+  number: 1019
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- plaid
+- plain
+- plant
+- plaig
+- plast
+- platt
+- ploit
+phonetic: "/pleɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A flat fold; a doubling, as of cloth; a pleat.
+    example: a box plait
+  - text: A braid, as of hair or straw; a plat.
+- pos: verb
+  defs:
+  - text: To fold; to double in narrow folds; to pleat
+    example: to plait a ruffle
+  - text: To interweave the strands or locks of; to braid
+    example: plaiting rope
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: boars
+title: Is BOARS a Wordle Word?
+head_title: Is BOARS a Wordle Word? Yes – Valid Guess & Meaning
 word: boars
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɔːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wild boar (Sus scrofa), the wild ancestor of the domesticated pig.</li><li><strong>Definition 2:</strong> A male pig.</li><li><strong>Definition 3:</strong> A male boar (sense 1).</li><li><strong>Definition 4:</strong> A male bear.</li><li><strong>Definition 5:</strong> A male guinea pig.</li></ul></div></div>"
+description: Yes, BOARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- board
+- bears
+- boabs
+- boaks
+- boart
+- boats
+- boers
+- boors
+- bowrs
+- hoars
+- moars
+- roars
+anagrams:
+- boras
+trap:
+  pattern: _OARS
+  count: 6
+phonetic: "/bɔːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A wild boar (Sus scrofa), the wild ancestor of the domesticated pig.
+  - text: A male pig.
+  - text: A male boar (sense 1).
+  - text: A male bear.
+  - text: A male guinea pig.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: mozos
+title: Is MOZOS a Wordle Word?
+head_title: Is MOZOS a Wordle Word? Yes – Valid Guess & Meaning
 word: mozos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A male servant, especially an attendant to a bullfighter.</li><li><strong>Definition 2:</strong> A title of respect for a young man (usually unmarried) with or without a name used.</li><li><strong>Definition 3:</strong> An unmarried man, a boy.</li></ul></div></div>"
+description: Yes, MOZOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- bozos
+- mobos
+- mocos
+- mofos
+- mogos
+- mohos
+- mojos
+- mokos
+- molos
+- momos
+- monos
+- mozes
+anagrams:
+- zooms
+trap:
+  pattern: MO_OS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A male servant, especially an attendant to a bullfighter.
+  - text: A title of respect for a young man (usually unmarried) with or without a
+      name used.
+  - text: An unmarried man, a boy.
 ---
-

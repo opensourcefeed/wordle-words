@@ -1,7 +1,48 @@
 ---
 layout: word
-title: pubes
+title: Is PUBES a Wordle Word?
+head_title: Is PUBES a Wordle Word? Yes – Valid Guess & Meaning
 word: pubes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pjuːbiz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The pubic hair.</li><li><strong>Definition 2:</strong> The pubic region.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The pubic bone; the part of the hipbone forming the front arch of the pelvis</li></ul></div></div>"
+description: Yes, PUBES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- cubes
+- jubes
+- lubes
+- pubis
+- puces
+- pukes
+- pules
+- pures
+- puses
+- rubes
+- tubes
+trap:
+  pattern: _UBES
+  count: 6
+phonetic: "/pjuːbiz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The pubic hair.
+  - text: The pubic region.
+- pos: noun
+  defs:
+  - text: The pubic bone; the part of the hipbone forming the front arch of the pelvis
 ---
-

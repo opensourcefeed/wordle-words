@@ -1,7 +1,34 @@
 ---
 layout: word
-title: copha
+title: Is COPHA a Wordle Word?
+head_title: Is COPHA a Wordle Word? Yes – Valid Guess & Meaning
 word: copha
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkəʊfə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vegetable shortening made of coconut oil, used in cooking.</li></ul></div></div>"
+description: Yes, COPHA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- copra
+anagrams:
+- phoca
+- poach
+phonetic: "/ˈkəʊfə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A vegetable shortening made of coconut oil, used in cooking.
 ---
-

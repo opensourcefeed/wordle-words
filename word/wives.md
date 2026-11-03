@@ -1,7 +1,61 @@
 ---
 layout: word
-title: wives
+title: Is WIVES a Wordle Word?
+head_title: Is WIVES a Wordle Word? Yes – Valid Guess & Meaning
 word: wives
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /waɪvz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A married woman, especially in relation to her spouse.</li><li><strong>Definition 2:</strong> The female of a pair of mated animals.<p><strong>Example:</strong> A new wife for the gander is introduced into the pen.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An adult female human.</li><li><strong>Definition 2:</strong> (collective) All females collectively; womankind.</li><li><strong>Definition 3:</strong> A female person, usually an adult; a (generally adult) female sentient being, whether human, supernatural, elf, alien, etc.</li><li><strong>Definition 4:</strong> A wife (or sometimes a fiancée or girlfriend).</li><li><strong>Definition 5:</strong> A female who is extremely fond of or devoted to a specified type of thing. (Used as the last element of a compound.)</li><li><strong>Definition 6:</strong> A female attendant or servant.</li></ul></div></div>"
+description: Yes, WIVES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- cives
+- dives
+- fives
+- gives
+- hives
+- jives
+- lives
+- rives
+- vives
+- waves
+- wides
+- wifes
+anagrams:
+- swive
+- views
+trap:
+  pattern: _IVES
+  count: 10
+phonetic: "/waɪvz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A married woman, especially in relation to her spouse.
+  - text: The female of a pair of mated animals.
+    example: A new wife for the gander is introduced into the pen.
+- pos: noun
+  defs:
+  - text: An adult female human.
+  - text: "(collective) All females collectively; womankind."
+  - text: A female person, usually an adult; a (generally adult) female sentient being,
+      whether human, supernatural, elf, alien, etc.
+  - text: A wife (or sometimes a fiancée or girlfriend).
+  - text: A female who is extremely fond of or devoted to a specified type of thing.
+      (Used as the last element of a compound.)
+  - text: A female attendant or servant.
 ---
-

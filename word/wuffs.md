@@ -1,7 +1,58 @@
 ---
 layout: word
-title: wuffs
+title: Is WUFFS a Wordle Word?
+head_title: Is WUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: wuffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The set of yarns placed crosswise in a loom, interlaced with the warp, carried by the shuttle; weft.</li><li><strong>Definition 2:</strong> A fabric; the texture of a fabric.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sound a dog makes when barking.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a woofing sound.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Initialism of well-off older folks.</li><li><strong>Definition 2:</strong> Initialism of work on an organic farm.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wolf.</li></ul></div></div>"
+description: Yes, WUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- buffs
+- cuffs
+- duffs
+- fuffs
+- guffs
+- huffs
+- luffs
+- muffs
+- nuffs
+- puffs
+- ruffs
+- tuffs
+trap:
+  pattern: _UFFS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: The set of yarns placed crosswise in a loom, interlaced with the warp, carried
+      by the shuttle; weft.
+  - text: A fabric; the texture of a fabric.
+- pos: noun
+  defs:
+  - text: The sound a dog makes when barking.
+- pos: verb
+  defs:
+  - text: To make a woofing sound.
+- pos: noun
+  defs:
+  - text: Initialism of well-off older folks.
+  - text: Initialism of work on an organic farm.
+- pos: noun
+  defs:
+  - text: A wolf.
 ---
-

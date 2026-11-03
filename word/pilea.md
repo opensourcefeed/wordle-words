@@ -1,7 +1,43 @@
 ---
 layout: word
-title: pilea
+title: Is PILEA a Wordle Word?
+head_title: Is PILEA a Wordle Word? Yes – Valid Guess & Meaning
 word: pilea
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The top of a bird's head, from the base of the bill to the nape.</li></ul></div></div>"
+description: Yes, PILEA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- palea
+- piled
+- pilei
+- piler
+- piles
+- piley
+anagrams:
+- pilae
+trap:
+  pattern: PILE_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: The top of a bird's head, from the base of the bill to the nape.
 ---
-

@@ -1,7 +1,86 @@
 ---
 layout: word
-title: feels
+title: Is FEELS a Wordle Word?
+head_title: Is FEELS a Wordle Word? Yes – Valid Guess & Meaning
 word: feels
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fiːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to the emotions.<p><strong>Example:</strong> emotional crisis</p></li><li><strong>Definition 2:</strong> Characterised by emotion.</li><li><strong>Definition 3:</strong> Determined by emotion rather than reason.<p><strong>Example:</strong> emotional decision</p></li><li><strong>Definition 4:</strong> Appealing to or arousing emotion.<p><strong>Example:</strong> emotional speech</p></li><li><strong>Definition 5:</strong> Easily affected by emotion.<p><strong>Example:</strong> She’s an emotional person.</p></li><li><strong>Definition 6:</strong> Readily displaying emotion.<p><strong>Example:</strong> emotional greeting</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quality of an object experienced by touch.<p><strong>Example:</strong> Bark has a rough feel.</p></li><li><strong>Definition 2:</strong> A vague mental impression.<p><strong>Example:</strong> You should get a feel of the area before moving in.</p></li><li><strong>Definition 3:</strong> An act of fondling.<p><strong>Example:</strong> She gave me a quick feel to show that she loves me.</p></li><li><strong>Definition 4:</strong> A vague understanding.<p><strong>Example:</strong> I'm getting a feel for what you mean.</p></li><li><strong>Definition 5:</strong> An intuitive ability.<p><strong>Example:</strong> She has a feel for music.</p></li><li><strong>Definition 6:</strong> Alternative form of feeling.<p><strong>Example:</strong> I know that feel.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (heading) To use or experience the sense of touch.</li><li><strong>Definition 2:</strong> (heading) To sense or think emotionally or judgmentally.</li><li><strong>Definition 3:</strong> To be or become aware of.</li><li><strong>Definition 4:</strong> To experience the consequences of.<p><strong>Example:</strong> Feel my wrath!</p></li><li><strong>Definition 5:</strong> To seem (through touch or otherwise).<p><strong>Example:</strong> It looks like wood, but it feels more like plastic.</p></li><li><strong>Definition 6:</strong> To understand.<p><strong>Example:</strong> I don't want you back here, ya feel me?</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Feelings, emotions</li></ul></div></div>"
+description: Yes, FEELS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- feals
+- feebs
+- feeds
+- feely
+- feens
+- feers
+- fells
+- fuels
+- heels
+- jeels
+- keels
+- peels
+anagrams:
+- flees
+trap:
+  pattern: _EELS
+  count: 9
+phonetic: "/fiːlz/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to the emotions.
+    example: emotional crisis
+  - text: Characterised by emotion.
+  - text: Determined by emotion rather than reason.
+    example: emotional decision
+  - text: Appealing to or arousing emotion.
+    example: emotional speech
+  - text: Easily affected by emotion.
+    example: She’s an emotional person.
+  - text: Readily displaying emotion.
+    example: emotional greeting
+- pos: noun
+  defs:
+  - text: A quality of an object experienced by touch.
+    example: Bark has a rough feel.
+  - text: A vague mental impression.
+    example: You should get a feel of the area before moving in.
+  - text: An act of fondling.
+    example: She gave me a quick feel to show that she loves me.
+  - text: A vague understanding.
+    example: I'm getting a feel for what you mean.
+  - text: An intuitive ability.
+    example: She has a feel for music.
+  - text: Alternative form of feeling.
+    example: I know that feel.
+- pos: verb
+  defs:
+  - text: "(heading) To use or experience the sense of touch."
+  - text: "(heading) To sense or think emotionally or judgmentally."
+  - text: To be or become aware of.
+  - text: To experience the consequences of.
+    example: Feel my wrath!
+  - text: To seem (through touch or otherwise).
+    example: It looks like wood, but it feels more like plastic.
+  - text: To understand.
+    example: I don't want you back here, ya feel me?
+- pos: noun
+  defs:
+  - text: Feelings, emotions
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: blurs
+title: Is BLURS a Wordle Word?
+head_title: Is BLURS a Wordle Word? Yes – Valid Guess & Meaning
 word: blurs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blɜːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A smear, smudge or blot</li><li><strong>Definition 2:</strong> Something that appears hazy or indistinct</li><li><strong>Definition 3:</strong> A moral stain or blot.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make indistinct or hazy, to obscure or dim.<p><strong>Example:</strong> to blur a photograph by moving the camera while taking it</p></li><li><strong>Definition 2:</strong> To smear, stain or smudge.<p><strong>Example:</strong> to blur a manuscript by handling it while damp</p></li><li><strong>Definition 3:</strong> To become indistinct.</li><li><strong>Definition 4:</strong> To cause imperfection of vision in; to dim; to darken.</li><li><strong>Definition 5:</strong> To sully; to stain; to blemish, as reputation.</li><li><strong>Definition 6:</strong> To transfer the input focus away from.</li></ul></div></div>"
+description: Yes, BLURS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- blurb
+- blurt
+- baurs
+- blubs
+- bluds
+- blues
+- slurs
+anagrams:
+- burls
+- slurb
+phonetic: "/blɜːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A smear, smudge or blot
+  - text: Something that appears hazy or indistinct
+  - text: A moral stain or blot.
+- pos: verb
+  defs:
+  - text: To make indistinct or hazy, to obscure or dim.
+    example: to blur a photograph by moving the camera while taking it
+  - text: To smear, stain or smudge.
+    example: to blur a manuscript by handling it while damp
+  - text: To become indistinct.
+  - text: To cause imperfection of vision in; to dim; to darken.
+  - text: To sully; to stain; to blemish, as reputation.
+  - text: To transfer the input focus away from.
 ---
-

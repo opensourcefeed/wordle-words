@@ -1,7 +1,35 @@
 ---
 layout: word
-title: kiddo
+title: Is KIDDO a Wordle Word?
+head_title: Is KIDDO a Wordle Word? Yes – Valid Guess & Meaning
 word: kiddo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɪdoʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A close friend; especially used as a form of address.<p><strong>Example:</strong> Okay, kiddo, I gotta run.</p></li><li><strong>Definition 2:</strong> A child.</li></ul></div></div>"
+description: Yes, KIDDO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- kiddy
+- kideo
+phonetic: "/ˈkɪdoʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A close friend; especially used as a form of address.
+    example: Okay, kiddo, I gotta run.
+  - text: A child.
 ---
-

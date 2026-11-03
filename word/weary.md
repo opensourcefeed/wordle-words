@@ -1,7 +1,48 @@
 ---
 layout: word
-title: weary
+title: Is WEARY a Wordle Word?
+head_title: 'Is WEARY a Wordle Word? Yes – Past Answer #188 & Meaning'
 word: weary
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwiːɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make or to become weary.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the strength exhausted by toil or exertion; tired; fatigued.<p><strong>Example:</strong> A weary traveller knocked at the door.</p></li><li><strong>Definition 2:</strong> Having one's patience, relish, or contentment exhausted; tired; sick.<p><strong>Example:</strong> soldiers weary of marching, or of confinement;  I grew weary of studying and left the library.</p></li><li><strong>Definition 3:</strong> Expressive of fatigue.<p><strong>Example:</strong> He gave me a weary smile.</p></li><li><strong>Definition 4:</strong> Causing weariness; tiresome.</li></ul></div></div>"
+description: Yes, WEARY is a valid Wordle word. It was the Wordle answer on December
+  24, 2021 (#188). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 24, 2021 (#188).
+past_answers:
+- date: '2021-12-24'
+  number: 188
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- teary
+- deary
+- leary
+- wears
+phonetic: "/ˈwiːɹi/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make or to become weary.
+- pos: adjective
+  defs:
+  - text: Having the strength exhausted by toil or exertion; tired; fatigued.
+    example: A weary traveller knocked at the door.
+  - text: Having one's patience, relish, or contentment exhausted; tired; sick.
+    example: soldiers weary of marching, or of confinement;  I grew weary of studying
+      and left the library.
+  - text: Expressive of fatigue.
+    example: He gave me a weary smile.
+  - text: Causing weariness; tiresome.
 ---
-

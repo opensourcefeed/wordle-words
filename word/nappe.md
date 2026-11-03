@@ -1,7 +1,44 @@
 ---
 layout: word
-title: nappe
+title: Is NAPPE a Wordle Word?
+head_title: Is NAPPE a Wordle Word? Yes – Valid Guess & Meaning
 word: nappe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nap/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The profile of a body of water flowing over an obstruction in a vertical drop.</li><li><strong>Definition 2:</strong> Either of the two parts of a double cone.</li><li><strong>Definition 3:</strong> A sheet-like mass of rock that has been folded over adjacent strata.</li><li><strong>Definition 4:</strong> (hydraulics) Geological nappe whose underside is not in contact with the overflow structure and is at ambient atmospheric pressure.</li><li><strong>Definition 5:</strong> The ability of a liquid to coat the back of a spoon, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To coat (a food) with liquid.<p><strong>Example:</strong> to nappe a leg of lamb with glaze</p></li></ul></div></div>"
+description: Yes, NAPPE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- nappa
+- nappy
+- rappe
+phonetic: "/nap/"
+definitions:
+- pos: noun
+  defs:
+  - text: The profile of a body of water flowing over an obstruction in a vertical
+      drop.
+  - text: Either of the two parts of a double cone.
+  - text: A sheet-like mass of rock that has been folded over adjacent strata.
+  - text: "(hydraulics) Geological nappe whose underside is not in contact with the
+      overflow structure and is at ambient atmospheric pressure."
+  - text: The ability of a liquid to coat the back of a spoon, etc.
+- pos: verb
+  defs:
+  - text: To coat (a food) with liquid.
+    example: to nappe a leg of lamb with glaze
 ---
-

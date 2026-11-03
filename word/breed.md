@@ -1,7 +1,76 @@
 ---
 layout: word
-title: breed
+title: Is BREED a Wordle Word?
+head_title: 'Is BREED a Wordle Word? Yes – Past Answer #1024 & Meaning'
 word: breed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹiːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> All animals or plants of the same species or subspecies.<p><strong>Example:</strong> a breed of animal</p></li><li><strong>Definition 2:</strong> A race or lineage; offspring or issue.</li><li><strong>Definition 3:</strong> A group of people with shared characteristics.<p><strong>Example:</strong> People who were taught classical Greek and Latin at school are a dying breed.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce offspring sexually; to bear young.</li><li><strong>Definition 2:</strong> To give birth to; to be the native place of.<p><strong>Example:</strong> a pond breeds fish; a northern country breeds stout men</p></li><li><strong>Definition 3:</strong> Of animals, to mate.</li><li><strong>Definition 4:</strong> To keep animals and have them reproduce in a way that improves the next generation’s qualities.</li><li><strong>Definition 5:</strong> To arrange the mating of specific animals.<p><strong>Example:</strong> She wanted to breed her cow to the neighbor's registered bull.</p></li><li><strong>Definition 6:</strong> To propagate or grow plants trying to give them certain qualities.<p><strong>Example:</strong> He tries to breed blue roses.</p></li><li><strong>Definition 7:</strong> To take care of in infancy and through childhood; to bring up.</li><li><strong>Definition 8:</strong> To yield or result in.<p><strong>Example:</strong> disaster breeds famine;  familiarity breeds contempt</p></li><li><strong>Definition 9:</strong> To be formed in the parent or dam; to be generated, or to grow, like young before birth.</li><li><strong>Definition 10:</strong> (sometimes as breed up) To educate; to instruct; to bring up</li><li><strong>Definition 11:</strong> To produce or obtain by any natural process.</li><li><strong>Definition 12:</strong> To have birth; to be produced, developed or multiplied.</li><li><strong>Definition 13:</strong> To ejaculate inside someone's ass</li></ul></div></div>"
+description: Yes, BREED is a valid Wordle word. It was the Wordle answer on April
+  8, 2024 (#1024). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 8, 2024 (#1024).
+past_answers:
+- date: '2024-04-08'
+  number: 1024
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- bleed
+- bread
+- creed
+- freed
+- greed
+- breem
+- breer
+- brees
+- breid
+- dreed
+- preed
+- treed
+anagrams:
+- brede
+trap:
+  pattern: _REED
+  count: 7
+phonetic: "/bɹiːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: All animals or plants of the same species or subspecies.
+    example: a breed of animal
+  - text: A race or lineage; offspring or issue.
+  - text: A group of people with shared characteristics.
+    example: People who were taught classical Greek and Latin at school are a dying
+      breed.
+- pos: verb
+  defs:
+  - text: To produce offspring sexually; to bear young.
+  - text: To give birth to; to be the native place of.
+    example: a pond breeds fish; a northern country breeds stout men
+  - text: Of animals, to mate.
+  - text: To keep animals and have them reproduce in a way that improves the next
+      generation’s qualities.
+  - text: To arrange the mating of specific animals.
+    example: She wanted to breed her cow to the neighbor's registered bull.
+  - text: To propagate or grow plants trying to give them certain qualities.
+    example: He tries to breed blue roses.
+  - text: To take care of in infancy and through childhood; to bring up.
+  - text: To yield or result in.
+    example: disaster breeds famine;  familiarity breeds contempt
+  - text: To be formed in the parent or dam; to be generated, or to grow, like young
+      before birth.
+  - text: "(sometimes as breed up) To educate; to instruct; to bring up"
+  - text: To produce or obtain by any natural process.
+  - text: To have birth; to be produced, developed or multiplied.
+  - text: To ejaculate inside someone's ass
 ---
-

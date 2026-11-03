@@ -1,7 +1,45 @@
 ---
 layout: word
-title: kayak
+title: Is KAYAK a Wordle Word?
+head_title: 'Is KAYAK a Wordle Word? Yes – Past Answer #671 & Meaning'
 word: kayak
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkaɪˌæk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of small boat, covered over by a surface deck, powered by the occupant or occupants using a double-bladed paddle in a sitting position, from a hole in the surface deck</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a kayak, to travel or race in a kayak.<p><strong>Example:</strong> Kayaking is an Olympic sport.</p></li><li><strong>Definition 2:</strong> To traverse (a body of water) by kayak.<p><strong>Example:</strong> On a dare, he kayaked the Harlem River in New York from Hell's Gate to Spyten Duyvil.</p></li></ul></div></div>"
+description: Yes, KAYAK is a valid Wordle word. It was the Wordle answer on April
+  21, 2023 (#671). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 21, 2023 (#671).
+past_answers:
+- date: '2023-04-21'
+  number: 671
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - K
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- kaiak
+anagrams:
+- yakka
+phonetic: "/ˈkaɪˌæk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A type of small boat, covered over by a surface deck, powered by the occupant
+      or occupants using a double-bladed paddle in a sitting position, from a hole
+      in the surface deck
+- pos: verb
+  defs:
+  - text: To use a kayak, to travel or race in a kayak.
+    example: Kayaking is an Olympic sport.
+  - text: To traverse (a body of water) by kayak.
+    example: On a dare, he kayaked the Harlem River in New York from Hell's Gate to
+      Spyten Duyvil.
 ---
-

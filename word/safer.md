@@ -1,7 +1,68 @@
 ---
 layout: word
-title: safer
+title: Is SAFER a Wordle Word?
+head_title: Is SAFER a Wordle Word? Yes – Possible Answer & Meaning
 word: safer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not in danger; out of harm's reach.<p><strong>Example:</strong> You’ll be safe here.</p></li><li><strong>Definition 2:</strong> Free from risk.<p><strong>Example:</strong> It’s safe to eat this.</p></li><li><strong>Definition 3:</strong> Providing protection from danger; providing shelter.<p><strong>Example:</strong> We have to find a safe spot, where we can hide out until this is over.</p></li><li><strong>Definition 4:</strong> When a batter successfully reaches first base, or when a baserunner successfully advances to the next base or returns to the base he last occupied; not out.<p><strong>Example:</strong> The pitcher attempted to pick off the runner at first, but he was safe.</p></li><li><strong>Definition 5:</strong> Properly secured.<p><strong>Example:</strong> The documents are safe.</p></li><li><strong>Definition 6:</strong> (used after a noun, often forming a compound) Not susceptible to a specified source of harm.<p><strong>Example:</strong> dishwasher-safe</p></li><li><strong>Definition 7:</strong> Great, cool, awesome, respectable; a term of approbation, often as interjection.</li><li><strong>Definition 8:</strong> Lenient, usually describing a teacher that is easy-going.</li><li><strong>Definition 9:</strong> Reliable; trusty.</li><li><strong>Definition 10:</strong> Cautious.</li><li><strong>Definition 11:</strong> Of a programming language, type-safe or more generally offering well-defined behavior despite programming errors.</li></ul></div></div>"
+description: Yes, SAFER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- saner
+- wafer
+- saber
+- safed
+- safes
+- sager
+- saker
+- saser
+- sater
+- saver
+- sawer
+- sayer
+anagrams:
+- fares
+- farse
+- fears
+trap:
+  pattern: SA_ER
+  count: 10
+definitions:
+- pos: adjective
+  defs:
+  - text: Not in danger; out of harm's reach.
+    example: You’ll be safe here.
+  - text: Free from risk.
+    example: It’s safe to eat this.
+  - text: Providing protection from danger; providing shelter.
+    example: We have to find a safe spot, where we can hide out until this is over.
+  - text: When a batter successfully reaches first base, or when a baserunner successfully
+      advances to the next base or returns to the base he last occupied; not out.
+    example: The pitcher attempted to pick off the runner at first, but he was safe.
+  - text: Properly secured.
+    example: The documents are safe.
+  - text: "(used after a noun, often forming a compound) Not susceptible to a specified
+      source of harm."
+    example: dishwasher-safe
+  - text: Great, cool, awesome, respectable; a term of approbation, often as interjection.
+  - text: Lenient, usually describing a teacher that is easy-going.
+  - text: Reliable; trusty.
+  - text: Cautious.
+  - text: Of a programming language, type-safe or more generally offering well-defined
+      behavior despite programming errors.
 ---
-

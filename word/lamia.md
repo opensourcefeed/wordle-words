@@ -1,7 +1,38 @@
 ---
 layout: word
-title: lamia
+title: Is LAMIA a Wordle Word?
+head_title: Is LAMIA a Wordle Word? Yes – Valid Guess & Meaning
 word: lamia
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈleɪmɪə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A monster preying upon human beings and who sucked the blood of children, often described as having the head and breasts of a woman and the lower half of a serpent.</li></ul></div></div>"
+description: Yes, LAMIA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - L
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- labia
+- zamia
+anagrams:
+- malai
+phonetic: "/ˈleɪmɪə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A monster preying upon human beings and who sucked the blood of children,
+      often described as having the head and breasts of a woman and the lower half
+      of a serpent.
 ---
-

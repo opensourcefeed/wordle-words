@@ -1,7 +1,68 @@
 ---
 layout: word
-title: dings
+title: Is DINGS a Wordle Word?
+head_title: Is DINGS a Wordle Word? Yes – Valid Guess & Meaning
 word: dings
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Very minor damage, a small dent or chip.</li><li><strong>Definition 2:</strong> A rejection.<p><strong>Example:</strong> I just got my first ding letter.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit or strike.</li><li><strong>Definition 2:</strong> To dash; to throw violently.</li><li><strong>Definition 3:</strong> To inflict minor damage upon, especially by hitting or striking.</li><li><strong>Definition 4:</strong> To fire or reject.<p><strong>Example:</strong> His top school dinged him last week.</p></li><li><strong>Definition 5:</strong> To deduct, as points, from another, in the manner of a penalty; to penalize.<p><strong>Example:</strong> My bank dinged me three bucks for using their competitor's ATM.</p></li><li><strong>Definition 6:</strong> To mishit (a golf ball).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The high-pitched resonant sound of a bell.</li><li><strong>Definition 2:</strong> The act of levelling up.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make high-pitched sound like a bell.</li><li><strong>Definition 2:</strong> To keep repeating; impress by reiteration, with reference to the monotonous striking of a bell.</li><li><strong>Definition 3:</strong> To level up.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ancient Chinese vessel with legs and a lid.</li></ul></div></div>"
+description: Yes, DINGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 68
+neighbours:
+- dingo
+- dingy
+- bings
+- dangs
+- dines
+- dinge
+- dinks
+- dinos
+- dints
+- dongs
+- dungs
+- gings
+trap:
+  pattern: _INGS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: Very minor damage, a small dent or chip.
+  - text: A rejection.
+    example: I just got my first ding letter.
+- pos: verb
+  defs:
+  - text: To hit or strike.
+  - text: To dash; to throw violently.
+  - text: To inflict minor damage upon, especially by hitting or striking.
+  - text: To fire or reject.
+    example: His top school dinged him last week.
+  - text: To deduct, as points, from another, in the manner of a penalty; to penalize.
+    example: My bank dinged me three bucks for using their competitor's ATM.
+  - text: To mishit (a golf ball).
+- pos: noun
+  defs:
+  - text: The high-pitched resonant sound of a bell.
+  - text: The act of levelling up.
+- pos: verb
+  defs:
+  - text: To make high-pitched sound like a bell.
+  - text: To keep repeating; impress by reiteration, with reference to the monotonous
+      striking of a bell.
+  - text: To level up.
+- pos: noun
+  defs:
+  - text: An ancient Chinese vessel with legs and a lid.
 ---
-

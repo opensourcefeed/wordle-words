@@ -1,7 +1,46 @@
 ---
 layout: word
-title: viola
+title: Is VIOLA a Wordle Word?
+head_title: 'Is VIOLA a Wordle Word? Yes – Past Answer #840 & Meaning'
 word: viola
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /viˈoʊ.lə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stringed instrument of the violin family, somewhat larger than a violin, played under the chin, and having a deeper tone.</li><li><strong>Definition 2:</strong> An organ stop having a similar tone.</li><li><strong>Definition 3:</strong> A 10-string steel-string acoustic guitar, used in Brazilian folk music.</li><li><strong>Definition 4:</strong> A berimbau viola, the smallest member of the berimbau used in capoeira music.</li></ul></div></div>"
+description: Yes, VIOLA is a valid Wordle word. It was the Wordle answer on October
+  7, 2023 (#840). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 7, 2023 (#840).
+past_answers:
+- date: '2023-10-07'
+  number: 840
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- villa
+- viold
+- viols
+anagrams:
+- voila
+- oliva
+phonetic: "/viˈoʊ.lə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A stringed instrument of the violin family, somewhat larger than a violin,
+      played under the chin, and having a deeper tone.
+  - text: An organ stop having a similar tone.
+  - text: A 10-string steel-string acoustic guitar, used in Brazilian folk music.
+  - text: A berimbau viola, the smallest member of the berimbau used in capoeira music.
 ---
-

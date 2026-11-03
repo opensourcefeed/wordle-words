@@ -1,7 +1,62 @@
 ---
 layout: word
-title: hades
+title: Is HADES a Wordle Word?
+head_title: Is HADES a Wordle Word? Yes – Valid Guess & Meaning
 word: hades
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> State; order, estate, rank, degree, or quality.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slope; the slope of a vein, fault or dike from the vertical; the complement of the dip.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To slope or incline from the vertical.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A headland; a strip of land at the side of a field upon which a plough may be turned.</li></ul></div></div>"
+description: Yes, HADES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- cades
+- fades
+- gades
+- haded
+- hajes
+- hakes
+- hales
+- hames
+- hares
+- hates
+- haves
+- hazes
+anagrams:
+- shade
+- ashed
+- deash
+- heads
+- sadhe
+trap:
+  pattern: _ADES
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: State; order, estate, rank, degree, or quality.
+- pos: noun
+  defs:
+  - text: A slope; the slope of a vein, fault or dike from the vertical; the complement
+      of the dip.
+- pos: verb
+  defs:
+  - text: To slope or incline from the vertical.
+- pos: noun
+  defs:
+  - text: A headland; a strip of land at the side of a field upon which a plough may
+      be turned.
 ---
-

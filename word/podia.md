@@ -1,7 +1,39 @@
 ---
 layout: word
-title: podia
+title: Is PODIA a Wordle Word?
+head_title: Is PODIA a Wordle Word? Yes – Valid Guess & Meaning
 word: podia
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A platform on which to stand, as when conducting an orchestra or preaching at a pulpit.</li><li><strong>Definition 2:</strong> (sometimes proscribed) A stand used to hold notes when speaking publicly.</li><li><strong>Definition 3:</strong> A steepled platform upon which the three competitors with the best results may stand when being handed their medals or prize.</li><li><strong>Definition 4:</strong> A result amongst the best three at a competition.</li><li><strong>Definition 5:</strong> A low wall, serving as a foundation, a substructure, or a terrace wall.</li><li><strong>Definition 6:</strong> A foot or footstalk.</li></ul></div></div>"
+description: Yes, PODIA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- popia
+definitions:
+- pos: noun
+  defs:
+  - text: A platform on which to stand, as when conducting an orchestra or preaching
+      at a pulpit.
+  - text: "(sometimes proscribed) A stand used to hold notes when speaking publicly."
+  - text: A steepled platform upon which the three competitors with the best results
+      may stand when being handed their medals or prize.
+  - text: A result amongst the best three at a competition.
+  - text: A low wall, serving as a foundation, a substructure, or a terrace wall.
+  - text: A foot or footstalk.
 ---
-

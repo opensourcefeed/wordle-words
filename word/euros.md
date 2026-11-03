@@ -1,7 +1,46 @@
 ---
 layout: word
-title: euros
+title: Is EUROS a Wordle Word?
+head_title: Is EUROS a Wordle Word? Yes – Valid Guess & Meaning
 word: euros
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Person living or originating from Europe</li><li><strong>Definition 2:</strong> Person who resides within the European Union</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The currency unit of the European Monetary Union. Symbol: €</li><li><strong>Definition 2:</strong> A coin with a face value of 1 euro.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Macropus robustus, a wallaroo (macropod species).</li></ul></div></div>"
+description: Yes, EUROS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- duros
+- furos
+- puros
+anagrams:
+- rouse
+- roues
+definitions:
+- pos: noun
+  defs:
+  - text: Person living or originating from Europe
+  - text: Person who resides within the European Union
+- pos: noun
+  defs:
+  - text: 'The currency unit of the European Monetary Union. Symbol: €'
+  - text: A coin with a face value of 1 euro.
+- pos: noun
+  defs:
+  - text: Macropus robustus, a wallaroo (macropod species).
 ---
-

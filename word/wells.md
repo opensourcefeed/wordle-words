@@ -1,7 +1,77 @@
 ---
 layout: word
-title: wells
+title: Is WELLS a Wordle Word?
+head_title: Is WELLS a Wordle Word? Yes – Valid Guess & Meaning
 word: wells
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɛlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hole sunk into the ground as a source of water, oil, natural gas or other fluids.</li><li><strong>Definition 2:</strong> A place where a liquid such as water surfaces naturally; a spring.</li><li><strong>Definition 3:</strong> A small depression suitable for holding liquid or other objects.<p><strong>Example:</strong> Make a well in the dough mixture and pour in the milk.</p></li><li><strong>Definition 4:</strong> A source of supply.</li><li><strong>Definition 5:</strong> A vertical, cylindrical trunk in a ship, reaching down to the lowest part of the hull, through which the bilge pumps operate.</li><li><strong>Definition 6:</strong> The cockpit of a sailboat.</li><li><strong>Definition 7:</strong> A compartment in the middle of the hold of a fishing vessel, made tight at the sides, but having holes perforated in the bottom to let in water to keep fish alive while they are transported to market.</li><li><strong>Definition 8:</strong> A vertical passage in the stern into which an auxiliary screw propeller may be drawn up out of the water.</li><li><strong>Definition 9:</strong> A hole or excavation in the earth, in mining, from which run branches or galleries.</li><li><strong>Definition 10:</strong> An opening through the floors of a building, as for a staircase or an elevator; a wellhole.</li><li><strong>Definition 11:</strong> The open space between the bench and the counsel tables in a courtroom.</li><li><strong>Definition 12:</strong> The lower part of a furnace, into which the metal falls.</li><li><strong>Definition 13:</strong> A well drink.<p><strong>Example:</strong> They're having a special tonight: $1 wells.</p></li><li><strong>Definition 14:</strong> The playfield of Tetris and similar video games, into which the blocks fall.</li><li><strong>Definition 15:</strong> In a microtiter plate, each of the small equal circular or square sections which serve as test tubes.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To issue forth, as water from the earth; to flow; to spring.</li><li><strong>Definition 2:</strong> To have something seep out of the surface.<p><strong>Example:</strong> Her eyes welled with tears.</p></li></ul></div></div>"
+description: Yes, WELLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- bells
+- cells
+- dells
+- fells
+- hells
+- jells
+- kells
+- mells
+- pells
+- sells
+- tells
+- vells
+anagrams:
+- swell
+trap:
+  pattern: _ELLS
+  count: 14
+phonetic: "/wɛlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hole sunk into the ground as a source of water, oil, natural gas or other
+      fluids.
+  - text: A place where a liquid such as water surfaces naturally; a spring.
+  - text: A small depression suitable for holding liquid or other objects.
+    example: Make a well in the dough mixture and pour in the milk.
+  - text: A source of supply.
+  - text: A vertical, cylindrical trunk in a ship, reaching down to the lowest part
+      of the hull, through which the bilge pumps operate.
+  - text: The cockpit of a sailboat.
+  - text: A compartment in the middle of the hold of a fishing vessel, made tight
+      at the sides, but having holes perforated in the bottom to let in water to keep
+      fish alive while they are transported to market.
+  - text: A vertical passage in the stern into which an auxiliary screw propeller
+      may be drawn up out of the water.
+  - text: A hole or excavation in the earth, in mining, from which run branches or
+      galleries.
+  - text: An opening through the floors of a building, as for a staircase or an elevator;
+      a wellhole.
+  - text: The open space between the bench and the counsel tables in a courtroom.
+  - text: The lower part of a furnace, into which the metal falls.
+  - text: A well drink.
+    example: 'They''re having a special tonight: $1 wells.'
+  - text: The playfield of Tetris and similar video games, into which the blocks fall.
+  - text: In a microtiter plate, each of the small equal circular or square sections
+      which serve as test tubes.
+- pos: verb
+  defs:
+  - text: To issue forth, as water from the earth; to flow; to spring.
+  - text: To have something seep out of the surface.
+    example: Her eyes welled with tears.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: inbox
+title: Is INBOX a Wordle Word?
+head_title: 'Is INBOX a Wordle Word? Yes – Past Answer #1400 & Meaning'
 word: inbox
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪmbɒks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A container in which papers to be dealt with are put.</li><li><strong>Definition 2:</strong> An electronic folder serving the same purpose.</li><li><strong>Definition 3:</strong> The aggregate of items that demand one's attention or effort.<p><strong>Example:</strong> The kids, my ex, my parents, the job, bills — my inbox is full.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put (something) in someone's inbox.<p><strong>Example:</strong> I just inboxed you the presentation.</p></li><li><strong>Definition 2:</strong> To communicate with (a person) by writing to their electronic inbox.</li></ul></div></div>"
+description: Yes, INBOX is a valid Wordle word. It was the Wordle answer on April
+  19, 2025 (#1400). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 19, 2025 (#1400).
+past_answers:
+- date: '2025-04-19'
+  number: 1400
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- unbox
+phonetic: "/ˈɪmbɒks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A container in which papers to be dealt with are put.
+  - text: An electronic folder serving the same purpose.
+  - text: The aggregate of items that demand one's attention or effort.
+    example: The kids, my ex, my parents, the job, bills — my inbox is full.
+- pos: verb
+  defs:
+  - text: To put (something) in someone's inbox.
+    example: I just inboxed you the presentation.
+  - text: To communicate with (a person) by writing to their electronic inbox.
 ---
-

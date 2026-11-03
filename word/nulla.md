@@ -1,7 +1,40 @@
 ---
 layout: word
-title: nulla
+title: Is NULLA a Wordle Word?
+head_title: Is NULLA a Wordle Word? Yes – Valid Guess & Meaning
 word: nulla
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Alternative form of nulla-nulla</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stream-bed, ravine, or other watercourse; a drain for rain or floodwater.</li></ul></div></div>"
+description: Yes, NULLA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- bulla
+- fulla
+- mulla
+- nalla
+- nullo
+- nulls
+- nully
+definitions:
+- pos: noun
+  defs:
+  - text: Alternative form of nulla-nulla
+- pos: noun
+  defs:
+  - text: A stream-bed, ravine, or other watercourse; a drain for rain or floodwater.
 ---
-

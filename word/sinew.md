@@ -1,7 +1,44 @@
 ---
 layout: word
-title: sinew
+title: Is SINEW a Wordle Word?
+head_title: Is SINEW a Wordle Word? Yes – Possible Answer & Meaning
 word: sinew
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cord or tendon of the body.</li><li><strong>Definition 2:</strong> A cord or string, particularly as of a musical instrument.</li><li><strong>Definition 3:</strong> Muscular power, muscle; nerve, nervous energy; vigor, vigorous strength.</li><li><strong>Definition 4:</strong> (often in the plural) That which gives strength or in which strength consists; a supporting factor or member; mainstay.</li><li><strong>Definition 5:</strong> A nerve.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To knit together or make strong with, or as if with, sinews.</li></ul></div></div>"
+description: Yes, SINEW is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- sined
+- sines
+- vinew
+anagrams:
+- swine
+- sewin
+- wines
+definitions:
+- pos: noun
+  defs:
+  - text: A cord or tendon of the body.
+  - text: A cord or string, particularly as of a musical instrument.
+  - text: Muscular power, muscle; nerve, nervous energy; vigor, vigorous strength.
+  - text: "(often in the plural) That which gives strength or in which strength consists;
+      a supporting factor or member; mainstay."
+  - text: A nerve.
+- pos: verb
+  defs:
+  - text: To knit together or make strong with, or as if with, sinews.
 ---
-

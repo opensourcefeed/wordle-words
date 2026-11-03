@@ -1,7 +1,33 @@
 ---
 layout: word
-title: cowry
+title: Is COWRY a Wordle Word?
+head_title: Is COWRY a Wordle Word? Yes – Valid Guess & Meaning
 word: cowry
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small gastropod (Monetaria moneta, syn. Cypraea moneta) common in the Indian Ocean; its shell.</li><li><strong>Definition 2:</strong> (by extension) Any gastropod of the genus Cypraea; its shell.</li><li><strong>Definition 3:</strong> (by extension) Any gastropod of the family Cypraeidae; its shell.</li></ul></div></div>"
+description: Yes, COWRY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- dowry
+- lowry
+definitions:
+- pos: noun
+  defs:
+  - text: A small gastropod (Monetaria moneta, syn. Cypraea moneta) common in the
+      Indian Ocean; its shell.
+  - text: "(by extension) Any gastropod of the genus Cypraea; its shell."
+  - text: "(by extension) Any gastropod of the family Cypraeidae; its shell."
 ---
-

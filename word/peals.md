@@ -1,7 +1,71 @@
 ---
 layout: word
-title: peals
+title: Is PEALS a Wordle Word?
+head_title: Is PEALS a Wordle Word? Yes – Valid Guess & Meaning
 word: peals
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A loud sound, or a succession of loud sounds, as of bells, thunder, cannon, shouts, laughter, of a multitude, etc.</li><li><strong>Definition 2:</strong> A set of bells tuned to each other according to the diatonic scale.</li><li><strong>Definition 3:</strong> The changes rung on a set of bells.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sound with a peal or peals.</li><li><strong>Definition 2:</strong> To utter or sound loudly.</li><li><strong>Definition 3:</strong> To assail with noise.</li><li><strong>Definition 4:</strong> To resound; to echo.</li><li><strong>Definition 5:</strong> To pour out.</li><li><strong>Definition 6:</strong> To appeal.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small salmon; a grilse; a sewin.</li></ul></div></div>"
+description: Yes, PEALS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- beals
+- deals
+- feals
+- geals
+- heals
+- meals
+- neals
+- paals
+- peags
+- peaks
+- peans
+- pears
+anagrams:
+- lapse
+- leaps
+- pales
+- pelas
+- pleas
+- salep
+- sepal
+- spale
+- speal
+trap:
+  pattern: _EALS
+  count: 14
+phonetic: "/piːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A loud sound, or a succession of loud sounds, as of bells, thunder, cannon,
+      shouts, laughter, of a multitude, etc.
+  - text: A set of bells tuned to each other according to the diatonic scale.
+  - text: The changes rung on a set of bells.
+- pos: verb
+  defs:
+  - text: To sound with a peal or peals.
+  - text: To utter or sound loudly.
+  - text: To assail with noise.
+  - text: To resound; to echo.
+  - text: To pour out.
+  - text: To appeal.
+- pos: noun
+  defs:
+  - text: A small salmon; a grilse; a sewin.
 ---
-

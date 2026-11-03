@@ -1,7 +1,86 @@
 ---
 layout: word
-title: zones
+title: Is ZONES a Wordle Word?
+head_title: Is ZONES a Wordle Word? Yes – Valid Guess & Meaning
 word: zones
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Each of the five regions of the earth's surface into which it was divided by climatic differences, namely the torrid zone (between the tropics), two temperate zones (between the tropics and the polar circles), and two frigid zones (within the polar circles).</li><li><strong>Definition 2:</strong> Any given region or area of the world.</li><li><strong>Definition 3:</strong> A given area distinguished on the basis of a particular characteristic, use, restriction, etc.<p><strong>Example:</strong> Files in the Internet zone are blocked by default, as a security measure.</p></li><li><strong>Definition 4:</strong> A band or area of growth encircling anything.<p><strong>Example:</strong> a zone of evergreens on a mountain; the zone of animal or vegetable life in the ocean around an island or a continent</p></li><li><strong>Definition 5:</strong> A band or stripe extending around a body.</li><li><strong>Definition 6:</strong> A series of planes having mutually parallel intersections.</li><li><strong>Definition 7:</strong> The strike zone.<p><strong>Example:</strong> That pitch was low and away, just outside of the zone.</p></li><li><strong>Definition 8:</strong> Every of the three parts of an ice rink, divided by two blue lines.<p><strong>Example:</strong> Players are off side, if they enter the attacking zone before the puck.</p></li><li><strong>Definition 9:</strong> A semicircular area in front of each goal.</li><li><strong>Definition 10:</strong> A high-performance phase or period.<p><strong>Example:</strong> I just got in the zone late in the game: everything was going in.</p></li><li><strong>Definition 11:</strong> A defensive scheme where defenders guard a particular area of the court or field, as opposed to a particular opposing player.</li><li><strong>Definition 12:</strong> That collection of a domain's DNS resource records, the domain and its subdomains, that are not delegated to another authority.</li><li><strong>Definition 13:</strong> (Apple computing) A logical group of network devices on AppleTalk.</li><li><strong>Definition 14:</strong> A belt or girdle.</li><li><strong>Definition 15:</strong> The curved surface of a frustum of a sphere, the portion of surface of a sphere delimited by parallel planes.</li><li><strong>Definition 16:</strong> (perhaps by meronymy) A frustum of a sphere.</li><li><strong>Definition 17:</strong> A circuit; a circumference.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To divide into or assign sections or areas.<p><strong>Example:</strong> Please zone off our staging area, a section for each group.</p></li><li><strong>Definition 2:</strong> To define the property use classification of an area.<p><strong>Example:</strong> This area was zoned for industrial use.</p></li><li><strong>Definition 3:</strong> To enter a daydream state temporarily, for instance as a result of boredom, fatigue, or intoxication; to doze off.<p><strong>Example:</strong> Everyone just put their goddamn heads together and zoned. (Byron Coley, liner notes for the album \"Piece for Jetsun Dolma\" by Thurston Moore)</p></li><li><strong>Definition 4:</strong> To girdle or encircle.</li></ul></div></div>"
+description: Yes, ZONES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- bones
+- cones
+- fones
+- hones
+- jones
+- nones
+- pones
+- rones
+- sones
+- tones
+- zines
+- zoned
+trap:
+  pattern: _ONES
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: Each of the five regions of the earth's surface into which it was divided
+      by climatic differences, namely the torrid zone (between the tropics), two temperate
+      zones (between the tropics and the polar circles), and two frigid zones (within
+      the polar circles).
+  - text: Any given region or area of the world.
+  - text: A given area distinguished on the basis of a particular characteristic,
+      use, restriction, etc.
+    example: Files in the Internet zone are blocked by default, as a security measure.
+  - text: A band or area of growth encircling anything.
+    example: a zone of evergreens on a mountain; the zone of animal or vegetable life
+      in the ocean around an island or a continent
+  - text: A band or stripe extending around a body.
+  - text: A series of planes having mutually parallel intersections.
+  - text: The strike zone.
+    example: That pitch was low and away, just outside of the zone.
+  - text: Every of the three parts of an ice rink, divided by two blue lines.
+    example: Players are off side, if they enter the attacking zone before the puck.
+  - text: A semicircular area in front of each goal.
+  - text: A high-performance phase or period.
+    example: 'I just got in the zone late in the game: everything was going in.'
+  - text: A defensive scheme where defenders guard a particular area of the court
+      or field, as opposed to a particular opposing player.
+  - text: That collection of a domain's DNS resource records, the domain and its subdomains,
+      that are not delegated to another authority.
+  - text: "(Apple computing) A logical group of network devices on AppleTalk."
+  - text: A belt or girdle.
+  - text: The curved surface of a frustum of a sphere, the portion of surface of a
+      sphere delimited by parallel planes.
+  - text: "(perhaps by meronymy) A frustum of a sphere."
+  - text: A circuit; a circumference.
+- pos: verb
+  defs:
+  - text: To divide into or assign sections or areas.
+    example: Please zone off our staging area, a section for each group.
+  - text: To define the property use classification of an area.
+    example: This area was zoned for industrial use.
+  - text: To enter a daydream state temporarily, for instance as a result of boredom,
+      fatigue, or intoxication; to doze off.
+    example: Everyone just put their goddamn heads together and zoned. (Byron Coley,
+      liner notes for the album "Piece for Jetsun Dolma" by Thurston Moore)
+  - text: To girdle or encircle.
 ---
-

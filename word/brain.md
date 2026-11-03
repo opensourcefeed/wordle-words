@@ -1,7 +1,63 @@
 ---
 layout: word
-title: brain
+title: Is BRAIN a Wordle Word?
+head_title: 'Is BRAIN a Wordle Word? Yes – Past Answer #1197 & Meaning'
 word: brain
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹeɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The control center of the central nervous system of an animal located in the skull which is responsible for perception, cognition, attention, memory, emotion, and action.</li><li><strong>Definition 2:</strong> An intelligent person.<p><strong>Example:</strong> She was a total brain.</p></li><li><strong>Definition 3:</strong> (in the plural) Intellect.<p><strong>Example:</strong> She has a lot of brains.</p></li><li><strong>Definition 4:</strong> By analogy with a human brain, the part of a machine or computer that performs calculations.<p><strong>Example:</strong> The computer's brain is capable of millions of calculations a second.</p></li><li><strong>Definition 5:</strong> Oral sex.</li><li><strong>Definition 6:</strong> Mind.<p><strong>Example:</strong> I have too much on my brain today.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dash out the brains of; to kill by smashing the skull.</li><li><strong>Definition 2:</strong> To strike (someone) on the head.</li><li><strong>Definition 3:</strong> To destroy; to put an end to.</li><li><strong>Definition 4:</strong> To conceive in the mind; to understand.</li></ul></div></div>"
+description: Yes, BRAIN is a valid Wordle word. It was the Wordle answer on September
+  28, 2024 (#1197). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 28, 2024 (#1197).
+past_answers:
+- date: '2024-09-28'
+  number: 1197
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- braid
+- brawn
+- drain
+- grain
+- train
+- blain
+- brail
+- bruin
+anagrams:
+- abrin
+- bairn
+phonetic: "/bɹeɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: The control center of the central nervous system of an animal located in
+      the skull which is responsible for perception, cognition, attention, memory,
+      emotion, and action.
+  - text: An intelligent person.
+    example: She was a total brain.
+  - text: "(in the plural) Intellect."
+    example: She has a lot of brains.
+  - text: By analogy with a human brain, the part of a machine or computer that performs
+      calculations.
+    example: The computer's brain is capable of millions of calculations a second.
+  - text: Oral sex.
+  - text: Mind.
+    example: I have too much on my brain today.
+- pos: verb
+  defs:
+  - text: To dash out the brains of; to kill by smashing the skull.
+  - text: To strike (someone) on the head.
+  - text: To destroy; to put an end to.
+  - text: To conceive in the mind; to understand.
 ---
-

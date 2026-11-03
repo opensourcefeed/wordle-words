@@ -1,7 +1,67 @@
 ---
 layout: word
-title: rouse
+title: Is ROUSE a Wordle Word?
+head_title: 'Is ROUSE a Wordle Word? Yes – Past Answer #811 & Meaning'
 word: rouse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹaʊz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An arousal.</li><li><strong>Definition 2:</strong> The sounding of a bugle in the morning after reveille, to signal that soldiers are to rise from bed, often the rouse.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To wake (someone) or be awoken from sleep, or from apathy.</li><li><strong>Definition 2:</strong> To cause, stir up, excite (a feeling, thought, etc.).<p><strong>Example:</strong> to rouse the faculties, passions, or emotions</p></li><li><strong>Definition 3:</strong> To provoke (someone) to action or anger.</li><li><strong>Definition 4:</strong> To cause to start from a covert or lurking place.<p><strong>Example:</strong> to rouse a deer or other animal of the chase</p></li><li><strong>Definition 5:</strong> To pull by main strength; to haul.</li><li><strong>Definition 6:</strong> To raise; to make erect.</li><li><strong>Definition 7:</strong> (when followed by \"on\") To tell off; to criticise.<p><strong>Example:</strong> He roused on her for being late yet again.</p></li></ul></div></div>"
+description: Yes, ROUSE is a valid Wordle word. It was the Wordle answer on September
+  8, 2023 (#811). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 8, 2023 (#811).
+past_answers:
+- date: '2023-09-08'
+  number: 811
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- house
+- louse
+- mouse
+- reuse
+- rouge
+- route
+- bouse
+- douse
+- roose
+- roule
+- roust
+- souse
+anagrams:
+- euros
+- roues
+trap:
+  pattern: _OUSE
+  count: 9
+phonetic: "/ˈɹaʊz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An arousal.
+  - text: The sounding of a bugle in the morning after reveille, to signal that soldiers
+      are to rise from bed, often the rouse.
+- pos: verb
+  defs:
+  - text: To wake (someone) or be awoken from sleep, or from apathy.
+  - text: To cause, stir up, excite (a feeling, thought, etc.).
+    example: to rouse the faculties, passions, or emotions
+  - text: To provoke (someone) to action or anger.
+  - text: To cause to start from a covert or lurking place.
+    example: to rouse a deer or other animal of the chase
+  - text: To pull by main strength; to haul.
+  - text: To raise; to make erect.
+  - text: (when followed by "on") To tell off; to criticise.
+    example: He roused on her for being late yet again.
 ---
-

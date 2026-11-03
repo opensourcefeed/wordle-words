@@ -1,7 +1,44 @@
 ---
 layout: word
-title: donor
+title: Is DONOR a Wordle Word?
+head_title: 'Is DONOR a Wordle Word? Yes – Past Answer #359 & Meaning'
 word: donor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdəʊnə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who makes a donation.<p><strong>Example:</strong> The charity raised $2,000 from various donors.</p></li><li><strong>Definition 2:</strong> A group or molecule that donates either a radical, electrons or a moiety in a chemical reaction. Compare acceptor.<p><strong>Example:</strong> a carbonyl donor molecule</p></li></ul></div></div>"
+description: Yes, DONOR is a valid Wordle word. It was the Wordle answer on June 13,
+  2022 (#359). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 13, 2022 (#359).
+past_answers:
+- date: '2022-06-13'
+  number: 359
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- honor
+- dolor
+- doner
+- ponor
+anagrams:
+- doorn
+- rondo
+phonetic: "/ˈdəʊnə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who makes a donation.
+    example: The charity raised $2,000 from various donors.
+  - text: A group or molecule that donates either a radical, electrons or a moiety
+      in a chemical reaction. Compare acceptor.
+    example: a carbonyl donor molecule
 ---
-

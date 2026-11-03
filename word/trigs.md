@@ -1,7 +1,45 @@
 ---
 layout: word
-title: trigs
+title: Is TRIGS a Wordle Word?
+head_title: Is TRIGS a Wordle Word? Yes – Valid Guess
 word: trigs
-meaning: ""
+description: Yes, TRIGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- brigs
+- frigs
+- grigs
+- prigs
+- taigs
+- thigs
+- trags
+- tries
+- trigo
+- trims
+- trins
+- trios
+anagrams:
+- girts
+- grist
+- grits
+- strig
+trap:
+  pattern: TRI_S
+  count: 6
 ---
-

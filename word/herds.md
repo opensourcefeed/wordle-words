@@ -1,7 +1,67 @@
 ---
 layout: word
-title: herds
+title: Is HERDS a Wordle Word?
+head_title: Is HERDS a Wordle Word? Yes – Valid Guess & Meaning
 word: herds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A number of domestic animals assembled together under the watch or ownership of a keeper.<p><strong>Example:</strong> a herd of cattle</p></li><li><strong>Definition 2:</strong> Any collection of animals gathered or travelling in a company.</li><li><strong>Definition 3:</strong> (now usually derogatory) A crowd, a mass of people; now usually pejorative: a rabble.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To unite or associate in a herd; to feed or run together, or in company.<p><strong>Example:</strong> Sheep herd on many hills.</p></li><li><strong>Definition 2:</strong> To unite or associate in a herd<p><strong>Example:</strong> He is employed to herd the goats.</p></li><li><strong>Definition 3:</strong> To associate; to ally oneself with, or place oneself among, a group or company.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who keeps a group of domestic animals; a herdsman.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To act as a herdsman or a shepherd.</li><li><strong>Definition 2:</strong> To form or put into a herd.<p><strong>Example:</strong> I heard the herd of cattle being herded home from a long way away.</p></li></ul></div></div>"
+description: Yes, HERDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- hards
+- heads
+- heeds
+- heids
+- hends
+- herbs
+- heres
+- herls
+- herms
+- herns
+- heros
+- herps
+anagrams:
+- sherd
+- shred
+trap:
+  pattern: HER_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A number of domestic animals assembled together under the watch or ownership
+      of a keeper.
+    example: a herd of cattle
+  - text: Any collection of animals gathered or travelling in a company.
+  - text: "(now usually derogatory) A crowd, a mass of people; now usually pejorative:
+      a rabble."
+- pos: verb
+  defs:
+  - text: To unite or associate in a herd; to feed or run together, or in company.
+    example: Sheep herd on many hills.
+  - text: To unite or associate in a herd
+    example: He is employed to herd the goats.
+  - text: To associate; to ally oneself with, or place oneself among, a group or company.
+- pos: noun
+  defs:
+  - text: Someone who keeps a group of domestic animals; a herdsman.
+- pos: verb
+  defs:
+  - text: To act as a herdsman or a shepherd.
+  - text: To form or put into a herd.
+    example: I heard the herd of cattle being herded home from a long way away.
 ---
-

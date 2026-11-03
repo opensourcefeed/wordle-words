@@ -1,7 +1,38 @@
 ---
 layout: word
-title: rebab
+title: Is REBAB a Wordle Word?
+head_title: Is REBAB a Wordle Word? Yes – Valid Guess & Meaning
 word: rebab
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈbæb/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stringed musical instrument, related to the lute, used especially in Islamic countries</li></ul></div></div>"
+description: Yes, REBAB is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- kebab
+- rebar
+- rehab
+anagrams:
+- barbe
+phonetic: "/ɹɪˈbæb/"
+definitions:
+- pos: noun
+  defs:
+  - text: A stringed musical instrument, related to the lute, used especially in Islamic
+      countries
 ---
-

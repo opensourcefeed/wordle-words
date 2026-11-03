@@ -1,7 +1,69 @@
 ---
 layout: word
-title: swish
+title: Is SWISH a Wordle Word?
+head_title: 'Is SWISH a Wordle Word? Yes – Past Answer #1069 & Meaning'
 word: swish
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swɪʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short rustling, hissing or whistling sound, often made by friction.</li><li><strong>Definition 2:</strong> A hissing, sweeping movement through the air, as of an animal's tail.</li><li><strong>Definition 3:</strong> A sound of liquid flowing inside a container.</li><li><strong>Definition 4:</strong> A twig or bundle of twigs, used for administering beatings; a switch</li><li><strong>Definition 5:</strong> A successful basketball shot that does not touch the rim or backboard.</li><li><strong>Definition 6:</strong> An effeminate male homosexual.</li><li><strong>Definition 7:</strong> An improvised alcoholic drink made by fermenting whatever ingredients are available.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a rustling sound while moving.<p><strong>Example:</strong> The cane swishes.</p></li><li><strong>Definition 2:</strong> To flourish with a swishing sound.<p><strong>Example:</strong> to swish a cane back and forth</p></li><li><strong>Definition 3:</strong> To flog; to lash.</li><li><strong>Definition 4:</strong> To make a successful basketball shot that does not touch the rim or backboard.</li><li><strong>Definition 5:</strong> To mince or otherwise to behave in an effeminate manner.<p><strong>Example:</strong> I shall not swish; I'll merely act limp-wristed.</p></li><li><strong>Definition 6:</strong> (transitive) To cause a liquid to move around in a container, or in one's mouth.<p><strong>Example:</strong> Swish the mouthwash around the mouth and between the teeth for one minute.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sophisticated; fashionable; smooth.<p><strong>Example:</strong> This restaurant looks very swish — it even has linen tablecloths.</p></li><li><strong>Definition 2:</strong> Attractive, stylish</li><li><strong>Definition 3:</strong> Effeminate.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A hissing or whistling sound of something travelling quickly through the air.</li></ul></div></div>"
+description: Yes, SWISH is a valid Wordle word. It was the Wordle answer on May 23,
+  2024 (#1069). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 23, 2024 (#1069).
+past_answers:
+- date: '2024-05-23'
+  number: 1069
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- swash
+- shish
+- slish
+- swiss
+- swith
+anagrams:
+- whiss
+phonetic: "/swɪʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short rustling, hissing or whistling sound, often made by friction.
+  - text: A hissing, sweeping movement through the air, as of an animal's tail.
+  - text: A sound of liquid flowing inside a container.
+  - text: A twig or bundle of twigs, used for administering beatings; a switch
+  - text: A successful basketball shot that does not touch the rim or backboard.
+  - text: An effeminate male homosexual.
+  - text: An improvised alcoholic drink made by fermenting whatever ingredients are
+      available.
+- pos: verb
+  defs:
+  - text: To make a rustling sound while moving.
+    example: The cane swishes.
+  - text: To flourish with a swishing sound.
+    example: to swish a cane back and forth
+  - text: To flog; to lash.
+  - text: To make a successful basketball shot that does not touch the rim or backboard.
+  - text: To mince or otherwise to behave in an effeminate manner.
+    example: I shall not swish; I'll merely act limp-wristed.
+  - text: "(transitive) To cause a liquid to move around in a container, or in one's
+      mouth."
+    example: Swish the mouthwash around the mouth and between the teeth for one minute.
+- pos: adjective
+  defs:
+  - text: Sophisticated; fashionable; smooth.
+    example: This restaurant looks very swish — it even has linen tablecloths.
+  - text: Attractive, stylish
+  - text: Effeminate.
+- pos: interjection
+  defs:
+  - text: A hissing or whistling sound of something travelling quickly through the
+      air.
 ---
-

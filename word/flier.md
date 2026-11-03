@@ -1,7 +1,60 @@
 ---
 layout: word
-title: flier
+title: Is FLIER a Wordle Word?
+head_title: Is FLIER a Wordle Word? Yes – Possible Answer & Meaning
 word: flier
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which flies, as a bird or insect.</li><li><strong>Definition 2:</strong> A machine that flies.</li><li><strong>Definition 3:</strong> An airplane pilot.</li><li><strong>Definition 4:</strong> A person who travels by airplane.</li><li><strong>Definition 5:</strong> A leaflet, often for advertising.</li><li><strong>Definition 6:</strong> The part of a spinning machine that twists the thread as it takes it to and winds it on the bobbin</li><li><strong>Definition 7:</strong> An arch that connects a flying buttress into the structure it supports.</li><li><strong>Definition 8:</strong> (acrobatics, cheerleading, synchronized swimming) The person who is lifted and/or thrown by another person or persons.</li><li><strong>Definition 9:</strong> A stray shot away from the group on a target.</li><li><strong>Definition 10:</strong> A standard rectangular step of a staircase (as opposed to a winder).</li><li><strong>Definition 11:</strong> A female kangaroo; a roo; a doe; a jill.</li><li><strong>Definition 12:</strong> A leap or jump.</li><li><strong>Definition 13:</strong> A risky investment or other venture.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To distribute flyers (leaflets).</li><li><strong>Definition 2:</strong> To distribute flyers in (a location) or to (recipients).</li></ul></div></div>"
+description: Yes, FLIER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- flyer
+- plier
+- fleer
+- flied
+- flies
+- frier
+- slier
+anagrams:
+- filer
+- rifle
+- lifer
+definitions:
+- pos: noun
+  defs:
+  - text: That which flies, as a bird or insect.
+  - text: A machine that flies.
+  - text: An airplane pilot.
+  - text: A person who travels by airplane.
+  - text: A leaflet, often for advertising.
+  - text: The part of a spinning machine that twists the thread as it takes it to
+      and winds it on the bobbin
+  - text: An arch that connects a flying buttress into the structure it supports.
+  - text: "(acrobatics, cheerleading, synchronized swimming) The person who is lifted
+      and/or thrown by another person or persons."
+  - text: A stray shot away from the group on a target.
+  - text: A standard rectangular step of a staircase (as opposed to a winder).
+  - text: A female kangaroo; a roo; a doe; a jill.
+  - text: A leap or jump.
+  - text: A risky investment or other venture.
+- pos: verb
+  defs:
+  - text: To distribute flyers (leaflets).
+  - text: To distribute flyers in (a location) or to (recipients).
 ---
-

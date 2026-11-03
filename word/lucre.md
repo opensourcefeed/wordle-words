@@ -1,7 +1,36 @@
 ---
 layout: word
-title: lucre
+title: Is LUCRE a Wordle Word?
+head_title: Is LUCRE a Wordle Word? Yes – Valid Guess & Meaning
 word: lucre
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈluːkə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Money, riches, or wealth, especially when seen as having a corrupting effect or causing greed, or obtained in an underhanded manner.</li></ul></div></div>"
+description: Yes, LUCRE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- sucre
+anagrams:
+- cruel
+- ulcer
+phonetic: "/ˈluːkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Money, riches, or wealth, especially when seen as having a corrupting effect
+      or causing greed, or obtained in an underhanded manner.
 ---
-

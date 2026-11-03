@@ -1,7 +1,69 @@
 ---
 layout: word
-title: roars
+title: Is ROARS a Wordle Word?
+head_title: Is ROARS a Wordle Word? Yes – Valid Guess & Meaning
 word: roars
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɔːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long, loud, deep shout, as of rage or laughter, made with the mouth wide open.</li><li><strong>Definition 2:</strong> The cry of the lion.</li><li><strong>Definition 3:</strong> The deep cry of the bull.</li><li><strong>Definition 4:</strong> A loud resounding noise.<p><strong>Example:</strong> the roar of a motorbike</p></li><li><strong>Definition 5:</strong> A show of strength or character.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a loud, deep cry, especially from pain, anger, or other strong emotion.</li><li><strong>Definition 2:</strong> To laugh in a particularly loud manner.<p><strong>Example:</strong> The audience roared at his jokes.</p></li><li><strong>Definition 3:</strong> Of animals (especially the lion), to make a loud deep noise.<p><strong>Example:</strong> The lioness roared to scare off the hyenas.</p></li><li><strong>Definition 4:</strong> Generally, of inanimate objects etc., to make a loud resounding noise.</li><li><strong>Definition 5:</strong> To proceed vigorously.</li><li><strong>Definition 6:</strong> To cry aloud; to proclaim loudly.</li><li><strong>Definition 7:</strong> To be boisterous; to be disorderly.</li><li><strong>Definition 8:</strong> To make a loud noise in breathing, as horses do when they have a certain disease.</li><li><strong>Definition 9:</strong> (North Midlands) to cry</li></ul></div></div>"
+description: Yes, ROARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- boars
+- hoars
+- moars
+- rears
+- roads
+- roams
+- roans
+- roary
+- roers
+- soars
+- voars
+anagrams:
+- sorra
+trap:
+  pattern: _OARS
+  count: 6
+phonetic: "/ɹɔːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long, loud, deep shout, as of rage or laughter, made with the mouth wide
+      open.
+  - text: The cry of the lion.
+  - text: The deep cry of the bull.
+  - text: A loud resounding noise.
+    example: the roar of a motorbike
+  - text: A show of strength or character.
+- pos: verb
+  defs:
+  - text: To make a loud, deep cry, especially from pain, anger, or other strong emotion.
+  - text: To laugh in a particularly loud manner.
+    example: The audience roared at his jokes.
+  - text: Of animals (especially the lion), to make a loud deep noise.
+    example: The lioness roared to scare off the hyenas.
+  - text: Generally, of inanimate objects etc., to make a loud resounding noise.
+  - text: To proceed vigorously.
+  - text: To cry aloud; to proclaim loudly.
+  - text: To be boisterous; to be disorderly.
+  - text: To make a loud noise in breathing, as horses do when they have a certain
+      disease.
+  - text: "(North Midlands) to cry"
 ---
-

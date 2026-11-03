@@ -1,7 +1,34 @@
 ---
 layout: word
-title: yecch
+title: Is YECCH a Wordle Word?
+head_title: Is YECCH a Wordle Word? Yes – Valid Guess & Meaning
 word: yecch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An exclamation of disgust.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> An exclamation of disgust.<p><strong>Example:</strong> Yech! This jelly donut is the worst on the planet!</p></li></ul></div></div>"
+description: Yes, YECCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- yeuch
+- yucch
+definitions:
+- pos: noun
+  defs:
+  - text: An exclamation of disgust.
+- pos: interjection
+  defs:
+  - text: An exclamation of disgust.
+    example: Yech! This jelly donut is the worst on the planet!
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: resat
+title: Is RESAT a Wordle Word?
+head_title: Is RESAT a Wordle Word? Yes – Valid Guess & Meaning
 word: resat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take an examination a second time.</li></ul></div></div>"
+description: Yes, RESAT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- reset
+- besat
+- repat
+- resam
+- resaw
+- resay
+- resit
+anagrams:
+- stare
+- arets
+- aster
+- earst
+- rates
+- reast
+- sater
+- stear
+- strae
+- tares
+- tarse
+- taser
+definitions:
+- pos: verb
+  defs:
+  - text: To take an examination a second time.
 ---
-

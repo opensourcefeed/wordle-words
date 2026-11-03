@@ -1,7 +1,43 @@
 ---
 layout: word
-title: oozes
+title: Is OOZES a Wordle Word?
+head_title: Is OOZES a Wordle Word? Yes – Valid Guess & Meaning
 word: oozes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be secreted or slowly leak.</li><li><strong>Definition 2:</strong> To give off a strong sense of (something); to exude.</li></ul></div></div>"
+description: Yes, OOZES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- cozes
+- dozes
+- mozes
+- ooses
+- oozed
+- rozes
+- tozes
+trap:
+  pattern: _OZES
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To be secreted or slowly leak.
+  - text: To give off a strong sense of (something); to exude.
 ---
-

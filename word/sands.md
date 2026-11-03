@@ -1,7 +1,64 @@
 ---
 layout: word
-title: sands
+title: Is SANDS a Wordle Word?
+head_title: Is SANDS a Wordle Word? Yes – Valid Guess & Meaning
 word: sands
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Rock that is ground more finely than gravel, but is not as fine as silt (more formally, see grain sizes chart), forming beaches and deserts and also used in construction.</li><li><strong>Definition 2:</strong> (often in the plural) A beach or other expanse of sand.<p><strong>Example:</strong> The Canadian tar sands are a promising source of oil.</p></li><li><strong>Definition 3:</strong> (circa 1920) Personal courage.</li><li><strong>Definition 4:</strong> A particle from 62.5 microns to 2 mm in diameter, following the Wentworth scale.</li><li><strong>Definition 5:</strong> A light beige colour, like that of typical sand.</li><li><strong>Definition 6:</strong> A single grain of sand.</li><li><strong>Definition 7:</strong> A moment or interval of time; the term or extent of one's life (referring to the sand in an hourglass).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To abrade the surface of (something) with sand or sandpaper in order to smooth or clean it.</li><li><strong>Definition 2:</strong> To cover with sand.</li><li><strong>Definition 3:</strong> To blot ink using sand.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sandpiper.</li></ul></div></div>"
+description: Yes, SANDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- sandy
+- bands
+- fands
+- hands
+- lands
+- mands
+- pands
+- rands
+- saids
+- sanes
+- sangs
+- sants
+trap:
+  pattern: _ANDS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: Rock that is ground more finely than gravel, but is not as fine as silt
+      (more formally, see grain sizes chart), forming beaches and deserts and also
+      used in construction.
+  - text: "(often in the plural) A beach or other expanse of sand."
+    example: The Canadian tar sands are a promising source of oil.
+  - text: "(circa 1920) Personal courage."
+  - text: A particle from 62.5 microns to 2 mm in diameter, following the Wentworth
+      scale.
+  - text: A light beige colour, like that of typical sand.
+  - text: A single grain of sand.
+  - text: A moment or interval of time; the term or extent of one's life (referring
+      to the sand in an hourglass).
+- pos: verb
+  defs:
+  - text: To abrade the surface of (something) with sand or sandpaper in order to
+      smooth or clean it.
+  - text: To cover with sand.
+  - text: To blot ink using sand.
+- pos: noun
+  defs:
+  - text: A sandpiper.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: armor
+title: Is ARMOR a Wordle Word?
+head_title: Is ARMOR a Wordle Word? Yes – Possible Answer & Meaning
 word: armor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɑː.mə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.</li><li><strong>Definition 2:</strong> A natural form of this kind of protection on an animal's body.</li><li><strong>Definition 3:</strong> Metal plate, protecting a ship, military vehicle, or aircraft.</li><li><strong>Definition 4:</strong> A tank, or other heavy mobile assault vehicle.</li><li><strong>Definition 5:</strong> A military formation consisting primarily of tanks or other armoured fighting vehicles, collectively.</li><li><strong>Definition 6:</strong> The naturally occurring surface of pebbles, rocks or boulders that line the bed of a waterway or beach and provide protection against erosion.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To equip something with armor or a protective coating or hardening.</li><li><strong>Definition 2:</strong> To provide something with an analogous form of protection.</li></ul></div></div>"
+description: Yes, ARMOR is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- arbor
+- ardor
+- armer
+anagrams:
+- maror
+- morra
+phonetic: "/ˈɑː.mə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A protective layer over a body, vehicle, or other object intended to deflect
+      or diffuse damaging forces.
+  - text: A natural form of this kind of protection on an animal's body.
+  - text: Metal plate, protecting a ship, military vehicle, or aircraft.
+  - text: A tank, or other heavy mobile assault vehicle.
+  - text: A military formation consisting primarily of tanks or other armoured fighting
+      vehicles, collectively.
+  - text: The naturally occurring surface of pebbles, rocks or boulders that line
+      the bed of a waterway or beach and provide protection against erosion.
+- pos: verb
+  defs:
+  - text: To equip something with armor or a protective coating or hardening.
+  - text: To provide something with an analogous form of protection.
 ---
-

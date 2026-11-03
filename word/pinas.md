@@ -1,7 +1,53 @@
 ---
 layout: word
-title: pinas
+title: Is PINAS a Wordle Word?
+head_title: Is PINAS a Wordle Word? Yes – Valid Guess & Meaning
 word: pinas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Cloth woven from pineapple fiber</li><li><strong>Definition 2:</strong> A cone of silver amalgam prepared for retorting.</li><li><strong>Definition 3:</strong> The residual cone of spongy silver left after the retorting.</li></ul></div></div>"
+description: Yes, PINAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- kinas
+- minas
+- picas
+- pikas
+- pimas
+- pinax
+- pinds
+- pines
+- pings
+- pinks
+- pints
+- pipas
+anagrams:
+- nipas
+- pains
+- pians
+- spain
+- spina
+trap:
+  pattern: PI_AS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Cloth woven from pineapple fiber
+  - text: A cone of silver amalgam prepared for retorting.
+  - text: The residual cone of spongy silver left after the retorting.
 ---
-

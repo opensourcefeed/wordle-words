@@ -1,7 +1,38 @@
 ---
 layout: word
-title: flubs
+title: Is FLUBS a Wordle Word?
+head_title: Is FLUBS a Wordle Word? Yes – Valid Guess & Meaning
 word: flubs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /flʌbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An error; a mistake in the performance of an action.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To goof, fumble, or err in the performance of an action.</li></ul></div></div>"
+description: Yes, FLUBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- blubs
+- clubs
+- flabs
+- flobs
+- flues
+- slubs
+phonetic: "/flʌbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An error; a mistake in the performance of an action.
+- pos: verb
+  defs:
+  - text: To goof, fumble, or err in the performance of an action.
 ---
-

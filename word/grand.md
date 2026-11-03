@@ -1,7 +1,58 @@
 ---
 layout: word
-title: grand
+title: Is GRAND a Wordle Word?
+head_title: 'Is GRAND a Wordle Word? Yes – Past Answer #735 & Meaning'
 word: grand
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹænd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (plural \"grand\") A thousand of some unit of currency, such as dollars or pounds. (Compare G.)</li><li><strong>Definition 2:</strong> (plural \"grands\") A grand piano</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a large size or extent; great.<p><strong>Example:</strong> a grand army</p></li><li><strong>Definition 2:</strong> Great in size, and fine or imposing in appearance or impression; illustrious, dignified, magnificent.<p><strong>Example:</strong> His simple vision has transformed into something far more grand.</p></li><li><strong>Definition 3:</strong> Having higher rank or more dignity, size, or importance than other persons or things of the same name.<p><strong>Example:</strong> The Grand Viziers of the Ottoman Empire.</p></li><li><strong>Definition 4:</strong> (usually in compound forms) Standing in the second or some more remote degree of parentage or descent.<p><strong>Example:</strong> grandfather, grandson, grand-child</p></li><li><strong>Definition 5:</strong> Fine; lovely.<p><strong>Example:</strong> A cup of tea? That'd be grand.</p></li><li><strong>Definition 6:</strong> Containing all the parts proper to a given form of composition.</li></ul></div></div>"
+description: Yes, GRAND is a valid Wordle word. It was the Wordle answer on June 24,
+  2023 (#735). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 24, 2023 (#735).
+past_answers:
+- date: '2023-06-24'
+  number: 735
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- brand
+- gland
+- grant
+- grind
+- grana
+- grano
+- grans
+- grund
+phonetic: "/ɡɹænd/"
+definitions:
+- pos: noun
+  defs:
+  - text: (plural "grand") A thousand of some unit of currency, such as dollars or
+      pounds. (Compare G.)
+  - text: (plural "grands") A grand piano
+- pos: adjective
+  defs:
+  - text: Of a large size or extent; great.
+    example: a grand army
+  - text: Great in size, and fine or imposing in appearance or impression; illustrious,
+      dignified, magnificent.
+    example: His simple vision has transformed into something far more grand.
+  - text: Having higher rank or more dignity, size, or importance than other persons
+      or things of the same name.
+    example: The Grand Viziers of the Ottoman Empire.
+  - text: "(usually in compound forms) Standing in the second or some more remote
+      degree of parentage or descent."
+    example: grandfather, grandson, grand-child
+  - text: Fine; lovely.
+    example: A cup of tea? That'd be grand.
+  - text: Containing all the parts proper to a given form of composition.
 ---
-

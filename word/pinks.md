@@ -1,7 +1,73 @@
 ---
 layout: word
-title: pinks
+title: Is PINKS a Wordle Word?
+head_title: Is PINKS a Wordle Word? Yes – Valid Guess & Meaning
 word: pinks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The common minnow, Phoxinus phoxinus.</li><li><strong>Definition 2:</strong> A young Atlantic salmon, Salmo salar, before it becomes a smolt; a parr.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A narrow boat.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stab.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various flowers in the genus Dianthus, sometimes called carnations.<p><strong>Example:</strong> This garden in particular has a beautiful bed of pinks.</p></li><li><strong>Definition 2:</strong> A perfect example; excellence, perfection; the embodiment of some quality.<p><strong>Example:</strong> Your hat, madam, is the very pink of fashion.</p></li><li><strong>Definition 3:</strong> The colour of this flower, between red and white; pale red.<p><strong>Example:</strong> My new dress is a wonderful shade of pink.</p></li><li><strong>Definition 4:</strong> Hunting pink; scarlet, as worn by hunters.</li><li><strong>Definition 5:</strong> One of the colour balls used in snooker, with a value of 6 points.<p><strong>Example:</strong> Oh dear, he's left himself snookered behind the pink.</p></li><li><strong>Definition 6:</strong> An unlettered and uncultured, but relatively prosperous, member of the middle classes; compare Babbitt, bourgeoisie.</li><li><strong>Definition 7:</strong> The vagina or vulva.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A socialist who is not wholly communist.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Flowers in the family Caryophyllaceae, sometimes called carnations.</li><li><strong>Definition 2:</strong> The traditional scarlet jacket(s) worn by fox-hunters in the United Kingdom.</li></ul></div></div>"
+description: Yes, PINKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- pinky
+- binks
+- dinks
+- finks
+- ginks
+- jinks
+- kinks
+- links
+- minks
+- oinks
+- panks
+- penks
+anagrams:
+- spink
+trap:
+  pattern: _INKS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: The common minnow, Phoxinus phoxinus.
+  - text: A young Atlantic salmon, Salmo salar, before it becomes a smolt; a parr.
+- pos: noun
+  defs:
+  - text: A narrow boat.
+- pos: noun
+  defs:
+  - text: A stab.
+- pos: noun
+  defs:
+  - text: Any of various flowers in the genus Dianthus, sometimes called carnations.
+    example: This garden in particular has a beautiful bed of pinks.
+  - text: A perfect example; excellence, perfection; the embodiment of some quality.
+    example: Your hat, madam, is the very pink of fashion.
+  - text: The colour of this flower, between red and white; pale red.
+    example: My new dress is a wonderful shade of pink.
+  - text: Hunting pink; scarlet, as worn by hunters.
+  - text: One of the colour balls used in snooker, with a value of 6 points.
+    example: Oh dear, he's left himself snookered behind the pink.
+  - text: An unlettered and uncultured, but relatively prosperous, member of the middle
+      classes; compare Babbitt, bourgeoisie.
+  - text: The vagina or vulva.
+- pos: noun
+  defs:
+  - text: A socialist who is not wholly communist.
+- pos: noun
+  defs:
+  - text: Flowers in the family Caryophyllaceae, sometimes called carnations.
+  - text: The traditional scarlet jacket(s) worn by fox-hunters in the United Kingdom.
 ---
-

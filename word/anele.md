@@ -1,7 +1,40 @@
 ---
 layout: word
-title: anele
+title: Is ANELE a Wordle Word?
+head_title: Is ANELE a Wordle Word? Yes – Valid Guess & Meaning
 word: anele
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To anoint; to give extreme unction with oil.</li></ul></div></div>"
+description: Yes, ANELE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - A
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- angle
+- ankle
+- abele
+- ancle
+- anile
+- anole
+trap:
+  pattern: AN_LE
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To anoint; to give extreme unction with oil.
 ---
-

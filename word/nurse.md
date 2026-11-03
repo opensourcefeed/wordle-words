@@ -1,7 +1,65 @@
 ---
 layout: word
-title: nurse
+title: Is NURSE a Wordle Word?
+head_title: 'Is NURSE a Wordle Word? Yes – Past Answer #1393 & Meaning'
 word: nurse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nɜːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wet nurse.</li><li><strong>Definition 2:</strong> A person (usually a woman) who takes care of other people’s young.<p><strong>Example:</strong> They hired a nurse to care for their young boy.</p></li><li><strong>Definition 3:</strong> A person trained to provide care for the sick.<p><strong>Example:</strong> The nurse made her rounds through the hospital ward.</p></li><li><strong>Definition 4:</strong> One who, or that which, brings up, rears, causes to grow, trains, or fosters.<p><strong>Example:</strong> Eton College has been called \"the chief nurse of England's statesmen\".</p></li><li><strong>Definition 5:</strong> A shrub or tree that protects a young plant.</li><li><strong>Definition 6:</strong> A lieutenant or first officer who takes command when the captain is unfit for his place.</li><li><strong>Definition 7:</strong> A larva of certain trematodes, which produces cercariae by asexual reproduction.</li><li><strong>Definition 8:</strong> A nurse shark.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To breastfeed: to feed (a baby) at the breast; to suckle.<p><strong>Example:</strong> She believes that nursing her baby will make him strong and healthy.</p></li><li><strong>Definition 2:</strong> To breastfeed: to be fed at the breast.</li><li><strong>Definition 3:</strong> To care for (someone), especially in sickness; to tend to.<p><strong>Example:</strong> She nursed him back to health.</p></li><li><strong>Definition 4:</strong> To treat kindly and with extra care<p><strong>Example:</strong> She nursed the rosebush and that season it bloomed.</p></li><li><strong>Definition 5:</strong> To manage with care and economy</li><li><strong>Definition 6:</strong> To drink slowly</li><li><strong>Definition 7:</strong> To foster, to nourish</li><li><strong>Definition 8:</strong> To hold closely to one's chest<p><strong>Example:</strong> Would you like to nurse the puppy?</p></li><li><strong>Definition 9:</strong> To strike (billiard balls) gently, so as to keep them in good position during a series of shots.</li></ul></div></div>"
+description: Yes, NURSE is a valid Wordle word. It was the Wordle answer on April
+  12, 2025 (#1393). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 12, 2025 (#1393).
+past_answers:
+- date: '2025-04-12'
+  number: 1393
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- curse
+- purse
+- burse
+anagrams:
+- runes
+phonetic: "/nɜːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A wet nurse.
+  - text: A person (usually a woman) who takes care of other people’s young.
+    example: They hired a nurse to care for their young boy.
+  - text: A person trained to provide care for the sick.
+    example: The nurse made her rounds through the hospital ward.
+  - text: One who, or that which, brings up, rears, causes to grow, trains, or fosters.
+    example: Eton College has been called "the chief nurse of England's statesmen".
+  - text: A shrub or tree that protects a young plant.
+  - text: A lieutenant or first officer who takes command when the captain is unfit
+      for his place.
+  - text: A larva of certain trematodes, which produces cercariae by asexual reproduction.
+  - text: A nurse shark.
+- pos: verb
+  defs:
+  - text: 'To breastfeed: to feed (a baby) at the breast; to suckle.'
+    example: She believes that nursing her baby will make him strong and healthy.
+  - text: 'To breastfeed: to be fed at the breast.'
+  - text: To care for (someone), especially in sickness; to tend to.
+    example: She nursed him back to health.
+  - text: To treat kindly and with extra care
+    example: She nursed the rosebush and that season it bloomed.
+  - text: To manage with care and economy
+  - text: To drink slowly
+  - text: To foster, to nourish
+  - text: To hold closely to one's chest
+    example: Would you like to nurse the puppy?
+  - text: To strike (billiard balls) gently, so as to keep them in good position during
+      a series of shots.
 ---
-

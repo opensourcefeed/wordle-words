@@ -1,7 +1,152 @@
 ---
 layout: word
-title: drops
+title: Is DROPS a Wordle Word?
+head_title: Is DROPS a Wordle Word? Yes – Valid Guess & Meaning
 word: drops
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹɒps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small quantity of liquid, just large enough to hold its own round shape via surface tension, especially one that falls from a source of liquid.<p><strong>Example:</strong> Put three drops of oil into the mixture.</p></li><li><strong>Definition 2:</strong> A very small quantity of liquid, or (by extension) of anything.<p><strong>Example:</strong> asked for just a drop more tea; she was thirsty and there wasn't a drop of water to be found</p></li><li><strong>Definition 3:</strong> (now especially with \"the\") Alcoholic spirits in general.<p><strong>Example:</strong> It doesn't matter where you're from; anyone who enjoys the drop is a friend of mine.</p></li><li><strong>Definition 4:</strong> That which resembles or hangs like a liquid globule: a hanging diamond ornament or earring, a glass pendant on a chandelier, etc.</li><li><strong>Definition 5:</strong> A thing which drops or hangs down:</li><li><strong>Definition 6:</strong> A fall, descent; an act or instance of dropping.<p><strong>Example:</strong> That was a long drop, but fortunately I didn't break any bones.</p></li><li><strong>Definition 7:</strong> A release (of music, a vdeo game, etc).</li><li><strong>Definition 8:</strong> A decline in quantity, quality, rate, or degree; a decline (when going from one value to another).<p><strong>Example:</strong> a drop in demand for oil resulted in a drop in prices</p></li><li><strong>Definition 9:</strong> A thing, person, etc which is dropped:</li><li><strong>Definition 10:</strong> An unsolicited credit card issue.</li><li><strong>Definition 11:</strong> The amount of money that a gambler exchanges for chips in a casino.</li><li><strong>Definition 12:</strong> The distance below a cliff or other high position into which someone or something could fall; the distance to which someone or something drops; a steep slope.<p><strong>Example:</strong> On one side of the road was a 50-foot drop.</p></li><li><strong>Definition 13:</strong> The vertical length of a hanging curtain.</li><li><strong>Definition 14:</strong> The depth of a (square) sail (generally applied to the courses only); the vertical dimension of a sail.</li><li><strong>Definition 15:</strong> The distance of the axis of a shaft below the base of a hanger.</li><li><strong>Definition 16:</strong> A place where items or supplies may be left for others to collect, whether openly (as with a mail drop) or secretly or illegaly (as in espionage or crime); a drop-off point.<p><strong>Example:</strong> I left the plans at the drop, like you asked.</p></li><li><strong>Definition 17:</strong> A drop-back.<p><strong>Example:</strong> The Tiger quarterback took a one-step drop, expecting his tight end to be open.</p></li><li><strong>Definition 18:</strong> (Rugby football) A drop-kick.</li><li><strong>Definition 19:</strong> A drop target.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fall in droplets (of a liquid).</li><li><strong>Definition 2:</strong> To drip (a liquid).<p><strong>Example:</strong> The equipment shows how much the glacier has moved and the amount it dropped in height over the summer.</p></li><li><strong>Definition 3:</strong> Generally, to fall (straight down).<p><strong>Example:</strong> A single shot was fired and the bird dropped from the sky.</p></li><li><strong>Definition 4:</strong> To let fall; to allow to fall (either by releasing hold of, or losing one's grip on).<p><strong>Example:</strong> Don't drop that plate!   The police ordered the men to drop their weapons.</p></li><li><strong>Definition 5:</strong> To let drops fall; to discharge itself in drops.</li><li><strong>Definition 6:</strong> To lower; to move to a lower position.</li><li><strong>Definition 7:</strong> To set down from a vehicle; to deliver or deposit by stopping.<p><strong>Example:</strong> Could you drop me at the airport on your way to work tomorrow?</p></li><li><strong>Definition 8:</strong> To sink quickly to the ground.<p><strong>Example:</strong> Drop and give me thirty push-ups, private!</p></li><li><strong>Definition 9:</strong> To fall dead, or to fall in death.</li><li><strong>Definition 10:</strong> To come to an end (by not being kept up); to stop.</li><li><strong>Definition 11:</strong> To mention casually or incidentally, usually in conversation.<p><strong>Example:</strong> The moderator would drop hints whenever the students struggled.</p></li><li><strong>Definition 12:</strong> To part with or spend (money).</li><li><strong>Definition 13:</strong> To cease concerning oneself over; to have nothing more to do with (a subject, discussion etc.).<p><strong>Example:</strong> I'm tired of this subject. Will you just drop it?</p></li><li><strong>Definition 14:</strong> To lessen, decrease, or diminish in value, condition, degree, etc.<p><strong>Example:</strong> The stock dropped 1.5% yesterday.   We can take our vacation when the price of fuel drops.   Watch for the temperature to drop sharply, then you'll know the reaction is complete.</p></li><li><strong>Definition 15:</strong> To let (a letter etc.) fall into a postbox; to send (a letter or message) in an offhand manner.<p><strong>Example:</strong> Drop me a note when you get to the city.</p></li><li><strong>Definition 16:</strong> To make (someone or something) fall to the ground from a blow, gunshot etc.; to bring down, to shoot down.<p><strong>Example:</strong> Make any sudden movements and I will drop you!</p></li><li><strong>Definition 17:</strong> To fail to write, or (especially) to pronounce (a syllable, letter etc.).<p><strong>Example:</strong> Cockneys drop their aitches.</p></li><li><strong>Definition 18:</strong> (of a fielder) To fail to make a catch from a batted ball that would have led to the batsman being out.<p><strong>Example:</strong> Warne dropped Tendulkar on 99. Tendulkar went on to get a century next ball</p></li><li><strong>Definition 19:</strong> To swallow (a drug), particularly LSD.<p><strong>Example:</strong> They had never dropped acid.</p></li><li><strong>Definition 20:</strong> To dispose (of); get rid of; to remove; to lose.<p><strong>Example:</strong> I dropped ten pounds and an obnoxious fiancée.</p></li><li><strong>Definition 21:</strong> To eject; to dismiss; to cease to include, as if on a list.<p><strong>Example:</strong> I've been dropped from the football team.</p></li><li><strong>Definition 22:</strong> To drop out of the betting.</li><li><strong>Definition 23:</strong> (rugby football) To score (a goal) by means of a drop kick.</li><li><strong>Definition 24:</strong> To impart.<p><strong>Example:</strong> I drop knowledge wherever I go.</p></li><li><strong>Definition 25:</strong> To release to the public.<p><strong>Example:</strong> That hacker has been threatening to drop my docs [i.e. publish my personal information].</p></li><li><strong>Definition 26:</strong> To play a portion of music in the manner of a disc jockey.<p><strong>Example:</strong> I love it when he drops his funky beats.</p></li><li><strong>Definition 27:</strong> To enter public distribution.<p><strong>Example:</strong> \"Hip-Hop Xmas\" dropped in time for the holidays.</p></li><li><strong>Definition 28:</strong> To tune (a guitar string, etc.) to a lower note.</li><li><strong>Definition 29:</strong> To cancel or end a scheduled event, project or course.<p><strong>Example:</strong> I had to drop calculus because it was taking up too much of my time and I couldn't go anymore.</p></li><li><strong>Definition 30:</strong> (fast food) To cook, especially by deep-frying or grilling.<p><strong>Example:</strong> Drop a basket of fries.</p></li><li><strong>Definition 31:</strong> (of a voice) To lower in timbre, often relating to puberty.<p><strong>Example:</strong> Billy's voice dropped suddenly when he turned 12.</p></li><li><strong>Definition 32:</strong> (of a sound or song) To lower in pitch, tempo, key, or other quality.<p><strong>Example:</strong> My synthesizer makes the notes sound funny when they drop below C2.</p></li><li><strong>Definition 33:</strong> (of people) To visit informally; used with in or by.<p><strong>Example:</strong> Do drop by soon and I'll lend you that book.</p></li><li><strong>Definition 34:</strong> To give birth to.<p><strong>Example:</strong> to drop a lamb</p></li><li><strong>Definition 35:</strong> To cover with drops; to variegate; to bedrop.</li><li><strong>Definition 36:</strong> (of the testicles) To hang lower and begin producing sperm due to puberty.</li></ul></div></div>"
+description: Yes, DROPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- dross
+- crops
+- draps
+- drips
+- dropt
+- drows
+- props
+anagrams:
+- dorps
+- prods
+- sprod
+phonetic: "/dɹɒps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small quantity of liquid, just large enough to hold its own round shape
+      via surface tension, especially one that falls from a source of liquid.
+    example: Put three drops of oil into the mixture.
+  - text: A very small quantity of liquid, or (by extension) of anything.
+    example: asked for just a drop more tea; she was thirsty and there wasn't a drop
+      of water to be found
+  - text: (now especially with "the") Alcoholic spirits in general.
+    example: It doesn't matter where you're from; anyone who enjoys the drop is a
+      friend of mine.
+  - text: 'That which resembles or hangs like a liquid globule: a hanging diamond
+      ornament or earring, a glass pendant on a chandelier, etc.'
+  - text: 'A thing which drops or hangs down:'
+  - text: A fall, descent; an act or instance of dropping.
+    example: That was a long drop, but fortunately I didn't break any bones.
+  - text: A release (of music, a vdeo game, etc).
+  - text: A decline in quantity, quality, rate, or degree; a decline (when going from
+      one value to another).
+    example: a drop in demand for oil resulted in a drop in prices
+  - text: 'A thing, person, etc which is dropped:'
+  - text: An unsolicited credit card issue.
+  - text: The amount of money that a gambler exchanges for chips in a casino.
+  - text: The distance below a cliff or other high position into which someone or
+      something could fall; the distance to which someone or something drops; a steep
+      slope.
+    example: On one side of the road was a 50-foot drop.
+  - text: The vertical length of a hanging curtain.
+  - text: The depth of a (square) sail (generally applied to the courses only); the
+      vertical dimension of a sail.
+  - text: The distance of the axis of a shaft below the base of a hanger.
+  - text: A place where items or supplies may be left for others to collect, whether
+      openly (as with a mail drop) or secretly or illegaly (as in espionage or crime);
+      a drop-off point.
+    example: I left the plans at the drop, like you asked.
+  - text: A drop-back.
+    example: The Tiger quarterback took a one-step drop, expecting his tight end to
+      be open.
+  - text: "(Rugby football) A drop-kick."
+  - text: A drop target.
+- pos: verb
+  defs:
+  - text: To fall in droplets (of a liquid).
+  - text: To drip (a liquid).
+    example: The equipment shows how much the glacier has moved and the amount it
+      dropped in height over the summer.
+  - text: Generally, to fall (straight down).
+    example: A single shot was fired and the bird dropped from the sky.
+  - text: To let fall; to allow to fall (either by releasing hold of, or losing one's
+      grip on).
+    example: Don't drop that plate!   The police ordered the men to drop their weapons.
+  - text: To let drops fall; to discharge itself in drops.
+  - text: To lower; to move to a lower position.
+  - text: To set down from a vehicle; to deliver or deposit by stopping.
+    example: Could you drop me at the airport on your way to work tomorrow?
+  - text: To sink quickly to the ground.
+    example: Drop and give me thirty push-ups, private!
+  - text: To fall dead, or to fall in death.
+  - text: To come to an end (by not being kept up); to stop.
+  - text: To mention casually or incidentally, usually in conversation.
+    example: The moderator would drop hints whenever the students struggled.
+  - text: To part with or spend (money).
+  - text: To cease concerning oneself over; to have nothing more to do with (a subject,
+      discussion etc.).
+    example: I'm tired of this subject. Will you just drop it?
+  - text: To lessen, decrease, or diminish in value, condition, degree, etc.
+    example: The stock dropped 1.5% yesterday.   We can take our vacation when the
+      price of fuel drops.   Watch for the temperature to drop sharply, then you'll
+      know the reaction is complete.
+  - text: To let (a letter etc.) fall into a postbox; to send (a letter or message)
+      in an offhand manner.
+    example: Drop me a note when you get to the city.
+  - text: To make (someone or something) fall to the ground from a blow, gunshot etc.;
+      to bring down, to shoot down.
+    example: Make any sudden movements and I will drop you!
+  - text: To fail to write, or (especially) to pronounce (a syllable, letter etc.).
+    example: Cockneys drop their aitches.
+  - text: "(of a fielder) To fail to make a catch from a batted ball that would have
+      led to the batsman being out."
+    example: Warne dropped Tendulkar on 99. Tendulkar went on to get a century next
+      ball
+  - text: To swallow (a drug), particularly LSD.
+    example: They had never dropped acid.
+  - text: To dispose (of); get rid of; to remove; to lose.
+    example: I dropped ten pounds and an obnoxious fiancée.
+  - text: To eject; to dismiss; to cease to include, as if on a list.
+    example: I've been dropped from the football team.
+  - text: To drop out of the betting.
+  - text: "(rugby football) To score (a goal) by means of a drop kick."
+  - text: To impart.
+    example: I drop knowledge wherever I go.
+  - text: To release to the public.
+    example: That hacker has been threatening to drop my docs [i.e. publish my personal
+      information].
+  - text: To play a portion of music in the manner of a disc jockey.
+    example: I love it when he drops his funky beats.
+  - text: To enter public distribution.
+    example: '"Hip-Hop Xmas" dropped in time for the holidays.'
+  - text: To tune (a guitar string, etc.) to a lower note.
+  - text: To cancel or end a scheduled event, project or course.
+    example: I had to drop calculus because it was taking up too much of my time and
+      I couldn't go anymore.
+  - text: "(fast food) To cook, especially by deep-frying or grilling."
+    example: Drop a basket of fries.
+  - text: "(of a voice) To lower in timbre, often relating to puberty."
+    example: Billy's voice dropped suddenly when he turned 12.
+  - text: "(of a sound or song) To lower in pitch, tempo, key, or other quality."
+    example: My synthesizer makes the notes sound funny when they drop below C2.
+  - text: "(of people) To visit informally; used with in or by."
+    example: Do drop by soon and I'll lend you that book.
+  - text: To give birth to.
+    example: to drop a lamb
+  - text: To cover with drops; to variegate; to bedrop.
+  - text: "(of the testicles) To hang lower and begin producing sperm due to puberty."
 ---
-

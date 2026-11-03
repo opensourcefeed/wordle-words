@@ -1,7 +1,51 @@
 ---
 layout: word
-title: talon
+title: Is TALON a Wordle Word?
+head_title: 'Is TALON a Wordle Word? Yes – Past Answer #970 & Meaning'
 word: talon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtælən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sharp, hooked claw of a bird of prey or other predatory animal.</li><li><strong>Definition 2:</strong> One of certain small prominences on the hind part of the face of an elephant's tooth.</li><li><strong>Definition 3:</strong> A kind of moulding, concave at the bottom and convex at the top; an ogee. (When the concave part is at the top, it is called an inverted talon.)</li><li><strong>Definition 4:</strong> The shoulder of the bolt of a lock on which the key acts to shoot the bolt.</li><li><strong>Definition 5:</strong> In various card games, the remaining stock of undealt cards.</li></ul></div></div>"
+description: Yes, TALON is a valid Wordle word. It was the Wordle answer on February
+  14, 2024 (#970). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 14, 2024 (#970).
+past_answers:
+- date: '2024-02-14'
+  number: 970
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  - L
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- salon
+- balon
+- halon
+- tauon
+- taxon
+anagrams:
+- tonal
+- notal
+- ontal
+- tolan
+phonetic: "/ˈtælən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sharp, hooked claw of a bird of prey or other predatory animal.
+  - text: One of certain small prominences on the hind part of the face of an elephant's
+      tooth.
+  - text: A kind of moulding, concave at the bottom and convex at the top; an ogee.
+      (When the concave part is at the top, it is called an inverted talon.)
+  - text: The shoulder of the bolt of a lock on which the key acts to shoot the bolt.
+  - text: In various card games, the remaining stock of undealt cards.
 ---
-

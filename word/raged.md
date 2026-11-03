@@ -1,7 +1,53 @@
 ---
 layout: word
-title: raged
+title: Is RAGED a Wordle Word?
+head_title: Is RAGED a Wordle Word? Yes – Valid Guess & Meaning
 word: raged
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To act or speak in heightened anger.</li><li><strong>Definition 2:</strong> (sometimes figurative) To move with great violence, as a storm etc.</li><li><strong>Definition 3:</strong> To enrage.</li></ul></div></div>"
+description: Yes, RAGED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- caged
+- gaged
+- paged
+- raced
+- ragee
+- rager
+- rages
+- rahed
+- raked
+- raned
+- raped
+- rared
+anagrams:
+- grade
+- garde
+- radge
+- ragde
+trap:
+  pattern: RA_ED
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: To act or speak in heightened anger.
+  - text: "(sometimes figurative) To move with great violence, as a storm etc."
+  - text: To enrage.
 ---
-

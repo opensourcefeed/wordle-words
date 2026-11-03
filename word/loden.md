@@ -1,7 +1,43 @@
 ---
 layout: word
-title: loden
+title: Is LODEN a Wordle Word?
+head_title: Is LODEN a Wordle Word? Yes – Valid Guess & Meaning
 word: loden
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈləʊdən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thick waterproof cloth used for garments.</li><li><strong>Definition 2:</strong> A dark green colour, like that of loden cloth.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a dark green colour, like that of loden cloth.</li></ul></div></div>"
+description: Yes, LODEN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- laden
+- coden
+- lodes
+- losen
+- lowen
+- lozen
+anagrams:
+- olden
+phonetic: "/ˈləʊdən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thick waterproof cloth used for garments.
+  - text: A dark green colour, like that of loden cloth.
+- pos: adjective
+  defs:
+  - text: Of a dark green colour, like that of loden cloth.
 ---
-

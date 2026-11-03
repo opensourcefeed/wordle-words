@@ -1,7 +1,44 @@
 ---
 layout: word
-title: blurt
+title: Is BLURT a Wordle Word?
+head_title: 'Is BLURT a Wordle Word? Yes – Past Answer #139 & Meaning'
 word: blurt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An abrupt outburst.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To utter suddenly and unadvisedly; to speak quickly or without thought; to divulge inconsiderately — commonly with out.<p><strong>Example:</strong> Please think about your reply and don't just blurt out the first thing that comes to mind.</p></li></ul></div></div>"
+description: Yes, BLURT is a valid Wordle word. It was the Wordle answer on November
+  5, 2021 (#139). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 5, 2021 (#139).
+past_answers:
+- date: '2021-11-05'
+  number: 139
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- blunt
+- blurb
+- blart
+- blert
+- bluet
+- blurs
+definitions:
+- pos: noun
+  defs:
+  - text: An abrupt outburst.
+- pos: verb
+  defs:
+  - text: To utter suddenly and unadvisedly; to speak quickly or without thought;
+      to divulge inconsiderately — commonly with out.
+    example: Please think about your reply and don't just blurt out the first thing
+      that comes to mind.
 ---
-

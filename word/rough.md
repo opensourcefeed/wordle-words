@@ -1,7 +1,86 @@
 ---
 layout: word
-title: rough
+title: Is ROUGH a Wordle Word?
+head_title: 'Is ROUGH a Wordle Word? Yes – Past Answer #1443 & Meaning'
 word: rough
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The unmowed part of a golf course.</li><li><strong>Definition 2:</strong> A rude fellow; a coarse bully; a rowdy.</li><li><strong>Definition 3:</strong> A scuffed and roughened area of the pitch, where the bowler's feet fall, used as a target by spin bowlers because of its unpredictable bounce.</li><li><strong>Definition 4:</strong> The raw material from which faceted or cabochon gems are created.</li><li><strong>Definition 5:</strong> A quick sketch, similar to a thumbnail but larger and more detailed, used for artistic brainstorming.</li><li><strong>Definition 6:</strong> Boisterous weather.</li><li><strong>Definition 7:</strong> A piece inserted in a horseshoe to keep the animal from slipping.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To create in an approximate form.<p><strong>Example:</strong> Rough in the shape first, then polish the details.</p></li><li><strong>Definition 2:</strong> To commit the offense of roughing, i.e. to punch another player.</li><li><strong>Definition 3:</strong> To render rough; to roughen.</li><li><strong>Definition 4:</strong> To break in (a horse, etc.), especially for military purposes.</li><li><strong>Definition 5:</strong> To endure primitive conditions.</li><li><strong>Definition 6:</strong> To roughen a horse's shoes to keep the animal from slipping.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not smooth; uneven.</li><li><strong>Definition 2:</strong> Approximate; hasty or careless; not finished.<p><strong>Example:</strong> a rough estimate; a rough sketch of a building; a rough plan</p></li><li><strong>Definition 3:</strong> Turbulent.<p><strong>Example:</strong> rough sea</p></li><li><strong>Definition 4:</strong> Difficult; trying.<p><strong>Example:</strong> Being a teenager nowadays can be rough.</p></li><li><strong>Definition 5:</strong> Crude; unrefined<p><strong>Example:</strong> His manners are a bit rough, but he means well.</p></li><li><strong>Definition 6:</strong> Violent; not careful or subtle<p><strong>Example:</strong> This box has been through some rough handling.</p></li><li><strong>Definition 7:</strong> Loud and hoarse; offensive to the ear; harsh; grating.<p><strong>Example:</strong> a rough tone; a rough voice</p></li><li><strong>Definition 8:</strong> Not polished; uncut; said of a gem.<p><strong>Example:</strong> a rough diamond</p></li><li><strong>Definition 9:</strong> Harsh-tasting.<p><strong>Example:</strong> rough wine</p></li><li><strong>Definition 10:</strong> Somewhat ill; sick</li><li><strong>Definition 11:</strong> Unwell due to alcohol; hungover</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a rough manner; rudely; roughly.</li></ul></div></div>"
+description: Yes, ROUGH is a valid Wordle word. It was the Wordle answer on June 1,
+  2025 (#1443). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 1, 2025 (#1443).
+past_answers:
+- date: '2025-06-01'
+  number: 1443
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- bough
+- cough
+- dough
+- rouge
+- tough
+- hough
+- lough
+- rougy
+- routh
+- sough
+trap:
+  pattern: _OUGH
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: The unmowed part of a golf course.
+  - text: A rude fellow; a coarse bully; a rowdy.
+  - text: A scuffed and roughened area of the pitch, where the bowler's feet fall,
+      used as a target by spin bowlers because of its unpredictable bounce.
+  - text: The raw material from which faceted or cabochon gems are created.
+  - text: A quick sketch, similar to a thumbnail but larger and more detailed, used
+      for artistic brainstorming.
+  - text: Boisterous weather.
+  - text: A piece inserted in a horseshoe to keep the animal from slipping.
+- pos: verb
+  defs:
+  - text: To create in an approximate form.
+    example: Rough in the shape first, then polish the details.
+  - text: To commit the offense of roughing, i.e. to punch another player.
+  - text: To render rough; to roughen.
+  - text: To break in (a horse, etc.), especially for military purposes.
+  - text: To endure primitive conditions.
+  - text: To roughen a horse's shoes to keep the animal from slipping.
+- pos: adjective
+  defs:
+  - text: Not smooth; uneven.
+  - text: Approximate; hasty or careless; not finished.
+    example: a rough estimate; a rough sketch of a building; a rough plan
+  - text: Turbulent.
+    example: rough sea
+  - text: Difficult; trying.
+    example: Being a teenager nowadays can be rough.
+  - text: Crude; unrefined
+    example: His manners are a bit rough, but he means well.
+  - text: Violent; not careful or subtle
+    example: This box has been through some rough handling.
+  - text: Loud and hoarse; offensive to the ear; harsh; grating.
+    example: a rough tone; a rough voice
+  - text: Not polished; uncut; said of a gem.
+    example: a rough diamond
+  - text: Harsh-tasting.
+    example: rough wine
+  - text: Somewhat ill; sick
+  - text: Unwell due to alcohol; hungover
+- pos: adverb
+  defs:
+  - text: In a rough manner; rudely; roughly.
 ---
-

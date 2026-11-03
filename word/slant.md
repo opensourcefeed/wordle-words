@@ -1,7 +1,88 @@
 ---
 layout: word
-title: slant
+title: Is SLANT a Wordle Word?
+head_title: Is SLANT a Wordle Word? Yes – Possible Answer & Meaning
 word: slant
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈslænt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slope; an incline, inclination.<p><strong>Example:</strong> The house was built on a bit of a slant and was never quite level.</p></li><li><strong>Definition 2:</strong> A sloped surface or line.</li><li><strong>Definition 3:</strong> A run: a heading driven diagonally between the dip and strike of a coal seam.</li><li><strong>Definition 4:</strong> An oblique movement or course.</li><li><strong>Definition 5:</strong> A sloping surface in a culture medium.</li><li><strong>Definition 6:</strong> A pan with a sloped bottom used for holding paintbrushes.</li><li><strong>Definition 7:</strong> A container or surface bearing shallow sloping areas to hold watercolors.</li><li><strong>Definition 8:</strong> A sarcastic remark; shade, an indirect mocking insult.</li><li><strong>Definition 9:</strong> An opportunity, particularly to go somewhere.</li><li><strong>Definition 10:</strong> A crime committed for the purpose of being apprehended and transported to a major settlement.</li><li><strong>Definition 11:</strong> (originally United States) A point of view, an angle; a bias.<p><strong>Example:</strong> It was a well written article, but it had a bit of a leftist slant.</p></li><li><strong>Definition 12:</strong> A look, a glance.</li><li><strong>Definition 13:</strong> A person with slanting eyes, particularly an East Asian.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lean, tilt or incline.<p><strong>Example:</strong> If you slant the track a little more, the marble will roll down it faster.</p></li><li><strong>Definition 2:</strong> To bias or skew.<p><strong>Example:</strong> The group tends to slant its policies in favor of the big businesses it serves.</p></li><li><strong>Definition 3:</strong> To lie or exaggerate.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sloping; oblique; slanted.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slashing action or motion, particularly:</li><li><strong>Definition 2:</strong> A mark made by a slashing motion, particularly:</li><li><strong>Definition 3:</strong> Something resembling such a mark, particularly:</li><li><strong>Definition 4:</strong> The loose woody debris remaining from a slash, (particularly forestry) the trimmings left while preparing felled trees for removal.<p><strong>Example:</strong> Slash generated during logging may constitute a fire hazard.</p></li><li><strong>Definition 5:</strong> Slash fiction.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A drink of something; a draft.</li><li><strong>Definition 2:</strong> A piss: an act of urination.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A swampy area; a swamp.</li><li><strong>Definition 2:</strong> A large quantity of watery food such as broth.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The period of a transitory breeze.</li><li><strong>Definition 2:</strong> An interval of good weather.</li><li><strong>Definition 3:</strong> The loose part of a rope; slack.</li></ul></div></div>"
+description: Yes, SLANT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- plant
+- scant
+- slang
+- alant
+- slane
+- slank
+- slart
+anagrams:
+- lants
+phonetic: "/ˈslænt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A slope; an incline, inclination.
+    example: The house was built on a bit of a slant and was never quite level.
+  - text: A sloped surface or line.
+  - text: 'A run: a heading driven diagonally between the dip and strike of a coal
+      seam.'
+  - text: An oblique movement or course.
+  - text: A sloping surface in a culture medium.
+  - text: A pan with a sloped bottom used for holding paintbrushes.
+  - text: A container or surface bearing shallow sloping areas to hold watercolors.
+  - text: A sarcastic remark; shade, an indirect mocking insult.
+  - text: An opportunity, particularly to go somewhere.
+  - text: A crime committed for the purpose of being apprehended and transported to
+      a major settlement.
+  - text: "(originally United States) A point of view, an angle; a bias."
+    example: It was a well written article, but it had a bit of a leftist slant.
+  - text: A look, a glance.
+  - text: A person with slanting eyes, particularly an East Asian.
+- pos: verb
+  defs:
+  - text: To lean, tilt or incline.
+    example: If you slant the track a little more, the marble will roll down it faster.
+  - text: To bias or skew.
+    example: The group tends to slant its policies in favor of the big businesses
+      it serves.
+  - text: To lie or exaggerate.
+- pos: adjective
+  defs:
+  - text: Sloping; oblique; slanted.
+- pos: noun
+  defs:
+  - text: 'A slashing action or motion, particularly:'
+  - text: 'A mark made by a slashing motion, particularly:'
+  - text: 'Something resembling such a mark, particularly:'
+  - text: The loose woody debris remaining from a slash, (particularly forestry) the
+      trimmings left while preparing felled trees for removal.
+    example: Slash generated during logging may constitute a fire hazard.
+  - text: Slash fiction.
+- pos: noun
+  defs:
+  - text: A drink of something; a draft.
+  - text: 'A piss: an act of urination.'
+- pos: noun
+  defs:
+  - text: A swampy area; a swamp.
+  - text: A large quantity of watery food such as broth.
+- pos: noun
+  defs:
+  - text: The period of a transitory breeze.
+  - text: An interval of good weather.
+  - text: The loose part of a rope; slack.
 ---
-

@@ -1,7 +1,42 @@
 ---
 layout: word
-title: scuba
+title: Is SCUBA a Wordle Word?
+head_title: 'Is SCUBA a Wordle Word? Yes – Past Answer #1928 & Meaning'
 word: scuba
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈskuːbə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (underwater diving) An apparatus carried by a diver, which includes a tank holding compressed, filtered air and a regulator which delivers the air to the diver at ambient pressure which can be used underwater.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To perform scuba diving.</li></ul></div></div>"
+description: Yes, SCUBA is a valid Wordle word. It was the Wordle answer on September
+  29, 2026 (#1928). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 29, 2026 (#1928).
+past_answers:
+- date: '2026-09-29'
+  number: 1928
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- sauba
+- scuta
+- shuba
+anagrams:
+- ubacs
+phonetic: "/ˈskuːbə/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(underwater diving) An apparatus carried by a diver, which includes a tank
+      holding compressed, filtered air and a regulator which delivers the air to the
+      diver at ambient pressure which can be used underwater."
+- pos: verb
+  defs:
+  - text: To perform scuba diving.
 ---
-

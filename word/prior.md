@@ -1,7 +1,53 @@
 ---
 layout: word
-title: prior
+title: Is PRIOR a Wordle Word?
+head_title: 'Is PRIOR a Wordle Word? Yes – Past Answer #1094 & Meaning'
 word: prior
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɹaɪɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A high-ranking member of a monastery, usually lower in rank than an abbot.</li><li><strong>Definition 2:</strong> A chief magistrate in Italy.</li><li><strong>Definition 3:</strong> (law enforcement) A previous arrest or criminal conviction on someone's record.</li><li><strong>Definition 4:</strong> In Bayesian inference, a prior probability distribution, one based on information or belief before additional data is collected.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Advance; previous; coming before.<p><strong>Example:</strong> I had no prior knowledge you were coming.</p></li><li><strong>Definition 2:</strong> Former, previous.<p><strong>Example:</strong> His prior residence was smaller than his current one.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Previously.<p><strong>Example:</strong> The doctor had known three months prior.</p></li></ul></div></div>"
+description: Yes, PRIOR is a valid Wordle word. It was the Wordle answer on June 17,
+  2024 (#1094). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 17, 2024 (#1094).
+past_answers:
+- date: '2024-06-17'
+  number: 1094
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- prier
+- prion
+- trior
+phonetic: "/ˈpɹaɪɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A high-ranking member of a monastery, usually lower in rank than an abbot.
+  - text: A chief magistrate in Italy.
+  - text: "(law enforcement) A previous arrest or criminal conviction on someone's
+      record."
+  - text: In Bayesian inference, a prior probability distribution, one based on information
+      or belief before additional data is collected.
+- pos: adjective
+  defs:
+  - text: Advance; previous; coming before.
+    example: I had no prior knowledge you were coming.
+  - text: Former, previous.
+    example: His prior residence was smaller than his current one.
+- pos: adverb
+  defs:
+  - text: Previously.
+    example: The doctor had known three months prior.
 ---
-

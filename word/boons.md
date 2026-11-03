@@ -1,7 +1,52 @@
 ---
 layout: word
-title: boons
+title: Is BOONS a Wordle Word?
+head_title: Is BOONS a Wordle Word? Yes – Valid Guess & Meaning
 word: boons
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /buːnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prayer; petition.</li><li><strong>Definition 2:</strong> That which is asked or granted as a benefit or favor; a gift or benefaction.</li><li><strong>Definition 3:</strong> A good thing; a blessing or benefit; a thing to be thankful for.<p><strong>Example:</strong> Anaesthetics are a great boon to modern surgery.</p></li><li><strong>Definition 4:</strong> An unpaid service due by a tenant to his lord.</li></ul></div></div>"
+description: Yes, BOONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- baons
+- bions
+- boobs
+- boohs
+- books
+- bools
+- booms
+- boors
+- boots
+- bouns
+- goons
+- hoons
+anagrams:
+- boson
+- noobs
+trap:
+  pattern: _OONS
+  count: 12
+phonetic: "/buːnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A prayer; petition.
+  - text: That which is asked or granted as a benefit or favor; a gift or benefaction.
+  - text: A good thing; a blessing or benefit; a thing to be thankful for.
+    example: Anaesthetics are a great boon to modern surgery.
+  - text: An unpaid service due by a tenant to his lord.
 ---
-

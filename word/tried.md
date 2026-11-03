@@ -1,7 +1,62 @@
 ---
 layout: word
-title: tried
+title: Is TRIED a Wordle Word?
+head_title: Is TRIED a Wordle Word? Yes – Possible Answer & Meaning
 word: tried
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Tested, hence, proven to be firm or reliable.</li><li><strong>Definition 2:</strong> Put on trial, taken before a lawcourt.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attempt; to endeavour. Followed by infinitive.<p><strong>Example:</strong> I tried to rollerblade, but I couldn’t.</p></li><li><strong>Definition 2:</strong> To divide; to separate.</li><li><strong>Definition 3:</strong> To test, to work out.</li><li><strong>Definition 4:</strong> To experiment, to strive.</li><li><strong>Definition 5:</strong> To lie to in heavy weather under just sufficient sail to head into the wind.</li><li><strong>Definition 6:</strong> To strain; to subject to excessive tests.<p><strong>Example:</strong> Repeated failures try one's patience.</p></li><li><strong>Definition 7:</strong> (used with another verb) To want<p><strong>Example:</strong> I am really not trying to hear you talk about my mama like that.</p></li></ul></div></div>"
+description: Yes, TRIED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- cried
+- dried
+- fried
+- pried
+- triad
+- treed
+- trier
+- tries
+- trild
+- trued
+- wried
+anagrams:
+- tired
+- tride
+trap:
+  pattern: _RIED
+  count: 6
+phonetic: "/tɹaɪd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Tested, hence, proven to be firm or reliable.
+  - text: Put on trial, taken before a lawcourt.
+- pos: verb
+  defs:
+  - text: To attempt; to endeavour. Followed by infinitive.
+    example: I tried to rollerblade, but I couldn’t.
+  - text: To divide; to separate.
+  - text: To test, to work out.
+  - text: To experiment, to strive.
+  - text: To lie to in heavy weather under just sufficient sail to head into the wind.
+  - text: To strain; to subject to excessive tests.
+    example: Repeated failures try one's patience.
+  - text: "(used with another verb) To want"
+    example: I am really not trying to hear you talk about my mama like that.
 ---
-

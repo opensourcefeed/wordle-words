@@ -1,7 +1,51 @@
 ---
 layout: word
-title: renew
+title: Is RENEW a Wordle Word?
+head_title: 'Is RENEW a Wordle Word? Yes – Past Answer #274 & Meaning'
 word: renew
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈnjuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make (something) new again; to restore to freshness or original condition.</li><li><strong>Definition 2:</strong> To replace (something which has broken etc.); to replenish (something which has been exhausted), to keep up a required supply of.</li><li><strong>Definition 3:</strong> To make new spiritually; to regenerate.</li><li><strong>Definition 4:</strong> To become new, or as new; to revive.</li><li><strong>Definition 5:</strong> To begin again; to recommence.</li><li><strong>Definition 6:</strong> To repeat.</li><li><strong>Definition 7:</strong> To extend a period of loan, especially a library book that is due to be returned.<p><strong>Example:</strong> I'd like to renew these three books.  Did you know that you can renew online?</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of renewing.</li><li><strong>Definition 2:</strong> An offensive action made immediately after a parried one.</li></ul></div></div>"
+description: Yes, RENEW is a valid Wordle word. It was the Wordle answer on March
+  20, 2022 (#274). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 20, 2022 (#274).
+past_answers:
+- date: '2022-03-20'
+  number: 274
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- reney
+- resew
+anagrams:
+- newer
+phonetic: "/ɹɪˈnjuː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make (something) new again; to restore to freshness or original condition.
+  - text: To replace (something which has broken etc.); to replenish (something which
+      has been exhausted), to keep up a required supply of.
+  - text: To make new spiritually; to regenerate.
+  - text: To become new, or as new; to revive.
+  - text: To begin again; to recommence.
+  - text: To repeat.
+  - text: To extend a period of loan, especially a library book that is due to be
+      returned.
+    example: I'd like to renew these three books.  Did you know that you can renew
+      online?
+- pos: noun
+  defs:
+  - text: The act of renewing.
+  - text: An offensive action made immediately after a parried one.
 ---
-

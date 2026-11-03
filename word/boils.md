@@ -1,7 +1,72 @@
 ---
 layout: word
-title: boils
+title: Is BOILS a Wordle Word?
+head_title: Is BOILS a Wordle Word? Yes – Valid Guess & Meaning
 word: boils
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɔɪlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A localized accumulation of pus in the skin, resulting from infection.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The point at which fluid begins to change to a vapour.<p><strong>Example:</strong> Add the noodles when the water comes to the boil.</p></li><li><strong>Definition 2:</strong> A dish of boiled food, especially based on seafood.</li><li><strong>Definition 3:</strong> The collective noun for a group of hawks.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of liquids) To heat to the point where it begins to turn into a gas.<p><strong>Example:</strong> Boil some water in a pan.</p></li><li><strong>Definition 2:</strong> To cook in boiling water.<p><strong>Example:</strong> Boil the eggs for three minutes.</p></li><li><strong>Definition 3:</strong> (of liquids) To begin to turn into a gas, seethe.<p><strong>Example:</strong> Pure water boils at 100 degrees Celsius.</p></li><li><strong>Definition 4:</strong> To bring to a boil, to heat so as to cause the contents to boil.</li><li><strong>Definition 5:</strong> (used only in progressive tenses, of weather) To be uncomfortably hot.<p><strong>Example:</strong> It’s boiling outside!</p></li><li><strong>Definition 6:</strong> (used only in progressive tenses) To feel uncomfortably hot.<p><strong>Example:</strong> I’m boiling in here – could you open the window?</p></li><li><strong>Definition 7:</strong> To form, or separate, by boiling or evaporation.<p><strong>Example:</strong> to boil sugar or salt</p></li><li><strong>Definition 8:</strong> To steep or soak in warm water.</li><li><strong>Definition 9:</strong> To be agitated like boiling water; to bubble; to effervesce.<p><strong>Example:</strong> the boiling waves of the sea</p></li><li><strong>Definition 10:</strong> To be moved or excited with passion; to be hot or fervid.<p><strong>Example:</strong> His blood boils with anger.</p></li></ul></div></div>"
+description: Yes, BOILS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- bails
+- bolls
+- bools
+- bowls
+- coils
+- foils
+- moils
+- noils
+- roils
+- soils
+- toils
+trap:
+  pattern: _OILS
+  count: 8
+phonetic: "/bɔɪlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A localized accumulation of pus in the skin, resulting from infection.
+- pos: noun
+  defs:
+  - text: The point at which fluid begins to change to a vapour.
+    example: Add the noodles when the water comes to the boil.
+  - text: A dish of boiled food, especially based on seafood.
+  - text: The collective noun for a group of hawks.
+- pos: verb
+  defs:
+  - text: "(of liquids) To heat to the point where it begins to turn into a gas."
+    example: Boil some water in a pan.
+  - text: To cook in boiling water.
+    example: Boil the eggs for three minutes.
+  - text: "(of liquids) To begin to turn into a gas, seethe."
+    example: Pure water boils at 100 degrees Celsius.
+  - text: To bring to a boil, to heat so as to cause the contents to boil.
+  - text: "(used only in progressive tenses, of weather) To be uncomfortably hot."
+    example: It’s boiling outside!
+  - text: "(used only in progressive tenses) To feel uncomfortably hot."
+    example: I’m boiling in here – could you open the window?
+  - text: To form, or separate, by boiling or evaporation.
+    example: to boil sugar or salt
+  - text: To steep or soak in warm water.
+  - text: To be agitated like boiling water; to bubble; to effervesce.
+    example: the boiling waves of the sea
+  - text: To be moved or excited with passion; to be hot or fervid.
+    example: His blood boils with anger.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: scion
+title: Is SCION a Wordle Word?
+head_title: Is SCION a Wordle Word? Yes – Possible Answer & Meaning
 word: scion
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsaɪən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A descendant, especially a first-generation descendant of a distinguished family.</li><li><strong>Definition 2:</strong> The heir to a throne.</li><li><strong>Definition 3:</strong> A guardian.</li><li><strong>Definition 4:</strong> A detached shoot or twig containing buds from a woody plant, used in grafting; a shoot or twig in a general sense.</li></ul></div></div>"
+description: Yes, SCION is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+anagrams:
+- sonic
+- cions
+- coins
+- icons
+phonetic: "/ˈsaɪən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A descendant, especially a first-generation descendant of a distinguished
+      family.
+  - text: The heir to a throne.
+  - text: A guardian.
+  - text: A detached shoot or twig containing buds from a woody plant, used in grafting;
+      a shoot or twig in a general sense.
 ---
-

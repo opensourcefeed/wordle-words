@@ -1,7 +1,43 @@
 ---
 layout: word
-title: suing
+title: Is SUING a Wordle Word?
+head_title: Is SUING a Wordle Word? Yes – Possible Answer & Meaning
 word: suing
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To file a legal action against someone, generally a non-criminal action.</li><li><strong>Definition 2:</strong> To seek by request; to make application; to petition; to entreat; to plead.</li><li><strong>Definition 3:</strong> (of a hawk) To clean (the beak, etc.).</li><li><strong>Definition 4:</strong> To leave high and dry on shore.<p><strong>Example:</strong> to sue a ship</p></li><li><strong>Definition 5:</strong> To court.</li><li><strong>Definition 6:</strong> To follow.</li></ul></div></div>"
+description: Yes, SUING is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- sling
+- sting
+- swing
+- cuing
+- duing
+- ruing
+- suint
+anagrams:
+- using
+definitions:
+- pos: verb
+  defs:
+  - text: To file a legal action against someone, generally a non-criminal action.
+  - text: To seek by request; to make application; to petition; to entreat; to plead.
+  - text: "(of a hawk) To clean (the beak, etc.)."
+  - text: To leave high and dry on shore.
+    example: to sue a ship
+  - text: To court.
+  - text: To follow.
 ---
-

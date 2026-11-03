@@ -1,7 +1,77 @@
 ---
 layout: word
-title: purls
+title: Is PURLS a Wordle Word?
+head_title: Is PURLS a Wordle Word? Yes – Valid Guess & Meaning
 word: purls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɜːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A particular stitch in knitting; an inversion of stitches giving the work a ribbed or waved appearance.</li><li><strong>Definition 2:</strong> The edge of lace trimmed with loops.</li><li><strong>Definition 3:</strong> An embroidered and puckered border; a hem or fringe, often of gold or silver twist; also, a pleat or fold, as of a band.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To decorate with fringe or embroidered edge<p><strong>Example:</strong> Needlework purled with gold.</p></li><li><strong>Definition 2:</strong> An inverted stitch producing ribbing etc<p><strong>Example:</strong> Knit one, purl two.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A heavy or headlong fall; an upset.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To upset, to spin, capsize, fall heavily, fall headlong.<p><strong>Example:</strong> The huntsman was purled from his horse.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A circle made by the motion of a fluid; an eddy; a ripple.</li><li><strong>Definition 2:</strong> A gentle murmuring sound, such as that produced by the running of a liquid among obstructions.<p><strong>Example:</strong> the purl of a brook</p></li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flow with a murmuring sound in swirls and eddies.</li><li><strong>Definition 2:</strong> To rise in circles, ripples, or undulations; to curl; to mantle.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tern.</li></ul></div></div>"
+description: Yes, PURLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- burls
+- curls
+- furls
+- gurls
+- hurls
+- murls
+- nurls
+- perls
+- pirls
+- pulls
+- pures
+- puris
+anagrams:
+- slurp
+trap:
+  pattern: _URLS
+  count: 8
+phonetic: "/pɜːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A particular stitch in knitting; an inversion of stitches giving the work
+      a ribbed or waved appearance.
+  - text: The edge of lace trimmed with loops.
+  - text: An embroidered and puckered border; a hem or fringe, often of gold or silver
+      twist; also, a pleat or fold, as of a band.
+- pos: verb
+  defs:
+  - text: To decorate with fringe or embroidered edge
+    example: Needlework purled with gold.
+  - text: An inverted stitch producing ribbing etc
+    example: Knit one, purl two.
+- pos: noun
+  defs:
+  - text: A heavy or headlong fall; an upset.
+- pos: verb
+  defs:
+  - text: To upset, to spin, capsize, fall heavily, fall headlong.
+    example: The huntsman was purled from his horse.
+- pos: noun
+  defs:
+  - text: A circle made by the motion of a fluid; an eddy; a ripple.
+  - text: A gentle murmuring sound, such as that produced by the running of a liquid
+      among obstructions.
+    example: the purl of a brook
+- pos: verb
+  defs:
+  - text: To flow with a murmuring sound in swirls and eddies.
+  - text: To rise in circles, ripples, or undulations; to curl; to mantle.
+- pos: noun
+  defs:
+  - text: A tern.
 ---
-

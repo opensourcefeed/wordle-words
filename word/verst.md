@@ -1,7 +1,37 @@
 ---
 layout: word
-title: verst
+title: Is VERST a Wordle Word?
+head_title: Is VERST a Wordle Word? Yes – Valid Guess & Meaning
 word: verst
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /vɚst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A Russian unit of length, equivalent to about 1.07 kilometres or about 2/3 of a mile.</li></ul></div></div>"
+description: Yes, VERST is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- verse
+- verso
+- perst
+- versa
+anagrams:
+- verts
+phonetic: "/vɚst/"
+definitions:
+- pos: noun
+  defs:
+  - text: A Russian unit of length, equivalent to about 1.07 kilometres or about 2/3
+      of a mile.
 ---
-

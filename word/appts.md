@@ -1,7 +1,49 @@
 ---
 layout: word
-title: appts
+title: Is APPTS a Wordle Word?
+head_title: Is APPTS a Wordle Word? Yes – Valid Guess & Meaning
 word: appts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of appointing a person to hold an office or to have a position of trust<p><strong>Example:</strong> His appointment was deemed suitable</p></li><li><strong>Definition 2:</strong> The state of being appointed to a service or office; an office to which one is appointed<p><strong>Example:</strong> the appointment of treasurer</p></li><li><strong>Definition 3:</strong> Stipulation; agreement; the act of fixing by mutual agreement.</li><li><strong>Definition 4:</strong> An arrangement between people to meet; an engagement.<p><strong>Example:</strong> I'm leaving work early because I have a doctor's appointment.</p></li><li><strong>Definition 5:</strong> Decree; direction; established order or constitution.<p><strong>Example:</strong> To submit to the divine appointments.</p></li><li><strong>Definition 6:</strong> The exercise of the power of designating (under a power of appointment) a person to enjoy an estate or other specific property; also, the instrument by which the designation is made.</li><li><strong>Definition 7:</strong> The assignment of a person by an official to perform a duty, such as a presidential appointment of a judge to a court.</li><li><strong>Definition 8:</strong> (now in the plural) Equipment, furniture.</li><li><strong>Definition 9:</strong> A honorary part or exercise, as an oration, etc., at a public exhibition of a college.<p><strong>Example:</strong> to have an appointment</p></li><li><strong>Definition 10:</strong> The allowance paid to a public officer.</li></ul></div></div>"
+description: Yes, APPTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+definitions:
+- pos: noun
+  defs:
+  - text: The act of appointing a person to hold an office or to have a position of
+      trust
+    example: His appointment was deemed suitable
+  - text: The state of being appointed to a service or office; an office to which
+      one is appointed
+    example: the appointment of treasurer
+  - text: Stipulation; agreement; the act of fixing by mutual agreement.
+  - text: An arrangement between people to meet; an engagement.
+    example: I'm leaving work early because I have a doctor's appointment.
+  - text: Decree; direction; established order or constitution.
+    example: To submit to the divine appointments.
+  - text: The exercise of the power of designating (under a power of appointment)
+      a person to enjoy an estate or other specific property; also, the instrument
+      by which the designation is made.
+  - text: The assignment of a person by an official to perform a duty, such as a presidential
+      appointment of a judge to a court.
+  - text: "(now in the plural) Equipment, furniture."
+  - text: A honorary part or exercise, as an oration, etc., at a public exhibition
+      of a college.
+    example: to have an appointment
+  - text: The allowance paid to a public officer.
 ---
-

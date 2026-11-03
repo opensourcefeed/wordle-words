@@ -1,7 +1,81 @@
 ---
 layout: word
-title: minds
+title: Is MINDS a Wordle Word?
+head_title: Is MINDS a Wordle Word? Yes – Valid Guess & Meaning
 word: minds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /maɪndz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The ability for rational thought.<p><strong>Example:</strong> Despite advancing age, his mind was still as sharp as ever.</p></li><li><strong>Definition 2:</strong> The ability to be aware of things.<p><strong>Example:</strong> There was no doubt in his mind that they would win.</p></li><li><strong>Definition 3:</strong> The ability to remember things.<p><strong>Example:</strong> My mind just went blank.</p></li><li><strong>Definition 4:</strong> The ability to focus the thoughts.<p><strong>Example:</strong> I can’t keep my mind on what I’m doing.</p></li><li><strong>Definition 5:</strong> Somebody that embodies certain mental qualities.<p><strong>Example:</strong> He was one of history’s greatest minds.</p></li><li><strong>Definition 6:</strong> Judgment, opinion, or view.<p><strong>Example:</strong> He changed his mind after hearing the speech.</p></li><li><strong>Definition 7:</strong> Desire, inclination, or intention.<p><strong>Example:</strong> I am of a mind to listen.</p></li><li><strong>Definition 8:</strong> A healthy mental state.<p><strong>Example:</strong> I, ______ being of sound mind and body, do hereby [...]</p></li><li><strong>Definition 9:</strong> The non-material substance or set of processes in which consciousness, perception, affectivity, judgement, thinking, and will are based.<p><strong>Example:</strong> The mind is a process of the brain.</p></li><li><strong>Definition 10:</strong> Continual prayer on a dead person's behalf for a period after their death.<p><strong>Example:</strong> a month's [or monthly] mind; a year's mind</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (originally and chiefly in negative or interrogative constructions) To dislike, to object to; to be bothered by.<p><strong>Example:</strong> Do you mind if I smoke?</p></li><li><strong>Definition 2:</strong> To look after, to take care of, especially for a short period of time.<p><strong>Example:</strong> Would you mind my bag for me?</p></li><li><strong>Definition 3:</strong> (chiefly in the imperative) To make sure, to take care (that).<p><strong>Example:</strong> Mind you don't knock that glass over.</p></li><li><strong>Definition 4:</strong> To be careful about.</li><li><strong>Definition 5:</strong> Take note; used to point out an exception or caveat.<p><strong>Example:</strong> I'm not very healthy. I do eat fruit sometimes, mind.</p></li><li><strong>Definition 6:</strong> To attend to, concern oneself with, heed, be mindful of.<p><strong>Example:</strong> You should mind your own business.</p></li><li><strong>Definition 7:</strong> To remember.</li><li><strong>Definition 8:</strong> To have in mind; to intend.</li><li><strong>Definition 9:</strong> To put in mind; to remind.</li></ul></div></div>"
+description: Yes, MINDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- minus
+- binds
+- finds
+- hinds
+- kinds
+- linds
+- mands
+- mends
+- milds
+- minas
+- mindi
+- mines
+trap:
+  pattern: _INDS
+  count: 11
+phonetic: "/maɪndz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The ability for rational thought.
+    example: Despite advancing age, his mind was still as sharp as ever.
+  - text: The ability to be aware of things.
+    example: There was no doubt in his mind that they would win.
+  - text: The ability to remember things.
+    example: My mind just went blank.
+  - text: The ability to focus the thoughts.
+    example: I can’t keep my mind on what I’m doing.
+  - text: Somebody that embodies certain mental qualities.
+    example: He was one of history’s greatest minds.
+  - text: Judgment, opinion, or view.
+    example: He changed his mind after hearing the speech.
+  - text: Desire, inclination, or intention.
+    example: I am of a mind to listen.
+  - text: A healthy mental state.
+    example: I, ______ being of sound mind and body, do hereby [...]
+  - text: The non-material substance or set of processes in which consciousness, perception,
+      affectivity, judgement, thinking, and will are based.
+    example: The mind is a process of the brain.
+  - text: Continual prayer on a dead person's behalf for a period after their death.
+    example: a month's [or monthly] mind; a year's mind
+- pos: verb
+  defs:
+  - text: "(originally and chiefly in negative or interrogative constructions) To
+      dislike, to object to; to be bothered by."
+    example: Do you mind if I smoke?
+  - text: To look after, to take care of, especially for a short period of time.
+    example: Would you mind my bag for me?
+  - text: "(chiefly in the imperative) To make sure, to take care (that)."
+    example: Mind you don't knock that glass over.
+  - text: To be careful about.
+  - text: Take note; used to point out an exception or caveat.
+    example: I'm not very healthy. I do eat fruit sometimes, mind.
+  - text: To attend to, concern oneself with, heed, be mindful of.
+    example: You should mind your own business.
+  - text: To remember.
+  - text: To have in mind; to intend.
+  - text: To put in mind; to remind.
 ---
-

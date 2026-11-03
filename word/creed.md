@@ -1,7 +1,60 @@
 ---
 layout: word
-title: creed
+title: Is CREED a Wordle Word?
+head_title: 'Is CREED a Wordle Word? Yes – Past Answer #1791 & Meaning'
 word: creed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is believed; accepted doctrine, especially religious doctrine; a particular set of beliefs; any summary of principles or opinions professed or adhered to.</li><li><strong>Definition 2:</strong> (specifically) A reading or statement of belief that summarizes the faith it represents; a confession of faith for public use, especially one which is brief and comprehensive.<p><strong>Example:</strong> A creed is a manifesto of religious or spiritual beliefs</p></li><li><strong>Definition 3:</strong> The fact of believing; belief, faith.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (only survives in \"creeded\") To believe; to credit.</li><li><strong>Definition 2:</strong> To provide with a creed.</li></ul></div></div>"
+description: Yes, CREED is a valid Wordle word. It was the Wordle answer on May 15,
+  2026 (#1791). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 15, 2026 (#1791).
+past_answers:
+- date: '2026-05-15'
+  number: 1791
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- breed
+- creek
+- creep
+- cried
+- freed
+- greed
+- creel
+- crees
+- dreed
+- preed
+- treed
+anagrams:
+- ceder
+- cered
+trap:
+  pattern: _REED
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: That which is believed; accepted doctrine, especially religious doctrine;
+      a particular set of beliefs; any summary of principles or opinions professed
+      or adhered to.
+  - text: "(specifically) A reading or statement of belief that summarizes the faith
+      it represents; a confession of faith for public use, especially one which is
+      brief and comprehensive."
+    example: A creed is a manifesto of religious or spiritual beliefs
+  - text: The fact of believing; belief, faith.
+- pos: verb
+  defs:
+  - text: (only survives in "creeded") To believe; to credit.
+  - text: To provide with a creed.
 ---
-

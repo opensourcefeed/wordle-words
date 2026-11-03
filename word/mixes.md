@@ -1,7 +1,69 @@
 ---
 layout: word
-title: mixes
+title: Is MIXES a Wordle Word?
+head_title: Is MIXES a Wordle Word? Yes – Valid Guess & Meaning
 word: mixes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stir together.<p><strong>Example:</strong> Mix the eggs and milk with the flour until the consistency is smooth.</p></li><li><strong>Definition 2:</strong> To combine (items from two or more sources normally kept separate).<p><strong>Example:</strong> Don't mix the meat recipes with the dairy recipes.</p></li><li><strong>Definition 3:</strong> To form by mingling; to produce by the stirring together of ingredients; to concoct from different parts.<p><strong>Example:</strong> Yellow and blue paint mix to make green.</p></li><li><strong>Definition 4:</strong> To blend by the use of a mixer (machine).<p><strong>Example:</strong> Mix the egg whites until they are stiff.</p></li><li><strong>Definition 5:</strong> To combine (several tracks).<p><strong>Example:</strong> I'll mix the rhythm tracks down to a single track.</p></li><li><strong>Definition 6:</strong> To produce a finished version of (a recording).<p><strong>Example:</strong> I'm almost done mixing this song.</p></li><li><strong>Definition 7:</strong> To unite with in company; to join; to associate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The result of mixing two or more substances; a mixture.<p><strong>Example:</strong> Now add the raisins to the mix.</p></li><li><strong>Definition 2:</strong> The result of combining items normally kept separate.<p><strong>Example:</strong> My recipe file was now a mix of meat and dairy.</p></li><li><strong>Definition 3:</strong> The result of mixing several tracks.<p><strong>Example:</strong> The rhythm mix sounds muddy.</p></li><li><strong>Definition 4:</strong> The finished version of a recording.<p><strong>Example:</strong> I've almost finished the mix for this song.</p></li></ul></div></div>"
+description: Yes, MIXES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- aixes
+- fixes
+- maxes
+- mikes
+- miles
+- mimes
+- mines
+- mires
+- mises
+- mites
+- mixed
+- mixen
+trap:
+  pattern: MI_ES
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To stir together.
+    example: Mix the eggs and milk with the flour until the consistency is smooth.
+  - text: To combine (items from two or more sources normally kept separate).
+    example: Don't mix the meat recipes with the dairy recipes.
+  - text: To form by mingling; to produce by the stirring together of ingredients;
+      to concoct from different parts.
+    example: Yellow and blue paint mix to make green.
+  - text: To blend by the use of a mixer (machine).
+    example: Mix the egg whites until they are stiff.
+  - text: To combine (several tracks).
+    example: I'll mix the rhythm tracks down to a single track.
+  - text: To produce a finished version of (a recording).
+    example: I'm almost done mixing this song.
+  - text: To unite with in company; to join; to associate.
+- pos: noun
+  defs:
+  - text: The result of mixing two or more substances; a mixture.
+    example: Now add the raisins to the mix.
+  - text: The result of combining items normally kept separate.
+    example: My recipe file was now a mix of meat and dairy.
+  - text: The result of mixing several tracks.
+    example: The rhythm mix sounds muddy.
+  - text: The finished version of a recording.
+    example: I've almost finished the mix for this song.
 ---
-

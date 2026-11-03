@@ -1,7 +1,63 @@
 ---
 layout: word
-title: ideal
+title: Is IDEAL a Wordle Word?
+head_title: 'Is IDEAL a Wordle Word? Yes – Past Answer #1583 & Meaning'
 word: ideal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /aɪˈdiː.əl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A perfect standard of beauty, intellect etc., or a standard of excellence to aim at.</li><li><strong>Definition 2:</strong> A subring closed under multiplication by its containing ring.</li><li><strong>Definition 3:</strong> (lattice theory) A non-empty lower set (of a partially ordered set) which is closed under binary suprema (a.k.a. joins).</li><li><strong>Definition 4:</strong> A collection of sets, considered small or negligible, such that every subset of each member and the union of any two members are also members of the collection.</li><li><strong>Definition 5:</strong> (Lie theory) A Lie subalgebra (subspace that is closed under the Lie bracket) 𝖍 of a given Lie algebra 𝖌 such that the Lie bracket [𝖌,𝖍] is a subset of 𝖍.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Optimal; being the best possibility.</li><li><strong>Definition 2:</strong> Perfect, flawless, having no defects.</li><li><strong>Definition 3:</strong> Pertaining to ideas, or to a given idea.</li><li><strong>Definition 4:</strong> Existing only in the mind; conceptual, imaginary.</li><li><strong>Definition 5:</strong> Teaching or relating to the doctrine of idealism.<p><strong>Example:</strong> the ideal theory or philosophy</p></li><li><strong>Definition 6:</strong> Not actually present, but considered as present when limits at infinity are included.<p><strong>Example:</strong> An ideal triangle in the hyperbolic disk is one bounded by three geodesics that meet precisely on the circle.</p></li></ul></div></div>"
+description: Yes, IDEAL is a valid Wordle word. It was the Wordle answer on October
+  19, 2025 (#1583). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 19, 2025 (#1583).
+past_answers:
+- date: '2025-10-19'
+  number: 1583
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- ideas
+- ileal
+anagrams:
+- ailed
+- eliad
+- laide
+phonetic: "/aɪˈdiː.əl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A perfect standard of beauty, intellect etc., or a standard of excellence
+      to aim at.
+  - text: A subring closed under multiplication by its containing ring.
+  - text: "(lattice theory) A non-empty lower set (of a partially ordered set) which
+      is closed under binary suprema (a.k.a. joins)."
+  - text: A collection of sets, considered small or negligible, such that every subset
+      of each member and the union of any two members are also members of the collection.
+  - text: "(Lie theory) A Lie subalgebra (subspace that is closed under the Lie bracket)
+      \U0001D58D of a given Lie algebra \U0001D58C such that the Lie bracket [\U0001D58C,\U0001D58D]
+      is a subset of \U0001D58D."
+- pos: adjective
+  defs:
+  - text: Optimal; being the best possibility.
+  - text: Perfect, flawless, having no defects.
+  - text: Pertaining to ideas, or to a given idea.
+  - text: Existing only in the mind; conceptual, imaginary.
+  - text: Teaching or relating to the doctrine of idealism.
+    example: the ideal theory or philosophy
+  - text: Not actually present, but considered as present when limits at infinity
+      are included.
+    example: An ideal triangle in the hyperbolic disk is one bounded by three geodesics
+      that meet precisely on the circle.
 ---
-

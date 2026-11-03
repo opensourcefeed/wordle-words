@@ -1,7 +1,33 @@
 ---
 layout: word
-title: bulgy
+title: Is BULGY a Wordle Word?
+head_title: Is BULGY a Wordle Word? Yes – Valid Guess & Meaning
 word: bulgy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having one or more bulges; bulging</li></ul></div></div>"
+description: Yes, BULGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- buggy
+- bulge
+- bulky
+- bully
+- bilgy
+- bungy
+definitions:
+- pos: adjective
+  defs:
+  - text: Having one or more bulges; bulging
 ---
-

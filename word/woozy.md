@@ -1,7 +1,38 @@
 ---
 layout: word
-title: woozy
+title: Is WOOZY a Wordle Word?
+head_title: Is WOOZY a Wordle Word? Yes – Possible Answer & Meaning
 word: woozy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwuːzi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Queasy, dizzy, or disoriented<p><strong>Example:</strong> I got off the rollercoaster feeling a bit woozy.</p></li><li><strong>Definition 2:</strong> Intoxicated by drink or drugs</li></ul></div></div>"
+description: Yes, WOOZY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- boozy
+- woody
+- wooly
+- doozy
+- woofy
+- woopy
+phonetic: "/ˈwuːzi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Queasy, dizzy, or disoriented
+    example: I got off the rollercoaster feeling a bit woozy.
+  - text: Intoxicated by drink or drugs
 ---
-

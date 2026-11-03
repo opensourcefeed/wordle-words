@@ -1,7 +1,58 @@
 ---
 layout: word
-title: plied
+title: Is PLIED a Wordle Word?
+head_title: Is PLIED a Wordle Word? Yes – Possible Answer & Meaning
 word: plied
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /plaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bend; to fold; to mould; to adapt, to modify; to change (a person's) mind, to cause (a person) to submit.</li><li><strong>Definition 2:</strong> To bend, to flex; to be bent by something, to give way or yield (to a force, etc.).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To work at (something) diligently.<p><strong>Example:</strong> He plied his trade as carpenter for forty-three years.</p></li><li><strong>Definition 2:</strong> To wield or use (a tool, a weapon, etc.) steadily or vigorously.<p><strong>Example:</strong> He plied his ax with bloody results.</p></li><li><strong>Definition 3:</strong> To press upon; to urge persistently.<p><strong>Example:</strong> to ply someone with questions or solicitations</p></li><li><strong>Definition 4:</strong> To persist in offering something to, especially for the purpose of inducement or persuasion.<p><strong>Example:</strong> to ply someone with drink</p></li><li><strong>Definition 5:</strong> To travel over (a route) regularly.<p><strong>Example:</strong> The steamer plies between several ports on the coast.</p></li><li><strong>Definition 6:</strong> To work diligently.</li><li><strong>Definition 7:</strong> To manoeuvre a sailing vessel so that the direction of the wind changes from one side of the vessel to the other; to work to windward, to beat, to tack.</li></ul></div></div>"
+description: Yes, PLIED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- plier
+- pried
+- clied
+- flied
+- plies
+anagrams:
+- lepid
+- piled
+phonetic: "/plaɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To bend; to fold; to mould; to adapt, to modify; to change (a person's)
+      mind, to cause (a person) to submit.
+  - text: To bend, to flex; to be bent by something, to give way or yield (to a force,
+      etc.).
+- pos: verb
+  defs:
+  - text: To work at (something) diligently.
+    example: He plied his trade as carpenter for forty-three years.
+  - text: To wield or use (a tool, a weapon, etc.) steadily or vigorously.
+    example: He plied his ax with bloody results.
+  - text: To press upon; to urge persistently.
+    example: to ply someone with questions or solicitations
+  - text: To persist in offering something to, especially for the purpose of inducement
+      or persuasion.
+    example: to ply someone with drink
+  - text: To travel over (a route) regularly.
+    example: The steamer plies between several ports on the coast.
+  - text: To work diligently.
+  - text: To manoeuvre a sailing vessel so that the direction of the wind changes
+      from one side of the vessel to the other; to work to windward, to beat, to tack.
 ---
-

@@ -1,7 +1,45 @@
 ---
 layout: word
-title: pixel
+title: Is PIXEL a Wordle Word?
+head_title: 'Is PIXEL a Wordle Word? Yes – Past Answer #886 & Meaning'
 word: pixel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɪksəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the tiny dots that make up the representation of an image in a computer's memory.</li><li><strong>Definition 2:</strong> One of the squares that make up a pixel art work or a zoomed in image in a computer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To create computer graphics by editing individual pixels.</li></ul></div></div>"
+description: Yes, PIXEL is a valid Wordle word. It was the Wordle answer on November
+  22, 2023 (#886). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 22, 2023 (#886).
+past_answers:
+- date: '2023-11-22'
+  number: 886
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - L
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- pikel
+- pixes
+anagrams:
+- plexi
+phonetic: "/ˈpɪksəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: One of the tiny dots that make up the representation of an image in a computer's
+      memory.
+  - text: One of the squares that make up a pixel art work or a zoomed in image in
+      a computer.
+- pos: verb
+  defs:
+  - text: To create computer graphics by editing individual pixels.
 ---
-

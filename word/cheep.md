@@ -1,7 +1,46 @@
 ---
 layout: word
-title: cheep
+title: Is CHEEP a Wordle Word?
+head_title: Is CHEEP a Wordle Word? Yes – Valid Guess & Meaning
 word: cheep
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃiːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short, high-pitched sound made by a small bird.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Of a small bird, to make short, high-pitched sounds sounding like \"cheep\".</li><li><strong>Definition 2:</strong> To express in a chirping tone.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> The short, high-pitched sound made by a small bird.</li></ul></div></div>"
+description: Yes, CHEEP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- cheap
+- cheek
+- cheer
+- creep
+- sheep
+- cheeb
+- cheet
+- chelp
+- cleep
+- wheep
+phonetic: "/tʃiːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short, high-pitched sound made by a small bird.
+- pos: verb
+  defs:
+  - text: Of a small bird, to make short, high-pitched sounds sounding like "cheep".
+  - text: To express in a chirping tone.
+- pos: interjection
+  defs:
+  - text: The short, high-pitched sound made by a small bird.
 ---
-

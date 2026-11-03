@@ -1,7 +1,50 @@
 ---
 layout: word
-title: scorn
+title: Is SCORN a Wordle Word?
+head_title: 'Is SCORN a Wordle Word? Yes – Past Answer #468 & Meaning'
 word: scorn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /skɔːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Contempt or disdain.</li><li><strong>Definition 2:</strong> A display of disdain; a slight.</li><li><strong>Definition 3:</strong> An object of disdain, contempt, or derision.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To feel or display contempt or disdain for something or somebody; to despise.</li><li><strong>Definition 2:</strong> To reject, turn down.<p><strong>Example:</strong> He scorned her romantic advances.</p></li><li><strong>Definition 3:</strong> To refuse to do something, as beneath oneself.<p><strong>Example:</strong> She scorned to show weakness.</p></li><li><strong>Definition 4:</strong> To scoff, to express contempt.</li></ul></div></div>"
+description: Yes, SCORN is a valid Wordle word. It was the Wordle answer on September
+  30, 2022 (#468). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 30, 2022 (#468).
+past_answers:
+- date: '2022-09-30'
+  number: 468
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- acorn
+- score
+- shorn
+- sworn
+- scorp
+anagrams:
+- corns
+- crons
+phonetic: "/skɔːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Contempt or disdain.
+  - text: A display of disdain; a slight.
+  - text: An object of disdain, contempt, or derision.
+- pos: verb
+  defs:
+  - text: To feel or display contempt or disdain for something or somebody; to despise.
+  - text: To reject, turn down.
+    example: He scorned her romantic advances.
+  - text: To refuse to do something, as beneath oneself.
+    example: She scorned to show weakness.
+  - text: To scoff, to express contempt.
 ---
-

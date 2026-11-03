@@ -1,7 +1,47 @@
 ---
 layout: word
-title: plash
+title: Is PLASH a Wordle Word?
+head_title: Is PLASH a Wordle Word? Yes – Valid Guess & Meaning
 word: plash
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /plæʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small pool of standing water; a puddle.</li><li><strong>Definition 2:</strong> A splash, or the sound made by a splash.</li><li><strong>Definition 3:</strong> A sudden downpour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To splash.</li><li><strong>Definition 2:</strong> To cause a splash.</li><li><strong>Definition 3:</strong> To splash or sprinkle with colouring matter.<p><strong>Example:</strong> to plash a wall in imitation of granite</p></li></ul></div></div>"
+description: Yes, PLASH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- clash
+- flash
+- plush
+- slash
+- blash
+- planh
+- plasm
+- plast
+- plesh
+- plish
+phonetic: "/plæʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small pool of standing water; a puddle.
+  - text: A splash, or the sound made by a splash.
+  - text: A sudden downpour.
+- pos: verb
+  defs:
+  - text: To splash.
+  - text: To cause a splash.
+  - text: To splash or sprinkle with colouring matter.
+    example: to plash a wall in imitation of granite
 ---
-

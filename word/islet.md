@@ -1,7 +1,46 @@
 ---
 layout: word
-title: islet
+title: Is ISLET a Wordle Word?
+head_title: 'Is ISLET a Wordle Word? Yes – Past Answer #95 & Meaning'
 word: islet
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈaɪ.lət/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small island</li><li><strong>Definition 2:</strong> An isolated piece of tissue that has a specific function</li></ul></div></div>"
+description: Yes, ISLET is a valid Wordle word. It was the Wordle answer on September
+  22, 2021 (#95). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 22, 2021 (#95).
+past_answers:
+- date: '2021-09-22'
+  number: 95
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- inlet
+- isled
+- isles
+anagrams:
+- istle
+- lites
+- steil
+- stile
+- teils
+- tiles
+phonetic: "/ˈaɪ.lət/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small island
+  - text: An isolated piece of tissue that has a specific function
 ---
-

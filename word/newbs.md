@@ -1,7 +1,33 @@
 ---
 layout: word
-title: newbs
+title: Is NEWBS a Wordle Word?
+head_title: Is NEWBS a Wordle Word? Yes – Valid Guess & Meaning
 word: newbs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /njuːbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes derogatory) A newbie; someone who is new to a game, or has a new character.<p><strong>Example:</strong> That guy must be a newb at this game. He has no idea how to play.</p></li></ul></div></div>"
+description: Yes, NEWBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- neebs
+- newts
+phonetic: "/njuːbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(sometimes derogatory) A newbie; someone who is new to a game, or has a
+      new character."
+    example: That guy must be a newb at this game. He has no idea how to play.
 ---
-

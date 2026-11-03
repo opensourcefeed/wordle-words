@@ -1,7 +1,54 @@
 ---
 layout: word
-title: fonts
+title: Is FONTS a Wordle Word?
+head_title: Is FONTS a Wordle Word? Yes – Valid Guess & Meaning
 word: fonts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A receptacle in a church for holy water, especially one used in baptism.</li><li><strong>Definition 2:</strong> A receptacle for oil in a lamp.</li><li><strong>Definition 3:</strong> Spring, source, fountain.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A set of glyphs of unified design, belonging to one typeface (e.g., Helvetica), style (e.g., italic), and weight (e.g., bold). Usually representing the letters of an alphabet and its supplementary characters.</li><li><strong>Definition 2:</strong> A computer file containing the code used to draw and compose the glyphs of one or more typographic fonts on a computer display or printer.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To overlay (text) on the picture.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A source, wellspring, fount.</li></ul></div></div>"
+description: Yes, FONTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- fents
+- fonds
+- fones
+- foots
+- forts
+- funts
+- oonts
+- ponts
+- ronts
+- wonts
+definitions:
+- pos: noun
+  defs:
+  - text: A receptacle in a church for holy water, especially one used in baptism.
+  - text: A receptacle for oil in a lamp.
+  - text: Spring, source, fountain.
+- pos: noun
+  defs:
+  - text: A set of glyphs of unified design, belonging to one typeface (e.g., Helvetica),
+      style (e.g., italic), and weight (e.g., bold). Usually representing the letters
+      of an alphabet and its supplementary characters.
+  - text: A computer file containing the code used to draw and compose the glyphs
+      of one or more typographic fonts on a computer display or printer.
+- pos: verb
+  defs:
+  - text: To overlay (text) on the picture.
+- pos: noun
+  defs:
+  - text: A source, wellspring, fount.
 ---
-

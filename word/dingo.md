@@ -1,7 +1,43 @@
 ---
 layout: word
-title: dingo
+title: Is DINGO a Wordle Word?
+head_title: 'Is DINGO a Wordle Word? Yes – Past Answer #1067 & Meaning'
 word: dingo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɪŋɡəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Canis lupus dingo, a wild dog native to Australia.</li></ul></div></div>"
+description: Yes, DINGO is a valid Wordle word. It was the Wordle answer on May 21,
+  2024 (#1067). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 21, 2024 (#1067).
+past_answers:
+- date: '2024-05-21'
+  number: 1067
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- bingo
+- dingy
+- lingo
+- dinge
+- dings
+- dinlo
+- jingo
+- pingo
+anagrams:
+- doing
+phonetic: "/ˈdɪŋɡəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Canis lupus dingo, a wild dog native to Australia.
 ---
-

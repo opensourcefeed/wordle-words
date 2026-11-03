@@ -1,7 +1,46 @@
 ---
 layout: word
-title: milky
+title: Is MILKY a Wordle Word?
+head_title: Is MILKY a Wordle Word? Yes – Possible Answer & Meaning
 word: milky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɪlki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling milk in color, consistency, smell, etc.; consisting of milk.</li><li><strong>Definition 2:</strong> (color science) Of the black in an image, appearing as dark gray rather than black.</li><li><strong>Definition 3:</strong> (of a drink) Containing (an especially large amount of) milk.<p><strong>Example:</strong> milky tea; milky cocoa</p></li><li><strong>Definition 4:</strong> (of grains) Containing a whitish liquid, juicy.</li><li><strong>Definition 5:</strong> Cowardly.</li><li><strong>Definition 6:</strong> Immature, childish.</li><li><strong>Definition 7:</strong> Producing milk, lactating.</li></ul></div></div>"
+description: Yes, MILKY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- silky
+- malky
+- micky
+- milko
+- milks
+- milly
+- milty
+- mirky
+- misky
+phonetic: "/ˈmɪlki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling milk in color, consistency, smell, etc.; consisting of milk.
+  - text: "(color science) Of the black in an image, appearing as dark gray rather
+      than black."
+  - text: "(of a drink) Containing (an especially large amount of) milk."
+    example: milky tea; milky cocoa
+  - text: "(of grains) Containing a whitish liquid, juicy."
+  - text: Cowardly.
+  - text: Immature, childish.
+  - text: Producing milk, lactating.
 ---
-

@@ -1,7 +1,57 @@
 ---
 layout: word
-title: roved
+title: Is ROVED a Wordle Word?
+head_title: Is ROVED a Wordle Word? Yes – Valid Guess & Meaning
 word: roved
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shoot with arrows (at).</li><li><strong>Definition 2:</strong> To roam, or wander about at random, especially over a wide area.</li><li><strong>Definition 3:</strong> To roam or wander through.</li><li><strong>Definition 4:</strong> To card wool or other fibres.</li><li><strong>Definition 5:</strong> To twist slightly; to bring together, as slivers of wool or cotton, and twist slightly before spinning.</li><li><strong>Definition 6:</strong> To draw through an eye or aperture.</li><li><strong>Definition 7:</strong> To plough into ridges by turning the earth of two furrows together.</li><li><strong>Definition 8:</strong> To practice robbery on the seas; to voyage about on the seas as a pirate.</li></ul></div></div>"
+description: Yes, ROVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- rover
+- coved
+- doved
+- goved
+- hoved
+- loved
+- moved
+- raved
+- rived
+- robed
+- roded
+- roked
+anagrams:
+- drove
+- dover
+trap:
+  pattern: RO_ED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To shoot with arrows (at).
+  - text: To roam, or wander about at random, especially over a wide area.
+  - text: To roam or wander through.
+  - text: To card wool or other fibres.
+  - text: To twist slightly; to bring together, as slivers of wool or cotton, and
+      twist slightly before spinning.
+  - text: To draw through an eye or aperture.
+  - text: To plough into ridges by turning the earth of two furrows together.
+  - text: To practice robbery on the seas; to voyage about on the seas as a pirate.
 ---
-

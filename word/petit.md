@@ -1,7 +1,40 @@
 ---
 layout: word
-title: petit
+title: Is PETIT a Wordle Word?
+head_title: Is PETIT a Wordle Word? Yes – Valid Guess & Meaning
 word: petit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pəˈtiː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in the plural) A little schoolboy.</li><li><strong>Definition 2:</strong> A kind of pigeon.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of size) Petite: small, little.</li><li><strong>Definition 2:</strong> Petty, in its various senses:</li></ul></div></div>"
+description: Yes, PETIT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - E
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- pewit
+anagrams:
+- petti
+phonetic: "/pəˈtiː/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in the plural) A little schoolboy."
+  - text: A kind of pigeon.
+- pos: adjective
+  defs:
+  - text: "(of size) Petite: small, little."
+  - text: 'Petty, in its various senses:'
 ---
-

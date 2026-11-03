@@ -1,7 +1,64 @@
 ---
 layout: word
-title: lucks
+title: Is LUCKS a Wordle Word?
+head_title: Is LUCKS a Wordle Word? Yes – Valid Guess & Meaning
 word: lucks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something that happens to someone by chance, a chance occurrence, especially a favourable one.<p><strong>Example:</strong> Gilbert had some bad luck yesterday — he got pick-pocketed and lost fifty dollars.</p></li><li><strong>Definition 2:</strong> A superstitious feeling that brings fortune or success.<p><strong>Example:</strong> He blew on the dice for luck.</p></li><li><strong>Definition 3:</strong> Success.<p><strong>Example:</strong> He has a lot of luck with the ladies, perhaps it is because of his new motorbike.</p></li><li><strong>Definition 4:</strong> The results of a random number generator.<p><strong>Example:</strong> The creators of tool-assisted speedruns often manipulate a lot of luck to get the most favorable results in order to save the most time.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To succeed by chance.<p><strong>Example:</strong> His plan lucked out.</p></li><li><strong>Definition 2:</strong> To rely on luck.<p><strong>Example:</strong> No plan. We're just to going to have to luck through.</p></li><li><strong>Definition 3:</strong> To carry out relying on luck.<p><strong>Example:</strong> Our plan is to luck it through.</p></li></ul></div></div>"
+description: Yes, LUCKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- lucky
+- bucks
+- cucks
+- ducks
+- gucks
+- hucks
+- lacks
+- licks
+- locks
+- luces
+- lunks
+- lurks
+anagrams:
+- sculk
+trap:
+  pattern: _UCKS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: Something that happens to someone by chance, a chance occurrence, especially
+      a favourable one.
+    example: Gilbert had some bad luck yesterday — he got pick-pocketed and lost fifty
+      dollars.
+  - text: A superstitious feeling that brings fortune or success.
+    example: He blew on the dice for luck.
+  - text: Success.
+    example: He has a lot of luck with the ladies, perhaps it is because of his new
+      motorbike.
+  - text: The results of a random number generator.
+    example: The creators of tool-assisted speedruns often manipulate a lot of luck
+      to get the most favorable results in order to save the most time.
+- pos: verb
+  defs:
+  - text: To succeed by chance.
+    example: His plan lucked out.
+  - text: To rely on luck.
+    example: No plan. We're just to going to have to luck through.
+  - text: To carry out relying on luck.
+    example: Our plan is to luck it through.
 ---
-

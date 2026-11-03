@@ -1,7 +1,56 @@
 ---
 layout: word
-title: rased
+title: Is RASED a Wordle Word?
+head_title: Is RASED a Wordle Word? Yes – Valid Guess & Meaning
 word: rased
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To rub along the surface of; to graze</li><li><strong>Definition 2:</strong> To rub or scratch out; to erase</li><li><strong>Definition 3:</strong> To level with the ground; to overthrow; to destroy; to raze</li><li><strong>Definition 4:</strong> To be leveled with the ground; to fall; to suffer overthrow</li></ul></div></div>"
+description: Yes, RASED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- based
+- cased
+- eased
+- lased
+- mased
+- raced
+- raged
+- rahed
+- raked
+- raned
+- raped
+- rared
+anagrams:
+- arsed
+- dares
+- dears
+- eards
+- reads
+- sared
+trap:
+  pattern: RA_ED
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: To rub along the surface of; to graze
+  - text: To rub or scratch out; to erase
+  - text: To level with the ground; to overthrow; to destroy; to raze
+  - text: To be leveled with the ground; to fall; to suffer overthrow
 ---
-

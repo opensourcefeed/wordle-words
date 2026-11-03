@@ -1,7 +1,41 @@
 ---
 layout: word
-title: urial
+title: Is URIAL a Wordle Word?
+head_title: Is URIAL a Wordle Word? Yes – Valid Guess & Meaning
 word: urial
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bearded reddish sheep, subspecies of Ovis orientalis (including Ovis orientalis vignei), previously classified as Ovis vignei, being endemic to southern Asia and believed to be a wild ancestor of domestic sheep.</li></ul></div></div>"
+description: Yes, URIAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- trial
+- prial
+- ureal
+- urnal
+anagrams:
+- rauli
+- urali
+definitions:
+- pos: noun
+  defs:
+  - text: A bearded reddish sheep, subspecies of Ovis orientalis (including Ovis orientalis
+      vignei), previously classified as Ovis vignei, being endemic to southern Asia
+      and believed to be a wild ancestor of domestic sheep.
 ---
-

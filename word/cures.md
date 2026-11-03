@@ -1,7 +1,80 @@
 ---
 layout: word
-title: cures
+title: Is CURES a Wordle Word?
+head_title: Is CURES a Wordle Word? Yes – Valid Guess & Meaning
 word: cures
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A method, device or medication that restores good health.</li><li><strong>Definition 2:</strong> Act of healing or state of being healed; restoration to health after a disease, or to soundness after injury.</li><li><strong>Definition 3:</strong> A solution to a problem.</li><li><strong>Definition 4:</strong> A process of preservation, as by smoking.</li><li><strong>Definition 5:</strong> A process of solidification or gelling.</li><li><strong>Definition 6:</strong> A process whereby a material is caused to form permanent molecular linkages by exposure to chemicals, heat, pressure and/or weathering.</li><li><strong>Definition 7:</strong> Care, heed, or attention.</li><li><strong>Definition 8:</strong> Spiritual charge; care of soul; the office of a parish priest or of a curate.</li><li><strong>Definition 9:</strong> That which is committed to the charge of a parish priest or of a curate.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To restore to health.<p><strong>Example:</strong> Unaided nature cured him.</p></li><li><strong>Definition 2:</strong> To bring (a disease or its bad effects) to an end.<p><strong>Example:</strong> Unaided nature cured his ailments.</p></li><li><strong>Definition 3:</strong> To cause to be rid of (a defect).<p><strong>Example:</strong> Experience will cure him of his naïveté.</p></li><li><strong>Definition 4:</strong> To prepare or alter especially by chemical or physical processing for keeping or use.<p><strong>Example:</strong> The smoke and heat cures the meat.</p></li><li><strong>Definition 5:</strong> To bring about a cure of any kind.</li><li><strong>Definition 6:</strong> To be undergoing a chemical or physical process for preservation or use.<p><strong>Example:</strong> The meat was put in the smokehouse to cure.</p></li><li><strong>Definition 7:</strong> To preserve (food), typically by salting</li><li><strong>Definition 8:</strong> To solidify or gel.<p><strong>Example:</strong> The parts were curing in the autoclave.</p></li><li><strong>Definition 9:</strong> To become healed.</li><li><strong>Definition 10:</strong> To pay heed; to care; to give attention.</li></ul></div></div>"
+description: Yes, CURES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- aures
+- cares
+- ceres
+- cires
+- cores
+- cubes
+- cukes
+- curbs
+- curds
+- cured
+- curer
+- curet
+anagrams:
+- curse
+- crues
+- cruse
+- ecrus
+- sucre
+trap:
+  pattern: _URES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A method, device or medication that restores good health.
+  - text: Act of healing or state of being healed; restoration to health after a disease,
+      or to soundness after injury.
+  - text: A solution to a problem.
+  - text: A process of preservation, as by smoking.
+  - text: A process of solidification or gelling.
+  - text: A process whereby a material is caused to form permanent molecular linkages
+      by exposure to chemicals, heat, pressure and/or weathering.
+  - text: Care, heed, or attention.
+  - text: Spiritual charge; care of soul; the office of a parish priest or of a curate.
+  - text: That which is committed to the charge of a parish priest or of a curate.
+- pos: verb
+  defs:
+  - text: To restore to health.
+    example: Unaided nature cured him.
+  - text: To bring (a disease or its bad effects) to an end.
+    example: Unaided nature cured his ailments.
+  - text: To cause to be rid of (a defect).
+    example: Experience will cure him of his naïveté.
+  - text: To prepare or alter especially by chemical or physical processing for keeping
+      or use.
+    example: The smoke and heat cures the meat.
+  - text: To bring about a cure of any kind.
+  - text: To be undergoing a chemical or physical process for preservation or use.
+    example: The meat was put in the smokehouse to cure.
+  - text: To preserve (food), typically by salting
+  - text: To solidify or gel.
+    example: The parts were curing in the autoclave.
+  - text: To become healed.
+  - text: To pay heed; to care; to give attention.
 ---
-

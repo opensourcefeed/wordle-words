@@ -1,7 +1,36 @@
 ---
 layout: word
-title: scups
+title: Is SCUPS a Wordle Word?
+head_title: Is SCUPS a Wordle Word? Yes – Valid Guess
 word: scups
-meaning: ""
+description: Yes, SCUPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - S
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- scops
+- scuds
+- scugs
+- sculs
+- scums
+- scurs
+- scuts
+- soups
+anagrams:
+- cusps
+trap:
+  pattern: SCU_S
+  count: 7
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: ethic
+title: Is ETHIC a Wordle Word?
+head_title: 'Is ETHIC a Wordle Word? Yes – Past Answer #690 & Meaning'
 word: ethic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛθɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A set of principles of right and wrong behaviour guiding, or representative of, a specific culture, society, group, or individual.<p><strong>Example:</strong> I think the golden rule is a great ethic.</p></li><li><strong>Definition 2:</strong> The morality of an action.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Moral, relating to morals.</li></ul></div></div>"
+description: Yes, ETHIC is a valid Wordle word. It was the Wordle answer on May 10,
+  2023 (#690). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 10, 2023 (#690).
+past_answers:
+- date: '2023-05-10'
+  number: 690
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+anagrams:
+- theic
+phonetic: "/ˈɛθɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A set of principles of right and wrong behaviour guiding, or representative
+      of, a specific culture, society, group, or individual.
+    example: I think the golden rule is a great ethic.
+  - text: The morality of an action.
+- pos: adjective
+  defs:
+  - text: Moral, relating to morals.
 ---
-

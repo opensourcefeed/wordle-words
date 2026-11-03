@@ -1,7 +1,62 @@
 ---
 layout: word
-title: slime
+title: Is SLIME a Wordle Word?
+head_title: 'Is SLIME a Wordle Word? Yes – Past Answer #1717 & Meaning'
 word: slime
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slaɪm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Soft, moist earth or clay, having an adhesive quality; viscous mud; any substance of a dirty nature, that is moist, soft, and adhesive; bitumen; mud containing metallic ore, obtained in the preparatory dressing.</li><li><strong>Definition 2:</strong> Any mucilaginous substance; or a mucus-like substance which exudes from the bodies of certain animals, such as snails or slugs.</li><li><strong>Definition 3:</strong> A sneaky, unethical person; a slimeball.</li><li><strong>Definition 4:</strong> A monster having the form of a slimy blob.</li><li><strong>Definition 5:</strong> Human flesh, seen disparagingly; mere human form.</li><li><strong>Definition 6:</strong> Jew’s slime (bitumen)</li><li><strong>Definition 7:</strong> Friend, homie</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To coat with slime.</li><li><strong>Definition 2:</strong> To besmirch or disparage.</li><li><strong>Definition 3:</strong> To carve (fish), removing the offal.</li></ul></div></div>"
+description: Yes, SLIME is a valid Wordle word. It was the Wordle answer on March
+  2, 2026 (#1717). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 2, 2026 (#1717).
+past_answers:
+- date: '2026-03-02'
+  number: 1717
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- slice
+- slide
+- slimy
+- clime
+- glime
+- slims
+- slipe
+- slive
+- stime
+anagrams:
+- smile
+- limes
+- meils
+- miles
+phonetic: "/slaɪm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Soft, moist earth or clay, having an adhesive quality; viscous mud; any
+      substance of a dirty nature, that is moist, soft, and adhesive; bitumen; mud
+      containing metallic ore, obtained in the preparatory dressing.
+  - text: Any mucilaginous substance; or a mucus-like substance which exudes from
+      the bodies of certain animals, such as snails or slugs.
+  - text: A sneaky, unethical person; a slimeball.
+  - text: A monster having the form of a slimy blob.
+  - text: Human flesh, seen disparagingly; mere human form.
+  - text: Jew’s slime (bitumen)
+  - text: Friend, homie
+- pos: verb
+  defs:
+  - text: To coat with slime.
+  - text: To besmirch or disparage.
+  - text: To carve (fish), removing the offal.
 ---
-

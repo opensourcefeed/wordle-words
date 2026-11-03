@@ -1,7 +1,44 @@
 ---
 layout: word
-title: flunk
+title: Is FLUNK a Wordle Word?
+head_title: 'Is FLUNK a Wordle Word? Yes – Past Answer #1167 & Meaning'
 word: flunk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /flʌŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Of a student, to fail a class; to not pass.<p><strong>Example:</strong> He flunked math, again.</p></li><li><strong>Definition 2:</strong> Of a teacher, to deny a student a passing grade.<p><strong>Example:</strong> Unsatisfied with Fred's progress, the teacher flunked him.</p></li><li><strong>Definition 3:</strong> To shirk (a task or duty).</li><li><strong>Definition 4:</strong> To back out through fear. (Commonly in the phrase 'flunk it', the 'it' referring to a specific task avoided; sometimes without specific reference describing a person's attitude to life in general.)</li></ul></div></div>"
+description: Yes, FLUNK is a valid Wordle word. It was the Wordle answer on August
+  29, 2024 (#1167). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 29, 2024 (#1167).
+past_answers:
+- date: '2024-08-29'
+  number: 1167
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- flank
+- flung
+- plunk
+- slunk
+- blunk
+- clunk
+phonetic: "/flʌŋk/"
+definitions:
+- pos: verb
+  defs:
+  - text: Of a student, to fail a class; to not pass.
+    example: He flunked math, again.
+  - text: Of a teacher, to deny a student a passing grade.
+    example: Unsatisfied with Fred's progress, the teacher flunked him.
+  - text: To shirk (a task or duty).
+  - text: To back out through fear. (Commonly in the phrase 'flunk it', the 'it' referring
+      to a specific task avoided; sometimes without specific reference describing
+      a person's attitude to life in general.)
 ---
-

@@ -1,7 +1,57 @@
 ---
 layout: word
-title: rasps
+title: Is RASPS a Wordle Word?
+head_title: Is RASPS a Wordle Word? Yes – Valid Guess & Meaning
 word: rasps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coarse file, on which the cutting prominences are distinct points raised by the oblique stroke of a sharp punch, instead of lines raised by a chisel, as on the true file.</li><li><strong>Definition 2:</strong> The sound made by this tool when used, or any similar sound.<p><strong>Example:</strong> the rasp of her perpetual cough</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use a rasp.</li><li><strong>Definition 2:</strong> To make a noise similar to the one a rasp makes in use; to utter rasps.</li><li><strong>Definition 3:</strong> To work something with a rasp.<p><strong>Example:</strong> to rasp wood to make it smooth; to rasp bones to powder</p></li><li><strong>Definition 4:</strong> To grate harshly upon; to offend by coarse or rough treatment or language.<p><strong>Example:</strong> His insults rasped my temper.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The raspberry.</li></ul></div></div>"
+description: Yes, RASPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- raspy
+- gasps
+- hasps
+- jasps
+- ramps
+- rasas
+- rases
+- risps
+- rosps
+- wasps
+anagrams:
+- spars
+definitions:
+- pos: noun
+  defs:
+  - text: A coarse file, on which the cutting prominences are distinct points raised
+      by the oblique stroke of a sharp punch, instead of lines raised by a chisel,
+      as on the true file.
+  - text: The sound made by this tool when used, or any similar sound.
+    example: the rasp of her perpetual cough
+- pos: verb
+  defs:
+  - text: To use a rasp.
+  - text: To make a noise similar to the one a rasp makes in use; to utter rasps.
+  - text: To work something with a rasp.
+    example: to rasp wood to make it smooth; to rasp bones to powder
+  - text: To grate harshly upon; to offend by coarse or rough treatment or language.
+    example: His insults rasped my temper.
+- pos: noun
+  defs:
+  - text: The raspberry.
 ---
-

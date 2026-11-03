@@ -1,7 +1,73 @@
 ---
 layout: word
-title: hopes
+title: Is HOPES a Wordle Word?
+head_title: Is HOPES a Wordle Word? Yes – Valid Guess & Meaning
 word: hopes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /həʊps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To want something to happen, with a sense of expectation that it might.<p><strong>Example:</strong> I am still hoping that all will turn out well.</p></li><li><strong>Definition 2:</strong> To be optimistic; be full of hope; have hopes.</li><li><strong>Definition 3:</strong> To place confidence; to trust with confident expectation of good; usually followed by in.</li><li><strong>Definition 4:</strong> To wish.<p><strong>Example:</strong> I hope you all the best.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The feeling of trust, confidence, belief or expectation that something wished for can or will happen.<p><strong>Example:</strong> After losing my job, there's no hope of being able to afford my world cruise.</p></li><li><strong>Definition 2:</strong> The actual thing wished for.</li><li><strong>Definition 3:</strong> A person or thing that is a source of hope.<p><strong>Example:</strong> We still have one hope left: my roommate might see the note I left on the table.</p></li><li><strong>Definition 4:</strong> The virtuous desire for future good.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hollow; a valley, especially the upper end of a narrow mountain valley when it is nearly encircled by smooth, green slopes; a comb.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sloping plain between mountain ridges.</li><li><strong>Definition 2:</strong> A small bay; an inlet; a haven.</li></ul></div></div>"
+description: Yes, HOPES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- copes
+- dopes
+- hipes
+- hokes
+- holes
+- homes
+- hones
+- hoped
+- hoper
+- hoses
+- hoves
+- howes
+anagrams:
+- shope
+trap:
+  pattern: HO_ES
+  count: 9
+phonetic: "/həʊps/"
+definitions:
+- pos: verb
+  defs:
+  - text: To want something to happen, with a sense of expectation that it might.
+    example: I am still hoping that all will turn out well.
+  - text: To be optimistic; be full of hope; have hopes.
+  - text: To place confidence; to trust with confident expectation of good; usually
+      followed by in.
+  - text: To wish.
+    example: I hope you all the best.
+- pos: noun
+  defs:
+  - text: The feeling of trust, confidence, belief or expectation that something wished
+      for can or will happen.
+    example: After losing my job, there's no hope of being able to afford my world
+      cruise.
+  - text: The actual thing wished for.
+  - text: A person or thing that is a source of hope.
+    example: 'We still have one hope left: my roommate might see the note I left on
+      the table.'
+  - text: The virtuous desire for future good.
+- pos: noun
+  defs:
+  - text: A hollow; a valley, especially the upper end of a narrow mountain valley
+      when it is nearly encircled by smooth, green slopes; a comb.
+- pos: noun
+  defs:
+  - text: A sloping plain between mountain ridges.
+  - text: A small bay; an inlet; a haven.
 ---
-

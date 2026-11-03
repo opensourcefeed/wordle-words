@@ -1,7 +1,42 @@
 ---
 layout: word
-title: kemps
+title: Is KEMPS a Wordle Word?
+head_title: Is KEMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: kemps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Coarse, rough hair, wool, or fur; (in the plural) knotty hairs that will not felt.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A contest in work, etc.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A champion; a knight.</li></ul></div></div>"
+description: Yes, KEMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- hemps
+- keeps
+- kelps
+- kembs
+- kempt
+- kempy
+- temps
+definitions:
+- pos: noun
+  defs:
+  - text: Coarse, rough hair, wool, or fur; (in the plural) knotty hairs that will
+      not felt.
+- pos: noun
+  defs:
+  - text: A contest in work, etc.
+- pos: noun
+  defs:
+  - text: A champion; a knight.
 ---
-

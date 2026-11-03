@@ -1,7 +1,53 @@
 ---
 layout: word
-title: abets
+title: Is ABETS a Wordle Word?
+head_title: Is ABETS a Wordle Word? Yes – Valid Guess & Meaning
 word: abets
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈbɛts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Fraud or cunning.</li><li><strong>Definition 2:</strong> An act of abetting; of helping; of giving aid.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To urge on, stimulate (a person to do) something desirable.</li><li><strong>Definition 2:</strong> To incite; to assist or encourage by aid or countenance in crime.</li><li><strong>Definition 3:</strong> To support, countenance, maintain, uphold, or aid (any good cause, opinion, or action); to maintain.</li><li><strong>Definition 4:</strong> To back up one's forecast of a doubtful issue, by staking money, etc., to bet.</li></ul></div></div>"
+description: Yes, ABETS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- abers
+- abeys
+- abuts
+- arets
+anagrams:
+- baste
+- beast
+- bates
+- beats
+- besat
+- betas
+- tabes
+phonetic: "/əˈbɛts/"
+definitions:
+- pos: noun
+  defs:
+  - text: Fraud or cunning.
+  - text: An act of abetting; of helping; of giving aid.
+- pos: verb
+  defs:
+  - text: To urge on, stimulate (a person to do) something desirable.
+  - text: To incite; to assist or encourage by aid or countenance in crime.
+  - text: To support, countenance, maintain, uphold, or aid (any good cause, opinion,
+      or action); to maintain.
+  - text: To back up one's forecast of a doubtful issue, by staking money, etc., to
+      bet.
 ---
-

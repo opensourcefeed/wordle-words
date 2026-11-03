@@ -1,7 +1,35 @@
 ---
 layout: word
-title: gusto
+title: Is GUSTO a Wordle Word?
+head_title: Is GUSTO a Wordle Word? Yes – Possible Answer & Meaning
 word: gusto
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡʌstəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Enthusiasm; enjoyment, vigor.<p><strong>Example:</strong> He sang with more gusto than talent.</p></li></ul></div></div>"
+description: Yes, GUSTO is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- gusty
+- gusts
+anagrams:
+- gouts
+phonetic: "/ˈɡʌstəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Enthusiasm; enjoyment, vigor.
+    example: He sang with more gusto than talent.
 ---
-

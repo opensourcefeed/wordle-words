@@ -1,7 +1,45 @@
 ---
 layout: word
-title: mambo
+title: Is MAMBO a Wordle Word?
+head_title: 'Is MAMBO a Wordle Word? Yes – Past Answer #1289 & Meaning'
 word: mambo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmæmbəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A voodoo priestess (in Haiti)</li><li><strong>Definition 2:</strong> A Latin-American musical genre, adapted from rumba, originating from Cuba in the 1940s, or a dance or rhythm of this genre.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To perform this dance.</li></ul></div></div>"
+description: Yes, MAMBO is a valid Wordle word. It was the Wordle answer on December
+  29, 2024 (#1289). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 29, 2024 (#1289).
+past_answers:
+- date: '2024-12-29'
+  number: 1289
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - M
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- gambo
+- jambo
+- mamba
+- mambu
+- mumbo
+- zambo
+phonetic: "/ˈmæmbəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A voodoo priestess (in Haiti)
+  - text: A Latin-American musical genre, adapted from rumba, originating from Cuba
+      in the 1940s, or a dance or rhythm of this genre.
+- pos: verb
+  defs:
+  - text: To perform this dance.
 ---
-

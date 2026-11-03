@@ -1,7 +1,43 @@
 ---
 layout: word
-title: clept
+title: Is CLEPT a Wordle Word?
+head_title: Is CLEPT a Wordle Word? Yes – Valid Guess & Meaning
 word: clept
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klɛpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give a call; cry out; appeal.</li><li><strong>Definition 2:</strong> To call; call upon; cry out to.</li><li><strong>Definition 3:</strong> To call to oneself; invite; summon.</li><li><strong>Definition 4:</strong> To call; call by the name of; name.</li><li><strong>Definition 5:</strong> (often with 'on') To tell lies about; inform against (someone).</li><li><strong>Definition 6:</strong> To be loquacious; tattle; gossip.</li><li><strong>Definition 7:</strong> To report; relate; tell.</li></ul></div></div>"
+description: Yes, CLEPT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- cleat
+- cleft
+- crept
+- slept
+- clapt
+- clepe
+- clipt
+phonetic: "/klɛpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To give a call; cry out; appeal.
+  - text: To call; call upon; cry out to.
+  - text: To call to oneself; invite; summon.
+  - text: To call; call by the name of; name.
+  - text: "(often with 'on') To tell lies about; inform against (someone)."
+  - text: To be loquacious; tattle; gossip.
+  - text: To report; relate; tell.
 ---
-

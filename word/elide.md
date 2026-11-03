@@ -1,7 +1,41 @@
 ---
 layout: word
-title: elide
+title: Is ELIDE a Wordle Word?
+head_title: Is ELIDE a Wordle Word? Yes – Possible Answer & Meaning
 word: elide
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈlaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To leave out or omit (something).</li><li><strong>Definition 2:</strong> To cut off, as a vowel or a syllable.</li><li><strong>Definition 3:</strong> To conflate; to smear together; to blur the distinction between.</li></ul></div></div>"
+description: Yes, ELIDE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- elite
+- elude
+- glide
+- slide
+- ylide
+anagrams:
+- edile
+phonetic: "/ɪˈlaɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To leave out or omit (something).
+  - text: To cut off, as a vowel or a syllable.
+  - text: To conflate; to smear together; to blur the distinction between.
 ---
-

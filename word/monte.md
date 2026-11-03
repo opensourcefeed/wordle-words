@@ -1,7 +1,47 @@
 ---
 layout: word
-title: monte
+title: Is MONTE a Wordle Word?
+head_title: Is MONTE a Wordle Word? Yes – Valid Guess & Meaning
 word: monte
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɒnti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A game in which three or four cards are dealt face-up and players bet on which of them will first be matched in suit by others dealt.</li><li><strong>Definition 2:</strong> (Latin America) A wood or forest; timberland.</li></ul></div></div>"
+description: Yes, MONTE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- month
+- conte
+- mante
+- monde
+- monie
+- monpe
+- monty
+- moste
+- motte
+- ronte
+anagrams:
+- mento
+- moten
+- tomen
+phonetic: "/mɒnti/"
+definitions:
+- pos: noun
+  defs:
+  - text: A game in which three or four cards are dealt face-up and players bet on
+      which of them will first be matched in suit by others dealt.
+  - text: "(Latin America) A wood or forest; timberland."
 ---
-

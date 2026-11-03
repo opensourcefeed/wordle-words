@@ -1,7 +1,62 @@
 ---
 layout: word
-title: labor
+title: Is LABOR a Wordle Word?
+head_title: 'Is LABOR a Wordle Word? Yes – Past Answer #94 & Meaning'
 word: labor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈleɪ.bɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Effort expended on a particular task; toil, work.</li><li><strong>Definition 2:</strong> That which requires hard work for its accomplishment; that which demands effort.</li><li><strong>Definition 3:</strong> Workers in general; the working class, the workforce; sometimes specifically the labour movement, organised labour.</li><li><strong>Definition 4:</strong> A political party or force aiming or claiming to represent the interests of labour.</li><li><strong>Definition 5:</strong> The act of a mother giving birth.</li><li><strong>Definition 6:</strong> The time period during which a mother gives birth.</li><li><strong>Definition 7:</strong> The pitching or tossing of a vessel which results in the straining of timbers and rigging.</li><li><strong>Definition 8:</strong> An old measure of land area in Mexico and Texas, approximately 177 acres.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To toil, to work.</li><li><strong>Definition 2:</strong> To belabour, to emphasise or expand upon (a point in a debate, etc).<p><strong>Example:</strong> I think we've all got the idea. There's no need to labour the point.</p></li><li><strong>Definition 3:</strong> To be oppressed with difficulties or disease; to do one's work under conditions which make it especially hard or wearisome; to move slowly, as against opposition, or under a burden.</li><li><strong>Definition 4:</strong> To suffer the pangs of childbirth.</li><li><strong>Definition 5:</strong> To pitch or roll heavily, as a ship in a turbulent sea.</li></ul></div></div>"
+description: Yes, LABOR is a valid Wordle word. It was the Wordle answer on September
+  21, 2021 (#94). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 21, 2021 (#94).
+past_answers:
+- date: '2021-09-21'
+  number: 94
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- libor
+- tabor
+anagrams:
+- bolar
+- boral
+- lobar
+phonetic: "/ˈleɪ.bɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Effort expended on a particular task; toil, work.
+  - text: That which requires hard work for its accomplishment; that which demands
+      effort.
+  - text: Workers in general; the working class, the workforce; sometimes specifically
+      the labour movement, organised labour.
+  - text: A political party or force aiming or claiming to represent the interests
+      of labour.
+  - text: The act of a mother giving birth.
+  - text: The time period during which a mother gives birth.
+  - text: The pitching or tossing of a vessel which results in the straining of timbers
+      and rigging.
+  - text: An old measure of land area in Mexico and Texas, approximately 177 acres.
+- pos: verb
+  defs:
+  - text: To toil, to work.
+  - text: To belabour, to emphasise or expand upon (a point in a debate, etc).
+    example: I think we've all got the idea. There's no need to labour the point.
+  - text: To be oppressed with difficulties or disease; to do one's work under conditions
+      which make it especially hard or wearisome; to move slowly, as against opposition,
+      or under a burden.
+  - text: To suffer the pangs of childbirth.
+  - text: To pitch or roll heavily, as a ship in a turbulent sea.
 ---
-

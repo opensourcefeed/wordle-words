@@ -1,7 +1,33 @@
 ---
 layout: word
-title: rheum
+title: Is RHEUM a Wordle Word?
+head_title: Is RHEUM a Wordle Word? Yes – Valid Guess & Meaning
 word: rheum
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹuːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Watery or thin discharge of serum or mucus, especially from the eyes or nose, formerly thought to cause disease.</li><li><strong>Definition 2:</strong> Illness or disease thought to be caused by such secretions; a catarrh, a cold; rheumatism.</li><li><strong>Definition 3:</strong> Tears.</li></ul></div></div>"
+description: Yes, RHEUM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+phonetic: "/ɹuːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Watery or thin discharge of serum or mucus, especially from the eyes or
+      nose, formerly thought to cause disease.
+  - text: Illness or disease thought to be caused by such secretions; a catarrh, a
+      cold; rheumatism.
+  - text: Tears.
 ---
-

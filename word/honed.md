@@ -1,7 +1,57 @@
 ---
 layout: word
-title: honed
+title: Is HONED a Wordle Word?
+head_title: Is HONED a Wordle Word? Yes – Valid Guess & Meaning
 word: honed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /həʊnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sharpen with a hone; to whet.</li><li><strong>Definition 2:</strong> To use a hone to produce a precision bore.</li><li><strong>Definition 3:</strong> To refine or master (a skill).</li><li><strong>Definition 4:</strong> To make more acute, intense, or effective.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grumble.</li><li><strong>Definition 2:</strong> To pine, lament, or long.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made sharp.</li><li><strong>Definition 2:</strong> Made more accurate or precise.</li></ul></div></div>"
+description: Yes, HONED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- honey
+- boned
+- coned
+- hoaed
+- hohed
+- hoied
+- hoked
+- holed
+- homed
+- honer
+- hones
+- hoped
+trap:
+  pattern: HO_ED
+  count: 12
+phonetic: "/həʊnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To sharpen with a hone; to whet.
+  - text: To use a hone to produce a precision bore.
+  - text: To refine or master (a skill).
+  - text: To make more acute, intense, or effective.
+- pos: verb
+  defs:
+  - text: To grumble.
+  - text: To pine, lament, or long.
+- pos: adjective
+  defs:
+  - text: Made sharp.
+  - text: Made more accurate or precise.
 ---
-

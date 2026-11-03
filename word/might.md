@@ -1,7 +1,54 @@
 ---
 layout: word
-title: might
+title: Is MIGHT a Wordle Word?
+head_title: 'Is MIGHT a Wordle Word? Yes – Past Answer #1536 & Meaning'
 word: might
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /maɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Power, strength, force or influence held by a person or group.</li><li><strong>Definition 2:</strong> Physical strength or force.<p><strong>Example:</strong> He pushed with all his might, but still it would not move.</p></li><li><strong>Definition 3:</strong> The ability to do something.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Mighty; powerful.</li><li><strong>Definition 2:</strong> Possible.</li></ul></div></div>"
+description: Yes, MIGHT is a valid Wordle word. It was the Wordle answer on September
+  2, 2025 (#1536). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 2, 2025 (#1536).
+past_answers:
+- date: '2025-09-02'
+  number: 1536
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- eight
+- fight
+- light
+- night
+- right
+- sight
+- tight
+- wight
+- aight
+- bight
+- dight
+- hight
+trap:
+  pattern: _IGHT
+  count: 15
+phonetic: "/maɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Power, strength, force or influence held by a person or group.
+  - text: Physical strength or force.
+    example: He pushed with all his might, but still it would not move.
+  - text: The ability to do something.
+- pos: adjective
+  defs:
+  - text: Mighty; powerful.
+  - text: Possible.
 ---
-

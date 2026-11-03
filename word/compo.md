@@ -1,7 +1,80 @@
 ---
 layout: word
-title: compo
+title: Is COMPO a Wordle Word?
+head_title: Is COMPO a Wordle Word? Yes – Valid Guess & Meaning
 word: compo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɒm.pəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act or principle of compensating.</li><li><strong>Definition 2:</strong> Something which is regarded as an equivalent; something which compensates for loss.</li><li><strong>Definition 3:</strong> The extinction of debts of which two persons are reciprocally debtors by the credits of which they are reciprocally creditors; the payment of a debt by a credit of equal amount.</li><li><strong>Definition 4:</strong> A recompense or reward for service.</li><li><strong>Definition 5:</strong> An equivalent stipulated for in contracts for the sale of real estate, in which it is customary to provide that errors in description, etc., shall not avoid, but shall be the subject of compensation.</li><li><strong>Definition 6:</strong> The relationship between air temperature outside a building and a calculated target temperature for provision of air or water to contained rooms or spaces for the purpose of efficient heating. In building control systems the compensation curve is defined to a compensator for this purpose.</li><li><strong>Definition 7:</strong> The ability of one part of the brain to overfunction in order to take over the function of a damaged part (e.g. following a stroke).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The action of competing.<p><strong>Example:</strong> The competition for this job is strong.</p></li><li><strong>Definition 2:</strong> A contest for a prize or award.<p><strong>Example:</strong> The newspaper is featuring a competition to win a car.</p></li><li><strong>Definition 3:</strong> The competitors in such a contest.<p><strong>Example:</strong> The new stain remover was ten times more effective than the competition.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of putting together; assembly.</li><li><strong>Definition 2:</strong> A mixture or compound; the result of composing.</li><li><strong>Definition 3:</strong> The proportion of different parts to make a whole.</li><li><strong>Definition 4:</strong> The general makeup of a thing or person.</li><li><strong>Definition 5:</strong> An agreement or treaty used to settle differences; later especially, an agreement to stop hostilities; a truce.</li><li><strong>Definition 6:</strong> A payment of money in order to clear a liability or obligation; a settling or fine.</li><li><strong>Definition 7:</strong> An agreement or compromise by which a creditor or group of creditors accepts partial payment from a debtor.</li><li><strong>Definition 8:</strong> An essay.</li><li><strong>Definition 9:</strong> The formation of compound words from separate words.</li><li><strong>Definition 10:</strong> A work of music, literature or art.</li><li><strong>Definition 11:</strong> Typesetting.</li><li><strong>Definition 12:</strong> Applying a function to the result of another.</li><li><strong>Definition 13:</strong> The compounding of two velocities or forces into a single equivalent velocity or force.</li><li><strong>Definition 14:</strong> Consistency; accord; congruity.</li><li><strong>Definition 15:</strong> Synthesis as opposed to analysis.</li><li><strong>Definition 16:</strong> The arrangement and flow of elements in a picture.</li><li><strong>Definition 17:</strong> Way to combine simple objects or data types into more complex ones.</li></ul></div></div>"
+description: Yes, COMPO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- campo
+- combo
+- commo
+- comps
+- compt
+phonetic: "/kɒm.pəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act or principle of compensating.
+  - text: Something which is regarded as an equivalent; something which compensates
+      for loss.
+  - text: The extinction of debts of which two persons are reciprocally debtors by
+      the credits of which they are reciprocally creditors; the payment of a debt
+      by a credit of equal amount.
+  - text: A recompense or reward for service.
+  - text: An equivalent stipulated for in contracts for the sale of real estate, in
+      which it is customary to provide that errors in description, etc., shall not
+      avoid, but shall be the subject of compensation.
+  - text: The relationship between air temperature outside a building and a calculated
+      target temperature for provision of air or water to contained rooms or spaces
+      for the purpose of efficient heating. In building control systems the compensation
+      curve is defined to a compensator for this purpose.
+  - text: The ability of one part of the brain to overfunction in order to take over
+      the function of a damaged part (e.g. following a stroke).
+- pos: noun
+  defs:
+  - text: The action of competing.
+    example: The competition for this job is strong.
+  - text: A contest for a prize or award.
+    example: The newspaper is featuring a competition to win a car.
+  - text: The competitors in such a contest.
+    example: The new stain remover was ten times more effective than the competition.
+- pos: noun
+  defs:
+  - text: The act of putting together; assembly.
+  - text: A mixture or compound; the result of composing.
+  - text: The proportion of different parts to make a whole.
+  - text: The general makeup of a thing or person.
+  - text: An agreement or treaty used to settle differences; later especially, an
+      agreement to stop hostilities; a truce.
+  - text: A payment of money in order to clear a liability or obligation; a settling
+      or fine.
+  - text: An agreement or compromise by which a creditor or group of creditors accepts
+      partial payment from a debtor.
+  - text: An essay.
+  - text: The formation of compound words from separate words.
+  - text: A work of music, literature or art.
+  - text: Typesetting.
+  - text: Applying a function to the result of another.
+  - text: The compounding of two velocities or forces into a single equivalent velocity
+      or force.
+  - text: Consistency; accord; congruity.
+  - text: Synthesis as opposed to analysis.
+  - text: The arrangement and flow of elements in a picture.
+  - text: Way to combine simple objects or data types into more complex ones.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: clunk
+title: Is CLUNK a Wordle Word?
+head_title: 'Is CLUNK a Wordle Word? Yes – Past Answer #1877 & Meaning'
 word: clunk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klʌŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dull, metallic sound, especially one made by two bodies coming into contact.</li><li><strong>Definition 2:</strong> The sound of liquid coming out of a bottle, etc.; a glucking sound.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make such a sound</li></ul></div></div>"
+description: Yes, CLUNK is a valid Wordle word. It was the Wordle answer on August
+  9, 2026 (#1877). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 9, 2026 (#1877).
+past_answers:
+- date: '2026-08-09'
+  number: 1877
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- chunk
+- clank
+- clink
+- cluck
+- clung
+- flunk
+- plunk
+- slunk
+- blunk
+- clonk
+- crunk
+phonetic: "/klʌŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dull, metallic sound, especially one made by two bodies coming into contact.
+  - text: The sound of liquid coming out of a bottle, etc.; a glucking sound.
+- pos: verb
+  defs:
+  - text: To make such a sound
 ---
-

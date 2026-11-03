@@ -1,7 +1,92 @@
 ---
 layout: word
-title: cribs
+title: Is CRIBS a Wordle Word?
+head_title: Is CRIBS a Wordle Word? Yes – Valid Guess & Meaning
 word: cribs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹɪbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A baby’s bed with high, often slatted, often moveable sides, suitable for a child who has outgrown a cradle or bassinet.</li><li><strong>Definition 2:</strong> A bed for a child older than a baby.</li><li><strong>Definition 3:</strong> A small sleeping berth in a packet ship or other small vessel</li><li><strong>Definition 4:</strong> A wicker basket; compare Moses basket.</li><li><strong>Definition 5:</strong> A manger, a feeding trough for animals elevated off the earth or floor, especially one for fodder such as hay.</li><li><strong>Definition 6:</strong> The baby Jesus and the manger in a creche or nativity scene, consisting of statues of Mary, Joseph and various other characters such as the magi.</li><li><strong>Definition 7:</strong> A bin for drying or storing grain, as with a corn crib.</li><li><strong>Definition 8:</strong> A small room or covered structure, especially one of rough construction, used for storage or penning animals.</li><li><strong>Definition 9:</strong> A confined space, as with a cage or office-cubicle</li><li><strong>Definition 10:</strong> A job, a position; (British), an appointment.</li><li><strong>Definition 11:</strong> A hovel, a roughly constructed building best suited to the shelter of animals but used for human habitation.</li><li><strong>Definition 12:</strong> One’s residence, or where one normally hangs out. A house or dwelling place.</li><li><strong>Definition 13:</strong> A boxy structure traditionally built of heavy wooden timbers, to support an existing structure from below, as with a mineshaft or a building being raised off its foundation in preparation for being moved; see cribbing.</li><li><strong>Definition 14:</strong> (usually in the plural) A collection of quotes or references for use in speaking, for assembling a written document, or as an aid to a project of some sort; a crib sheet.</li><li><strong>Definition 15:</strong> A minor theft, extortion or embezzlement, with or without criminal intent.</li><li><strong>Definition 16:</strong> The card game cribbage.</li><li><strong>Definition 17:</strong> The cards discarded by players and used by the dealer.</li><li><strong>Definition 18:</strong> A known piece of information corresponding to a section of encrypted text, that is then used to work out the remaining sections.</li><li><strong>Definition 19:</strong> A small holiday home, often near a beach and of simple construction.</li><li><strong>Definition 20:</strong> A packed lunch taken to work.</li><li><strong>Definition 21:</strong> A small raft made of timber.</li><li><strong>Definition 22:</strong> (thieves' cant) The stomach.</li><li><strong>Definition 23:</strong> A cheat sheet or past test used by students; crib sheet.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place or confine in a crib.</li><li><strong>Definition 2:</strong> To shut up or confine in a narrow habitation; to cage; to cramp.</li><li><strong>Definition 3:</strong> To collect one or more passages and/or references for use in a speech, written document or as an aid for some task; to create a crib sheet.<p><strong>Example:</strong> I cribbed the recipe from the Food Network site, but made a few changes of my own.</p></li><li><strong>Definition 4:</strong> To plagiarize; to copy; to cheat.</li><li><strong>Definition 5:</strong> To install timber supports, as with cribbing.</li><li><strong>Definition 6:</strong> To steal or embezzle, to cheat out of.</li><li><strong>Definition 7:</strong> (Indian English) To complain, to grumble</li><li><strong>Definition 8:</strong> To crowd together, or to be confined, as if in a crib or in narrow accommodations.</li><li><strong>Definition 9:</strong> (of a horse) To seize the manger or other solid object with the teeth and draw in wind.</li></ul></div></div>"
+description: Yes, CRIBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- chibs
+- crabs
+- crias
+- cribo
+- cries
+- crims
+- crins
+- crios
+- crips
+- criss
+- crits
+- dribs
+trap:
+  pattern: CRI_S
+  count: 9
+phonetic: "/kɹɪbz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A baby’s bed with high, often slatted, often moveable sides, suitable for
+      a child who has outgrown a cradle or bassinet.
+  - text: A bed for a child older than a baby.
+  - text: A small sleeping berth in a packet ship or other small vessel
+  - text: A wicker basket; compare Moses basket.
+  - text: A manger, a feeding trough for animals elevated off the earth or floor,
+      especially one for fodder such as hay.
+  - text: The baby Jesus and the manger in a creche or nativity scene, consisting
+      of statues of Mary, Joseph and various other characters such as the magi.
+  - text: A bin for drying or storing grain, as with a corn crib.
+  - text: A small room or covered structure, especially one of rough construction,
+      used for storage or penning animals.
+  - text: A confined space, as with a cage or office-cubicle
+  - text: A job, a position; (British), an appointment.
+  - text: A hovel, a roughly constructed building best suited to the shelter of animals
+      but used for human habitation.
+  - text: One’s residence, or where one normally hangs out. A house or dwelling place.
+  - text: A boxy structure traditionally built of heavy wooden timbers, to support
+      an existing structure from below, as with a mineshaft or a building being raised
+      off its foundation in preparation for being moved; see cribbing.
+  - text: "(usually in the plural) A collection of quotes or references for use in
+      speaking, for assembling a written document, or as an aid to a project of some
+      sort; a crib sheet."
+  - text: A minor theft, extortion or embezzlement, with or without criminal intent.
+  - text: The card game cribbage.
+  - text: The cards discarded by players and used by the dealer.
+  - text: A known piece of information corresponding to a section of encrypted text,
+      that is then used to work out the remaining sections.
+  - text: A small holiday home, often near a beach and of simple construction.
+  - text: A packed lunch taken to work.
+  - text: A small raft made of timber.
+  - text: "(thieves' cant) The stomach."
+  - text: A cheat sheet or past test used by students; crib sheet.
+- pos: verb
+  defs:
+  - text: To place or confine in a crib.
+  - text: To shut up or confine in a narrow habitation; to cage; to cramp.
+  - text: To collect one or more passages and/or references for use in a speech, written
+      document or as an aid for some task; to create a crib sheet.
+    example: I cribbed the recipe from the Food Network site, but made a few changes
+      of my own.
+  - text: To plagiarize; to copy; to cheat.
+  - text: To install timber supports, as with cribbing.
+  - text: To steal or embezzle, to cheat out of.
+  - text: "(Indian English) To complain, to grumble"
+  - text: To crowd together, or to be confined, as if in a crib or in narrow accommodations.
+  - text: "(of a horse) To seize the manger or other solid object with the teeth and
+      draw in wind."
 ---
-

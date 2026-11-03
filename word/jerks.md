@@ -1,7 +1,68 @@
 ---
 layout: word
-title: jerks
+title: Is JERKS a Wordle Word?
+head_title: Is JERKS a Wordle Word? Yes – Valid Guess & Meaning
 word: jerks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden, often uncontrolled movement, especially of the body.</li><li><strong>Definition 2:</strong> A quick, often unpleasant tug or shake.<p><strong>Example:</strong> When I yell \"OK,\" give the mooring line a good jerk!</p></li><li><strong>Definition 3:</strong> A dull or stupid person.</li><li><strong>Definition 4:</strong> A person with unlikable or obnoxious qualities and behavior, typically mean, self-centered or disagreeable.<p><strong>Example:</strong> I finally fired him, because he was being a real jerk to his customers, even to some of the staff.</p></li><li><strong>Definition 5:</strong> The rate of change in acceleration with respect to time.</li><li><strong>Definition 6:</strong> A soda jerk.</li><li><strong>Definition 7:</strong> A lift in which the weight is taken with a quick motion from shoulder height to a position above the head with arms fully extended and held there for a brief time.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a sudden uncontrolled movement.</li><li><strong>Definition 2:</strong> To give a quick, often unpleasant tug or shake.</li><li><strong>Definition 3:</strong> To masturbate.</li><li><strong>Definition 4:</strong> To beat, to hit.</li><li><strong>Definition 5:</strong> To throw with a quick and suddenly arrested motion of the hand.<p><strong>Example:</strong> to jerk a stone</p></li><li><strong>Definition 6:</strong> (usually transitive) To lift using a jerk.</li><li><strong>Definition 7:</strong> To flout with contempt.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cure (meat) by cutting it into strips and drying it, originally in the sun.</li></ul></div></div>"
+description: Yes, JERKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- jerky
+- berks
+- jarks
+- merks
+- nerks
+- perks
+- serks
+- yerks
+- zerks
+trap:
+  pattern: _ERKS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden, often uncontrolled movement, especially of the body.
+  - text: A quick, often unpleasant tug or shake.
+    example: When I yell "OK," give the mooring line a good jerk!
+  - text: A dull or stupid person.
+  - text: A person with unlikable or obnoxious qualities and behavior, typically mean,
+      self-centered or disagreeable.
+    example: I finally fired him, because he was being a real jerk to his customers,
+      even to some of the staff.
+  - text: The rate of change in acceleration with respect to time.
+  - text: A soda jerk.
+  - text: A lift in which the weight is taken with a quick motion from shoulder height
+      to a position above the head with arms fully extended and held there for a brief
+      time.
+- pos: verb
+  defs:
+  - text: To make a sudden uncontrolled movement.
+  - text: To give a quick, often unpleasant tug or shake.
+  - text: To masturbate.
+  - text: To beat, to hit.
+  - text: To throw with a quick and suddenly arrested motion of the hand.
+    example: to jerk a stone
+  - text: "(usually transitive) To lift using a jerk."
+  - text: To flout with contempt.
+- pos: verb
+  defs:
+  - text: To cure (meat) by cutting it into strips and drying it, originally in the
+      sun.
 ---
-

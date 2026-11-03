@@ -1,7 +1,72 @@
 ---
 layout: word
-title: fouls
+title: Is FOULS a Wordle Word?
+head_title: Is FOULS a Wordle Word? Yes – Valid Guess & Meaning
 word: fouls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faʊlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A breach of the rules of a game, especially one involving inappropriate contact with an opposing player in order to gain an advantage; for example, tripping someone up in soccer, or contact of any kind in basketball.</li><li><strong>Definition 2:</strong> A (usually accidental) contact between a bowler and the lane before the bowler has released the ball.</li><li><strong>Definition 3:</strong> A foul ball, a ball which has been hit outside of the base lines.<p><strong>Example:</strong> Jones hit a foul up over the screen.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make dirty.<p><strong>Example:</strong> She's fouled her diaper.</p></li><li><strong>Definition 2:</strong> To besmirch.<p><strong>Example:</strong> He's fouled his reputation.</p></li><li><strong>Definition 3:</strong> To clog or obstruct.<p><strong>Example:</strong> The hair has fouled the drain.</p></li><li><strong>Definition 4:</strong> To entangle.<p><strong>Example:</strong> The kelp has fouled the prop.</p></li><li><strong>Definition 5:</strong> To make contact with an opposing player in order to gain advantage.<p><strong>Example:</strong> Smith fouled him hard.</p></li><li><strong>Definition 6:</strong> To hit outside of the baselines.<p><strong>Example:</strong> Jones fouled the ball off the facing of the upper deck.</p></li><li><strong>Definition 7:</strong> To become clogged.<p><strong>Example:</strong> The drain fouled.</p></li><li><strong>Definition 8:</strong> To become entangled.<p><strong>Example:</strong> The prop fouled on the kelp.</p></li><li><strong>Definition 9:</strong> To commit a foul.<p><strong>Example:</strong> Smith fouled within the first minute of the quarter.</p></li><li><strong>Definition 10:</strong> To hit a ball outside of the baselines.<p><strong>Example:</strong> Jones fouled for strike one.</p></li></ul></div></div>"
+description: Yes, FOULS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- foals
+- foils
+- fools
+- fouds
+- foule
+- fours
+- fowls
+- mouls
+- nouls
+- rouls
+- souls
+anagrams:
+- sulfo
+phonetic: "/faʊlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A breach of the rules of a game, especially one involving inappropriate
+      contact with an opposing player in order to gain an advantage; for example,
+      tripping someone up in soccer, or contact of any kind in basketball.
+  - text: A (usually accidental) contact between a bowler and the lane before the
+      bowler has released the ball.
+  - text: A foul ball, a ball which has been hit outside of the base lines.
+    example: Jones hit a foul up over the screen.
+- pos: verb
+  defs:
+  - text: To make dirty.
+    example: She's fouled her diaper.
+  - text: To besmirch.
+    example: He's fouled his reputation.
+  - text: To clog or obstruct.
+    example: The hair has fouled the drain.
+  - text: To entangle.
+    example: The kelp has fouled the prop.
+  - text: To make contact with an opposing player in order to gain advantage.
+    example: Smith fouled him hard.
+  - text: To hit outside of the baselines.
+    example: Jones fouled the ball off the facing of the upper deck.
+  - text: To become clogged.
+    example: The drain fouled.
+  - text: To become entangled.
+    example: The prop fouled on the kelp.
+  - text: To commit a foul.
+    example: Smith fouled within the first minute of the quarter.
+  - text: To hit a ball outside of the baselines.
+    example: Jones fouled for strike one.
 ---
-

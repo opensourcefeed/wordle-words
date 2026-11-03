@@ -1,7 +1,55 @@
 ---
 layout: word
-title: bobos
+title: Is BOBOS a Wordle Word?
+head_title: Is BOBOS a Wordle Word? Yes – Valid Guess & Meaning
 word: bobos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A materialistic person who affects an anti-materialistic persona.</li><li><strong>Definition 2:</strong> A self-styled bodyguard or groupie of the nouveau riche (such as a professional athlete or musician)</li><li><strong>Definition 3:</strong> An imitation of something, particularly a well known product, usually lower in quality than the original.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (Montreal) A boo-boo (minor injury)</li></ul></div></div>"
+description: Yes, BOBOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - B
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- bobas
+- bobol
+- bohos
+- bokos
+- bolos
+- botos
+- boyos
+- bozos
+- gobos
+- hobos
+- kobos
+- lobos
+anagrams:
+- boobs
+- obbos
+trap:
+  pattern: _OBOS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A materialistic person who affects an anti-materialistic persona.
+  - text: A self-styled bodyguard or groupie of the nouveau riche (such as a professional
+      athlete or musician)
+  - text: An imitation of something, particularly a well known product, usually lower
+      in quality than the original.
+- pos: noun
+  defs:
+  - text: "(Montreal) A boo-boo (minor injury)"
 ---
-

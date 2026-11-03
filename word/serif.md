@@ -1,7 +1,48 @@
 ---
 layout: word
-title: serif
+title: Is SERIF a Wordle Word?
+head_title: 'Is SERIF a Wordle Word? Yes – Past Answer #1738 & Meaning'
 word: serif
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short line added to the end of a stroke in traditional typefaces, such as Times New Roman.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a typeface, provided with serifs.</li></ul></div></div>"
+description: Yes, SERIF is a valid Wordle word. It was the Wordle answer on March
+  23, 2026 (#1738). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 23, 2026 (#1738).
+past_answers:
+- date: '2026-03-23'
+  number: 1738
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- seria
+- seric
+- serin
+- serir
+anagrams:
+- fiers
+- fires
+- fries
+- frise
+- refis
+- reifs
+definitions:
+- pos: noun
+  defs:
+  - text: A short line added to the end of a stroke in traditional typefaces, such
+      as Times New Roman.
+- pos: adjective
+  defs:
+  - text: Of a typeface, provided with serifs.
 ---
-

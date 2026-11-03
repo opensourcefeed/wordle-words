@@ -1,7 +1,43 @@
 ---
 layout: word
-title: basso
+title: Is BASSO a Wordle Word?
+head_title: Is BASSO a Wordle Word? Yes – Valid Guess & Meaning
 word: basso
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bass singer, especially in opera.</li><li><strong>Definition 2:</strong> An instrumental part written for a bass instrument.</li><li><strong>Definition 3:</strong> The double bass, or contrabasso.</li></ul></div></div>"
+description: Yes, BASSO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- lasso
+- basho
+- basse
+- bassi
+- bassy
+- basto
+- tasso
+anagrams:
+- bossa
+- sabos
+- sobas
+definitions:
+- pos: noun
+  defs:
+  - text: A bass singer, especially in opera.
+  - text: An instrumental part written for a bass instrument.
+  - text: The double bass, or contrabasso.
 ---
-

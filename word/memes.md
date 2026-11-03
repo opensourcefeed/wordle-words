@@ -1,7 +1,54 @@
 ---
 layout: word
-title: memes
+title: Is MEMES a Wordle Word?
+head_title: Is MEMES a Wordle Word? Yes – Valid Guess & Meaning
 word: memes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any unit of cultural information, such as a practice or idea, that is transmitted verbally or by repeated action from one mind to another in a comparable way to the transmission of genes.</li><li><strong>Definition 2:</strong> Something, usually humorous, which is copied and circulated online with slight adaptations, including quizzes, basic pictures, video templates etc.</li><li><strong>Definition 3:</strong> A myth circulating as truth; something ineffective presented as effective, or similar.<p><strong>Example:</strong> it’s a meme degree</p></li></ul></div></div>"
+description: Yes, MEMES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - M
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- demes
+- femes
+- hemes
+- lemes
+- meles
+- memos
+- menes
+- meres
+- meses
+- metes
+- meves
+- mezes
+anagrams:
+- mesem
+trap:
+  pattern: ME_ES
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: Any unit of cultural information, such as a practice or idea, that is transmitted
+      verbally or by repeated action from one mind to another in a comparable way
+      to the transmission of genes.
+  - text: Something, usually humorous, which is copied and circulated online with
+      slight adaptations, including quizzes, basic pictures, video templates etc.
+  - text: A myth circulating as truth; something ineffective presented as effective,
+      or similar.
+    example: it’s a meme degree
 ---
-

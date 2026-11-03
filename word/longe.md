@@ -1,7 +1,45 @@
 ---
 layout: word
-title: longe
+title: Is LONGE a Wordle Word?
+head_title: Is LONGE a Wordle Word? Yes – Valid Guess & Meaning
 word: longe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lʌndʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long rope or flat web line, more commonly referred to as a longe line, approximately 20-30 feet long, attached to the bridle, longeing cavesson, or halter of a horse and used to control the animal while longeing.</li><li><strong>Definition 2:</strong> A lunge; a thrust.</li><li><strong>Definition 3:</strong> The training ground for a horse.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To work (a horse) in a circle at the end of a long line or rope.</li></ul></div></div>"
+description: Yes, LONGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- lodge
+- lunge
+- conge
+- longa
+- longs
+anagrams:
+- legno
+phonetic: "/lʌndʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long rope or flat web line, more commonly referred to as a longe line,
+      approximately 20-30 feet long, attached to the bridle, longeing cavesson, or
+      halter of a horse and used to control the animal while longeing.
+  - text: A lunge; a thrust.
+  - text: The training ground for a horse.
+- pos: verb
+  defs:
+  - text: To work (a horse) in a circle at the end of a long line or rope.
 ---
-

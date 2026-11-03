@@ -1,7 +1,43 @@
 ---
 layout: word
-title: puree
+title: Is PUREE a Wordle Word?
+head_title: Is PUREE a Wordle Word? Yes – Possible Answer & Meaning
 word: puree
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pjʊəˈɹeɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A food that has been ground or crushed into a thick liquid.<p><strong>Example:</strong> Tomato sauce is generally a puree.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To crush or grind food into a puree.</li></ul></div></div>"
+description: Yes, PUREE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- purer
+- purge
+- purse
+- pured
+- pures
+- purre
+anagrams:
+- rupee
+phonetic: "/pjʊəˈɹeɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A food that has been ground or crushed into a thick liquid.
+    example: Tomato sauce is generally a puree.
+- pos: verb
+  defs:
+  - text: To crush or grind food into a puree.
 ---
-

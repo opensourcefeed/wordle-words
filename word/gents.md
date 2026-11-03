@@ -1,7 +1,51 @@
 ---
 layout: word
-title: gents
+title: Is GENTS a Wordle Word?
+head_title: Is GENTS a Wordle Word? Yes – Valid Guess & Meaning
 word: gents
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʒɛnts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gentleman.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A men's room: a lavatory intended for use by men.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Men's: intended for use by men.</li></ul></div></div>"
+description: Yes, GENTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- bents
+- cents
+- dents
+- fents
+- gants
+- geats
+- geits
+- gelts
+- genas
+- genes
+- genty
+- genus
+trap:
+  pattern: _ENTS
+  count: 14
+phonetic: "/ˈdʒɛnts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A gentleman.
+- pos: noun
+  defs:
+  - text: 'A men''s room: a lavatory intended for use by men.'
+- pos: adjective
+  defs:
+  - text: 'Men''s: intended for use by men.'
 ---
-

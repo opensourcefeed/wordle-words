@@ -1,7 +1,47 @@
 ---
 layout: word
-title: dumpy
+title: Is DUMPY a Wordle Word?
+head_title: Is DUMPY a Wordle Word? Yes – Possible Answer & Meaning
 word: dumpy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʌmpi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short, stout person or animal, especially one of a breed of very short-legged chickens.</li><li><strong>Definition 2:</strong> A small bottle of beer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Short and thick; stout or stocky</li></ul></div></div>"
+description: Yes, DUMPY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- dummy
+- jumpy
+- lumpy
+- bumpy
+- dampy
+- dumky
+- dumps
+- duppy
+- humpy
+- pumpy
+- rumpy
+- tumpy
+trap:
+  pattern: _UMPY
+  count: 8
+phonetic: "/ˈdʌmpi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short, stout person or animal, especially one of a breed of very short-legged
+      chickens.
+  - text: A small bottle of beer.
+- pos: adjective
+  defs:
+  - text: Short and thick; stout or stocky
 ---
-

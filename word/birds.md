@@ -1,7 +1,62 @@
 ---
 layout: word
-title: birds
+title: Is BIRDS a Wordle Word?
+head_title: Is BIRDS a Wordle Word? Yes – Valid Guess & Meaning
 word: birds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜːdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.<p><strong>Example:</strong> Ducks and sparrows are birds.</p></li><li><strong>Definition 2:</strong> A man, fellow.</li><li><strong>Definition 3:</strong> A girl or woman, especially one considered sexually attractive.</li><li><strong>Definition 4:</strong> Girlfriend.<p><strong>Example:</strong> Mike went out with his bird last night.</p></li><li><strong>Definition 5:</strong> An airplane.</li><li><strong>Definition 6:</strong> A satellite.</li><li><strong>Definition 7:</strong> A chicken; the young of a fowl; a young eaglet; a nestling.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prison sentence.<p><strong>Example:</strong> He’s doing bird.</p></li><li><strong>Definition 2:</strong> A yardbird</li></ul></div></div>"
+description: Yes, BIRDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- bards
+- binds
+- birdo
+- biris
+- birks
+- birls
+- biros
+- birrs
+- bords
+- burds
+- girds
+- jirds
+anagrams:
+- dribs
+trap:
+  pattern: BIR_S
+  count: 6
+phonetic: "/bɜːdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A member of the class of animals Aves in the phylum Chordata, characterized
+      by being warm-blooded, having feathers and wings usually capable of flight,
+      and laying eggs.
+    example: Ducks and sparrows are birds.
+  - text: A man, fellow.
+  - text: A girl or woman, especially one considered sexually attractive.
+  - text: Girlfriend.
+    example: Mike went out with his bird last night.
+  - text: An airplane.
+  - text: A satellite.
+  - text: A chicken; the young of a fowl; a young eaglet; a nestling.
+- pos: noun
+  defs:
+  - text: A prison sentence.
+    example: He’s doing bird.
+  - text: A yardbird
 ---
-

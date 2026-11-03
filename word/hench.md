@@ -1,7 +1,50 @@
 ---
 layout: word
-title: hench
+title: Is HENCH a Wordle Word?
+head_title: Is HENCH a Wordle Word? Yes – Valid Guess & Meaning
 word: hench
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɛntʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The narrow side of chimney stack, a haunch.</li><li><strong>Definition 2:</strong> The side of an arch from the topmost part (crown) to the bottommost part (impost).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be a henchman or henchwoman, usually for a supervillain.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Big, strong, and muscular.<p><strong>Example:</strong> He's well hench.</p></li></ul></div></div>"
+description: Yes, HENCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - H
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- bench
+- hence
+- hunch
+- wench
+- dench
+- hanch
+- heuch
+- kench
+- tench
+trap:
+  pattern: _ENCH
+  count: 6
+phonetic: "/hɛntʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The narrow side of chimney stack, a haunch.
+  - text: The side of an arch from the topmost part (crown) to the bottommost part
+      (impost).
+- pos: verb
+  defs:
+  - text: To be a henchman or henchwoman, usually for a supervillain.
+- pos: adjective
+  defs:
+  - text: Big, strong, and muscular.
+    example: He's well hench.
 ---
-

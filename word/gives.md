@@ -1,7 +1,78 @@
 ---
 layout: word
-title: gives
+title: Is GIVES a Wordle Word?
+head_title: Is GIVES a Wordle Word? Yes – Valid Guess & Meaning
 word: gives
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɪvz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.</li><li><strong>Definition 2:</strong> (ditransitive) To estimate or predict (a duration or probability) for (something).<p><strong>Example:</strong> I give it a 95% chance of success.</p></li><li><strong>Definition 3:</strong> To yield slightly when a force is applied.</li><li><strong>Definition 4:</strong> To collapse under pressure or force.<p><strong>Example:</strong> One pillar gave, then more, and suddenly the whole floor pancaked onto the floor below.</p></li><li><strong>Definition 5:</strong> To provide, as, a service or a broadcast.<p><strong>Example:</strong> They're giving my favorite show!</p></li><li><strong>Definition 6:</strong> To lead (onto or into).<p><strong>Example:</strong> The master bedroom gives onto a spacious balcony.</p></li><li><strong>Definition 7:</strong> To provide a view of.<p><strong>Example:</strong> His window gave the park.</p></li><li><strong>Definition 8:</strong> To exhibit as a product or result; to produce; to yield.<p><strong>Example:</strong> The number of men, divided by the number of ships, gives four hundred to each ship.</p></li><li><strong>Definition 9:</strong> To cause; to make; used with the infinitive.</li><li><strong>Definition 10:</strong> To cause (someone) to have; produce in (someone); effectuate.</li><li><strong>Definition 11:</strong> To allow or admit by way of supposition; to concede.<p><strong>Example:</strong> He can be bad-tempered, I'll give you that, but he's a hard worker.</p></li><li><strong>Definition 12:</strong> To attribute; to assign; to adjudge.</li><li><strong>Definition 13:</strong> To communicate or announce (advice, tidings, etc.); to pronounce or utter (an opinion, a judgment, a shout, etc.).<p><strong>Example:</strong> The umpire finally gave his decision: the ball was out.</p></li><li><strong>Definition 14:</strong> To grant power or permission to; to allow.</li><li><strong>Definition 15:</strong> To devote or apply (oneself).<p><strong>Example:</strong> That boy is given to fits of bad temper.</p></li><li><strong>Definition 16:</strong> To become soft or moist.</li><li><strong>Definition 17:</strong> To shed tears; to weep.</li><li><strong>Definition 18:</strong> To have a misgiving.</li><li><strong>Definition 19:</strong> To be going on, to be occurring<p><strong>Example:</strong> What gives?</p></li></ul></div></div>"
+description: Yes, GIVES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- given
+- giver
+- cives
+- dives
+- fives
+- gibes
+- gites
+- gived
+- goves
+- gyves
+- hives
+- jives
+trap:
+  pattern: _IVES
+  count: 10
+phonetic: "/ɡɪvz/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(ditransitive) To move, shift, provide something abstract or concrete to
+      someone or something or somewhere."
+  - text: "(ditransitive) To estimate or predict (a duration or probability) for (something)."
+    example: I give it a 95% chance of success.
+  - text: To yield slightly when a force is applied.
+  - text: To collapse under pressure or force.
+    example: One pillar gave, then more, and suddenly the whole floor pancaked onto
+      the floor below.
+  - text: To provide, as, a service or a broadcast.
+    example: They're giving my favorite show!
+  - text: To lead (onto or into).
+    example: The master bedroom gives onto a spacious balcony.
+  - text: To provide a view of.
+    example: His window gave the park.
+  - text: To exhibit as a product or result; to produce; to yield.
+    example: The number of men, divided by the number of ships, gives four hundred
+      to each ship.
+  - text: To cause; to make; used with the infinitive.
+  - text: To cause (someone) to have; produce in (someone); effectuate.
+  - text: To allow or admit by way of supposition; to concede.
+    example: He can be bad-tempered, I'll give you that, but he's a hard worker.
+  - text: To attribute; to assign; to adjudge.
+  - text: To communicate or announce (advice, tidings, etc.); to pronounce or utter
+      (an opinion, a judgment, a shout, etc.).
+    example: 'The umpire finally gave his decision: the ball was out.'
+  - text: To grant power or permission to; to allow.
+  - text: To devote or apply (oneself).
+    example: That boy is given to fits of bad temper.
+  - text: To become soft or moist.
+  - text: To shed tears; to weep.
+  - text: To have a misgiving.
+  - text: To be going on, to be occurring
+    example: What gives?
 ---
-

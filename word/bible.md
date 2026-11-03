@@ -1,7 +1,43 @@
 ---
 layout: word
-title: bible
+title: Is BIBLE a Wordle Word?
+head_title: Is BIBLE a Wordle Word? Yes – Possible Answer & Meaning
 word: bible
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbaɪbəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An exemplar of the Bible.</li><li><strong>Definition 2:</strong> A comprehensive manual that describes something. (e.g., handyman’s bible).</li><li><strong>Definition 3:</strong> (at certain US universities) A compilation of problems and solutions from previous years of a given course, used by some students to cheat on tests or assignments.</li><li><strong>Definition 4:</strong> Omasum, the third compartment of the stomach of ruminants</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece of soft sandstone used for scouring the wooden decks of ships, usually with sand and seawater.</li><li><strong>Definition 2:</strong> A stone with a naturally-formed hole, used by Yorkshiremen for good luck.</li></ul></div></div>"
+description: Yes, BIBLE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- birle
+phonetic: "/ˈbaɪbəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An exemplar of the Bible.
+  - text: A comprehensive manual that describes something. (e.g., handyman’s bible).
+  - text: "(at certain US universities) A compilation of problems and solutions from
+      previous years of a given course, used by some students to cheat on tests or
+      assignments."
+  - text: Omasum, the third compartment of the stomach of ruminants
+- pos: noun
+  defs:
+  - text: A piece of soft sandstone used for scouring the wooden decks of ships, usually
+      with sand and seawater.
+  - text: A stone with a naturally-formed hole, used by Yorkshiremen for good luck.
 ---
-

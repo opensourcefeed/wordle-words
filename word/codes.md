@@ -1,7 +1,84 @@
 ---
 layout: word
-title: codes
+title: Is CODES a Wordle Word?
+head_title: Is CODES a Wordle Word? Yes – Valid Guess & Meaning
 word: codes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kəʊdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short symbol, often with little relation to the item it represents.<p><strong>Example:</strong> This flavour of soup has been assigned the code WRT-9.</p></li><li><strong>Definition 2:</strong> A body of law, sanctioned by legislation, in which the rules of law to be specifically applied by the courts are set forth in systematic form; a compilation of laws by public authority; a digest.</li><li><strong>Definition 3:</strong> Any system of principles, rules or regulations relating to one subject.<p><strong>Example:</strong> The medical code is a system of rules for the regulation of the professional conduct of physicians.</p></li><li><strong>Definition 4:</strong> A set of rules for converting information into another form or representation.</li><li><strong>Definition 5:</strong> A message represented by rules intended to conceal its meaning.</li><li><strong>Definition 6:</strong> A cryptographic system using a codebook that converts words or phrases into codewords.</li><li><strong>Definition 7:</strong> Instructions for a computer, written in a programming language; the input of a translator, an interpreter or a browser, namely: source code, machine code, bytecode.<p><strong>Example:</strong> I wrote some code to reformat text documents.</p></li><li><strong>Definition 8:</strong> (scientific programming) A program.</li><li><strong>Definition 9:</strong> A particular lect or language variety.</li><li><strong>Definition 10:</strong> An emergency requiring situation-trained members of the staff.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To write software programs.<p><strong>Example:</strong> I learned to code on an early home computer in the 1980s.</p></li><li><strong>Definition 2:</strong> To add codes to a dataset.</li><li><strong>Definition 3:</strong> To categorise by assigning identifiers from a schedule, for example CPT coding for medical insurance purposes.</li><li><strong>Definition 4:</strong> To encode.<p><strong>Example:</strong> We should code the messages we send out on Usenet.</p></li><li><strong>Definition 5:</strong> To encode a protein.</li><li><strong>Definition 6:</strong> To call a hospital emergency code.<p><strong>Example:</strong> coding in the CT scanner</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Of a patient, to suffer a sudden medical emergency (a code blue) such as cardiac arrest.</li></ul></div></div>"
+description: Yes, CODES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- bodes
+- cades
+- cedes
+- cides
+- codas
+- codec
+- coded
+- coden
+- coder
+- codex
+- cokes
+- coles
+anagrams:
+- coeds
+- cosed
+- decos
+trap:
+  pattern: CO_ES
+  count: 12
+phonetic: "/kəʊdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short symbol, often with little relation to the item it represents.
+    example: This flavour of soup has been assigned the code WRT-9.
+  - text: A body of law, sanctioned by legislation, in which the rules of law to be
+      specifically applied by the courts are set forth in systematic form; a compilation
+      of laws by public authority; a digest.
+  - text: Any system of principles, rules or regulations relating to one subject.
+    example: The medical code is a system of rules for the regulation of the professional
+      conduct of physicians.
+  - text: A set of rules for converting information into another form or representation.
+  - text: A message represented by rules intended to conceal its meaning.
+  - text: A cryptographic system using a codebook that converts words or phrases into
+      codewords.
+  - text: 'Instructions for a computer, written in a programming language; the input
+      of a translator, an interpreter or a browser, namely: source code, machine code,
+      bytecode.'
+    example: I wrote some code to reformat text documents.
+  - text: "(scientific programming) A program."
+  - text: A particular lect or language variety.
+  - text: An emergency requiring situation-trained members of the staff.
+- pos: verb
+  defs:
+  - text: To write software programs.
+    example: I learned to code on an early home computer in the 1980s.
+  - text: To add codes to a dataset.
+  - text: To categorise by assigning identifiers from a schedule, for example CPT
+      coding for medical insurance purposes.
+  - text: To encode.
+    example: We should code the messages we send out on Usenet.
+  - text: To encode a protein.
+  - text: To call a hospital emergency code.
+    example: coding in the CT scanner
+- pos: verb
+  defs:
+  - text: Of a patient, to suffer a sudden medical emergency (a code blue) such as
+      cardiac arrest.
 ---
-

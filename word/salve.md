@@ -1,7 +1,50 @@
 ---
 layout: word
-title: salve
+title: Is SALVE a Wordle Word?
+head_title: Is SALVE a Wordle Word? Yes – Possible Answer & Meaning
 word: salve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sælv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ointment, cream, or balm with soothing, healing, or calming effects.</li><li><strong>Definition 2:</strong> Any remedy or action that soothes or heals.</li></ul></div></div>"
+description: Yes, SALVE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- halve
+- salvo
+- solve
+- valve
+- calve
+- salle
+- salse
+- salue
+- sauve
+anagrams:
+- slave
+- avels
+- laves
+- levas
+- selva
+- vales
+- valse
+- veals
+phonetic: "/sælv/"
+definitions:
+- pos: noun
+  defs:
+  - text: An ointment, cream, or balm with soothing, healing, or calming effects.
+  - text: Any remedy or action that soothes or heals.
 ---
-

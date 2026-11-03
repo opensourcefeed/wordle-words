@@ -1,7 +1,130 @@
 ---
 layout: word
-title: sharp
+title: Is SHARP a Wordle Word?
+head_title: 'Is SHARP a Wordle Word? Yes – Past Answer #902 & Meaning'
 word: sharp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɑːp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.<p><strong>Example:</strong> The pitch pipe sounded out a perfect F♯ (F sharp).</p></li><li><strong>Definition 2:</strong> A note that is played a semitone higher than usual; denoted by the name of the note that is followed by the symbol ♯.</li><li><strong>Definition 3:</strong> A note that is sharp in a particular key.<p><strong>Example:</strong> The piece was difficult to read after it had been transposed, since in the new key many notes were sharps.</p></li><li><strong>Definition 4:</strong> The scale having a particular sharp note as its tonic.<p><strong>Example:</strong> Beethoven's \"Moonlight Sonata\" is written in C♯ minor (C sharp minor.)</p></li><li><strong>Definition 5:</strong> (usually in the plural) Something that is sharp.<p><strong>Example:</strong> Place sharps in the specially marked red container for safe disposal.</p></li><li><strong>Definition 6:</strong> A dishonest person; a cheater.<p><strong>Example:</strong> The casino kept in the break room a set of pictures of known sharps for the bouncers to see.</p></li><li><strong>Definition 7:</strong> Part of a stream where the water runs very rapidly.</li><li><strong>Definition 8:</strong> A sewing needle with a very slender point, more pointed than a blunt or a between.</li><li><strong>Definition 9:</strong> (in the plural) Fine particles of husk mixed with coarse particle of flour of cereals; middlings.</li><li><strong>Definition 10:</strong> An expert.</li><li><strong>Definition 11:</strong> A sharpie (member of Australian gangs of the 1960s and 1970s).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To raise the pitch of a note half a step making a natural note a sharp.<p><strong>Example:</strong> That new musician must be tone deaf: he sharped half the notes of the song!</p></li><li><strong>Definition 2:</strong> To play tricks in bargaining; to act the sharper.</li><li><strong>Definition 3:</strong> To sharpen.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Terminating in a point or edge, especially one that can cut easily; not obtuse or rounded.<p><strong>Example:</strong> A face with sharp features</p></li><li><strong>Definition 2:</strong> Intelligent.<p><strong>Example:</strong> My nephew is a sharp lad; he can count to 100 in six languages, and he's only five years old.</p></li><li><strong>Definition 3:</strong> Higher than usual by one semitone (denoted by the symbol ♯ after the name of the note).</li><li><strong>Definition 4:</strong> Higher in pitch than required.<p><strong>Example:</strong> The orchestra's third violin several times was sharp about an eighth of a tone.</p></li><li><strong>Definition 5:</strong> Having an intense, acrid flavour.<p><strong>Example:</strong> Milly couldn't stand sharp cheeses when she was pregnant, because they made her nauseated.</p></li><li><strong>Definition 6:</strong> Sudden and intense.<p><strong>Example:</strong> A pregnant woman during labor normally experiences a number of sharp contractions.</p></li><li><strong>Definition 7:</strong> Illegal or dishonest.<p><strong>Example:</strong> Michael had a number of sharp ventures that he kept off the books.</p></li><li><strong>Definition 8:</strong> Keenly or unduly attentive to one's own interests; shrewd.<p><strong>Example:</strong> a sharp dealer;  a sharp customer</p></li><li><strong>Definition 9:</strong> Exact, precise, accurate; keen.<p><strong>Example:</strong> You'll need sharp aim to make that shot.</p></li><li><strong>Definition 10:</strong> Offensive, critical, or acrimonious.<p><strong>Example:</strong> When the two rivals met, first there were sharp words, and then a fight broke out.</p></li><li><strong>Definition 11:</strong> Stylish or attractive.<p><strong>Example:</strong> You look so sharp in that tuxedo!</p></li><li><strong>Definition 12:</strong> Observant; alert; acute.<p><strong>Example:</strong> Keep a sharp watch on the prisoners. I don't want them to escape!</p></li><li><strong>Definition 13:</strong> Forming a small angle; especially, forming an angle of less than ninety degrees.<p><strong>Example:</strong> Drive down Main for three quarters of a mile, then make a sharp right turn onto Pine.</p></li><li><strong>Definition 14:</strong> Steep; precipitous; abrupt.<p><strong>Example:</strong> a sharp ascent or descent; a sharp turn or curve</p></li><li><strong>Definition 15:</strong> (of a statement) Said of as extreme a value as possible.<p><strong>Example:</strong> Sure, any planar graph can be five-colored. But that result is not sharp: in fact, any planar graph can be four-colored. That is sharp: the same can't be said for any lower number.</p></li><li><strong>Definition 16:</strong> Tactical; risky.</li><li><strong>Definition 17:</strong> Piercing; keen; severe; painful.<p><strong>Example:</strong> a sharp pain; the sharp and frosty winter air</p></li><li><strong>Definition 18:</strong> Eager or keen in pursuit; impatient for gratification.<p><strong>Example:</strong> a sharp appetite</p></li><li><strong>Definition 19:</strong> Fierce; ardent; fiery; violent; impetuous.</li><li><strong>Definition 20:</strong> Composed of hard, angular grains; gritty.</li><li><strong>Definition 21:</strong> Uttered in a whisper, or with the breath alone; aspirated; unvoiced.</li><li><strong>Definition 22:</strong> Hungry.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> To a point or edge; piercingly; eagerly; sharply.</li><li><strong>Definition 2:</strong> (notcomp) Exactly.<p><strong>Example:</strong> I'll see you at twelve o'clock sharp.</p></li><li><strong>Definition 3:</strong> In a higher pitch than is correct or desirable.<p><strong>Example:</strong> I didn't enjoy the concert much because the tenor kept going sharp on the high notes.</p></li></ul></div></div>"
+description: Yes, SHARP is a valid Wordle word. It was the Wordle answer on December
+  8, 2023 (#902). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 8, 2023 (#902).
+past_answers:
+- date: '2023-12-08'
+  number: 902
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- shard
+- share
+- shark
+- scarp
+- sharn
+- shart
+anagrams:
+- harps
+trap:
+  pattern: SHAR_
+  count: 6
+phonetic: "/ʃɑːp/"
+definitions:
+- pos: noun
+  defs:
+  - text: The symbol ♯, placed after the name of a note in the key signature or before
+      a note on the staff to indicate that the note is to be played a semitone higher.
+    example: The pitch pipe sounded out a perfect F♯ (F sharp).
+  - text: A note that is played a semitone higher than usual; denoted by the name
+      of the note that is followed by the symbol ♯.
+  - text: A note that is sharp in a particular key.
+    example: The piece was difficult to read after it had been transposed, since in
+      the new key many notes were sharps.
+  - text: The scale having a particular sharp note as its tonic.
+    example: Beethoven's "Moonlight Sonata" is written in C♯ minor (C sharp minor.)
+  - text: "(usually in the plural) Something that is sharp."
+    example: Place sharps in the specially marked red container for safe disposal.
+  - text: A dishonest person; a cheater.
+    example: The casino kept in the break room a set of pictures of known sharps for
+      the bouncers to see.
+  - text: Part of a stream where the water runs very rapidly.
+  - text: A sewing needle with a very slender point, more pointed than a blunt or
+      a between.
+  - text: "(in the plural) Fine particles of husk mixed with coarse particle of flour
+      of cereals; middlings."
+  - text: An expert.
+  - text: A sharpie (member of Australian gangs of the 1960s and 1970s).
+- pos: verb
+  defs:
+  - text: To raise the pitch of a note half a step making a natural note a sharp.
+    example: 'That new musician must be tone deaf: he sharped half the notes of the
+      song!'
+  - text: To play tricks in bargaining; to act the sharper.
+  - text: To sharpen.
+- pos: adjective
+  defs:
+  - text: Terminating in a point or edge, especially one that can cut easily; not
+      obtuse or rounded.
+    example: A face with sharp features
+  - text: Intelligent.
+    example: My nephew is a sharp lad; he can count to 100 in six languages, and he's
+      only five years old.
+  - text: Higher than usual by one semitone (denoted by the symbol ♯ after the name
+      of the note).
+  - text: Higher in pitch than required.
+    example: The orchestra's third violin several times was sharp about an eighth
+      of a tone.
+  - text: Having an intense, acrid flavour.
+    example: Milly couldn't stand sharp cheeses when she was pregnant, because they
+      made her nauseated.
+  - text: Sudden and intense.
+    example: A pregnant woman during labor normally experiences a number of sharp
+      contractions.
+  - text: Illegal or dishonest.
+    example: Michael had a number of sharp ventures that he kept off the books.
+  - text: Keenly or unduly attentive to one's own interests; shrewd.
+    example: a sharp dealer;  a sharp customer
+  - text: Exact, precise, accurate; keen.
+    example: You'll need sharp aim to make that shot.
+  - text: Offensive, critical, or acrimonious.
+    example: When the two rivals met, first there were sharp words, and then a fight
+      broke out.
+  - text: Stylish or attractive.
+    example: You look so sharp in that tuxedo!
+  - text: Observant; alert; acute.
+    example: Keep a sharp watch on the prisoners. I don't want them to escape!
+  - text: Forming a small angle; especially, forming an angle of less than ninety
+      degrees.
+    example: Drive down Main for three quarters of a mile, then make a sharp right
+      turn onto Pine.
+  - text: Steep; precipitous; abrupt.
+    example: a sharp ascent or descent; a sharp turn or curve
+  - text: "(of a statement) Said of as extreme a value as possible."
+    example: 'Sure, any planar graph can be five-colored. But that result is not sharp:
+      in fact, any planar graph can be four-colored. That is sharp: the same can''t
+      be said for any lower number.'
+  - text: Tactical; risky.
+  - text: Piercing; keen; severe; painful.
+    example: a sharp pain; the sharp and frosty winter air
+  - text: Eager or keen in pursuit; impatient for gratification.
+    example: a sharp appetite
+  - text: Fierce; ardent; fiery; violent; impetuous.
+  - text: Composed of hard, angular grains; gritty.
+  - text: Uttered in a whisper, or with the breath alone; aspirated; unvoiced.
+  - text: Hungry.
+- pos: adverb
+  defs:
+  - text: To a point or edge; piercingly; eagerly; sharply.
+  - text: "(notcomp) Exactly."
+    example: I'll see you at twelve o'clock sharp.
+  - text: In a higher pitch than is correct or desirable.
+    example: I didn't enjoy the concert much because the tenor kept going sharp on
+      the high notes.
 ---
-

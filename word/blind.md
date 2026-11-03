@@ -1,7 +1,99 @@
 ---
 layout: word
-title: blind
+title: Is BLIND a Wordle Word?
+head_title: 'Is BLIND a Wordle Word? Yes – Past Answer #1906 & Meaning'
 word: blind
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blaɪnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A covering for a window to keep out light. The covering may be made of cloth or of narrow slats that can block light or allow it to pass.</li><li><strong>Definition 2:</strong> A destination sign mounted on a public transport vehicle displaying the route destination, number, name and/or via points, etc.</li><li><strong>Definition 3:</strong> Any device intended to conceal or hide.<p><strong>Example:</strong> a duck blind</p></li><li><strong>Definition 4:</strong> Something to mislead the eye or the understanding, or to conceal some covert deed or design; a subterfuge.</li><li><strong>Definition 5:</strong> A blindage.</li><li><strong>Definition 6:</strong> A halting place.</li><li><strong>Definition 7:</strong> The blindside.</li><li><strong>Definition 8:</strong> (1800s) No score.</li><li><strong>Definition 9:</strong> A forced bet: the small blind or the big blind.<p><strong>Example:</strong> The blinds are $10/$20 and the ante is $1.</p></li><li><strong>Definition 10:</strong> A player who is forced to pay such a bet.<p><strong>Example:</strong> The blinds immediately folded when I reraised.</p></li><li><strong>Definition 11:</strong> (as a plural) Those who are blind, taken as a group.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make temporarily or permanently blind.<p><strong>Example:</strong> Don't wave that pencil in my face - do you want to blind me?</p></li><li><strong>Definition 2:</strong> To curse.</li><li><strong>Definition 3:</strong> To darken; to obscure to the eye or understanding; to conceal.</li><li><strong>Definition 4:</strong> To cover with a thin coating of sand and fine gravel, for example a road newly paved, in order that the joints between the stones may be filled.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of a person or animal) Unable to see, due to physiological or neurological factors.</li><li><strong>Definition 2:</strong> (of an eye) Unable to be used to see, due to physiological or neurological factors.</li><li><strong>Definition 3:</strong> Failing to see, acknowledge, perceive.<p><strong>Example:</strong> Authors are blind to their own defects.</p></li><li><strong>Definition 4:</strong> Of a place, having little or no visibility.<p><strong>Example:</strong> a blind corner</p></li><li><strong>Definition 5:</strong> Closed at one end; having a dead end<p><strong>Example:</strong> a blind gut</p></li><li><strong>Definition 6:</strong> Having no openings for light or passage.<p><strong>Example:</strong> a blind alley</p></li><li><strong>Definition 7:</strong> (in certain phrases) Smallest or slightest.<p><strong>Example:</strong> I shouted, but he didn't take a blind bit of notice.</p></li><li><strong>Definition 8:</strong> Without any prior knowledge.<p><strong>Example:</strong> He took a blind guess at which fork in the road would take him to the airport.</p></li><li><strong>Definition 9:</strong> Unconditional; without regard to evidence, logic, reality, accidental mistakes, extenuating circumstances, etc.<p><strong>Example:</strong> blind deference</p></li><li><strong>Definition 10:</strong> Unintelligible or illegible.<p><strong>Example:</strong> a blind passage in a book; blind writing</p></li><li><strong>Definition 11:</strong> Abortive; failing to produce flowers or fruit.<p><strong>Example:</strong> blind buds</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Without seeing; unseeingly.</li><li><strong>Definition 2:</strong> Absolutely, totally.<p><strong>Example:</strong> to swear blind</p></li><li><strong>Definition 3:</strong> (three card brag) Without looking at the cards dealt.</li></ul></div></div>"
+description: Yes, BLIND is a valid Wordle word. It was the Wordle answer on September
+  7, 2026 (#1906). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 7, 2026 (#1906).
+past_answers:
+- date: '2026-09-07'
+  number: 1906
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- bland
+- blend
+- blink
+- blond
+- bling
+- blini
+- blins
+- bliny
+trap:
+  pattern: BLIN_
+  count: 6
+phonetic: "/blaɪnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A covering for a window to keep out light. The covering may be made of cloth
+      or of narrow slats that can block light or allow it to pass.
+  - text: A destination sign mounted on a public transport vehicle displaying the
+      route destination, number, name and/or via points, etc.
+  - text: Any device intended to conceal or hide.
+    example: a duck blind
+  - text: Something to mislead the eye or the understanding, or to conceal some covert
+      deed or design; a subterfuge.
+  - text: A blindage.
+  - text: A halting place.
+  - text: The blindside.
+  - text: "(1800s) No score."
+  - text: 'A forced bet: the small blind or the big blind.'
+    example: The blinds are $10/$20 and the ante is $1.
+  - text: A player who is forced to pay such a bet.
+    example: The blinds immediately folded when I reraised.
+  - text: "(as a plural) Those who are blind, taken as a group."
+- pos: verb
+  defs:
+  - text: To make temporarily or permanently blind.
+    example: Don't wave that pencil in my face - do you want to blind me?
+  - text: To curse.
+  - text: To darken; to obscure to the eye or understanding; to conceal.
+  - text: To cover with a thin coating of sand and fine gravel, for example a road
+      newly paved, in order that the joints between the stones may be filled.
+- pos: adjective
+  defs:
+  - text: "(of a person or animal) Unable to see, due to physiological or neurological
+      factors."
+  - text: "(of an eye) Unable to be used to see, due to physiological or neurological
+      factors."
+  - text: Failing to see, acknowledge, perceive.
+    example: Authors are blind to their own defects.
+  - text: Of a place, having little or no visibility.
+    example: a blind corner
+  - text: Closed at one end; having a dead end
+    example: a blind gut
+  - text: Having no openings for light or passage.
+    example: a blind alley
+  - text: "(in certain phrases) Smallest or slightest."
+    example: I shouted, but he didn't take a blind bit of notice.
+  - text: Without any prior knowledge.
+    example: He took a blind guess at which fork in the road would take him to the
+      airport.
+  - text: Unconditional; without regard to evidence, logic, reality, accidental mistakes,
+      extenuating circumstances, etc.
+    example: blind deference
+  - text: Unintelligible or illegible.
+    example: a blind passage in a book; blind writing
+  - text: Abortive; failing to produce flowers or fruit.
+    example: blind buds
+- pos: adverb
+  defs:
+  - text: Without seeing; unseeingly.
+  - text: Absolutely, totally.
+    example: to swear blind
+  - text: "(three card brag) Without looking at the cards dealt."
 ---
-

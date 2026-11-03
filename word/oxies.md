@@ -1,7 +1,52 @@
 ---
 layout: word
-title: oxies
+title: Is OXIES a Wordle Word?
+head_title: Is OXIES a Wordle Word? Yes – Valid Guess & Meaning
 word: oxies
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mixture of oxygen and acetylene; burns at a high temperature and is used for cutting and welding metals.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A synthetic analgesic drug (trademark OxyContin) that is similar to morphine in its effects.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The chemical element (symbol O) with an atomic number of 8 and relative atomic mass of 15.9994. It is a colorless and odorless gas.</li><li><strong>Definition 2:</strong> Molecular oxygen (O2), a colorless, odorless gas at room temperature, also called dioxygen.</li><li><strong>Definition 3:</strong> A mixture of oxygen and other gases, administered to a patient to help them breathe.</li><li><strong>Definition 4:</strong> An atom of this element.</li></ul></div></div>"
+description: Yes, OXIES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - E
+  rare:
+  - X
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- exies
+- okies
+- owies
+- oxids
+- oxims
+definitions:
+- pos: noun
+  defs:
+  - text: A mixture of oxygen and acetylene; burns at a high temperature and is used
+      for cutting and welding metals.
+- pos: noun
+  defs:
+  - text: A synthetic analgesic drug (trademark OxyContin) that is similar to morphine
+      in its effects.
+- pos: noun
+  defs:
+  - text: The chemical element (symbol O) with an atomic number of 8 and relative
+      atomic mass of 15.9994. It is a colorless and odorless gas.
+  - text: Molecular oxygen (O2), a colorless, odorless gas at room temperature, also
+      called dioxygen.
+  - text: A mixture of oxygen and other gases, administered to a patient to help them
+      breathe.
+  - text: An atom of this element.
 ---
-

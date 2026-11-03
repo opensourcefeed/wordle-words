@@ -1,7 +1,46 @@
 ---
 layout: word
-title: storm
+title: Is STORM a Wordle Word?
+head_title: 'Is STORM a Wordle Word? Yes – Past Answer #1155 & Meaning'
 word: storm
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɔːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any disturbed state of the atmosphere, especially as affecting the earth's surface, and strongly implying destructive or unpleasant weather.</li><li><strong>Definition 2:</strong> A violent agitation of human society; a civil, political, or domestic commotion; violent outbreak.<p><strong>Example:</strong> The proposed reforms have led to a political storm.</p></li><li><strong>Definition 3:</strong> A wind scale for very strong wind, stronger than a gale, less than a hurricane (10 or higher on the Beaufort scale).</li><li><strong>Definition 4:</strong> A violent assault on a stronghold or fortified position.</li></ul></div></div>"
+description: Yes, STORM is a valid Wordle word. It was the Wordle answer on August
+  17, 2024 (#1155). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 17, 2024 (#1155).
+past_answers:
+- date: '2024-08-17'
+  number: 1155
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- store
+- stork
+- story
+- slorm
+anagrams:
+- morts
+phonetic: "/stɔːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any disturbed state of the atmosphere, especially as affecting the earth's
+      surface, and strongly implying destructive or unpleasant weather.
+  - text: A violent agitation of human society; a civil, political, or domestic commotion;
+      violent outbreak.
+    example: The proposed reforms have led to a political storm.
+  - text: A wind scale for very strong wind, stronger than a gale, less than a hurricane
+      (10 or higher on the Beaufort scale).
+  - text: A violent assault on a stronghold or fortified position.
 ---
-

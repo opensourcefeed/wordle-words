@@ -1,7 +1,47 @@
 ---
 layout: word
-title: meaty
+title: Is MEATY a Wordle Word?
+head_title: Is MEATY a Wordle Word? Yes – Possible Answer & Meaning
 word: meaty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmiːti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, relating to, or containing meat.</li><li><strong>Definition 2:</strong> Resembling meat in flavour, etc.<p><strong>Example:</strong> This tastes rather meaty. Are you sure it's vegetarian?</p></li><li><strong>Definition 3:</strong> Of a person or a body part, large and solid.</li><li><strong>Definition 4:</strong> Substantial.<p><strong>Example:</strong> I got a nice, meaty bonus.</p></li></ul></div></div>"
+description: Yes, MEATY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- mealy
+- beaty
+- heaty
+- meany
+- meath
+- meats
+- melty
+- peaty
+anagrams:
+- matey
+- etyma
+phonetic: "/ˈmiːti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of, relating to, or containing meat.
+  - text: Resembling meat in flavour, etc.
+    example: This tastes rather meaty. Are you sure it's vegetarian?
+  - text: Of a person or a body part, large and solid.
+  - text: Substantial.
+    example: I got a nice, meaty bonus.
 ---
-

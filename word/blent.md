@@ -1,7 +1,42 @@
 ---
 layout: word
-title: blent
+title: Is BLENT a Wordle Word?
+head_title: Is BLENT a Wordle Word? Yes – Valid Guess & Meaning
 word: blent
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To mingle; to mix; to unite intimately; to pass or shade insensibly into each other.<p><strong>Example:</strong> To make hummus you need to blend chickpeas, olive oil, lemon juice and garlic.</p></li><li><strong>Definition 2:</strong> To be mingled or mixed.</li><li><strong>Definition 3:</strong> To pollute by mixture or association; to spoil or corrupt; to blot; to stain.</li></ul></div></div>"
+description: Yes, BLENT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- bleat
+- blend
+- blunt
+- blert
+- blest
+- brent
+- glent
+- olent
+definitions:
+- pos: verb
+  defs:
+  - text: To mingle; to mix; to unite intimately; to pass or shade insensibly into
+      each other.
+    example: To make hummus you need to blend chickpeas, olive oil, lemon juice and
+      garlic.
+  - text: To be mingled or mixed.
+  - text: To pollute by mixture or association; to spoil or corrupt; to blot; to stain.
 ---
-

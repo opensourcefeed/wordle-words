@@ -1,7 +1,35 @@
 ---
 layout: word
-title: boffo
+title: Is BOFFO a Wordle Word?
+head_title: Is BOFFO a Wordle Word? Yes – Valid Guess & Meaning
 word: boffo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (chiefly in the world of entertainment) A great success; a hit.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Outstanding; very good or successful.</li></ul></div></div>"
+description: Yes, BOFFO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - O
+  - F
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- biffo
+- boffs
+- buffo
+definitions:
+- pos: noun
+  defs:
+  - text: "(chiefly in the world of entertainment) A great success; a hit."
+- pos: adjective
+  defs:
+  - text: Outstanding; very good or successful.
 ---
-

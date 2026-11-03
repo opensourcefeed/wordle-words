@@ -1,7 +1,65 @@
 ---
 layout: word
-title: pates
+title: Is PATES a Wordle Word?
+head_title: Is PATES a Wordle Word? Yes – Valid Guess & Meaning
 word: pates
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (somewhat obsolete) The head, particularly the top or crown.<p><strong>Example:</strong> He had a shiny, bald pate.</p></li><li><strong>Definition 2:</strong> Wit, cleverness, cognitive abilities.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The interior body, or non-rind portion of cheese, described by its texture, density, and color.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A finely-ground paste of meat, fish or vegetables, sometimes with the addition of alcohol.</li></ul></div></div>"
+description: Yes, PATES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- bates
+- cates
+- dates
+- fates
+- gates
+- hates
+- mates
+- nates
+- paces
+- pages
+- pales
+- panes
+anagrams:
+- paste
+- peats
+- pesta
+- septa
+- spate
+- speat
+- tapes
+- tepas
+trap:
+  pattern: _ATES
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: "(somewhat obsolete) The head, particularly the top or crown."
+    example: He had a shiny, bald pate.
+  - text: Wit, cleverness, cognitive abilities.
+- pos: noun
+  defs:
+  - text: The interior body, or non-rind portion of cheese, described by its texture,
+      density, and color.
+- pos: noun
+  defs:
+  - text: A finely-ground paste of meat, fish or vegetables, sometimes with the addition
+      of alcohol.
 ---
-

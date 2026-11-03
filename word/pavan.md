@@ -1,7 +1,38 @@
 ---
 layout: word
-title: pavan
+title: Is PAVAN a Wordle Word?
+head_title: Is PAVAN a Wordle Word? Yes – Valid Guess & Meaning
 word: pavan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A native or inhabitant of Padua.</li><li><strong>Definition 2:</strong> An imitation coin resembling old Roman bronze coins, made at Padua in the 16th century.</li><li><strong>Definition 3:</strong> A stately Spanish dance.</li></ul></div></div>"
+description: Yes, PAVAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- pagan
+- havan
+- paean
+- pavas
+- paven
+- pavin
+- pavon
+definitions:
+- pos: noun
+  defs:
+  - text: A native or inhabitant of Padua.
+  - text: An imitation coin resembling old Roman bronze coins, made at Padua in the
+      16th century.
+  - text: A stately Spanish dance.
 ---
-

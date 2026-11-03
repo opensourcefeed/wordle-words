@@ -1,7 +1,45 @@
 ---
 layout: word
-title: ponds
+title: Is PONDS a Wordle Word?
+head_title: Is PONDS a Wordle Word? Yes – Valid Guess & Meaning
 word: ponds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An inland body of standing water, either natural or man-made, that is smaller than a lake.</li><li><strong>Definition 2:</strong> An inland body of standing water of any size that is fed by springs rather than by a river.</li><li><strong>Definition 3:</strong> The Atlantic Ocean. Especially in across the pond.<p><strong>Example:</strong> I haven't been back home across the pond in twenty years.</p></li></ul></div></div>"
+description: Yes, PONDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- bonds
+- fonds
+- honds
+- pands
+- pends
+- pinds
+- pondy
+- pones
+- pongs
+- ponks
+- ponts
+- poods
+definitions:
+- pos: noun
+  defs:
+  - text: An inland body of standing water, either natural or man-made, that is smaller
+      than a lake.
+  - text: An inland body of standing water of any size that is fed by springs rather
+      than by a river.
+  - text: The Atlantic Ocean. Especially in across the pond.
+    example: I haven't been back home across the pond in twenty years.
 ---
-

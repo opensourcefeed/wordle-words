@@ -1,7 +1,53 @@
 ---
 layout: word
-title: lards
+title: Is LARDS a Wordle Word?
+head_title: Is LARDS a Wordle Word? Yes – Valid Guess & Meaning
 word: lards
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stuff (meat) with bacon or pork before cooking.</li><li><strong>Definition 2:</strong> To smear with fat or lard.</li><li><strong>Definition 3:</strong> To garnish or strew, especially with reference to words or phrases in speech and writing.</li><li><strong>Definition 4:</strong> To fatten; to enrich.</li><li><strong>Definition 5:</strong> To grow fat.</li><li><strong>Definition 6:</strong> To mix or garnish with something, as by way of improvement; to interlard.</li></ul></div></div>"
+description: Yes, LARDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- bards
+- cards
+- eards
+- fards
+- hards
+- laids
+- lands
+- lardy
+- lares
+- larfs
+- laris
+- larks
+anagrams:
+- darls
+trap:
+  pattern: _ARDS
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: To stuff (meat) with bacon or pork before cooking.
+  - text: To smear with fat or lard.
+  - text: To garnish or strew, especially with reference to words or phrases in speech
+      and writing.
+  - text: To fatten; to enrich.
+  - text: To grow fat.
+  - text: To mix or garnish with something, as by way of improvement; to interlard.
 ---
-

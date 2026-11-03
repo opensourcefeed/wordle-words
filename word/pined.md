@@ -1,7 +1,52 @@
 ---
 layout: word
-title: pined
+title: Is PINED a Wordle Word?
+head_title: Is PINED a Wordle Word? Yes – Valid Guess & Meaning
 word: pined
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /paɪnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To languish; to lose flesh or wear away through distress.</li><li><strong>Definition 2:</strong> To long, to yearn so much that it causes suffering.<p><strong>Example:</strong> Laura was pining for Bill all the time he was gone.</p></li><li><strong>Definition 3:</strong> To grieve or mourn for.</li><li><strong>Definition 4:</strong> To inflict pain upon; to torment.</li></ul></div></div>"
+description: Yes, PINED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- piney
+- dined
+- fined
+- lined
+- mined
+- paned
+- pened
+- piked
+- piled
+- piner
+- pines
+- piped
+anagrams:
+- piend
+trap:
+  pattern: _INED
+  count: 9
+phonetic: "/paɪnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To languish; to lose flesh or wear away through distress.
+  - text: To long, to yearn so much that it causes suffering.
+    example: Laura was pining for Bill all the time he was gone.
+  - text: To grieve or mourn for.
+  - text: To inflict pain upon; to torment.
 ---
-

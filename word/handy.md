@@ -1,7 +1,54 @@
 ---
 layout: word
-title: handy
+title: Is HANDY a Wordle Word?
+head_title: 'Is HANDY a Wordle Word? Yes – Past Answer #1193 & Meaning'
 word: handy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhæn.di/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Easy to use, useful.<p><strong>Example:</strong> Some people regard duct tape as a handy fix-all.</p></li><li><strong>Definition 2:</strong> Nearby, within reach.<p><strong>Example:</strong> I keep a first-aid kit handy in case of emergency.</p></li><li><strong>Definition 3:</strong> Of a person: dexterous, skilful.<p><strong>Example:</strong> She's very handy: she made all her own kitchen cupboards.</p></li><li><strong>Definition 4:</strong> Physically violent; tending to use one's fists.</li><li><strong>Definition 5:</strong> Of a freight ship: having a small cargo capacity (less than 40,000 DWT); belonging to the handysize class.</li></ul></div></div>"
+description: Yes, HANDY is a valid Wordle word. It was the Wordle answer on September
+  24, 2024 (#1193). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 24, 2024 (#1193).
+past_answers:
+- date: '2024-09-24'
+  number: 1193
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- candy
+- dandy
+- hardy
+- randy
+- sandy
+- bandy
+- gandy
+- handi
+- hands
+- hanky
+- kandy
+- mandy
+trap:
+  pattern: _ANDY
+  count: 11
+phonetic: "/ˈhæn.di/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Easy to use, useful.
+    example: Some people regard duct tape as a handy fix-all.
+  - text: Nearby, within reach.
+    example: I keep a first-aid kit handy in case of emergency.
+  - text: 'Of a person: dexterous, skilful.'
+    example: 'She''s very handy: she made all her own kitchen cupboards.'
+  - text: Physically violent; tending to use one's fists.
+  - text: 'Of a freight ship: having a small cargo capacity (less than 40,000 DWT);
+      belonging to the handysize class.'
 ---
-

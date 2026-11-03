@@ -1,7 +1,88 @@
 ---
 layout: word
-title: words
+title: Is WORDS a Wordle Word?
+head_title: Is WORDS a Wordle Word? Yes – Valid Guess & Meaning
 word: words
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɜːdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)</li><li><strong>Definition 2:</strong> Something like such a unit of language:</li><li><strong>Definition 3:</strong> The fact or act of speaking, as opposed to taking action. .</li><li><strong>Definition 4:</strong> Something that someone said; a comment, utterance; speech.</li><li><strong>Definition 5:</strong> A watchword or rallying cry, a verbal signal (even when consisting of multiple words).<p><strong>Example:</strong> mum's the word</p></li><li><strong>Definition 6:</strong> A proverb or motto.</li><li><strong>Definition 7:</strong> News; tidings (used without an article).<p><strong>Example:</strong> Have you had any word from John yet?</p></li><li><strong>Definition 8:</strong> An order; a request or instruction; an expression of will.<p><strong>Example:</strong> Don't fire till I give the word</p></li><li><strong>Definition 9:</strong> A promise; an oath or guarantee.<p><strong>Example:</strong> I give you my word that I will be there on time.</p></li><li><strong>Definition 10:</strong> A brief discussion or conversation.<p><strong>Example:</strong> Can I have a word with you?</p></li><li><strong>Definition 11:</strong> (in the plural) See words.<p><strong>Example:</strong> There had been words between him and the secretary about the outcome of the meeting.</p></li><li><strong>Definition 12:</strong> (sometimes Word) Communication from God; the message of the Christian gospel; the Bible, Scripture.<p><strong>Example:</strong> Her parents had lived in Botswana, spreading the word among the tribespeople.</p></li><li><strong>Definition 13:</strong> (sometimes Word) Logos, Christ.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To say or write (something) using particular words; to phrase (something).<p><strong>Example:</strong> I’m not sure how to word this letter to the council.</p></li><li><strong>Definition 2:</strong> To flatter with words, to cajole.</li><li><strong>Definition 3:</strong> To ply or overpower with words.</li><li><strong>Definition 4:</strong> To conjure with a word.</li><li><strong>Definition 5:</strong> To speak, to use words; to converse, to discourse.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Angry debate or conversation; argument.<p><strong>Example:</strong> After she found out the truth, she had words with him, to tell him how she felt.</p></li><li><strong>Definition 2:</strong> Lines in a script for a performance.<p><strong>Example:</strong> You better get your words memorised before rehearsal next Saturday.</p></li><li><strong>Definition 3:</strong> Lyrics.<p><strong>Example:</strong> The composer set the words to music.</p></li></ul></div></div>"
+description: Yes, WORDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- wordy
+- bords
+- cords
+- fords
+- lords
+- sords
+- wards
+- woads
+- wolds
+- woods
+- works
+- worms
+anagrams:
+- sword
+- drows
+trap:
+  pattern: _ORDS
+  count: 6
+phonetic: "/wɜːdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The smallest unit of language that has a particular meaning and can be expressed
+      by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)
+  - text: 'Something like such a unit of language:'
+  - text: The fact or act of speaking, as opposed to taking action. .
+  - text: Something that someone said; a comment, utterance; speech.
+  - text: A watchword or rallying cry, a verbal signal (even when consisting of multiple
+      words).
+    example: mum's the word
+  - text: A proverb or motto.
+  - text: News; tidings (used without an article).
+    example: Have you had any word from John yet?
+  - text: An order; a request or instruction; an expression of will.
+    example: Don't fire till I give the word
+  - text: A promise; an oath or guarantee.
+    example: I give you my word that I will be there on time.
+  - text: A brief discussion or conversation.
+    example: Can I have a word with you?
+  - text: "(in the plural) See words."
+    example: There had been words between him and the secretary about the outcome
+      of the meeting.
+  - text: "(sometimes Word) Communication from God; the message of the Christian gospel;
+      the Bible, Scripture."
+    example: Her parents had lived in Botswana, spreading the word among the tribespeople.
+  - text: "(sometimes Word) Logos, Christ."
+- pos: verb
+  defs:
+  - text: To say or write (something) using particular words; to phrase (something).
+    example: I’m not sure how to word this letter to the council.
+  - text: To flatter with words, to cajole.
+  - text: To ply or overpower with words.
+  - text: To conjure with a word.
+  - text: To speak, to use words; to converse, to discourse.
+- pos: noun
+  defs:
+  - text: Angry debate or conversation; argument.
+    example: After she found out the truth, she had words with him, to tell him how
+      she felt.
+  - text: Lines in a script for a performance.
+    example: You better get your words memorised before rehearsal next Saturday.
+  - text: Lyrics.
+    example: The composer set the words to music.
 ---
-

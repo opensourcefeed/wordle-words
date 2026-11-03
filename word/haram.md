@@ -1,7 +1,39 @@
 ---
 layout: word
-title: haram
+title: Is HARAM a Wordle Word?
+head_title: Is HARAM a Wordle Word? Yes – Valid Guess & Meaning
 word: haram
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sin.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (fiqh) Forbidden by Islam: unlawful, sinful.</li></ul></div></div>"
+description: Yes, HARAM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- harem
+- garam
+- haham
+- hakam
+- harim
+anagrams:
+- marah
+definitions:
+- pos: noun
+  defs:
+  - text: A sin.
+- pos: adjective
+  defs:
+  - text: "(fiqh) Forbidden by Islam: unlawful, sinful."
 ---
-

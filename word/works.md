@@ -1,7 +1,103 @@
 ---
 layout: word
-title: works
+title: Is WORKS a Wordle Word?
+head_title: Is WORKS a Wordle Word? Yes – Valid Guess & Meaning
 word: works
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɜːks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (heading) Employment.</li><li><strong>Definition 2:</strong> (heading) Effort.</li><li><strong>Definition 3:</strong> Sustained effort to achieve a goal or result, especially overcoming obstacles.<p><strong>Example:</strong> We don't have much time. Let's get to work piling up those sandbags.</p></li><li><strong>Definition 4:</strong> (heading) Product; the result of effort.</li><li><strong>Definition 5:</strong> The staging of events to appear as real.</li><li><strong>Definition 6:</strong> Ore before it is dressed.</li><li><strong>Definition 7:</strong> The equipment needed to inject a drug (syringes, needles, swabs etc.)<p><strong>Example:</strong> Tell me you're using clean works at least.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To do a specific task by employing physical or mental powers.<p><strong>Example:</strong> He’s working in a bar.</p></li><li><strong>Definition 2:</strong> To effect by gradual degrees.<p><strong>Example:</strong> he worked his way through the crowd</p></li><li><strong>Definition 3:</strong> To embroider with thread.</li><li><strong>Definition 4:</strong> To set into action.<p><strong>Example:</strong> He worked the levers.</p></li><li><strong>Definition 5:</strong> To cause to ferment.</li><li><strong>Definition 6:</strong> To ferment.</li><li><strong>Definition 7:</strong> To exhaust, by working.<p><strong>Example:</strong> The mine was worked until the last scrap of ore had been extracted.</p></li><li><strong>Definition 8:</strong> To shape, form, or improve a material.<p><strong>Example:</strong> He used pliers to work the wire into shape.</p></li><li><strong>Definition 9:</strong> To operate in a certain place, area, or speciality.<p><strong>Example:</strong> she works the night clubs</p></li><li><strong>Definition 10:</strong> To operate in or through; as, to work the phones.</li><li><strong>Definition 11:</strong> To provoke or excite; to influence.<p><strong>Example:</strong> The rock musician worked the crowd of young girls into a frenzy.</p></li><li><strong>Definition 12:</strong> To use or manipulate to one’s advantage.<p><strong>Example:</strong> She knows how to work the system.</p></li><li><strong>Definition 13:</strong> To cause to happen or to occur as a consequence.<p><strong>Example:</strong> I cannot work a miracle.</p></li><li><strong>Definition 14:</strong> To cause to work.<p><strong>Example:</strong> He is working his servants hard.</p></li><li><strong>Definition 15:</strong> To function correctly; to act as intended; to achieve the goal designed for.<p><strong>Example:</strong> he pointed at the car and asked, \"Does it work\"?;  he looked at the bottle of pain pills, wondering if they would work;  my plan didn’t work</p></li><li><strong>Definition 16:</strong> To influence.<p><strong>Example:</strong> They worked on her to join the group.</p></li><li><strong>Definition 17:</strong> To effect by gradual degrees; as, to work into the earth.</li><li><strong>Definition 18:</strong> To move in an agitated manner.<p><strong>Example:</strong> A ship works in a heavy sea.</p></li><li><strong>Definition 19:</strong> To behave in a certain way when handled<p><strong>Example:</strong> this dough does not work easily;  the soft metal works well</p></li><li><strong>Definition 20:</strong> (with two objects) To cause (someone) to feel (something); to do unto somebody (something, whether good or bad).</li><li><strong>Definition 21:</strong> To hurt; to ache.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mechanism or machine; the means by which something happens.<p><strong>Example:</strong> A stray wrench can really gum up the works.</p></li><li><strong>Definition 2:</strong> A factory or factories, or similar collection(s) of buildings.<p><strong>Example:</strong> The steel works almost fills the valley.</p></li><li><strong>Definition 3:</strong> (with \"the\") Everything or everything that is available or possible; especially, all available toppings on food.<p><strong>Example:</strong> I'll have a Behemoth Burger with the works.</p></li><li><strong>Definition 4:</strong> (with \"the\") Drastic treatment; abuse; the axe (dismissal).</li></ul></div></div>"
+description: Yes, WORKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- borks
+- corks
+- dorks
+- forks
+- horks
+- norks
+- porks
+- warks
+- wocks
+- wonks
+- words
+- worky
+trap:
+  pattern: _ORKS
+  count: 9
+phonetic: "/wɜːks/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(heading) Employment."
+  - text: "(heading) Effort."
+  - text: Sustained effort to achieve a goal or result, especially overcoming obstacles.
+    example: We don't have much time. Let's get to work piling up those sandbags.
+  - text: "(heading) Product; the result of effort."
+  - text: The staging of events to appear as real.
+  - text: Ore before it is dressed.
+  - text: The equipment needed to inject a drug (syringes, needles, swabs etc.)
+    example: Tell me you're using clean works at least.
+- pos: verb
+  defs:
+  - text: To do a specific task by employing physical or mental powers.
+    example: He’s working in a bar.
+  - text: To effect by gradual degrees.
+    example: he worked his way through the crowd
+  - text: To embroider with thread.
+  - text: To set into action.
+    example: He worked the levers.
+  - text: To cause to ferment.
+  - text: To ferment.
+  - text: To exhaust, by working.
+    example: The mine was worked until the last scrap of ore had been extracted.
+  - text: To shape, form, or improve a material.
+    example: He used pliers to work the wire into shape.
+  - text: To operate in a certain place, area, or speciality.
+    example: she works the night clubs
+  - text: To operate in or through; as, to work the phones.
+  - text: To provoke or excite; to influence.
+    example: The rock musician worked the crowd of young girls into a frenzy.
+  - text: To use or manipulate to one’s advantage.
+    example: She knows how to work the system.
+  - text: To cause to happen or to occur as a consequence.
+    example: I cannot work a miracle.
+  - text: To cause to work.
+    example: He is working his servants hard.
+  - text: To function correctly; to act as intended; to achieve the goal designed
+      for.
+    example: he pointed at the car and asked, "Does it work"?;  he looked at the bottle
+      of pain pills, wondering if they would work;  my plan didn’t work
+  - text: To influence.
+    example: They worked on her to join the group.
+  - text: To effect by gradual degrees; as, to work into the earth.
+  - text: To move in an agitated manner.
+    example: A ship works in a heavy sea.
+  - text: To behave in a certain way when handled
+    example: this dough does not work easily;  the soft metal works well
+  - text: "(with two objects) To cause (someone) to feel (something); to do unto somebody
+      (something, whether good or bad)."
+  - text: To hurt; to ache.
+- pos: noun
+  defs:
+  - text: A mechanism or machine; the means by which something happens.
+    example: A stray wrench can really gum up the works.
+  - text: A factory or factories, or similar collection(s) of buildings.
+    example: The steel works almost fills the valley.
+  - text: (with "the") Everything or everything that is available or possible; especially,
+      all available toppings on food.
+    example: I'll have a Behemoth Burger with the works.
+  - text: (with "the") Drastic treatment; abuse; the axe (dismissal).
 ---
-

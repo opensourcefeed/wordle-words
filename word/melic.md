@@ -1,7 +1,40 @@
 ---
 layout: word
-title: melic
+title: Is MELIC a Wordle Word?
+head_title: Is MELIC a Wordle Word? Yes – Valid Guess & Meaning
 word: melic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various grasses, of the genus Melica, from north temperate regions</li></ul></div></div>"
+description: Yes, MELIC is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- medic
+- relic
+- malic
+- melik
+- memic
+- mesic
+- metic
+- telic
+anagrams:
+- clime
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various grasses, of the genus Melica, from north temperate regions
 ---
-

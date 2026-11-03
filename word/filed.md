@@ -1,7 +1,70 @@
 ---
 layout: word
-title: filed
+title: Is FILED a Wordle Word?
+head_title: Is FILED a Wordle Word? Yes – Valid Guess & Meaning
 word: filed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faɪld/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To commit (official papers) to some office.</li><li><strong>Definition 2:</strong> To place in an archive in a logical place and order</li><li><strong>Definition 3:</strong> To store a file (aggregation of data) on a storage medium such as a disc or another computer.</li><li><strong>Definition 4:</strong> (with for) To submit a formal request to some office.<p><strong>Example:</strong> She filed for divorce the next day.</p></li><li><strong>Definition 5:</strong> To set in order; to arrange, or lay away.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move in a file.<p><strong>Example:</strong> The applicants kept filing into the room until it was full.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To smooth, grind, or cut with a file.<p><strong>Example:</strong> I'd better file the bottoms of the table legs. Otherwise they will scratch the flooring.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To defile</li><li><strong>Definition 2:</strong> To corrupt</li></ul></div></div>"
+description: Yes, FILED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- filer
+- filet
+- ailed
+- biled
+- fifed
+- fiked
+- files
+- fined
+- fired
+- fixed
+- oiled
+- piled
+anagrams:
+- field
+- felid
+- flied
+trap:
+  pattern: _ILED
+  count: 9
+phonetic: "/faɪld/"
+definitions:
+- pos: verb
+  defs:
+  - text: To commit (official papers) to some office.
+  - text: To place in an archive in a logical place and order
+  - text: To store a file (aggregation of data) on a storage medium such as a disc
+      or another computer.
+  - text: "(with for) To submit a formal request to some office."
+    example: She filed for divorce the next day.
+  - text: To set in order; to arrange, or lay away.
+- pos: verb
+  defs:
+  - text: To move in a file.
+    example: The applicants kept filing into the room until it was full.
+- pos: verb
+  defs:
+  - text: To smooth, grind, or cut with a file.
+    example: I'd better file the bottoms of the table legs. Otherwise they will scratch
+      the flooring.
+- pos: verb
+  defs:
+  - text: To defile
+  - text: To corrupt
 ---
-

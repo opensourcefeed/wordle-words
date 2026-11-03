@@ -1,7 +1,55 @@
 ---
 layout: word
-title: bares
+title: Is BARES a Wordle Word?
+head_title: Is BARES a Wordle Word? Yes – Valid Guess & Meaning
 word: bares
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɛəz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To uncover; to reveal.<p><strong>Example:</strong> She bared her teeth at him.</p></li></ul></div></div>"
+description: Yes, BARES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- babes
+- bakes
+- bales
+- banes
+- barbs
+- bards
+- bared
+- barer
+- barfs
+- barks
+- barms
+- barns
+anagrams:
+- abers
+- baser
+- bears
+- braes
+- saber
+- sabre
+trap:
+  pattern: _ARES
+  count: 14
+phonetic: "/bɛəz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To uncover; to reveal.
+    example: She bared her teeth at him.
 ---
-

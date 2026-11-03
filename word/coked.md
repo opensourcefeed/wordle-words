@@ -1,7 +1,52 @@
 ---
 layout: word
-title: coked
+title: Is COKED a Wordle Word?
+head_title: Is COKED a Wordle Word? Yes – Valid Guess & Meaning
 word: coked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce coke from coal.</li><li><strong>Definition 2:</strong> To turn into coke.</li><li><strong>Definition 3:</strong> To add deleterious carbon deposits as a byproduct of combustion.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Intoxicated with cocaine.</li></ul></div></div>"
+description: Yes, COKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- boked
+- caked
+- coded
+- cokes
+- cokey
+- coled
+- coned
+- cooed
+- coped
+- cored
+- cosed
+- coted
+anagrams:
+- decko
+trap:
+  pattern: CO_ED
+  count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: To produce coke from coal.
+  - text: To turn into coke.
+  - text: To add deleterious carbon deposits as a byproduct of combustion.
+- pos: adjective
+  defs:
+  - text: Intoxicated with cocaine.
 ---
-

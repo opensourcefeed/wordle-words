@@ -1,7 +1,50 @@
 ---
 layout: word
-title: cotch
+title: Is COTCH a Wordle Word?
+head_title: Is COTCH a Wordle Word? Yes – Valid Guess & Meaning
 word: cotch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (heading) To capture, overtake.</li><li><strong>Definition 2:</strong> (heading) To seize hold of.</li><li><strong>Definition 3:</strong> (heading) To intercept.</li><li><strong>Definition 4:</strong> (heading) To receive (by being in the way).</li><li><strong>Definition 5:</strong> (heading) To take in with one's senses or intellect.</li><li><strong>Definition 6:</strong> (heading) To seize attention, interest.</li><li><strong>Definition 7:</strong> (heading) To obtain or experience</li></ul></div></div>"
+description: Yes, COTCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- botch
+- catch
+- coach
+- conch
+- couch
+- notch
+- cooch
+- cutch
+- cwtch
+- gotch
+- hotch
+- kotch
+trap:
+  pattern: _OTCH
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: "(heading) To capture, overtake."
+  - text: "(heading) To seize hold of."
+  - text: "(heading) To intercept."
+  - text: "(heading) To receive (by being in the way)."
+  - text: "(heading) To take in with one's senses or intellect."
+  - text: "(heading) To seize attention, interest."
+  - text: "(heading) To obtain or experience"
 ---
-

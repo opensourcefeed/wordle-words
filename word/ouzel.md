@@ -1,7 +1,36 @@
 ---
 layout: word
-title: ouzel
+title: Is OUZEL a Wordle Word?
+head_title: Is OUZEL a Wordle Word? Yes – Valid Guess & Meaning
 word: ouzel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈuːzl̩/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The Eurasian blackbird, Turdus merula.</li><li><strong>Definition 2:</strong> The water ouzel, an aquatic perching bird, Cinclus mexicanus.</li></ul></div></div>"
+description: Yes, OUZEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - L
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- ousel
+- puzel
+phonetic: "/ˈuːzl̩/"
+definitions:
+- pos: noun
+  defs:
+  - text: The Eurasian blackbird, Turdus merula.
+  - text: The water ouzel, an aquatic perching bird, Cinclus mexicanus.
 ---
-

@@ -1,7 +1,92 @@
 ---
 layout: word
-title: gases
+title: Is GASES a Wordle Word?
+head_title: Is GASES a Wordle Word? Yes – Valid Guess & Meaning
 word: gases
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡæsɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Matter in a state intermediate between liquid and plasma that can be contained only if it is fully surrounded by a solid (or in a bubble of liquid) (or held together by gravitational pull); it can condense into a liquid, or can (rarely) become a solid directly.<p><strong>Example:</strong> A lot of gas had escaped from the cylinder.</p></li><li><strong>Definition 2:</strong> A chemical element or compound in such a state.<p><strong>Example:</strong> The atmosphere is made up of a number of different gases.</p></li><li><strong>Definition 3:</strong> A flammable gaseous hydrocarbon or hydrocarbon mixture (typically predominantly methane) used as a fuel, e.g. for cooking, heating, electricity generation or as a fuel in internal combustion engines in vehicles.<p><strong>Example:</strong> Gas-fired power stations have largely replaced coal-burning ones.</p></li><li><strong>Definition 4:</strong> A hob on a gas cooker.<p><strong>Example:</strong> She turned the gas on, put the potatoes on, then lit the oven.</p></li><li><strong>Definition 5:</strong> Methane or other waste gases trapped in one's belly as a result of the digestive process.<p><strong>Example:</strong> My tummy hurts so bad, I have gas.</p></li><li><strong>Definition 6:</strong> A humorous or entertaining event or person.<p><strong>Example:</strong> He is such a gas!</p></li><li><strong>Definition 7:</strong> Frothy talk; chatter.</li><li><strong>Definition 8:</strong> A fastball.<p><strong>Example:</strong> The closer threw him nothing but gas.</p></li><li><strong>Definition 9:</strong> Arterial or venous blood gas.</li><li><strong>Definition 10:</strong> Marijuana, typically of high quality.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To kill with poisonous gas.</li><li><strong>Definition 2:</strong> To talk in a boastful or vapid way; chatter.</li><li><strong>Definition 3:</strong> To impose upon by talking boastfully.</li><li><strong>Definition 4:</strong> To emit gas.<p><strong>Example:</strong> The battery cell was gassing.</p></li><li><strong>Definition 5:</strong> To impregnate with gas.<p><strong>Example:</strong> to gas lime with chlorine in the manufacture of bleaching powder</p></li><li><strong>Definition 6:</strong> To singe, as in a gas flame, so as to remove loose fibers.<p><strong>Example:</strong> to gas thread</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Gasoline; a derivative of petroleum used as fuel.</li><li><strong>Definition 2:</strong> Gas pedal.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give a vehicle more fuel in order to accelerate it.<p><strong>Example:</strong> The cops are coming. Gas it!</p></li><li><strong>Definition 2:</strong> To fill (a vehicle's fuel tank) with fuel.</li></ul></div></div>"
+description: Yes, GASES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- bases
+- cases
+- eases
+- gades
+- gages
+- gales
+- games
+- gapes
+- gares
+- gasps
+- gasts
+- gates
+anagrams:
+- sages
+- segas
+trap:
+  pattern: _ASES
+  count: 12
+phonetic: "/ˈɡæsɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Matter in a state intermediate between liquid and plasma that can be contained
+      only if it is fully surrounded by a solid (or in a bubble of liquid) (or held
+      together by gravitational pull); it can condense into a liquid, or can (rarely)
+      become a solid directly.
+    example: A lot of gas had escaped from the cylinder.
+  - text: A chemical element or compound in such a state.
+    example: The atmosphere is made up of a number of different gases.
+  - text: A flammable gaseous hydrocarbon or hydrocarbon mixture (typically predominantly
+      methane) used as a fuel, e.g. for cooking, heating, electricity generation or
+      as a fuel in internal combustion engines in vehicles.
+    example: Gas-fired power stations have largely replaced coal-burning ones.
+  - text: A hob on a gas cooker.
+    example: She turned the gas on, put the potatoes on, then lit the oven.
+  - text: Methane or other waste gases trapped in one's belly as a result of the digestive
+      process.
+    example: My tummy hurts so bad, I have gas.
+  - text: A humorous or entertaining event or person.
+    example: He is such a gas!
+  - text: Frothy talk; chatter.
+  - text: A fastball.
+    example: The closer threw him nothing but gas.
+  - text: Arterial or venous blood gas.
+  - text: Marijuana, typically of high quality.
+- pos: verb
+  defs:
+  - text: To kill with poisonous gas.
+  - text: To talk in a boastful or vapid way; chatter.
+  - text: To impose upon by talking boastfully.
+  - text: To emit gas.
+    example: The battery cell was gassing.
+  - text: To impregnate with gas.
+    example: to gas lime with chlorine in the manufacture of bleaching powder
+  - text: To singe, as in a gas flame, so as to remove loose fibers.
+    example: to gas thread
+- pos: noun
+  defs:
+  - text: Gasoline; a derivative of petroleum used as fuel.
+  - text: Gas pedal.
+- pos: verb
+  defs:
+  - text: To give a vehicle more fuel in order to accelerate it.
+    example: The cops are coming. Gas it!
+  - text: To fill (a vehicle's fuel tank) with fuel.
 ---
-

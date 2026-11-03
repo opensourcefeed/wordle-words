@@ -1,7 +1,84 @@
 ---
 layout: word
-title: after
+title: Is AFTER a Wordle Word?
+head_title: 'Is AFTER a Wordle Word? Yes – Past Answer #963 & Meaning'
 word: after
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæf.tə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Later; second (of two); next, following, subsequent</li><li><strong>Definition 2:</strong> (where the frame of reference is within the ship) At or towards the stern of a ship.<p><strong>Example:</strong> The after gun is abaft the forward gun.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Behind; later in time; following.<p><strong>Example:</strong> I left the room, and the dog bounded after.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Subsequently to; following in time; later than.<p><strong>Example:</strong> The Cold War began shortly after the Second World War.</p></li><li><strong>Definition 2:</strong> Behind.<p><strong>Example:</strong> He will leave a trail of destruction after him.</p></li><li><strong>Definition 3:</strong> In pursuit of, seeking.<p><strong>Example:</strong> He's after a job; run after him; inquire after her health.</p></li><li><strong>Definition 4:</strong> In allusion to, in imitation of; following or referencing.<p><strong>Example:</strong> We named him after his grandfather; a painting after Leonardo da Vinci.</p></li><li><strong>Definition 5:</strong> Next in importance or rank.<p><strong>Example:</strong> The princess is next in line to the throne after the prince.</p></li><li><strong>Definition 6:</strong> As a result of.<p><strong>Example:</strong> After your bad behaviour, you will be punished.</p></li><li><strong>Definition 7:</strong> In spite of.<p><strong>Example:</strong> After all that has happened, he is still my friend.</p></li><li><strong>Definition 8:</strong> (usually preceded by a form of be, followed by an -ing form of a verb) Used to indicate recent completion of an activity<p><strong>Example:</strong> I was after finishing my dinner when there was a knock on the door.</p></li><li><strong>Definition 9:</strong> According to an author or text.</li><li><strong>Definition 10:</strong> Denoting the aim or object; concerning; in relation to.<p><strong>Example:</strong> to look after workmen; to enquire after a friend; to thirst after righteousness</p></li><li><strong>Definition 11:</strong> According to the direction and influence of; in proportion to; befitting.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> conjunction</p><ul><li><strong>Definition 1:</strong> Signifies that the action of the clause it starts takes place before the action of the other clause.<p><strong>Example:</strong> I went home after we had decided to call it a day.</p></li></ul></div></div>"
+description: Yes, AFTER is a valid Wordle word. It was the Wordle answer on February
+  7, 2024 (#963). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 7, 2024 (#963).
+past_answers:
+- date: '2024-02-07'
+  number: 963
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- alter
+- apter
+- arter
+- aster
+- atter
+- ofter
+anagrams:
+- afret
+- feart
+- frate
+- trefa
+trap:
+  pattern: A_TER
+  count: 6
+phonetic: "/ˈæf.tə(ɹ)/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Later; second (of two); next, following, subsequent
+  - text: "(where the frame of reference is within the ship) At or towards the stern
+      of a ship."
+    example: The after gun is abaft the forward gun.
+- pos: adverb
+  defs:
+  - text: Behind; later in time; following.
+    example: I left the room, and the dog bounded after.
+- pos: preposition
+  defs:
+  - text: Subsequently to; following in time; later than.
+    example: The Cold War began shortly after the Second World War.
+  - text: Behind.
+    example: He will leave a trail of destruction after him.
+  - text: In pursuit of, seeking.
+    example: He's after a job; run after him; inquire after her health.
+  - text: In allusion to, in imitation of; following or referencing.
+    example: We named him after his grandfather; a painting after Leonardo da Vinci.
+  - text: Next in importance or rank.
+    example: The princess is next in line to the throne after the prince.
+  - text: As a result of.
+    example: After your bad behaviour, you will be punished.
+  - text: In spite of.
+    example: After all that has happened, he is still my friend.
+  - text: "(usually preceded by a form of be, followed by an -ing form of a verb)
+      Used to indicate recent completion of an activity"
+    example: I was after finishing my dinner when there was a knock on the door.
+  - text: According to an author or text.
+  - text: Denoting the aim or object; concerning; in relation to.
+    example: to look after workmen; to enquire after a friend; to thirst after righteousness
+  - text: According to the direction and influence of; in proportion to; befitting.
+- pos: conjunction
+  defs:
+  - text: Signifies that the action of the clause it starts takes place before the
+      action of the other clause.
+    example: I went home after we had decided to call it a day.
 ---
-

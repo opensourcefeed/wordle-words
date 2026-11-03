@@ -1,7 +1,48 @@
 ---
 layout: word
-title: glean
+title: Is GLEAN a Wordle Word?
+head_title: 'Is GLEAN a Wordle Word? Yes – Past Answer #418 & Meaning'
 word: glean
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡliːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A collection made by gleaning.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To collect (grain, grapes, etc.) left behind after the main harvest or gathering.</li><li><strong>Definition 2:</strong> To gather what is left in (a field or vineyard).<p><strong>Example:</strong> to glean a field</p></li><li><strong>Definition 3:</strong> To gather information in small amounts, with implied difficulty, bit by bit.</li><li><strong>Definition 4:</strong> To frugally accumulate resources from low-yield contexts.</li></ul></div></div>"
+description: Yes, GLEAN is a valid Wordle word. It was the Wordle answer on August
+  11, 2022 (#418). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 11, 2022 (#418).
+past_answers:
+- date: '2022-08-11'
+  number: 418
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- clean
+- gleam
+anagrams:
+- angel
+- angle
+- genal
+phonetic: "/ɡliːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A collection made by gleaning.
+- pos: verb
+  defs:
+  - text: To collect (grain, grapes, etc.) left behind after the main harvest or gathering.
+  - text: To gather what is left in (a field or vineyard).
+    example: to glean a field
+  - text: To gather information in small amounts, with implied difficulty, bit by
+      bit.
+  - text: To frugally accumulate resources from low-yield contexts.
 ---
-

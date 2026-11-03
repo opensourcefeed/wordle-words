@@ -1,7 +1,35 @@
 ---
 layout: word
-title: ovoid
+title: Is OVOID a Wordle Word?
+head_title: Is OVOID a Wordle Word? Yes – Possible Answer & Meaning
 word: ovoid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something that is oval in shape.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Shaped like an oval.</li><li><strong>Definition 2:</strong> Egg-shaped; shaped like an oval, but more tapered at one end; ovate.</li></ul></div></div>"
+description: Yes, OVOID is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- avoid
+definitions:
+- pos: noun
+  defs:
+  - text: Something that is oval in shape.
+- pos: adjective
+  defs:
+  - text: Shaped like an oval.
+  - text: Egg-shaped; shaped like an oval, but more tapered at one end; ovate.
 ---
-

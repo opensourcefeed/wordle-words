@@ -1,7 +1,59 @@
 ---
 layout: word
-title: satin
+title: Is SATIN a Wordle Word?
+head_title: 'Is SATIN a Wordle Word? Yes – Past Answer #1785 & Meaning'
 word: satin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsætɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cloth woven from silk, nylon or polyester with a glossy surface and a dull back. (The same weaving technique applied to cotton produces cloth termed sateen).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make (paper, silver, etc.) smooth and glossy like satin.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Semigloss.<p><strong>Example:</strong> satin paint</p></li></ul></div></div>"
+description: Yes, SATIN is a valid Wordle word. It was the Wordle answer on May 9,
+  2026 (#1785). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 9, 2026 (#1785).
+past_answers:
+- date: '2026-05-09'
+  number: 1785
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- eatin
+- matin
+- patin
+- sabin
+- sarin
+- sasin
+- satis
+- savin
+anagrams:
+- saint
+- stain
+- antis
+- natis
+- tains
+- tians
+- tinas
+phonetic: "/ˈsætɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cloth woven from silk, nylon or polyester with a glossy surface and a
+      dull back. (The same weaving technique applied to cotton produces cloth termed
+      sateen).
+- pos: verb
+  defs:
+  - text: To make (paper, silver, etc.) smooth and glossy like satin.
+- pos: adjective
+  defs:
+  - text: Semigloss.
+    example: satin paint
 ---
-

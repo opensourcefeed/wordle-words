@@ -1,7 +1,87 @@
 ---
 layout: word
-title: ruffs
+title: Is RUFFS a Wordle Word?
+head_title: Is RUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: ruffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A circular frill or ruffle on a garment, especially a starched, fluted frill at the neck in Elizabethan and Jacobean England (1560s–1620s).</li><li><strong>Definition 2:</strong> Anything formed with plaits or flutings like a frill.</li><li><strong>Definition 3:</strong> Senses relating to animals.</li><li><strong>Definition 4:</strong> A collar on a shaft or other piece to prevent endwise motion.</li><li><strong>Definition 5:</strong> An exhibition of haughtiness or pride.</li><li><strong>Definition 6:</strong> Tumultuous or wanton conduct or procedure.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To shape (fabric, etc.) into a ruff; to adorn (a garment, etc.) with a ruff.</li><li><strong>Definition 2:</strong> Of a falcon, hawk, etc.: to hit (the prey) without fixing or grabbing hold of it.</li><li><strong>Definition 3:</strong> To ruffle; to disorder.</li><li><strong>Definition 4:</strong> Of a bird: to ruffle its feathers.</li><li><strong>Definition 5:</strong> To boast, to brag.</li><li><strong>Definition 6:</strong> To speak in a loud and domineering manner; to bluster, to swagger.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Arripis georgianus, a fish found in cool waters off the southern coast of Australia; the Australian herring or tommy ruff.</li><li><strong>Definition 2:</strong> A bottom-dwelling carnivorous fish of the family Sparidae found in temperate and tropical waters; a porgy or sea bream.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An instance of ruffing, or an opportunity to ruff, when unable to follow suit.</li><li><strong>Definition 2:</strong> A game similar to whist and its predecessor.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play a trump card to a trick when unable to follow suit (that is, to play a card of the same suit as the previous or leading card).</li><li><strong>Definition 2:</strong> Especially in the form ruff out: to defeat (a card, etc.) by ruffing, thus establishing the master card in the suit led.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A low, vibrating beat of a drum, quieter than a roll; a ruffle.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To beat a ruff or ruffle, as on a drum.</li><li><strong>Definition 2:</strong> Of a drum, etc.: to have a ruff or ruffle beaten on it.</li></ul></div><div class='meanings'><h3>Meaning 8</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Gymnocephalus cernua, a small Eurasian freshwater fish.</li><li><strong>Definition 2:</strong> Other species in the same genus.</li></ul></div></div>"
+description: Yes, RUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- buffs
+- cuffs
+- duffs
+- fuffs
+- guffs
+- huffs
+- luffs
+- muffs
+- nuffs
+- puffs
+- raffs
+- riffs
+trap:
+  pattern: _UFFS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A circular frill or ruffle on a garment, especially a starched, fluted frill
+      at the neck in Elizabethan and Jacobean England (1560s–1620s).
+  - text: Anything formed with plaits or flutings like a frill.
+  - text: Senses relating to animals.
+  - text: A collar on a shaft or other piece to prevent endwise motion.
+  - text: An exhibition of haughtiness or pride.
+  - text: Tumultuous or wanton conduct or procedure.
+- pos: verb
+  defs:
+  - text: To shape (fabric, etc.) into a ruff; to adorn (a garment, etc.) with a ruff.
+  - text: 'Of a falcon, hawk, etc.: to hit (the prey) without fixing or grabbing hold
+      of it.'
+  - text: To ruffle; to disorder.
+  - text: 'Of a bird: to ruffle its feathers.'
+  - text: To boast, to brag.
+  - text: To speak in a loud and domineering manner; to bluster, to swagger.
+- pos: noun
+  defs:
+  - text: Arripis georgianus, a fish found in cool waters off the southern coast of
+      Australia; the Australian herring or tommy ruff.
+  - text: A bottom-dwelling carnivorous fish of the family Sparidae found in temperate
+      and tropical waters; a porgy or sea bream.
+- pos: noun
+  defs:
+  - text: An instance of ruffing, or an opportunity to ruff, when unable to follow
+      suit.
+  - text: A game similar to whist and its predecessor.
+- pos: verb
+  defs:
+  - text: To play a trump card to a trick when unable to follow suit (that is, to
+      play a card of the same suit as the previous or leading card).
+  - text: 'Especially in the form ruff out: to defeat (a card, etc.) by ruffing, thus
+      establishing the master card in the suit led.'
+- pos: noun
+  defs:
+  - text: A low, vibrating beat of a drum, quieter than a roll; a ruffle.
+- pos: verb
+  defs:
+  - text: To beat a ruff or ruffle, as on a drum.
+  - text: 'Of a drum, etc.: to have a ruff or ruffle beaten on it.'
+- pos: noun
+  defs:
+  - text: Gymnocephalus cernua, a small Eurasian freshwater fish.
+  - text: Other species in the same genus.
 ---
-

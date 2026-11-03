@@ -1,7 +1,40 @@
 ---
 layout: word
-title: macle
+title: Is MACLE a Wordle Word?
+head_title: Is MACLE a Wordle Word? Yes – Valid Guess & Meaning
 word: macle
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Chiastolite; so called from the tessellated appearance of a cross-section.</li><li><strong>Definition 2:</strong> A crystal having a similar tessellated appearance.</li><li><strong>Definition 3:</strong> A twin crystal.</li></ul></div></div>"
+description: Yes, MACLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- maple
+- mache
+- macte
+- maile
+- marle
+anagrams:
+- camel
+- clame
+definitions:
+- pos: noun
+  defs:
+  - text: Chiastolite; so called from the tessellated appearance of a cross-section.
+  - text: A crystal having a similar tessellated appearance.
+  - text: A twin crystal.
 ---
-

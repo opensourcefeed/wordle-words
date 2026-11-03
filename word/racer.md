@@ -1,7 +1,58 @@
 ---
 layout: word
-title: racer
+title: Is RACER a Wordle Word?
+head_title: 'Is RACER a Wordle Word? Yes – Past Answer #1672 & Meaning'
 word: racer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who takes part in a race.</li><li><strong>Definition 2:</strong> A racehorse.</li><li><strong>Definition 3:</strong> An animal known for its fast speed, or suitable for racing; applied especially to a number of North American snakes, certain kinds of lake trout, etc.</li><li><strong>Definition 4:</strong> A vehicle or other device used for racing.</li><li><strong>Definition 5:</strong> Any of several genera of colubrid snakes.</li><li><strong>Definition 6:</strong> A video game involving racing of any kind.</li></ul></div></div>"
+description: Yes, RACER is a valid Wordle word. It was the Wordle answer on January
+  16, 2026 (#1672). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 16, 2026 (#1672).
+past_answers:
+- date: '2026-01-16'
+  number: 1672
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- rarer
+- facer
+- lacer
+- macer
+- pacer
+- raced
+- races
+- rager
+- raker
+- raper
+- raser
+- rater
+anagrams:
+- carer
+- crare
+trap:
+  pattern: RA_ER
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who takes part in a race.
+  - text: A racehorse.
+  - text: An animal known for its fast speed, or suitable for racing; applied especially
+      to a number of North American snakes, certain kinds of lake trout, etc.
+  - text: A vehicle or other device used for racing.
+  - text: Any of several genera of colubrid snakes.
+  - text: A video game involving racing of any kind.
 ---
-

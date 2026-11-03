@@ -1,7 +1,47 @@
 ---
 layout: word
-title: cocoa
+title: Is COCOA a Wordle Word?
+head_title: 'Is COCOA a Wordle Word? Yes – Past Answer #689 & Meaning'
 word: cocoa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkəʊ.kəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The dried and partially fermented fatty seeds of the cacao tree from which chocolate is made.</li><li><strong>Definition 2:</strong> An unsweetened brown powder made from roasted, ground cocoa beans, used in making chocolate, and in cooking.</li><li><strong>Definition 3:</strong> A hot drink made with milk, cocoa powder, and sugar.<p><strong>Example:</strong> Do you like cocoa?</p></li><li><strong>Definition 4:</strong> A serving of this drink.<p><strong>Example:</strong> I like to watch TV with a cocoa.</p></li><li><strong>Definition 5:</strong> A light to medium brown colour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a light to medium brown colour, like that of cocoa powder.</li></ul></div></div>"
+description: Yes, COCOA is a valid Wordle word. It was the Wordle answer on May 9,
+  2023 (#689). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 9, 2023 (#689).
+past_answers:
+- date: '2023-05-09'
+  number: 689
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 3
+  repeated:
+  - C
+  - O
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- cocos
+phonetic: "/ˈkəʊ.kəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The dried and partially fermented fatty seeds of the cacao tree from which
+      chocolate is made.
+  - text: An unsweetened brown powder made from roasted, ground cocoa beans, used
+      in making chocolate, and in cooking.
+  - text: A hot drink made with milk, cocoa powder, and sugar.
+    example: Do you like cocoa?
+  - text: A serving of this drink.
+    example: I like to watch TV with a cocoa.
+  - text: A light to medium brown colour.
+- pos: adjective
+  defs:
+  - text: Of a light to medium brown colour, like that of cocoa powder.
 ---
-

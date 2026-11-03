@@ -1,7 +1,65 @@
 ---
 layout: word
-title: eases
+title: Is EASES a Wordle Word?
+head_title: Is EASES a Wordle Word? Yes – Valid Guess & Meaning
 word: eases
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈiːzɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To free (something) from pain, worry, agitation, etc.<p><strong>Example:</strong> He eased his conscience by confessing.</p></li><li><strong>Definition 2:</strong> To alleviate, assuage or lessen (pain).<p><strong>Example:</strong> He loosened his shoe to ease the pain.</p></li><li><strong>Definition 3:</strong> To give respite to (someone).<p><strong>Example:</strong> The provision of extra staff eased their workload.</p></li><li><strong>Definition 4:</strong> To loosen or slacken the tension on a line.<p><strong>Example:</strong> We eased the boom vang, then lowered the sail.</p></li><li><strong>Definition 5:</strong> To reduce the difficulty of (something).<p><strong>Example:</strong> We had to ease the entry requirements.</p></li><li><strong>Definition 6:</strong> To move (something) slowly and carefully.<p><strong>Example:</strong> He eased the cork from the bottle.</p></li><li><strong>Definition 7:</strong> To lessen in severity.<p><strong>Example:</strong> The pain eased overnight.</p></li><li><strong>Definition 8:</strong> To proceed with little effort.<p><strong>Example:</strong> The car eased onto the motorway.</p></li></ul></div></div>"
+description: Yes, EASES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 3
+  repeated:
+  - E
+  - S
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- easel
+- bases
+- cases
+- eales
+- eased
+- easer
+- easts
+- eaves
+- erses
+- esses
+- gases
+- lases
+anagrams:
+- sease
+trap:
+  pattern: _ASES
+  count: 12
+phonetic: "/ˈiːzɪz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To free (something) from pain, worry, agitation, etc.
+    example: He eased his conscience by confessing.
+  - text: To alleviate, assuage or lessen (pain).
+    example: He loosened his shoe to ease the pain.
+  - text: To give respite to (someone).
+    example: The provision of extra staff eased their workload.
+  - text: To loosen or slacken the tension on a line.
+    example: We eased the boom vang, then lowered the sail.
+  - text: To reduce the difficulty of (something).
+    example: We had to ease the entry requirements.
+  - text: To move (something) slowly and carefully.
+    example: He eased the cork from the bottle.
+  - text: To lessen in severity.
+    example: The pain eased overnight.
+  - text: To proceed with little effort.
+    example: The car eased onto the motorway.
 ---
-

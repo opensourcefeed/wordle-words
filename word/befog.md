@@ -1,7 +1,33 @@
 ---
 layout: word
-title: befog
+title: Is BEFOG a Wordle Word?
+head_title: Is BEFOG a Wordle Word? Yes – Valid Guess & Meaning
 word: befog
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To envelop in fog or smoke.</li><li><strong>Definition 2:</strong> To confuse, mystify (a person); to make less acute or perceptive, to cloud (a person’s faculties).</li><li><strong>Definition 3:</strong> To obscure, make less clear (a subject, issue, etc.).</li></ul></div></div>"
+description: Yes, BEFOG is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- defog
+definitions:
+- pos: verb
+  defs:
+  - text: To envelop in fog or smoke.
+  - text: To confuse, mystify (a person); to make less acute or perceptive, to cloud
+      (a person’s faculties).
+  - text: To obscure, make less clear (a subject, issue, etc.).
 ---
-

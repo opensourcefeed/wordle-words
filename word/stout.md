@@ -1,7 +1,66 @@
 ---
 layout: word
-title: stout
+title: Is STOUT a Wordle Word?
+head_title: 'Is STOUT a Wordle Word? Yes – Past Answer #1850 & Meaning'
 word: stout
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stʌʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dark and strong malt brew made with toasted grain.<p><strong>Example:</strong> Stout is darker, stronger and sweeter than porter beer.</p></li><li><strong>Definition 2:</strong> An obese person.</li><li><strong>Definition 3:</strong> A large clothing size.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Large; bulky.</li><li><strong>Definition 2:</strong> Bold, strong-minded.</li><li><strong>Definition 3:</strong> Proud; haughty.</li><li><strong>Definition 4:</strong> Firm; resolute; dauntless.</li><li><strong>Definition 5:</strong> Materially strong, enduring.<p><strong>Example:</strong> Campers prefer stout vessels, sticks and cloth.</p></li><li><strong>Definition 6:</strong> Obstinate.</li></ul></div></div>"
+description: Yes, STOUT is a valid Wordle word. It was the Wordle answer on August
+  23, 2021 (#65) and July 13, 2026 (#1850). See its meaning, starter rating and similar
+  words.
+status: past
+answer_text: It was the Wordle answer on August 23, 2021 (#65) and July 13, 2026 (#1850).
+past_answers:
+- date: '2021-08-23'
+  number: 65
+- date: '2026-07-13'
+  number: 1850
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- scout
+- shout
+- snout
+- spout
+- strut
+- smout
+- stoat
+- stoit
+- stopt
+- stott
+- stoun
+- stoup
+anagrams:
+- touts
+trap:
+  pattern: S_OUT
+  count: 6
+phonetic: "/stʌʊt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dark and strong malt brew made with toasted grain.
+    example: Stout is darker, stronger and sweeter than porter beer.
+  - text: An obese person.
+  - text: A large clothing size.
+- pos: adjective
+  defs:
+  - text: Large; bulky.
+  - text: Bold, strong-minded.
+  - text: Proud; haughty.
+  - text: Firm; resolute; dauntless.
+  - text: Materially strong, enduring.
+    example: Campers prefer stout vessels, sticks and cloth.
+  - text: Obstinate.
 ---
-

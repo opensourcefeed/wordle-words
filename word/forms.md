@@ -1,7 +1,84 @@
 ---
 layout: word
-title: forms
+title: Is FORMS a Wordle Word?
+head_title: Is FORMS a Wordle Word? Yes – Valid Guess & Meaning
 word: forms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɔːmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (heading, physical) To do with shape.</li><li><strong>Definition 2:</strong> (social) To do with structure or procedure.</li><li><strong>Definition 3:</strong> A blank document or template to be filled in by the user.<p><strong>Example:</strong> To apply for the position, complete the application form.</p></li><li><strong>Definition 4:</strong> A specimen document to be copied or imitated.</li><li><strong>Definition 5:</strong> Level of performance.<p><strong>Example:</strong> The orchestra was on top form this evening.</p></li><li><strong>Definition 6:</strong> (grammar) A grouping of words which maintain grammatical context in different usages; the particular shape or structure of a word or part of speech.<p><strong>Example:</strong> participial forms;  verb forms</p></li><li><strong>Definition 7:</strong> The den or home of a hare.</li><li><strong>Definition 8:</strong> A window or dialogue box.</li><li><strong>Definition 9:</strong> An infraspecific rank.</li><li><strong>Definition 10:</strong> The type or other matter from which an impression is to be taken, arranged and secured in a chase.</li><li><strong>Definition 11:</strong> A quantic.</li><li><strong>Definition 12:</strong> (fitness) A specific way of performing a movement.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assume (a certain shape or visible structure).<p><strong>Example:</strong> When you kids form a straight line I'll hand out the lollies.</p></li><li><strong>Definition 2:</strong> To give (a shape or visible structure) to a thing or person.<p><strong>Example:</strong> Roll out the dough to form a thin sheet.</p></li><li><strong>Definition 3:</strong> To take shape.<p><strong>Example:</strong> When icicles start to form on the eaves you know the roads will be icy.</p></li><li><strong>Definition 4:</strong> To put together or bring into being; assemble.<p><strong>Example:</strong> Paul McCartney and John Lennon formed The Beatles in Liverpool in 1960.</p></li><li><strong>Definition 5:</strong> To create (a word) by inflection or derivation.<p><strong>Example:</strong> By adding \"-ness\", you can form a noun from an adjective.</p></li><li><strong>Definition 6:</strong> To constitute, to compose, to make up.<p><strong>Example:</strong> Teenagers form the bulk of extreme traffic offenders.</p></li><li><strong>Definition 7:</strong> To mould or model by instruction or discipline.<p><strong>Example:</strong> Singing in a choir helps to form a child's sociality.</p></li><li><strong>Definition 8:</strong> To provide (a hare) with a form.</li><li><strong>Definition 9:</strong> To treat (plates) to prepare them for introduction into a storage battery, causing one plate to be composed more or less of spongy lead, and the other of lead peroxide. This was formerly done by repeated slow alternations of the charging current, but later the plates or grids were coated or filled, one with a paste of red lead and the other with litharge, introduced into the cell, and formed by a direct charging current.</li></ul></div></div>"
+description: Yes, FORMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- borms
+- corms
+- dorms
+- farms
+- ferms
+- firms
+- foams
+- forbs
+- fords
+- fores
+- forks
+- forma
+trap:
+  pattern: _ORMS
+  count: 7
+phonetic: "/fɔːmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(heading, physical) To do with shape."
+  - text: "(social) To do with structure or procedure."
+  - text: A blank document or template to be filled in by the user.
+    example: To apply for the position, complete the application form.
+  - text: A specimen document to be copied or imitated.
+  - text: Level of performance.
+    example: The orchestra was on top form this evening.
+  - text: "(grammar) A grouping of words which maintain grammatical context in different
+      usages; the particular shape or structure of a word or part of speech."
+    example: participial forms;  verb forms
+  - text: The den or home of a hare.
+  - text: A window or dialogue box.
+  - text: An infraspecific rank.
+  - text: The type or other matter from which an impression is to be taken, arranged
+      and secured in a chase.
+  - text: A quantic.
+  - text: "(fitness) A specific way of performing a movement."
+- pos: verb
+  defs:
+  - text: To assume (a certain shape or visible structure).
+    example: When you kids form a straight line I'll hand out the lollies.
+  - text: To give (a shape or visible structure) to a thing or person.
+    example: Roll out the dough to form a thin sheet.
+  - text: To take shape.
+    example: When icicles start to form on the eaves you know the roads will be icy.
+  - text: To put together or bring into being; assemble.
+    example: Paul McCartney and John Lennon formed The Beatles in Liverpool in 1960.
+  - text: To create (a word) by inflection or derivation.
+    example: By adding "-ness", you can form a noun from an adjective.
+  - text: To constitute, to compose, to make up.
+    example: Teenagers form the bulk of extreme traffic offenders.
+  - text: To mould or model by instruction or discipline.
+    example: Singing in a choir helps to form a child's sociality.
+  - text: To provide (a hare) with a form.
+  - text: To treat (plates) to prepare them for introduction into a storage battery,
+      causing one plate to be composed more or less of spongy lead, and the other
+      of lead peroxide. This was formerly done by repeated slow alternations of the
+      charging current, but later the plates or grids were coated or filled, one with
+      a paste of red lead and the other with litharge, introduced into the cell, and
+      formed by a direct charging current.
 ---
-

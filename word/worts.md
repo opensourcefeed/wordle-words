@@ -1,7 +1,52 @@
 ---
 layout: word
-title: worts
+title: Is WORTS a Wordle Word?
+head_title: Is WORTS a Wordle Word? Yes – Valid Guess & Meaning
 word: worts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A plant; herb; vegetable.</li><li><strong>Definition 2:</strong> Any of various plants or herbs, used in combination to refer to specific plants such as St. John's wort, or on its own as a generic term.</li></ul></div></div>"
+description: Yes, WORTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- worth
+- borts
+- dorts
+- forts
+- jorts
+- morts
+- ports
+- rorts
+- sorts
+- torts
+- warts
+- wonts
+anagrams:
+- worst
+- rowts
+- strow
+- trows
+trap:
+  pattern: _ORTS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A plant; herb; vegetable.
+  - text: Any of various plants or herbs, used in combination to refer to specific
+      plants such as St. John's wort, or on its own as a generic term.
 ---
-

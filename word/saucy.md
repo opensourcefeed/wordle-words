@@ -1,7 +1,44 @@
 ---
 layout: word
-title: saucy
+title: Is SAUCY a Wordle Word?
+head_title: 'Is SAUCY a Wordle Word? Yes – Past Answer #1146 & Meaning'
 word: saucy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Similar to sauce; having the consistency or texture of sauce.</li><li><strong>Definition 2:</strong> Impertinent or disrespectful, often in a manner that is regarded as entertaining or amusing; smart.<p><strong>Example:</strong> She is a loud, saucy child who doesn't show a lot of respect to her elders.</p></li><li><strong>Definition 3:</strong> Impudently bold; pert.</li><li><strong>Definition 4:</strong> Sharp; pungent; piquant.</li><li><strong>Definition 5:</strong> Mildly erotic.<p><strong>Example:</strong> I enjoyed the dancing, but my wife found it a little too saucy.</p></li></ul></div></div>"
+description: Yes, SAUCY is a valid Wordle word. It was the Wordle answer on August
+  8, 2024 (#1146). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 8, 2024 (#1146).
+past_answers:
+- date: '2024-08-08'
+  number: 1146
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- sauce
+- gaucy
+- sauch
+- saury
+anagrams:
+- yucas
+definitions:
+- pos: adjective
+  defs:
+  - text: Similar to sauce; having the consistency or texture of sauce.
+  - text: Impertinent or disrespectful, often in a manner that is regarded as entertaining
+      or amusing; smart.
+    example: She is a loud, saucy child who doesn't show a lot of respect to her elders.
+  - text: Impudently bold; pert.
+  - text: Sharp; pungent; piquant.
+  - text: Mildly erotic.
+    example: I enjoyed the dancing, but my wife found it a little too saucy.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: shots
+title: Is SHOTS a Wordle Word?
+head_title: Is SHOTS a Wordle Word? Yes – Valid Guess
 word: shots
-meaning: ""
+description: Yes, SHOTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- phots
+- scots
+- shets
+- shoes
+- shogs
+- shoos
+- shops
+- shote
+- shott
+- shows
+- shuts
+- slots
+anagrams:
+- hosts
+- soths
+trap:
+  pattern: S_OTS
+  count: 8
 ---
-

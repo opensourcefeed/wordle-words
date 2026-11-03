@@ -1,7 +1,44 @@
 ---
 layout: word
-title: onion
+title: Is ONION a Wordle Word?
+head_title: 'Is ONION a Wordle Word? Yes – Past Answer #805 & Meaning'
 word: onion
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʌŋjɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable and spice.</li><li><strong>Definition 2:</strong> The bulb of such a plant.</li><li><strong>Definition 3:</strong> The genus as a whole.</li><li><strong>Definition 4:</strong> A ball.</li><li><strong>Definition 5:</strong> A person from Bermuda or of Bermudian descent.</li></ul></div></div>"
+description: Yes, ONION is a valid Wordle word. It was the Wordle answer on September
+  2, 2023 (#805). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 2, 2023 (#805).
+past_answers:
+- date: '2023-09-02'
+  number: 805
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 3
+  repeated:
+  - O
+  - N
+  common:
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- union
+- anion
+- inion
+- ongon
+phonetic: "/ˈʌŋjɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A monocotyledonous plant (Allium cepa), allied to garlic, used as vegetable
+      and spice.
+  - text: The bulb of such a plant.
+  - text: The genus as a whole.
+  - text: A ball.
+  - text: A person from Bermuda or of Bermudian descent.
 ---
-

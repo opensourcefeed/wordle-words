@@ -1,7 +1,52 @@
 ---
 layout: word
-title: raven
+title: Is RAVEN a Wordle Word?
+head_title: Is RAVEN a Wordle Word? Yes – Possible Answer & Meaning
 word: raven
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹeɪvən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several, generally large and lustrous black species of birds in the genus Corvus, especially the common raven, Corvus corax.</li><li><strong>Definition 2:</strong> A jet-black colour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of the color of the raven; jet-black<p><strong>Example:</strong> She was a tall, sophisticated, raven-haired beauty.</p></li></ul></div></div>"
+description: Yes, RAVEN is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- haven
+- ramen
+- daven
+- maven
+- paven
+- raved
+- ravel
+- raver
+- raves
+- ravey
+- ravin
+- riven
+trap:
+  pattern: RAVE_
+  count: 6
+phonetic: "/ˈɹeɪvən/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several, generally large and lustrous black species of birds in the
+      genus Corvus, especially the common raven, Corvus corax.
+  - text: A jet-black colour.
+- pos: adjective
+  defs:
+  - text: Of the color of the raven; jet-black
+    example: She was a tall, sophisticated, raven-haired beauty.
 ---
-

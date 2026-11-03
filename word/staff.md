@@ -1,7 +1,59 @@
 ---
 layout: word
-title: staff
+title: Is STAFF a Wordle Word?
+head_title: 'Is STAFF a Wordle Word? Yes – Past Answer #34 & Meaning'
 word: staff
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈstæf/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (plural staffs or staves) A long, straight, thick wooden rod or stick, especially one used to assist in walking.</li><li><strong>Definition 2:</strong> (plural staves) A series of horizontal lines on which musical notes are written; a stave.</li><li><strong>Definition 3:</strong> (plural staff or staffs) The employees of a business.<p><strong>Example:</strong> The company employed 10 new members of staff this month.</p></li><li><strong>Definition 4:</strong> A mixture of plaster and fibre used as a temporary exterior wall covering.W</li><li><strong>Definition 5:</strong> A pole, stick, or wand borne as an ensign of authority; a badge of office.<p><strong>Example:</strong> a constable's staff</p></li><li><strong>Definition 6:</strong> A pole upon which a flag is supported and displayed.</li><li><strong>Definition 7:</strong> The rung of a ladder.</li><li><strong>Definition 8:</strong> A series of verses so disposed that, when it is concluded, the same order begins again; a stanza; a stave.</li><li><strong>Definition 9:</strong> An arbor, as of a wheel or a pinion of a watch.</li><li><strong>Definition 10:</strong> The grooved director for the gorget, or knife, used in cutting for stone in the bladder.</li><li><strong>Definition 11:</strong> An establishment of officers in various departments attached to an army, to a section of an army, or to the commander of an army. The general's staff consists of those officers about his person who are employed in carrying his commands into execution.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To supply (a business, volunteer organization, etc.) with employees or staff members.</li></ul></div></div>"
+description: Yes, STAFF is a valid Wordle word. It was the Wordle answer on July 23,
+  2021 (#34). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 23, 2021 (#34).
+past_answers:
+- date: '2021-07-23'
+  number: 34
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - T
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- stiff
+- stuff
+- scaff
+phonetic: "/ˈstæf/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(plural staffs or staves) A long, straight, thick wooden rod or stick,
+      especially one used to assist in walking."
+  - text: "(plural staves) A series of horizontal lines on which musical notes are
+      written; a stave."
+  - text: "(plural staff or staffs) The employees of a business."
+    example: The company employed 10 new members of staff this month.
+  - text: A mixture of plaster and fibre used as a temporary exterior wall covering.W
+  - text: A pole, stick, or wand borne as an ensign of authority; a badge of office.
+    example: a constable's staff
+  - text: A pole upon which a flag is supported and displayed.
+  - text: The rung of a ladder.
+  - text: A series of verses so disposed that, when it is concluded, the same order
+      begins again; a stanza; a stave.
+  - text: An arbor, as of a wheel or a pinion of a watch.
+  - text: The grooved director for the gorget, or knife, used in cutting for stone
+      in the bladder.
+  - text: An establishment of officers in various departments attached to an army,
+      to a section of an army, or to the commander of an army. The general's staff
+      consists of those officers about his person who are employed in carrying his
+      commands into execution.
+- pos: verb
+  defs:
+  - text: To supply (a business, volunteer organization, etc.) with employees or staff
+      members.
 ---
-

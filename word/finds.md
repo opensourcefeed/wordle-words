@@ -1,7 +1,72 @@
 ---
 layout: word
-title: finds
+title: Is FINDS a Wordle Word?
+head_title: Is FINDS a Wordle Word? Yes – Valid Guess & Meaning
 word: finds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faɪndz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Anything that is found (usually valuable), as objects on an archeological site or a person with talent.</li><li><strong>Definition 2:</strong> The act of finding.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To encounter or discover by accident; to happen upon.</li><li><strong>Definition 2:</strong> To encounter or discover something being searched for; to locate.<p><strong>Example:</strong> I found my car keys. They were under the couch.</p></li><li><strong>Definition 3:</strong> (ditransitive) To discover by study or experiment direct to an object or end.<p><strong>Example:</strong> Water is found to be a compound substance.</p></li><li><strong>Definition 4:</strong> To gain, as the object of desire or effort.<p><strong>Example:</strong> to find leisure; to find means</p></li><li><strong>Definition 5:</strong> To attain to; to arrive at; to acquire.<p><strong>Example:</strong> Looks like he found a new vehicle for himself!</p></li><li><strong>Definition 6:</strong> To point out.<p><strong>Example:</strong> He kept finding faults with my work.</p></li><li><strong>Definition 7:</strong> (ditransitive) To decide that, to discover that, to form the opinion that.<p><strong>Example:</strong> I find your argument unsatisfactory.</p></li><li><strong>Definition 8:</strong> To arrive at, as a conclusion; to determine as true; to establish.<p><strong>Example:</strong> to find a verdict; to find a true bill (of indictment) against an accused person</p></li><li><strong>Definition 9:</strong> To supply; to furnish.<p><strong>Example:</strong> to find food for workmen</p></li><li><strong>Definition 10:</strong> To provide for<p><strong>Example:</strong> He finds his nephew in money.</p></li><li><strong>Definition 11:</strong> To determine or judge.<p><strong>Example:</strong> The jury finds for the defendant.</p></li><li><strong>Definition 12:</strong> To discover game.</li></ul></div></div>"
+description: Yes, FINDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- binds
+- fands
+- fends
+- fines
+- finis
+- finks
+- finos
+- fonds
+- funds
+- hinds
+- kinds
+- linds
+trap:
+  pattern: _INDS
+  count: 11
+phonetic: "/faɪndz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Anything that is found (usually valuable), as objects on an archeological
+      site or a person with talent.
+  - text: The act of finding.
+- pos: verb
+  defs:
+  - text: To encounter or discover by accident; to happen upon.
+  - text: To encounter or discover something being searched for; to locate.
+    example: I found my car keys. They were under the couch.
+  - text: "(ditransitive) To discover by study or experiment direct to an object or
+      end."
+    example: Water is found to be a compound substance.
+  - text: To gain, as the object of desire or effort.
+    example: to find leisure; to find means
+  - text: To attain to; to arrive at; to acquire.
+    example: Looks like he found a new vehicle for himself!
+  - text: To point out.
+    example: He kept finding faults with my work.
+  - text: "(ditransitive) To decide that, to discover that, to form the opinion that."
+    example: I find your argument unsatisfactory.
+  - text: To arrive at, as a conclusion; to determine as true; to establish.
+    example: to find a verdict; to find a true bill (of indictment) against an accused
+      person
+  - text: To supply; to furnish.
+    example: to find food for workmen
+  - text: To provide for
+    example: He finds his nephew in money.
+  - text: To determine or judge.
+    example: The jury finds for the defendant.
+  - text: To discover game.
 ---
-

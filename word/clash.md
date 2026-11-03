@@ -1,7 +1,73 @@
 ---
 layout: word
-title: clash
+title: Is CLASH a Wordle Word?
+head_title: 'Is CLASH a Wordle Word? Yes – Past Answer #1407 & Meaning'
 word: clash
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klaʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A loud sound, like the crashing together of metal objects.<p><strong>Example:</strong> I heard a clash from the kitchen, and rushed in to find the cat had knocked over some pots and pans.</p></li><li><strong>Definition 2:</strong> A skirmish, a hostile encounter.</li><li><strong>Definition 3:</strong> A match; a game between two sides.</li><li><strong>Definition 4:</strong> An angry argument</li><li><strong>Definition 5:</strong> Opposition; contradiction; such as between differing or contending interests, views, purposes etc.<p><strong>Example:</strong> a clash of beliefs</p></li><li><strong>Definition 6:</strong> A combination of garments that do not look good together, especially because of conflicting colours.<p><strong>Example:</strong> She was wearing a horrible clash of red and orange.</p></li><li><strong>Definition 7:</strong> An instance of restarting the game after a \"dead ball\", where it is dropped between two opposing players, who can fight for possession.</li><li><strong>Definition 8:</strong> Chatter; gossip; idle talk.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a clashing sound.<p><strong>Example:</strong> The cymbals clashed.</p></li><li><strong>Definition 2:</strong> To cause to make a clashing sound.</li><li><strong>Definition 3:</strong> To come into violent conflict.<p><strong>Example:</strong> Fans from opposing teams clashed on the streets after the game.</p></li><li><strong>Definition 4:</strong> To argue angrily.</li><li><strong>Definition 5:</strong> (in games or sports) To face each other in an important game.</li><li><strong>Definition 6:</strong> (of clothes, decor, colours) To fail to look good together; to contrast unattractively; to fail to harmonize.<p><strong>Example:</strong> The hotel room was ugly, and the wallpaper clashed with the carpet.</p></li><li><strong>Definition 7:</strong> (of events) To coincide, to happen at the same time, thereby rendering it impossible to attend all.<p><strong>Example:</strong> I can't come to your wedding because it clashes with a friend's funeral.</p></li><li><strong>Definition 8:</strong> To chatter or gossip.</li></ul></div></div>"
+description: Yes, CLASH is a valid Wordle word. It was the Wordle answer on April
+  26, 2025 (#1407). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 26, 2025 (#1407).
+past_answers:
+- date: '2025-04-26'
+  number: 1407
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- clasp
+- class
+- crash
+- flash
+- slash
+- blash
+- clach
+- clast
+- plash
+anagrams:
+- chals
+phonetic: "/klaʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A loud sound, like the crashing together of metal objects.
+    example: I heard a clash from the kitchen, and rushed in to find the cat had knocked
+      over some pots and pans.
+  - text: A skirmish, a hostile encounter.
+  - text: A match; a game between two sides.
+  - text: An angry argument
+  - text: Opposition; contradiction; such as between differing or contending interests,
+      views, purposes etc.
+    example: a clash of beliefs
+  - text: A combination of garments that do not look good together, especially because
+      of conflicting colours.
+    example: She was wearing a horrible clash of red and orange.
+  - text: An instance of restarting the game after a "dead ball", where it is dropped
+      between two opposing players, who can fight for possession.
+  - text: Chatter; gossip; idle talk.
+- pos: verb
+  defs:
+  - text: To make a clashing sound.
+    example: The cymbals clashed.
+  - text: To cause to make a clashing sound.
+  - text: To come into violent conflict.
+    example: Fans from opposing teams clashed on the streets after the game.
+  - text: To argue angrily.
+  - text: "(in games or sports) To face each other in an important game."
+  - text: "(of clothes, decor, colours) To fail to look good together; to contrast
+      unattractively; to fail to harmonize."
+    example: The hotel room was ugly, and the wallpaper clashed with the carpet.
+  - text: "(of events) To coincide, to happen at the same time, thereby rendering
+      it impossible to attend all."
+    example: I can't come to your wedding because it clashes with a friend's funeral.
+  - text: To chatter or gossip.
 ---
-

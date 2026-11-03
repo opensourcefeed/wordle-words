@@ -1,7 +1,74 @@
 ---
 layout: word
-title: peaks
+title: Is PEAKS a Wordle Word?
+head_title: Is PEAKS a Wordle Word? Yes – Valid Guess & Meaning
 word: peaks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A point; the sharp end or top of anything that terminates in a point; as, the peak, or front, of a cap.</li><li><strong>Definition 2:</strong> The highest value reached by some quantity in a time period.<p><strong>Example:</strong> The stock market reached a peak in September 1929.</p></li><li><strong>Definition 3:</strong> The top, or one of the tops, of a hill, mountain, or range, ending in a point.<p><strong>Example:</strong> They reached the peak after 8 hours of climbing.</p></li><li><strong>Definition 4:</strong> The whole hill or mountain, especially when isolated.</li><li><strong>Definition 5:</strong> The upper aftermost corner of a fore-and-aft sail.<p><strong>Example:</strong> peak-brails</p></li><li><strong>Definition 6:</strong> The narrow part of a vessel's bow, or the hold within it.</li><li><strong>Definition 7:</strong> The extremity of an anchor fluke; the bill.</li><li><strong>Definition 8:</strong> A local maximum of a function, e.g. for sine waves, each point at which the value of y is at its maximum.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reach a highest degree or maximum.<p><strong>Example:</strong> Historians argue about when the Roman Empire began to peak and ultimately decay.</p></li><li><strong>Definition 2:</strong> To rise or extend into a peak or point; to form, or appear as, a peak.</li><li><strong>Definition 3:</strong> To raise the point of (a gaff) closer to perpendicular.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become sick or wan.</li><li><strong>Definition 2:</strong> To acquire sharpness of figure or features; hence, to look thin or sickly.</li><li><strong>Definition 3:</strong> To pry; to peep slyly.</li></ul></div></div>"
+description: Yes, PEAKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- beaks
+- leaks
+- meaks
+- peags
+- peake
+- peaky
+- peals
+- peans
+- pears
+- peats
+- pecks
+- peeks
+anagrams:
+- speak
+- spake
+trap:
+  pattern: _EAKS
+  count: 6
+phonetic: "/piːks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A point; the sharp end or top of anything that terminates in a point; as,
+      the peak, or front, of a cap.
+  - text: The highest value reached by some quantity in a time period.
+    example: The stock market reached a peak in September 1929.
+  - text: The top, or one of the tops, of a hill, mountain, or range, ending in a
+      point.
+    example: They reached the peak after 8 hours of climbing.
+  - text: The whole hill or mountain, especially when isolated.
+  - text: The upper aftermost corner of a fore-and-aft sail.
+    example: peak-brails
+  - text: The narrow part of a vessel's bow, or the hold within it.
+  - text: The extremity of an anchor fluke; the bill.
+  - text: A local maximum of a function, e.g. for sine waves, each point at which
+      the value of y is at its maximum.
+- pos: verb
+  defs:
+  - text: To reach a highest degree or maximum.
+    example: Historians argue about when the Roman Empire began to peak and ultimately
+      decay.
+  - text: To rise or extend into a peak or point; to form, or appear as, a peak.
+  - text: To raise the point of (a gaff) closer to perpendicular.
+- pos: verb
+  defs:
+  - text: To become sick or wan.
+  - text: To acquire sharpness of figure or features; hence, to look thin or sickly.
+  - text: To pry; to peep slyly.
 ---
-

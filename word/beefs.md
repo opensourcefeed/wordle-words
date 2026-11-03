@@ -1,7 +1,55 @@
 ---
 layout: word
-title: beefs
+title: Is BEEFS a Wordle Word?
+head_title: Is BEEFS a Wordle Word? Yes – Valid Guess & Meaning
 word: beefs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The meat from a cow, bull or other bovine.<p><strong>Example:</strong> I love eating beef.</p></li><li><strong>Definition 2:</strong> (plural: beefs) A grudge; dislike (of something or someone); lack of faith or trust (in something or someone); a reason for a dislike or grudge. (often + with)<p><strong>Example:</strong> He's got a beef with everyone in the room.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To complain.</li><li><strong>Definition 2:</strong> To add weight or strength to; to beef up.</li><li><strong>Definition 3:</strong> To fart; break wind.<p><strong>Example:</strong> Ugh, who just beefed in here?</p></li><li><strong>Definition 4:</strong> To feud or hold a grudge against.<p><strong>Example:</strong> Those two are beefing right now - best you stay out of it for now.</p></li><li><strong>Definition 5:</strong> To cry<p><strong>Example:</strong> David was beefing last night after Ruth told him off</p></li><li><strong>Definition 6:</strong> To fail or mess up.<p><strong>Example:</strong> I beefed my presentation hard yesterday.</p></li></ul></div></div>"
+description: Yes, BEEFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- beefy
+- beeps
+- beers
+- beets
+- keefs
+- neefs
+- reefs
+anagrams:
+- feebs
+definitions:
+- pos: noun
+  defs:
+  - text: The meat from a cow, bull or other bovine.
+    example: I love eating beef.
+  - text: "(plural: beefs) A grudge; dislike (of something or someone); lack of faith
+      or trust (in something or someone); a reason for a dislike or grudge. (often
+      + with)"
+    example: He's got a beef with everyone in the room.
+- pos: verb
+  defs:
+  - text: To complain.
+  - text: To add weight or strength to; to beef up.
+  - text: To fart; break wind.
+    example: Ugh, who just beefed in here?
+  - text: To feud or hold a grudge against.
+    example: Those two are beefing right now - best you stay out of it for now.
+  - text: To cry
+    example: David was beefing last night after Ruth told him off
+  - text: To fail or mess up.
+    example: I beefed my presentation hard yesterday.
 ---
-

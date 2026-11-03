@@ -1,7 +1,132 @@
 ---
 layout: word
-title: going
+title: Is GOING a Wordle Word?
+head_title: 'Is GOING a Wordle Word? Yes – Past Answer #1249 & Meaning'
 word: going
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡəʊɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move:</li><li><strong>Definition 2:</strong> (chiefly of a machine) To work or function (properly); to move or perform (as required).<p><strong>Example:</strong> The engine just won't go anymore.</p></li><li><strong>Definition 3:</strong> To start; to begin (an action or process).<p><strong>Example:</strong> Get ready, get set, go!</p></li><li><strong>Definition 4:</strong> To take a turn, especially in a game.<p><strong>Example:</strong> It’s your turn; go.</p></li><li><strong>Definition 5:</strong> To attend.<p><strong>Example:</strong> I go to school at the schoolhouse.</p></li><li><strong>Definition 6:</strong> To proceed:</li><li><strong>Definition 7:</strong> To follow or travel along (a path):</li><li><strong>Definition 8:</strong> To extend (from one point in time or space to another).<p><strong>Example:</strong> This property goes all the way to the state line.</p></li><li><strong>Definition 9:</strong> To lead (to a place); to give access to.<p><strong>Example:</strong> Does this road go to Fort Smith?</p></li><li><strong>Definition 10:</strong> To become. (The adjective that follows usually describes a negative state.)<p><strong>Example:</strong> After failing as a criminal, he decided to go straight.</p></li><li><strong>Definition 11:</strong> To assume the obligation or function of; to be, to serve as.</li><li><strong>Definition 12:</strong> To continuously or habitually be in a state.<p><strong>Example:</strong> I don't want my children to go hungry.</p></li><li><strong>Definition 13:</strong> To come to (a certain condition or state).<p><strong>Example:</strong> They went into debt, she goes to sleep around 10 o'clock.</p></li><li><strong>Definition 14:</strong> To change (from one value to another) in the meaning of wend.<p><strong>Example:</strong> The traffic light went straight from green to red.</p></li><li><strong>Definition 15:</strong> To turn out, to result; to come to (a certain result).<p><strong>Example:</strong> How did your meeting with Smith go?</p></li><li><strong>Definition 16:</strong> To tend (toward a result).<p><strong>Example:</strong> These experiences go to make us stronger.</p></li><li><strong>Definition 17:</strong> To contribute to a (specified) end product or result.<p><strong>Example:</strong> qualities that go to make a lady / lip-reader / sharpshooter</p></li><li><strong>Definition 18:</strong> To pass, to be used up:</li><li><strong>Definition 19:</strong> To die.</li><li><strong>Definition 20:</strong> To be discarded.<p><strong>Example:</strong> This chair has got to go.</p></li><li><strong>Definition 21:</strong> To be lost or out:</li><li><strong>Definition 22:</strong> To break down or apart:</li><li><strong>Definition 23:</strong> To be sold.<p><strong>Example:</strong> Everything must go.</p></li><li><strong>Definition 24:</strong> To be given, especially to be assigned or allotted.<p><strong>Example:</strong> The award went to Steven Spielberg.</p></li><li><strong>Definition 25:</strong> To survive or get by; to last or persist for a stated length of time.<p><strong>Example:</strong> Can you two go twenty minutes without arguing?!</p></li><li><strong>Definition 26:</strong> To have a certain record.<p><strong>Example:</strong> The team is going five in a row.</p></li><li><strong>Definition 27:</strong> To be authoritative, accepted, or valid:</li><li><strong>Definition 28:</strong> To say (something), to make a sound:</li><li><strong>Definition 29:</strong> To be expressed or composed (a certain way).<p><strong>Example:</strong> As the story goes, he got the idea for the song while sitting in traffic.</p></li><li><strong>Definition 30:</strong> To resort (to).<p><strong>Example:</strong> I'll go to court if I have to.</p></li><li><strong>Definition 31:</strong> To apply or subject oneself to:</li><li><strong>Definition 32:</strong> To fit (in a place, or together with something):</li><li><strong>Definition 33:</strong> To date.<p><strong>Example:</strong> He's been going with her for two weeks.</p></li><li><strong>Definition 34:</strong> To attack:</li><li><strong>Definition 35:</strong> To be in general; to be usually.<p><strong>Example:</strong> As sentences go, this one is pretty boring.</p></li><li><strong>Definition 36:</strong> To take (a particular part or share); to participate in to the extent of.<p><strong>Example:</strong> Let's go halves on this.</p></li><li><strong>Definition 37:</strong> To yield or weigh.<p><strong>Example:</strong> Those babies go five tons apiece.</p></li><li><strong>Definition 38:</strong> To offer, bid or bet an amount; to pay.<p><strong>Example:</strong> I'll go a ten-spot.</p></li><li><strong>Definition 39:</strong> To enjoy. (Compare go for.)<p><strong>Example:</strong> I could go a beer right about now.</p></li><li><strong>Definition 40:</strong> To urinate or defecate.<p><strong>Example:</strong> Have you managed to go today, Mrs. Miggins?</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A departure.<p><strong>Example:</strong> Thy going is not lonely, with thee goes thy Husband</p></li><li><strong>Definition 2:</strong> The suitability of ground for riding, walking etc.<p><strong>Example:</strong> The going was very difficult over the ice.</p></li><li><strong>Definition 3:</strong> Progress.<p><strong>Example:</strong> We made good going for a while, but then we came to the price.</p></li><li><strong>Definition 4:</strong> Conditions for advancing in any way.<p><strong>Example:</strong> Not only were the streets not paved with gold, but the going was difficult for an immigrant.</p></li><li><strong>Definition 5:</strong> Pregnancy; gestation; childbearing</li><li><strong>Definition 6:</strong> (in the plural) Course of life; behaviour; doings; ways.</li><li><strong>Definition 7:</strong> (in the phrase \"the going of\") The whereabouts (of something).<p><strong>Example:</strong> I can't find my sunglasses; you haven't seen the going of them, have you?</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Likely to continue; viable.<p><strong>Example:</strong> He didn't want to make an unsecured loan to the business because it didn't look like a going concern.</p></li><li><strong>Definition 2:</strong> Current, prevailing.<p><strong>Example:</strong> The going rate for manual snow-shoveling is $25 an hour.</p></li><li><strong>Definition 3:</strong> (especially after a noun phrase with a superlative) Available.<p><strong>Example:</strong> He has the easiest job going.</p></li></ul></div></div>"
+description: Yes, GOING is a valid Wordle word. It was the Wordle answer on November
+  19, 2024 (#1249). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 19, 2024 (#1249).
+past_answers:
+- date: '2024-11-19'
+  number: 1249
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- doing
+- boing
+- hoing
+- toing
+anagrams:
+- oggin
+phonetic: "/ˈɡəʊɪŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: 'To move:'
+  - text: "(chiefly of a machine) To work or function (properly); to move or perform
+      (as required)."
+    example: The engine just won't go anymore.
+  - text: To start; to begin (an action or process).
+    example: Get ready, get set, go!
+  - text: To take a turn, especially in a game.
+    example: It’s your turn; go.
+  - text: To attend.
+    example: I go to school at the schoolhouse.
+  - text: 'To proceed:'
+  - text: 'To follow or travel along (a path):'
+  - text: To extend (from one point in time or space to another).
+    example: This property goes all the way to the state line.
+  - text: To lead (to a place); to give access to.
+    example: Does this road go to Fort Smith?
+  - text: To become. (The adjective that follows usually describes a negative state.)
+    example: After failing as a criminal, he decided to go straight.
+  - text: To assume the obligation or function of; to be, to serve as.
+  - text: To continuously or habitually be in a state.
+    example: I don't want my children to go hungry.
+  - text: To come to (a certain condition or state).
+    example: They went into debt, she goes to sleep around 10 o'clock.
+  - text: To change (from one value to another) in the meaning of wend.
+    example: The traffic light went straight from green to red.
+  - text: To turn out, to result; to come to (a certain result).
+    example: How did your meeting with Smith go?
+  - text: To tend (toward a result).
+    example: These experiences go to make us stronger.
+  - text: To contribute to a (specified) end product or result.
+    example: qualities that go to make a lady / lip-reader / sharpshooter
+  - text: 'To pass, to be used up:'
+  - text: To die.
+  - text: To be discarded.
+    example: This chair has got to go.
+  - text: 'To be lost or out:'
+  - text: 'To break down or apart:'
+  - text: To be sold.
+    example: Everything must go.
+  - text: To be given, especially to be assigned or allotted.
+    example: The award went to Steven Spielberg.
+  - text: To survive or get by; to last or persist for a stated length of time.
+    example: Can you two go twenty minutes without arguing?!
+  - text: To have a certain record.
+    example: The team is going five in a row.
+  - text: 'To be authoritative, accepted, or valid:'
+  - text: 'To say (something), to make a sound:'
+  - text: To be expressed or composed (a certain way).
+    example: As the story goes, he got the idea for the song while sitting in traffic.
+  - text: To resort (to).
+    example: I'll go to court if I have to.
+  - text: 'To apply or subject oneself to:'
+  - text: 'To fit (in a place, or together with something):'
+  - text: To date.
+    example: He's been going with her for two weeks.
+  - text: 'To attack:'
+  - text: To be in general; to be usually.
+    example: As sentences go, this one is pretty boring.
+  - text: To take (a particular part or share); to participate in to the extent of.
+    example: Let's go halves on this.
+  - text: To yield or weigh.
+    example: Those babies go five tons apiece.
+  - text: To offer, bid or bet an amount; to pay.
+    example: I'll go a ten-spot.
+  - text: To enjoy. (Compare go for.)
+    example: I could go a beer right about now.
+  - text: To urinate or defecate.
+    example: Have you managed to go today, Mrs. Miggins?
+- pos: noun
+  defs:
+  - text: A departure.
+    example: Thy going is not lonely, with thee goes thy Husband
+  - text: The suitability of ground for riding, walking etc.
+    example: The going was very difficult over the ice.
+  - text: Progress.
+    example: We made good going for a while, but then we came to the price.
+  - text: Conditions for advancing in any way.
+    example: Not only were the streets not paved with gold, but the going was difficult
+      for an immigrant.
+  - text: Pregnancy; gestation; childbearing
+  - text: "(in the plural) Course of life; behaviour; doings; ways."
+  - text: (in the phrase "the going of") The whereabouts (of something).
+    example: I can't find my sunglasses; you haven't seen the going of them, have
+      you?
+- pos: adjective
+  defs:
+  - text: Likely to continue; viable.
+    example: He didn't want to make an unsecured loan to the business because it didn't
+      look like a going concern.
+  - text: Current, prevailing.
+    example: The going rate for manual snow-shoveling is $25 an hour.
+  - text: "(especially after a noun phrase with a superlative) Available."
+    example: He has the easiest job going.
 ---
-

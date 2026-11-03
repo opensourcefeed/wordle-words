@@ -1,7 +1,78 @@
 ---
 layout: word
-title: props
+title: Is PROPS a Wordle Word?
+head_title: Is PROPS a Wordle Word? Yes – Valid Guess & Meaning
 word: props
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An object placed against or under another, to support it; anything that supports.<p><strong>Example:</strong> They stuck a block of wood under it as a prop.</p></li><li><strong>Definition 2:</strong> The player on either side of the hooker in a scrum.</li><li><strong>Definition 3:</strong> One of the seashells in the game of props.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (sometimes figurative) To support or shore up something.<p><strong>Example:</strong> Try using a phone book to prop up the table where the foot is missing.</p></li><li><strong>Definition 2:</strong> To play rugby in the prop position</li><li><strong>Definition 3:</strong> (usually with \"up\" - see prop up) To position the feet of (a person) while sitting, lying down, or reclining so that the knees are elevated at a higher level.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An item placed on a stage or set to create a scene or scenario in which actors perform.<p><strong>Example:</strong> They used the trophy as a prop in the movie.</p></li><li><strong>Definition 2:</strong> An item placed within an advertisement in order to suggest a style of living etc.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The propeller of an aircraft.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To manually start the engine of a propeller-driven aircraft with no electric starter by pulling vigorously on one of the propeller blades using the hands, so that the propeller can catch ignition.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A proposition, especially on an election-day ballot.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Propellant</li></ul></div></div>"
+description: Yes, PROPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- crops
+- drops
+- plops
+- poops
+- praps
+- preps
+- proas
+- probs
+- prods
+- profs
+- progs
+- proms
+trap:
+  pattern: PRO_S
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: An object placed against or under another, to support it; anything that
+      supports.
+    example: They stuck a block of wood under it as a prop.
+  - text: The player on either side of the hooker in a scrum.
+  - text: One of the seashells in the game of props.
+- pos: verb
+  defs:
+  - text: "(sometimes figurative) To support or shore up something."
+    example: Try using a phone book to prop up the table where the foot is missing.
+  - text: To play rugby in the prop position
+  - text: (usually with "up" - see prop up) To position the feet of (a person) while
+      sitting, lying down, or reclining so that the knees are elevated at a higher
+      level.
+- pos: noun
+  defs:
+  - text: An item placed on a stage or set to create a scene or scenario in which
+      actors perform.
+    example: They used the trophy as a prop in the movie.
+  - text: An item placed within an advertisement in order to suggest a style of living
+      etc.
+- pos: noun
+  defs:
+  - text: The propeller of an aircraft.
+- pos: verb
+  defs:
+  - text: To manually start the engine of a propeller-driven aircraft with no electric
+      starter by pulling vigorously on one of the propeller blades using the hands,
+      so that the propeller can catch ignition.
+- pos: noun
+  defs:
+  - text: A proposition, especially on an election-day ballot.
+- pos: noun
+  defs:
+  - text: Propellant
 ---
-

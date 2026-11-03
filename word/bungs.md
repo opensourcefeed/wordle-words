@@ -1,7 +1,56 @@
 ---
 layout: word
-title: bungs
+title: Is BUNGS a Wordle Word?
+head_title: Is BUNGS a Wordle Word? Yes – Valid Guess & Meaning
 word: bungs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stopper, alternative to a cork, often made of rubber used to prevent fluid passing through the neck of a bottle, vat, a hole in a vessel etc.</li><li><strong>Definition 2:</strong> A cecum or anus, especially of a slaughter animal.</li><li><strong>Definition 3:</strong> A bribe.</li><li><strong>Definition 4:</strong> The orifice in the bilge of a cask through which it is filled; bunghole.</li><li><strong>Definition 5:</strong> A sharper or pickpocket.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To plug, as with a bung.</li><li><strong>Definition 2:</strong> To put or throw somewhere without care; to chuck.</li><li><strong>Definition 3:</strong> To batter, bruise; to cause to bulge or swell.</li><li><strong>Definition 4:</strong> To pass a bribe.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (thieves' cant) A purse.</li></ul></div></div>"
+description: Yes, BUNGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- bangs
+- bings
+- bongs
+- bunas
+- bunds
+- bungy
+- bunks
+- bunns
+- bunts
+- burgs
+- dungs
+- fungs
+trap:
+  pattern: _UNGS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A stopper, alternative to a cork, often made of rubber used to prevent fluid
+      passing through the neck of a bottle, vat, a hole in a vessel etc.
+  - text: A cecum or anus, especially of a slaughter animal.
+  - text: A bribe.
+  - text: The orifice in the bilge of a cask through which it is filled; bunghole.
+  - text: A sharper or pickpocket.
+- pos: verb
+  defs:
+  - text: To plug, as with a bung.
+  - text: To put or throw somewhere without care; to chuck.
+  - text: To batter, bruise; to cause to bulge or swell.
+  - text: To pass a bribe.
+- pos: noun
+  defs:
+  - text: "(thieves' cant) A purse."
 ---
-

@@ -1,7 +1,31 @@
 ---
 layout: word
-title: hymns
+title: Is HYMNS a Wordle Word?
+head_title: Is HYMNS a Wordle Word? Yes – Valid Guess & Meaning
 word: hymns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A song of praise or worship.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sing a hymn.</li><li><strong>Definition 2:</strong> To praise or extol in hymns.</li></ul></div></div>"
+description: Yes, HYMNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels: []
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 80
+neighbours:
+- hyens
+definitions:
+- pos: noun
+  defs:
+  - text: A song of praise or worship.
+- pos: verb
+  defs:
+  - text: To sing a hymn.
+  - text: To praise or extol in hymns.
 ---
-

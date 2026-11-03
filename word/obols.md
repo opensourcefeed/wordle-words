@@ -1,7 +1,39 @@
 ---
 layout: word
-title: obols
+title: Is OBOLS a Wordle Word?
+head_title: Is OBOLS a Wordle Word? Yes – Valid Guess & Meaning
 word: obols
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A silver coin of Ancient Greece.<p><strong>Example:</strong> In Classical Athens, there were six obols to one drachma.</p></li><li><strong>Definition 2:</strong> A weight, equivalent to one sixth of a drachma.</li></ul></div></div>"
+description: Yes, OBOLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- oboes
+- obole
+- oboli
+anagrams:
+- bolos
+- bools
+- lobos
+definitions:
+- pos: noun
+  defs:
+  - text: A silver coin of Ancient Greece.
+    example: In Classical Athens, there were six obols to one drachma.
+  - text: A weight, equivalent to one sixth of a drachma.
 ---
-

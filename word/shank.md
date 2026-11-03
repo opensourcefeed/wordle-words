@@ -1,7 +1,91 @@
 ---
 layout: word
-title: shank
+title: Is SHANK a Wordle Word?
+head_title: 'Is SHANK a Wordle Word? Yes – Past Answer #1032 & Meaning'
 word: shank
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃæŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The part of the leg between the knee and the ankle.</li><li><strong>Definition 2:</strong> Meat from that part of an animal.</li><li><strong>Definition 3:</strong> A redshank or greenshank, various species of Old World wading birds in the genus Tringa having distinctly colored legs.</li><li><strong>Definition 4:</strong> A straight, narrow part of an object, such as a key or an anchor; shaft; stem.</li><li><strong>Definition 5:</strong> The handle of a pair of shears, connecting the ride to the neck.</li><li><strong>Definition 6:</strong> The center part of a fishhook between the eye and the hook, the 'hook' being the curved part that bends toward the point.</li><li><strong>Definition 7:</strong> A protruding part of an object, by which it is or can be attached.</li><li><strong>Definition 8:</strong> The metal part on a curb bit that falls below the mouthpiece, which length controls the severity of the leverage action of the bit, and to which the reins of the bridle are attached.</li><li><strong>Definition 9:</strong> A poorly played golf shot in which the ball is struck by the part of the club head that connects to the shaft.</li><li><strong>Definition 10:</strong> An improvised stabbing weapon; a shiv.</li><li><strong>Definition 11:</strong> A loop forming an eye to a button.</li><li><strong>Definition 12:</strong> The space between two channels of the Doric triglyph.</li><li><strong>Definition 13:</strong> A large ladle for molten metal, fitted with long bars for handling it.</li><li><strong>Definition 14:</strong> The body of a type; between the shoulder and the foot.</li><li><strong>Definition 15:</strong> (shoemaking) The part of the sole beneath the instep connecting the broader front part with the heel.</li><li><strong>Definition 16:</strong> Flat-nosed pliers, used by opticians for nipping off the edges of pieces of glass to make them round.</li><li><strong>Definition 17:</strong> The end or remainder, particularly of a period of time.</li><li><strong>Definition 18:</strong> The main part or beginning of a period of time.<p><strong>Example:</strong> the shank of the morning</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To travel on foot.</li><li><strong>Definition 2:</strong> To stab, especially with an improvised blade.</li><li><strong>Definition 3:</strong> To remove another's trousers, especially in jest; to depants.</li><li><strong>Definition 4:</strong> To misstrike the ball with the part of the club head that connects to the shaft.</li><li><strong>Definition 5:</strong> To hit or kick the ball in an unintended direction.</li><li><strong>Definition 6:</strong> To fall off, as a leaf, flower, or capsule, on account of disease affecting the supporting footstalk; usually followed by off.</li><li><strong>Definition 7:</strong> To provide (a button) with a shank (loop forming an eye).</li><li><strong>Definition 8:</strong> (shoemaking) To apply the shank to a shoe, during the process of manufacturing it.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Bad.</li></ul></div></div>"
+description: Yes, SHANK is a valid Wordle word. It was the Wordle answer on April
+  16, 2024 (#1032). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 16, 2024 (#1032).
+past_answers:
+- date: '2024-04-16'
+  number: 1032
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- shack
+- shark
+- spank
+- stank
+- thank
+- chank
+- shand
+- shans
+- shonk
+- slank
+- swank
+anagrams:
+- ankhs
+- hanks
+- khans
+trap:
+  pattern: S_ANK
+  count: 6
+phonetic: "/ʃæŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The part of the leg between the knee and the ankle.
+  - text: Meat from that part of an animal.
+  - text: A redshank or greenshank, various species of Old World wading birds in the
+      genus Tringa having distinctly colored legs.
+  - text: A straight, narrow part of an object, such as a key or an anchor; shaft;
+      stem.
+  - text: The handle of a pair of shears, connecting the ride to the neck.
+  - text: The center part of a fishhook between the eye and the hook, the 'hook' being
+      the curved part that bends toward the point.
+  - text: A protruding part of an object, by which it is or can be attached.
+  - text: The metal part on a curb bit that falls below the mouthpiece, which length
+      controls the severity of the leverage action of the bit, and to which the reins
+      of the bridle are attached.
+  - text: A poorly played golf shot in which the ball is struck by the part of the
+      club head that connects to the shaft.
+  - text: An improvised stabbing weapon; a shiv.
+  - text: A loop forming an eye to a button.
+  - text: The space between two channels of the Doric triglyph.
+  - text: A large ladle for molten metal, fitted with long bars for handling it.
+  - text: The body of a type; between the shoulder and the foot.
+  - text: "(shoemaking) The part of the sole beneath the instep connecting the broader
+      front part with the heel."
+  - text: Flat-nosed pliers, used by opticians for nipping off the edges of pieces
+      of glass to make them round.
+  - text: The end or remainder, particularly of a period of time.
+  - text: The main part or beginning of a period of time.
+    example: the shank of the morning
+- pos: verb
+  defs:
+  - text: To travel on foot.
+  - text: To stab, especially with an improvised blade.
+  - text: To remove another's trousers, especially in jest; to depants.
+  - text: To misstrike the ball with the part of the club head that connects to the
+      shaft.
+  - text: To hit or kick the ball in an unintended direction.
+  - text: To fall off, as a leaf, flower, or capsule, on account of disease affecting
+      the supporting footstalk; usually followed by off.
+  - text: To provide (a button) with a shank (loop forming an eye).
+  - text: "(shoemaking) To apply the shank to a shoe, during the process of manufacturing
+      it."
+- pos: adjective
+  defs:
+  - text: Bad.
 ---
-

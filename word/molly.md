@@ -1,7 +1,53 @@
 ---
 layout: word
-title: molly
+title: Is MOLLY a Wordle Word?
+head_title: Is MOLLY a Wordle Word? Yes – Valid Guess & Meaning
 word: molly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A woman or girl, especially of low status.</li><li><strong>Definition 2:</strong> An effeminate male, a male homosexual.</li><li><strong>Definition 3:</strong> Pure MDMA powder.</li><li><strong>Definition 4:</strong> A mollemoke.</li><li><strong>Definition 5:</strong> A female cat, a she-cat (usually spayed)</li><li><strong>Definition 6:</strong> A bird, the wagtail.</li><li><strong>Definition 7:</strong> A molly bolt.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To engage in (male) homosexual activity with.</li></ul></div></div>"
+description: Yes, MOLLY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- dolly
+- folly
+- golly
+- holly
+- jolly
+- moldy
+- colly
+- lolly
+- milly
+- moley
+- molla
+- molle
+trap:
+  pattern: _OLLY
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: A woman or girl, especially of low status.
+  - text: An effeminate male, a male homosexual.
+  - text: Pure MDMA powder.
+  - text: A mollemoke.
+  - text: A female cat, a she-cat (usually spayed)
+  - text: A bird, the wagtail.
+  - text: A molly bolt.
+- pos: verb
+  defs:
+  - text: To engage in (male) homosexual activity with.
 ---
-

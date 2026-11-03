@@ -1,7 +1,47 @@
 ---
 layout: word
-title: rebut
+title: Is REBUT a Wordle Word?
+head_title: 'Is REBUT a Wordle Word? Yes – Past Answer #1 & Meaning'
 word: rebut
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪ.ˈbʌt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drive back or beat back; to repulse.</li><li><strong>Definition 2:</strong> To deny the truth of something, especially by presenting arguments that disprove it.</li></ul></div></div>"
+description: Yes, REBUT is a valid Wordle word. It was the Wordle answer on June 20,
+  2021 (#1). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 20, 2021 (#1).
+past_answers:
+- date: '2021-06-20'
+  number: 1
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- debut
+- rebus
+- recut
+- rebit
+- rebud
+- rebuy
+- reput
+anagrams:
+- brute
+- tuber
+- buret
+phonetic: "/ɹɪ.ˈbʌt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To drive back or beat back; to repulse.
+  - text: To deny the truth of something, especially by presenting arguments that
+      disprove it.
 ---
-

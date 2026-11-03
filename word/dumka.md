@@ -1,7 +1,31 @@
 ---
 layout: word
-title: dumka
+title: Is DUMKA a Wordle Word?
+head_title: Is DUMKA a Wordle Word? Yes – Valid Guess & Meaning
 word: dumka
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A genre of instrumental folk music from Ukraine.</li><li><strong>Definition 2:</strong> An individual composition in this genre.</li></ul></div></div>"
+description: Yes, DUMKA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- dukka
+- dumky
+definitions:
+- pos: noun
+  defs:
+  - text: A genre of instrumental folk music from Ukraine.
+  - text: An individual composition in this genre.
 ---
-

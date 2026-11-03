@@ -1,7 +1,76 @@
 ---
 layout: word
-title: baits
+title: Is BAITS a Wordle Word?
+head_title: Is BAITS a Wordle Word? Yes – Valid Guess & Meaning
 word: baits
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /beɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any substance, especially food, used in catching fish, or other animals, by alluring them to a hook, snare, trap, or net.</li><li><strong>Definition 2:</strong> Food containing poison or a harmful additive to kill animals that are pests.</li><li><strong>Definition 3:</strong> Anything which allures; something used to lure or entice someone or something into doing something</li><li><strong>Definition 4:</strong> A portion of food or drink, as a refreshment taken on a journey; also, a stop for rest and refreshment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attract with bait; to entice.</li><li><strong>Definition 2:</strong> To affix bait to a trap or a fishing hook or fishing line.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To set dogs on (an animal etc.) to bite or worry; to attack with dogs, especially for sport.<p><strong>Example:</strong> to bait a bear with dogs;  to bait a bull</p></li><li><strong>Definition 2:</strong> To intentionally annoy, torment, or threaten by constant rebukes or threats; to harass.</li><li><strong>Definition 3:</strong> To feed and water (a horse or other animal), especially during a journey.</li><li><strong>Definition 4:</strong> (of a horse or other animal) To take food, especially during a journey.</li><li><strong>Definition 5:</strong> (of a person) To stop to take a portion of food and drink for refreshment during a journey.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flap the wings; to flutter as if to fly; or to hover, as a hawk when she stoops to her prey.</li></ul></div></div>"
+description: Yes, BAITS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- bafts
+- bahts
+- baiks
+- bails
+- baith
+- bants
+- basts
+- batts
+- bayts
+- blits
+- brits
+- gaits
+anagrams:
+- absit
+- basti
+- tabis
+trap:
+  pattern: BA_TS
+  count: 7
+phonetic: "/beɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any substance, especially food, used in catching fish, or other animals,
+      by alluring them to a hook, snare, trap, or net.
+  - text: Food containing poison or a harmful additive to kill animals that are pests.
+  - text: Anything which allures; something used to lure or entice someone or something
+      into doing something
+  - text: A portion of food or drink, as a refreshment taken on a journey; also, a
+      stop for rest and refreshment.
+- pos: verb
+  defs:
+  - text: To attract with bait; to entice.
+  - text: To affix bait to a trap or a fishing hook or fishing line.
+- pos: verb
+  defs:
+  - text: To set dogs on (an animal etc.) to bite or worry; to attack with dogs, especially
+      for sport.
+    example: to bait a bear with dogs;  to bait a bull
+  - text: To intentionally annoy, torment, or threaten by constant rebukes or threats;
+      to harass.
+  - text: To feed and water (a horse or other animal), especially during a journey.
+  - text: "(of a horse or other animal) To take food, especially during a journey."
+  - text: "(of a person) To stop to take a portion of food and drink for refreshment
+      during a journey."
+- pos: verb
+  defs:
+  - text: To flap the wings; to flutter as if to fly; or to hover, as a hawk when
+      she stoops to her prey.
 ---
-

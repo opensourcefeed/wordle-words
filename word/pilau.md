@@ -1,7 +1,42 @@
 ---
 layout: word
-title: pilau
+title: Is PILAU a Wordle Word?
+head_title: Is PILAU a Wordle Word? Yes – Valid Guess & Meaning
 word: pilau
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dish made by browning grain, typically rice, in oil and then cooking it with a seasoned broth, to which meat and/or vegetables may be added.</li></ul></div></div>"
+description: Yes, PILAU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- pelau
+- pikau
+- pilae
+- pilaf
+- pilao
+- pilar
+- pilaw
+trap:
+  pattern: PILA_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A dish made by browning grain, typically rice, in oil and then cooking it
+      with a seasoned broth, to which meat and/or vegetables may be added.
 ---
-

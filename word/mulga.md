@@ -1,7 +1,41 @@
 ---
 layout: word
-title: mulga
+title: Is MULGA a Wordle Word?
+head_title: Is MULGA a Wordle Word? Yes – Valid Guess & Meaning
 word: mulga
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈməʉlɡə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of a number of small acacia trees, especially Acacia aneura, forming dense scrub in dry inland areas of Australia.</li><li><strong>Definition 2:</strong> (in combination) The outback.</li><li><strong>Definition 3:</strong> Something made from the wood of a mulga tree.</li><li><strong>Definition 4:</strong> A mulga wire.</li></ul></div></div>"
+description: Yes, MULGA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- mugga
+- mulla
+- munga
+anagrams:
+- algum
+- almug
+- glaum
+phonetic: "/ˈməʉlɡə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a number of small acacia trees, especially Acacia aneura, forming
+      dense scrub in dry inland areas of Australia.
+  - text: "(in combination) The outback."
+  - text: Something made from the wood of a mulga tree.
+  - text: A mulga wire.
 ---
-

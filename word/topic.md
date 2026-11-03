@@ -1,7 +1,50 @@
 ---
 layout: word
-title: topic
+title: Is TOPIC a Wordle Word?
+head_title: 'Is TOPIC a Wordle Word? Yes – Past Answer #909 & Meaning'
 word: topic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtɒpɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Subject; theme; a category or general area of interest.<p><strong>Example:</strong> A society where a topic cannot be discussed, does not have free speech.</p></li><li><strong>Definition 2:</strong> Discussion thread.</li><li><strong>Definition 3:</strong> A musical sign intended to suggest a particular style or genre.</li><li><strong>Definition 4:</strong> An argument or reason.</li><li><strong>Definition 5:</strong> An external local application or remedy, such as a plaster, a blister, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Topical</li></ul></div></div>"
+description: Yes, TOPIC is a valid Wordle word. It was the Wordle answer on December
+  15, 2023 (#909). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 15, 2023 (#909).
+past_answers:
+- date: '2023-12-15'
+  number: 909
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- tonic
+- toxic
+- topis
+- toric
+- typic
+anagrams:
+- optic
+- picot
+phonetic: "/ˈtɒpɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: Subject; theme; a category or general area of interest.
+    example: A society where a topic cannot be discussed, does not have free speech.
+  - text: Discussion thread.
+  - text: A musical sign intended to suggest a particular style or genre.
+  - text: An argument or reason.
+  - text: An external local application or remedy, such as a plaster, a blister, etc.
+- pos: adjective
+  defs:
+  - text: Topical
 ---
-

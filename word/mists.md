@@ -1,7 +1,63 @@
 ---
 layout: word
-title: mists
+title: Is MISTS a Wordle Word?
+head_title: Is MISTS a Wordle Word? Yes – Valid Guess & Meaning
 word: mists
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɪsts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Water or other liquid finely suspended in air.<p><strong>Example:</strong> It was difficult to see through the morning mist.</p></li><li><strong>Definition 2:</strong> A layer of fine droplets or particles.<p><strong>Example:</strong> There was an oily mist on the lens.</p></li><li><strong>Definition 3:</strong> Anything that dims, darkens, or hinders vision.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form mist.<p><strong>Example:</strong> It's misting this morning.</p></li><li><strong>Definition 2:</strong> To spray fine droplets on, particularly of water.<p><strong>Example:</strong> I mist my tropical plants every morning.</p></li><li><strong>Definition 3:</strong> To cover with a mist.<p><strong>Example:</strong> The lens was misted.</p></li><li><strong>Definition 4:</strong> (of the eyes) To be covered by tears.<p><strong>Example:</strong> My eyes misted when I remembered what had happened.</p></li></ul></div></div>"
+description: Yes, MISTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- cists
+- fists
+- gists
+- hists
+- kists
+- lists
+- masts
+- milts
+- mints
+- mises
+- misls
+- misos
+anagrams:
+- smits
+- stims
+trap:
+  pattern: _ISTS
+  count: 10
+phonetic: "/mɪsts/"
+definitions:
+- pos: noun
+  defs:
+  - text: Water or other liquid finely suspended in air.
+    example: It was difficult to see through the morning mist.
+  - text: A layer of fine droplets or particles.
+    example: There was an oily mist on the lens.
+  - text: Anything that dims, darkens, or hinders vision.
+- pos: verb
+  defs:
+  - text: To form mist.
+    example: It's misting this morning.
+  - text: To spray fine droplets on, particularly of water.
+    example: I mist my tropical plants every morning.
+  - text: To cover with a mist.
+    example: The lens was misted.
+  - text: "(of the eyes) To be covered by tears."
+    example: My eyes misted when I remembered what had happened.
 ---
-

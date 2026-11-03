@@ -1,7 +1,55 @@
 ---
 layout: word
-title: churn
+title: Is CHURN a Wordle Word?
+head_title: 'Is CHURN a Wordle Word? Yes – Past Answer #1856 & Meaning'
 word: churn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃɜː(ɹ)n/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vessel used for churning, especially for producing butter.<p><strong>Example:</strong> a butter churn</p></li><li><strong>Definition 2:</strong> Customer attrition; the phenomenon or rate of customers leaving a company.</li><li><strong>Definition 3:</strong> The time when a consumer switches his/her service provider.</li><li><strong>Definition 4:</strong> The mass of people who are ready to switch carriers.</li><li><strong>Definition 5:</strong> Cyclic activity that achieves nothing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To agitate rapidly and repetitively, or to stir with a rowing or rocking motion; generally applies to liquids, notably cream.<p><strong>Example:</strong> Now the cream is churned to make butter.</p></li><li><strong>Definition 2:</strong> To produce excessive and sometimes undesirable or unproductive activity or motion.</li><li><strong>Definition 3:</strong> To move rapidly and repetitively with a rocking motion; to tumble, mix or shake.<p><strong>Example:</strong> I was so nervous that my stomach was churning.</p></li><li><strong>Definition 4:</strong> (of a customer) To stop using a company's product or service.</li><li><strong>Definition 5:</strong> (travel) To repeatedly cancel and rebook a reservation in order to refresh ticket time limits or other fare rule restrictions.</li><li><strong>Definition 6:</strong> (travel) To continually sign up for new credit cards in order to earn signup bonuses, airline miles, and other benefits.</li></ul></div></div>"
+description: Yes, CHURN is a valid Wordle word. It was the Wordle answer on July 19,
+  2026 (#1856). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 19, 2026 (#1856).
+past_answers:
+- date: '2026-07-19'
+  number: 1856
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- churl
+- churr
+anagrams:
+- runch
+phonetic: "/tʃɜː(ɹ)n/"
+definitions:
+- pos: noun
+  defs:
+  - text: A vessel used for churning, especially for producing butter.
+    example: a butter churn
+  - text: Customer attrition; the phenomenon or rate of customers leaving a company.
+  - text: The time when a consumer switches his/her service provider.
+  - text: The mass of people who are ready to switch carriers.
+  - text: Cyclic activity that achieves nothing.
+- pos: verb
+  defs:
+  - text: To agitate rapidly and repetitively, or to stir with a rowing or rocking
+      motion; generally applies to liquids, notably cream.
+    example: Now the cream is churned to make butter.
+  - text: To produce excessive and sometimes undesirable or unproductive activity
+      or motion.
+  - text: To move rapidly and repetitively with a rocking motion; to tumble, mix or
+      shake.
+    example: I was so nervous that my stomach was churning.
+  - text: "(of a customer) To stop using a company's product or service."
+  - text: "(travel) To repeatedly cancel and rebook a reservation in order to refresh
+      ticket time limits or other fare rule restrictions."
+  - text: "(travel) To continually sign up for new credit cards in order to earn signup
+      bonuses, airline miles, and other benefits."
 ---
-

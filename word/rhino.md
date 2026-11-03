@@ -1,7 +1,35 @@
 ---
 layout: word
-title: rhino
+title: Is RHINO a Wordle Word?
+head_title: 'Is RHINO a Wordle Word? Yes – Past Answer #173 & Meaning'
 word: rhino
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rhinoceros.</li></ul></div></div>"
+description: Yes, RHINO is a valid Wordle word. It was the Wordle answer on December
+  9, 2021 (#173). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 9, 2021 (#173).
+past_answers:
+- date: '2021-12-09'
+  number: 173
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- chino
+- rhine
+definitions:
+- pos: noun
+  defs:
+  - text: A rhinoceros.
 ---
-

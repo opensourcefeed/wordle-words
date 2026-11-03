@@ -1,7 +1,68 @@
 ---
 layout: word
-title: mince
+title: Is MINCE a Wordle Word?
+head_title: 'Is MINCE a Wordle Word? Yes – Past Answer #299 & Meaning'
 word: mince
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɪns/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Finely chopped meat.</li><li><strong>Definition 2:</strong> Finely chopped mixed fruit used in Christmas pies; mincemeat.<p><strong>Example:</strong> During Christmas time my dad loves to eat mince pies.</p></li><li><strong>Definition 3:</strong> An affected (often dainty or short and precise) gait.</li><li><strong>Definition 4:</strong> An affected manner, especially of speaking; an affectation.</li><li><strong>Definition 5:</strong> (chiefly in the plural) An eye (from mince pie).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make less; make small.</li><li><strong>Definition 2:</strong> To lessen; diminish; to diminish in speaking; speak of lightly or slightingly; minimise.</li><li><strong>Definition 3:</strong> To effect mincingly.</li><li><strong>Definition 4:</strong> To cut into very small pieces; to chop fine.<p><strong>Example:</strong> Butchers often use machines to mince meat.</p></li><li><strong>Definition 5:</strong> To suppress or weaken the force of</li><li><strong>Definition 6:</strong> To say or utter vaguely, not directly or frankly<p><strong>Example:</strong> a minced oath</p></li><li><strong>Definition 7:</strong> To affect; to pronounce affectedly or with an accent.</li><li><strong>Definition 8:</strong> To walk with short steps; to walk in a prim, affected manner.</li><li><strong>Definition 9:</strong> To act or talk with affected nicety; to affect delicacy in manner.<p><strong>Example:</strong> I love going to gay bars and seeing drag queens mince around on stage.</p></li></ul></div></div>"
+description: Yes, MINCE is a valid Wordle word. It was the Wordle answer on April
+  14, 2022 (#299). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 14, 2022 (#299).
+past_answers:
+- date: '2022-04-14'
+  number: 299
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- since
+- wince
+- mence
+- minae
+- mincy
+- minke
+- minse
+- pince
+- rince
+- yince
+anagrams:
+- nemic
+trap:
+  pattern: _INCE
+  count: 6
+phonetic: "/mɪns/"
+definitions:
+- pos: noun
+  defs:
+  - text: Finely chopped meat.
+  - text: Finely chopped mixed fruit used in Christmas pies; mincemeat.
+    example: During Christmas time my dad loves to eat mince pies.
+  - text: An affected (often dainty or short and precise) gait.
+  - text: An affected manner, especially of speaking; an affectation.
+  - text: "(chiefly in the plural) An eye (from mince pie)."
+- pos: verb
+  defs:
+  - text: To make less; make small.
+  - text: To lessen; diminish; to diminish in speaking; speak of lightly or slightingly;
+      minimise.
+  - text: To effect mincingly.
+  - text: To cut into very small pieces; to chop fine.
+    example: Butchers often use machines to mince meat.
+  - text: To suppress or weaken the force of
+  - text: To say or utter vaguely, not directly or frankly
+    example: a minced oath
+  - text: To affect; to pronounce affectedly or with an accent.
+  - text: To walk with short steps; to walk in a prim, affected manner.
+  - text: To act or talk with affected nicety; to affect delicacy in manner.
+    example: I love going to gay bars and seeing drag queens mince around on stage.
 ---
-

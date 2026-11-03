@@ -1,7 +1,49 @@
 ---
 layout: word
-title: being
+title: Is BEING a Wordle Word?
+head_title: 'Is BEING a Wordle Word? Yes – Past Answer #332 & Meaning'
 word: being
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbiːɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A living creature.</li><li><strong>Definition 2:</strong> The state or fact of existence, consciousness, or life, or something in such a state.</li><li><strong>Definition 3:</strong> That which has actuality (materially or in concept).</li><li><strong>Definition 4:</strong> One's basic nature, or the qualities thereof; essence or personality.</li><li><strong>Definition 5:</strong> An abode; a cottage.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> conjunction</p><ul><li><strong>Definition 1:</strong> Given that; since.</li></ul></div></div>"
+description: Yes, BEING is a valid Wordle word. It was the Wordle answer on May 17,
+  2022 (#332). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 17, 2022 (#332).
+past_answers:
+- date: '2022-05-17'
+  number: 332
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- bring
+- beins
+- bling
+- boing
+- reing
+anagrams:
+- begin
+- binge
+phonetic: "/ˈbiːɪŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A living creature.
+  - text: The state or fact of existence, consciousness, or life, or something in
+      such a state.
+  - text: That which has actuality (materially or in concept).
+  - text: One's basic nature, or the qualities thereof; essence or personality.
+  - text: An abode; a cottage.
+- pos: conjunction
+  defs:
+  - text: Given that; since.
 ---
-

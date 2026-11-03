@@ -1,7 +1,41 @@
 ---
 layout: word
-title: elute
+title: Is ELUTE a Wordle Word?
+head_title: Is ELUTE a Wordle Word? Yes – Valid Guess & Meaning
 word: elute
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /i.ˈluːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To separate one substance from another by means of a solvent; to wash; to cleanse.<p><strong>Example:</strong> A mixture of isooctane and ethyl acetate can be used to elute triglycerides from a complex lipid solution.</p></li></ul></div></div>"
+description: Yes, ELUTE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- elate
+- elite
+- elude
+- flute
+- glute
+- plute
+phonetic: "/i.ˈluːt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To separate one substance from another by means of a solvent; to wash; to
+      cleanse.
+    example: A mixture of isooctane and ethyl acetate can be used to elute triglycerides
+      from a complex lipid solution.
 ---
-

@@ -1,7 +1,60 @@
 ---
 layout: word
-title: moist
+title: Is MOIST a Wordle Word?
+head_title: 'Is MOIST a Wordle Word? Yes – Past Answer #228 & Meaning'
 word: moist
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /mɔɪst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To moisten.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Slightly wet; characterised by the presence of moisture, not dry; damp.</li><li><strong>Definition 2:</strong> Of eyes: tearful, wet with tears.</li><li><strong>Definition 3:</strong> Of weather, climate etc.: rainy, damp.</li><li><strong>Definition 4:</strong> Pertaining to one of the four essential qualities formerly believed to be present in all things, characterised by wetness.</li><li><strong>Definition 5:</strong> Watery, liquid, fluid.</li><li><strong>Definition 6:</strong> Characterised by the presence of pus, mucus etc.</li><li><strong>Definition 7:</strong> Sexually lubricated (of the vagina); sexually aroused, turned on (of a woman).</li></ul></div></div>"
+description: Yes, MOIST is a valid Wordle word. It was the Wordle answer on February
+  2, 2022 (#228). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 2, 2022 (#228).
+past_answers:
+- date: '2022-02-02'
+  number: 228
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- foist
+- hoist
+- joist
+- maist
+- moust
+- muist
+- roist
+- zoist
+anagrams:
+- misto
+- moits
+- motis
+- omits
+trap:
+  pattern: _OIST
+  count: 6
+phonetic: "/mɔɪst/"
+definitions:
+- pos: verb
+  defs:
+  - text: To moisten.
+- pos: adjective
+  defs:
+  - text: Slightly wet; characterised by the presence of moisture, not dry; damp.
+  - text: 'Of eyes: tearful, wet with tears.'
+  - text: 'Of weather, climate etc.: rainy, damp.'
+  - text: Pertaining to one of the four essential qualities formerly believed to be
+      present in all things, characterised by wetness.
+  - text: Watery, liquid, fluid.
+  - text: Characterised by the presence of pus, mucus etc.
+  - text: Sexually lubricated (of the vagina); sexually aroused, turned on (of a woman).
 ---
-

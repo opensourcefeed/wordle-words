@@ -1,7 +1,38 @@
 ---
 layout: word
-title: plica
+title: Is PLICA a Wordle Word?
+head_title: Is PLICA a Wordle Word? Yes – Valid Guess & Meaning
 word: plica
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fold or crease, especially of skin or other tissue.</li><li><strong>Definition 2:</strong> Polish plait, plica polonica, or plica neuropatica: a disease of the hair in which it becomes twisted and matted together.</li><li><strong>Definition 3:</strong> A diseased state in plants in which there is an excessive development of small entangled twigs, instead of ordinary branches.</li><li><strong>Definition 4:</strong> The bend of the wing of a bird.</li><li><strong>Definition 5:</strong> A neume, in the form of a tail at the end of a ligature, indicating an additional note.</li></ul></div></div>"
+description: Yes, PLICA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+anagrams:
+- pical
+definitions:
+- pos: noun
+  defs:
+  - text: A fold or crease, especially of skin or other tissue.
+  - text: 'Polish plait, plica polonica, or plica neuropatica: a disease of the hair
+      in which it becomes twisted and matted together.'
+  - text: A diseased state in plants in which there is an excessive development of
+      small entangled twigs, instead of ordinary branches.
+  - text: The bend of the wing of a bird.
+  - text: A neume, in the form of a tail at the end of a ligature, indicating an additional
+      note.
 ---
-

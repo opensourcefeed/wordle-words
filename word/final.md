@@ -1,7 +1,57 @@
 ---
 layout: word
-title: final
+title: Is FINAL a Wordle Word?
+head_title: 'Is FINAL a Wordle Word? Yes – Past Answer #933 & Meaning'
 word: final
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfaɪ.nəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A final examination; a test or examination given at the end of a term or class; the test that concludes a class.</li><li><strong>Definition 2:</strong> The last round, game or match in a contest, after which the winner is determined.</li><li><strong>Definition 3:</strong> A contest that narrows a field of contestants (finalists) to ranked positions, usually in numbered places (1st place/prize, 2nd place/prize, etc.) or a winner and numbered runners-up (1st runner-up, etc.).</li><li><strong>Definition 4:</strong> The final part of a syllable, the combination of medial and rime in phonetics and phonology.</li><li><strong>Definition 5:</strong> The tonic or keynote of a Gregorian mode, and hence the final note of any conventional melody played in that mode.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Last; ultimate.<p><strong>Example:</strong> final solution;   the final day of a school term</p></li><li><strong>Definition 2:</strong> Conclusive; decisive.<p><strong>Example:</strong> a final judgment;   the battle of Waterloo brought the contest to a final issue</p></li><li><strong>Definition 3:</strong> Respecting an end or object to be gained; respecting the purpose or ultimate end in view.</li><li><strong>Definition 4:</strong> (grammar) Expressing purpose; as in the term final clause.</li><li><strong>Definition 5:</strong> Word-final, occurring at the end of a word.</li></ul></div></div>"
+description: Yes, FINAL is a valid Wordle word. It was the Wordle answer on January
+  8, 2024 (#933). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 8, 2024 (#933).
+past_answers:
+- date: '2024-01-08'
+  number: 933
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- binal
+- fanal
+- vinal
+phonetic: "/ˈfaɪ.nəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A final examination; a test or examination given at the end of a term or
+      class; the test that concludes a class.
+  - text: The last round, game or match in a contest, after which the winner is determined.
+  - text: A contest that narrows a field of contestants (finalists) to ranked positions,
+      usually in numbered places (1st place/prize, 2nd place/prize, etc.) or a winner
+      and numbered runners-up (1st runner-up, etc.).
+  - text: The final part of a syllable, the combination of medial and rime in phonetics
+      and phonology.
+  - text: The tonic or keynote of a Gregorian mode, and hence the final note of any
+      conventional melody played in that mode.
+- pos: adjective
+  defs:
+  - text: Last; ultimate.
+    example: final solution;   the final day of a school term
+  - text: Conclusive; decisive.
+    example: a final judgment;   the battle of Waterloo brought the contest to a final
+      issue
+  - text: Respecting an end or object to be gained; respecting the purpose or ultimate
+      end in view.
+  - text: "(grammar) Expressing purpose; as in the term final clause."
+  - text: Word-final, occurring at the end of a word.
 ---
-

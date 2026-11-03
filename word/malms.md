@@ -1,7 +1,49 @@
 ---
 layout: word
-title: malms
+title: Is MALMS a Wordle Word?
+head_title: Is MALMS a Wordle Word? Yes – Valid Guess & Meaning
 word: malms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A soft, crumbly, chalky, grayish limestone.</li><li><strong>Definition 2:</strong> An artificial mixture or chalk, clay, and sand, from which bricks are made. The resulting bricks have a light brown or yellowish color.</li></ul></div></div>"
+description: Yes, MALMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - M
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- balms
+- calms
+- halms
+- maims
+- malas
+- males
+- malis
+- malls
+- malmy
+- malts
+- malus
+- marms
+anagrams:
+- smalm
+trap:
+  pattern: MAL_S
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A soft, crumbly, chalky, grayish limestone.
+  - text: An artificial mixture or chalk, clay, and sand, from which bricks are made.
+      The resulting bricks have a light brown or yellowish color.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: hoots
+title: Is HOOTS a Wordle Word?
+head_title: Is HOOTS a Wordle Word? Yes – Valid Guess & Meaning
 word: hoots
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /huːts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A derisive cry or shout.</li><li><strong>Definition 2:</strong> The cry of an owl.</li><li><strong>Definition 3:</strong> A fun event or person. (See hootenanny)</li><li><strong>Definition 4:</strong> A small particle.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cry out or shout in contempt.</li><li><strong>Definition 2:</strong> To make the cry of an owl, a hoo.</li><li><strong>Definition 3:</strong> To assail with contemptuous cries or shouts; to follow with derisive shouts.</li><li><strong>Definition 4:</strong> To sound the horn of a vehicle</li></ul></div></div>"
+description: Yes, HOOTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- boots
+- coots
+- foots
+- holts
+- hoods
+- hoofs
+- hooks
+- hoons
+- hoops
+- hoors
+- hooty
+- hosts
+anagrams:
+- shoot
+- sooth
+- tohos
+trap:
+  pattern: _OOTS
+  count: 10
+phonetic: "/huːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A derisive cry or shout.
+  - text: The cry of an owl.
+  - text: A fun event or person. (See hootenanny)
+  - text: A small particle.
+- pos: verb
+  defs:
+  - text: To cry out or shout in contempt.
+  - text: To make the cry of an owl, a hoo.
+  - text: To assail with contemptuous cries or shouts; to follow with derisive shouts.
+  - text: To sound the horn of a vehicle
 ---
-

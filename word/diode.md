@@ -1,7 +1,33 @@
 ---
 layout: word
-title: diode
+title: Is DIODE a Wordle Word?
+head_title: Is DIODE a Wordle Word? Yes – Possible Answer & Meaning
 word: diode
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪəʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An electronic device that allows current to flow in one direction only; used chiefly as a rectifier.</li></ul></div></div>"
+description: Yes, DIODE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - I
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+phonetic: "/ˈdaɪəʊd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An electronic device that allows current to flow in one direction only;
+      used chiefly as a rectifier.
 ---
-

@@ -1,7 +1,63 @@
 ---
 layout: word
-title: bodes
+title: Is BODES a Wordle Word?
+head_title: Is BODES a Wordle Word? Yes – Valid Guess & Meaning
 word: bodes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bəʊdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An omen; a foreshadowing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To indicate by signs, as future events; to be an omen of; to portend or foretell.</li><li><strong>Definition 2:</strong> (followed by \"well\", \"ill\", \"no good\", etc.) To betoken or augur something good or bad that will happen in the future.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bid; an offer.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A messenger; a herald.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stop; a halting; delay.</li></ul></div></div>"
+description: Yes, BODES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- bedes
+- bides
+- boded
+- bokes
+- boles
+- bones
+- bores
+- botes
+- bowes
+- boxes
+- budes
+- bydes
+anagrams:
+- dobes
+trap:
+  pattern: BO_ES
+  count: 8
+phonetic: "/bəʊdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An omen; a foreshadowing.
+- pos: verb
+  defs:
+  - text: To indicate by signs, as future events; to be an omen of; to portend or
+      foretell.
+  - text: (followed by "well", "ill", "no good", etc.) To betoken or augur something
+      good or bad that will happen in the future.
+- pos: noun
+  defs:
+  - text: A bid; an offer.
+- pos: noun
+  defs:
+  - text: A messenger; a herald.
+- pos: noun
+  defs:
+  - text: A stop; a halting; delay.
 ---
-

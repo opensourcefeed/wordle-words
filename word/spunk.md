@@ -1,7 +1,44 @@
 ---
 layout: word
-title: spunk
+title: Is SPUNK a Wordle Word?
+head_title: Is SPUNK a Wordle Word? Yes – Possible Answer & Meaning
 word: spunk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spʌŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A spark.</li><li><strong>Definition 2:</strong> Touchwood; tinder.</li><li><strong>Definition 3:</strong> A piece of tinder, sometimes impregnated with sulphur; a match.</li><li><strong>Definition 4:</strong> Courage; spirit; mettle; determination.</li><li><strong>Definition 5:</strong> An attractive person (normally male).</li><li><strong>Definition 6:</strong> Semen.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To catch fire; flame up.</li><li><strong>Definition 2:</strong> To ejaculate.<p><strong>Example:</strong> He spunked into the condom.</p></li></ul></div></div>"
+description: Yes, SPUNK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- skunk
+- slunk
+- spank
+- stunk
+- spink
+anagrams:
+- punks
+phonetic: "/spʌŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A spark.
+  - text: Touchwood; tinder.
+  - text: A piece of tinder, sometimes impregnated with sulphur; a match.
+  - text: Courage; spirit; mettle; determination.
+  - text: An attractive person (normally male).
+  - text: Semen.
+- pos: verb
+  defs:
+  - text: To catch fire; flame up.
+  - text: To ejaculate.
+    example: He spunked into the condom.
 ---
-

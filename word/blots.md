@@ -1,7 +1,59 @@
 ---
 layout: word
-title: blots
+title: Is BLOTS a Wordle Word?
+head_title: Is BLOTS a Wordle Word? Yes – Valid Guess & Meaning
 word: blots
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A blemish, spot or stain made by a coloured substance.</li><li><strong>Definition 2:</strong> (by extension) A stain on someone's reputation or character; a disgrace.</li><li><strong>Definition 3:</strong> A method of transferring proteins, DNA or RNA, onto a carrier.</li><li><strong>Definition 4:</strong> An exposed piece in backgammon.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause a blot (on something) by spilling a coloured substance.</li><li><strong>Definition 2:</strong> To soak up or absorb liquid.<p><strong>Example:</strong> This paper blots easily.</p></li><li><strong>Definition 3:</strong> To dry (writing, etc.) with blotting paper.</li><li><strong>Definition 4:</strong> To spot, stain, or bespatter, as with ink.</li><li><strong>Definition 5:</strong> To impair; to damage; to mar; to soil.</li><li><strong>Definition 6:</strong> To stain with infamy; to disgrace.</li><li><strong>Definition 7:</strong> To obliterate, as writing with ink; to cancel; to efface; generally with out.<p><strong>Example:</strong> to blot out a word or a sentence</p></li><li><strong>Definition 8:</strong> To obscure; to eclipse; to shadow.</li></ul></div></div>"
+description: Yes, BLOTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- blats
+- blets
+- blits
+- blobs
+- blocs
+- blogs
+- blows
+- boots
+- clots
+- plots
+- slots
+anagrams:
+- bolts
+definitions:
+- pos: noun
+  defs:
+  - text: A blemish, spot or stain made by a coloured substance.
+  - text: "(by extension) A stain on someone's reputation or character; a disgrace."
+  - text: A method of transferring proteins, DNA or RNA, onto a carrier.
+  - text: An exposed piece in backgammon.
+- pos: verb
+  defs:
+  - text: To cause a blot (on something) by spilling a coloured substance.
+  - text: To soak up or absorb liquid.
+    example: This paper blots easily.
+  - text: To dry (writing, etc.) with blotting paper.
+  - text: To spot, stain, or bespatter, as with ink.
+  - text: To impair; to damage; to mar; to soil.
+  - text: To stain with infamy; to disgrace.
+  - text: To obliterate, as writing with ink; to cancel; to efface; generally with
+      out.
+    example: to blot out a word or a sentence
+  - text: To obscure; to eclipse; to shadow.
 ---
-

@@ -1,7 +1,31 @@
 ---
 layout: word
-title: dishy
+title: Is DISHY a Wordle Word?
+head_title: Is DISHY a Wordle Word? Yes – Valid Guess & Meaning
 word: dishy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɪʃ.i/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Attractive; good-looking; sexy.</li><li><strong>Definition 2:</strong> Tending to relay information and gossip.</li></ul></div></div>"
+description: Yes, DISHY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- fishy
+- dashy
+phonetic: "/ˈdɪʃ.i/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Attractive; good-looking; sexy.
+  - text: Tending to relay information and gossip.
 ---
-

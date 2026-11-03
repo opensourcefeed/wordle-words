@@ -1,7 +1,62 @@
 ---
 layout: word
-title: heard
+title: Is HEARD a Wordle Word?
+head_title: 'Is HEARD a Wordle Word? Yes – Past Answer #938 & Meaning'
 word: heard
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hiːɹd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (stative) To perceive sounds through the ear.<p><strong>Example:</strong> I was deaf, and now I can hear.</p></li><li><strong>Definition 2:</strong> (stative) To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way.<p><strong>Example:</strong> I heard a sound from outside the window.</p></li><li><strong>Definition 3:</strong> To exercise this faculty intentionally; to listen to.</li><li><strong>Definition 4:</strong> To listen favourably to; to grant (a request etc.).<p><strong>Example:</strong> Eventually the king chose to hear her entreaties.</p></li><li><strong>Definition 5:</strong> To receive information about; to come to learn of.</li><li><strong>Definition 6:</strong> (with from) To be contacted by.</li><li><strong>Definition 7:</strong> To listen to (a person, case) in a court of law; to try.<p><strong>Example:</strong> Your case will be heard at the end of the month.</p></li><li><strong>Definition 8:</strong> To sympathize with; to understand the feelings or opinion of.<p><strong>Example:</strong> You're tired of all the ads on TV? I hear ya.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> That has been heard or listened to; that has been aurally detected.</li></ul></div></div>"
+description: Yes, HEARD is a valid Wordle word. It was the Wordle answer on January
+  13, 2024 (#938). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 13, 2024 (#938).
+past_answers:
+- date: '2024-01-13'
+  number: 938
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- beard
+- heart
+- hoard
+- feard
+- heald
+- heare
+- hears
+- reard
+- yeard
+anagrams:
+- hared
+- rahed
+phonetic: "/hiːɹd/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(stative) To perceive sounds through the ear."
+    example: I was deaf, and now I can hear.
+  - text: "(stative) To perceive (a sound, or something producing a sound) with the
+      ear, to recognize (something) in an auditory way."
+    example: I heard a sound from outside the window.
+  - text: To exercise this faculty intentionally; to listen to.
+  - text: To listen favourably to; to grant (a request etc.).
+    example: Eventually the king chose to hear her entreaties.
+  - text: To receive information about; to come to learn of.
+  - text: "(with from) To be contacted by."
+  - text: To listen to (a person, case) in a court of law; to try.
+    example: Your case will be heard at the end of the month.
+  - text: To sympathize with; to understand the feelings or opinion of.
+    example: You're tired of all the ads on TV? I hear ya.
+- pos: adjective
+  defs:
+  - text: That has been heard or listened to; that has been aurally detected.
 ---
-

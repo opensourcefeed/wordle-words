@@ -1,7 +1,53 @@
 ---
 layout: word
-title: poach
+title: Is POACH a Wordle Word?
+head_title: Is POACH a Wordle Word? Yes – Valid Guess & Meaning
 word: poach
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpoʊtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of cooking in simmering liquid.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cook something in simmering liquid.</li><li><strong>Definition 2:</strong> To be cooked in simmering liquid</li><li><strong>Definition 3:</strong> To become soft or muddy.</li><li><strong>Definition 4:</strong> To make soft or muddy.<p><strong>Example:</strong> Cattle coming to drink had punched and poached the river bank into a mess of mud.</p></li><li><strong>Definition 5:</strong> To stab; to pierce; to spear, as fish.</li><li><strong>Definition 6:</strong> To force, drive, or plunge into anything.</li><li><strong>Definition 7:</strong> To begin and not complete.</li></ul></div></div>"
+description: Yes, POACH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- coach
+- peach
+- pooch
+- porch
+- pouch
+- roach
+- hoach
+- loach
+- potch
+anagrams:
+- copha
+- phoca
+phonetic: "/ˈpoʊtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of cooking in simmering liquid.
+- pos: verb
+  defs:
+  - text: To cook something in simmering liquid.
+  - text: To be cooked in simmering liquid
+  - text: To become soft or muddy.
+  - text: To make soft or muddy.
+    example: Cattle coming to drink had punched and poached the river bank into a
+      mess of mud.
+  - text: To stab; to pierce; to spear, as fish.
+  - text: To force, drive, or plunge into anything.
+  - text: To begin and not complete.
 ---
-

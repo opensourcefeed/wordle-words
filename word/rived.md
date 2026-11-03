@@ -1,7 +1,52 @@
 ---
 layout: word
-title: rived
+title: Is RIVED a Wordle Word?
+head_title: Is RIVED a Wordle Word? Yes – Valid Guess & Meaning
 word: rived
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹaɪvd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tear apart by force; to rend; to split; to cleave.</li><li><strong>Definition 2:</strong> To pierce or cleave with a weapon.</li></ul></div></div>"
+description: Yes, RIVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- river
+- rivet
+- dived
+- gived
+- hived
+- jived
+- lived
+- raved
+- riced
+- riled
+- rimed
+- riped
+anagrams:
+- diver
+- drive
+- vired
+trap:
+  pattern: _IVED
+  count: 7
+phonetic: "/ɹaɪvd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To tear apart by force; to rend; to split; to cleave.
+  - text: To pierce or cleave with a weapon.
 ---
-

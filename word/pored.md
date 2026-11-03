@@ -1,7 +1,55 @@
 ---
 layout: word
-title: pored
+title: Is PORED a Wordle Word?
+head_title: Is PORED a Wordle Word? Yes – Valid Guess & Meaning
 word: pored
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To study meticulously; to go over again and again.</li><li><strong>Definition 2:</strong> To meditate or reflect in a steady way.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having or furnished with pores</li></ul></div></div>"
+description: Yes, PORED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- bored
+- cored
+- gored
+- pared
+- pohed
+- poked
+- poled
+- pooed
+- porer
+- pores
+- porey
+- posed
+anagrams:
+- doper
+- orped
+- pedro
+- roped
+trap:
+  pattern: PO_ED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To study meticulously; to go over again and again.
+  - text: To meditate or reflect in a steady way.
+- pos: adjective
+  defs:
+  - text: Having or furnished with pores
 ---
-

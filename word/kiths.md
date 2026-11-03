@@ -1,7 +1,37 @@
 ---
 layout: word
-title: kiths
+title: Is KITHS a Wordle Word?
+head_title: Is KITHS a Wordle Word? Yes – Valid Guess & Meaning
 word: kiths
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Friends and acquaintances.</li><li><strong>Definition 2:</strong> (rural) An acquaintance or a friend.</li></ul></div></div>"
+description: Yes, KITHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- kites
+- kithe
+- liths
+- piths
+- withs
+anagrams:
+- shtik
+definitions:
+- pos: noun
+  defs:
+  - text: Friends and acquaintances.
+  - text: "(rural) An acquaintance or a friend."
 ---
-

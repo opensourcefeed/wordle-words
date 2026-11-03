@@ -1,7 +1,35 @@
 ---
 layout: word
-title: wekas
+title: Is WEKAS a Wordle Word?
+head_title: Is WEKAS a Wordle Word? Yes – Valid Guess & Meaning
 word: wekas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The woodhen, a flightless bird of New Zealand.</li></ul></div></div>"
+description: Yes, WEKAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- wakas
+- wetas
+anagrams:
+- askew
+- wakes
+definitions:
+- pos: noun
+  defs:
+  - text: The woodhen, a flightless bird of New Zealand.
 ---
-

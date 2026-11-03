@@ -1,7 +1,45 @@
 ---
 layout: word
-title: berth
+title: Is BERTH a Wordle Word?
+head_title: 'Is BERTH a Wordle Word? Yes – Past Answer #386 & Meaning'
 word: berth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fixed bunk for sleeping (in caravans, trains, etc).</li><li><strong>Definition 2:</strong> Room for maneuvering or safety. (Often used in the phrase a wide berth.)</li><li><strong>Definition 3:</strong> A space for a ship to moor or a vehicle to park.</li><li><strong>Definition 4:</strong> A room in which a number of the officers or ship's company mess and reside.</li><li><strong>Definition 5:</strong> A job or position, especially on a ship.</li><li><strong>Definition 6:</strong> Position or seed in a tournament bracket.</li><li><strong>Definition 7:</strong> Position on the field of play</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bring (a ship or vehicle) into its berth</li></ul></div></div>"
+description: Yes, BERTH is a valid Wordle word. It was the Wordle answer on July 10,
+  2022 (#386). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 10, 2022 (#386).
+past_answers:
+- date: '2022-07-10'
+  number: 386
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- birth
+- beath
+- derth
+phonetic: "/bɜːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fixed bunk for sleeping (in caravans, trains, etc).
+  - text: Room for maneuvering or safety. (Often used in the phrase a wide berth.)
+  - text: A space for a ship to moor or a vehicle to park.
+  - text: A room in which a number of the officers or ship's company mess and reside.
+  - text: A job or position, especially on a ship.
+  - text: Position or seed in a tournament bracket.
+  - text: Position on the field of play
+- pos: verb
+  defs:
+  - text: To bring (a ship or vehicle) into its berth
 ---
-

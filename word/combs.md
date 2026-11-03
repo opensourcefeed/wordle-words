@@ -1,7 +1,85 @@
 ---
 layout: word
-title: combs
+title: Is COMBS a Wordle Word?
+head_title: Is COMBS a Wordle Word? Yes – Valid Guess & Meaning
 word: combs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kəʊmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A toothed implement for grooming the hair or (formerly) for keeping it in place.</li><li><strong>Definition 2:</strong> A machine used in separating choice cotton fibers from worsted cloth fibers.</li><li><strong>Definition 3:</strong> A fleshy growth on the top of the head of some birds and reptiles; crest.</li><li><strong>Definition 4:</strong> A structure of hexagon cells made by bees for storing honey; honeycomb.</li><li><strong>Definition 5:</strong> An old English measure of corn equal to the half quarter.</li><li><strong>Definition 6:</strong> The top part of a gun’s stock.</li><li><strong>Definition 7:</strong> The toothed plate at the top and bottom of an escalator that prevents objects getting trapped between the moving stairs and fixed landings.</li><li><strong>Definition 8:</strong> The main body of a harmonica containing the air chambers and to which the reed plates are attached.</li><li><strong>Definition 9:</strong> A former, commonly cone-shaped, used in hat manufacturing for hardening soft fibre.</li><li><strong>Definition 10:</strong> A toothed tool used for chasing screws on work in a lathe; a chaser.</li><li><strong>Definition 11:</strong> The notched scale of a wire micrometer.</li><li><strong>Definition 12:</strong> The collector of an electrical machine, usually resembling a comb.</li><li><strong>Definition 13:</strong> One of a pair of peculiar organs on the base of the abdomen in scorpions.</li><li><strong>Definition 14:</strong> The curling crest of a wave; a comber.</li><li><strong>Definition 15:</strong> A toothed plate used for creating wells in agar gels for electrophoresis.</li><li><strong>Definition 16:</strong> A toothed wooden pick used to push the weft thread tightly against the previous pass of thread to create a tight weave.</li><li><strong>Definition 17:</strong> A connected and reduced curve with irreducible components consisting of a smooth subcurve (called the handle) and one or more additional irreducible components (called teeth) that each intersect the handle in a single point that is unequal to the unique point of intersection for any of the other teeth.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (especially of hair or fur) To groom with a toothed implement; chiefly with a comb.<p><strong>Example:</strong> I need to comb my hair before we leave the house</p></li><li><strong>Definition 2:</strong> To separate choice cotton fibers from worsted cloth fibers.</li><li><strong>Definition 3:</strong> To search thoroughly as if raking over an area with a comb.<p><strong>Example:</strong> Police combed the field for evidence after the assault</p></li><li><strong>Definition 4:</strong> To roll over, as the top or crest of a wave; to break with a white foam, as waves.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (abbreviation) Combination.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A valley, often wooded and often with no river</li><li><strong>Definition 2:</strong> A cirque.</li></ul></div></div>"
+description: Yes, COMBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- bombs
+- cobbs
+- comas
+- combe
+- combi
+- combo
+- comby
+- comes
+- comms
+- comps
+- comus
+- tombs
+trap:
+  pattern: COM_S
+  count: 6
+phonetic: "/kəʊmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A toothed implement for grooming the hair or (formerly) for keeping it in
+      place.
+  - text: A machine used in separating choice cotton fibers from worsted cloth fibers.
+  - text: A fleshy growth on the top of the head of some birds and reptiles; crest.
+  - text: A structure of hexagon cells made by bees for storing honey; honeycomb.
+  - text: An old English measure of corn equal to the half quarter.
+  - text: The top part of a gun’s stock.
+  - text: The toothed plate at the top and bottom of an escalator that prevents objects
+      getting trapped between the moving stairs and fixed landings.
+  - text: The main body of a harmonica containing the air chambers and to which the
+      reed plates are attached.
+  - text: A former, commonly cone-shaped, used in hat manufacturing for hardening
+      soft fibre.
+  - text: A toothed tool used for chasing screws on work in a lathe; a chaser.
+  - text: The notched scale of a wire micrometer.
+  - text: The collector of an electrical machine, usually resembling a comb.
+  - text: One of a pair of peculiar organs on the base of the abdomen in scorpions.
+  - text: The curling crest of a wave; a comber.
+  - text: A toothed plate used for creating wells in agar gels for electrophoresis.
+  - text: A toothed wooden pick used to push the weft thread tightly against the previous
+      pass of thread to create a tight weave.
+  - text: A connected and reduced curve with irreducible components consisting of
+      a smooth subcurve (called the handle) and one or more additional irreducible
+      components (called teeth) that each intersect the handle in a single point that
+      is unequal to the unique point of intersection for any of the other teeth.
+- pos: verb
+  defs:
+  - text: "(especially of hair or fur) To groom with a toothed implement; chiefly
+      with a comb."
+    example: I need to comb my hair before we leave the house
+  - text: To separate choice cotton fibers from worsted cloth fibers.
+  - text: To search thoroughly as if raking over an area with a comb.
+    example: Police combed the field for evidence after the assault
+  - text: To roll over, as the top or crest of a wave; to break with a white foam,
+      as waves.
+- pos: noun
+  defs:
+  - text: "(abbreviation) Combination."
+- pos: noun
+  defs:
+  - text: A valley, often wooded and often with no river
+  - text: A cirque.
 ---
-

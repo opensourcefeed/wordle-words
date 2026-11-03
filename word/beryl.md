@@ -1,7 +1,35 @@
 ---
 layout: word
-title: beryl
+title: Is BERYL a Wordle Word?
+head_title: Is BERYL a Wordle Word? Yes – Valid Guess & Meaning
 word: beryl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɛɹəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mineral of pegmatite deposits, often used as a gemstone.</li><li><strong>Definition 2:</strong> An example (a stone) of the mineral beryl.<p><strong>Example:</strong> The crown was set with six beryls of excellent size and color.</p></li><li><strong>Definition 3:</strong> A dull blueish green colour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a dull bluish green colour.</li></ul></div></div>"
+description: Yes, BERYL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+phonetic: "/ˈbɛɹəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mineral of pegmatite deposits, often used as a gemstone.
+  - text: An example (a stone) of the mineral beryl.
+    example: The crown was set with six beryls of excellent size and color.
+  - text: A dull blueish green colour.
+- pos: adjective
+  defs:
+  - text: Of a dull bluish green colour.
 ---
-

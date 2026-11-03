@@ -1,7 +1,115 @@
 ---
 layout: word
-title: burns
+title: Is BURNS a Wordle Word?
+head_title: Is BURNS a Wordle Word? Yes – Valid Guess & Meaning
 word: burns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜːnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A physical injury caused by heat, cold, electricity, radiation or caustic chemicals.<p><strong>Example:</strong> She had second-degree burns from falling in the bonfire.</p></li><li><strong>Definition 2:</strong> A sensation resembling such an injury.<p><strong>Example:</strong> chili burn from eating hot peppers</p></li><li><strong>Definition 3:</strong> The act of burning something with fire.<p><strong>Example:</strong> They're doing a controlled burn of the fields.</p></li><li><strong>Definition 4:</strong> An intense non-physical sting, as left by shame or an effective insult.</li><li><strong>Definition 5:</strong> An effective insult, often in the expression sick burn (excellent or badass insult).</li><li><strong>Definition 6:</strong> Physical sensation in the muscles following strenuous exercise, caused by build-up of lactic acid.<p><strong>Example:</strong> One and, two and, keep moving; feel the burn!</p></li><li><strong>Definition 7:</strong> Tobacco.</li><li><strong>Definition 8:</strong> The writing of data to a permanent storage medium like a compact disc or a ROM chip.</li><li><strong>Definition 9:</strong> The operation or result of burning or baking, as in brickmaking.<p><strong>Example:</strong> They have a good burn.</p></li><li><strong>Definition 10:</strong> A disease in vegetables; brand.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause to be consumed by fire.<p><strong>Example:</strong> He burned his manuscript in the fireplace.</p></li><li><strong>Definition 2:</strong> To be consumed by fire, or in flames.<p><strong>Example:</strong> He watched the house burn.</p></li><li><strong>Definition 3:</strong> To overheat so as to make unusable.<p><strong>Example:</strong> He burned the toast. The blacksmith burned the steel.</p></li><li><strong>Definition 4:</strong> To become overheated to the point of being unusable.<p><strong>Example:</strong> The grill was too hot and the steak burned.</p></li><li><strong>Definition 5:</strong> To make or produce by the application of fire or burning heat.<p><strong>Example:</strong> to burn a hole;  to burn letters into a block</p></li><li><strong>Definition 6:</strong> To injure (a person or animal) with heat or chemicals that produce similar damage.<p><strong>Example:</strong> She burned the child with an iron, and was jailed for ten years.</p></li><li><strong>Definition 7:</strong> To cauterize.</li><li><strong>Definition 8:</strong> To sunburn.<p><strong>Example:</strong> She forgot to put on sunscreen and burned.</p></li><li><strong>Definition 9:</strong> To consume, injure, or change the condition of, as if by action of fire or heat; to affect as fire or heat does.<p><strong>Example:</strong> to burn the mouth with pepper</p></li><li><strong>Definition 10:</strong> To be hot, e.g. due to embarrassment.<p><strong>Example:</strong> The child's forehead was burning with fever.  Her cheeks burned with shame.</p></li><li><strong>Definition 11:</strong> To cause to combine with oxygen or other active agent, with evolution of heat; to consume; to oxidize.<p><strong>Example:</strong> A human being burns a certain amount of carbon at each respiration.  to burn iron in oxygen</p></li><li><strong>Definition 12:</strong> To combine energetically, with evolution of heat.<p><strong>Example:</strong> Copper burns in chlorine.</p></li><li><strong>Definition 13:</strong> To write data to a permanent storage medium like a compact disc or a ROM chip.<p><strong>Example:</strong> We’ll burn this program onto an EEPROM one hour before the demo begins.</p></li><li><strong>Definition 14:</strong> To betray.<p><strong>Example:</strong> The informant burned him.</p></li><li><strong>Definition 15:</strong> To insult or defeat.<p><strong>Example:</strong> I just burned you again.</p></li><li><strong>Definition 16:</strong> To waste (time); to waste money or other resources.<p><strong>Example:</strong> The company has burned more than a million dollars a month this year.</p></li><li><strong>Definition 17:</strong> In certain games, to approach near to a concealed object which is sought.<p><strong>Example:</strong> You're cold... warm... hot... you're burning!</p></li><li><strong>Definition 18:</strong> To accidentally touch a moving stone.</li><li><strong>Definition 19:</strong> In pontoon, to swap a pair of cards for another pair, or to deal a dead card.</li><li><strong>Definition 20:</strong> To increase the exposure for certain areas of a print in order to make them lighter (compare dodge).</li><li><strong>Definition 21:</strong> (of an element) To be converted to another element in a nuclear fusion reaction, especially in a star</li><li><strong>Definition 22:</strong> To discard.</li><li><strong>Definition 23:</strong> To shoot someone with a firearm.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stream.</li></ul></div></div>"
+description: Yes, BURNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- burnt
+- barns
+- bunns
+- buras
+- burbs
+- burds
+- burgs
+- burks
+- burls
+- burps
+- burrs
+- curns
+trap:
+  pattern: BUR_S
+  count: 9
+phonetic: "/bɜːnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A physical injury caused by heat, cold, electricity, radiation or caustic
+      chemicals.
+    example: She had second-degree burns from falling in the bonfire.
+  - text: A sensation resembling such an injury.
+    example: chili burn from eating hot peppers
+  - text: The act of burning something with fire.
+    example: They're doing a controlled burn of the fields.
+  - text: An intense non-physical sting, as left by shame or an effective insult.
+  - text: An effective insult, often in the expression sick burn (excellent or badass
+      insult).
+  - text: Physical sensation in the muscles following strenuous exercise, caused by
+      build-up of lactic acid.
+    example: One and, two and, keep moving; feel the burn!
+  - text: Tobacco.
+  - text: The writing of data to a permanent storage medium like a compact disc or
+      a ROM chip.
+  - text: The operation or result of burning or baking, as in brickmaking.
+    example: They have a good burn.
+  - text: A disease in vegetables; brand.
+- pos: verb
+  defs:
+  - text: To cause to be consumed by fire.
+    example: He burned his manuscript in the fireplace.
+  - text: To be consumed by fire, or in flames.
+    example: He watched the house burn.
+  - text: To overheat so as to make unusable.
+    example: He burned the toast. The blacksmith burned the steel.
+  - text: To become overheated to the point of being unusable.
+    example: The grill was too hot and the steak burned.
+  - text: To make or produce by the application of fire or burning heat.
+    example: to burn a hole;  to burn letters into a block
+  - text: To injure (a person or animal) with heat or chemicals that produce similar
+      damage.
+    example: She burned the child with an iron, and was jailed for ten years.
+  - text: To cauterize.
+  - text: To sunburn.
+    example: She forgot to put on sunscreen and burned.
+  - text: To consume, injure, or change the condition of, as if by action of fire
+      or heat; to affect as fire or heat does.
+    example: to burn the mouth with pepper
+  - text: To be hot, e.g. due to embarrassment.
+    example: The child's forehead was burning with fever.  Her cheeks burned with
+      shame.
+  - text: To cause to combine with oxygen or other active agent, with evolution of
+      heat; to consume; to oxidize.
+    example: A human being burns a certain amount of carbon at each respiration. 
+      to burn iron in oxygen
+  - text: To combine energetically, with evolution of heat.
+    example: Copper burns in chlorine.
+  - text: To write data to a permanent storage medium like a compact disc or a ROM
+      chip.
+    example: We’ll burn this program onto an EEPROM one hour before the demo begins.
+  - text: To betray.
+    example: The informant burned him.
+  - text: To insult or defeat.
+    example: I just burned you again.
+  - text: To waste (time); to waste money or other resources.
+    example: The company has burned more than a million dollars a month this year.
+  - text: In certain games, to approach near to a concealed object which is sought.
+    example: You're cold... warm... hot... you're burning!
+  - text: To accidentally touch a moving stone.
+  - text: In pontoon, to swap a pair of cards for another pair, or to deal a dead
+      card.
+  - text: To increase the exposure for certain areas of a print in order to make them
+      lighter (compare dodge).
+  - text: "(of an element) To be converted to another element in a nuclear fusion
+      reaction, especially in a star"
+  - text: To discard.
+  - text: To shoot someone with a firearm.
+- pos: noun
+  defs:
+  - text: A stream.
 ---
-

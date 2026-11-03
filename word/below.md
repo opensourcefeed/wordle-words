@@ -1,7 +1,58 @@
 ---
 layout: word
-title: below
+title: Is BELOW a Wordle Word?
+head_title: 'Is BELOW a Wordle Word? Yes – Past Answer #685 & Meaning'
 word: below
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɪˈləʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a lower place.</li><li><strong>Definition 2:</strong> On a lower storey.</li><li><strong>Definition 3:</strong> Further down.</li><li><strong>Definition 4:</strong> On a lower deck.<p><strong>Example:</strong> the landlubbers lying down below</p></li><li><strong>Definition 5:</strong> (of a temperature) Below zero.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Lower in spatial position than.<p><strong>Example:</strong> The treasure is buried two meters below the surface.</p></li><li><strong>Definition 2:</strong> Within the writing of a given document which follows a particular appearance of the word \"below\".<p><strong>Example:</strong> \"By their execution hereof, the Parties incur a legal obligation to pass consideration under this Loan Contract as is set forth below.\"</p></li><li><strong>Definition 3:</strong> Lower in value, price, rank or concentration than.<p><strong>Example:</strong> The temperature is below zero.</p></li><li><strong>Definition 4:</strong> Downstream of.</li><li><strong>Definition 5:</strong> South of.</li><li><strong>Definition 6:</strong> Unsuitable to the rank or dignity of; beneath.<p><strong>Example:</strong> Such petty behavior is below me.</p></li><li><strong>Definition 7:</strong> (stage directions) Downstage of.</li></ul></div></div>"
+description: Yes, BELOW is a valid Wordle word. It was the Wordle answer on May 5,
+  2023 (#685). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 5, 2023 (#685).
+past_answers:
+- date: '2023-05-05'
+  number: 685
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- belon
+anagrams:
+- bowel
+- elbow
+phonetic: "/bɪˈləʊ/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In a lower place.
+  - text: On a lower storey.
+  - text: Further down.
+  - text: On a lower deck.
+    example: the landlubbers lying down below
+  - text: "(of a temperature) Below zero."
+- pos: preposition
+  defs:
+  - text: Lower in spatial position than.
+    example: The treasure is buried two meters below the surface.
+  - text: Within the writing of a given document which follows a particular appearance
+      of the word "below".
+    example: '"By their execution hereof, the Parties incur a legal obligation to
+      pass consideration under this Loan Contract as is set forth below."'
+  - text: Lower in value, price, rank or concentration than.
+    example: The temperature is below zero.
+  - text: Downstream of.
+  - text: South of.
+  - text: Unsuitable to the rank or dignity of; beneath.
+    example: Such petty behavior is below me.
+  - text: "(stage directions) Downstage of."
 ---
-

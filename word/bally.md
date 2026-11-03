@@ -1,7 +1,50 @@
 ---
 layout: word
-title: bally
+title: Is BALLY a Wordle Word?
+head_title: Is BALLY a Wordle Word? Yes – Valid Guess & Meaning
 word: bally
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbæli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Bloody (used as a mild intensifier).<p><strong>Example:</strong> He's just a bally idiot.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very.<p><strong>Example:</strong> That was a bally foolish thing to do, old chap!</p></li></ul></div></div>"
+description: Yes, BALLY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- badly
+- balmy
+- belly
+- billy
+- bully
+- dally
+- rally
+- sally
+- tally
+- baldy
+- balky
+- ballo
+trap:
+  pattern: _ALLY
+  count: 8
+phonetic: "/ˈbæli/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Bloody (used as a mild intensifier).
+    example: He's just a bally idiot.
+- pos: adverb
+  defs:
+  - text: Very.
+    example: That was a bally foolish thing to do, old chap!
 ---
-

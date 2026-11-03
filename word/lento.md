@@ -1,7 +1,43 @@
 ---
 layout: word
-title: lento
+title: Is LENTO a Wordle Word?
+head_title: Is LENTO a Wordle Word? Yes – Valid Guess & Meaning
 word: lento
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tempo mark directing that a passage is to be played very slowly.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Very slow.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very slowly.</li></ul></div></div>"
+description: Yes, LENTO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - T
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- bento
+- cento
+- lenti
+- mento
+anagrams:
+- olent
+definitions:
+- pos: noun
+  defs:
+  - text: A tempo mark directing that a passage is to be played very slowly.
+- pos: adjective
+  defs:
+  - text: Very slow.
+- pos: adverb
+  defs:
+  - text: Very slowly.
 ---
-

@@ -1,7 +1,60 @@
 ---
 layout: word
-title: hauls
+title: Is HAULS a Wordle Word?
+head_title: Is HAULS a Wordle Word? Yes – Valid Guess & Meaning
 word: hauls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To transport by drawing or pulling, as with horses or oxen, or a motor vehicle.<p><strong>Example:</strong> to haul logs to a sawmill</p></li><li><strong>Definition 2:</strong> To draw or pull something heavy.</li><li><strong>Definition 3:</strong> To carry or transport something, with a connotation that the item is heavy or otherwise difficult to move.</li><li><strong>Definition 4:</strong> To drag, to pull, to tug.</li><li><strong>Definition 5:</strong> Followed by up: to summon to be disciplined or held answerable for something.</li><li><strong>Definition 6:</strong> To pull apart, as oxen sometimes do when yoked.</li><li><strong>Definition 7:</strong> To steer (a vessel) closer to the wind.</li><li><strong>Definition 8:</strong> Of the wind: to shift fore (more towards the bow).</li><li><strong>Definition 9:</strong> To haul ass.<p><strong>Example:</strong> “How fast was he goin’?” / “I don’t know exactly, but he must’ve been haulin’, given where he landed.”</p></li></ul></div></div>"
+description: Yes, HAULS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- cauls
+- hails
+- halls
+- harls
+- hauds
+- haufs
+- hauld
+- haulm
+- hault
+- hauns
+- mauls
+- pauls
+anagrams:
+- hulas
+- shaul
+trap:
+  pattern: _AULS
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To transport by drawing or pulling, as with horses or oxen, or a motor vehicle.
+    example: to haul logs to a sawmill
+  - text: To draw or pull something heavy.
+  - text: To carry or transport something, with a connotation that the item is heavy
+      or otherwise difficult to move.
+  - text: To drag, to pull, to tug.
+  - text: 'Followed by up: to summon to be disciplined or held answerable for something.'
+  - text: To pull apart, as oxen sometimes do when yoked.
+  - text: To steer (a vessel) closer to the wind.
+  - text: 'Of the wind: to shift fore (more towards the bow).'
+  - text: To haul ass.
+    example: "“How fast was he goin’?” / “I don’t know exactly, but he must’ve been
+      haulin’, given where he landed.”"
 ---
-

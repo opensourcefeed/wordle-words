@@ -1,7 +1,36 @@
 ---
 layout: word
-title: quoll
+title: Is QUOLL a Wordle Word?
+head_title: Is QUOLL a Wordle Word? Yes – Valid Guess & Meaning
 word: quoll
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkwɒl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the various carnivorous marsupials of the genus Dasyurus found in Australia and New Guinea, roughly the size of a cat.</li></ul></div></div>"
+description: Yes, QUOLL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- quell
+- quill
+- quorl
+phonetic: "/ˈkwɒl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the various carnivorous marsupials of the genus Dasyurus found in
+      Australia and New Guinea, roughly the size of a cat.
 ---
-

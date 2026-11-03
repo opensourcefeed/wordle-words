@@ -1,7 +1,38 @@
 ---
 layout: word
-title: warez
+title: Is WAREZ a Wordle Word?
+head_title: Is WAREZ a Wordle Word? Yes – Valid Guess & Meaning
 word: warez
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (leet) Software that is illegally obtained or distributed.<p><strong>Example:</strong> Hey dude, I've got some cool new warez!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (leet) To obtain a copy of (software or other works of authorship) illegally.</li></ul></div></div>"
+description: Yes, WAREZ is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- karez
+- wared
+- wares
+definitions:
+- pos: noun
+  defs:
+  - text: "(leet) Software that is illegally obtained or distributed."
+    example: Hey dude, I've got some cool new warez!
+- pos: verb
+  defs:
+  - text: "(leet) To obtain a copy of (software or other works of authorship) illegally."
 ---
-

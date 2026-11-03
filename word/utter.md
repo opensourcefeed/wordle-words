@@ -1,7 +1,42 @@
 ---
 layout: word
-title: utter
+title: Is UTTER a Wordle Word?
+head_title: 'Is UTTER a Wordle Word? Yes – Past Answer #704 & Meaning'
 word: utter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʌtə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Outer; furthest out, most remote.</li><li><strong>Definition 2:</strong> Outward.</li><li><strong>Definition 3:</strong> Absolute, unconditional, total, complete.<p><strong>Example:</strong> utter ruin; utter darkness</p></li></ul></div></div>"
+description: Yes, UTTER is a valid Wordle word. It was the Wordle answer on May 24,
+  2023 (#704). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 24, 2023 (#704).
+past_answers:
+- date: '2023-05-24'
+  number: 704
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- otter
+- atter
+- upter
+- uster
+phonetic: "/ˈʌtə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Outer; furthest out, most remote.
+  - text: Outward.
+  - text: Absolute, unconditional, total, complete.
+    example: utter ruin; utter darkness
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: domal
+title: Is DOMAL a Wordle Word?
+head_title: Is DOMAL a Wordle Word? Yes – Valid Guess & Meaning
 word: domal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdəʊməl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to a dome.</li><li><strong>Definition 2:</strong> In the shape of a dome.</li></ul></div></div>"
+description: Yes, DOMAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- comal
+- dogal
+- dotal
+- romal
+anagrams:
+- modal
+- dolma
+phonetic: "/ˈdəʊməl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to a dome.
+  - text: In the shape of a dome.
 ---
-

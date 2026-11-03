@@ -1,7 +1,46 @@
 ---
 layout: word
-title: boofy
+title: Is BOOFY a Wordle Word?
+head_title: Is BOOFY a Wordle Word? Yes – Valid Guess & Meaning
 word: boofy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʊfi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of hair, puffy, or having extra volume, not necessarily desired; having such hair; see bouffant.<p><strong>Example:</strong> My hair was so boofy this morning it took 10 minutes of brushing to get it looking decent.</p></li></ul></div></div>"
+description: Yes, BOOFY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- booby
+- booty
+- boozy
+- goofy
+- booay
+- boody
+- boogy
+- booky
+- boomy
+- roofy
+- woofy
+trap:
+  pattern: BOO_Y
+  count: 9
+phonetic: "/ˈbʊfi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of hair, puffy, or having extra volume, not necessarily desired; having
+      such hair; see bouffant.
+    example: My hair was so boofy this morning it took 10 minutes of brushing to get
+      it looking decent.
 ---
-

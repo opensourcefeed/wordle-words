@@ -1,7 +1,33 @@
 ---
 layout: word
-title: ezine
+title: Is EZINE a Wordle Word?
+head_title: Is EZINE a Wordle Word? Yes – Valid Guess & Meaning
 word: ezine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A magazine published in electronic form, especially on the World Wide Web.</li></ul></div></div>"
+description: Yes, EZINE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - I
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- azine
+- exine
+definitions:
+- pos: noun
+  defs:
+  - text: A magazine published in electronic form, especially on the World Wide Web.
 ---
-

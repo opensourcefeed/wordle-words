@@ -1,7 +1,54 @@
 ---
 layout: word
-title: rinds
+title: Is RINDS a Wordle Word?
+head_title: Is RINDS a Wordle Word? Yes – Valid Guess & Meaning
 word: rinds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹaɪndz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Tree bark</li><li><strong>Definition 2:</strong> A hard, tough outer layer, particularly on food such as fruit, cheese, etc</li><li><strong>Definition 3:</strong> (usually \"the\") The gall, the crust, the insolence; often as \"the immortal rind\"</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the rind from.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An iron support fitting used on the upper millstone of a grist mill.</li></ul></div></div>"
+description: Yes, RINDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- binds
+- finds
+- hinds
+- kinds
+- linds
+- minds
+- pinds
+- rands
+- rends
+- riads
+- rindy
+- rines
+trap:
+  pattern: _INDS
+  count: 11
+phonetic: "/ɹaɪndz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Tree bark
+  - text: A hard, tough outer layer, particularly on food such as fruit, cheese, etc
+  - text: (usually "the") The gall, the crust, the insolence; often as "the immortal
+      rind"
+- pos: verb
+  defs:
+  - text: To remove the rind from.
+- pos: noun
+  defs:
+  - text: An iron support fitting used on the upper millstone of a grist mill.
 ---
-

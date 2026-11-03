@@ -1,7 +1,46 @@
 ---
 layout: word
-title: ample
+title: Is AMPLE a Wordle Word?
+head_title: 'Is AMPLE a Wordle Word? Yes – Past Answer #302 & Meaning'
 word: ample
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Large; great in size, extent, capacity, or bulk; for example spacious, roomy or widely extended.<p><strong>Example:</strong> an ample house</p></li><li><strong>Definition 2:</strong> Fully sufficient; abundant; plenty<p><strong>Example:</strong> ample material</p></li><li><strong>Definition 3:</strong> Not contracted or brief; not concise; extended; diffusive<p><strong>Example:</strong> an ample story</p></li></ul></div></div>"
+description: Yes, AMPLE is a valid Wordle word. It was the Wordle answer on April
+  17, 2022 (#302). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 17, 2022 (#302).
+past_answers:
+- date: '2022-04-17'
+  number: 302
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- amble
+- amply
+- apple
+- amole
+anagrams:
+- maple
+- pelma
+definitions:
+- pos: adjective
+  defs:
+  - text: Large; great in size, extent, capacity, or bulk; for example spacious, roomy
+      or widely extended.
+    example: an ample house
+  - text: Fully sufficient; abundant; plenty
+    example: ample material
+  - text: Not contracted or brief; not concise; extended; diffusive
+    example: an ample story
 ---
-

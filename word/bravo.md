@@ -1,7 +1,45 @@
 ---
 layout: word
-title: bravo
+title: Is BRAVO a Wordle Word?
+head_title: 'Is BRAVO a Wordle Word? Yes – Past Answer #1079 & Meaning'
 word: bravo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hired soldier; an assassin; a desperado.</li><li><strong>Definition 2:</strong> A shout of \"bravo!\"</li><li><strong>Definition 3:</strong> The letter B in the ICAO spelling alphabet.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cheer or applaud, especially by saying bravo!</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Used to express acclaim, especially to a performer.<p><strong>Example:</strong> Bravo, you have done a brilliant job!</p></li></ul></div></div>"
+description: Yes, BRAVO is a valid Wordle word. It was the Wordle answer on June 2,
+  2024 (#1079). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 2, 2024 (#1079).
+past_answers:
+- date: '2024-06-02'
+  number: 1079
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- brave
+- brava
+- bravi
+definitions:
+- pos: noun
+  defs:
+  - text: A hired soldier; an assassin; a desperado.
+  - text: A shout of "bravo!"
+  - text: The letter B in the ICAO spelling alphabet.
+- pos: verb
+  defs:
+  - text: To cheer or applaud, especially by saying bravo!
+- pos: interjection
+  defs:
+  - text: Used to express acclaim, especially to a performer.
+    example: Bravo, you have done a brilliant job!
 ---
-

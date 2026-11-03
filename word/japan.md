@@ -1,7 +1,36 @@
 ---
 layout: word
-title: japan
+title: Is JAPAN a Wordle Word?
+head_title: Is JAPAN a Wordle Word? Yes – Valid Guess & Meaning
 word: japan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dʒəˈpæn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hard black enamel varnish containing asphalt.</li><li><strong>Definition 2:</strong> Lacquerware.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To varnish with japan.</li></ul></div></div>"
+description: Yes, JAPAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- jawan
+- sapan
+phonetic: "/dʒəˈpæn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A hard black enamel varnish containing asphalt.
+  - text: Lacquerware.
+- pos: verb
+  defs:
+  - text: To varnish with japan.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: mingy
+title: Is MINGY a Wordle Word?
+head_title: Is MINGY a Wordle Word? Yes – Valid Guess & Meaning
 word: mingy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɪndʒi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Mean, miserly, stingy.</li></ul></div></div>"
+description: Yes, MINGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- dingy
+- mangy
+- minty
+- bingy
+- kingy
+- lingy
+- midgy
+- mincy
+- mingi
+- mings
+- minny
+- minxy
+trap:
+  pattern: _INGY
+  count: 8
+phonetic: "/ˈmɪndʒi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Mean, miserly, stingy.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: burse
+title: Is BURSE a Wordle Word?
+head_title: Is BURSE a Wordle Word? Yes – Valid Guess & Meaning
 word: burse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A purse.</li><li><strong>Definition 2:</strong> A fund or foundation for the maintenance of the needy scholars in their studies.</li><li><strong>Definition 3:</strong> An ornamental case to hold the corporal when not in use.</li><li><strong>Definition 4:</strong> A stock exchange; a bourse.</li><li><strong>Definition 5:</strong> A kind of bazaar.</li></ul></div></div>"
+description: Yes, BURSE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- burst
+- curse
+- nurse
+- purse
+- birse
+- bulse
+- burke
+- bursa
+anagrams:
+- rebus
+- rubes
+- suber
+definitions:
+- pos: noun
+  defs:
+  - text: A purse.
+  - text: A fund or foundation for the maintenance of the needy scholars in their
+      studies.
+  - text: An ornamental case to hold the corporal when not in use.
+  - text: A stock exchange; a bourse.
+  - text: A kind of bazaar.
 ---
-

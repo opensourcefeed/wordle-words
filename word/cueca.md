@@ -1,7 +1,33 @@
 ---
 layout: word
-title: cueca
+title: Is CUECA a Wordle Word?
+head_title: Is CUECA a Wordle Word? Yes – Valid Guess & Meaning
 word: cueca
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A family of musical styles from parts of South America.</li><li><strong>Definition 2:</strong> Any of the dances associated with the cueca musical style.</li></ul></div></div>"
+description: Yes, CUECA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- caeca
+definitions:
+- pos: noun
+  defs:
+  - text: A family of musical styles from parts of South America.
+  - text: Any of the dances associated with the cueca musical style.
 ---
-

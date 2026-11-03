@@ -1,7 +1,63 @@
 ---
 layout: word
-title: tamer
+title: Is TAMER a Wordle Word?
+head_title: Is TAMER a Wordle Word? Yes – Possible Answer & Meaning
 word: tamer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈteɪmɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not or no longer wild; domesticated<p><strong>Example:</strong> They have a tame wildcat.</p></li><li><strong>Definition 2:</strong> (chiefly of animals) Mild and well-behaved; accustomed to human contact<p><strong>Example:</strong> The lion was quite tame.</p></li><li><strong>Definition 3:</strong> Not exciting.<p><strong>Example:</strong> For a thriller, that film was really tame.</p></li><li><strong>Definition 4:</strong> Crushed; subdued; depressed; spiritless.</li><li><strong>Definition 5:</strong> (of a knot) Capable of being represented as a finite closed polygonal chain.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who tames or subdues.</li></ul></div></div>"
+description: Yes, TAMER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- gamer
+- taker
+- taper
+- timer
+- lamer
+- namer
+- taber
+- taler
+- tamed
+- tames
+- taser
+- tater
+anagrams:
+- armet
+- mater
+- ramet
+- retam
+- trema
+trap:
+  pattern: TA_ER
+  count: 10
+phonetic: "/ˈteɪmɚ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Not or no longer wild; domesticated
+    example: They have a tame wildcat.
+  - text: "(chiefly of animals) Mild and well-behaved; accustomed to human contact"
+    example: The lion was quite tame.
+  - text: Not exciting.
+    example: For a thriller, that film was really tame.
+  - text: Crushed; subdued; depressed; spiritless.
+  - text: "(of a knot) Capable of being represented as a finite closed polygonal chain."
+- pos: noun
+  defs:
+  - text: One who tames or subdues.
 ---
-

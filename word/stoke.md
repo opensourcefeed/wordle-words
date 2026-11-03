@@ -1,7 +1,50 @@
 ---
 layout: word
-title: stoke
+title: Is STOKE a Wordle Word?
+head_title: 'Is STOKE a Wordle Word? Yes – Past Answer #1921 & Meaning'
 word: stoke
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stəʊk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To poke, pierce, thrust.</li></ul></div></div>"
+description: Yes, STOKE is a valid Wordle word. It was the Wordle answer on September
+  22, 2026 (#1921). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 22, 2026 (#1921).
+past_answers:
+- date: '2026-09-22'
+  number: 1921
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- smoke
+- spoke
+- stake
+- stole
+- stone
+- store
+- stove
+- atoke
+- snoke
+- stoae
+- stope
+anagrams:
+- tokes
+trap:
+  pattern: STO_E
+  count: 7
+phonetic: "/stəʊk/"
+definitions:
+- pos: verb
+  defs:
+  - text: To poke, pierce, thrust.
 ---
-

@@ -1,7 +1,95 @@
 ---
 layout: word
-title: hands
+title: Is HANDS a Wordle Word?
+head_title: Is HANDS a Wordle Word? Yes – Valid Guess & Meaning
 word: hands
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hæn(d)z/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.<p><strong>Example:</strong> Her hands are really strong.</p></li><li><strong>Definition 2:</strong> That which resembles, or to some extent performs the office of, a human hand.</li><li><strong>Definition 3:</strong> In linear measurement:</li><li><strong>Definition 4:</strong> A side; part, camp; direction, either right or left.</li><li><strong>Definition 5:</strong> Power of performance; means of execution; ability; skill; dexterity.</li><li><strong>Definition 6:</strong> An agent; a servant, or manual laborer, especially in compounds; a workman, trained or competent for special service or duty; a performer more or less skillful.<p><strong>Example:</strong> an old hand at speaking;  large farms need many farm hands</p></li><li><strong>Definition 7:</strong> An instance of helping.<p><strong>Example:</strong> Bob gave Alice a hand to move the furniture.</p></li><li><strong>Definition 8:</strong> Handwriting; style of penmanship.<p><strong>Example:</strong> a good hand</p></li><li><strong>Definition 9:</strong> A person's autograph or signature.<p><strong>Example:</strong> Given under my Hand and Seal of the State this 1st Day of January, 2010.</p></li><li><strong>Definition 10:</strong> Personal possession; ownership.</li><li><strong>Definition 11:</strong> (usually in the plural, hands) Management, domain, control.<p><strong>Example:</strong> in safe hands;  in good hands;  He lost his job when the factory changed hands.  With the business back in the founder's hands, there is new hope for the company.  With John in charge of the project, it's in good hands.</p></li><li><strong>Definition 12:</strong> That which is, or may be, held in a hand at once.</li><li><strong>Definition 13:</strong> Applause.<p><strong>Example:</strong> Give him a hand.</p></li><li><strong>Definition 14:</strong> A Native American gambling game, involving guessing the whereabouts of bits of ivory or similar, which are passed rapidly from hand to hand.</li><li><strong>Definition 15:</strong> The small part of a gunstock near the lock, which is grasped by the hand in taking aim.</li><li><strong>Definition 16:</strong> A whole rhizome of ginger.</li><li><strong>Definition 17:</strong> The feel of a fabric; the impression or quality of the fabric as judged qualitatively by the sense of touch.<p><strong>Example:</strong> This fabric has a smooth, soft hand.</p></li><li><strong>Definition 18:</strong> Actual performance; deed; act; workmanship; agency; hence, manner of performance.</li><li><strong>Definition 19:</strong> Agency in transmission from one person to another.<p><strong>Example:</strong> to buy at first hand (from the producer, or when new);  to buy at second hand (when no longer in the producer’s hand, or when not new);  It's not a rumor. I heard it at first hand.</p></li><li><strong>Definition 20:</strong> Rate; price.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give, pass, or transmit with the hand, literally or figuratively.<p><strong>Example:</strong> He handed them the letter.   She handed responsibility over to her deputy.</p></li><li><strong>Definition 2:</strong> To lead, guide, or assist with the hand; to conduct.<p><strong>Example:</strong> to hand a lady into a carriage</p></li><li><strong>Definition 3:</strong> To manage.</li><li><strong>Definition 4:</strong> To seize; to lay hands on.</li><li><strong>Definition 5:</strong> To pledge by the hand; to handfast.</li><li><strong>Definition 6:</strong> (said of a sail) To furl.</li><li><strong>Definition 7:</strong> To cooperate.</li></ul></div></div>"
+description: Yes, HANDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- handy
+- bands
+- fands
+- handi
+- hangs
+- hanks
+- hants
+- hards
+- hauds
+- hends
+- hinds
+- honds
+anagrams:
+- shand
+trap:
+  pattern: _ANDS
+  count: 9
+phonetic: "/hæn(d)z/"
+definitions:
+- pos: noun
+  defs:
+  - text: The part of the forelimb below the forearm or wrist in a human, and the
+      corresponding part in many other animals.
+    example: Her hands are really strong.
+  - text: That which resembles, or to some extent performs the office of, a human
+      hand.
+  - text: 'In linear measurement:'
+  - text: A side; part, camp; direction, either right or left.
+  - text: Power of performance; means of execution; ability; skill; dexterity.
+  - text: An agent; a servant, or manual laborer, especially in compounds; a workman,
+      trained or competent for special service or duty; a performer more or less skillful.
+    example: an old hand at speaking;  large farms need many farm hands
+  - text: An instance of helping.
+    example: Bob gave Alice a hand to move the furniture.
+  - text: Handwriting; style of penmanship.
+    example: a good hand
+  - text: A person's autograph or signature.
+    example: Given under my Hand and Seal of the State this 1st Day of January, 2010.
+  - text: Personal possession; ownership.
+  - text: "(usually in the plural, hands) Management, domain, control."
+    example: in safe hands;  in good hands;  He lost his job when the factory changed
+      hands.  With the business back in the founder's hands, there is new hope for
+      the company.  With John in charge of the project, it's in good hands.
+  - text: That which is, or may be, held in a hand at once.
+  - text: Applause.
+    example: Give him a hand.
+  - text: A Native American gambling game, involving guessing the whereabouts of bits
+      of ivory or similar, which are passed rapidly from hand to hand.
+  - text: The small part of a gunstock near the lock, which is grasped by the hand
+      in taking aim.
+  - text: A whole rhizome of ginger.
+  - text: The feel of a fabric; the impression or quality of the fabric as judged
+      qualitatively by the sense of touch.
+    example: This fabric has a smooth, soft hand.
+  - text: Actual performance; deed; act; workmanship; agency; hence, manner of performance.
+  - text: Agency in transmission from one person to another.
+    example: to buy at first hand (from the producer, or when new);  to buy at second
+      hand (when no longer in the producer’s hand, or when not new);  It's not a rumor.
+      I heard it at first hand.
+  - text: Rate; price.
+- pos: verb
+  defs:
+  - text: To give, pass, or transmit with the hand, literally or figuratively.
+    example: He handed them the letter.   She handed responsibility over to her deputy.
+  - text: To lead, guide, or assist with the hand; to conduct.
+    example: to hand a lady into a carriage
+  - text: To manage.
+  - text: To seize; to lay hands on.
+  - text: To pledge by the hand; to handfast.
+  - text: "(said of a sail) To furl."
+  - text: To cooperate.
 ---
-

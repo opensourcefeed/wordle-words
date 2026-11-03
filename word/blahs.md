@@ -1,7 +1,45 @@
 ---
 layout: word
-title: blahs
+title: Is BLAHS a Wordle Word?
+head_title: Is BLAHS a Wordle Word? Yes – Valid Guess & Meaning
 word: blahs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Nonsense; drivel; idle, meaningless talk.</li><li><strong>Definition 2:</strong> (in plural, the blahs) A general or ambiguous feeling of discomfort, dissatisfaction, uneasiness, boredom, mild depression, etc.</li></ul></div></div>"
+description: Yes, BLAHS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- blabs
+- blads
+- blaes
+- blags
+- blams
+- blats
+- blaws
+- blays
+- brahs
+anagrams:
+- blash
+trap:
+  pattern: BLA_S
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: Nonsense; drivel; idle, meaningless talk.
+  - text: "(in plural, the blahs) A general or ambiguous feeling of discomfort, dissatisfaction,
+      uneasiness, boredom, mild depression, etc."
 ---
-

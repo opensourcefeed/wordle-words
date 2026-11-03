@@ -1,7 +1,35 @@
 ---
 layout: word
-title: ritzy
+title: Is RITZY a Wordle Word?
+head_title: 'Is RITZY a Wordle Word? Yes – Past Answer #1930 & Meaning'
 word: ritzy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɪ.t͡si/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Elegant and luxurious.</li></ul></div></div>"
+description: Yes, RITZY is a valid Wordle word. It was the Wordle answer on October
+  1, 2026 (#1930). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 1, 2026 (#1930).
+past_answers:
+- date: '2026-10-01'
+  number: 1930
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - T
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- ditzy
+phonetic: "/ˈɹɪ.t͡si/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Elegant and luxurious.
 ---
-

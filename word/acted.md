@@ -1,7 +1,60 @@
 ---
 layout: word
-title: acted
+title: Is ACTED a Wordle Word?
+head_title: Is ACTED a Wordle Word? Yes – Valid Guess & Meaning
 word: acted
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæk.tɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To do something.<p><strong>Example:</strong> If you don't act soon, you will be in trouble.</p></li><li><strong>Definition 2:</strong> To do (something); to perform.</li><li><strong>Definition 3:</strong> To perform a theatrical role.<p><strong>Example:</strong> I started acting at the age of eleven in my local theatre.</p></li><li><strong>Definition 4:</strong> Of a play: to be acted out (well or badly).</li><li><strong>Definition 5:</strong> To behave in a certain manner for an indefinite length of time.<p><strong>Example:</strong> A dog which acts aggressively is likely to bite.</p></li><li><strong>Definition 6:</strong> To convey an appearance of being.<p><strong>Example:</strong> He acted unconcerned so the others wouldn't worry.</p></li><li><strong>Definition 7:</strong> To do something that causes a change binding on the doer.<p><strong>Example:</strong> act on behalf of John</p></li><li><strong>Definition 8:</strong> (construed with on or upon) To have an effect (on).<p><strong>Example:</strong> Gravitational force acts on heavy bodies.</p></li><li><strong>Definition 9:</strong> To play (a role).<p><strong>Example:</strong> He's been acting Shakespearean leads since he was twelve.</p></li><li><strong>Definition 10:</strong> To feign.<p><strong>Example:</strong> He acted the angry parent, but was secretly amused.</p></li><li><strong>Definition 11:</strong> (construed with on or upon, of a group) To map via a homomorphism to a group of automorphisms (of).<p><strong>Example:</strong> This group acts on the circle, so it can't be left-orderable!</p></li><li><strong>Definition 12:</strong> To move to action; to actuate; to animate.</li></ul></div></div>"
+description: Yes, ACTED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- ached
+- acned
+- acred
+- anted
+- apted
+anagrams:
+- cadet
+phonetic: "/ˈæk.tɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To do something.
+    example: If you don't act soon, you will be in trouble.
+  - text: To do (something); to perform.
+  - text: To perform a theatrical role.
+    example: I started acting at the age of eleven in my local theatre.
+  - text: 'Of a play: to be acted out (well or badly).'
+  - text: To behave in a certain manner for an indefinite length of time.
+    example: A dog which acts aggressively is likely to bite.
+  - text: To convey an appearance of being.
+    example: He acted unconcerned so the others wouldn't worry.
+  - text: To do something that causes a change binding on the doer.
+    example: act on behalf of John
+  - text: "(construed with on or upon) To have an effect (on)."
+    example: Gravitational force acts on heavy bodies.
+  - text: To play (a role).
+    example: He's been acting Shakespearean leads since he was twelve.
+  - text: To feign.
+    example: He acted the angry parent, but was secretly amused.
+  - text: "(construed with on or upon, of a group) To map via a homomorphism to a
+      group of automorphisms (of)."
+    example: This group acts on the circle, so it can't be left-orderable!
+  - text: To move to action; to actuate; to animate.
 ---
-

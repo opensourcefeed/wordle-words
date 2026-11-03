@@ -1,7 +1,79 @@
 ---
 layout: word
-title: pokes
+title: Is POKES a Wordle Word?
+head_title: Is POKES a Wordle Word? Yes – Valid Guess & Meaning
 word: pokes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pəʊks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prod, jab, or thrust.</li><li><strong>Definition 2:</strong> A lazy person; a dawdler.</li><li><strong>Definition 3:</strong> A stupid or uninteresting person.</li><li><strong>Definition 4:</strong> A device to prevent an animal from leaping or breaking through fences, consisting of a yoke with a pole inserted, pointed forward.</li><li><strong>Definition 5:</strong> The storage of a value in a memory address, typically to modify the behaviour of a program or to cheat at a video game.</li><li><strong>Definition 6:</strong> A notification sent to get another user's attention on social media or an instant messenger.</li><li><strong>Definition 7:</strong> A poke bonnet.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prod or jab with an object such as a finger or a stick.</li><li><strong>Definition 2:</strong> To stir up a fire to remove ash or promote burning.</li><li><strong>Definition 3:</strong> To rummage; to feel or grope around.<p><strong>Example:</strong> I poked about in the rubble, trying to find my lost keys.</p></li><li><strong>Definition 4:</strong> To modify the value stored in (a memory address).</li><li><strong>Definition 5:</strong> To put a poke (device to prevent leaping or breaking fences) on (an animal).<p><strong>Example:</strong> to poke an ox</p></li><li><strong>Definition 6:</strong> To thrust at with the horns; to gore.</li><li><strong>Definition 7:</strong> To notify (another user) of activity on social media or an instant messenger.</li><li><strong>Definition 8:</strong> To thrust (something) in a particular direction such as the tongue.</li><li><strong>Definition 9:</strong> To penetrate in sexual intercourse.<p><strong>Example:</strong> If she smokes, she pokes.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sack or bag.</li><li><strong>Definition 2:</strong> A long, wide sleeve.</li><li><strong>Definition 3:</strong> An ice cream cone.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Pokeweed</li></ul></div></div>"
+description: Yes, POKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- poker
+- bokes
+- cokes
+- gokes
+- hokes
+- jokes
+- lokes
+- mokes
+- nokes
+- pekes
+- pikes
+- poked
+anagrams:
+- spoke
+trap:
+  pattern: _OKES
+  count: 13
+phonetic: "/pəʊks/"
+definitions:
+- pos: noun
+  defs:
+  - text: A prod, jab, or thrust.
+  - text: A lazy person; a dawdler.
+  - text: A stupid or uninteresting person.
+  - text: A device to prevent an animal from leaping or breaking through fences, consisting
+      of a yoke with a pole inserted, pointed forward.
+  - text: The storage of a value in a memory address, typically to modify the behaviour
+      of a program or to cheat at a video game.
+  - text: A notification sent to get another user's attention on social media or an
+      instant messenger.
+  - text: A poke bonnet.
+- pos: verb
+  defs:
+  - text: To prod or jab with an object such as a finger or a stick.
+  - text: To stir up a fire to remove ash or promote burning.
+  - text: To rummage; to feel or grope around.
+    example: I poked about in the rubble, trying to find my lost keys.
+  - text: To modify the value stored in (a memory address).
+  - text: To put a poke (device to prevent leaping or breaking fences) on (an animal).
+    example: to poke an ox
+  - text: To thrust at with the horns; to gore.
+  - text: To notify (another user) of activity on social media or an instant messenger.
+  - text: To thrust (something) in a particular direction such as the tongue.
+  - text: To penetrate in sexual intercourse.
+    example: If she smokes, she pokes.
+- pos: noun
+  defs:
+  - text: A sack or bag.
+  - text: A long, wide sleeve.
+  - text: An ice cream cone.
+- pos: noun
+  defs:
+  - text: Pokeweed
 ---
-

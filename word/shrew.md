@@ -1,7 +1,40 @@
 ---
 layout: word
-title: shrew
+title: Is SHREW a Wordle Word?
+head_title: Is SHREW a Wordle Word? Yes – Possible Answer & Meaning
 word: shrew
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɹuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of numerous small, mouselike, chiefly nocturnal, mammals of the family Soricidae (order Soricomorpha).</li><li><strong>Definition 2:</strong> Certain other small mammals that resemble true shrews (order Soricomorpha).</li><li><strong>Definition 3:</strong> An ill-tempered, nagging woman: a scold.</li></ul></div></div>"
+description: Yes, SHREW is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- screw
+- threw
+- shred
+- shrow
+- sprew
+- strew
+anagrams:
+- wersh
+phonetic: "/ʃɹuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of numerous small, mouselike, chiefly nocturnal, mammals of the family
+      Soricidae (order Soricomorpha).
+  - text: Certain other small mammals that resemble true shrews (order Soricomorpha).
+  - text: 'An ill-tempered, nagging woman: a scold.'
 ---
-

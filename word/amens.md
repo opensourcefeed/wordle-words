@@ -1,7 +1,50 @@
 ---
 layout: word
-title: amens
+title: Is AMENS a Wordle Word?
+head_title: Is AMENS a Wordle Word? Yes – Valid Guess & Meaning
 word: amens
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An instance of saying ‘amen’.</li><li><strong>Definition 2:</strong> A title of Christ; the Faithful One (especially with reference to Revelation 3:14)</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To say amen.</li><li><strong>Definition 2:</strong> To say amen to; to ratify solemnly.</li></ul></div></div>"
+description: Yes, AMENS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- amend
+- amene
+- ament
+- amins
+- avens
+- omens
+anagrams:
+- manes
+- manse
+- means
+- mensa
+- names
+- nemas
+- samen
+definitions:
+- pos: noun
+  defs:
+  - text: An instance of saying ‘amen’.
+  - text: A title of Christ; the Faithful One (especially with reference to Revelation
+      3:14)
+- pos: verb
+  defs:
+  - text: To say amen.
+  - text: To say amen to; to ratify solemnly.
 ---
-

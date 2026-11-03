@@ -1,7 +1,69 @@
 ---
 layout: word
-title: dinks
+title: Is DINKS a Wordle Word?
+head_title: Is DINKS a Wordle Word? Yes – Valid Guess & Meaning
 word: dinks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A soft drop shot.</li><li><strong>Definition 2:</strong> A light chip; a chipped pass or shot</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play a soft drop shot.</li><li><strong>Definition 2:</strong> To chip lightly, to play a light chip shot.<p><strong>Example:</strong> The forward dinked the ball over the goalkeeper to score his first goal of the season.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A ride on the crossbar or handlebars of a bicycle.<p><strong>Example:</strong> I gave him a dink on my bike.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To carry someone on a pushbike: behind, on the crossbar or on the handlebar.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A North Vietnamese soldier.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Double Income No Kids - a childless couple with two jobs.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A penis.</li><li><strong>Definition 2:</strong> A foolish person, a despised person.</li></ul></div></div>"
+description: Yes, DINKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- binks
+- danks
+- dines
+- dings
+- dinky
+- dinos
+- dints
+- dirks
+- disks
+- dunks
+- finks
+- ginks
+anagrams:
+- kinds
+trap:
+  pattern: _INKS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: A soft drop shot.
+  - text: A light chip; a chipped pass or shot
+- pos: verb
+  defs:
+  - text: To play a soft drop shot.
+  - text: To chip lightly, to play a light chip shot.
+    example: The forward dinked the ball over the goalkeeper to score his first goal
+      of the season.
+- pos: noun
+  defs:
+  - text: A ride on the crossbar or handlebars of a bicycle.
+    example: I gave him a dink on my bike.
+- pos: verb
+  defs:
+  - text: 'To carry someone on a pushbike: behind, on the crossbar or on the handlebar.'
+- pos: noun
+  defs:
+  - text: A North Vietnamese soldier.
+- pos: noun
+  defs:
+  - text: Double Income No Kids - a childless couple with two jobs.
+- pos: noun
+  defs:
+  - text: A penis.
+  - text: A foolish person, a despised person.
 ---
-

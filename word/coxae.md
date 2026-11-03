@@ -1,7 +1,35 @@
 ---
 layout: word
-title: coxae
+title: Is COXAE a Wordle Word?
+head_title: Is COXAE a Wordle Word? Yes – Valid Guess & Meaning
 word: coxae
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The basal segment of a limb of various arthropods (insects and spiders, for example).</li></ul></div></div>"
+description: Yes, COXAE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - E
+  rare:
+  - X
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- comae
+- coxal
+definitions:
+- pos: noun
+  defs:
+  - text: The basal segment of a limb of various arthropods (insects and spiders,
+      for example).
 ---
-

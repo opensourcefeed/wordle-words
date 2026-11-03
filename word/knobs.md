@@ -1,7 +1,50 @@
 ---
 layout: word
-title: knobs
+title: Is KNOBS a Wordle Word?
+head_title: Is KNOBS a Wordle Word? Yes – Valid Guess & Meaning
 word: knobs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rounded protuberance, especially one arising from a flat surface; a fleshy lump or caruncle.</li><li><strong>Definition 2:</strong> A rounded control switch that can be turned on its axis, designed to be operated by the fingers.</li><li><strong>Definition 3:</strong> A ball-shaped part of a handle, lever, etc., designed to be grabbed by the hand.</li><li><strong>Definition 4:</strong> A rounded ornament on the hilt of an edged weapon; a pommel.</li><li><strong>Definition 5:</strong> A prominent, rounded bump along a mountain ridge.</li><li><strong>Definition 6:</strong> A prominent rounded hill.</li><li><strong>Definition 7:</strong> (chiefly in the plural) A woman's breast.</li><li><strong>Definition 8:</strong> The penis.</li><li><strong>Definition 9:</strong> The head of the penis; the glans.</li><li><strong>Definition 10:</strong> (by analogy with above) A contemptible person.</li><li><strong>Definition 11:</strong> A dollop, an amount just larger than a spoonful (usually referring to butter).</li><li><strong>Definition 12:</strong> A chunky branch-like piece, especially of a ginger rhizome.</li><li><strong>Definition 13:</strong> A bulb of the garlic plant consisting of multiple cloves.</li></ul></div></div>"
+description: Yes, KNOBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- knops
+- knots
+- knows
+- knubs
+- snobs
+anagrams:
+- bonks
+definitions:
+- pos: noun
+  defs:
+  - text: A rounded protuberance, especially one arising from a flat surface; a fleshy
+      lump or caruncle.
+  - text: A rounded control switch that can be turned on its axis, designed to be
+      operated by the fingers.
+  - text: A ball-shaped part of a handle, lever, etc., designed to be grabbed by the
+      hand.
+  - text: A rounded ornament on the hilt of an edged weapon; a pommel.
+  - text: A prominent, rounded bump along a mountain ridge.
+  - text: A prominent rounded hill.
+  - text: "(chiefly in the plural) A woman's breast."
+  - text: The penis.
+  - text: The head of the penis; the glans.
+  - text: "(by analogy with above) A contemptible person."
+  - text: A dollop, an amount just larger than a spoonful (usually referring to butter).
+  - text: A chunky branch-like piece, especially of a ginger rhizome.
+  - text: A bulb of the garlic plant consisting of multiple cloves.
 ---
-

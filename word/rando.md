@@ -1,7 +1,46 @@
 ---
 layout: word
-title: rando
+title: Is RANDO a Wordle Word?
+head_title: Is RANDO a Wordle Word? Yes – Valid Guess & Meaning
 word: rando
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹændəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An arbitrary person with whom one has no shared social connection.<p><strong>Example:</strong> I accidentally took some rando's luggage from the airport carousel.</p></li><li><strong>Definition 2:</strong> A person going to a party without being invited.</li><li><strong>Definition 3:</strong> Anything selected at random.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Random; arbitrary.</li></ul></div></div>"
+description: Yes, RANDO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- randy
+- cando
+- rands
+- rondo
+anagrams:
+- adorn
+- andro
+- narod
+- radon
+phonetic: "/ˈɹændəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An arbitrary person with whom one has no shared social connection.
+    example: I accidentally took some rando's luggage from the airport carousel.
+  - text: A person going to a party without being invited.
+  - text: Anything selected at random.
+- pos: adjective
+  defs:
+  - text: Random; arbitrary.
 ---
-

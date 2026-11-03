@@ -1,7 +1,53 @@
 ---
 layout: word
-title: isles
+title: Is ISLES a Wordle Word?
+head_title: Is ISLES a Wordle Word? Yes – Valid Guess & Meaning
 word: isles
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A wing of a building, notably in a church separated from the nave proper by piers.</li><li><strong>Definition 2:</strong> A clear path through rows of seating.</li><li><strong>Definition 3:</strong> A clear corridor in a supermarket with shelves on both sides containing goods for sale.</li><li><strong>Definition 4:</strong> Any path through an otherwise obstructed space.</li><li><strong>Definition 5:</strong> Seat in public transport, such as a plane, train or bus, that's beside the aisle.<p><strong>Example:</strong> Do you want to seat window or aisle?</p></li><li><strong>Definition 6:</strong> An idiomatic divide between the Republican Party and the Democratic Party, who are said to be on two sides of the aisle.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A (small) island, compare with islet.</li></ul></div></div>"
+description: Yes, ISLES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- islet
+- idles
+- ishes
+- isled
+anagrams:
+- lises
+- seils
+- siles
+definitions:
+- pos: noun
+  defs:
+  - text: A wing of a building, notably in a church separated from the nave proper
+      by piers.
+  - text: A clear path through rows of seating.
+  - text: A clear corridor in a supermarket with shelves on both sides containing
+      goods for sale.
+  - text: Any path through an otherwise obstructed space.
+  - text: Seat in public transport, such as a plane, train or bus, that's beside the
+      aisle.
+    example: Do you want to seat window or aisle?
+  - text: An idiomatic divide between the Republican Party and the Democratic Party,
+      who are said to be on two sides of the aisle.
+- pos: noun
+  defs:
+  - text: A (small) island, compare with islet.
 ---
-

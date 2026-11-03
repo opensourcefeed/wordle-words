@@ -1,7 +1,50 @@
 ---
 layout: word
-title: barre
+title: Is BARRE a Wordle Word?
+head_title: Is BARRE a Wordle Word? Yes – Valid Guess & Meaning
 word: barre
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A handrail fixed to a wall used for ballet exercises.</li><li><strong>Definition 2:</strong> Short for barre chord.</li></ul></div></div>"
+description: Yes, BARRE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- barge
+- barbe
+- barde
+- barra
+- barro
+- barry
+- barye
+- darre
+- garre
+- narre
+- tarre
+- warre
+anagrams:
+- rebar
+- barer
+trap:
+  pattern: _ARRE
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A handrail fixed to a wall used for ballet exercises.
+  - text: Short for barre chord.
 ---
-

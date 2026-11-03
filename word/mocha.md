@@ -1,7 +1,48 @@
 ---
 layout: word
-title: mocha
+title: Is MOCHA a Wordle Word?
+head_title: 'Is MOCHA a Wordle Word? Yes – Past Answer #1934 & Meaning'
 word: mocha
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɒkə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coffee drink with chocolate syrup added, or a serving thereof; a caffè mocha.</li><li><strong>Definition 2:</strong> A coffee and chocolate mixed flavour.<p><strong>Example:</strong> mocha fudge</p></li><li><strong>Definition 3:</strong> A dark brown colour, like that of mocha coffee.</li><li><strong>Definition 4:</strong> A strong Arabian coffee.</li><li><strong>Definition 5:</strong> An Abyssinian weight, equivalent to a Troy grain.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a dark brown colour, like that of mocha coffee.</li></ul></div></div>"
+description: Yes, MOCHA is a valid Wordle word. It was the Wordle answer on October
+  5, 2026 (#1934). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 5, 2026 (#1934).
+past_answers:
+- date: '2026-10-05'
+  number: 1934
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- mecha
+- mochi
+- mochs
+- mochy
+anagrams:
+- macho
+phonetic: "/ˈmɒkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A coffee drink with chocolate syrup added, or a serving thereof; a caffè
+      mocha.
+  - text: A coffee and chocolate mixed flavour.
+    example: mocha fudge
+  - text: A dark brown colour, like that of mocha coffee.
+  - text: A strong Arabian coffee.
+  - text: An Abyssinian weight, equivalent to a Troy grain.
+- pos: adjective
+  defs:
+  - text: Of a dark brown colour, like that of mocha coffee.
 ---
-

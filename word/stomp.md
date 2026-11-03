@@ -1,7 +1,46 @@
 ---
 layout: word
-title: stomp
+title: Is STOMP a Wordle Word?
+head_title: 'Is STOMP a Wordle Word? Yes – Past Answer #404 & Meaning'
 word: stomp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɒmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A deliberate heavy footfall; a stamp.<p><strong>Example:</strong> She obliterated the cockroach with one stomp.</p></li><li><strong>Definition 2:</strong> A dance having a heavy, rhythmic step.</li><li><strong>Definition 3:</strong> The jazz music for this dance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trample heavily.</li><li><strong>Definition 2:</strong> To severely beat someone physically or figuratively.</li></ul></div></div>"
+description: Yes, STOMP is a valid Wordle word. It was the Wordle answer on July 28,
+  2022 (#404). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 28, 2022 (#404).
+past_answers:
+- date: '2022-07-28'
+  number: 404
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- stamp
+- stoop
+- stump
+- stoep
+- stoma
+- stoup
+- stowp
+phonetic: "/stɒmp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A deliberate heavy footfall; a stamp.
+    example: She obliterated the cockroach with one stomp.
+  - text: A dance having a heavy, rhythmic step.
+  - text: The jazz music for this dance.
+- pos: verb
+  defs:
+  - text: To trample heavily.
+  - text: To severely beat someone physically or figuratively.
 ---
-

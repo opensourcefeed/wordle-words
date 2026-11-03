@@ -1,7 +1,46 @@
 ---
 layout: word
-title: logan
+title: Is LOGAN a Wordle Word?
+head_title: Is LOGAN a Wordle Word? Yes – Valid Guess & Meaning
 word: logan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rocking or balanced stone.</li></ul></div></div>"
+description: Yes, LOGAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- login
+- bogan
+- dogan
+- hogan
+- lagan
+- ligan
+- logon
+- lohan
+- loran
+- lowan
+- rogan
+anagrams:
+- along
+- anglo
+- longa
+- nogal
+definitions:
+- pos: noun
+  defs:
+  - text: A rocking or balanced stone.
 ---
-

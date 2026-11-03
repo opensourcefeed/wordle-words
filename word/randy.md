@@ -1,7 +1,52 @@
 ---
 layout: word
-title: randy
+title: Is RANDY a Wordle Word?
+head_title: Is RANDY a Wordle Word? Yes – Possible Answer & Meaning
 word: randy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹændi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Impudent beggar</li><li><strong>Definition 2:</strong> Boisterous, coarse, loose woman</li><li><strong>Definition 3:</strong> Virago</li><li><strong>Definition 4:</strong> Random</li><li><strong>Definition 5:</strong> (aerial freestyle skiing) one and a half twist acrobatic maneuver</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Sexually aroused; full of sexual lust.</li><li><strong>Definition 2:</strong> Rude or coarse in manner.</li></ul></div></div>"
+description: Yes, RANDY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- candy
+- dandy
+- handy
+- sandy
+- bandy
+- gandy
+- kandy
+- mandy
+- pandy
+- raddy
+- rando
+- rands
+trap:
+  pattern: _ANDY
+  count: 11
+phonetic: "/ˈɹændi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Impudent beggar
+  - text: Boisterous, coarse, loose woman
+  - text: Virago
+  - text: Random
+  - text: "(aerial freestyle skiing) one and a half twist acrobatic maneuver"
+- pos: adjective
+  defs:
+  - text: Sexually aroused; full of sexual lust.
+  - text: Rude or coarse in manner.
 ---
-

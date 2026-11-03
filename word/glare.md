@@ -1,7 +1,66 @@
 ---
 layout: word
-title: glare
+title: Is GLARE a Wordle Word?
+head_title: 'Is GLARE a Wordle Word? Yes – Past Answer #1593 & Meaning'
 word: glare
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡlɛə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An intense, blinding light.</li><li><strong>Definition 2:</strong> Showy brilliance; gaudiness.</li><li><strong>Definition 3:</strong> An angry or fierce stare.</li><li><strong>Definition 4:</strong> A call collision; the situation where an incoming call occurs at the same time as an outgoing call.</li><li><strong>Definition 5:</strong> A smooth, bright, glassy surface.<p><strong>Example:</strong> a glare of ice</p></li><li><strong>Definition 6:</strong> A viscous, transparent substance; glair.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stare angrily.<p><strong>Example:</strong> He walked in late, with the teacher glaring at him the whole time.</p></li><li><strong>Definition 2:</strong> To shine brightly.<p><strong>Example:</strong> The sun glared down on the desert sand.</p></li><li><strong>Definition 3:</strong> To be bright and intense, or ostentatiously splendid.</li><li><strong>Definition 4:</strong> To shoot out, or emit, as a dazzling light.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of ice) smooth and bright or translucent; glary<p><strong>Example:</strong> skating on glare ice</p></li></ul></div></div>"
+description: Yes, GLARE is a valid Wordle word. It was the Wordle answer on October
+  29, 2025 (#1593). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 29, 2025 (#1593).
+past_answers:
+- date: '2025-10-29'
+  number: 1593
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- blare
+- flare
+- glade
+- glaze
+- geare
+- glace
+- glary
+anagrams:
+- lager
+- large
+- regal
+- argle
+phonetic: "/ɡlɛə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An intense, blinding light.
+  - text: Showy brilliance; gaudiness.
+  - text: An angry or fierce stare.
+  - text: A call collision; the situation where an incoming call occurs at the same
+      time as an outgoing call.
+  - text: A smooth, bright, glassy surface.
+    example: a glare of ice
+  - text: A viscous, transparent substance; glair.
+- pos: verb
+  defs:
+  - text: To stare angrily.
+    example: He walked in late, with the teacher glaring at him the whole time.
+  - text: To shine brightly.
+    example: The sun glared down on the desert sand.
+  - text: To be bright and intense, or ostentatiously splendid.
+  - text: To shoot out, or emit, as a dazzling light.
+- pos: adjective
+  defs:
+  - text: "(of ice) smooth and bright or translucent; glary"
+    example: skating on glare ice
 ---
-

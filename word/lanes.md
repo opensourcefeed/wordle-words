@@ -1,7 +1,65 @@
 ---
 layout: word
-title: lanes
+title: Is LANES a Wordle Word?
+head_title: Is LANES a Wordle Word? Yes – Valid Guess & Meaning
 word: lanes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /leɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (used in street names) A road, street, or similar thoroughfare.</li><li><strong>Definition 2:</strong> A narrow passageway between fences, walls, hedges or trees.</li><li><strong>Definition 3:</strong> A narrow road, as in the country.</li><li><strong>Definition 4:</strong> A lengthwise division of roadway intended for a single line of vehicles.</li><li><strong>Definition 5:</strong> A similar division of a racetrack to keep runners apart.</li><li><strong>Definition 6:</strong> A course designated for ships or aircrafts.</li><li><strong>Definition 7:</strong> An elongated wooden strip of floor along which a bowling ball is rolled.</li><li><strong>Definition 8:</strong> An empty space in the tableau, formed by the removal of an entire row of cards.</li><li><strong>Definition 9:</strong> Any of the parallel slots in which values can be stored in a SIMD architecture.</li><li><strong>Definition 10:</strong> In MOBA (multiplayer online battle arena) games, a particular path on the map that may be traversed by enemy characters.</li><li><strong>Definition 11:</strong> The homestretch.<p><strong>Example:</strong> And it's Uncle Mo in front by two as they come to the top of the lane.</p></li></ul></div></div>"
+description: Yes, LANES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- banes
+- canes
+- fanes
+- janes
+- kanes
+- laces
+- lades
+- lakes
+- lames
+- lanas
+- lands
+- laned
+anagrams:
+- elans
+- leans
+- neals
+- slane
+trap:
+  pattern: _ANES
+  count: 12
+phonetic: "/leɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(used in street names) A road, street, or similar thoroughfare."
+  - text: A narrow passageway between fences, walls, hedges or trees.
+  - text: A narrow road, as in the country.
+  - text: A lengthwise division of roadway intended for a single line of vehicles.
+  - text: A similar division of a racetrack to keep runners apart.
+  - text: A course designated for ships or aircrafts.
+  - text: An elongated wooden strip of floor along which a bowling ball is rolled.
+  - text: An empty space in the tableau, formed by the removal of an entire row of
+      cards.
+  - text: Any of the parallel slots in which values can be stored in a SIMD architecture.
+  - text: In MOBA (multiplayer online battle arena) games, a particular path on the
+      map that may be traversed by enemy characters.
+  - text: The homestretch.
+    example: And it's Uncle Mo in front by two as they come to the top of the lane.
 ---
-

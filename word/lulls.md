@@ -1,7 +1,53 @@
 ---
 layout: word
-title: lulls
+title: Is LULLS a Wordle Word?
+head_title: Is LULLS a Wordle Word? Yes – Valid Guess & Meaning
 word: lulls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [lɐɫz]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A period of rest or soothing.</li><li><strong>Definition 2:</strong> A period of reduced activity; a respite</li><li><strong>Definition 3:</strong> A period without waves or wind.</li><li><strong>Definition 4:</strong> An extended pause between sets of waves.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause to rest by soothing influences; to compose; to calm</li><li><strong>Definition 2:</strong> To become gradually calm; to subside; to cease or abate.<p><strong>Example:</strong> The storm lulled.</p></li></ul></div></div>"
+description: Yes, LULLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 3
+  repeated:
+  - L
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- bulls
+- culls
+- dulls
+- fulls
+- gulls
+- hulls
+- lalls
+- lills
+- lolls
+- lulus
+- mulls
+- nulls
+trap:
+  pattern: _ULLS
+  count: 12
+phonetic: "[lɐɫz]"
+definitions:
+- pos: noun
+  defs:
+  - text: A period of rest or soothing.
+  - text: A period of reduced activity; a respite
+  - text: A period without waves or wind.
+  - text: An extended pause between sets of waves.
+- pos: verb
+  defs:
+  - text: To cause to rest by soothing influences; to compose; to calm
+  - text: To become gradually calm; to subside; to cease or abate.
+    example: The storm lulled.
 ---
-

@@ -1,7 +1,57 @@
 ---
 layout: word
-title: feats
+title: Is FEATS a Wordle Word?
+head_title: Is FEATS a Wordle Word? Yes – Valid Guess & Meaning
 word: feats
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A relatively rare or difficult accomplishment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form; to fashion.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To feature. I</li></ul></div></div>"
+description: Yes, FEATS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- beats
+- feals
+- fears
+- felts
+- fents
+- fests
+- fetts
+- fiats
+- flats
+- frats
+- geats
+- heats
+anagrams:
+- feast
+- fates
+- festa
+- fetas
+trap:
+  pattern: _EATS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A relatively rare or difficult accomplishment.
+- pos: verb
+  defs:
+  - text: To form; to fashion.
+- pos: verb
+  defs:
+  - text: To feature. I
 ---
-

@@ -1,7 +1,75 @@
 ---
 layout: word
-title: blues
+title: Is BLUES a Wordle Word?
+head_title: Is BLUES a Wordle Word? Yes – Valid Guess & Meaning
 word: blues
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bluːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this.</li><li><strong>Definition 2:</strong> A blue dye or pigment.</li><li><strong>Definition 3:</strong> Any of several processes to protect metal against rust.</li><li><strong>Definition 4:</strong> Blue clothing<p><strong>Example:</strong> The boys in blue marched to the pipers.</p></li><li><strong>Definition 5:</strong> (in the plural) A blue uniform. See blues.</li><li><strong>Definition 6:</strong> A member of law enforcement</li><li><strong>Definition 7:</strong> The sky, literally or figuratively.<p><strong>Example:</strong> His request for leave came out of the blue.</p></li><li><strong>Definition 8:</strong> The ocean; deep waters.</li><li><strong>Definition 9:</strong> The far distance; a remote or distant place.</li><li><strong>Definition 10:</strong> Anything blue, especially to distinguish it from similar objects differing only in color.</li><li><strong>Definition 11:</strong> A dog or cat with a slaty gray coat.</li><li><strong>Definition 12:</strong> One of the colour balls used in snooker, with a value of five points.</li><li><strong>Definition 13:</strong> Any of the butterflies of the subfamily Polyommatinae in the family Lycaenidae, most of which have blue on their wings.</li><li><strong>Definition 14:</strong> A bluefish.</li><li><strong>Definition 15:</strong> An argument.</li><li><strong>Definition 16:</strong> A liquid with an intense blue colour, added to a laundry wash to prevent yellowing of white clothes.</li><li><strong>Definition 17:</strong> A type of firecracker.</li><li><strong>Definition 18:</strong> A bluestocking.</li><li><strong>Definition 19:</strong> One of the three color charges for quarks.</li></ul></div></div>"
+description: Yes, BLUES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- bluer
+- blaes
+- blees
+- blubs
+- bluds
+- blued
+- bluet
+- bluey
+- blurs
+- clues
+- flues
+- glues
+anagrams:
+- bulse
+- lubes
+trap:
+  pattern: _LUES
+  count: 6
+phonetic: "/bluːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The colour of the clear sky or the deep sea, between green and violet in
+      the visible spectrum, and one of the primary additive colours for transmitted
+      light; the colour obtained by subtracting red and green from white light using
+      magenta and cyan filters; or any colour resembling this.
+  - text: A blue dye or pigment.
+  - text: Any of several processes to protect metal against rust.
+  - text: Blue clothing
+    example: The boys in blue marched to the pipers.
+  - text: "(in the plural) A blue uniform. See blues."
+  - text: A member of law enforcement
+  - text: The sky, literally or figuratively.
+    example: His request for leave came out of the blue.
+  - text: The ocean; deep waters.
+  - text: The far distance; a remote or distant place.
+  - text: Anything blue, especially to distinguish it from similar objects differing
+      only in color.
+  - text: A dog or cat with a slaty gray coat.
+  - text: One of the colour balls used in snooker, with a value of five points.
+  - text: Any of the butterflies of the subfamily Polyommatinae in the family Lycaenidae,
+      most of which have blue on their wings.
+  - text: A bluefish.
+  - text: An argument.
+  - text: A liquid with an intense blue colour, added to a laundry wash to prevent
+      yellowing of white clothes.
+  - text: A type of firecracker.
+  - text: A bluestocking.
+  - text: One of the three color charges for quarks.
 ---
-

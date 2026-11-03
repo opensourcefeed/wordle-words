@@ -1,7 +1,35 @@
 ---
 layout: word
-title: peppy
+title: Is PEPPY a Wordle Word?
+head_title: Is PEPPY a Wordle Word? Yes – Valid Guess & Meaning
 word: peppy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɛpi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Full of pep; energetic, cheerful, and vigorous; bouncy<p><strong>Example:</strong> Cedric was not feeling peppy when he woke up two hours before dawn.</p></li></ul></div></div>"
+description: Yes, PEPPY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - P
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- poppy
+- puppy
+- pappy
+- peepy
+- pippy
+phonetic: "/ˈpɛpi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of pep; energetic, cheerful, and vigorous; bouncy
+    example: Cedric was not feeling peppy when he woke up two hours before dawn.
 ---
-

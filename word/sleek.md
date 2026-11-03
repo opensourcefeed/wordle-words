@@ -1,7 +1,57 @@
 ---
 layout: word
-title: sleek
+title: Is SLEEK a Wordle Word?
+head_title: 'Is SLEEK a Wordle Word? Yes – Past Answer #565 & Meaning'
 word: sleek
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sliːk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which makes smooth; varnish.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make smooth or glossy; to polish or cause to be attractive.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having an even, smooth surface; smooth<p><strong>Example:</strong> sleek hair</p></li><li><strong>Definition 2:</strong> Glossy</li><li><strong>Definition 3:</strong> Not rough or harsh.</li><li><strong>Definition 4:</strong> Slim and streamlined; not plump, thick, or stocky.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> With ease and dexterity.</li></ul></div></div>"
+description: Yes, SLEEK is a valid Wordle word. It was the Wordle answer on January
+  5, 2023 (#565). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 5, 2023 (#565).
+past_answers:
+- date: '2023-01-05'
+  number: 565
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- sleep
+- sleet
+- cleek
+- fleek
+- gleek
+- sleer
+- smeek
+- steek
+anagrams:
+- keels
+- leeks
+phonetic: "/sliːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: That which makes smooth; varnish.
+- pos: verb
+  defs:
+  - text: To make smooth or glossy; to polish or cause to be attractive.
+- pos: adjective
+  defs:
+  - text: Having an even, smooth surface; smooth
+    example: sleek hair
+  - text: Glossy
+  - text: Not rough or harsh.
+  - text: Slim and streamlined; not plump, thick, or stocky.
+- pos: adverb
+  defs:
+  - text: With ease and dexterity.
 ---
-

@@ -1,7 +1,58 @@
 ---
 layout: word
-title: items
+title: Is ITEMS a Wordle Word?
+head_title: Is ITEMS a Wordle Word? Yes – Valid Guess & Meaning
 word: items
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈaɪtəmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A distinct physical object.<p><strong>Example:</strong> Tweezers are great for manipulating small items.</p></li><li><strong>Definition 2:</strong> (by extension) An object that can be picked up for later use.</li><li><strong>Definition 3:</strong> A line of text having a legal or other meaning; a separate particular in an account.<p><strong>Example:</strong> In response to the first item, we deny all wrongdoing.</p></li><li><strong>Definition 4:</strong> (psychometrics) A question on a test, which may include its answers.<p><strong>Example:</strong> The exam has 100 items, each of which includes a correct response and three distractors.</p></li><li><strong>Definition 5:</strong> A matter for discussion in an agenda.<p><strong>Example:</strong> The first item for discussion is the budget for next year's picnic.</p></li><li><strong>Definition 6:</strong> Two people who are having a relationship with each other.<p><strong>Example:</strong> Jack and Jill are an item.</p></li><li><strong>Definition 7:</strong> A short article in a newspaper.<p><strong>Example:</strong> an item concerning the weather</p></li><li><strong>Definition 8:</strong> A hint; an innuendo.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a note of.</li></ul></div></div>"
+description: Yes, ITEMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- stems
+anagrams:
+- smite
+- emits
+- metis
+- mites
+- stime
+- times
+phonetic: "/ˈaɪtəmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A distinct physical object.
+    example: Tweezers are great for manipulating small items.
+  - text: "(by extension) An object that can be picked up for later use."
+  - text: A line of text having a legal or other meaning; a separate particular in
+      an account.
+    example: In response to the first item, we deny all wrongdoing.
+  - text: "(psychometrics) A question on a test, which may include its answers."
+    example: The exam has 100 items, each of which includes a correct response and
+      three distractors.
+  - text: A matter for discussion in an agenda.
+    example: The first item for discussion is the budget for next year's picnic.
+  - text: Two people who are having a relationship with each other.
+    example: Jack and Jill are an item.
+  - text: A short article in a newspaper.
+    example: an item concerning the weather
+  - text: A hint; an innuendo.
+- pos: verb
+  defs:
+  - text: To make a note of.
 ---
-

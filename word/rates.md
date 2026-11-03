@@ -1,7 +1,116 @@
 ---
 layout: word
-title: rates
+title: Is RATES a Wordle Word?
+head_title: Is RATES a Wordle Word? Yes – Valid Guess & Meaning
 word: rates
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹeɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The worth of something; value.</li><li><strong>Definition 2:</strong> The proportional relationship between one amount, value etc. and another.<p><strong>Example:</strong> At the height of his powers, he was producing pictures at the rate of four a year.</p></li><li><strong>Definition 3:</strong> Speed.<p><strong>Example:</strong> The car was speeding down here at a hell of a rate.</p></li><li><strong>Definition 4:</strong> The relative speed of change or progress.<p><strong>Example:</strong> The rate of production at the factory is skyrocketing.</p></li><li><strong>Definition 5:</strong> The price of (an individual) thing; cost.<p><strong>Example:</strong> He asked quite a rate to take me to the airport.</p></li><li><strong>Definition 6:</strong> A set price or charge for all examples of a given case, commodity, service etc.<p><strong>Example:</strong> Postal rates here are low.</p></li><li><strong>Definition 7:</strong> A wage calculated in relation to a unit of time.<p><strong>Example:</strong> We pay an hourly rate of between $10 – $15 per hour depending on qualifications and experience.</p></li><li><strong>Definition 8:</strong> Any of various taxes, especially those levied by a local authority.<p><strong>Example:</strong> I hardly have enough left every month to pay the rates.</p></li><li><strong>Definition 9:</strong> A class into which ships were assigned based on condition, size etc.; by extension, rank.<p><strong>Example:</strong> This textbook is first-rate.</p></li><li><strong>Definition 10:</strong> Established portion or measure; fixed allowance; ration.</li><li><strong>Definition 11:</strong> Order; arrangement.</li><li><strong>Definition 12:</strong> Ratification; approval.</li><li><strong>Definition 13:</strong> The gain or loss of a timepiece in a unit of time.<p><strong>Example:</strong> daily rate; hourly rate; etc.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assign or be assigned a particular rank or level.<p><strong>Example:</strong> She is rated fourth in the country.</p></li><li><strong>Definition 2:</strong> To evaluate or estimate the value of.<p><strong>Example:</strong> They rate his talents highly.</p></li><li><strong>Definition 3:</strong> To consider or regard.<p><strong>Example:</strong> He rated this book brilliant.</p></li><li><strong>Definition 4:</strong> To deserve; to be worth.<p><strong>Example:</strong> The view here hardly rates a mention in the travel guide.</p></li><li><strong>Definition 5:</strong> To determine the limits of safe functioning for a machine or electrical device.<p><strong>Example:</strong> The transformer is rated at 10 watts.</p></li><li><strong>Definition 6:</strong> To evaluate a property's value for the purposes of local taxation.</li><li><strong>Definition 7:</strong> To like; to think highly of.<p><strong>Example:</strong> The customers don't rate the new burgers.</p></li><li><strong>Definition 8:</strong> To have position (in a certain class).<p><strong>Example:</strong> He rates as the best cyclist in the country.</p></li><li><strong>Definition 9:</strong> To have value or standing.<p><strong>Example:</strong> This last performance of hers didn't rate very high with the judges.</p></li><li><strong>Definition 10:</strong> To ratify.</li><li><strong>Definition 11:</strong> To ascertain the exact rate of the gain or loss of (a chronometer) as compared with true time.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To berate, scold.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (British, New Zealand, or Australian) Taxes, usually on property, levied by local government.</li></ul></div></div>"
+description: Yes, RATES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- bates
+- cates
+- dates
+- fates
+- gates
+- hates
+- mates
+- nates
+- pates
+- races
+- rages
+- rajes
+anagrams:
+- stare
+- arets
+- aster
+- earst
+- reast
+- resat
+- sater
+- stear
+- strae
+- tares
+- tarse
+- taser
+trap:
+  pattern: RA_ES
+  count: 14
+phonetic: "/ɹeɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: The worth of something; value.
+  - text: The proportional relationship between one amount, value etc. and another.
+    example: At the height of his powers, he was producing pictures at the rate of
+      four a year.
+  - text: Speed.
+    example: The car was speeding down here at a hell of a rate.
+  - text: The relative speed of change or progress.
+    example: The rate of production at the factory is skyrocketing.
+  - text: The price of (an individual) thing; cost.
+    example: He asked quite a rate to take me to the airport.
+  - text: A set price or charge for all examples of a given case, commodity, service
+      etc.
+    example: Postal rates here are low.
+  - text: A wage calculated in relation to a unit of time.
+    example: We pay an hourly rate of between $10 – $15 per hour depending on qualifications
+      and experience.
+  - text: Any of various taxes, especially those levied by a local authority.
+    example: I hardly have enough left every month to pay the rates.
+  - text: A class into which ships were assigned based on condition, size etc.; by
+      extension, rank.
+    example: This textbook is first-rate.
+  - text: Established portion or measure; fixed allowance; ration.
+  - text: Order; arrangement.
+  - text: Ratification; approval.
+  - text: The gain or loss of a timepiece in a unit of time.
+    example: daily rate; hourly rate; etc.
+- pos: verb
+  defs:
+  - text: To assign or be assigned a particular rank or level.
+    example: She is rated fourth in the country.
+  - text: To evaluate or estimate the value of.
+    example: They rate his talents highly.
+  - text: To consider or regard.
+    example: He rated this book brilliant.
+  - text: To deserve; to be worth.
+    example: The view here hardly rates a mention in the travel guide.
+  - text: To determine the limits of safe functioning for a machine or electrical
+      device.
+    example: The transformer is rated at 10 watts.
+  - text: To evaluate a property's value for the purposes of local taxation.
+  - text: To like; to think highly of.
+    example: The customers don't rate the new burgers.
+  - text: To have position (in a certain class).
+    example: He rates as the best cyclist in the country.
+  - text: To have value or standing.
+    example: This last performance of hers didn't rate very high with the judges.
+  - text: To ratify.
+  - text: To ascertain the exact rate of the gain or loss of (a chronometer) as compared
+      with true time.
+- pos: verb
+  defs:
+  - text: To berate, scold.
+- pos: noun
+  defs:
+  - text: "(British, New Zealand, or Australian) Taxes, usually on property, levied
+      by local government."
 ---
-

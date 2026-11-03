@@ -1,7 +1,60 @@
 ---
 layout: word
-title: drams
+title: Is DRAMS a Wordle Word?
+head_title: Is DRAMS a Wordle Word? Yes – Valid Guess & Meaning
 word: drams
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The currency of Greece in ancient times and again from 1832 until 2001, with the symbol ₯, since replaced by the euro.</li><li><strong>Definition 2:</strong> A coin worth one drachma.</li><li><strong>Definition 3:</strong> An Ancient Greek weight of about 66.5 grains, or 4.3 grams.</li><li><strong>Definition 4:</strong> A later Greek weight equal to a gram.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small unit of weight, variously:</li><li><strong>Definition 2:</strong> Any similarly minute quantity, a small amount of strong alcohol or poison.<p><strong>Example:</strong> a dram of brandy</p></li><li><strong>Definition 3:</strong> A cart formerly used to haul coal in coal mines.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The currency of Armenia, divided into 100 luma.</li></ul></div></div>"
+description: Yes, DRAMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- drama
+- crams
+- drabs
+- drags
+- draps
+- drats
+- draws
+- drays
+- drums
+- dwams
+- grams
+- prams
+anagrams:
+- mards
+- mrads
+trap:
+  pattern: DRA_S
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The currency of Greece in ancient times and again from 1832 until 2001,
+      with the symbol ₯, since replaced by the euro.
+  - text: A coin worth one drachma.
+  - text: An Ancient Greek weight of about 66.5 grains, or 4.3 grams.
+  - text: A later Greek weight equal to a gram.
+- pos: noun
+  defs:
+  - text: 'A small unit of weight, variously:'
+  - text: Any similarly minute quantity, a small amount of strong alcohol or poison.
+    example: a dram of brandy
+  - text: A cart formerly used to haul coal in coal mines.
+- pos: noun
+  defs:
+  - text: The currency of Armenia, divided into 100 luma.
 ---
-

@@ -1,7 +1,68 @@
 ---
 layout: word
-title: sound
+title: Is SOUND a Wordle Word?
+head_title: 'Is SOUND a Wordle Word? Yes – Past Answer #605 & Meaning'
 word: sound
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /saʊnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Healthy.<p><strong>Example:</strong> He was safe and sound.</p></li><li><strong>Definition 2:</strong> Complete, solid, or secure.<p><strong>Example:</strong> Fred assured me the floorboards were sound.</p></li><li><strong>Definition 3:</strong> Having the property of soundness.</li><li><strong>Definition 4:</strong> Good; acceptable; decent.<p><strong>Example:</strong> \"How are you?\" - \"I'm sound.\"</p></li><li><strong>Definition 5:</strong> (of sleep) Quiet and deep. Sound asleep means sleeping peacefully, often deeply.<p><strong>Example:</strong> Her sleep was sound.</p></li><li><strong>Definition 6:</strong> Heavy; laid on with force.<p><strong>Example:</strong> a sound beating</p></li><li><strong>Definition 7:</strong> Founded in law; legal; valid; not defective.<p><strong>Example:</strong> a sound title to land</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Soundly.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Yes; used to show agreement or understanding, generally without much enthusiasm.</li></ul></div></div>"
+description: Yes, SOUND is a valid Wordle word. It was the Wordle answer on February
+  14, 2023 (#605). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 14, 2023 (#605).
+past_answers:
+- date: '2023-02-14'
+  number: 605
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- bound
+- found
+- hound
+- mound
+- pound
+- round
+- wound
+- lound
+- sownd
+anagrams:
+- nodus
+- udons
+- undos
+- unsod
+trap:
+  pattern: _OUND
+  count: 9
+phonetic: "/saʊnd/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Healthy.
+    example: He was safe and sound.
+  - text: Complete, solid, or secure.
+    example: Fred assured me the floorboards were sound.
+  - text: Having the property of soundness.
+  - text: Good; acceptable; decent.
+    example: '"How are you?" - "I''m sound."'
+  - text: "(of sleep) Quiet and deep. Sound asleep means sleeping peacefully, often
+      deeply."
+    example: Her sleep was sound.
+  - text: Heavy; laid on with force.
+    example: a sound beating
+  - text: Founded in law; legal; valid; not defective.
+    example: a sound title to land
+- pos: adverb
+  defs:
+  - text: Soundly.
+- pos: interjection
+  defs:
+  - text: Yes; used to show agreement or understanding, generally without much enthusiasm.
 ---
-

@@ -1,7 +1,58 @@
 ---
 layout: word
-title: hardy
+title: Is HARDY a Wordle Word?
+head_title: 'Is HARDY a Wordle Word? Yes – Past Answer #1573 & Meaning'
 word: hardy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɑːdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in the plural) Anything, especially a plant, that is hardy.</li><li><strong>Definition 2:</strong> A blacksmith's fuller or chisel, having a square shank for insertion into a square hole in an anvil, called the hardy hole.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having rugged physical strength; inured to fatigue or hardships.</li><li><strong>Definition 2:</strong> Able to survive adverse growing conditions.<p><strong>Example:</strong> A hardy plant is one that can withstand the extremes of climate, such as frost.</p></li><li><strong>Definition 3:</strong> Brave and resolute.</li><li><strong>Definition 4:</strong> Impudent.</li></ul></div></div>"
+description: Yes, HARDY is a valid Wordle word. It was the Wordle answer on October
+  9, 2025 (#1573). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 9, 2025 (#1573).
+past_answers:
+- date: '2025-10-09'
+  number: 1573
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- handy
+- harpy
+- harry
+- tardy
+- bardy
+- cardy
+- hards
+- lardy
+- mardy
+- pardy
+- vardy
+anagrams:
+- hydra
+trap:
+  pattern: _ARDY
+  count: 8
+phonetic: "/ˈhɑːdi/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in the plural) Anything, especially a plant, that is hardy."
+  - text: A blacksmith's fuller or chisel, having a square shank for insertion into
+      a square hole in an anvil, called the hardy hole.
+- pos: adjective
+  defs:
+  - text: Having rugged physical strength; inured to fatigue or hardships.
+  - text: Able to survive adverse growing conditions.
+    example: A hardy plant is one that can withstand the extremes of climate, such
+      as frost.
+  - text: Brave and resolute.
+  - text: Impudent.
 ---
-

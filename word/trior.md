@@ -1,7 +1,31 @@
 ---
 layout: word
-title: trior
+title: Is TRIOR a Wordle Word?
+head_title: Is TRIOR a Wordle Word? Yes – Valid Guess
 word: trior
-meaning: ""
+description: Yes, TRIOR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - T
+  - R
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- prior
+- trier
+- triol
+- trios
 ---
-

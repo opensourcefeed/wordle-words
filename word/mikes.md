@@ -1,7 +1,55 @@
 ---
 layout: word
-title: mikes
+title: Is MIKES a Wordle Word?
+head_title: Is MIKES a Wordle Word? Yes – Valid Guess & Meaning
 word: mikes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A microphone.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To microphone; to place one or more microphones (mikes) on.</li><li><strong>Definition 2:</strong> To measure using a micrometer.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A minute.<p><strong>Example:</strong> We'll be there in one zero mikes [i.e. ten minutes].</p></li></ul></div></div>"
+description: Yes, MIKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- bikes
+- dikes
+- fikes
+- hikes
+- likes
+- makes
+- miked
+- mikos
+- miles
+- mimes
+- mines
+- mires
+anagrams:
+- smeik
+trap:
+  pattern: _IKES
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A microphone.
+- pos: verb
+  defs:
+  - text: To microphone; to place one or more microphones (mikes) on.
+  - text: To measure using a micrometer.
+- pos: noun
+  defs:
+  - text: A minute.
+    example: We'll be there in one zero mikes [i.e. ten minutes].
 ---
-

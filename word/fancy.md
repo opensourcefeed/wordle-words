@@ -1,7 +1,66 @@
 ---
 layout: word
-title: fancy
+title: Is FANCY a Wordle Word?
+head_title: 'Is FANCY a Wordle Word? Yes – Past Answer #1305 & Meaning'
 word: fancy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfæn.si/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The imagination.</li><li><strong>Definition 2:</strong> An image or representation of anything formed in the mind.</li><li><strong>Definition 3:</strong> An opinion or notion formed without much reflection.</li><li><strong>Definition 4:</strong> A whim.<p><strong>Example:</strong> I had a fancy to learn to play the flute.</p></li><li><strong>Definition 5:</strong> Love or amorous attachment.<p><strong>Example:</strong> He took a fancy to her.</p></li><li><strong>Definition 6:</strong> The object of inclination or liking.</li><li><strong>Definition 7:</strong> Any sport or hobby pursued by a group.<p><strong>Example:</strong> Trainspotting is the fancy of a special lot.</p></li><li><strong>Definition 8:</strong> The enthusiasts of such a pursuit.<p><strong>Example:</strong> He fell out of favor with the boxing fancy after the incident.</p></li><li><strong>Definition 9:</strong> A diamond with a distinctive colour.</li><li><strong>Definition 10:</strong> That which pleases or entertains the taste or caprice without much use or value.</li><li><strong>Definition 11:</strong> A sort of love song or light impromptu ballad.</li><li><strong>Definition 12:</strong> In the game of jacks, a style of play involving additional actions (contrasted with plainsies).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Decorative.<p><strong>Example:</strong> This is a fancy shawl.</p></li><li><strong>Definition 2:</strong> Of a superior grade.<p><strong>Example:</strong> This box contains bottles of the fancy grade of jelly.</p></li><li><strong>Definition 3:</strong> Executed with skill.<p><strong>Example:</strong> He initiated the game winning play with a fancy, deked saucer pass to the winger.</p></li><li><strong>Definition 4:</strong> Unnecessarily complicated.<p><strong>Example:</strong> I'm not keen on him and his fancy ideas.</p></li><li><strong>Definition 5:</strong> Extravagant; above real value.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a fancy manner; fancily.</li></ul></div></div>"
+description: Yes, FANCY is a valid Wordle word. It was the Wordle answer on January
+  14, 2025 (#1305). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 14, 2025 (#1305).
+past_answers:
+- date: '2025-01-14'
+  number: 1305
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- fanny
+- dancy
+- farcy
+phonetic: "/ˈfæn.si/"
+definitions:
+- pos: noun
+  defs:
+  - text: The imagination.
+  - text: An image or representation of anything formed in the mind.
+  - text: An opinion or notion formed without much reflection.
+  - text: A whim.
+    example: I had a fancy to learn to play the flute.
+  - text: Love or amorous attachment.
+    example: He took a fancy to her.
+  - text: The object of inclination or liking.
+  - text: Any sport or hobby pursued by a group.
+    example: Trainspotting is the fancy of a special lot.
+  - text: The enthusiasts of such a pursuit.
+    example: He fell out of favor with the boxing fancy after the incident.
+  - text: A diamond with a distinctive colour.
+  - text: That which pleases or entertains the taste or caprice without much use or
+      value.
+  - text: A sort of love song or light impromptu ballad.
+  - text: In the game of jacks, a style of play involving additional actions (contrasted
+      with plainsies).
+- pos: adjective
+  defs:
+  - text: Decorative.
+    example: This is a fancy shawl.
+  - text: Of a superior grade.
+    example: This box contains bottles of the fancy grade of jelly.
+  - text: Executed with skill.
+    example: He initiated the game winning play with a fancy, deked saucer pass to
+      the winger.
+  - text: Unnecessarily complicated.
+    example: I'm not keen on him and his fancy ideas.
+  - text: Extravagant; above real value.
+- pos: adverb
+  defs:
+  - text: In a fancy manner; fancily.
 ---
-

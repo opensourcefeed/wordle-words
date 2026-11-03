@@ -1,7 +1,59 @@
 ---
 layout: word
-title: finer
+title: Is FINER a Wordle Word?
+head_title: 'Is FINER a Wordle Word? Yes – Past Answer #153 & Meaning'
 word: finer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfaɪnə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Senses referring to subjective quality.</li><li><strong>Definition 2:</strong> Senses referring to objective quality.</li><li><strong>Definition 3:</strong> Behind the batsman and at a small angle to the line between the wickets.<p><strong>Example:</strong> [...] to nudge it through the covers (or tickle it down to fine leg) for a four [...]</p></li><li><strong>Definition 4:</strong> Subtle; thin; tenuous.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who fines or purifies.</li></ul></div></div>"
+description: Yes, FINER is a valid Wordle word. It was the Wordle answer on November
+  19, 2021 (#153). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 19, 2021 (#153).
+past_answers:
+- date: '2021-11-19'
+  number: 153
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- diner
+- fiber
+- filer
+- fixer
+- liner
+- miner
+- biner
+- fifer
+- fined
+- fines
+- firer
+- fiver
+anagrams:
+- infer
+trap:
+  pattern: _INER
+  count: 8
+phonetic: "/ˈfaɪnə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Senses referring to subjective quality.
+  - text: Senses referring to objective quality.
+  - text: Behind the batsman and at a small angle to the line between the wickets.
+    example: "[...] to nudge it through the covers (or tickle it down to fine leg)
+      for a four [...]"
+  - text: Subtle; thin; tenuous.
+- pos: noun
+  defs:
+  - text: One who fines or purifies.
 ---
-

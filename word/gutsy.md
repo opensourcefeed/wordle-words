@@ -1,7 +1,35 @@
 ---
 layout: word
-title: gutsy
+title: Is GUTSY a Wordle Word?
+head_title: Is GUTSY a Wordle Word? Yes – Valid Guess & Meaning
 word: gutsy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡʌt.si/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Marked by courage and determination in the face of difficulties or danger; having guts</li><li><strong>Definition 2:</strong> Not showing due respect</li></ul></div></div>"
+description: Yes, GUTSY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- gussy
+- gutty
+- nutsy
+anagrams:
+- gusty
+phonetic: "/ˈɡʌt.si/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Marked by courage and determination in the face of difficulties or danger;
+      having guts
+  - text: Not showing due respect
 ---
-

@@ -1,7 +1,58 @@
 ---
 layout: word
-title: fumes
+title: Is FUMES a Wordle Word?
+head_title: Is FUMES a Wordle Word? Yes – Valid Guess & Meaning
 word: fumes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fjuːmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gas or vapour/vapor that is strong-smelling or dangerous to inhale.<p><strong>Example:</strong> Don't stand around in there breathing the fumes while the adhesive cures.</p></li><li><strong>Definition 2:</strong> A material that has been vaporized from the solid or liquid state to the gas state and re-coalesced to the solid state.<p><strong>Example:</strong> Lead fume is a greyish powder, mainly comprising lead sulfate.</p></li><li><strong>Definition 3:</strong> Rage or excitement which deprives the mind of self-control.<p><strong>Example:</strong> the fumes of passion</p></li><li><strong>Definition 4:</strong> Anything unsubstantial or airy; idle conceit; vain imagination.</li><li><strong>Definition 5:</strong> The incense of praise; inordinate flattery.</li><li><strong>Definition 6:</strong> A passionate person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To expose (something) to fumes; specifically, to expose wood, etc., to ammonia in order to produce dark tints.</li><li><strong>Definition 2:</strong> To apply or offer incense to.</li><li><strong>Definition 3:</strong> To emit fumes.</li><li><strong>Definition 4:</strong> To pass off in fumes or vapours.</li><li><strong>Definition 5:</strong> To express or feel great anger.<p><strong>Example:</strong> He’s still fuming about the argument they had yesterday.</p></li><li><strong>Definition 6:</strong> To be as in a mist; to be dulled and stupefied.</li></ul></div></div>"
+description: Yes, FUMES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- fames
+- femes
+- fomes
+- fumed
+- fumer
+- fumet
+- fuses
+- fuzes
+- rumes
+phonetic: "/fjuːmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A gas or vapour/vapor that is strong-smelling or dangerous to inhale.
+    example: Don't stand around in there breathing the fumes while the adhesive cures.
+  - text: A material that has been vaporized from the solid or liquid state to the
+      gas state and re-coalesced to the solid state.
+    example: Lead fume is a greyish powder, mainly comprising lead sulfate.
+  - text: Rage or excitement which deprives the mind of self-control.
+    example: the fumes of passion
+  - text: Anything unsubstantial or airy; idle conceit; vain imagination.
+  - text: The incense of praise; inordinate flattery.
+  - text: A passionate person.
+- pos: verb
+  defs:
+  - text: To expose (something) to fumes; specifically, to expose wood, etc., to ammonia
+      in order to produce dark tints.
+  - text: To apply or offer incense to.
+  - text: To emit fumes.
+  - text: To pass off in fumes or vapours.
+  - text: To express or feel great anger.
+    example: He’s still fuming about the argument they had yesterday.
+  - text: To be as in a mist; to be dulled and stupefied.
 ---
-

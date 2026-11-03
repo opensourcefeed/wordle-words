@@ -1,7 +1,58 @@
 ---
 layout: word
-title: runts
+title: Is RUNTS a Wordle Word?
+head_title: Is RUNTS a Wordle Word? Yes – Valid Guess & Meaning
 word: runts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The smallest animal of a litter.</li><li><strong>Definition 2:</strong> (by extension) The smallest child in the family.<p><strong>Example:</strong> the runt of the family</p></li><li><strong>Definition 3:</strong> Undersized or stunted plant, animal or person.</li><li><strong>Definition 4:</strong> An Ethernet packet that does not meet the medium's minimum packet size of 64 bytes.</li><li><strong>Definition 5:</strong> A single word (or portion of a hyphenated word) that appears as the last line of a paragraph.</li><li><strong>Definition 6:</strong> A breed of pigeon related to the carrier pigeon.</li><li><strong>Definition 7:</strong> A hardened stem or stalk of a plant.<p><strong>Example:</strong> Neither young poles nor old runts are durable. — Holland.</p></li><li><strong>Definition 8:</strong> A bow.</li></ul></div></div>"
+description: Yes, RUNTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- aunts
+- bunts
+- dunts
+- funts
+- hunts
+- lunts
+- munts
+- punts
+- rants
+- rents
+- ronts
+- runds
+anagrams:
+- nurts
+- turns
+trap:
+  pattern: _UNTS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: The smallest animal of a litter.
+  - text: "(by extension) The smallest child in the family."
+    example: the runt of the family
+  - text: Undersized or stunted plant, animal or person.
+  - text: An Ethernet packet that does not meet the medium's minimum packet size of
+      64 bytes.
+  - text: A single word (or portion of a hyphenated word) that appears as the last
+      line of a paragraph.
+  - text: A breed of pigeon related to the carrier pigeon.
+  - text: A hardened stem or stalk of a plant.
+    example: Neither young poles nor old runts are durable. — Holland.
+  - text: A bow.
 ---
-

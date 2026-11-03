@@ -1,7 +1,63 @@
 ---
 layout: word
-title: crate
+title: Is CRATE a Wordle Word?
+head_title: 'Is CRATE a Wordle Word? Yes – Past Answer #45 & Meaning'
 word: crate
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹeɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large open box or basket, used especially to transport fragile goods.</li><li><strong>Definition 2:</strong> (mildly) A vehicle (car, aircraft, spacecraft, etc.) seen as unreliable.</li><li><strong>Definition 3:</strong> In the Rust programming language, a binary or library.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put into a crate.</li><li><strong>Definition 2:</strong> To keep in a crate.</li></ul></div></div>"
+description: Yes, CRATE is a valid Wordle word. It was the Wordle answer on August
+  3, 2021 (#45). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 3, 2021 (#45).
+past_answers:
+- date: '2021-08-03'
+  number: 45
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- crane
+- crave
+- craze
+- grate
+- irate
+- coate
+- crake
+- crame
+- crape
+- crare
+- frate
+- orate
+anagrams:
+- cater
+- react
+- trace
+- caret
+- carte
+- recta
+trap:
+  pattern: _RATE
+  count: 8
+phonetic: "/kɹeɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large open box or basket, used especially to transport fragile goods.
+  - text: "(mildly) A vehicle (car, aircraft, spacecraft, etc.) seen as unreliable."
+  - text: In the Rust programming language, a binary or library.
+- pos: verb
+  defs:
+  - text: To put into a crate.
+  - text: To keep in a crate.
 ---
-

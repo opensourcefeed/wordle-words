@@ -1,7 +1,47 @@
 ---
 layout: word
-title: smirk
+title: Is SMIRK a Wordle Word?
+head_title: 'Is SMIRK a Wordle Word? Yes – Past Answer #854 & Meaning'
 word: smirk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /smɜːk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An uneven, often crooked smile that is insolent, self-satisfied or scornful</li><li><strong>Definition 2:</strong> A forced or affected smile; a simper</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To smile in a way that is affected, smug, insolent or contemptuous.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Smart; spruce; affected; simpering</li></ul></div></div>"
+description: Yes, SMIRK is a valid Wordle word. It was the Wordle answer on October
+  21, 2023 (#854). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 21, 2023 (#854).
+past_answers:
+- date: '2023-10-21'
+  number: 854
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- shirk
+- smerk
+- smick
+- smirr
+- smirs
+- stirk
+anagrams:
+- mirks
+phonetic: "/smɜːk/"
+definitions:
+- pos: noun
+  defs:
+  - text: An uneven, often crooked smile that is insolent, self-satisfied or scornful
+  - text: A forced or affected smile; a simper
+- pos: verb
+  defs:
+  - text: To smile in a way that is affected, smug, insolent or contemptuous.
+- pos: adjective
+  defs:
+  - text: Smart; spruce; affected; simpering
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: humor
+title: Is HUMOR a Wordle Word?
+head_title: 'Is HUMOR a Wordle Word? Yes – Past Answer #235 & Meaning'
 word: humor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hjuː.mə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The quality of being amusing, comical, funny.<p><strong>Example:</strong> She has a great sense of humour, and I always laugh a lot whenever we get together.</p></li><li><strong>Definition 2:</strong> A mood, especially a bad mood; a temporary state of mind or disposition brought upon by an event; an abrupt illogical inclination or whim.<p><strong>Example:</strong> He was in a particularly vile humour that afternoon.</p></li><li><strong>Definition 3:</strong> Any of the fluids in an animal body, especially the four \"cardinal humours\" of blood, yellow bile, black bile and phlegm that were believed to control the health and mood of the human body.</li><li><strong>Definition 4:</strong> Either of the two regions of liquid within the eyeball, the aqueous humour and vitreous humour.</li><li><strong>Definition 5:</strong> Moist vapour, moisture.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pacify by indulging.<p><strong>Example:</strong> I know you don't believe my story, but humour me for a minute and imagine it to be true.</p></li></ul></div></div>"
+description: Yes, HUMOR is a valid Wordle word. It was the Wordle answer on February
+  9, 2022 (#235). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 9, 2022 (#235).
+past_answers:
+- date: '2022-02-09'
+  number: 235
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- rumor
+- tumor
+anagrams:
+- mohur
+phonetic: "/hjuː.mə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: The quality of being amusing, comical, funny.
+    example: She has a great sense of humour, and I always laugh a lot whenever we
+      get together.
+  - text: A mood, especially a bad mood; a temporary state of mind or disposition
+      brought upon by an event; an abrupt illogical inclination or whim.
+    example: He was in a particularly vile humour that afternoon.
+  - text: Any of the fluids in an animal body, especially the four "cardinal humours"
+      of blood, yellow bile, black bile and phlegm that were believed to control the
+      health and mood of the human body.
+  - text: Either of the two regions of liquid within the eyeball, the aqueous humour
+      and vitreous humour.
+  - text: Moist vapour, moisture.
+- pos: verb
+  defs:
+  - text: To pacify by indulging.
+    example: I know you don't believe my story, but humour me for a minute and imagine
+      it to be true.
 ---
-

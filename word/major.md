@@ -1,7 +1,45 @@
 ---
 layout: word
-title: major
+title: Is MAJOR a Wordle Word?
+head_title: 'Is MAJOR a Wordle Word? Yes – Past Answer #1938 & Meaning'
 word: major
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A military rank between captain and lieutenant colonel.<p><strong>Example:</strong> He used to be a major in the army.</p></li></ul></div></div>"
+description: Yes, MAJOR is a valid Wordle word. It was the Wordle answer on July 9,
+  2021 (#20) and October 9, 2026 (#1938). See its meaning, starter rating and similar
+  words.
+status: past
+answer_text: It was the Wordle answer on July 9, 2021 (#20) and October 9, 2026 (#1938).
+past_answers:
+- date: '2021-07-09'
+  number: 20
+- date: '2026-10-09'
+  number: 1938
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - R
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- manor
+- mayor
+- majoe
+- majos
+- maror
+anagrams:
+- joram
+definitions:
+- pos: noun
+  defs:
+  - text: A military rank between captain and lieutenant colonel.
+    example: He used to be a major in the army.
 ---
-

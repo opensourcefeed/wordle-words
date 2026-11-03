@@ -1,7 +1,53 @@
 ---
 layout: word
-title: heady
+title: Is HEADY a Wordle Word?
+head_title: 'Is HEADY a Wordle Word? Yes – Past Answer #601 & Meaning'
 word: heady
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɛdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Intoxicating or stupefying.<p><strong>Example:</strong> The cocktail was a heady mixture of spirits.</p></li><li><strong>Definition 2:</strong> Tending to upset the mind or senses.<p><strong>Example:</strong> We looked out from a heady outcrop of rock.</p></li><li><strong>Definition 3:</strong> Exhilarating.<p><strong>Example:</strong> The rock concert was a heady mixture of their greatest hits.</p></li><li><strong>Definition 4:</strong> Intellectual.<p><strong>Example:</strong> Kierkegaard is rather heady reading for a high school student.</p></li><li><strong>Definition 5:</strong> Rash or impetuous.<p><strong>Example:</strong> He made too heady promises, and when it came time, he was never able to fulfill them.</p></li></ul></div></div>"
+description: Yes, HEADY is a valid Wordle word. It was the Wordle answer on February
+  10, 2023 (#601). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 10, 2023 (#601).
+past_answers:
+- date: '2023-02-10'
+  number: 601
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- beady
+- heavy
+- ready
+- heads
+- heapy
+- heaty
+- heedy
+- leady
+anagrams:
+- hayed
+phonetic: "/ˈhɛdi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Intoxicating or stupefying.
+    example: The cocktail was a heady mixture of spirits.
+  - text: Tending to upset the mind or senses.
+    example: We looked out from a heady outcrop of rock.
+  - text: Exhilarating.
+    example: The rock concert was a heady mixture of their greatest hits.
+  - text: Intellectual.
+    example: Kierkegaard is rather heady reading for a high school student.
+  - text: Rash or impetuous.
+    example: He made too heady promises, and when it came time, he was never able
+      to fulfill them.
 ---
-

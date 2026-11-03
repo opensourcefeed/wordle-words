@@ -1,7 +1,50 @@
 ---
 layout: word
-title: guffs
+title: Is GUFFS a Wordle Word?
+head_title: Is GUFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: guffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Nonsensical talk or thinking.</li><li><strong>Definition 2:</strong> Superfluous information.</li><li><strong>Definition 3:</strong> Insolent or otherwise unacceptable remarks.</li><li><strong>Definition 4:</strong> A fart; act of breaking wind.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fart.</li><li><strong>Definition 2:</strong> To mislead.</li></ul></div></div>"
+description: Yes, GUFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - F
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 99
+neighbours:
+- buffs
+- cuffs
+- duffs
+- fuffs
+- gaffs
+- goffs
+- gulfs
+- huffs
+- luffs
+- muffs
+- nuffs
+- puffs
+trap:
+  pattern: _UFFS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: Nonsensical talk or thinking.
+  - text: Superfluous information.
+  - text: Insolent or otherwise unacceptable remarks.
+  - text: A fart; act of breaking wind.
+- pos: verb
+  defs:
+  - text: To fart.
+  - text: To mislead.
 ---
-

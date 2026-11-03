@@ -1,7 +1,42 @@
 ---
 layout: word
-title: loyal
+title: Is LOYAL a Wordle Word?
+head_title: 'Is LOYAL a Wordle Word? Yes – Past Answer #829 & Meaning'
 word: loyal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɔɪəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having or demonstrating undivided and constant support for someone or something.</li><li><strong>Definition 2:</strong> Firm in allegiance to a person or institution.</li><li><strong>Definition 3:</strong> Faithful to a person or cause.</li></ul></div></div>"
+description: Yes, LOYAL is a valid Wordle word. It was the Wordle answer on September
+  26, 2023 (#829). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 26, 2023 (#829).
+past_answers:
+- date: '2023-09-26'
+  number: 829
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - L
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- local
+- royal
+- loral
+anagrams:
+- alloy
+phonetic: "/ˈlɔɪəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having or demonstrating undivided and constant support for someone or something.
+  - text: Firm in allegiance to a person or institution.
+  - text: Faithful to a person or cause.
 ---
-

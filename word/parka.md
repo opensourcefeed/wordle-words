@@ -1,7 +1,43 @@
 ---
 layout: word
-title: parka
+title: Is PARKA a Wordle Word?
+head_title: 'Is PARKA a Wordle Word? Yes – Past Answer #1786 & Meaning'
 word: parka
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpɑːkə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long jacket with a hood which protects the wearer against rain and wind.</li></ul></div></div>"
+description: Yes, PARKA is a valid Wordle word. It was the Wordle answer on May 10,
+  2026 (#1786). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 10, 2026 (#1786).
+past_answers:
+- date: '2026-05-10'
+  number: 1786
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- marka
+- pakka
+- parki
+- parks
+- parky
+- parma
+- parra
+- paska
+- patka
+- tarka
+phonetic: "/ˈpɑːkə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long jacket with a hood which protects the wearer against rain and wind.
 ---
-

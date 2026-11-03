@@ -1,7 +1,40 @@
 ---
 layout: word
-title: idiot
+title: Is IDIOT a Wordle Word?
+head_title: Is IDIOT a Wordle Word? Yes – Possible Answer & Meaning
 word: idiot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪd.i.(j)ɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person of low general intelligence.</li><li><strong>Definition 2:</strong> A person who makes stupid decisions; a fool.</li><li><strong>Definition 3:</strong> A person of the lowest intellectual standing, a person who lacks the capacity to develop beyond the mental age of a normal four-year-old; a person with an IQ below 30.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Idiotic, stupid</li></ul></div></div>"
+description: Yes, IDIOT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- idiom
+phonetic: "/ˈɪd.i.(j)ɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person of low general intelligence.
+  - text: A person who makes stupid decisions; a fool.
+  - text: A person of the lowest intellectual standing, a person who lacks the capacity
+      to develop beyond the mental age of a normal four-year-old; a person with an
+      IQ below 30.
+- pos: adjective
+  defs:
+  - text: Idiotic, stupid
 ---
-

@@ -1,7 +1,69 @@
 ---
 layout: word
-title: crush
+title: Is CRUSH a Wordle Word?
+head_title: 'Is CRUSH a Wordle Word? Yes – Past Answer #1112 & Meaning'
 word: crush
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹʌʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A violent collision or compression; a crash; destruction; ruin.</li><li><strong>Definition 2:</strong> Violent pressure, as of a moving crowd.</li><li><strong>Definition 3:</strong> A crowd that produces uncomfortable pressure.<p><strong>Example:</strong> a crush at a reception</p></li><li><strong>Definition 4:</strong> A violent crowding.</li><li><strong>Definition 5:</strong> A crowd control barrier.</li><li><strong>Definition 6:</strong> A drink made by squeezing the juice out of fruit.</li><li><strong>Definition 7:</strong> An infatuation with somebody one is not dating.<p><strong>Example:</strong> I've had a huge crush on her since we met many years ago.</p></li><li><strong>Definition 8:</strong> A standing stock or cage with movable sides used to restrain livestock for safe handling.</li><li><strong>Definition 9:</strong> A party or festive function.</li><li><strong>Definition 10:</strong> The process of crushing cane to remove the raw sugar, or the season when this process takes place.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To press between two hard objects; to squeeze so as to alter the natural shape or integrity of it, or to force together into a mass.<p><strong>Example:</strong> to crush grapes</p></li><li><strong>Definition 2:</strong> To reduce to fine particles by pounding or grinding<p><strong>Example:</strong> to crush quartz</p></li><li><strong>Definition 3:</strong> To overwhelm by pressure or weight.<p><strong>Example:</strong> After the corruption scandal, the opposition crushed the ruling party in the elections</p></li><li><strong>Definition 4:</strong> To oppress or grievously burden.</li><li><strong>Definition 5:</strong> To overcome completely; to subdue totally.<p><strong>Example:</strong> The sultan's black guard crushed every resistance bloodily.</p></li><li><strong>Definition 6:</strong> To be or become broken down or in, or pressed into a smaller compass, by external weight or force<p><strong>Example:</strong> an eggshell crushes easily</p></li><li><strong>Definition 7:</strong> To feel infatuation or unrequited love.<p><strong>Example:</strong> She's crushing on him.</p></li><li><strong>Definition 8:</strong> To give a compressed or foreshortened appearance to.</li></ul></div></div>"
+description: Yes, CRUSH is a valid Wordle word. It was the Wordle answer on July 5,
+  2024 (#1112). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 5, 2024 (#1112).
+past_answers:
+- date: '2024-07-05'
+  number: 1112
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- brush
+- crash
+- crust
+- cruse
+- crusy
+- frush
+phonetic: "/kɹʌʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A violent collision or compression; a crash; destruction; ruin.
+  - text: Violent pressure, as of a moving crowd.
+  - text: A crowd that produces uncomfortable pressure.
+    example: a crush at a reception
+  - text: A violent crowding.
+  - text: A crowd control barrier.
+  - text: A drink made by squeezing the juice out of fruit.
+  - text: An infatuation with somebody one is not dating.
+    example: I've had a huge crush on her since we met many years ago.
+  - text: A standing stock or cage with movable sides used to restrain livestock for
+      safe handling.
+  - text: A party or festive function.
+  - text: The process of crushing cane to remove the raw sugar, or the season when
+      this process takes place.
+- pos: verb
+  defs:
+  - text: To press between two hard objects; to squeeze so as to alter the natural
+      shape or integrity of it, or to force together into a mass.
+    example: to crush grapes
+  - text: To reduce to fine particles by pounding or grinding
+    example: to crush quartz
+  - text: To overwhelm by pressure or weight.
+    example: After the corruption scandal, the opposition crushed the ruling party
+      in the elections
+  - text: To oppress or grievously burden.
+  - text: To overcome completely; to subdue totally.
+    example: The sultan's black guard crushed every resistance bloodily.
+  - text: To be or become broken down or in, or pressed into a smaller compass, by
+      external weight or force
+    example: an eggshell crushes easily
+  - text: To feel infatuation or unrequited love.
+    example: She's crushing on him.
+  - text: To give a compressed or foreshortened appearance to.
 ---
-

@@ -1,7 +1,52 @@
 ---
 layout: word
-title: worth
+title: Is WORTH a Wordle Word?
+head_title: Is WORTH a Wordle Word? Yes – Possible Answer & Meaning
 word: worth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɜːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Value.<p><strong>Example:</strong> I’ll have a dollar's worth of candy, please.</p></li><li><strong>Definition 2:</strong> Merit, excellence.<p><strong>Example:</strong> Our new director is a man whose worth is well acknowledged.</p></li><li><strong>Definition 3:</strong> Wealth, fortune, riches, property, possessions.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a value of; proper to be exchanged for.<p><strong>Example:</strong> A painting worth thousands.</p></li><li><strong>Definition 2:</strong> Deserving of.<p><strong>Example:</strong> His friendship is not worth having.</p></li><li><strong>Definition 3:</strong> (except in Scots) Valuable, worth while.</li><li><strong>Definition 4:</strong> Making a fair equivalent of, repaying or compensating.<p><strong>Example:</strong> This job is hardly worth the effort.</p></li></ul></div></div>"
+description: Yes, WORTH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- forth
+- north
+- porth
+- worts
+anagrams:
+- throw
+- rowth
+- whort
+- wroth
+phonetic: "/wɜːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Value.
+    example: I’ll have a dollar's worth of candy, please.
+  - text: Merit, excellence.
+    example: Our new director is a man whose worth is well acknowledged.
+  - text: Wealth, fortune, riches, property, possessions.
+- pos: adjective
+  defs:
+  - text: Having a value of; proper to be exchanged for.
+    example: A painting worth thousands.
+  - text: Deserving of.
+    example: His friendship is not worth having.
+  - text: "(except in Scots) Valuable, worth while."
+  - text: Making a fair equivalent of, repaying or compensating.
+    example: This job is hardly worth the effort.
 ---
-

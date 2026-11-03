@@ -1,6 +1,31 @@
 ---
 layout: word
-title: quoys
+title: Is QUOYS a Wordle Word?
+head_title: Is QUOYS a Wordle Word? Yes – Valid Guess
 word: quoys
+description: Yes, QUOYS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- buoys
+- quays
+- queys
+- quods
+- quois
+- quops
 ---
-

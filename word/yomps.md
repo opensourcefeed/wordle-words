@@ -1,7 +1,42 @@
 ---
 layout: word
-title: yomps
+title: Is YOMPS a Wordle Word?
+head_title: Is YOMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: yomps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jɒmps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long-distance march carrying full kit.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a strenuous long-distance march.</li></ul></div></div>"
+description: Yes, YOMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- comps
+- pomps
+- romps
+- yolps
+- yoops
+- yorps
+- yumps
+anagrams:
+- mopsy
+- myops
+phonetic: "/jɒmps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A long-distance march carrying full kit.
+- pos: verb
+  defs:
+  - text: To make a strenuous long-distance march.
 ---
-

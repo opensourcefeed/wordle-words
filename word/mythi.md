@@ -1,7 +1,38 @@
 ---
 layout: word
-title: mythi
+title: Is MYTHI a Wordle Word?
+head_title: Is MYTHI a Wordle Word? Yes – Valid Guess & Meaning
 word: mythi
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Anything transmitted by word of mouth, such as a fable, legend, narrative, story, or tale (especially a poetic tale).</li><li><strong>Definition 2:</strong> A story or set of stories relevant to or having a significant truth or meaning for a particular culture, religion, society, or other group; a myth, a mythology.</li><li><strong>Definition 3:</strong> (by extension) A set of assumptions or beliefs about something.</li><li><strong>Definition 4:</strong> A recurring theme; a motif.</li></ul></div></div>"
+description: Yes, MYTHI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- methi
+- myths
+- mythy
+anagrams:
+- thymi
+definitions:
+- pos: noun
+  defs:
+  - text: Anything transmitted by word of mouth, such as a fable, legend, narrative,
+      story, or tale (especially a poetic tale).
+  - text: A story or set of stories relevant to or having a significant truth or meaning
+      for a particular culture, religion, society, or other group; a myth, a mythology.
+  - text: "(by extension) A set of assumptions or beliefs about something."
+  - text: A recurring theme; a motif.
 ---
-

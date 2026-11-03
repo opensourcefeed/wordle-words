@@ -1,7 +1,49 @@
 ---
 layout: word
-title: cutch
+title: Is CUTCH a Wordle Word?
+head_title: Is CUTCH a Wordle Word? Yes – Valid Guess & Meaning
 word: cutch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Empty oyster shells and other substances laid down on oyster grounds to furnish points for the attachment of the spawn of the oyster.</li><li><strong>Definition 2:</strong> Young or seed oysters together with the shells and other objects to which they are usually attached.</li><li><strong>Definition 3:</strong> Rubbish; debris; refuse.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A preservative, made from catechu gum boiled in water, used to prolong the life of a sail or net</li></ul></div></div>"
+description: Yes, CUTCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- butch
+- catch
+- dutch
+- hutch
+- cotch
+- culch
+- curch
+- cwtch
+- kutch
+- mutch
+trap:
+  pattern: _UTCH
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Empty oyster shells and other substances laid down on oyster grounds to
+      furnish points for the attachment of the spawn of the oyster.
+  - text: Young or seed oysters together with the shells and other objects to which
+      they are usually attached.
+  - text: Rubbish; debris; refuse.
+- pos: noun
+  defs:
+  - text: A preservative, made from catechu gum boiled in water, used to prolong the
+      life of a sail or net
 ---
-

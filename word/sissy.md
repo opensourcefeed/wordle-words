@@ -1,7 +1,48 @@
 ---
 layout: word
-title: sissy
+title: Is SISSY a Wordle Word?
+head_title: 'Is SISSY a Wordle Word? Yes – Past Answer #2 & Meaning'
 word: sissy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɪsi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An effeminate boy or man.</li><li><strong>Definition 2:</strong> A timid, unassertive or cowardly person.</li><li><strong>Definition 3:</strong> (BDSM) A male crossdresser who adopts feminine behaviours.</li><li><strong>Definition 4:</strong> Sister.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Effeminate.</li><li><strong>Definition 2:</strong> Cowardly.</li></ul></div></div>"
+description: Yes, SISSY is a valid Wordle word. It was the Wordle answer on June 21,
+  2021 (#2). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 21, 2021 (#2).
+past_answers:
+- date: '2021-06-21'
+  number: 2
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 3
+  repeated:
+  - S
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- missy
+- sassy
+- cissy
+- hissy
+- kissy
+- pissy
+trap:
+  pattern: _ISSY
+  count: 6
+phonetic: "/ˈsɪsi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An effeminate boy or man.
+  - text: A timid, unassertive or cowardly person.
+  - text: "(BDSM) A male crossdresser who adopts feminine behaviours."
+  - text: Sister.
+- pos: adjective
+  defs:
+  - text: Effeminate.
+  - text: Cowardly.
 ---
-

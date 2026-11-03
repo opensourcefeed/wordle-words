@@ -1,7 +1,36 @@
 ---
 layout: word
-title: babul
+title: Is BABUL a Wordle Word?
+head_title: Is BABUL a Wordle Word? Yes – Valid Guess & Meaning
 word: babul
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bəˈbuːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tree native to South Asia, Vachellia nilotica subsp. indica, formerly Acacia nilotica subsp. indica.</li></ul></div></div>"
+description: Yes, BABUL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 80
+neighbours:
+- babel
+- babus
+anagrams:
+- bubal
+phonetic: "/bəˈbuːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A tree native to South Asia, Vachellia nilotica subsp. indica, formerly
+      Acacia nilotica subsp. indica.
 ---
-

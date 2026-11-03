@@ -1,7 +1,71 @@
 ---
 layout: word
-title: rites
+title: Is RITES a Wordle Word?
+head_title: Is RITES a Wordle Word? Yes – Valid Guess & Meaning
 word: rites
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹaɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which complies with justice, law or reason.<p><strong>Example:</strong> We're on the side of right in this contest.</p></li><li><strong>Definition 2:</strong> A legal, just or moral entitlement.<p><strong>Example:</strong> You have no right to go through my personal diary.</p></li><li><strong>Definition 3:</strong> The right side or direction.<p><strong>Example:</strong> The pharmacy is just on the right past the bookshop.</p></li><li><strong>Definition 4:</strong> The right hand or fist.</li><li><strong>Definition 5:</strong> The ensemble of right-wing political parties; political conservatives as a group.<p><strong>Example:</strong> The political right holds too much power.</p></li><li><strong>Definition 6:</strong> The outward or most finished surface, as of a coin, piece of cloth, a carpet, etc.</li><li><strong>Definition 7:</strong> A wave breaking from right to left (viewed from the shore).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A religious custom.</li><li><strong>Definition 2:</strong> (by extension) A prescribed behavior.</li></ul></div></div>"
+description: Yes, RITES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- bites
+- cites
+- dites
+- gites
+- kites
+- lites
+- mites
+- nites
+- rates
+- ribes
+- rices
+- rides
+anagrams:
+- reist
+- resit
+- stire
+- tiers
+- tires
+- tries
+trap:
+  pattern: _ITES
+  count: 12
+phonetic: "/ɹaɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: That which complies with justice, law or reason.
+    example: We're on the side of right in this contest.
+  - text: A legal, just or moral entitlement.
+    example: You have no right to go through my personal diary.
+  - text: The right side or direction.
+    example: The pharmacy is just on the right past the bookshop.
+  - text: The right hand or fist.
+  - text: The ensemble of right-wing political parties; political conservatives as
+      a group.
+    example: The political right holds too much power.
+  - text: The outward or most finished surface, as of a coin, piece of cloth, a carpet,
+      etc.
+  - text: A wave breaking from right to left (viewed from the shore).
+- pos: noun
+  defs:
+  - text: A religious custom.
+  - text: "(by extension) A prescribed behavior."
 ---
-

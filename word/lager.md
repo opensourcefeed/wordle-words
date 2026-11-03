@@ -1,7 +1,57 @@
 ---
 layout: word
-title: lager
+title: Is LAGER a Wordle Word?
+head_title: 'Is LAGER a Wordle Word? Yes – Past Answer #1205 & Meaning'
 word: lager
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of beer, brewed using a bottom-fermenting yeast.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To store (lager beer) at a low temperature for maturing and clarification.</li></ul></div></div>"
+description: Yes, LAGER is a valid Wordle word. It was the Wordle answer on October
+  6, 2024 (#1205). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 6, 2024 (#1205).
+past_answers:
+- date: '2024-10-06'
+  number: 1205
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- eager
+- later
+- layer
+- wager
+- cager
+- gager
+- jager
+- lacer
+- lader
+- lagar
+- laker
+- lamer
+anagrams:
+- glare
+- large
+- regal
+- argle
+trap:
+  pattern: LA_ER
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A type of beer, brewed using a bottom-fermenting yeast.
+- pos: verb
+  defs:
+  - text: To store (lager beer) at a low temperature for maturing and clarification.
 ---
-

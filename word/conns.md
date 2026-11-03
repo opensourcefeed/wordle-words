@@ -1,7 +1,40 @@
 ---
 layout: word
-title: conns
+title: Is CONNS a Wordle Word?
+head_title: Is CONNS a Wordle Word? Yes – Valid Guess & Meaning
 word: conns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To direct a ship; to superintend the steering of (a vessel); to watch the course of (a vessel) and direct the helmsman how to steer (especially through a channel, etc, rather than steer a compass direction).<p><strong>Example:</strong> The pilot conned the ship safely into the harbor.</p></li></ul></div></div>"
+description: Yes, CONNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- canns
+- coins
+- cones
+- confs
+- conks
+- conne
+- conus
+- corns
+definitions:
+- pos: verb
+  defs:
+  - text: To direct a ship; to superintend the steering of (a vessel); to watch the
+      course of (a vessel) and direct the helmsman how to steer (especially through
+      a channel, etc, rather than steer a compass direction).
+    example: The pilot conned the ship safely into the harbor.
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: rathe
+title: Is RATHE a Wordle Word?
+head_title: Is RATHE a Wordle Word? Yes – Valid Guess & Meaning
 word: rathe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹeɪð/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Ripening or blooming early.</li></ul></div></div>"
+description: Yes, RATHE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- bathe
+- lathe
+- eathe
+- mathe
+- rache
+- raphe
+- ratha
+- raths
+- rithe
+- rythe
+anagrams:
+- earth
+- hater
+- heart
+- thrae
+phonetic: "/ɹeɪð/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Ripening or blooming early.
 ---
-

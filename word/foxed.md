@@ -1,7 +1,57 @@
 ---
 layout: word
-title: foxed
+title: Is FOXED a Wordle Word?
+head_title: Is FOXED a Wordle Word? Yes – Valid Guess & Meaning
 word: foxed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trick, fool or outwit (someone) by cunning or ingenuity.</li><li><strong>Definition 2:</strong> To confuse or baffle (someone).<p><strong>Example:</strong> This crossword puzzle has completely foxed me.</p></li><li><strong>Definition 3:</strong> To act slyly or craftily.</li><li><strong>Definition 4:</strong> To discolour paper. Fox marks are spots on paper caused by humidity. (See foxing.)<p><strong>Example:</strong> The pages of the book show distinct foxing.</p></li><li><strong>Definition 5:</strong> To make sour, as beer, by causing it to ferment.</li><li><strong>Definition 6:</strong> To turn sour; said of beer, etc., when it sours in fermenting.</li><li><strong>Definition 7:</strong> To intoxicate; to stupefy with drink.</li><li><strong>Definition 8:</strong> To repair (boots) with new front upper leather, or to piece the upper fronts of.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of paper, having yellowish-brown stains.</li></ul></div></div>"
+description: Yes, FOXED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- boxed
+- coxed
+- doxed
+- faxed
+- fixed
+- foxes
+- hoxed
+- loxed
+- poxed
+trap:
+  pattern: _OXED
+  count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To trick, fool or outwit (someone) by cunning or ingenuity.
+  - text: To confuse or baffle (someone).
+    example: This crossword puzzle has completely foxed me.
+  - text: To act slyly or craftily.
+  - text: To discolour paper. Fox marks are spots on paper caused by humidity. (See
+      foxing.)
+    example: The pages of the book show distinct foxing.
+  - text: To make sour, as beer, by causing it to ferment.
+  - text: To turn sour; said of beer, etc., when it sours in fermenting.
+  - text: To intoxicate; to stupefy with drink.
+  - text: To repair (boots) with new front upper leather, or to piece the upper fronts
+      of.
+- pos: adjective
+  defs:
+  - text: Of paper, having yellowish-brown stains.
 ---
-

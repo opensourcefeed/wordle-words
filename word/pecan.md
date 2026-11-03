@@ -1,7 +1,42 @@
 ---
 layout: word
-title: pecan
+title: Is PECAN a Wordle Word?
+head_title: 'Is PECAN a Wordle Word? Yes – Past Answer #1663 & Meaning'
 word: pecan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːˈkæn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A deciduous tree, Carya illinoinensis, of the central and southern United States, having deeply furrowed bark, pinnately compound leaves, and edible nuts.</li><li><strong>Definition 2:</strong> A smooth, thin-shelled, edible oval nut of this tree.</li><li><strong>Definition 3:</strong> A half of the edible portion of the inside of this nut.</li></ul></div></div>"
+description: Yes, PECAN is a valid Wordle word. It was the Wordle answer on January
+  7, 2026 (#1663). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 7, 2026 (#1663).
+past_answers:
+- date: '2026-01-07'
+  number: 1663
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- decan
+- pekan
+- pocan
+- pucan
+anagrams:
+- pance
+phonetic: "/piːˈkæn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A deciduous tree, Carya illinoinensis, of the central and southern United
+      States, having deeply furrowed bark, pinnately compound leaves, and edible nuts.
+  - text: A smooth, thin-shelled, edible oval nut of this tree.
+  - text: A half of the edible portion of the inside of this nut.
 ---
-

@@ -1,7 +1,30 @@
 ---
 layout: word
-title: bedim
+title: Is BEDIM a Wordle Word?
+head_title: Is BEDIM a Wordle Word? Yes – Valid Guess & Meaning
 word: bedim
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make dim; to obscure or darken.</li></ul></div></div>"
+description: Yes, BEDIM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+anagrams:
+- imbed
+definitions:
+- pos: verb
+  defs:
+  - text: To make dim; to obscure or darken.
 ---
-

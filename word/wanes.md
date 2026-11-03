@@ -1,7 +1,68 @@
 ---
 layout: word
-title: wanes
+title: Is WANES a Wordle Word?
+head_title: Is WANES a Wordle Word? Yes – Valid Guess & Meaning
 word: wanes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gradual diminution in power, value, intensity etc.</li><li><strong>Definition 2:</strong> The lunar phase during which the sun seems to illuminate less of the moon as its sunlit area becomes progressively smaller as visible from Earth.</li><li><strong>Definition 3:</strong> The end of a period.</li><li><strong>Definition 4:</strong> A rounded corner caused by lack of wood, often showing bark.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To progressively lose its splendor, value, ardor, power, intensity etc.; to decline.</li><li><strong>Definition 2:</strong> Said of light that dims or diminishes in strength.</li><li><strong>Definition 3:</strong> Said of the Moon as it passes through the phases of its monthly cycle where its surface is less and less visible.</li><li><strong>Definition 4:</strong> Said of a time period that comes to an end.</li><li><strong>Definition 5:</strong> To decrease physically in size, amount, numbers or surface.</li><li><strong>Definition 6:</strong> To cause to decrease.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A child.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A house or dwelling.</li></ul></div></div>"
+description: Yes, WANES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- banes
+- canes
+- fanes
+- janes
+- kanes
+- lanes
+- manes
+- panes
+- ranes
+- sanes
+- vanes
+- wades
+anagrams:
+- sewan
+- weans
+trap:
+  pattern: _ANES
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: A gradual diminution in power, value, intensity etc.
+  - text: The lunar phase during which the sun seems to illuminate less of the moon
+      as its sunlit area becomes progressively smaller as visible from Earth.
+  - text: The end of a period.
+  - text: A rounded corner caused by lack of wood, often showing bark.
+- pos: verb
+  defs:
+  - text: To progressively lose its splendor, value, ardor, power, intensity etc.;
+      to decline.
+  - text: Said of light that dims or diminishes in strength.
+  - text: Said of the Moon as it passes through the phases of its monthly cycle where
+      its surface is less and less visible.
+  - text: Said of a time period that comes to an end.
+  - text: To decrease physically in size, amount, numbers or surface.
+  - text: To cause to decrease.
+- pos: noun
+  defs:
+  - text: A child.
+- pos: noun
+  defs:
+  - text: A house or dwelling.
 ---
-

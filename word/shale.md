@@ -1,7 +1,58 @@
 ---
 layout: word
-title: shale
+title: Is SHALE a Wordle Word?
+head_title: Is SHALE a Wordle Word? Yes – Possible Answer & Meaning
 word: shale
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃeɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shell or husk; a cod or pod.</li><li><strong>Definition 2:</strong> A fine-grained sedimentary rock of a thin, laminated, and often friable, structure.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take off the shell or coat of.</li></ul></div></div>"
+description: Yes, SHALE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- scale
+- shade
+- shake
+- shall
+- shalt
+- shame
+- shape
+- share
+- shave
+- stale
+- whale
+- shalm
+anagrams:
+- leash
+- hales
+- halse
+- heals
+- selah
+- sheal
+trap:
+  pattern: SHA_E
+  count: 7
+phonetic: "/ʃeɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A shell or husk; a cod or pod.
+  - text: A fine-grained sedimentary rock of a thin, laminated, and often friable,
+      structure.
+- pos: verb
+  defs:
+  - text: To take off the shell or coat of.
 ---
-

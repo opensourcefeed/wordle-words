@@ -1,7 +1,53 @@
 ---
 layout: word
-title: pants
+title: Is PANTS a Wordle Word?
+head_title: Is PANTS a Wordle Word? Yes – Valid Guess & Meaning
 word: pants
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (Manchester) An outer garment that covers the body from the waist downwards, covering each leg separately, usually as far as the ankles; trousers.</li><li><strong>Definition 2:</strong> An undergarment that covers the genitals and often the buttocks and the neighbouring parts of the body; underpants.</li><li><strong>Definition 3:</strong> Rubbish; something worthless.<p><strong>Example:</strong> The film was a load [or pile] of pants.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of inferior quality, rubbish.<p><strong>Example:</strong> Your mobile is pants — why don’t you get one like mine?</p></li></ul></div></div>"
+description: Yes, PANTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- bants
+- cants
+- dants
+- gants
+- hants
+- kants
+- lants
+- mants
+- nants
+- pacts
+- pands
+- panes
+trap:
+  pattern: _ANTS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: "(Manchester) An outer garment that covers the body from the waist downwards,
+      covering each leg separately, usually as far as the ankles; trousers."
+  - text: An undergarment that covers the genitals and often the buttocks and the
+      neighbouring parts of the body; underpants.
+  - text: Rubbish; something worthless.
+    example: The film was a load [or pile] of pants.
+- pos: adjective
+  defs:
+  - text: Of inferior quality, rubbish.
+    example: Your mobile is pants — why don’t you get one like mine?
 ---
-

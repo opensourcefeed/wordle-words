@@ -1,7 +1,55 @@
 ---
 layout: word
-title: baler
+title: Is BALER a Wordle Word?
+head_title: 'Is BALER a Wordle Word? Yes – Past Answer #1477 & Meaning'
 word: baler
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A machine for creating bales, e.g., of hay or cotton.<p><strong>Example:</strong> Farmer Jones is in straits because his baler is broken down and he's got three fields of hay ready to bale.</p></li><li><strong>Definition 2:</strong> A person who creates bales, either by operating or feeding such a machine, or by creating the bales by hand.<p><strong>Example:</strong> Hank worked as a baler for Farmer Jones part time, to make ends meet.</p></li></ul></div></div>"
+description: Yes, BALER is a valid Wordle word. It was the Wordle answer on July 5,
+  2025 (#1477). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 5, 2025 (#1477).
+past_answers:
+- date: '2025-07-05'
+  number: 1477
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- baker
+- paler
+- baled
+- bales
+- barer
+- baser
+- bayer
+- haler
+- taler
+- waler
+anagrams:
+- blare
+- abler
+- belar
+- blaer
+- blear
+definitions:
+- pos: noun
+  defs:
+  - text: A machine for creating bales, e.g., of hay or cotton.
+    example: Farmer Jones is in straits because his baler is broken down and he's
+      got three fields of hay ready to bale.
+  - text: A person who creates bales, either by operating or feeding such a machine,
+      or by creating the bales by hand.
+    example: Hank worked as a baler for Farmer Jones part time, to make ends meet.
 ---
-

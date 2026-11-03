@@ -1,7 +1,37 @@
 ---
 layout: word
-title: wazoo
+title: Is WAZOO a Wordle Word?
+head_title: Is WAZOO a Wordle Word? Yes – Valid Guess & Meaning
 word: wazoo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɑˈzu/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The anus; ass.</li></ul></div></div>"
+description: Yes, WAZOO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - A
+  - O
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- bazoo
+- gazoo
+- kazoo
+- razoo
+- wahoo
+phonetic: "/wɑˈzu/"
+definitions:
+- pos: noun
+  defs:
+  - text: The anus; ass.
 ---
-

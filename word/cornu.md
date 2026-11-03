@@ -1,7 +1,33 @@
 ---
 layout: word
-title: cornu
+title: Is CORNU a Wordle Word?
+head_title: Is CORNU a Wordle Word? Yes – Valid Guess & Meaning
 word: cornu
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A horn, or anything shaped like or resembling a horn.</li></ul></div></div>"
+description: Yes, CORNU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- corny
+- corni
+- corno
+- corns
+definitions:
+- pos: noun
+  defs:
+  - text: A horn, or anything shaped like or resembling a horn.
 ---
-

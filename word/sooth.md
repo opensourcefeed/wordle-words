@@ -1,7 +1,53 @@
 ---
 layout: word
-title: sooth
+title: Is SOOTH a Wordle Word?
+head_title: Is SOOTH a Wordle Word? Yes – Possible Answer & Meaning
 word: sooth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /suːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Truth.</li><li><strong>Definition 2:</strong> Augury; prognostication.</li><li><strong>Definition 3:</strong> Blandishment; cajolery.</li><li><strong>Definition 4:</strong> Reality; fact.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> True.</li><li><strong>Definition 2:</strong> Pleasing; delightful; sweet.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In truth; indeed.</li></ul></div></div>"
+description: Yes, SOOTH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- booth
+- sloth
+- sooty
+- south
+- tooth
+- mooth
+- soote
+- soots
+- sowth
+anagrams:
+- shoot
+- hoots
+- tohos
+phonetic: "/suːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Truth.
+  - text: Augury; prognostication.
+  - text: Blandishment; cajolery.
+  - text: Reality; fact.
+- pos: adjective
+  defs:
+  - text: True.
+  - text: Pleasing; delightful; sweet.
+- pos: adverb
+  defs:
+  - text: In truth; indeed.
 ---
-

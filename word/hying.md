@@ -1,7 +1,41 @@
 ---
 layout: word
-title: hying
+title: Is HYING a Wordle Word?
+head_title: Is HYING a Wordle Word? Yes – Valid Guess & Meaning
 word: hying
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hasten; to go quickly, to hurry.</li><li><strong>Definition 2:</strong> To hurry (oneself).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Haste</li></ul></div></div>"
+description: Yes, HYING is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- dying
+- eying
+- lying
+- tying
+- vying
+- hoing
+- nying
+trap:
+  pattern: _YING
+  count: 7
+definitions:
+- pos: verb
+  defs:
+  - text: To hasten; to go quickly, to hurry.
+  - text: To hurry (oneself).
+- pos: noun
+  defs:
+  - text: Haste
 ---
-

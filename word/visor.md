@@ -1,7 +1,40 @@
 ---
 layout: word
-title: visor
+title: Is VISOR a Wordle Word?
+head_title: 'Is VISOR a Wordle Word? Yes – Past Answer #1246 & Meaning'
 word: visor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvaɪzɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A part of a helmet, arranged so as to lift or open, and so show the face. The openings for seeing and breathing are generally in it.</li><li><strong>Definition 2:</strong> A mask for the face.</li><li><strong>Definition 3:</strong> The fore piece of a cap, projecting over, and protecting the eyes.</li></ul></div></div>"
+description: Yes, VISOR is a valid Wordle word. It was the Wordle answer on November
+  16, 2024 (#1246). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 16, 2024 (#1246).
+past_answers:
+- date: '2024-11-16'
+  number: 1246
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- vigor
+- vison
+- vizor
+phonetic: "/ˈvaɪzɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A part of a helmet, arranged so as to lift or open, and so show the face.
+      The openings for seeing and breathing are generally in it.
+  - text: A mask for the face.
+  - text: The fore piece of a cap, projecting over, and protecting the eyes.
 ---
-

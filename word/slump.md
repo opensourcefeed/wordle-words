@@ -1,7 +1,57 @@
 ---
 layout: word
-title: slump
+title: Is SLUMP a Wordle Word?
+head_title: 'Is SLUMP a Wordle Word? Yes – Past Answer #202 & Meaning'
 word: slump
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slʌmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A heavy or helpless collapse; a slouching or drooping posture; a period of poor activity or performance, especially an extended period.</li><li><strong>Definition 2:</strong> A measure of the fluidity of freshly mixed concrete, based on how much the concrete formed in a standard slump cone sags when the cone is removed.</li><li><strong>Definition 3:</strong> A boggy place.</li><li><strong>Definition 4:</strong> The noise made by anything falling into a hole, or into a soft, miry place.</li><li><strong>Definition 5:</strong> The gross amount; the mass; the lump.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To collapse heavily or helplessly.<p><strong>Example:</strong> Exhausted, he slumped down onto the sofa.</p></li><li><strong>Definition 2:</strong> To decline or fall off in activity or performance.<p><strong>Example:</strong> Real estate prices slumped during the recession.</p></li><li><strong>Definition 3:</strong> To slouch or droop.</li><li><strong>Definition 4:</strong> To lump; to throw together messily.</li><li><strong>Definition 5:</strong> To fall or sink suddenly through or in, when walking on a surface, as on thawing snow or ice, a bog, etc.</li><li><strong>Definition 6:</strong> (slang) To cause to collapse; to hit hard; to render unsconscious; to kill.</li></ul></div></div>"
+description: Yes, SLUMP is a valid Wordle word. It was the Wordle answer on January
+  7, 2022 (#202). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 7, 2022 (#202).
+past_answers:
+- date: '2022-01-07'
+  number: 202
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- clump
+- plump
+- slurp
+- stump
+- flump
+- slums
+anagrams:
+- lumps
+- plums
+phonetic: "/slʌmp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A heavy or helpless collapse; a slouching or drooping posture; a period
+      of poor activity or performance, especially an extended period.
+  - text: A measure of the fluidity of freshly mixed concrete, based on how much the
+      concrete formed in a standard slump cone sags when the cone is removed.
+  - text: A boggy place.
+  - text: The noise made by anything falling into a hole, or into a soft, miry place.
+  - text: The gross amount; the mass; the lump.
+- pos: verb
+  defs:
+  - text: To collapse heavily or helplessly.
+    example: Exhausted, he slumped down onto the sofa.
+  - text: To decline or fall off in activity or performance.
+    example: Real estate prices slumped during the recession.
+  - text: To slouch or droop.
+  - text: To lump; to throw together messily.
+  - text: To fall or sink suddenly through or in, when walking on a surface, as on
+      thawing snow or ice, a bog, etc.
+  - text: "(slang) To cause to collapse; to hit hard; to render unsconscious; to kill."
 ---
-

@@ -1,7 +1,71 @@
 ---
 layout: word
-title: chars
+title: Is CHARS a Wordle Word?
+head_title: Is CHARS a Wordle Word? Yes – Valid Guess & Meaning
 word: chars
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A charred substance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To burn something to charcoal.</li><li><strong>Definition 2:</strong> To burn slightly or superficially so as to affect colour.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the several species of fishes of the genus Salvelinus.<p><strong>Example:</strong> Among other native delicacies, they give you fresh char.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A time; a turn or occasion.</li><li><strong>Definition 2:</strong> A turn of work; a labour or item of business.</li><li><strong>Definition 3:</strong> An odd job, a chore or piece of housework.</li><li><strong>Definition 4:</strong> A charlady, a woman employed to do housework; cleaning lady.<p><strong>Example:</strong> I had to scrub the kitchen today, because the char couldn't come.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn, especially away or aside.</li><li><strong>Definition 2:</strong> To work, especially to do housework; to work by the day, without being a regularly hired servant.</li><li><strong>Definition 3:</strong> To perform; to do; to finish.</li><li><strong>Definition 4:</strong> To work or hew (stone, etc.).</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A character (text element such as a letter or symbol).</li></ul></div></div>"
+description: Yes, CHARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- chaos
+- chard
+- charm
+- chart
+- chads
+- chais
+- chals
+- chams
+- chaps
+- chara
+- chare
+- chark
+anagrams:
+- crash
+trap:
+  pattern: CHA_S
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A charred substance.
+- pos: verb
+  defs:
+  - text: To burn something to charcoal.
+  - text: To burn slightly or superficially so as to affect colour.
+- pos: noun
+  defs:
+  - text: One of the several species of fishes of the genus Salvelinus.
+    example: Among other native delicacies, they give you fresh char.
+- pos: noun
+  defs:
+  - text: A time; a turn or occasion.
+  - text: A turn of work; a labour or item of business.
+  - text: An odd job, a chore or piece of housework.
+  - text: A charlady, a woman employed to do housework; cleaning lady.
+    example: I had to scrub the kitchen today, because the char couldn't come.
+- pos: verb
+  defs:
+  - text: To turn, especially away or aside.
+  - text: To work, especially to do housework; to work by the day, without being a
+      regularly hired servant.
+  - text: To perform; to do; to finish.
+  - text: To work or hew (stone, etc.).
+- pos: noun
+  defs:
+  - text: A character (text element such as a letter or symbol).
 ---
-

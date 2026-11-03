@@ -1,7 +1,40 @@
 ---
 layout: word
-title: whirr
+title: Is WHIRR a Wordle Word?
+head_title: Is WHIRR a Wordle Word? Yes – Valid Guess & Meaning
 word: whirr
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɜː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sibilant buzz or vibration; the sound of something in rapid motion.</li><li><strong>Definition 2:</strong> A bustle of noise and excitement.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move or vibrate (something) with a buzzing sound.</li><li><strong>Definition 2:</strong> To make a sibilant buzzing or droning sound.</li><li><strong>Definition 3:</strong> To cause (something) to make such a sound.</li></ul></div></div>"
+description: Yes, WHIRR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - I
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- whirl
+- chirr
+- shirr
+- whirs
+phonetic: "/wɜː/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sibilant buzz or vibration; the sound of something in rapid motion.
+  - text: A bustle of noise and excitement.
+- pos: verb
+  defs:
+  - text: To move or vibrate (something) with a buzzing sound.
+  - text: To make a sibilant buzzing or droning sound.
+  - text: To cause (something) to make such a sound.
 ---
-

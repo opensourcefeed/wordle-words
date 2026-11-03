@@ -1,7 +1,54 @@
 ---
 layout: word
-title: dusky
+title: Is DUSKY a Wordle Word?
+head_title: 'Is DUSKY a Wordle Word? Yes – Past Answer #1683 & Meaning'
 word: dusky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʌs.ki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dusky shark.</li><li><strong>Definition 2:</strong> A dusky dolphin.</li><li><strong>Definition 3:</strong> A dusky grouse.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Dimly lit, as at dusk (evening).<p><strong>Example:</strong> I like it when it is dusky, just before the street lights come on.</p></li><li><strong>Definition 2:</strong> Having a shade of color that is rather dark.<p><strong>Example:</strong> The dusky rose was of a muted color, not clashing with any of the other colors.</p></li><li><strong>Definition 3:</strong> Dark-skinned.</li><li><strong>Definition 4:</strong> Ashen; having a greyish skin coloration.<p><strong>Example:</strong> The patient was in shock and had a dusky skin tone.</p></li></ul></div></div>"
+description: Yes, DUSKY is a valid Wordle word. It was the Wordle answer on January
+  27, 2026 (#1683). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 27, 2026 (#1683).
+past_answers:
+- date: '2026-01-27'
+  number: 1683
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- dusty
+- husky
+- musky
+- busky
+- ducky
+- dumky
+- dusks
+- rusky
+- tusky
+trap:
+  pattern: _USKY
+  count: 6
+phonetic: "/ˈdʌs.ki/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dusky shark.
+  - text: A dusky dolphin.
+  - text: A dusky grouse.
+- pos: adjective
+  defs:
+  - text: Dimly lit, as at dusk (evening).
+    example: I like it when it is dusky, just before the street lights come on.
+  - text: Having a shade of color that is rather dark.
+    example: The dusky rose was of a muted color, not clashing with any of the other
+      colors.
+  - text: Dark-skinned.
+  - text: Ashen; having a greyish skin coloration.
+    example: The patient was in shock and had a dusky skin tone.
 ---
-

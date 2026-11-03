@@ -1,7 +1,53 @@
 ---
 layout: word
-title: bines
+title: Is BINES a Wordle Word?
+head_title: Is BINES a Wordle Word? Yes – Valid Guess & Meaning
 word: bines
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /baɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A climbing plant which climbs by its shoots growing in a helix around a support (distinct from a vine, which climbs using tendrils or suckers).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Cigarette</li></ul></div></div>"
+description: Yes, BINES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- banes
+- benes
+- bibes
+- bices
+- bides
+- bikes
+- biles
+- binds
+- biner
+- bings
+- binks
+- bints
+anagrams:
+- beins
+- benis
+trap:
+  pattern: _INES
+  count: 15
+phonetic: "/baɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A climbing plant which climbs by its shoots growing in a helix around a
+      support (distinct from a vine, which climbs using tendrils or suckers).
+- pos: noun
+  defs:
+  - text: Cigarette
 ---
-

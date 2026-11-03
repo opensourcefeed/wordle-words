@@ -1,7 +1,51 @@
 ---
 layout: word
-title: amend
+title: Is AMEND a Wordle Word?
+head_title: 'Is AMEND a Wordle Word? Yes – Past Answer #1846 & Meaning'
 word: amend
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈmɛnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in the plural) An act of righting a wrong; compensation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make better; improve.</li><li><strong>Definition 2:</strong> To become better.</li><li><strong>Definition 3:</strong> To heal (someone sick); to cure (a disease etc.).</li><li><strong>Definition 4:</strong> To be healed, to be cured, to recover (from an illness).</li><li><strong>Definition 5:</strong> To make a formal alteration (in legislation, a report, etc.) by adding, deleting, or rephrasing.</li></ul></div></div>"
+description: Yes, AMEND is a valid Wordle word. It was the Wordle answer on July 9,
+  2026 (#1846). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 9, 2026 (#1846).
+past_answers:
+- date: '2026-07-09'
+  number: 1846
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- amene
+- amens
+- ament
+- emend
+anagrams:
+- admen
+- deman
+- maned
+- menad
+- named
+phonetic: "/əˈmɛnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in the plural) An act of righting a wrong; compensation."
+- pos: verb
+  defs:
+  - text: To make better; improve.
+  - text: To become better.
+  - text: To heal (someone sick); to cure (a disease etc.).
+  - text: To be healed, to be cured, to recover (from an illness).
+  - text: To make a formal alteration (in legislation, a report, etc.) by adding,
+      deleting, or rephrasing.
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: raggy
+title: Is RAGGY a Wordle Word?
+head_title: Is RAGGY a Wordle Word? Yes – Valid Guess & Meaning
 word: raggy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Raglike; like a rag.</li><li><strong>Definition 2:</strong> Scruffy; tending to dress in rags.</li><li><strong>Definition 3:</strong> Similar in style to ragtime music.</li></ul></div></div>"
+description: Yes, RAGGY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- baggy
+- daggy
+- jaggy
+- laggy
+- naggy
+- radgy
+- ragga
+- raggs
+- rangy
+- ruggy
+- saggy
+- taggy
+anagrams:
+- aggry
+trap:
+  pattern: _AGGY
+  count: 9
+definitions:
+- pos: adjective
+  defs:
+  - text: Raglike; like a rag.
+  - text: Scruffy; tending to dress in rags.
+  - text: Similar in style to ragtime music.
 ---
-

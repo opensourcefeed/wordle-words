@@ -1,7 +1,39 @@
 ---
 layout: word
-title: girly
+title: Is GIRLY a Wordle Word?
+head_title: Is GIRLY a Wordle Word? Yes – Possible Answer & Meaning
 word: girly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡɜːli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Girl.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Characteristic of a stereotypical girl, very effeminate, sweet; unmasculine.</li></ul></div></div>"
+description: Yes, GIRLY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- gilly
+- girlf
+- girls
+- gurly
+- mirly
+- nirly
+phonetic: "/ˈɡɜːli/"
+definitions:
+- pos: noun
+  defs:
+  - text: Girl.
+- pos: adjective
+  defs:
+  - text: Characteristic of a stereotypical girl, very effeminate, sweet; unmasculine.
 ---
-

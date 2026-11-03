@@ -1,7 +1,51 @@
 ---
 layout: word
-title: chose
+title: Is CHOSE a Wordle Word?
+head_title: 'Is CHOSE a Wordle Word? Yes – Past Answer #1293 & Meaning'
 word: chose
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃəʊz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pick; to make the choice of; to select.<p><strong>Example:</strong> I chose a nice ripe apple from the fruit bowl.</p></li><li><strong>Definition 2:</strong> To elect.<p><strong>Example:</strong> He was chosen as president in 1990.</p></li><li><strong>Definition 3:</strong> To decide to act in a certain way.<p><strong>Example:</strong> I chose to walk to work today.</p></li><li><strong>Definition 4:</strong> To wish; to desire; to prefer.</li></ul></div></div>"
+description: Yes, CHOSE is a valid Wordle word. It was the Wordle answer on January
+  2, 2025 (#1293). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 2, 2025 (#1293).
+past_answers:
+- date: '2025-01-02'
+  number: 1293
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- chase
+- choke
+- chore
+- close
+- those
+- whose
+- chode
+- choss
+- chuse
+anagrams:
+- echos
+- oches
+phonetic: "/tʃəʊz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To pick; to make the choice of; to select.
+    example: I chose a nice ripe apple from the fruit bowl.
+  - text: To elect.
+    example: He was chosen as president in 1990.
+  - text: To decide to act in a certain way.
+    example: I chose to walk to work today.
+  - text: To wish; to desire; to prefer.
 ---
-

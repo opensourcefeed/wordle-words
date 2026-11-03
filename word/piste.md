@@ -1,7 +1,38 @@
 ---
 layout: word
-title: piste
+title: Is PISTE a Wordle Word?
+head_title: Is PISTE a Wordle Word? Yes – Valid Guess & Meaning
 word: piste
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A downhill trail.</li><li><strong>Definition 2:</strong> The field of play of a fencing match.</li><li><strong>Definition 3:</strong> The track left by somebody riding a horse.</li></ul></div></div>"
+description: Yes, PISTE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- paste
+- poste
+anagrams:
+- spite
+- piets
+- stipe
+definitions:
+- pos: noun
+  defs:
+  - text: A downhill trail.
+  - text: The field of play of a fencing match.
+  - text: The track left by somebody riding a horse.
 ---
-

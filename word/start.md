@@ -1,7 +1,64 @@
 ---
 layout: word
-title: start
+title: Is START a Wordle Word?
+head_title: 'Is START a Wordle Word? Yes – Past Answer #84 & Meaning'
 word: start
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɑːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The beginning of an activity.<p><strong>Example:</strong> The movie was entertaining from start to finish.</p></li><li><strong>Definition 2:</strong> A sudden involuntary movement.<p><strong>Example:</strong> He woke with a start.</p></li><li><strong>Definition 3:</strong> The beginning point of a race, a board game, etc.<p><strong>Example:</strong> Captured pieces are returned to the start of the board.</p></li><li><strong>Definition 4:</strong> An appearance in a sports game, horserace, etc., from the beginning of the event.<p><strong>Example:</strong> Jones has been a substitute before, but made his first start for the team last Sunday.</p></li><li><strong>Definition 5:</strong> A young plant germinated in a pot to be transplanted later.</li><li><strong>Definition 6:</strong> An initial advantage over somebody else; a head start.<p><strong>Example:</strong> to get, or have, the start</p></li></ul></div></div>"
+description: Yes, START is a valid Wordle word. It was the Wordle answer on September
+  11, 2021 (#84). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 11, 2021 (#84).
+past_answers:
+- date: '2021-09-11'
+  number: 84
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- smart
+- stare
+- stark
+- scart
+- shart
+- skart
+- slart
+- spart
+- starn
+- starr
+- stars
+- stary
+anagrams:
+- tarts
+- trats
+trap:
+  pattern: S_ART
+  count: 8
+phonetic: "/stɑːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The beginning of an activity.
+    example: The movie was entertaining from start to finish.
+  - text: A sudden involuntary movement.
+    example: He woke with a start.
+  - text: The beginning point of a race, a board game, etc.
+    example: Captured pieces are returned to the start of the board.
+  - text: An appearance in a sports game, horserace, etc., from the beginning of the
+      event.
+    example: Jones has been a substitute before, but made his first start for the
+      team last Sunday.
+  - text: A young plant germinated in a pot to be transplanted later.
+  - text: An initial advantage over somebody else; a head start.
+    example: to get, or have, the start
 ---
-

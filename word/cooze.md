@@ -1,9 +1,39 @@
 ---
 layout: word
-title: cooze
+title: Is COOZE a Wordle Word?
+head_title: Is COOZE a Wordle Word? Yes – Valid Guess & Meaning
 word: cooze
+description: Yes, COOZE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
 sensitive: true
 sitemap: false
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Pussy, vagina.</li><li><strong>Definition 2:</strong> A woman (often when viewed as an object of sexual desire).</li></ul></div></div>"
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- booze
+- cloze
+- cooee
+- croze
+phonetic: "/kuːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Pussy, vagina.
+  - text: A woman (often when viewed as an object of sexual desire).
 ---
-

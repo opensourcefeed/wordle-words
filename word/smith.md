@@ -1,7 +1,39 @@
 ---
 layout: word
-title: smith
+title: Is SMITH a Wordle Word?
+head_title: 'Is SMITH a Wordle Word? Yes – Past Answer #981 & Meaning'
 word: smith
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /smɪθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A craftsperson who works metal into desired forms using a hammer and other tools, sometimes heating the metal to make it more workable, especially a blacksmith.</li><li><strong>Definition 2:</strong> (by extension) One who makes anything; wright.</li><li><strong>Definition 3:</strong> An artist.</li></ul></div></div>"
+description: Yes, SMITH is a valid Wordle word. It was the Wordle answer on February
+  25, 2024 (#981). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 25, 2024 (#981).
+past_answers:
+- date: '2024-02-25'
+  number: 981
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- smite
+- saith
+- smits
+- swith
+phonetic: "/smɪθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A craftsperson who works metal into desired forms using a hammer and other
+      tools, sometimes heating the metal to make it more workable, especially a blacksmith.
+  - text: "(by extension) One who makes anything; wright."
+  - text: An artist.
 ---
-

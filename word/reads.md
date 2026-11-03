@@ -1,7 +1,95 @@
 ---
 layout: word
-title: reads
+title: Is READS a Wordle Word?
+head_title: Is READS a Wordle Word? Yes – Valid Guess & Meaning
 word: reads
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹiːdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A reading or an act of reading, especially an actor's part of a play.</li><li><strong>Definition 2:</strong> (in combination) Something to be read; a written work.<p><strong>Example:</strong> His thrillers are always a gripping read.</p></li><li><strong>Definition 3:</strong> A person's interpretation or impression of something.<p><strong>Example:</strong> What's your read of the current political situation?</p></li><li><strong>Definition 4:</strong> An instance of reading.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To look at and interpret letters or other information that is written.<p><strong>Example:</strong> Have you read this book?</p></li><li><strong>Definition 2:</strong> To speak aloud words or other information that is written. Often construed with a to phrase or an indirect object.<p><strong>Example:</strong> All right, class, who wants to read next?</p></li><li><strong>Definition 3:</strong> To read work(s) written by (a named author).<p><strong>Example:</strong> At the moment I'm reading Milton.</p></li><li><strong>Definition 4:</strong> To interpret, or infer a meaning, significance, thought, intention, etc. from.<p><strong>Example:</strong> I can read his feelings in his face.</p></li><li><strong>Definition 5:</strong> To consist of certain text.<p><strong>Example:</strong> On the door hung a sign that reads \"No admittance\".</p></li><li><strong>Definition 6:</strong> Of text, etc., to be interpreted or read in a particular way.<p><strong>Example:</strong> Arabic reads right to left.</p></li><li><strong>Definition 7:</strong> To substitute (a corrected piece of text in place of an erroneous one); used to introduce an emendation of a text.</li><li><strong>Definition 8:</strong> (usually ironic) Used after a euphemism to introduce the intended, more blunt meaning of a term.</li><li><strong>Definition 9:</strong> To be able to hear what another person is saying over a radio connection.<p><strong>Example:</strong> Do you read me?</p></li><li><strong>Definition 10:</strong> To observe and comprehend (a displayed signal)<p><strong>Example:</strong> A repeater signal may be used where the track geometry makes the main signal difficult to read from a distance.</p></li><li><strong>Definition 11:</strong> (except Scotland) To make a special study of, as by perusing textbooks.<p><strong>Example:</strong> I am reading theology at university.</p></li><li><strong>Definition 12:</strong> To fetch data from (a storage medium, etc.).<p><strong>Example:</strong> to read a hard disk; to read a port; to read the keyboard</p></li><li><strong>Definition 13:</strong> To think, believe; to consider (that).</li><li><strong>Definition 14:</strong> To advise; to counsel. See rede.</li><li><strong>Definition 15:</strong> To tell; to declare; to recite.</li><li><strong>Definition 16:</strong> To recognise (someone) as being transgender.<p><strong>Example:</strong> Every time I go outside, I worry that someone will read me.</p></li><li><strong>Definition 17:</strong> To call attention to the flaws of (someone) in either a playful, a taunting, or an insulting way.</li></ul></div></div>"
+description: Yes, READS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- ready
+- beads
+- deads
+- heads
+- leads
+- meads
+- raads
+- readd
+- reais
+- reaks
+- reals
+- reams
+anagrams:
+- arsed
+- dares
+- dears
+- eards
+- rased
+- sared
+trap:
+  pattern: _EADS
+  count: 8
+phonetic: "/ɹiːdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A reading or an act of reading, especially an actor's part of a play.
+  - text: "(in combination) Something to be read; a written work."
+    example: His thrillers are always a gripping read.
+  - text: A person's interpretation or impression of something.
+    example: What's your read of the current political situation?
+  - text: An instance of reading.
+- pos: verb
+  defs:
+  - text: To look at and interpret letters or other information that is written.
+    example: Have you read this book?
+  - text: To speak aloud words or other information that is written. Often construed
+      with a to phrase or an indirect object.
+    example: All right, class, who wants to read next?
+  - text: To read work(s) written by (a named author).
+    example: At the moment I'm reading Milton.
+  - text: To interpret, or infer a meaning, significance, thought, intention, etc.
+      from.
+    example: I can read his feelings in his face.
+  - text: To consist of certain text.
+    example: On the door hung a sign that reads "No admittance".
+  - text: Of text, etc., to be interpreted or read in a particular way.
+    example: Arabic reads right to left.
+  - text: To substitute (a corrected piece of text in place of an erroneous one);
+      used to introduce an emendation of a text.
+  - text: "(usually ironic) Used after a euphemism to introduce the intended, more
+      blunt meaning of a term."
+  - text: To be able to hear what another person is saying over a radio connection.
+    example: Do you read me?
+  - text: To observe and comprehend (a displayed signal)
+    example: A repeater signal may be used where the track geometry makes the main
+      signal difficult to read from a distance.
+  - text: "(except Scotland) To make a special study of, as by perusing textbooks."
+    example: I am reading theology at university.
+  - text: To fetch data from (a storage medium, etc.).
+    example: to read a hard disk; to read a port; to read the keyboard
+  - text: To think, believe; to consider (that).
+  - text: To advise; to counsel. See rede.
+  - text: To tell; to declare; to recite.
+  - text: To recognise (someone) as being transgender.
+    example: Every time I go outside, I worry that someone will read me.
+  - text: To call attention to the flaws of (someone) in either a playful, a taunting,
+      or an insulting way.
 ---
-

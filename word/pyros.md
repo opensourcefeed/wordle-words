@@ -1,7 +1,41 @@
 ---
 layout: word
-title: pyros
+title: Is PYROS a Wordle Word?
+head_title: Is PYROS a Wordle Word? Yes – Valid Guess & Meaning
 word: pyros
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pyromaniac</li><li><strong>Definition 2:</strong> Pyrocellulose</li><li><strong>Definition 3:</strong> Pyrotechnician</li><li><strong>Definition 4:</strong> Pyrotechnics</li><li><strong>Definition 5:</strong> Pyrogallic acid</li></ul></div></div>"
+description: Yes, PYROS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- gyros
+- puros
+- pyres
+- pyrus
+- tyros
+anagrams:
+- prosy
+- yorps
+definitions:
+- pos: noun
+  defs:
+  - text: A pyromaniac
+  - text: Pyrocellulose
+  - text: Pyrotechnician
+  - text: Pyrotechnics
+  - text: Pyrogallic acid
 ---
-

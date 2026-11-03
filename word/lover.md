@@ -1,7 +1,56 @@
 ---
 layout: word
-title: lover
+title: Is LOVER a Wordle Word?
+head_title: 'Is LOVER a Wordle Word? Yes – Past Answer #781 & Meaning'
 word: lover
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlʌvə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who loves and cares for another person in a romantic way; a sweetheart, love, soulmate, boyfriend, girlfriend or spouse.</li><li><strong>Definition 2:</strong> A sexual partner, especially one with whom someone is having an affair.</li><li><strong>Definition 3:</strong> A person who loves something.<p><strong>Example:</strong> a lover of fine wines</p></li><li><strong>Definition 4:</strong> (with \"my\") An informal term of address for any friend.<p><strong>Example:</strong> All right, me lover?</p></li></ul></div></div>"
+description: Yes, LOVER is a valid Wordle word. It was the Wordle answer on August
+  9, 2023 (#781). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 9, 2023 (#781).
+past_answers:
+- date: '2023-08-09'
+  number: 781
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- cover
+- hover
+- lever
+- liver
+- loser
+- lower
+- mover
+- rover
+- dover
+- laver
+- loner
+- loper
+trap:
+  pattern: _OVER
+  count: 6
+phonetic: "/ˈlʌvə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who loves and cares for another person in a romantic way; a sweetheart,
+      love, soulmate, boyfriend, girlfriend or spouse.
+  - text: A sexual partner, especially one with whom someone is having an affair.
+  - text: A person who loves something.
+    example: a lover of fine wines
+  - text: (with "my") An informal term of address for any friend.
+    example: All right, me lover?
 ---
-

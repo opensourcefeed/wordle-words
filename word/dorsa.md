@@ -1,7 +1,40 @@
 ---
 layout: word
-title: dorsa
+title: Is DORSA a Wordle Word?
+head_title: Is DORSA a Wordle Word? Yes – Valid Guess & Meaning
 word: dorsa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The back of the tongue, used for articulating dorsal consonants.</li><li><strong>Definition 2:</strong> The top of the foot or the back of the hand.</li><li><strong>Definition 3:</strong> The back or dorsal region on the surface of an animal.</li><li><strong>Definition 4:</strong> (astrogeology) A ridge on a hill, or on the surface of a planet or moon.</li><li><strong>Definition 5:</strong> Theta Capricorni, a star on the back of the Goat</li></ul></div></div>"
+description: Yes, DORSA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- dorba
+- dorse
+anagrams:
+- roads
+- sarod
+- sorda
+definitions:
+- pos: noun
+  defs:
+  - text: The back of the tongue, used for articulating dorsal consonants.
+  - text: The top of the foot or the back of the hand.
+  - text: The back or dorsal region on the surface of an animal.
+  - text: "(astrogeology) A ridge on a hill, or on the surface of a planet or moon."
+  - text: Theta Capricorni, a star on the back of the Goat
 ---
-

@@ -1,7 +1,82 @@
 ---
 layout: word
-title: rated
+title: Is RATED a Wordle Word?
+head_title: Is RATED a Wordle Word? Yes – Valid Guess & Meaning
 word: rated
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹeɪtɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assign or be assigned a particular rank or level.<p><strong>Example:</strong> She is rated fourth in the country.</p></li><li><strong>Definition 2:</strong> To evaluate or estimate the value of.<p><strong>Example:</strong> They rate his talents highly.</p></li><li><strong>Definition 3:</strong> To consider or regard.<p><strong>Example:</strong> He rated this book brilliant.</p></li><li><strong>Definition 4:</strong> To deserve; to be worth.<p><strong>Example:</strong> The view here hardly rates a mention in the travel guide.</p></li><li><strong>Definition 5:</strong> To determine the limits of safe functioning for a machine or electrical device.<p><strong>Example:</strong> The transformer is rated at 10 watts.</p></li><li><strong>Definition 6:</strong> To evaluate a property's value for the purposes of local taxation.</li><li><strong>Definition 7:</strong> To like; to think highly of.<p><strong>Example:</strong> The customers don't rate the new burgers.</p></li><li><strong>Definition 8:</strong> To have position (in a certain class).<p><strong>Example:</strong> He rates as the best cyclist in the country.</p></li><li><strong>Definition 9:</strong> To have value or standing.<p><strong>Example:</strong> This last performance of hers didn't rate very high with the judges.</p></li><li><strong>Definition 10:</strong> To ratify.</li><li><strong>Definition 11:</strong> To ascertain the exact rate of the gain or loss of (a chronometer) as compared with true time.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To berate, scold.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Scolded, rebuked.</li><li><strong>Definition 2:</strong> Maximum (load, voltage, etc.) under which a device can function properly</li></ul></div></div>"
+description: Yes, RATED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- bated
+- dated
+- fated
+- gated
+- hated
+- lated
+- mated
+- pated
+- raced
+- raged
+- rahed
+- raked
+anagrams:
+- trade
+- tread
+- adret
+- dater
+- derat
+- tared
+trap:
+  pattern: RA_ED
+  count: 13
+phonetic: "/ˈɹeɪtɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To assign or be assigned a particular rank or level.
+    example: She is rated fourth in the country.
+  - text: To evaluate or estimate the value of.
+    example: They rate his talents highly.
+  - text: To consider or regard.
+    example: He rated this book brilliant.
+  - text: To deserve; to be worth.
+    example: The view here hardly rates a mention in the travel guide.
+  - text: To determine the limits of safe functioning for a machine or electrical
+      device.
+    example: The transformer is rated at 10 watts.
+  - text: To evaluate a property's value for the purposes of local taxation.
+  - text: To like; to think highly of.
+    example: The customers don't rate the new burgers.
+  - text: To have position (in a certain class).
+    example: He rates as the best cyclist in the country.
+  - text: To have value or standing.
+    example: This last performance of hers didn't rate very high with the judges.
+  - text: To ratify.
+  - text: To ascertain the exact rate of the gain or loss of (a chronometer) as compared
+      with true time.
+- pos: verb
+  defs:
+  - text: To berate, scold.
+- pos: adjective
+  defs:
+  - text: Scolded, rebuked.
+  - text: Maximum (load, voltage, etc.) under which a device can function properly
 ---
-

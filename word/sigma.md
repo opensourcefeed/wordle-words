@@ -1,7 +1,39 @@
 ---
 layout: word
-title: sigma
+title: Is SIGMA a Wordle Word?
+head_title: Is SIGMA a Wordle Word? Yes – Possible Answer & Meaning
 word: sigma
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɪɡmə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth letter of Old and Ancient.</li><li><strong>Definition 2:</strong> The symbol Σ, used to indicate summation of a set or series.</li><li><strong>Definition 3:</strong> The symbol σ, used to indicate one standard deviation from the mean, particularly in a normal distribution.</li></ul></div></div>"
+description: Yes, SIGMA is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- migma
+- sigla
+- signa
+anagrams:
+- agism
+phonetic: "/ˈsɪɡmə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The eighteenth letter of the Classical and Modern Greek alphabets, the twentieth
+      letter of Old and Ancient.
+  - text: The symbol Σ, used to indicate summation of a set or series.
+  - text: The symbol σ, used to indicate one standard deviation from the mean, particularly
+      in a normal distribution.
 ---
-

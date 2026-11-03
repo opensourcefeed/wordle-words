@@ -1,7 +1,49 @@
 ---
 layout: word
-title: lubes
+title: Is LUBES a Wordle Word?
+head_title: Is LUBES a Wordle Word? Yes – Valid Guess & Meaning
 word: lubes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /luːbz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lubricate</li></ul></div></div>"
+description: Yes, LUBES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- cubes
+- jubes
+- lobes
+- lubed
+- luces
+- ludes
+- luges
+- lunes
+- lures
+- lutes
+- luxes
+- pubes
+anagrams:
+- blues
+- bulse
+trap:
+  pattern: LU_ES
+  count: 8
+phonetic: "/luːbz/"
+definitions:
+- pos: verb
+  defs:
+  - text: To lubricate
 ---
-

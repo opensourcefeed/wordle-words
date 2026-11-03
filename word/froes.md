@@ -1,7 +1,43 @@
 ---
 layout: word
-title: froes
+title: Is FROES a Wordle Word?
+head_title: Is FROES a Wordle Word? Yes – Valid Guess & Meaning
 word: froes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cleaving tool for splitting cask staves and shingles from the block.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dirty woman; a slattern; a frow.</li></ul></div></div>"
+description: Yes, FROES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- floes
+- frees
+- fries
+- frogs
+- frons
+- frows
+anagrams:
+- fores
+- orfes
+definitions:
+- pos: noun
+  defs:
+  - text: A cleaving tool for splitting cask staves and shingles from the block.
+- pos: noun
+  defs:
+  - text: A dirty woman; a slattern; a frow.
 ---
-

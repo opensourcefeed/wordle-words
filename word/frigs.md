@@ -1,7 +1,57 @@
 ---
 layout: word
-title: frigs
+title: Is FRIGS a Wordle Word?
+head_title: Is FRIGS a Wordle Word? Yes – Valid Guess & Meaning
 word: frigs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An act of frigging.</li><li><strong>Definition 2:</strong> A temporary modification to a piece of equipment to change the way it operates (usually away from as originally designed).<p><strong>Example:</strong> I had to put a couple of frigs across the switch relays but it works now.</p></li><li><strong>Definition 3:</strong> A fuck.<p><strong>Example:</strong> I don’t give a frig!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fidget, to wriggle around<p><strong>Example:</strong> Will you sit down and stop frigging around.</p></li><li><strong>Definition 2:</strong> To masturbate<p><strong>Example:</strong> She never forgot the day she was caught frigging herself in the library.</p></li><li><strong>Definition 3:</strong> To fuck (misapplied euphemism)<p><strong>Example:</strong> Come on honey, let’s frig.</p></li><li><strong>Definition 4:</strong> To mess or muck (about, around etc.)<p><strong>Example:</strong> Be sensible, you’re just frigging about now.</p></li><li><strong>Definition 5:</strong> To make a temporary alteration to something, to fudge, to manipulate<p><strong>Example:</strong> The system wasn't working but I've frigged the data and it's usable now.</p></li></ul></div></div>"
+description: Yes, FRIGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- brigs
+- frags
+- fribs
+- fries
+- frits
+- frogs
+- frugs
+- grigs
+- prigs
+- trigs
+definitions:
+- pos: noun
+  defs:
+  - text: An act of frigging.
+  - text: A temporary modification to a piece of equipment to change the way it operates
+      (usually away from as originally designed).
+    example: I had to put a couple of frigs across the switch relays but it works
+      now.
+  - text: A fuck.
+    example: I don’t give a frig!
+- pos: verb
+  defs:
+  - text: To fidget, to wriggle around
+    example: Will you sit down and stop frigging around.
+  - text: To masturbate
+    example: She never forgot the day she was caught frigging herself in the library.
+  - text: To fuck (misapplied euphemism)
+    example: Come on honey, let’s frig.
+  - text: To mess or muck (about, around etc.)
+    example: Be sensible, you’re just frigging about now.
+  - text: To make a temporary alteration to something, to fudge, to manipulate
+    example: The system wasn't working but I've frigged the data and it's usable now.
 ---
-

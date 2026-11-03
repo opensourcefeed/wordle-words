@@ -1,7 +1,48 @@
 ---
 layout: word
-title: herms
+title: Is HERMS a Wordle Word?
+head_title: Is HERMS a Wordle Word? Yes – Valid Guess & Meaning
 word: herms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rectangular pillar bearing a bust of Hermes, once used as a boundary marker and later as decoration.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes derogatory) A hermaphrodite.</li></ul></div></div>"
+description: Yes, HERMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- berms
+- derms
+- ferms
+- germs
+- harms
+- helms
+- herbs
+- herds
+- heres
+- herls
+- herma
+- herns
+trap:
+  pattern: HER_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A rectangular pillar bearing a bust of Hermes, once used as a boundary marker
+      and later as decoration.
+- pos: noun
+  defs:
+  - text: "(sometimes derogatory) A hermaphrodite."
 ---
-

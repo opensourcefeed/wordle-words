@@ -1,7 +1,50 @@
 ---
 layout: word
-title: glans
+title: Is GLANS a Wordle Word?
+head_title: Is GLANS a Wordle Word? Yes – Valid Guess & Meaning
 word: glans
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The vascular body which forms the apex of the penis.</li><li><strong>Definition 2:</strong> The vascular body which forms the extremity of the clitoris.</li><li><strong>Definition 3:</strong> The acorn or mast of the oak and similar fruits.</li><li><strong>Definition 4:</strong> A goiter.</li><li><strong>Definition 5:</strong> A pessary.</li></ul></div></div>"
+description: Yes, GLANS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- gland
+- glass
+- alans
+- clans
+- elans
+- flans
+- geans
+- glads
+- glams
+- glens
+- grans
+- guans
+anagrams:
+- slang
+trap:
+  pattern: _LANS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: The vascular body which forms the apex of the penis.
+  - text: The vascular body which forms the extremity of the clitoris.
+  - text: The acorn or mast of the oak and similar fruits.
+  - text: A goiter.
+  - text: A pessary.
 ---
-

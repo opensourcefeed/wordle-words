@@ -1,7 +1,47 @@
 ---
 layout: word
-title: diary
+title: Is DIARY a Wordle Word?
+head_title: 'Is DIARY a Wordle Word? Yes – Past Answer #1047 & Meaning'
 word: diary
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪəɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A daily log of experiences, especially those of the writer.<p><strong>Example:</strong> They kept separate diaries. His was on paper and her diary was on her computer's hard drive.</p></li><li><strong>Definition 2:</strong> A personal organizer or appointment diary.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To keep a diary or journal.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Lasting for one day.</li></ul></div></div>"
+description: Yes, DIARY is a valid Wordle word. It was the Wordle answer on May 1,
+  2024 (#1047). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 1, 2024 (#1047).
+past_answers:
+- date: '2024-05-01'
+  number: 1047
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- deary
+anagrams:
+- dairy
+- yaird
+phonetic: "/ˈdaɪəɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A daily log of experiences, especially those of the writer.
+    example: They kept separate diaries. His was on paper and her diary was on her
+      computer's hard drive.
+  - text: A personal organizer or appointment diary.
+- pos: verb
+  defs:
+  - text: To keep a diary or journal.
+- pos: adjective
+  defs:
+  - text: Lasting for one day.
 ---
-

@@ -1,7 +1,34 @@
 ---
 layout: word
-title: dumbs
+title: Is DUMBS a Wordle Word?
+head_title: Is DUMBS a Wordle Word? Yes – Valid Guess & Meaning
 word: dumbs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To silence.</li><li><strong>Definition 2:</strong> To make stupid.</li><li><strong>Definition 3:</strong> To represent as stupid.</li><li><strong>Definition 4:</strong> To reduce the intellectual demands of.</li></ul></div></div>"
+description: Yes, DUMBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- dumas
+- dumbo
+- dumps
+- numbs
+definitions:
+- pos: verb
+  defs:
+  - text: To silence.
+  - text: To make stupid.
+  - text: To represent as stupid.
+  - text: To reduce the intellectual demands of.
 ---
-

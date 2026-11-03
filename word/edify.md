@@ -1,7 +1,35 @@
 ---
 layout: word
-title: edify
+title: Is EDIFY a Wordle Word?
+head_title: 'Is EDIFY a Wordle Word? Yes – Past Answer #1448 & Meaning'
 word: edify
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛdɪfaɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To build, construct.</li><li><strong>Definition 2:</strong> To instruct or improve morally or intellectually.</li></ul></div></div>"
+description: Yes, EDIFY is a valid Wordle word. It was the Wordle answer on June 6,
+  2025 (#1448). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 6, 2025 (#1448).
+past_answers:
+- date: '2025-06-06'
+  number: 1448
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+anagrams:
+- deify
+phonetic: "/ˈɛdɪfaɪ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To build, construct.
+  - text: To instruct or improve morally or intellectually.
 ---
-

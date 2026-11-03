@@ -1,7 +1,48 @@
 ---
 layout: word
-title: lolly
+title: Is LOLLY a Wordle Word?
+head_title: Is LOLLY a Wordle Word? Yes – Valid Guess & Meaning
 word: lolly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A piece of hard candy on a stick; a lollipop.</li><li><strong>Definition 2:</strong> Money.</li><li><strong>Definition 3:</strong> Any confection made from sugar, or high in sugar content; a sweet, a piece of candy.</li><li><strong>Definition 4:</strong> A lump.</li></ul></div></div>"
+description: Yes, LOLLY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 3
+  repeated:
+  - L
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- dolly
+- folly
+- golly
+- holly
+- jolly
+- lowly
+- colly
+- lollo
+- lolls
+- molly
+- polly
+- rolly
+trap:
+  pattern: _OLLY
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: A piece of hard candy on a stick; a lollipop.
+  - text: Money.
+  - text: Any confection made from sugar, or high in sugar content; a sweet, a piece
+      of candy.
+  - text: A lump.
 ---
-

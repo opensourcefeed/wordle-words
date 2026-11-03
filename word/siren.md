@@ -1,7 +1,67 @@
 ---
 layout: word
-title: siren
+title: Is SIREN a Wordle Word?
+head_title: 'Is SIREN a Wordle Word? Yes – Past Answer #1656 & Meaning'
 word: siren
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsaɪəɹən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of a group of nymphs who lured mariners to their death on the rocks.</li><li><strong>Definition 2:</strong> One who sings sweetly and charms.</li><li><strong>Definition 3:</strong> A dangerously seductive woman.</li><li><strong>Definition 4:</strong> A member of an order of mammals of Sirenia (first attested in French in Dominique Bouhours, Les entretiens d'Ariste et d'Eugène, 1671).</li><li><strong>Definition 5:</strong> A member of a genus of aquatic salamanders of the family Sirenidae (originally introduced by Linnaeus, 1766, for a genus of his reptiles), commonly used for all species subsumed under the family of Sirenidae.</li><li><strong>Definition 6:</strong> Any of various nymphalid butterflies of the genus Hestina.</li><li><strong>Definition 7:</strong> A device, either mechanical or electronic, that makes a piercingly loud sound as an alarm or signal, or the sound from such a device (first recorded 1879).</li><li><strong>Definition 8:</strong> A musical instrument, one of the few aerophones in the percussion section of the symphony orchestra (patented as Acme Siren in 1895).</li><li><strong>Definition 9:</strong> An instrument for demonstrating the laws of beats and combination tones.</li><li><strong>Definition 10:</strong> An astrophysical event that can be used for calculating cosmic distances.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a noise with, or as if with, a siren.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to or like a siren.</li></ul></div></div>"
+description: Yes, SIREN is a valid Wordle word. It was the Wordle answer on December
+  31, 2025 (#1656). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 31, 2025 (#1656).
+past_answers:
+- date: '2025-12-31'
+  number: 1656
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- silen
+- sired
+- siree
+- sires
+- syren
+anagrams:
+- resin
+- rinse
+- risen
+- reins
+- rines
+- serin
+phonetic: "/ˈsaɪəɹən/"
+definitions:
+- pos: noun
+  defs:
+  - text: One of a group of nymphs who lured mariners to their death on the rocks.
+  - text: One who sings sweetly and charms.
+  - text: A dangerously seductive woman.
+  - text: A member of an order of mammals of Sirenia (first attested in French in
+      Dominique Bouhours, Les entretiens d'Ariste et d'Eugène, 1671).
+  - text: A member of a genus of aquatic salamanders of the family Sirenidae (originally
+      introduced by Linnaeus, 1766, for a genus of his reptiles), commonly used for
+      all species subsumed under the family of Sirenidae.
+  - text: Any of various nymphalid butterflies of the genus Hestina.
+  - text: A device, either mechanical or electronic, that makes a piercingly loud
+      sound as an alarm or signal, or the sound from such a device (first recorded
+      1879).
+  - text: A musical instrument, one of the few aerophones in the percussion section
+      of the symphony orchestra (patented as Acme Siren in 1895).
+  - text: An instrument for demonstrating the laws of beats and combination tones.
+  - text: An astrophysical event that can be used for calculating cosmic distances.
+- pos: verb
+  defs:
+  - text: To make a noise with, or as if with, a siren.
+- pos: adjective
+  defs:
+  - text: Relating to or like a siren.
 ---
-

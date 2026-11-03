@@ -1,7 +1,41 @@
 ---
 layout: word
-title: patsy
+title: Is PATSY a Wordle Word?
+head_title: 'Is PATSY a Wordle Word? Yes – Past Answer #1414 & Meaning'
 word: patsy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpætsi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who is taken advantage of, especially by being cheated or blamed for something.</li></ul></div></div>"
+description: Yes, PATSY is a valid Wordle word. It was the Wordle answer on May 3,
+  2025 (#1414). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 3, 2025 (#1414).
+past_answers:
+- date: '2025-05-03'
+  number: 1414
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- palsy
+- pansy
+- patty
+- patly
+- potsy
+anagrams:
+- pasty
+- pyats
+phonetic: "/ˈpætsi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who is taken advantage of, especially by being cheated or blamed
+      for something.
 ---
-

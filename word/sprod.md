@@ -1,7 +1,32 @@
 ---
 layout: word
-title: sprod
+title: Is SPROD a Wordle Word?
+head_title: Is SPROD a Wordle Word? Yes – Valid Guess
 word: sprod
-meaning: ""
+description: Yes, SPROD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- sarod
+- scrod
+- sprad
+- spred
+- sprog
+anagrams:
+- dorps
+- drops
+- prods
 ---
-

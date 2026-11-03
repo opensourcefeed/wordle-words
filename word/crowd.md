@@ -1,7 +1,61 @@
 ---
 layout: word
-title: crowd
+title: Is CROWD a Wordle Word?
+head_title: 'Is CROWD a Wordle Word? Yes – Past Answer #1086 & Meaning'
 word: crowd
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹaʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A group of people congregated or collected into a close body without order.<p><strong>Example:</strong> After the movie let out, a crowd of people pushed through the exit doors.</p></li><li><strong>Definition 2:</strong> Several things collected or closely pressed together; also, some things adjacent to each other.<p><strong>Example:</strong> There was a crowd of toys pushed beneath the couch where the children were playing.</p></li><li><strong>Definition 3:</strong> (with definite article) The so-called lower orders of people; the populace, vulgar.</li><li><strong>Definition 4:</strong> A group of people united or at least characterised by a common interest.<p><strong>Example:</strong> That obscure author's fans were a nerdy crowd which hardly ever interacted before the Internet age.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To press forward; to advance by pushing.<p><strong>Example:</strong> The man crowded into the packed room.</p></li><li><strong>Definition 2:</strong> To press together or collect in numbers<p><strong>Example:</strong> They crowded through the archway and into the park.</p></li><li><strong>Definition 3:</strong> To press or drive together, especially into a small space; to cram.<p><strong>Example:</strong> He tried to crowd too many cows into the cow-pen.</p></li><li><strong>Definition 4:</strong> To fill by pressing or thronging together</li><li><strong>Definition 5:</strong> (often used with \"out of\" or \"off\") To push, to press, to shove.<p><strong>Example:</strong> They tried to crowd her off the sidewalk.</p></li><li><strong>Definition 6:</strong> To approach another ship too closely when it has right of way.</li><li><strong>Definition 7:</strong> (of a square-rigged ship) To carry excessive sail in the hope of moving faster.</li><li><strong>Definition 8:</strong> To press by solicitation; to urge; to dun; hence, to treat discourteously or unreasonably.</li></ul></div></div>"
+description: Yes, CROWD is a valid Wordle word. It was the Wordle answer on June 9,
+  2024 (#1086). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 9, 2024 (#1086).
+past_answers:
+- date: '2024-06-09'
+  number: 1086
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- crown
+- crowl
+- crows
+phonetic: "/kɹaʊd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A group of people congregated or collected into a close body without order.
+    example: After the movie let out, a crowd of people pushed through the exit doors.
+  - text: Several things collected or closely pressed together; also, some things
+      adjacent to each other.
+    example: There was a crowd of toys pushed beneath the couch where the children
+      were playing.
+  - text: "(with definite article) The so-called lower orders of people; the populace,
+      vulgar."
+  - text: A group of people united or at least characterised by a common interest.
+    example: That obscure author's fans were a nerdy crowd which hardly ever interacted
+      before the Internet age.
+- pos: verb
+  defs:
+  - text: To press forward; to advance by pushing.
+    example: The man crowded into the packed room.
+  - text: To press together or collect in numbers
+    example: They crowded through the archway and into the park.
+  - text: To press or drive together, especially into a small space; to cram.
+    example: He tried to crowd too many cows into the cow-pen.
+  - text: To fill by pressing or thronging together
+  - text: (often used with "out of" or "off") To push, to press, to shove.
+    example: They tried to crowd her off the sidewalk.
+  - text: To approach another ship too closely when it has right of way.
+  - text: "(of a square-rigged ship) To carry excessive sail in the hope of moving
+      faster."
+  - text: To press by solicitation; to urge; to dun; hence, to treat discourteously
+      or unreasonably.
 ---
-

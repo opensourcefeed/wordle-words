@@ -1,7 +1,76 @@
 ---
 layout: word
-title: wedge
+title: Is WEDGE a Wordle Word?
+head_title: 'Is WEDGE a Wordle Word? Yes – Past Answer #391 & Meaning'
 word: wedge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the simple machines; a piece of material, such as metal or wood, thick at one edge and tapered to a thin edge at the other for insertion in a narrow crevice, used for splitting, tightening, securing, or levering.<p><strong>Example:</strong> Stick a wedge under the door, will you? It keeps blowing shut.</p></li><li><strong>Definition 2:</strong> A piece (of food, metal, wood etc.) having this shape.<p><strong>Example:</strong> Can you cut me a wedge of cheese?</p></li><li><strong>Definition 3:</strong> A five-sided polyhedron with a rectangular base, two rectangular or trapezoidal sides meeting in an edge, and two triangular ends.</li><li><strong>Definition 4:</strong> Something that creates a division, gap or distance between things.</li><li><strong>Definition 5:</strong> A flank of cavalry acting to split some portion of an opposing army, charging in an inverted V formation.</li><li><strong>Definition 6:</strong> A type of iron club used for short, high trajectories.</li><li><strong>Definition 7:</strong> A group of geese, swans or other birds when they are in flight in a V formation.</li><li><strong>Definition 8:</strong> One of a pair of wedge-heeled shoes.</li><li><strong>Definition 9:</strong> A quantity of money.<p><strong>Example:</strong> I made a big fat wedge from that job.</p></li><li><strong>Definition 10:</strong> A sandwich made on a long, cylindrical roll.<p><strong>Example:</strong> I ordered a chicken parm wedge from the deli.</p></li><li><strong>Definition 11:</strong> Háček</li><li><strong>Definition 12:</strong> The IPA character ʌ, which denotes an open-mid back unrounded vowel.</li><li><strong>Definition 13:</strong> The symbol ∧, denoting a meet (infimum) operation or logical conjunction.</li><li><strong>Definition 14:</strong> A wedge tornado.</li><li><strong>Definition 15:</strong> A market trend characterized by a contracting range in prices coupled with an upward trend in prices (a rising wedge) or a downward trend in prices (a falling wedge).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To support or secure using a wedge.<p><strong>Example:</strong> I wedged open the window with a screwdriver.</p></li><li><strong>Definition 2:</strong> To force into a narrow gap.<p><strong>Example:</strong> He had wedged the package between the wall and the back of the sofa.</p></li><li><strong>Definition 3:</strong> To work wet clay by cutting or kneading for the purpose of homogenizing the mass and expelling air bubbles.</li><li><strong>Definition 4:</strong> Of a computer program or system: to get stuck in an unresponsive state.<p><strong>Example:</strong> My Linux kernel wedged after I installed the latest update.</p></li><li><strong>Definition 5:</strong> To cleave with a wedge.</li><li><strong>Definition 6:</strong> To force or drive with a wedge.</li><li><strong>Definition 7:</strong> To shape into a wedge.</li></ul></div></div>"
+description: Yes, WEDGE is a valid Wordle word. It was the Wordle answer on July 15,
+  2022 (#391). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 15, 2022 (#391).
+past_answers:
+- date: '2022-07-15'
+  number: 391
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- hedge
+- ledge
+- kedge
+- sedge
+- wadge
+- wedgy
+- wenge
+- wodge
+definitions:
+- pos: noun
+  defs:
+  - text: One of the simple machines; a piece of material, such as metal or wood,
+      thick at one edge and tapered to a thin edge at the other for insertion in a
+      narrow crevice, used for splitting, tightening, securing, or levering.
+    example: Stick a wedge under the door, will you? It keeps blowing shut.
+  - text: A piece (of food, metal, wood etc.) having this shape.
+    example: Can you cut me a wedge of cheese?
+  - text: A five-sided polyhedron with a rectangular base, two rectangular or trapezoidal
+      sides meeting in an edge, and two triangular ends.
+  - text: Something that creates a division, gap or distance between things.
+  - text: A flank of cavalry acting to split some portion of an opposing army, charging
+      in an inverted V formation.
+  - text: A type of iron club used for short, high trajectories.
+  - text: A group of geese, swans or other birds when they are in flight in a V formation.
+  - text: One of a pair of wedge-heeled shoes.
+  - text: A quantity of money.
+    example: I made a big fat wedge from that job.
+  - text: A sandwich made on a long, cylindrical roll.
+    example: I ordered a chicken parm wedge from the deli.
+  - text: Háček
+  - text: The IPA character ʌ, which denotes an open-mid back unrounded vowel.
+  - text: The symbol ∧, denoting a meet (infimum) operation or logical conjunction.
+  - text: A wedge tornado.
+  - text: A market trend characterized by a contracting range in prices coupled with
+      an upward trend in prices (a rising wedge) or a downward trend in prices (a
+      falling wedge).
+- pos: verb
+  defs:
+  - text: To support or secure using a wedge.
+    example: I wedged open the window with a screwdriver.
+  - text: To force into a narrow gap.
+    example: He had wedged the package between the wall and the back of the sofa.
+  - text: To work wet clay by cutting or kneading for the purpose of homogenizing
+      the mass and expelling air bubbles.
+  - text: 'Of a computer program or system: to get stuck in an unresponsive state.'
+    example: My Linux kernel wedged after I installed the latest update.
+  - text: To cleave with a wedge.
+  - text: To force or drive with a wedge.
+  - text: To shape into a wedge.
 ---
-

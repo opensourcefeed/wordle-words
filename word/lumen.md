@@ -1,7 +1,38 @@
 ---
 layout: word
-title: lumen
+title: Is LUMEN a Wordle Word?
+head_title: Is LUMEN a Wordle Word? Yes – Possible Answer & Meaning
 word: lumen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈluːmən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> In the International System of Units, the derived unit of luminous flux; the light that is emitted in a solid angle of one steradian from a source of one candela. Symbol: lm.</li><li><strong>Definition 2:</strong> The cavity or channel within a tube or tubular organ.</li><li><strong>Definition 3:</strong> The cavity bounded by a plant cell wall.</li><li><strong>Definition 4:</strong> The bore of a tube such as a hollow needle or catheter.</li></ul></div></div>"
+description: Yes, LUMEN is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- limen
+- numen
+- rumen
+phonetic: "/ˈluːmən/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'In the International System of Units, the derived unit of luminous flux;
+      the light that is emitted in a solid angle of one steradian from a source of
+      one candela. Symbol: lm.'
+  - text: The cavity or channel within a tube or tubular organ.
+  - text: The cavity bounded by a plant cell wall.
+  - text: The bore of a tube such as a hollow needle or catheter.
 ---
-

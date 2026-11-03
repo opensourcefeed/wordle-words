@@ -1,7 +1,38 @@
 ---
 layout: word
-title: truly
+title: Is TRULY a Wordle Word?
+head_title: 'Is TRULY a Wordle Word? Yes – Past Answer #1236 & Meaning'
 word: truly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtɹuːli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> (manner) In accordance with the facts; truthfully, accurately.</li><li><strong>Definition 2:</strong> (modal) Honestly, genuinely, in fact, really.<p><strong>Example:</strong> That is truly all I know.</p></li><li><strong>Definition 3:</strong> (degree) Very.<p><strong>Example:</strong> You are truly silly.</p></li></ul></div></div>"
+description: Yes, TRULY is a valid Wordle word. It was the Wordle answer on November
+  6, 2024 (#1236). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 6, 2024 (#1236).
+past_answers:
+- date: '2024-11-06'
+  number: 1236
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- trull
+phonetic: "/ˈtɹuːli/"
+definitions:
+- pos: adverb
+  defs:
+  - text: "(manner) In accordance with the facts; truthfully, accurately."
+  - text: "(modal) Honestly, genuinely, in fact, really."
+    example: That is truly all I know.
+  - text: "(degree) Very."
+    example: You are truly silly.
 ---
-

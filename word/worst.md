@@ -1,7 +1,110 @@
 ---
 layout: word
-title: worst
+title: Is WORST a Wordle Word?
+head_title: 'Is WORST a Wordle Word? Yes – Past Answer #898 & Meaning'
 word: worst
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɜːst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Unfavorable; negative; not good.<p><strong>Example:</strong> Abducting children is bad for mothers.</p></li><li><strong>Definition 2:</strong> Not suitable or fitting.<p><strong>Example:</strong> Do you think it is a bad idea to confront him directly?</p></li><li><strong>Definition 3:</strong> Not appropriate, of manners etc.<p><strong>Example:</strong> It is bad manners to talk with your mouth full.</p></li><li><strong>Definition 4:</strong> Unhealthy; liable to cause health problems.<p><strong>Example:</strong> Lard is bad for you. Smoking is bad for you, too. Grapes are bad for dogs but not for humans.</p></li><li><strong>Definition 5:</strong> Sickly, unhealthy, unwell.<p><strong>Example:</strong> I went to the hospital to see how my grandfather was doing. Unfortunately, he's in a bad state.</p></li><li><strong>Definition 6:</strong> Not behaving; behaving badly; misbehaving; mischievous or disobedient.<p><strong>Example:</strong> Stop being bad, or you will get a spanking!</p></li><li><strong>Definition 7:</strong> Tricky; stressful; unpleasant.<p><strong>Example:</strong> Divorce is usually a bad experience for everybody involved.</p></li><li><strong>Definition 8:</strong> Evil; wicked.<p><strong>Example:</strong> Be careful. There are bad people in the world.</p></li><li><strong>Definition 9:</strong> Faulty; not functional.<p><strong>Example:</strong> I had a bad headlight.</p></li><li><strong>Definition 10:</strong> (of food) Spoiled, rotten, overripe.<p><strong>Example:</strong> These apples have gone bad.</p></li><li><strong>Definition 11:</strong> (of breath) Malodorous; foul.<p><strong>Example:</strong> Bad breath is not pleasant for anyone.</p></li><li><strong>Definition 12:</strong> False; counterfeit; illegitimate.<p><strong>Example:</strong> They were caught trying to pass bad coinage.</p></li><li><strong>Definition 13:</strong> Unskilled; of limited ability; not good.<p><strong>Example:</strong> He's a bad gardener; everything he tries to grow ends up dying.</p></li><li><strong>Definition 14:</strong> Of poor physical appearance.<p><strong>Example:</strong> I don't look bad in this dress, do I?</p></li><li><strong>Definition 15:</strong> Bold and daring.</li><li><strong>Definition 16:</strong> Good, superlative, excellent, cool.<p><strong>Example:</strong> Man, that new car you bought is bad!</p></li><li><strong>Definition 17:</strong> (of a need, want, or pain) Severe, urgent.<p><strong>Example:</strong> He is in bad need of a haircut.</p></li><li><strong>Definition 18:</strong> Overly promiscuous, licentious.</li><li><strong>Definition 19:</strong> (of a draft/check) Not covered by funds on account.<p><strong>Example:</strong> He gave me a bad check.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Evil; wicked (of people).</li><li><strong>Definition 2:</strong> Morally reprehensible (of behaviour etc.); blameworthy.</li><li><strong>Definition 3:</strong> Indicative of unkind or malevolent intentions; harsh, cruel.<p><strong>Example:</strong> He suffered from ill treatment.</p></li><li><strong>Definition 4:</strong> Unpropitious, unkind, faulty, not up to reasonable standard.<p><strong>Example:</strong> ill manners; ill will</p></li><li><strong>Definition 5:</strong> Unwell in terms of health or physical condition; sick.<p><strong>Example:</strong> I've been ill with the flu for the past few days.</p></li><li><strong>Definition 6:</strong> Having an urge to vomit.<p><strong>Example:</strong> Seeing those pictures made me ill.</p></li><li><strong>Definition 7:</strong> (hip-hop slang) Sublime, with the connotation of being so in a singularly creative way.</li><li><strong>Definition 8:</strong> Extremely bad (bad enough to make one ill). Generally used indirectly with to be.<p><strong>Example:</strong> That band was ill.</p></li><li><strong>Definition 9:</strong> Unwise; not a good idea.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something or someone that is the worst</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make worse.</li><li><strong>Definition 2:</strong> To grow worse; to deteriorate.</li><li><strong>Definition 3:</strong> To outdo or defeat, especially in battle.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Superlative of bad<p><strong>Example:</strong> My sore leg hurts worst when it's cold and rainy.</p></li><li><strong>Definition 2:</strong> Superlative of ill</li></ul></div></div>"
+description: Yes, WORST is a valid Wordle word. It was the Wordle answer on December
+  4, 2023 (#898). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 4, 2023 (#898).
+past_answers:
+- date: '2023-12-04'
+  number: 898
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- worse
+- horst
+- warst
+- wurst
+anagrams:
+- rowts
+- strow
+- trows
+- worts
+phonetic: "/wɜːst/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Unfavorable; negative; not good.
+    example: Abducting children is bad for mothers.
+  - text: Not suitable or fitting.
+    example: Do you think it is a bad idea to confront him directly?
+  - text: Not appropriate, of manners etc.
+    example: It is bad manners to talk with your mouth full.
+  - text: Unhealthy; liable to cause health problems.
+    example: Lard is bad for you. Smoking is bad for you, too. Grapes are bad for
+      dogs but not for humans.
+  - text: Sickly, unhealthy, unwell.
+    example: I went to the hospital to see how my grandfather was doing. Unfortunately,
+      he's in a bad state.
+  - text: Not behaving; behaving badly; misbehaving; mischievous or disobedient.
+    example: Stop being bad, or you will get a spanking!
+  - text: Tricky; stressful; unpleasant.
+    example: Divorce is usually a bad experience for everybody involved.
+  - text: Evil; wicked.
+    example: Be careful. There are bad people in the world.
+  - text: Faulty; not functional.
+    example: I had a bad headlight.
+  - text: "(of food) Spoiled, rotten, overripe."
+    example: These apples have gone bad.
+  - text: "(of breath) Malodorous; foul."
+    example: Bad breath is not pleasant for anyone.
+  - text: False; counterfeit; illegitimate.
+    example: They were caught trying to pass bad coinage.
+  - text: Unskilled; of limited ability; not good.
+    example: He's a bad gardener; everything he tries to grow ends up dying.
+  - text: Of poor physical appearance.
+    example: I don't look bad in this dress, do I?
+  - text: Bold and daring.
+  - text: Good, superlative, excellent, cool.
+    example: Man, that new car you bought is bad!
+  - text: "(of a need, want, or pain) Severe, urgent."
+    example: He is in bad need of a haircut.
+  - text: Overly promiscuous, licentious.
+  - text: "(of a draft/check) Not covered by funds on account."
+    example: He gave me a bad check.
+- pos: adjective
+  defs:
+  - text: Evil; wicked (of people).
+  - text: Morally reprehensible (of behaviour etc.); blameworthy.
+  - text: Indicative of unkind or malevolent intentions; harsh, cruel.
+    example: He suffered from ill treatment.
+  - text: Unpropitious, unkind, faulty, not up to reasonable standard.
+    example: ill manners; ill will
+  - text: Unwell in terms of health or physical condition; sick.
+    example: I've been ill with the flu for the past few days.
+  - text: Having an urge to vomit.
+    example: Seeing those pictures made me ill.
+  - text: "(hip-hop slang) Sublime, with the connotation of being so in a singularly
+      creative way."
+  - text: Extremely bad (bad enough to make one ill). Generally used indirectly with
+      to be.
+    example: That band was ill.
+  - text: Unwise; not a good idea.
+- pos: noun
+  defs:
+  - text: Something or someone that is the worst
+- pos: verb
+  defs:
+  - text: To make worse.
+  - text: To grow worse; to deteriorate.
+  - text: To outdo or defeat, especially in battle.
+- pos: adverb
+  defs:
+  - text: Superlative of bad
+    example: My sore leg hurts worst when it's cold and rainy.
+  - text: Superlative of ill
 ---
-

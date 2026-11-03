@@ -1,7 +1,53 @@
 ---
 layout: word
-title: adult
+title: Is ADULT a Wordle Word?
+head_title: 'Is ADULT a Wordle Word? Yes – Past Answer #850 & Meaning'
 word: adult
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈdʌlt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fully grown human or animal.</li><li><strong>Definition 2:</strong> A person who has reached the legal age of majority.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To (cause to) be or become an adult.</li><li><strong>Definition 2:</strong> To behave like an adult.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Fully grown.<p><strong>Example:</strong> an adult human, animal, or plant</p></li><li><strong>Definition 2:</strong> Intended for or restricted to adults rather than children.<p><strong>Example:</strong> adult clothes</p></li><li><strong>Definition 3:</strong> Containing material of an explicit sexual nature; of, or pertaining to, pornography.<p><strong>Example:</strong> This program contains adult content. Parental discretion is advised.</p></li><li><strong>Definition 4:</strong> Vulgar or profane.</li></ul></div></div>"
+description: Yes, ADULT is a valid Wordle word. It was the Wordle answer on October
+  17, 2023 (#850). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 17, 2023 (#850).
+past_answers:
+- date: '2023-10-17'
+  number: 850
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- adust
+anagrams:
+- dault
+- tauld
+phonetic: "/əˈdʌlt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fully grown human or animal.
+  - text: A person who has reached the legal age of majority.
+- pos: verb
+  defs:
+  - text: To (cause to) be or become an adult.
+  - text: To behave like an adult.
+- pos: adjective
+  defs:
+  - text: Fully grown.
+    example: an adult human, animal, or plant
+  - text: Intended for or restricted to adults rather than children.
+    example: adult clothes
+  - text: Containing material of an explicit sexual nature; of, or pertaining to,
+      pornography.
+    example: This program contains adult content. Parental discretion is advised.
+  - text: Vulgar or profane.
 ---
-

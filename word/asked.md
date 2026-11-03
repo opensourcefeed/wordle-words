@@ -1,7 +1,56 @@
 ---
 layout: word
-title: asked
+title: Is ASKED a Wordle Word?
+head_title: Is ASKED a Wordle Word? Yes – Valid Guess & Meaning
 word: asked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɑːskt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To request (information, or an answer to a question).<p><strong>Example:</strong> I asked her age.</p></li><li><strong>Definition 2:</strong> To put forward (a question) to be answered.<p><strong>Example:</strong> to ask a question</p></li><li><strong>Definition 3:</strong> To interrogate or enquire of (a person).<p><strong>Example:</strong> I'm going to ask this lady for directions.</p></li><li><strong>Definition 4:</strong> To request or petition; usually with for.<p><strong>Example:</strong> to ask for a second helping at dinner</p></li><li><strong>Definition 5:</strong> To request permission to do something.<p><strong>Example:</strong> Did you ask to use the car?</p></li><li><strong>Definition 6:</strong> To require, demand, claim, or expect, whether by way of remuneration or return, or as a matter of necessity.<p><strong>Example:</strong> What price are you asking for the house?</p></li><li><strong>Definition 7:</strong> To invite.<p><strong>Example:</strong> Don't ask them to the wedding.</p></li><li><strong>Definition 8:</strong> To publish in church for marriage; said of both the banns and the persons.</li><li><strong>Definition 9:</strong> To take (a person's situation) as an example.</li></ul></div></div>"
+description: Yes, ASKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- askew
+- arked
+- ashed
+- asker
+- assed
+- tsked
+anagrams:
+- aksed
+- kades
+phonetic: "/ˈɑːskt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To request (information, or an answer to a question).
+    example: I asked her age.
+  - text: To put forward (a question) to be answered.
+    example: to ask a question
+  - text: To interrogate or enquire of (a person).
+    example: I'm going to ask this lady for directions.
+  - text: To request or petition; usually with for.
+    example: to ask for a second helping at dinner
+  - text: To request permission to do something.
+    example: Did you ask to use the car?
+  - text: To require, demand, claim, or expect, whether by way of remuneration or
+      return, or as a matter of necessity.
+    example: What price are you asking for the house?
+  - text: To invite.
+    example: Don't ask them to the wedding.
+  - text: To publish in church for marriage; said of both the banns and the persons.
+  - text: To take (a person's situation) as an example.
 ---
-

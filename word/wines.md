@@ -1,7 +1,61 @@
 ---
 layout: word
-title: wines
+title: Is WINES a Wordle Word?
+head_title: Is WINES a Wordle Word? Yes – Valid Guess & Meaning
 word: wines
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /waɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An alcoholic beverage made by fermenting the juice of grapes.<p><strong>Example:</strong> She ordered some wine for the meal.</p></li><li><strong>Definition 2:</strong> An alcoholic beverage made by fermenting the juice of fruits or vegetables other than grapes, usually preceded by the type of the fruit or vegetable; for example, \"dandelion wine\".</li><li><strong>Definition 3:</strong> A serving of wine.<p><strong>Example:</strong> I'd like three beers and two wines, please.</p></li><li><strong>Definition 4:</strong> A dark purplish red colour; the colour of red wine.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To entertain with wine.</li><li><strong>Definition 2:</strong> To drink wine.</li></ul></div></div>"
+description: Yes, WINES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- bines
+- cines
+- dines
+- fines
+- kines
+- lines
+- mines
+- nines
+- pines
+- rines
+- sines
+- tines
+anagrams:
+- sinew
+- swine
+- sewin
+trap:
+  pattern: _INES
+  count: 15
+phonetic: "/waɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An alcoholic beverage made by fermenting the juice of grapes.
+    example: She ordered some wine for the meal.
+  - text: An alcoholic beverage made by fermenting the juice of fruits or vegetables
+      other than grapes, usually preceded by the type of the fruit or vegetable; for
+      example, "dandelion wine".
+  - text: A serving of wine.
+    example: I'd like three beers and two wines, please.
+  - text: A dark purplish red colour; the colour of red wine.
+- pos: verb
+  defs:
+  - text: To entertain with wine.
+  - text: To drink wine.
 ---
-

@@ -1,7 +1,49 @@
 ---
 layout: word
-title: ducky
+title: Is DUCKY a Wordle Word?
+head_title: Is DUCKY a Wordle Word? Yes – Valid Guess & Meaning
 word: ducky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʌki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A duck (aquatic bird), especially a toy rubber duck</li><li><strong>Definition 2:</strong> An affectionate pet name.<p><strong>Example:</strong> \"Morning, ducky!\" said Roderick, as he gave his partner a quick peck on the cheek and sat down to breakfast.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling or characteristic of a duck.</li><li><strong>Definition 2:</strong> Great; going well; proceeding in an eminently agreeable fashion.<p><strong>Example:</strong> Farnesworth smiled contentedly as he read the stock ticker; all was ducky on Wall Street.</p></li></ul></div></div>"
+description: Yes, DUCKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- duchy
+- dusky
+- lucky
+- mucky
+- dicky
+- ducks
+- dumky
+- gucky
+- sucky
+- yucky
+trap:
+  pattern: _UCKY
+  count: 6
+phonetic: "/ˈdʌki/"
+definitions:
+- pos: noun
+  defs:
+  - text: A duck (aquatic bird), especially a toy rubber duck
+  - text: An affectionate pet name.
+    example: '"Morning, ducky!" said Roderick, as he gave his partner a quick peck
+      on the cheek and sat down to breakfast.'
+- pos: adjective
+  defs:
+  - text: Resembling or characteristic of a duck.
+  - text: Great; going well; proceeding in an eminently agreeable fashion.
+    example: Farnesworth smiled contentedly as he read the stock ticker; all was ducky
+      on Wall Street.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: malts
+title: Is MALTS a Wordle Word?
+head_title: Is MALTS a Wordle Word? Yes – Valid Guess & Meaning
 word: malts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Malted grain (sprouted grain) (usually barley), used in brewing and otherwise.</li><li><strong>Definition 2:</strong> Malt liquor, especially malt whisky.</li><li><strong>Definition 3:</strong> A milkshake with malted milk powder added for flavor.</li><li><strong>Definition 4:</strong> Maltose-rich sugar derived from malted grain.</li></ul></div></div>"
+description: Yes, MALTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- dalts
+- halts
+- mafts
+- malas
+- males
+- malis
+- malls
+- malms
+- malty
+- malus
+- mants
+- marts
+anagrams:
+- smalt
+trap:
+  pattern: MA_TS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Malted grain (sprouted grain) (usually barley), used in brewing and otherwise.
+  - text: Malt liquor, especially malt whisky.
+  - text: A milkshake with malted milk powder added for flavor.
+  - text: Maltose-rich sugar derived from malted grain.
 ---
-

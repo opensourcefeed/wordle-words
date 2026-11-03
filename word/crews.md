@@ -1,7 +1,50 @@
 ---
 layout: word
-title: crews
+title: Is CREWS a Wordle Word?
+head_title: Is CREWS a Wordle Word? Yes – Valid Guess & Meaning
 word: crews
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹuːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pen for livestock such as chickens or pigs</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The Manx shearwater.</li></ul></div></div>"
+description: Yes, CREWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- cress
+- brews
+- chews
+- clews
+- craws
+- creds
+- crees
+- crems
+- creps
+- crewe
+- crows
+- grews
+anagrams:
+- screw
+trap:
+  pattern: CRE_S
+  count: 6
+phonetic: "/kɹuːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pen for livestock such as chickens or pigs
+- pos: noun
+  defs:
+  - text: The Manx shearwater.
 ---
-

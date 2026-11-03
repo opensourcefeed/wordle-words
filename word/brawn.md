@@ -1,7 +1,47 @@
 ---
 layout: word
-title: brawn
+title: Is BRAWN a Wordle Word?
+head_title: 'Is BRAWN a Wordle Word? Yes – Past Answer #1282 & Meaning'
 word: brawn
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹɔːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Strong muscles or lean flesh, especially of the arm, leg or thumb.</li><li><strong>Definition 2:</strong> Physical strength; muscularity.</li><li><strong>Definition 3:</strong> Head cheese; a terrine made from the head of a pig or calf; originally boar's meat.</li><li><strong>Definition 4:</strong> A boar.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Make fat, especially of a boar.</li><li><strong>Definition 2:</strong> Become fat, especially of a boar.</li></ul></div></div>"
+description: Yes, BRAWN is a valid Wordle word. It was the Wordle answer on December
+  22, 2024 (#1282). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 22, 2024 (#1282).
+past_answers:
+- date: '2024-12-22'
+  number: 1282
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- brain
+- brawl
+- brown
+- drawn
+- prawn
+- blawn
+- braws
+phonetic: "/bɹɔːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Strong muscles or lean flesh, especially of the arm, leg or thumb.
+  - text: Physical strength; muscularity.
+  - text: Head cheese; a terrine made from the head of a pig or calf; originally boar's
+      meat.
+  - text: A boar.
+- pos: verb
+  defs:
+  - text: Make fat, especially of a boar.
+  - text: Become fat, especially of a boar.
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: mired
+title: Is MIRED a Wordle Word?
+head_title: Is MIRED a Wordle Word? Yes – Valid Guess & Meaning
 word: mired
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause or permit to become stuck in mud; to plunge or fix in mud.<p><strong>Example:</strong> to mire a horse or wagon</p></li><li><strong>Definition 2:</strong> To sink into mud.</li><li><strong>Definition 3:</strong> To weigh down.</li><li><strong>Definition 4:</strong> To soil with mud or foul matter.</li></ul></div></div>"
+description: Yes, MIRED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- aired
+- fired
+- hired
+- mered
+- miked
+- mimed
+- mined
+- mires
+- mirex
+- mirid
+- mixed
+- mured
+anagrams:
+- dimer
+- rimed
+trap:
+  pattern: _IRED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To cause or permit to become stuck in mud; to plunge or fix in mud.
+    example: to mire a horse or wagon
+  - text: To sink into mud.
+  - text: To weigh down.
+  - text: To soil with mud or foul matter.
 ---
-

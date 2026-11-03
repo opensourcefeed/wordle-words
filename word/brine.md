@@ -1,7 +1,56 @@
 ---
 layout: word
-title: brine
+title: Is BRINE a Wordle Word?
+head_title: 'Is BRINE a Wordle Word? Yes – Past Answer #259 & Meaning'
 word: brine
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹaɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Salt water; water saturated or strongly impregnated with salt; a salt-and-water solution for pickling.<p><strong>Example:</strong> Do you want a can of tuna in oil or in brine?</p></li><li><strong>Definition 2:</strong> The sea or ocean; the water of the sea.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To preserve food in a salt solution.</li><li><strong>Definition 2:</strong> To prepare and flavor food (especially meat) for cooking by soaking in a salt solution.</li></ul></div></div>"
+description: Yes, BRINE is a valid Wordle word. It was the Wordle answer on March
+  5, 2022 (#259). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 5, 2022 (#259).
+past_answers:
+- date: '2022-03-05'
+  number: 259
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- bribe
+- bride
+- bring
+- brink
+- briny
+- urine
+- brane
+- brins
+- brise
+- brize
+- crine
+- trine
+anagrams:
+- biner
+phonetic: "/bɹaɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: Salt water; water saturated or strongly impregnated with salt; a salt-and-water
+      solution for pickling.
+    example: Do you want a can of tuna in oil or in brine?
+  - text: The sea or ocean; the water of the sea.
+- pos: verb
+  defs:
+  - text: To preserve food in a salt solution.
+  - text: To prepare and flavor food (especially meat) for cooking by soaking in a
+      salt solution.
 ---
-

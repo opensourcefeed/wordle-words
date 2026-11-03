@@ -1,7 +1,60 @@
 ---
 layout: word
-title: older
+title: Is OLDER a Wordle Word?
+head_title: 'Is OLDER a Wordle Word? Yes – Past Answer #814 & Meaning'
 word: older
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈəʊldə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of an object, concept, relationship, etc., having existed for a relatively long period of time.<p><strong>Example:</strong> an old abandoned building;  an old friend</p></li><li><strong>Definition 2:</strong> Having been used and thus no longer new or unused.<p><strong>Example:</strong> I find that an old toothbrush is good to clean the keyboard with.</p></li><li><strong>Definition 3:</strong> Having existed or lived for the specified time.<p><strong>Example:</strong> How old are they? She’s five years old and he's seven. We also have a young teen and a two-year-old child.</p></li><li><strong>Definition 4:</strong> (heading) Of an earlier time.</li><li><strong>Definition 5:</strong> Tiresome after prolonged repetition.<p><strong>Example:</strong> Your constant pestering is getting old.</p></li><li><strong>Definition 6:</strong> Said of subdued colors, particularly reds, pinks and oranges, as if they had faded over time.</li><li><strong>Definition 7:</strong> A grammatical intensifier, often used in describing something positive. (Mostly in idioms like good old, big old and little old, any old and some old.)<p><strong>Example:</strong> We're having a good old time. My next car will be a big old SUV.  My wife makes the best little old apple pie in Texas.</p></li><li><strong>Definition 8:</strong> Excessive, abundant.</li></ul></div></div>"
+description: Yes, OLDER is a valid Wordle word. It was the Wordle answer on September
+  11, 2023 (#814). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 11, 2023 (#814).
+past_answers:
+- date: '2023-09-11'
+  number: 814
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- elder
+- odder
+- olden
+- order
+- alder
+- oller
+anagrams:
+- drole
+phonetic: "/ˈəʊldə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of an object, concept, relationship, etc., having existed for a relatively
+      long period of time.
+    example: an old abandoned building;  an old friend
+  - text: Having been used and thus no longer new or unused.
+    example: I find that an old toothbrush is good to clean the keyboard with.
+  - text: Having existed or lived for the specified time.
+    example: How old are they? She’s five years old and he's seven. We also have a
+      young teen and a two-year-old child.
+  - text: "(heading) Of an earlier time."
+  - text: Tiresome after prolonged repetition.
+    example: Your constant pestering is getting old.
+  - text: Said of subdued colors, particularly reds, pinks and oranges, as if they
+      had faded over time.
+  - text: A grammatical intensifier, often used in describing something positive.
+      (Mostly in idioms like good old, big old and little old, any old and some old.)
+    example: We're having a good old time. My next car will be a big old SUV.  My
+      wife makes the best little old apple pie in Texas.
+  - text: Excessive, abundant.
 ---
-

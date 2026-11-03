@@ -1,7 +1,37 @@
 ---
 layout: word
-title: deffo
+title: Is DEFFO a Wordle Word?
+head_title: Is DEFFO a Wordle Word? Yes – Valid Guess & Meaning
 word: deffo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (usually with \"for\") Definite.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Definitely.<p><strong>Example:</strong> He told me that he's deffo going to be there tonight.</p></li></ul></div></div>"
+description: Yes, DEFFO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- reffo
+anagrams:
+- offed
+definitions:
+- pos: adjective
+  defs:
+  - text: (usually with "for") Definite.
+- pos: adverb
+  defs:
+  - text: Definitely.
+    example: He told me that he's deffo going to be there tonight.
 ---
-

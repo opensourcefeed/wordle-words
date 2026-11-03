@@ -1,7 +1,42 @@
 ---
 layout: word
-title: rummy
+title: Is RUMMY a Wordle Word?
+head_title: Is RUMMY a Wordle Word? Yes – Valid Guess & Meaning
 word: rummy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹʌmɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A card game with many rule variants, conceptually similar to mahjong.</li></ul></div></div>"
+description: Yes, RUMMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - M
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- dummy
+- gummy
+- mummy
+- lummy
+- nummy
+- rammy
+- rumly
+- rumpy
+- tummy
+- yummy
+trap:
+  pattern: _UMMY
+  count: 8
+phonetic: "/ˈɹʌmɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A card game with many rule variants, conceptually similar to mahjong.
 ---
-

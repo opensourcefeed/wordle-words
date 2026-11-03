@@ -1,7 +1,85 @@
 ---
 layout: word
-title: wraps
+title: Is WRAPS a Wordle Word?
+head_title: Is WRAPS a Wordle Word? Yes – Valid Guess & Meaning
 word: wraps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sharp blow with something hard.<p><strong>Example:</strong> The teacher gave the wayward pupil a rap across the knuckles with her ruler.</p></li><li><strong>Definition 2:</strong> Blame for something.<p><strong>Example:</strong> You can't act irresponsibly and then expect me to take the rap.</p></li><li><strong>Definition 3:</strong> A charge, whether or not it results in a conviction.</li><li><strong>Definition 4:</strong> A casual talk.</li><li><strong>Definition 5:</strong> Rap music.</li><li><strong>Definition 6:</strong> A song, verse, or instance of singing in the style of rap music.</li><li><strong>Definition 7:</strong> An appraisal.<p><strong>Example:</strong> a good/great/bad rap</p></li><li><strong>Definition 8:</strong> A positive appraisal; a recommendation.<p><strong>Example:</strong> He gave the novel quite a rap.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A lay or skein containing 120 yards of yarn.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the tokens that passed current for a halfpenny in Ireland in the early part of the eighteenth century; any coin of trifling value.</li><li><strong>Definition 2:</strong> A whit; a jot.<p><strong>Example:</strong> I don't care a rap.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To enclose (an object) completely in any flexible, thin material such as fabric or paper.</li><li><strong>Definition 2:</strong> To enclose or coil around an object or organism, as a form of grasping.<p><strong>Example:</strong> A snake wraps itself around its prey.</p></li><li><strong>Definition 3:</strong> To conceal by enveloping or enfolding; to hide.</li><li><strong>Definition 4:</strong> (video production) To finish shooting (filming) a video, television show, or movie.</li><li><strong>Definition 5:</strong> (lines, words, text, etc.) To break a continuous line (of text) onto the next line<p><strong>Example:</strong> I wrapped the text so that I wouldn't need to scroll to the right to read it.</p></li><li><strong>Definition 6:</strong> To make functionality available through a software wrapper.</li><li><strong>Definition 7:</strong> To (cause to) reset to an original value after passing a maximum.<p><strong>Example:</strong> The row counter wraps back to zero when no more rows can be inserted.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A garment that one wraps around the body to keep oneself warm.</li><li><strong>Definition 2:</strong> A type of food consisting of various ingredients wrapped in a tortilla or pancake.</li><li><strong>Definition 3:</strong> (entertainment) The completion of all or a major part of a performance.</li><li><strong>Definition 4:</strong> A wraparound mortgage.</li></ul></div></div>"
+description: Yes, WRAPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- craps
+- draps
+- fraps
+- praps
+- traps
+- whaps
+- wrapt
+anagrams:
+- warps
+trap:
+  pattern: _RAPS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A sharp blow with something hard.
+    example: The teacher gave the wayward pupil a rap across the knuckles with her
+      ruler.
+  - text: Blame for something.
+    example: You can't act irresponsibly and then expect me to take the rap.
+  - text: A charge, whether or not it results in a conviction.
+  - text: A casual talk.
+  - text: Rap music.
+  - text: A song, verse, or instance of singing in the style of rap music.
+  - text: An appraisal.
+    example: a good/great/bad rap
+  - text: A positive appraisal; a recommendation.
+    example: He gave the novel quite a rap.
+- pos: noun
+  defs:
+  - text: A lay or skein containing 120 yards of yarn.
+- pos: noun
+  defs:
+  - text: Any of the tokens that passed current for a halfpenny in Ireland in the
+      early part of the eighteenth century; any coin of trifling value.
+  - text: A whit; a jot.
+    example: I don't care a rap.
+- pos: verb
+  defs:
+  - text: To enclose (an object) completely in any flexible, thin material such as
+      fabric or paper.
+  - text: To enclose or coil around an object or organism, as a form of grasping.
+    example: A snake wraps itself around its prey.
+  - text: To conceal by enveloping or enfolding; to hide.
+  - text: "(video production) To finish shooting (filming) a video, television show,
+      or movie."
+  - text: "(lines, words, text, etc.) To break a continuous line (of text) onto the
+      next line"
+    example: I wrapped the text so that I wouldn't need to scroll to the right to
+      read it.
+  - text: To make functionality available through a software wrapper.
+  - text: To (cause to) reset to an original value after passing a maximum.
+    example: The row counter wraps back to zero when no more rows can be inserted.
+- pos: noun
+  defs:
+  - text: A garment that one wraps around the body to keep oneself warm.
+  - text: A type of food consisting of various ingredients wrapped in a tortilla or
+      pancake.
+  - text: "(entertainment) The completion of all or a major part of a performance."
+  - text: A wraparound mortgage.
 ---
-

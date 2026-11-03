@@ -1,7 +1,54 @@
 ---
 layout: word
-title: japes
+title: Is JAPES a Wordle Word?
+head_title: Is JAPES a Wordle Word? Yes – Valid Guess & Meaning
 word: japes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A joke or quip.</li><li><strong>Definition 2:</strong> A prank or trick.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To jest; play tricks.</li><li><strong>Definition 2:</strong> To mock; deride.</li><li><strong>Definition 3:</strong> To have sexual intercourse with.</li></ul></div></div>"
+description: Yes, JAPES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare:
+  - J
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- capes
+- gapes
+- jades
+- jakes
+- james
+- janes
+- japed
+- japer
+- jupes
+- mapes
+- napes
+- papes
+anagrams:
+- jaspe
+trap:
+  pattern: _APES
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A joke or quip.
+  - text: A prank or trick.
+- pos: verb
+  defs:
+  - text: To jest; play tricks.
+  - text: To mock; deride.
+  - text: To have sexual intercourse with.
 ---
-

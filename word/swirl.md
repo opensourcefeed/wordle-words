@@ -1,7 +1,46 @@
 ---
 layout: word
-title: swirl
+title: Is SWIRL a Wordle Word?
+head_title: 'Is SWIRL a Wordle Word? Yes – Past Answer #72 & Meaning'
 word: swirl
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swɜːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A whirling eddy.</li><li><strong>Definition 2:</strong> A twist or coil of something.</li><li><strong>Definition 3:</strong> The upward rushing of a fish through the water to take the bait.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To twist or whirl, as an eddy.<p><strong>Example:</strong> I swirled my brush around in the paint.</p></li><li><strong>Definition 2:</strong> To be arranged in a twist, spiral or whorl.</li><li><strong>Definition 3:</strong> To circulate.</li></ul></div></div>"
+description: Yes, SWIRL is a valid Wordle word. It was the Wordle answer on August
+  30, 2021 (#72). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 30, 2021 (#72).
+past_answers:
+- date: '2021-08-30'
+  number: 72
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- swill
+- twirl
+- kwirl
+- skirl
+- swire
+phonetic: "/swɜːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A whirling eddy.
+  - text: A twist or coil of something.
+  - text: The upward rushing of a fish through the water to take the bait.
+- pos: verb
+  defs:
+  - text: To twist or whirl, as an eddy.
+    example: I swirled my brush around in the paint.
+  - text: To be arranged in a twist, spiral or whorl.
+  - text: To circulate.
 ---
-

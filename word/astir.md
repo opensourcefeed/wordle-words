@@ -1,7 +1,43 @@
 ---
 layout: word
-title: astir
+title: Is ASTIR a Wordle Word?
+head_title: Is ASTIR a Wordle Word? Yes – Valid Guess & Meaning
 word: astir
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈstɜː(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> In motion; characterized by motion.</li><li><strong>Definition 2:</strong> Out of bed; up and about.</li></ul></div></div>"
+description: Yes, ASTIR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - I
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- aster
+anagrams:
+- stair
+- airts
+- artis
+- raits
+- sitar
+- stria
+- tarsi
+- tiars
+phonetic: "/əˈstɜː(ɹ)/"
+definitions:
+- pos: adjective
+  defs:
+  - text: In motion; characterized by motion.
+  - text: Out of bed; up and about.
 ---
-

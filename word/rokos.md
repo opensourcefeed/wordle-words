@@ -1,7 +1,39 @@
 ---
 layout: word
-title: rokos
+title: Is ROKOS a Wordle Word?
+head_title: Is ROKOS a Wordle Word? Yes – Valid Guess & Meaning
 word: rokos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of protest in which transport is disrupted.</li></ul></div></div>"
+description: Yes, ROKOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- bokos
+- mokos
+- rokes
+- rotos
+- tokos
+anagrams:
+- koros
+- rooks
+- skroo
+definitions:
+- pos: noun
+  defs:
+  - text: A type of protest in which transport is disrupted.
 ---
-

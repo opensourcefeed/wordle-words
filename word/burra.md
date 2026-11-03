@@ -1,7 +1,43 @@
 ---
 layout: word
-title: burra
+title: Is BURRA a Wordle Word?
+head_title: Is BURRA a Wordle Word? Yes – Valid Guess & Meaning
 word: burra
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbʌɹə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Big or important — used as a title of respect<p><strong>Example:</strong> a burra sahib</p></li></ul></div></div>"
+description: Yes, BURRA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- barra
+- burka
+- burqa
+- burro
+- burrs
+- burry
+- bursa
+- durra
+- hurra
+- murra
+- surra
+phonetic: "/ˈbʌɹə/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Big or important — used as a title of respect
+    example: a burra sahib
 ---
-

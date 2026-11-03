@@ -1,7 +1,39 @@
 ---
 layout: word
-title: biome
+title: Is BIOME a Wordle Word?
+head_title: 'Is BIOME a Wordle Word? Yes – Past Answer #82 & Meaning'
 word: biome
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any major regional biological community such as that of forest or desert</li><li><strong>Definition 2:</strong> All the genomes of such a community</li></ul></div></div>"
+description: Yes, BIOME is a valid Wordle word. It was the Wordle answer on September
+  9, 2021 (#82). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 9, 2021 (#82).
+past_answers:
+- date: '2021-09-09'
+  number: 82
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- biose
+- brome
+anagrams:
+- mobie
+definitions:
+- pos: noun
+  defs:
+  - text: Any major regional biological community such as that of forest or desert
+  - text: All the genomes of such a community
 ---
-

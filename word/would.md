@@ -1,7 +1,41 @@
 ---
 layout: word
-title: would
+title: Is WOULD a Wordle Word?
+head_title: 'Is WOULD a Wordle Word? Yes – Past Answer #908 & Meaning'
 word: would
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something that would happen, or would be the case, under different circumstances; a potentiality.</li></ul></div></div>"
+description: Yes, WOULD is a valid Wordle word. It was the Wordle answer on December
+  14, 2023 (#908). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 14, 2023 (#908).
+past_answers:
+- date: '2023-12-14'
+  number: 908
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- could
+- world
+- wound
+- mould
+- nould
+- woald
+- woold
+phonetic: "/wʊd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Something that would happen, or would be the case, under different circumstances;
+      a potentiality.
 ---
-

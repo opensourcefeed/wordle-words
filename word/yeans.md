@@ -1,7 +1,47 @@
 ---
 layout: word
-title: yeans
+title: Is YEANS a Wordle Word?
+head_title: Is YEANS a Wordle Word? Yes – Valid Guess & Meaning
 word: yeans
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of goats or sheep) To give birth to.</li></ul></div></div>"
+description: Yes, YEANS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- beans
+- deans
+- geans
+- jeans
+- leans
+- means
+- peans
+- reans
+- seans
+- weans
+- yeads
+- yeahs
+anagrams:
+- sayne
+trap:
+  pattern: _EANS
+  count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: "(of goats or sheep) To give birth to."
 ---
-

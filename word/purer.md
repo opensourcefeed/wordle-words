@@ -1,7 +1,54 @@
 ---
 layout: word
-title: purer
+title: Is PURER a Wordle Word?
+head_title: Is PURER a Wordle Word? Yes – Possible Answer & Meaning
 word: purer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpjʊəɹə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Free of flaws or imperfections; unsullied.</li><li><strong>Definition 2:</strong> Free of foreign material or pollutants.</li><li><strong>Definition 3:</strong> Free of immoral behavior or qualities; clean.</li><li><strong>Definition 4:</strong> Mere; that and that only.<p><strong>Example:</strong> That idea is pure madness!</p></li><li><strong>Definition 5:</strong> (of a branch of science) Done for its own sake instead of serving another branch of science.</li><li><strong>Definition 6:</strong> Of a single, simple sound or tone; said of some vowels and the unaspirated consonants.</li><li><strong>Definition 7:</strong> (of sound) Without harmonics or overtones; not harsh or discordant.</li></ul></div></div>"
+description: Yes, PURER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- parer
+- puree
+- surer
+- curer
+- lurer
+- porer
+- pucer
+- puker
+- puler
+- pured
+- pures
+- puter
+anagrams:
+- purre
+phonetic: "/ˈpjʊəɹə(ɹ)/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Free of flaws or imperfections; unsullied.
+  - text: Free of foreign material or pollutants.
+  - text: Free of immoral behavior or qualities; clean.
+  - text: Mere; that and that only.
+    example: That idea is pure madness!
+  - text: "(of a branch of science) Done for its own sake instead of serving another
+      branch of science."
+  - text: Of a single, simple sound or tone; said of some vowels and the unaspirated
+      consonants.
+  - text: "(of sound) Without harmonics or overtones; not harsh or discordant."
 ---
-

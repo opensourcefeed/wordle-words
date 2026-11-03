@@ -1,7 +1,57 @@
 ---
 layout: word
-title: yawns
+title: Is YAWNS a Wordle Word?
+head_title: Is YAWNS a Wordle Word? Yes – Valid Guess & Meaning
 word: yawns
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The action of yawning; opening the mouth widely and taking a long, rather deep breath, often because one is tired or bored.</li><li><strong>Definition 2:</strong> A particularly boring event.<p><strong>Example:</strong> The slideshow we sat through was such a yawn. I was glad when it finished.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To open the mouth widely and take a long, rather deep breath, often because one is tired or bored, and sometimes accompanied by pandiculation.<p><strong>Example:</strong> I could see my students yawning, so I knew the lesson was boring them.</p></li><li><strong>Definition 2:</strong> To say while yawning.</li><li><strong>Definition 3:</strong> To present a wide opening.<p><strong>Example:</strong> Death yawned before us, and I hit the brakes.</p></li><li><strong>Definition 4:</strong> To open the mouth, or to gape, through surprise or bewilderment.</li><li><strong>Definition 5:</strong> To be eager; to desire to swallow anything; to express desire by yawning.<p><strong>Example:</strong> to yawn for fat livings</p></li></ul></div></div>"
+description: Yes, YAWNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- bawns
+- dawns
+- fawns
+- jawns
+- lawns
+- mawns
+- pawns
+- rawns
+- yarns
+- yawls
+- yawny
+- yawps
+trap:
+  pattern: _AWNS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: The action of yawning; opening the mouth widely and taking a long, rather
+      deep breath, often because one is tired or bored.
+  - text: A particularly boring event.
+    example: The slideshow we sat through was such a yawn. I was glad when it finished.
+- pos: verb
+  defs:
+  - text: To open the mouth widely and take a long, rather deep breath, often because
+      one is tired or bored, and sometimes accompanied by pandiculation.
+    example: I could see my students yawning, so I knew the lesson was boring them.
+  - text: To say while yawning.
+  - text: To present a wide opening.
+    example: Death yawned before us, and I hit the brakes.
+  - text: To open the mouth, or to gape, through surprise or bewilderment.
+  - text: To be eager; to desire to swallow anything; to express desire by yawning.
+    example: to yawn for fat livings
 ---
-

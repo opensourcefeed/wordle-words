@@ -1,7 +1,58 @@
 ---
 layout: word
-title: poets
+title: Is POETS a Wordle Word?
+head_title: Is POETS a Wordle Word? Yes – Valid Guess & Meaning
 word: poets
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpəʊ.ɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who writes poems.</li><li><strong>Definition 2:</strong> A person with a creative or romantic imagination.</li></ul></div></div>"
+description: Yes, POETS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- boets
+- piets
+- plets
+- poems
+- poeps
+- poete
+- polts
+- ponts
+- poots
+- ports
+- posts
+- potts
+anagrams:
+- pesto
+- estop
+- petos
+- poset
+- poste
+- potes
+- stoep
+- stope
+- topes
+trap:
+  pattern: PO_TS
+  count: 8
+phonetic: "/ˈpəʊ.ɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who writes poems.
+  - text: A person with a creative or romantic imagination.
 ---
-

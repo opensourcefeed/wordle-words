@@ -1,7 +1,44 @@
 ---
 layout: word
-title: nerdy
+title: Is NERDY a Wordle Word?
+head_title: 'Is NERDY a Wordle Word? Yes – Past Answer #1125 & Meaning'
 word: nerdy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nɜː(ɹ)di/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of a person) Being or like a nerd.<p><strong>Example:</strong> That guy is nerdy and weird.</p></li><li><strong>Definition 2:</strong> (of a quality or interest) Of, pertaining to, in the style of, or appealing to nerds.<p><strong>Example:</strong> I got a pair of nerdy glasses and clothes for Halloween.</p></li></ul></div></div>"
+description: Yes, NERDY is a valid Wordle word. It was the Wordle answer on July 18,
+  2024 (#1125). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 18, 2024 (#1125).
+past_answers:
+- date: '2024-07-18'
+  number: 1125
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- needy
+- neddy
+- nerds
+- nervy
+- nurdy
+- perdy
+anagrams:
+- derny
+phonetic: "/nɜː(ɹ)di/"
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of a person) Being or like a nerd."
+    example: That guy is nerdy and weird.
+  - text: "(of a quality or interest) Of, pertaining to, in the style of, or appealing
+      to nerds."
+    example: I got a pair of nerdy glasses and clothes for Halloween.
 ---
-

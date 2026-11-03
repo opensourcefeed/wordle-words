@@ -1,7 +1,44 @@
 ---
 layout: word
-title: zowie
+title: Is ZOWIE a Wordle Word?
+head_title: Is ZOWIE a Wordle Word? Yes – Valid Guess & Meaning
 word: zowie
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈzaʊɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> An indication of astonishment or admiration.</li></ul></div></div>"
+description: Yes, ZOWIE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- bowie
+- dowie
+- mowie
+- powie
+- rowie
+- towie
+- yowie
+- zowee
+trap:
+  pattern: _OWIE
+  count: 8
+phonetic: "/ˈzaʊɪ/"
+definitions:
+- pos: interjection
+  defs:
+  - text: An indication of astonishment or admiration.
 ---
-

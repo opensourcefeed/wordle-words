@@ -1,7 +1,82 @@
 ---
 layout: word
-title: bumps
+title: Is BUMPS a Wordle Word?
+head_title: Is BUMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: bumps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bʌmps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light blow or jolting collision.</li><li><strong>Definition 2:</strong> The sound of such a collision.</li><li><strong>Definition 3:</strong> A protuberance on a level surface.</li><li><strong>Definition 4:</strong> A swelling on the skin caused by illness or injury.</li><li><strong>Definition 5:</strong> One of the protuberances on the cranium which, in phrenology, are associated with distinct faculties or affections of the mind. Also (metonymically) the faculty itself<p><strong>Example:</strong> the bump of veneration; the bump of acquisitiveness</p></li><li><strong>Definition 6:</strong> The point, in a race in which boats are spaced apart at the start, at which a boat begins to overtake the boat ahead.</li><li><strong>Definition 7:</strong> The swollen abdomen of a pregnant woman.</li><li><strong>Definition 8:</strong> A post in an Internet forum thread made in order to raise the thread's profile by returning it to the top of the list of active threads.</li><li><strong>Definition 9:</strong> A temporary increase in a quantity, as shown in a graph.<p><strong>Example:</strong> US presidential nominees get a post-convention bump in survey ratings.</p></li><li><strong>Definition 10:</strong> A dose of a drug such as ketamine or cocaine, when snorted recreationally.</li><li><strong>Definition 11:</strong> The noise made by the bittern; a boom.</li><li><strong>Definition 12:</strong> (preceded by definite article) A disco dance in which partners rhythmically bump each other's hips together.</li><li><strong>Definition 13:</strong> In skipping, a single jump over two consecutive turns of the rope.</li><li><strong>Definition 14:</strong> A coarse cotton fabric.</li><li><strong>Definition 15:</strong> A training match for a fighting dog.</li><li><strong>Definition 16:</strong> The jaw of either of the middle pockets.</li><li><strong>Definition 17:</strong> Music, especially played over speakers at loud volume with strong bass frequency response.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To knock against or run into with a jolt.</li><li><strong>Definition 2:</strong> To move up or down by a step; displace.<p><strong>Example:</strong> I bumped the font size up to make my document easier to read.</p></li><li><strong>Definition 3:</strong> To post in an Internet forum thread in order to raise the thread's profile by returning it to the top of the list of active threads.</li><li><strong>Definition 4:</strong> (of a superheated liquid) To suddenly boil, causing movement of the vessel and loss of liquid.</li><li><strong>Definition 5:</strong> To move (a booked passenger) to a later flight because of earlier delays or cancellations.</li><li><strong>Definition 6:</strong> To move the time of (a scheduled event).</li><li><strong>Definition 7:</strong> To pick (a lock) with a repeated striking motion that dislodges the pins.</li><li><strong>Definition 8:</strong> To make a loud, heavy, or hollow noise; to boom.</li><li><strong>Definition 9:</strong> To spread out material so as to fill any desired number of pages.</li></ul></div></div>"
+description: Yes, BUMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- bumfs
+- bumph
+- bumpy
+- burps
+- dumps
+- gumps
+- humps
+- jumps
+- lumps
+- mumps
+- numps
+- pumps
+trap:
+  pattern: _UMPS
+  count: 13
+phonetic: "/bʌmps/"
+definitions:
+- pos: noun
+  defs:
+  - text: A light blow or jolting collision.
+  - text: The sound of such a collision.
+  - text: A protuberance on a level surface.
+  - text: A swelling on the skin caused by illness or injury.
+  - text: One of the protuberances on the cranium which, in phrenology, are associated
+      with distinct faculties or affections of the mind. Also (metonymically) the
+      faculty itself
+    example: the bump of veneration; the bump of acquisitiveness
+  - text: The point, in a race in which boats are spaced apart at the start, at which
+      a boat begins to overtake the boat ahead.
+  - text: The swollen abdomen of a pregnant woman.
+  - text: A post in an Internet forum thread made in order to raise the thread's profile
+      by returning it to the top of the list of active threads.
+  - text: A temporary increase in a quantity, as shown in a graph.
+    example: US presidential nominees get a post-convention bump in survey ratings.
+  - text: A dose of a drug such as ketamine or cocaine, when snorted recreationally.
+  - text: The noise made by the bittern; a boom.
+  - text: "(preceded by definite article) A disco dance in which partners rhythmically
+      bump each other's hips together."
+  - text: In skipping, a single jump over two consecutive turns of the rope.
+  - text: A coarse cotton fabric.
+  - text: A training match for a fighting dog.
+  - text: The jaw of either of the middle pockets.
+  - text: Music, especially played over speakers at loud volume with strong bass frequency
+      response.
+- pos: verb
+  defs:
+  - text: To knock against or run into with a jolt.
+  - text: To move up or down by a step; displace.
+    example: I bumped the font size up to make my document easier to read.
+  - text: To post in an Internet forum thread in order to raise the thread's profile
+      by returning it to the top of the list of active threads.
+  - text: "(of a superheated liquid) To suddenly boil, causing movement of the vessel
+      and loss of liquid."
+  - text: To move (a booked passenger) to a later flight because of earlier delays
+      or cancellations.
+  - text: To move the time of (a scheduled event).
+  - text: To pick (a lock) with a repeated striking motion that dislodges the pins.
+  - text: To make a loud, heavy, or hollow noise; to boom.
+  - text: To spread out material so as to fill any desired number of pages.
 ---
-

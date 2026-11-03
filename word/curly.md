@@ -1,7 +1,52 @@
 ---
 layout: word
-title: curly
+title: Is CURLY a Wordle Word?
+head_title: 'Is CURLY a Wordle Word? Yes – Past Answer #770 & Meaning'
 word: curly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɜːli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person or animal with curly hair.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having curls.</li><li><strong>Definition 2:</strong> Curling in a direction, as opposed to straight (quotation marks or apostrophes)</li><li><strong>Definition 3:</strong> Complicated and difficult; knotty.</li></ul></div></div>"
+description: Yes, CURLY is a valid Wordle word. It was the Wordle answer on July 29,
+  2023 (#770). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 29, 2023 (#770).
+past_answers:
+- date: '2023-07-29'
+  number: 770
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- burly
+- curry
+- curvy
+- surly
+- cully
+- curdy
+- curli
+- curls
+- curny
+- gurly
+- hurly
+- murly
+trap:
+  pattern: _URLY
+  count: 6
+phonetic: "/ˈkɜːli/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person or animal with curly hair.
+- pos: adjective
+  defs:
+  - text: Having curls.
+  - text: Curling in a direction, as opposed to straight (quotation marks or apostrophes)
+  - text: Complicated and difficult; knotty.
 ---
-

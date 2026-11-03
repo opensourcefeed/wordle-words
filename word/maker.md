@@ -1,7 +1,54 @@
 ---
 layout: word
-title: maker
+title: Is MAKER a Wordle Word?
+head_title: 'Is MAKER a Wordle Word? Yes – Past Answer #1614 & Meaning'
 word: maker
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmeɪk.ə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who makes; a person or thing that makes or produces something.</li><li><strong>Definition 2:</strong> (usually capitalized and preceded by the) God.</li><li><strong>Definition 3:</strong> A poet.</li><li><strong>Definition 4:</strong> Someone who signs a promissory note, thereby becoming responsible for payment.</li></ul></div></div>"
+description: Yes, MAKER is a valid Wordle word. It was the Wordle answer on November
+  19, 2025 (#1614). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 19, 2025 (#1614).
+past_answers:
+- date: '2025-11-19'
+  number: 1614
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- baker
+- taker
+- daker
+- faker
+- jaker
+- laker
+- macer
+- makar
+- makee
+- makes
+- maser
+- mater
+anagrams:
+- kerma
+trap:
+  pattern: _AKER
+  count: 12
+phonetic: "/ˈmeɪk.ə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who makes; a person or thing that makes or produces something.
+  - text: "(usually capitalized and preceded by the) God."
+  - text: A poet.
+  - text: Someone who signs a promissory note, thereby becoming responsible for payment.
 ---
-

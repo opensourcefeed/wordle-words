@@ -1,7 +1,37 @@
 ---
 layout: word
-title: futon
+title: Is FUTON a Wordle Word?
+head_title: Is FUTON a Wordle Word? Yes – Valid Guess & Meaning
 word: futon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfuːtɒn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thin mattress of tufted cotton or similar material, placed on a floor or on a raised, foldable frame as a bed.</li><li><strong>Definition 2:</strong> A round cushion used for Zen meditation, traditionally made of woven bulrush leaves.</li></ul></div></div>"
+description: Yes, FUTON is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- muton
+- puton
+anagrams:
+- fount
+phonetic: "/ˈfuːtɒn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thin mattress of tufted cotton or similar material, placed on a floor
+      or on a raised, foldable frame as a bed.
+  - text: A round cushion used for Zen meditation, traditionally made of woven bulrush
+      leaves.
 ---
-

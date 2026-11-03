@@ -1,7 +1,75 @@
 ---
 layout: word
-title: peers
+title: Is PEERS a Wordle Word?
+head_title: Is PEERS a Wordle Word? Yes – Valid Guess & Meaning
 word: peers
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɪəz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A look; a glance.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To look with difficulty, or as if searching for something.</li><li><strong>Definition 2:</strong> To come in sight; to appear.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Somebody who is, or something that is, at a level or of a value equal (to that of something else).</li><li><strong>Definition 2:</strong> Someone who is approximately the same age (as someone else).</li><li><strong>Definition 3:</strong> A noble with a hereditary title, i.e., a peerage, and in times past, with certain rights and privileges not enjoyed by commoners.<p><strong>Example:</strong> a peer of the realm</p></li><li><strong>Definition 4:</strong> A comrade; a companion; an associate.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make equal in rank.</li><li><strong>Definition 2:</strong> To carry communications traffic terminating on one's own network on an equivalency basis to and from another network, usually without charge or payment. Contrast with transit where one pays another network provider to carry one's traffic.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who pees, someone who urinates.</li></ul></div></div>"
+description: Yes, PEERS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- beers
+- deers
+- feers
+- jeers
+- leers
+- meers
+- pears
+- peeks
+- peels
+- peens
+- peeps
+- peery
+anagrams:
+- spree
+- peres
+- perse
+- prees
+- prese
+- speer
+trap:
+  pattern: _EERS
+  count: 10
+phonetic: "/pɪəz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A look; a glance.
+- pos: verb
+  defs:
+  - text: To look with difficulty, or as if searching for something.
+  - text: To come in sight; to appear.
+- pos: noun
+  defs:
+  - text: Somebody who is, or something that is, at a level or of a value equal (to
+      that of something else).
+  - text: Someone who is approximately the same age (as someone else).
+  - text: A noble with a hereditary title, i.e., a peerage, and in times past, with
+      certain rights and privileges not enjoyed by commoners.
+    example: a peer of the realm
+  - text: A comrade; a companion; an associate.
+- pos: verb
+  defs:
+  - text: To make equal in rank.
+  - text: To carry communications traffic terminating on one's own network on an equivalency
+      basis to and from another network, usually without charge or payment. Contrast
+      with transit where one pays another network provider to carry one's traffic.
+- pos: noun
+  defs:
+  - text: Someone who pees, someone who urinates.
 ---
-

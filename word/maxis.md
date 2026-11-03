@@ -1,7 +1,66 @@
 ---
 layout: word
-title: maxis
+title: Is MAXIS a Wordle Word?
+head_title: Is MAXIS a Wordle Word? Yes – Valid Guess & Meaning
 word: maxis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A coat or skirt having such a hemline</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A class of racing sailing yacht that pushes at the upper limits of the International Offshore Rule of regulated sail yacht racing, having a waterline length in excess of 70-feet.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A music single with more than two tracks, i.e. not just an A-side and a B-side.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A maxi boat</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The highest limit</li><li><strong>Definition 2:</strong> The greatest value of a set or other mathematical structure, especially the global maximum or a local maximum of a function</li><li><strong>Definition 3:</strong> An upper bound of a set which is also an element of that set</li><li><strong>Definition 4:</strong> The largest value of a batch or sample or the upper bound of a probability distribution</li><li><strong>Definition 5:</strong> A 147 break; the highest possible break</li><li><strong>Definition 6:</strong> A score of 180 with three darts</li><li><strong>Definition 7:</strong> A scoring shot for 6 runs</li></ul></div></div>"
+description: Yes, MAXIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- maxim
+- mahis
+- makis
+- malis
+- manis
+- mavis
+- maxes
+- mixis
+- taxis
+trap:
+  pattern: MA_IS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A coat or skirt having such a hemline
+- pos: noun
+  defs:
+  - text: A class of racing sailing yacht that pushes at the upper limits of the International
+      Offshore Rule of regulated sail yacht racing, having a waterline length in excess
+      of 70-feet.
+- pos: noun
+  defs:
+  - text: A music single with more than two tracks, i.e. not just an A-side and a
+      B-side.
+- pos: noun
+  defs:
+  - text: A maxi boat
+- pos: noun
+  defs:
+  - text: The highest limit
+  - text: The greatest value of a set or other mathematical structure, especially
+      the global maximum or a local maximum of a function
+  - text: An upper bound of a set which is also an element of that set
+  - text: The largest value of a batch or sample or the upper bound of a probability
+      distribution
+  - text: A 147 break; the highest possible break
+  - text: A score of 180 with three darts
+  - text: A scoring shot for 6 runs
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: abyss
+title: Is ABYSS a Wordle Word?
+head_title: 'Is ABYSS a Wordle Word? Yes – Past Answer #126 & Meaning'
 word: abyss
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈbɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Hell; the bottomless pit; primeval chaos; a confined subterranean ocean.</li><li><strong>Definition 2:</strong> (frequently figurative) A bottomless or unfathomed depth, gulf, or chasm; hence, any deep, immeasurable; any void space.</li><li><strong>Definition 3:</strong> Anything infinite, immeasurable, or profound.</li><li><strong>Definition 4:</strong> Moral depravity; vast intellectual or moral depth.</li><li><strong>Definition 5:</strong> An impending catastrophic happening.</li><li><strong>Definition 6:</strong> The center of an escutcheon.</li><li><strong>Definition 7:</strong> The abyssal zone.</li><li><strong>Definition 8:</strong> A difference, especially a large difference, between groups.</li></ul></div></div>"
+description: Yes, ABYSS is a valid Wordle word. It was the Wordle answer on October
+  23, 2021 (#126). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 23, 2021 (#126).
+past_answers:
+- date: '2021-10-23'
+  number: 126
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- abyes
+- abysm
+anagrams:
+- bassy
+phonetic: "/əˈbɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Hell; the bottomless pit; primeval chaos; a confined subterranean ocean.
+  - text: "(frequently figurative) A bottomless or unfathomed depth, gulf, or chasm;
+      hence, any deep, immeasurable; any void space."
+  - text: Anything infinite, immeasurable, or profound.
+  - text: Moral depravity; vast intellectual or moral depth.
+  - text: An impending catastrophic happening.
+  - text: The center of an escutcheon.
+  - text: The abyssal zone.
+  - text: A difference, especially a large difference, between groups.
 ---
-

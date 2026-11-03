@@ -1,7 +1,71 @@
 ---
 layout: word
-title: costs
+title: Is COSTS a Wordle Word?
+head_title: Is COSTS a Wordle Word? Yes – Valid Guess & Meaning
 word: costs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɑsts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To incur a charge of; to require payment of a (specified) price.<p><strong>Example:</strong> It will cost you a lot of money to take a trip around the world.</p></li><li><strong>Definition 2:</strong> To cause something to be lost; to cause the expenditure or relinquishment of.<p><strong>Example:</strong> Trying to rescue the man from the burning building cost them their lives.</p></li><li><strong>Definition 3:</strong> To require to be borne or suffered; to cause.</li><li><strong>Definition 4:</strong> To calculate or estimate a price.<p><strong>Example:</strong> I'd cost the repair work at a few thousand.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Amount of money, time, etc. that is required or used.<p><strong>Example:</strong> The average cost of a new house is twice as much as it was 20 years ago.</p></li><li><strong>Definition 2:</strong> A negative consequence or loss that occurs or is required to occur.<p><strong>Example:</strong> Spending all your time working may earn you a lot of money at the cost of your health.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Manner; way; means; available course; contrivance.</li><li><strong>Definition 2:</strong> Quality; condition; property; value; worth; a wont or habit; disposition; nature; kind; characteristic.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rib; a side.</li><li><strong>Definition 2:</strong> A cottise.</li></ul></div></div>"
+description: Yes, COSTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- casts
+- cists
+- coats
+- coits
+- colts
+- coots
+- coses
+- costa
+- coste
+- cotts
+- cysts
+- hosts
+anagrams:
+- scots
+trap:
+  pattern: CO_TS
+  count: 6
+phonetic: "/ˈkɑsts/"
+definitions:
+- pos: verb
+  defs:
+  - text: To incur a charge of; to require payment of a (specified) price.
+    example: It will cost you a lot of money to take a trip around the world.
+  - text: To cause something to be lost; to cause the expenditure or relinquishment
+      of.
+    example: Trying to rescue the man from the burning building cost them their lives.
+  - text: To require to be borne or suffered; to cause.
+  - text: To calculate or estimate a price.
+    example: I'd cost the repair work at a few thousand.
+- pos: noun
+  defs:
+  - text: Amount of money, time, etc. that is required or used.
+    example: The average cost of a new house is twice as much as it was 20 years ago.
+  - text: A negative consequence or loss that occurs or is required to occur.
+    example: Spending all your time working may earn you a lot of money at the cost
+      of your health.
+- pos: noun
+  defs:
+  - text: Manner; way; means; available course; contrivance.
+  - text: Quality; condition; property; value; worth; a wont or habit; disposition;
+      nature; kind; characteristic.
+- pos: noun
+  defs:
+  - text: A rib; a side.
+  - text: A cottise.
 ---
-

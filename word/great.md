@@ -1,7 +1,103 @@
 ---
 layout: word
-title: great
+title: Is GREAT a Wordle Word?
+head_title: 'Is GREAT a Wordle Word? Yes – Past Answer #136 & Meaning'
 word: great
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹeɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person of major significance, accomplishment or acclaim.<p><strong>Example:</strong> Newton and Einstein are two of the greats of the history of science.</p></li><li><strong>Definition 2:</strong> The main division in a pipe organ, usually the loudest division.</li><li><strong>Definition 3:</strong> (in combinations such as \"two-greats\", \"three-greats\" etc.) An instance of the word \"great\" signifying an additional generation in phrases expressing family relationships.<p><strong>Example:</strong> My three-greats grandmother.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relatively large in scale, size, extent, number (i.e. having many parts or members) or duration (i.e. relatively long); very big.<p><strong>Example:</strong> A great storm is approaching our shores.</p></li><li><strong>Definition 2:</strong> Of larger size or more importance than others of its kind.<p><strong>Example:</strong> the great auk</p></li><li><strong>Definition 3:</strong> (qualifying nouns of family relationship) Involving more generations than the qualified word implies — as many extra generations as repetitions of the word great (from 1510s). [see Derived terms]<p><strong>Example:</strong> great-grandfather, great-great-grandfather, great-great-great-grandfather</p></li><li><strong>Definition 4:</strong> (followed by 'with') Pregnant; large with young; full of.<p><strong>Example:</strong> great with child</p></li><li><strong>Definition 5:</strong> (except with 'friend' and similar words such as 'mate','buddy') Intimate; familiar.</li><li><strong>Definition 6:</strong> Extreme or more than usual.<p><strong>Example:</strong> great worry</p></li><li><strong>Definition 7:</strong> Of significant importance or consequence; important.<p><strong>Example:</strong> a great decision</p></li><li><strong>Definition 8:</strong> (applied to actions, thoughts and feelings) Arising from or possessing idealism; admirable; superior; commanding; heroic; illustrious; eminent.<p><strong>Example:</strong> a great deed</p></li><li><strong>Definition 9:</strong> Impressive or striking.<p><strong>Example:</strong> a great show of wealth</p></li><li><strong>Definition 10:</strong> Much in use; favoured.<p><strong>Example:</strong> Poetry was a great convention of the Romantic era.</p></li><li><strong>Definition 11:</strong> (applied to persons) Endowed with extraordinary powers; of exceptional talents or achievements; uncommonly gifted; able to accomplish vast results; remarkable; strong; powerful; mighty; noble.<p><strong>Example:</strong> a great hero, scholar, genius, philosopher, writer etc.</p></li><li><strong>Definition 12:</strong> Title referring to an important leader.<p><strong>Example:</strong> Alexander the Great</p></li><li><strong>Definition 13:</strong> Doing or exemplifying (a characteristic or pursuit) on a large scale; active or enthusiastic.<p><strong>Example:</strong> He's not a great one for reading.</p></li><li><strong>Definition 14:</strong> (often followed by 'at') Skilful or adroit.<p><strong>Example:</strong> You are great at singing.</p></li><li><strong>Definition 15:</strong> Very good; excellent; wonderful; fantastic (from 1848).<p><strong>Example:</strong> Dinner was great.</p></li><li><strong>Definition 16:</strong> Intensifying a word or expression, used in mild oaths.<p><strong>Example:</strong> Great Scott!</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very well (in a very satisfactory manner).<p><strong>Example:</strong> Those mechanical colored pencils work great because they don't have to be sharpened.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Expression of gladness and content about something.<p><strong>Example:</strong> Great! Thanks for the wonderful work.</p></li><li><strong>Definition 2:</strong> Sarcastic inversion thereof.<p><strong>Example:</strong> Oh, great! I just dumped all 500 sheets of the manuscript all over and now I have to put them back in order.</p></li></ul></div></div>"
+description: Yes, GREAT is a valid Wordle word. It was the Wordle answer on November
+  2, 2021 (#136). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 2, 2021 (#136).
+past_answers:
+- date: '2021-11-02'
+  number: 136
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- greet
+- treat
+- groat
+anagrams:
+- grate
+- gater
+- retag
+- targe
+- terga
+phonetic: "/ɡɹeɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person of major significance, accomplishment or acclaim.
+    example: Newton and Einstein are two of the greats of the history of science.
+  - text: The main division in a pipe organ, usually the loudest division.
+  - text: (in combinations such as "two-greats", "three-greats" etc.) An instance
+      of the word "great" signifying an additional generation in phrases expressing
+      family relationships.
+    example: My three-greats grandmother.
+- pos: adjective
+  defs:
+  - text: Relatively large in scale, size, extent, number (i.e. having many parts
+      or members) or duration (i.e. relatively long); very big.
+    example: A great storm is approaching our shores.
+  - text: Of larger size or more importance than others of its kind.
+    example: the great auk
+  - text: "(qualifying nouns of family relationship) Involving more generations than
+      the qualified word implies — as many extra generations as repetitions of the
+      word great (from 1510s). [see Derived terms]"
+    example: great-grandfather, great-great-grandfather, great-great-great-grandfather
+  - text: "(followed by 'with') Pregnant; large with young; full of."
+    example: great with child
+  - text: "(except with 'friend' and similar words such as 'mate','buddy') Intimate;
+      familiar."
+  - text: Extreme or more than usual.
+    example: great worry
+  - text: Of significant importance or consequence; important.
+    example: a great decision
+  - text: "(applied to actions, thoughts and feelings) Arising from or possessing
+      idealism; admirable; superior; commanding; heroic; illustrious; eminent."
+    example: a great deed
+  - text: Impressive or striking.
+    example: a great show of wealth
+  - text: Much in use; favoured.
+    example: Poetry was a great convention of the Romantic era.
+  - text: "(applied to persons) Endowed with extraordinary powers; of exceptional
+      talents or achievements; uncommonly gifted; able to accomplish vast results;
+      remarkable; strong; powerful; mighty; noble."
+    example: a great hero, scholar, genius, philosopher, writer etc.
+  - text: Title referring to an important leader.
+    example: Alexander the Great
+  - text: Doing or exemplifying (a characteristic or pursuit) on a large scale; active
+      or enthusiastic.
+    example: He's not a great one for reading.
+  - text: "(often followed by 'at') Skilful or adroit."
+    example: You are great at singing.
+  - text: Very good; excellent; wonderful; fantastic (from 1848).
+    example: Dinner was great.
+  - text: Intensifying a word or expression, used in mild oaths.
+    example: Great Scott!
+- pos: adverb
+  defs:
+  - text: Very well (in a very satisfactory manner).
+    example: Those mechanical colored pencils work great because they don't have to
+      be sharpened.
+- pos: interjection
+  defs:
+  - text: Expression of gladness and content about something.
+    example: Great! Thanks for the wonderful work.
+  - text: Sarcastic inversion thereof.
+    example: Oh, great! I just dumped all 500 sheets of the manuscript all over and
+      now I have to put them back in order.
 ---
-

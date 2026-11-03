@@ -1,7 +1,67 @@
 ---
 layout: word
-title: bombs
+title: Is BOMBS a Wordle Word?
+head_title: Is BOMBS a Wordle Word? Yes – Valid Guess & Meaning
 word: bombs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɒmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An explosive device used or intended as a weapon.</li><li><strong>Definition 2:</strong> A failure; an unpopular commercial product.<p><strong>Example:</strong> box office bomb</p></li><li><strong>Definition 3:</strong> A large amount of money.<p><strong>Example:</strong> cost a bomb</p></li><li><strong>Definition 4:</strong> (social) Something highly effective or attractive.</li><li><strong>Definition 5:</strong> A cyclone whose central pressure drops at an average rate of at least one millibar per hour for at least 24 hours.</li><li><strong>Definition 6:</strong> A heavy-walled container designed to permit chemical reactions under high pressure.</li><li><strong>Definition 7:</strong> A great booming noise; a hollow sound.</li><li><strong>Definition 8:</strong> A woman’s breast.</li><li><strong>Definition 9:</strong> A professional wrestling throw in which an opponent is lifted and then slammed back-first down to the mat.</li><li><strong>Definition 10:</strong> A recreational drug ground up, wrapped, and swallowed.</li><li><strong>Definition 11:</strong> An act of jumping into water while keeping one's arms and legs tucked into the body, as in a squatting position, to maximize splashing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attack using one or more bombs; to bombard.</li><li><strong>Definition 2:</strong> To fail dismally.</li><li><strong>Definition 3:</strong> To jump into water in a squatting position, with the arms wrapped around the legs.</li><li><strong>Definition 4:</strong> To sound; to boom; to make a humming or buzzing sound.</li><li><strong>Definition 5:</strong> To cover an area in many graffiti tags.</li><li><strong>Definition 6:</strong> To add an excessive amount of chlorine to a pool when it has not been maintained properly.</li><li><strong>Definition 7:</strong> To make oneself drunk.</li><li><strong>Definition 8:</strong> (especially with along, down, up etc.) To move at high speed.<p><strong>Example:</strong> I was bombing down the road on my motorbike.</p></li></ul></div></div>"
+description: Yes, BOMBS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - B
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- boabs
+- bomas
+- bombe
+- bombo
+- boobs
+- combs
+- tombs
+- wombs
+phonetic: "/bɒmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: An explosive device used or intended as a weapon.
+  - text: A failure; an unpopular commercial product.
+    example: box office bomb
+  - text: A large amount of money.
+    example: cost a bomb
+  - text: "(social) Something highly effective or attractive."
+  - text: A cyclone whose central pressure drops at an average rate of at least one
+      millibar per hour for at least 24 hours.
+  - text: A heavy-walled container designed to permit chemical reactions under high
+      pressure.
+  - text: A great booming noise; a hollow sound.
+  - text: A woman’s breast.
+  - text: A professional wrestling throw in which an opponent is lifted and then slammed
+      back-first down to the mat.
+  - text: A recreational drug ground up, wrapped, and swallowed.
+  - text: An act of jumping into water while keeping one's arms and legs tucked into
+      the body, as in a squatting position, to maximize splashing.
+- pos: verb
+  defs:
+  - text: To attack using one or more bombs; to bombard.
+  - text: To fail dismally.
+  - text: To jump into water in a squatting position, with the arms wrapped around
+      the legs.
+  - text: To sound; to boom; to make a humming or buzzing sound.
+  - text: To cover an area in many graffiti tags.
+  - text: To add an excessive amount of chlorine to a pool when it has not been maintained
+      properly.
+  - text: To make oneself drunk.
+  - text: "(especially with along, down, up etc.) To move at high speed."
+    example: I was bombing down the road on my motorbike.
 ---
-

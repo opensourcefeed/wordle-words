@@ -1,7 +1,58 @@
 ---
 layout: word
-title: young
+title: Is YOUNG a Wordle Word?
+head_title: 'Is YOUNG a Wordle Word? Yes – Past Answer #899 & Meaning'
 word: young
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jʌŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> People who are young; young people, collectively; youth.<p><strong>Example:</strong> The young of today are well-educated.</p></li><li><strong>Definition 2:</strong> Young or immature offspring (especially of an animal).<p><strong>Example:</strong> The lion caught a gnu to feed its young.</p></li><li><strong>Definition 3:</strong> (possibly nonstandard) An individual offspring; a single recently born or hatched organism.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become or seem to become younger.</li><li><strong>Definition 2:</strong> To cause to appear younger.</li><li><strong>Definition 3:</strong> To exhibit younging.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> In the early part of growth or life; born not long ago.<p><strong>Example:</strong> a lamb is a young sheep;  these picture books are for young readers</p></li><li><strong>Definition 2:</strong> At an early stage of existence or development; having recently come into existence.<p><strong>Example:</strong> the age of space travel is still young;   a young business</p></li><li><strong>Definition 3:</strong> (Not) advanced in age; (far towards or) at a specified stage of existence or age.<p><strong>Example:</strong> How young is your dog?   Her grandmother turned 70 years young last month.</p></li><li><strong>Definition 4:</strong> Junior (of two related people with the same name).</li><li><strong>Definition 5:</strong> (of a decade of life) Early.</li><li><strong>Definition 6:</strong> Youthful; having the look or qualities of a young person.<p><strong>Example:</strong> My grandmother is a very active woman and is quite young for her age.</p></li><li><strong>Definition 7:</strong> Of or belonging to the early part of life.<p><strong>Example:</strong> The cynical world soon shattered my young dreams.</p></li><li><strong>Definition 8:</strong> Having little experience; inexperienced; unpracticed; ignorant; weak.</li></ul></div></div>"
+description: Yes, YOUNG is a valid Wordle word. It was the Wordle answer on December
+  5, 2023 (#899). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 5, 2023 (#899).
+past_answers:
+- date: '2023-12-05'
+  number: 899
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+phonetic: "/jʌŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: People who are young; young people, collectively; youth.
+    example: The young of today are well-educated.
+  - text: Young or immature offspring (especially of an animal).
+    example: The lion caught a gnu to feed its young.
+  - text: "(possibly nonstandard) An individual offspring; a single recently born
+      or hatched organism."
+- pos: verb
+  defs:
+  - text: To become or seem to become younger.
+  - text: To cause to appear younger.
+  - text: To exhibit younging.
+- pos: adjective
+  defs:
+  - text: In the early part of growth or life; born not long ago.
+    example: a lamb is a young sheep;  these picture books are for young readers
+  - text: At an early stage of existence or development; having recently come into
+      existence.
+    example: the age of space travel is still young;   a young business
+  - text: "(Not) advanced in age; (far towards or) at a specified stage of existence
+      or age."
+    example: How young is your dog?   Her grandmother turned 70 years young last month.
+  - text: Junior (of two related people with the same name).
+  - text: "(of a decade of life) Early."
+  - text: Youthful; having the look or qualities of a young person.
+    example: My grandmother is a very active woman and is quite young for her age.
+  - text: Of or belonging to the early part of life.
+    example: The cynical world soon shattered my young dreams.
+  - text: Having little experience; inexperienced; unpracticed; ignorant; weak.
 ---
-

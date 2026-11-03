@@ -1,7 +1,51 @@
 ---
 layout: word
-title: dodgy
+title: Is DODGY a Wordle Word?
+head_title: 'Is DODGY a Wordle Word? Yes – Past Answer #1640 & Meaning'
 word: dodgy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɒdʒ.i/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Evasive and shifty<p><strong>Example:</strong> Asked why, a spokesman gave a dodgy answer about legal ramifications.</p></li><li><strong>Definition 2:</strong> Unsound and unreliable<p><strong>Example:</strong> Never listen to dodgy advice.</p></li><li><strong>Definition 3:</strong> Dishonest<p><strong>Example:</strong> I am sure you wouldn't want to be seen buying dodgy gear, would you? (stolen goods).</p></li><li><strong>Definition 4:</strong> Risky<p><strong>Example:</strong> This is a slightly dodgy plan, because there is a lot that is being changed for this fix.</p></li><li><strong>Definition 5:</strong> Deviant<p><strong>Example:</strong> He's a dodgy Peeping Tom.</p></li><li><strong>Definition 6:</strong> Uncomfortable and weird<p><strong>Example:</strong> I'm feeling dodgy today, probably got the flu.</p></li></ul></div></div>"
+description: Yes, DODGY is a valid Wordle word. It was the Wordle answer on December
+  15, 2025 (#1640). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 15, 2025 (#1640).
+past_answers:
+- date: '2025-12-15'
+  number: 1640
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- dodge
+- bodgy
+- doddy
+- doggy
+- podgy
+- wodgy
+phonetic: "/ˈdɒdʒ.i/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Evasive and shifty
+    example: Asked why, a spokesman gave a dodgy answer about legal ramifications.
+  - text: Unsound and unreliable
+    example: Never listen to dodgy advice.
+  - text: Dishonest
+    example: I am sure you wouldn't want to be seen buying dodgy gear, would you?
+      (stolen goods).
+  - text: Risky
+    example: This is a slightly dodgy plan, because there is a lot that is being changed
+      for this fix.
+  - text: Deviant
+    example: He's a dodgy Peeping Tom.
+  - text: Uncomfortable and weird
+    example: I'm feeling dodgy today, probably got the flu.
 ---
-

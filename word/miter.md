@@ -1,7 +1,66 @@
 ---
 layout: word
-title: miter
+title: Is MITER a Wordle Word?
+head_title: Is MITER a Wordle Word? Yes – Valid Guess & Meaning
 word: miter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmaɪ.təɹ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A covering for the head, worn on solemn occasions by church dignitaries, which has been made in many forms, mostly recently a tall cap with two points or peaks.</li><li><strong>Definition 2:</strong> The surface forming the bevelled end or edge of a piece where a miter joint is made; also, a joint formed or a junction effected by two beveled ends or edges; a miter joint.</li><li><strong>Definition 3:</strong> A 13th-century coin minted in Europe which circulated in Ireland as a debased counterfeit sterling penny, outlawed under Edward I.</li><li><strong>Definition 4:</strong> A cap or cowl for a chimney or ventilation pipe.</li><li><strong>Definition 5:</strong> A gusset in sewing, etc.</li><li><strong>Definition 6:</strong> A square with one triangular quarter missing from the outside.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To adorn with a mitre.</li><li><strong>Definition 2:</strong> To unite at an angle of 45°.</li></ul></div></div>"
+description: Yes, MITER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- meter
+- miner
+- miser
+- biter
+- citer
+- kiter
+- liter
+- mater
+- miler
+- mimer
+- mites
+- mitey
+anagrams:
+- merit
+- remit
+- timer
+- mitre
+trap:
+  pattern: _ITER
+  count: 7
+phonetic: "/ˈmaɪ.təɹ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A covering for the head, worn on solemn occasions by church dignitaries,
+      which has been made in many forms, mostly recently a tall cap with two points
+      or peaks.
+  - text: The surface forming the bevelled end or edge of a piece where a miter joint
+      is made; also, a joint formed or a junction effected by two beveled ends or
+      edges; a miter joint.
+  - text: A 13th-century coin minted in Europe which circulated in Ireland as a debased
+      counterfeit sterling penny, outlawed under Edward I.
+  - text: A cap or cowl for a chimney or ventilation pipe.
+  - text: A gusset in sewing, etc.
+  - text: A square with one triangular quarter missing from the outside.
+- pos: verb
+  defs:
+  - text: To adorn with a mitre.
+  - text: To unite at an angle of 45°.
 ---
-

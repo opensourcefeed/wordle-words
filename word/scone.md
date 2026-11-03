@@ -1,7 +1,51 @@
 ---
 layout: word
-title: scone
+title: Is SCONE a Wordle Word?
+head_title: 'Is SCONE a Wordle Word? Yes – Past Answer #1149 & Meaning'
 word: scone
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small, rich, pastry or quick bread, sometimes baked on a griddle.</li><li><strong>Definition 2:</strong> (Utah) Frybread served with honey butter spread on it.</li><li><strong>Definition 3:</strong> The head.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hit on the head.<p><strong>Example:</strong> 2004 December 3, \"Sconed by a space rock - and then the headaches started\", The Sydney Morning Herald</p></li></ul></div></div>"
+description: Yes, SCONE is a valid Wordle word. It was the Wordle answer on August
+  11, 2024 (#1149). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 11, 2024 (#1149).
+past_answers:
+- date: '2024-08-11'
+  number: 1149
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- scene
+- scope
+- score
+- shone
+- stone
+- acone
+- scobe
+- scote
+anagrams:
+- cones
+- onces
+- sonce
+definitions:
+- pos: noun
+  defs:
+  - text: A small, rich, pastry or quick bread, sometimes baked on a griddle.
+  - text: "(Utah) Frybread served with honey butter spread on it."
+  - text: The head.
+- pos: verb
+  defs:
+  - text: To hit on the head.
+    example: 2004 December 3, "Sconed by a space rock - and then the headaches started",
+      The Sydney Morning Herald
 ---
-

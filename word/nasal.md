@@ -1,7 +1,58 @@
 ---
 layout: word
-title: nasal
+title: Is NASAL a Wordle Word?
+head_title: 'Is NASAL a Wordle Word? Yes – Past Answer #1512 & Meaning'
 word: nasal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈneɪzəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A medicine that operates through the nose; an errhine.</li><li><strong>Definition 2:</strong> A vowel or consonant (such as [m] or [n]) articulated with air flowing through the nose.</li><li><strong>Definition 3:</strong> Part of a helmet projecting to protect the nose; a nose guard.</li><li><strong>Definition 4:</strong> One of the nasal bones.</li><li><strong>Definition 5:</strong> A plate, or scale, on the nose of a fish, etc.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or pertaining to the nose or to the nasion</li><li><strong>Definition 2:</strong> Having a sound imparted by means of the nose; and specifically, made by lowering the soft palate, in some cases with closure of the oral passage, the voice thus issuing (wholly or partially) through the nose, as in the consonants m, n, ng; characterized by resonance in the nasal passage<p><strong>Example:</strong> a nasal utterance.</p></li></ul></div></div>"
+description: Yes, NASAL is a valid Wordle word. It was the Wordle answer on August
+  9, 2025 (#1512). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 9, 2025 (#1512).
+past_answers:
+- date: '2025-08-09'
+  number: 1512
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- basal
+- natal
+- naval
+- nahal
+- nawal
+- oasal
+- vasal
+anagrams:
+- alans
+- anlas
+- lanas
+- nalas
+phonetic: "/ˈneɪzəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A medicine that operates through the nose; an errhine.
+  - text: A vowel or consonant (such as [m] or [n]) articulated with air flowing through
+      the nose.
+  - text: Part of a helmet projecting to protect the nose; a nose guard.
+  - text: One of the nasal bones.
+  - text: A plate, or scale, on the nose of a fish, etc.
+- pos: adjective
+  defs:
+  - text: Of or pertaining to the nose or to the nasion
+  - text: Having a sound imparted by means of the nose; and specifically, made by
+      lowering the soft palate, in some cases with closure of the oral passage, the
+      voice thus issuing (wholly or partially) through the nose, as in the consonants
+      m, n, ng; characterized by resonance in the nasal passage
+    example: a nasal utterance.
 ---
-

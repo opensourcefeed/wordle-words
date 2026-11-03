@@ -1,7 +1,47 @@
 ---
 layout: word
-title: burps
+title: Is BURPS a Wordle Word?
+head_title: Is BURPS a Wordle Word? Yes – Valid Guess & Meaning
 word: burps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A belch.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To emit a burp.</li><li><strong>Definition 2:</strong> To cause someone (such as a baby) to burp.</li></ul></div></div>"
+description: Yes, BURPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- barps
+- bumps
+- buras
+- burbs
+- burds
+- burgs
+- burks
+- burls
+- burns
+- burrs
+- purps
+- rurps
+trap:
+  pattern: BUR_S
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A belch.
+- pos: verb
+  defs:
+  - text: To emit a burp.
+  - text: To cause someone (such as a baby) to burp.
 ---
-

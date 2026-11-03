@@ -1,7 +1,52 @@
 ---
 layout: word
-title: foods
+title: Is FOODS a Wordle Word?
+head_title: Is FOODS a Wordle Word? Yes – Valid Guess & Meaning
 word: foods
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fuːdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life.<p><strong>Example:</strong> The innkeeper brought them food and drink.</p></li><li><strong>Definition 2:</strong> A foodstuff.</li><li><strong>Definition 3:</strong> Anything that nourishes or sustains.<p><strong>Example:</strong> Mozart and Bach are food for my soul.</p></li></ul></div></div>"
+description: Yes, FOODS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- feods
+- foids
+- folds
+- fonds
+- foody
+- fools
+- foots
+- fords
+- fouds
+- goods
+- hoods
+- moods
+anagrams:
+- doofs
+trap:
+  pattern: _OODS
+  count: 7
+phonetic: "/fuːdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any solid substance that can be consumed by living organisms, especially
+      by eating, in order to sustain life.
+    example: The innkeeper brought them food and drink.
+  - text: A foodstuff.
+  - text: Anything that nourishes or sustains.
+    example: Mozart and Bach are food for my soul.
 ---
-

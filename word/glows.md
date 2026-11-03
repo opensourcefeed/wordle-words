@@ -1,7 +1,65 @@
 ---
 layout: word
-title: glows
+title: Is GLOWS a Wordle Word?
+head_title: Is GLOWS a Wordle Word? Yes – Valid Guess & Meaning
 word: glows
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡləʊz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The state of a glowing object.</li><li><strong>Definition 2:</strong> The condition of being passionate or having warm feelings.</li><li><strong>Definition 3:</strong> The brilliance or warmth of color in an environment or on a person (especially one's face).<p><strong>Example:</strong> He had a bright red glow on his face.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give off light from heat or to emit light as if heated.<p><strong>Example:</strong> The fire was still glowing after ten hours.</p></li><li><strong>Definition 2:</strong> To radiate some emotional quality like light.<p><strong>Example:</strong> The zealots glowed with religious fervor.</p></li><li><strong>Definition 3:</strong> To gaze especially passionately at something.</li><li><strong>Definition 4:</strong> To radiate thermal heat.<p><strong>Example:</strong> After their workout, the gymnasts' faces were glowing red.</p></li><li><strong>Definition 5:</strong> To shine brightly and steadily.<p><strong>Example:</strong> The new baby's room glows with bright, loving colors.</p></li><li><strong>Definition 6:</strong> To make hot; to flush.</li><li><strong>Definition 7:</strong> To feel hot; to have a burning sensation, as of the skin, from friction, exercise, etc.; to burn.</li></ul></div></div>"
+description: Yes, GLOWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+neighbours:
+- gloss
+- blows
+- clows
+- flows
+- globs
+- gloms
+- glops
+- glowy
+- gnows
+- grows
+- plows
+- slows
+anagrams:
+- gowls
+trap:
+  pattern: _LOWS
+  count: 6
+phonetic: "/ɡləʊz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The state of a glowing object.
+  - text: The condition of being passionate or having warm feelings.
+  - text: The brilliance or warmth of color in an environment or on a person (especially
+      one's face).
+    example: He had a bright red glow on his face.
+- pos: verb
+  defs:
+  - text: To give off light from heat or to emit light as if heated.
+    example: The fire was still glowing after ten hours.
+  - text: To radiate some emotional quality like light.
+    example: The zealots glowed with religious fervor.
+  - text: To gaze especially passionately at something.
+  - text: To radiate thermal heat.
+    example: After their workout, the gymnasts' faces were glowing red.
+  - text: To shine brightly and steadily.
+    example: The new baby's room glows with bright, loving colors.
+  - text: To make hot; to flush.
+  - text: To feel hot; to have a burning sensation, as of the skin, from friction,
+      exercise, etc.; to burn.
 ---
-

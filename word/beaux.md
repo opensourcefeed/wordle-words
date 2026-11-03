@@ -1,7 +1,37 @@
 ---
 layout: word
-title: beaux
+title: Is BEAUX a Wordle Word?
+head_title: Is BEAUX a Wordle Word? Yes – Valid Guess & Meaning
 word: beaux
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A man with a reputation for fine dress and etiquette; a dandy or fop.</li><li><strong>Definition 2:</strong> A male lover; a boyfriend.</li><li><strong>Definition 3:</strong> A male escort.</li><li><strong>Definition 4:</strong> A suitor of a lady.</li></ul></div></div>"
+description: Yes, BEAUX is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- beaus
+- beaut
+phonetic: "/bəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A man with a reputation for fine dress and etiquette; a dandy or fop.
+  - text: A male lover; a boyfriend.
+  - text: A male escort.
+  - text: A suitor of a lady.
 ---
-

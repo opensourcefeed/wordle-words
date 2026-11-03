@@ -1,7 +1,45 @@
 ---
 layout: word
-title: knead
+title: Is KNEAD a Wordle Word?
+head_title: 'Is KNEAD a Wordle Word? Yes – Past Answer #1103 & Meaning'
 word: knead
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /niːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of kneading something.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To work and press into a mass, usually with the hands; especially, to work, as by repeated pressure with the knuckles, into a well mixed mass, the materials of bread, cake, etc.</li><li><strong>Definition 2:</strong> To treat or form as if by kneading; to beat.</li><li><strong>Definition 3:</strong> (of cats) To make an alternating pressing motion with the two front paws.</li><li><strong>Definition 4:</strong> To mix thoroughly; form into a homogeneous compound.</li></ul></div></div>"
+description: Yes, KNEAD is a valid Wordle word. It was the Wordle answer on June 26,
+  2024 (#1103). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 26, 2024 (#1103).
+past_answers:
+- date: '2024-06-26'
+  number: 1103
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- kneed
+- snead
+anagrams:
+- naked
+phonetic: "/niːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of kneading something.
+- pos: verb
+  defs:
+  - text: To work and press into a mass, usually with the hands; especially, to work,
+      as by repeated pressure with the knuckles, into a well mixed mass, the materials
+      of bread, cake, etc.
+  - text: To treat or form as if by kneading; to beat.
+  - text: "(of cats) To make an alternating pressing motion with the two front paws."
+  - text: To mix thoroughly; form into a homogeneous compound.
 ---
-

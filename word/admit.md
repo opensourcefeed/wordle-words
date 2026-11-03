@@ -1,7 +1,50 @@
 ---
 layout: word
-title: admit
+title: Is ADMIT a Wordle Word?
+head_title: 'Is ADMIT a Wordle Word? Yes – Past Answer #463 & Meaning'
 word: admit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ədˈmɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration<p><strong>Example:</strong> A ticket admits one into a playhouse.</p></li><li><strong>Definition 2:</strong> To allow (someone) to enter a profession or to enjoy a privilege; to recognize as qualified for a franchise.<p><strong>Example:</strong> the prisoner was admitted to bail</p></li><li><strong>Definition 3:</strong> To concede as true; to acknowledge or assent to, as an allegation which it is impossible to deny<p><strong>Example:</strong> he admitted his guilt</p></li><li><strong>Definition 4:</strong> To be capable of; to permit. In this sense, \"of\" may be used after the verb, or may be omitted.<p><strong>Example:</strong> the words do not admit such a construction.</p></li><li><strong>Definition 5:</strong> To give warrant or allowance, to grant opportunity or permission (+ of).<p><strong>Example:</strong> circumstances do not admit of this</p></li><li><strong>Definition 6:</strong> To allow to enter a hospital or similar facility for treatment.</li></ul></div></div>"
+description: Yes, ADMIT is a valid Wordle word. It was the Wordle answer on September
+  25, 2022 (#463). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 25, 2022 (#463).
+past_answers:
+- date: '2022-09-25'
+  number: 463
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- admin
+- admix
+phonetic: "/ədˈmɪt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To allow to enter; to grant entrance (to), whether into a place, into the
+      mind, or into consideration
+    example: A ticket admits one into a playhouse.
+  - text: To allow (someone) to enter a profession or to enjoy a privilege; to recognize
+      as qualified for a franchise.
+    example: the prisoner was admitted to bail
+  - text: To concede as true; to acknowledge or assent to, as an allegation which
+      it is impossible to deny
+    example: he admitted his guilt
+  - text: To be capable of; to permit. In this sense, "of" may be used after the verb,
+      or may be omitted.
+    example: the words do not admit such a construction.
+  - text: To give warrant or allowance, to grant opportunity or permission (+ of).
+    example: circumstances do not admit of this
+  - text: To allow to enter a hospital or similar facility for treatment.
 ---
-

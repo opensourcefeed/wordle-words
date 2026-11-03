@@ -1,7 +1,47 @@
 ---
 layout: word
-title: foams
+title: Is FOAMS a Wordle Word?
+head_title: Is FOAMS a Wordle Word? Yes – Valid Guess & Meaning
 word: foams
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A substance composed of a large collection of bubbles or their solidified remains.<p><strong>Example:</strong> He doesn't like so much foam in his beer.</p></li><li><strong>Definition 2:</strong> A substance formed by trapping pockets of gas in a liquid or solid.<p><strong>Example:</strong> A foam mat can soften a hard seat.</p></li><li><strong>Definition 3:</strong> (by extension) Sea foam; the sea.<p><strong>Example:</strong> He is in Europe, across the foam.</p></li><li><strong>Definition 4:</strong> Fury.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form or emit foam.</li><li><strong>Definition 2:</strong> To spew saliva as foam, to foam at the mouth.</li></ul></div></div>"
+description: Yes, FOAMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- foamy
+- flams
+- foals
+- forms
+- loams
+- roams
+definitions:
+- pos: noun
+  defs:
+  - text: A substance composed of a large collection of bubbles or their solidified
+      remains.
+    example: He doesn't like so much foam in his beer.
+  - text: A substance formed by trapping pockets of gas in a liquid or solid.
+    example: A foam mat can soften a hard seat.
+  - text: "(by extension) Sea foam; the sea."
+    example: He is in Europe, across the foam.
+  - text: Fury.
+- pos: verb
+  defs:
+  - text: To form or emit foam.
+  - text: To spew saliva as foam, to foam at the mouth.
 ---
-

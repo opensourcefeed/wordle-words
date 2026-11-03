@@ -1,7 +1,60 @@
 ---
 layout: word
-title: facet
+title: Is FACET a Wordle Word?
+head_title: 'Is FACET a Wordle Word? Yes – Past Answer #1034 & Meaning'
 word: facet
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfæsɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any one of the flat surfaces cut into a gem.<p><strong>Example:</strong> This facet of the diamond was masterfully cut to enhance its value.</p></li><li><strong>Definition 2:</strong> One among many similar or related, yet still distinct things.<p><strong>Example:</strong> The child's learning disability was only one facet of the problems contributing to his delinquency.</p></li><li><strong>Definition 3:</strong> One of a series of things, such as steps in a project.<p><strong>Example:</strong> We had just about completed the research facet of the project when the order came to cancel it.</p></li><li><strong>Definition 4:</strong> One member of a compound eye, as found in insects and crustaceans.</li><li><strong>Definition 5:</strong> A smooth circumscribed surface.<p><strong>Example:</strong> the articular facet of a bone</p></li><li><strong>Definition 6:</strong> Any of the small joints at each segment of the spine that provide stability and help guide motion</li><li><strong>Definition 7:</strong> The narrow plane surface between flutings of a column.</li><li><strong>Definition 8:</strong> A face of codimension 1 of a polytope.</li><li><strong>Definition 9:</strong> A criterion that can be used to sort and filter, such as the colour or size of products in an online store.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut a facet into a gemstone.</li></ul></div></div>"
+description: Yes, FACET is a valid Wordle word. It was the Wordle answer on April
+  18, 2024 (#1034). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 18, 2024 (#1034).
+past_answers:
+- date: '2024-04-18'
+  number: 1034
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- faced
+- facer
+- faces
+- facey
+- jacet
+- lacet
+- tacet
+phonetic: "/ˈfæsɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any one of the flat surfaces cut into a gem.
+    example: This facet of the diamond was masterfully cut to enhance its value.
+  - text: One among many similar or related, yet still distinct things.
+    example: The child's learning disability was only one facet of the problems contributing
+      to his delinquency.
+  - text: One of a series of things, such as steps in a project.
+    example: We had just about completed the research facet of the project when the
+      order came to cancel it.
+  - text: One member of a compound eye, as found in insects and crustaceans.
+  - text: A smooth circumscribed surface.
+    example: the articular facet of a bone
+  - text: Any of the small joints at each segment of the spine that provide stability
+      and help guide motion
+  - text: The narrow plane surface between flutings of a column.
+  - text: A face of codimension 1 of a polytope.
+  - text: A criterion that can be used to sort and filter, such as the colour or size
+      of products in an online store.
+- pos: verb
+  defs:
+  - text: To cut a facet into a gemstone.
 ---
-

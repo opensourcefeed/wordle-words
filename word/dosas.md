@@ -1,7 +1,44 @@
 ---
 layout: word
-title: dosas
+title: Is DOSAS a Wordle Word?
+head_title: Is DOSAS a Wordle Word? Yes – Valid Guess & Meaning
 word: dosas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of thin south Indian pancake made from fermented lentils and rice blended with water, typically served with chutney or sambar.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the three regulatory principles of Ayurveda.</li></ul></div></div>"
+description: Yes, DOSAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- disas
+- donas
+- dopas
+- dosai
+- doses
+- tosas
+anagrams:
+- sados
+- sodas
+definitions:
+- pos: noun
+  defs:
+  - text: A type of thin south Indian pancake made from fermented lentils and rice
+      blended with water, typically served with chutney or sambar.
+- pos: noun
+  defs:
+  - text: Any of the three regulatory principles of Ayurveda.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: poddy
+title: Is PODDY a Wordle Word?
+head_title: Is PODDY a Wordle Word? Yes – Valid Guess & Meaning
 word: poddy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An unbranded calf.</li><li><strong>Definition 2:</strong> A hand-fed calf or lamb (a young animal needing milk or milk-substitute).</li><li><strong>Definition 3:</strong> (Victoria) An immature mullet.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hand-feed (a young animal).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or pertaining to a pod or pods.</li><li><strong>Definition 2:</strong> Fat, corpulent.</li><li><strong>Definition 3:</strong> (of a young animal) Fed by hand.</li></ul></div></div>"
+description: Yes, PODDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- paddy
+- toddy
+- doddy
+- noddy
+- podgy
+- pondy
+- puddy
+- soddy
+- voddy
+trap:
+  pattern: _ODDY
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: An unbranded calf.
+  - text: A hand-fed calf or lamb (a young animal needing milk or milk-substitute).
+  - text: "(Victoria) An immature mullet."
+- pos: verb
+  defs:
+  - text: To hand-feed (a young animal).
+- pos: adjective
+  defs:
+  - text: Of or pertaining to a pod or pods.
+  - text: Fat, corpulent.
+  - text: "(of a young animal) Fed by hand."
 ---
-

@@ -1,7 +1,56 @@
 ---
 layout: word
-title: goers
+title: Is GOERS a Wordle Word?
+head_title: Is GOERS a Wordle Word? Yes – Valid Guess & Meaning
 word: goers
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who, or that which, goes.</li><li><strong>Definition 2:</strong> Anything, especially a machine such as a motor car, that performs well, or operates successfully.<p><strong>Example:</strong> I bought her secondhand, but she's a good little goer.</p></li><li><strong>Definition 3:</strong> A person, often a woman, who enjoys sexual activity.</li><li><strong>Definition 4:</strong> A foot (body part).</li><li><strong>Definition 5:</strong> A horse, considered in reference to its gait.<p><strong>Example:</strong> a safe goer</p></li></ul></div></div>"
+description: Yes, GOERS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- boers
+- doers
+- goels
+- goors
+- hoers
+- moers
+- roers
+anagrams:
+- ergos
+- esrog
+- gores
+- gorse
+- ogres
+- regos
+- soger
+trap:
+  pattern: _OERS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: One who, or that which, goes.
+  - text: Anything, especially a machine such as a motor car, that performs well,
+      or operates successfully.
+    example: I bought her secondhand, but she's a good little goer.
+  - text: A person, often a woman, who enjoys sexual activity.
+  - text: A foot (body part).
+  - text: A horse, considered in reference to its gait.
+    example: a safe goer
 ---
-

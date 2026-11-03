@@ -1,7 +1,36 @@
 ---
 layout: word
-title: hogan
+title: Is HOGAN a Wordle Word?
+head_title: Is HOGAN a Wordle Word? Yes – Valid Guess & Meaning
 word: hogan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A one-room Navajo dwelling or ceremonial lodge, constructed of wood and earth and covered with mud.</li></ul></div></div>"
+description: Yes, HOGAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- bogan
+- dogan
+- hogen
+- honan
+- logan
+- rogan
+definitions:
+- pos: noun
+  defs:
+  - text: A one-room Navajo dwelling or ceremonial lodge, constructed of wood and
+      earth and covered with mud.
 ---
-

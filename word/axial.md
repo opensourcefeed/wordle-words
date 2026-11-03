@@ -1,7 +1,41 @@
 ---
 layout: word
-title: axial
+title: Is AXIAL a Wordle Word?
+head_title: Is AXIAL a Wordle Word? Yes – Possible Answer & Meaning
 word: axial
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæksi.əl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A flight feather that appears between the primaries and secondaries on some birds.</li><li><strong>Definition 2:</strong> A plane parallel to the surface of a tooth.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Relating to, resembling, or situated on an axis</li><li><strong>Definition 2:</strong> Belonging to the axis of the body, or to the axis of any appendage or organ<p><strong>Example:</strong> the axial bones</p></li><li><strong>Definition 3:</strong> In the same direction as the axis, parallel to the axis.<p><strong>Example:</strong> The secondary xylem usually consists of axial and radial elements.</p></li></ul></div></div>"
+description: Yes, AXIAL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - I
+  - L
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 81
+phonetic: "/ˈæksi.əl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A flight feather that appears between the primaries and secondaries on some
+      birds.
+  - text: A plane parallel to the surface of a tooth.
+- pos: adjective
+  defs:
+  - text: Relating to, resembling, or situated on an axis
+  - text: Belonging to the axis of the body, or to the axis of any appendage or organ
+    example: the axial bones
+  - text: In the same direction as the axis, parallel to the axis.
+    example: The secondary xylem usually consists of axial and radial elements.
 ---
-

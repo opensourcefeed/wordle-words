@@ -1,7 +1,75 @@
 ---
 layout: word
-title: putts
+title: Is PUTTS a Wordle Word?
+head_title: Is PUTTS a Wordle Word? Yes – Valid Guess & Meaning
 word: putts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pʌts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place something somewhere.<p><strong>Example:</strong> She put her books on the table.</p></li><li><strong>Definition 2:</strong> To bring or set into a certain relation, state or condition.<p><strong>Example:</strong> He is putting all his energy into this one task.</p></li><li><strong>Definition 3:</strong> To exercise a put option.<p><strong>Example:</strong> He got out of his Procter and Gamble bet by putting his shares at 80.</p></li><li><strong>Definition 4:</strong> To express something in a certain manner.<p><strong>Example:</strong> When you put it that way, I guess I can see your point.</p></li><li><strong>Definition 5:</strong> To throw a heavy iron ball, as a sport. (See shot put. Do not confuse with putt.)</li><li><strong>Definition 6:</strong> To steer; to direct one's course; to go.</li><li><strong>Definition 7:</strong> To play a card or a hand in the game called put.</li><li><strong>Definition 8:</strong> To attach or attribute; to assign.<p><strong>Example:</strong> to put a wrong construction on an act or expression</p></li><li><strong>Definition 9:</strong> To lay down; to give up; to surrender.</li><li><strong>Definition 10:</strong> To set before one for judgment, acceptance, or rejection; to bring to the attention.<p><strong>Example:</strong> to put a question; to put a case</p></li><li><strong>Definition 11:</strong> To incite; to entice; to urge; to constrain; to oblige.</li><li><strong>Definition 12:</strong> To convey coal in the mine, as for example from the working to the tramway.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of tapping a golf ball lightly on a putting green.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lightly strike a golf ball with a putter.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A regular sound characterized by the sound of \"putt putt putt putt...\", such as made by some slowly stroking internal combustion engines.</li><li><strong>Definition 2:</strong> A motorcycle.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a putting sound.</li><li><strong>Definition 2:</strong> To ride one's motorcycle, to go for a motorcycle ride.</li><li><strong>Definition 3:</strong> To move along slowly.</li></ul></div></div>"
+description: Yes, PUTTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- putty
+- butts
+- mutts
+- potts
+- punts
+- putas
+- putos
+- putti
+- putto
+- puttu
+phonetic: "/pʌts/"
+definitions:
+- pos: verb
+  defs:
+  - text: To place something somewhere.
+    example: She put her books on the table.
+  - text: To bring or set into a certain relation, state or condition.
+    example: He is putting all his energy into this one task.
+  - text: To exercise a put option.
+    example: He got out of his Procter and Gamble bet by putting his shares at 80.
+  - text: To express something in a certain manner.
+    example: When you put it that way, I guess I can see your point.
+  - text: To throw a heavy iron ball, as a sport. (See shot put. Do not confuse with
+      putt.)
+  - text: To steer; to direct one's course; to go.
+  - text: To play a card or a hand in the game called put.
+  - text: To attach or attribute; to assign.
+    example: to put a wrong construction on an act or expression
+  - text: To lay down; to give up; to surrender.
+  - text: To set before one for judgment, acceptance, or rejection; to bring to the
+      attention.
+    example: to put a question; to put a case
+  - text: To incite; to entice; to urge; to constrain; to oblige.
+  - text: To convey coal in the mine, as for example from the working to the tramway.
+- pos: noun
+  defs:
+  - text: The act of tapping a golf ball lightly on a putting green.
+- pos: verb
+  defs:
+  - text: To lightly strike a golf ball with a putter.
+- pos: noun
+  defs:
+  - text: A regular sound characterized by the sound of "putt putt putt putt...",
+      such as made by some slowly stroking internal combustion engines.
+  - text: A motorcycle.
+- pos: verb
+  defs:
+  - text: To make a putting sound.
+  - text: To ride one's motorcycle, to go for a motorcycle ride.
+  - text: To move along slowly.
 ---
-

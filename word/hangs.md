@@ -1,7 +1,86 @@
 ---
 layout: word
-title: hangs
+title: Is HANGS a Wordle Word?
+head_title: Is HANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: hangs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be or remain suspended.<p><strong>Example:</strong> The lights hung from the ceiling.</p></li><li><strong>Definition 2:</strong> To float, as if suspended.<p><strong>Example:</strong> The smoke hung in the room.</p></li><li><strong>Definition 3:</strong> (of a ball in cricket, tennis, etc.) To rebound unexpectedly or unusually slowly, due to backward spin on the ball or imperfections of the ground.</li><li><strong>Definition 4:</strong> To hold or bear in a suspended or inclined manner or position instead of erect.<p><strong>Example:</strong> He hung his head in shame.</p></li><li><strong>Definition 5:</strong> To cause (something) to be suspended, as from a hook, hanger, hinges or the like.<p><strong>Example:</strong> Hang those lights from the ceiling.</p></li><li><strong>Definition 6:</strong> To execute (someone) by suspension from the neck.<p><strong>Example:</strong> The culprits were hanged from the nearest tree.</p></li><li><strong>Definition 7:</strong> To be executed by suspension by one's neck from a gallows, a tree, or other raised bar, attached by a rope tied into a noose.<p><strong>Example:</strong> You will hang for this, my friend.</p></li><li><strong>Definition 8:</strong> (used in maledictions) To damn.</li><li><strong>Definition 9:</strong> To loiter, hang around, to spend time idly.<p><strong>Example:</strong> Are you busy, or can you hang with me?  I didn't see anything, officer. I was just hanging.</p></li><li><strong>Definition 10:</strong> To exhibit (an object) by hanging.</li><li><strong>Definition 11:</strong> To apply (wallpaper or drywall to a wall).<p><strong>Example:</strong> Let's hang this cute animal design in the nursery.</p></li><li><strong>Definition 12:</strong> To decorate (something) with hanging objects.<p><strong>Example:</strong> Let's hang the nursery with some new wallpaper.</p></li><li><strong>Definition 13:</strong> To remain persistently in one's thoughts.</li><li><strong>Definition 14:</strong> To prevent from reaching a decision, especially by refusing to join in a verdict that must be unanimous.<p><strong>Example:</strong> One obstinate juror can hang a jury.</p></li><li><strong>Definition 15:</strong> To stop responding to manual input devices such as keyboard and mouse.<p><strong>Example:</strong> The computer has hung again. Not even pressing ++ works.  When I push this button the program hangs.</p></li><li><strong>Definition 16:</strong> To cause (a program or computer) to stop responding.<p><strong>Example:</strong> The program has a bug that can hang the system.</p></li><li><strong>Definition 17:</strong> To cause (a piece) to become vulnerable to capture.<p><strong>Example:</strong> If you move there, you'll hang your rook.</p></li><li><strong>Definition 18:</strong> To be vulnerable to capture.<p><strong>Example:</strong> In this standard opening position White has to be careful because the pawn on e4 hangs.</p></li><li><strong>Definition 19:</strong> Of a pitcher, to throw a hittable off-speed pitch.</li></ul></div></div>"
+description: Yes, HANGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- bangs
+- cangs
+- dangs
+- fangs
+- gangs
+- haggs
+- hands
+- hangi
+- hanks
+- hants
+- hings
+- hongs
+anagrams:
+- gnash
+- sangh
+trap:
+  pattern: _ANGS
+  count: 15
+definitions:
+- pos: verb
+  defs:
+  - text: To be or remain suspended.
+    example: The lights hung from the ceiling.
+  - text: To float, as if suspended.
+    example: The smoke hung in the room.
+  - text: "(of a ball in cricket, tennis, etc.) To rebound unexpectedly or unusually
+      slowly, due to backward spin on the ball or imperfections of the ground."
+  - text: To hold or bear in a suspended or inclined manner or position instead of
+      erect.
+    example: He hung his head in shame.
+  - text: To cause (something) to be suspended, as from a hook, hanger, hinges or
+      the like.
+    example: Hang those lights from the ceiling.
+  - text: To execute (someone) by suspension from the neck.
+    example: The culprits were hanged from the nearest tree.
+  - text: To be executed by suspension by one's neck from a gallows, a tree, or other
+      raised bar, attached by a rope tied into a noose.
+    example: You will hang for this, my friend.
+  - text: "(used in maledictions) To damn."
+  - text: To loiter, hang around, to spend time idly.
+    example: Are you busy, or can you hang with me?  I didn't see anything, officer.
+      I was just hanging.
+  - text: To exhibit (an object) by hanging.
+  - text: To apply (wallpaper or drywall to a wall).
+    example: Let's hang this cute animal design in the nursery.
+  - text: To decorate (something) with hanging objects.
+    example: Let's hang the nursery with some new wallpaper.
+  - text: To remain persistently in one's thoughts.
+  - text: To prevent from reaching a decision, especially by refusing to join in a
+      verdict that must be unanimous.
+    example: One obstinate juror can hang a jury.
+  - text: To stop responding to manual input devices such as keyboard and mouse.
+    example: The computer has hung again. Not even pressing ++ works.  When I push
+      this button the program hangs.
+  - text: To cause (a program or computer) to stop responding.
+    example: The program has a bug that can hang the system.
+  - text: To cause (a piece) to become vulnerable to capture.
+    example: If you move there, you'll hang your rook.
+  - text: To be vulnerable to capture.
+    example: In this standard opening position White has to be careful because the
+      pawn on e4 hangs.
+  - text: Of a pitcher, to throw a hittable off-speed pitch.
 ---
-

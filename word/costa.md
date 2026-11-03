@@ -1,7 +1,45 @@
 ---
 layout: word
-title: costa
+title: Is COSTA a Wordle Word?
+head_title: Is COSTA a Wordle Word? Yes – Valid Guess & Meaning
 word: costa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rib.</li><li><strong>Definition 2:</strong> A riblike part of a plant or animal, such as a middle rib of a leaf or a thickened vein or the margin of an insect wing.</li></ul></div></div>"
+description: Yes, COSTA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- cesta
+- coste
+- costs
+- cotta
+- couta
+- hosta
+anagrams:
+- ascot
+- coast
+- atocs
+- coats
+- octas
+- tacos
+definitions:
+- pos: noun
+  defs:
+  - text: A rib.
+  - text: A riblike part of a plant or animal, such as a middle rib of a leaf or a
+      thickened vein or the margin of an insect wing.
 ---
-

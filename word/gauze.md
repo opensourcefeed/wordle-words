@@ -1,7 +1,46 @@
 ---
 layout: word
-title: gauze
+title: Is GAUZE a Wordle Word?
+head_title: 'Is GAUZE a Wordle Word? Yes – Past Answer #435 & Meaning'
 word: gauze
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɔːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thin fabric with a loose, open weave.</li><li><strong>Definition 2:</strong> A similar bleached cotton fabric used as a surgical dressing.</li><li><strong>Definition 3:</strong> A thin woven metal or plastic mesh.</li><li><strong>Definition 4:</strong> Wire gauze, used as fence.</li><li><strong>Definition 5:</strong> Mist or haze</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apply a dressing of gauze</li><li><strong>Definition 2:</strong> To mist; to become gauze-like.</li></ul></div></div>"
+description: Yes, GAUZE is a valid Wordle word. It was the Wordle answer on August
+  28, 2022 (#435). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 28, 2022 (#435).
+past_answers:
+- date: '2022-08-28'
+  number: 435
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- gauge
+- gauje
+- gauzy
+phonetic: "/ɡɔːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A thin fabric with a loose, open weave.
+  - text: A similar bleached cotton fabric used as a surgical dressing.
+  - text: A thin woven metal or plastic mesh.
+  - text: Wire gauze, used as fence.
+  - text: Mist or haze
+- pos: verb
+  defs:
+  - text: To apply a dressing of gauze
+  - text: To mist; to become gauze-like.
 ---
-

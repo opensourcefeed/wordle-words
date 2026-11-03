@@ -1,7 +1,43 @@
 ---
 layout: word
-title: elfin
+title: Is ELFIN a Wordle Word?
+head_title: 'Is ELFIN a Wordle Word? Yes – Past Answer #1759 & Meaning'
 word: elfin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛlfɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An elf; an inhabitant of fairy-land.</li><li><strong>Definition 2:</strong> A little urchin or child.</li><li><strong>Definition 3:</strong> Any of the butterflies in the subgenus Incisalia of the North American lycaenid genus Callophrys.</li></ul></div></div>"
+description: Yes, ELFIN is a valid Wordle word. It was the Wordle answer on April
+  13, 2026 (#1759). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 13, 2026 (#1759).
+past_answers:
+- date: '2026-04-13'
+  number: 1759
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- elain
+- eldin
+- eloin
+- elsin
+anagrams:
+- nifle
+phonetic: "/ˈɛlfɪn/"
+definitions:
+- pos: noun
+  defs:
+  - text: An elf; an inhabitant of fairy-land.
+  - text: A little urchin or child.
+  - text: Any of the butterflies in the subgenus Incisalia of the North American lycaenid
+      genus Callophrys.
 ---
-

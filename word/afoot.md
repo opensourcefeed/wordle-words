@@ -1,7 +1,39 @@
 ---
 layout: word
-title: afoot
+title: Is AFOOT a Wordle Word?
+head_title: 'Is AFOOT a Wordle Word? Yes – Past Answer #1743 & Meaning'
 word: afoot
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈfʊt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (predicative) That is on foot, in motion, in action, in progress.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> On foot. (means of locomotion, walking)</li><li><strong>Definition 2:</strong> On foot. (support of the body, standing)</li><li><strong>Definition 3:</strong> In motion; in action; astir; stirring; in progress.</li></ul></div></div>"
+description: Yes, AFOOT is a valid Wordle word. It was the Wordle answer on March
+  28, 2026 (#1743). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 28, 2026 (#1743).
+past_answers:
+- date: '2026-03-28'
+  number: 1743
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - A
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+phonetic: "/əˈfʊt/"
+definitions:
+- pos: adjective
+  defs:
+  - text: "(predicative) That is on foot, in motion, in action, in progress."
+- pos: adverb
+  defs:
+  - text: On foot. (means of locomotion, walking)
+  - text: On foot. (support of the body, standing)
+  - text: In motion; in action; astir; stirring; in progress.
 ---
-

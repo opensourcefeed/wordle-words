@@ -1,7 +1,108 @@
 ---
 layout: word
-title: fires
+title: Is FIRES a Wordle Word?
+head_title: Is FIRES a Wordle Word? Yes – Valid Guess & Meaning
 word: fires
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfaɪ̯ə(ɹ)z/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.</li><li><strong>Definition 2:</strong> An instance of this chemical reaction, especially when intentionally created and maintained in a specific location to a useful end (such as a campfire or a hearth fire).<p><strong>Example:</strong> We sat about the fire singing songs and telling tales.</p></li><li><strong>Definition 3:</strong> The occurrence, often accidental, of fire in a certain place, causing damage and danger.<p><strong>Example:</strong> During hot and dry summers many fires in forests are caused by regardlessly discarded cigarette butts.</p></li><li><strong>Definition 4:</strong> The aforementioned chemical reaction of burning, considered one of the Classical elements or basic elements of alchemy.</li><li><strong>Definition 5:</strong> A heater or stove used in place of a real fire (such as an electric fire).</li><li><strong>Definition 6:</strong> The elements necessary to start a fire.<p><strong>Example:</strong> The fire was laid and needed to be lit.</p></li><li><strong>Definition 7:</strong> The bullets or other projectiles fired from a gun.<p><strong>Example:</strong> The fire from the enemy guns kept us from attacking.</p></li><li><strong>Definition 8:</strong> Strength of passion, whether love or hate.</li><li><strong>Definition 9:</strong> Liveliness of imagination or fancy; intellectual and moral enthusiasm.</li><li><strong>Definition 10:</strong> Splendour; brilliancy; lustre; hence, a star.</li><li><strong>Definition 11:</strong> A severe trial; anything inflaming or provoking.</li><li><strong>Definition 12:</strong> Red coloration in a piece of opal.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To set (something, often a building) on fire.</li><li><strong>Definition 2:</strong> To heat as with fire, but without setting on fire, as ceramic, metal objects, etc.<p><strong>Example:</strong> If you fire the pottery at too high a temperature, it may crack.</p></li><li><strong>Definition 3:</strong> To drive away by setting a fire.</li><li><strong>Definition 4:</strong> To terminate the employment contract of (an employee), especially for cause (such as misconduct or poor performance).</li><li><strong>Definition 5:</strong> To shoot (a gun or analogous device).<p><strong>Example:</strong> He fired his radar gun at passing cars.</p></li><li><strong>Definition 6:</strong> To shoot a gun, cannon, or similar weapon.<p><strong>Example:</strong> Don't fire until you see the whites of their eyes.</p></li><li><strong>Definition 7:</strong> To shoot; to attempt to score a goal.</li><li><strong>Definition 8:</strong> To cause an action potential in a cell.<p><strong>Example:</strong> When a neuron fires, it transmits information.</p></li><li><strong>Definition 9:</strong> To forcibly direct (something).<p><strong>Example:</strong> He answered the questions the reporters fired at him.</p></li><li><strong>Definition 10:</strong> (computer sciences, software engineering) To initiate an event (by means of an event handler).<p><strong>Example:</strong> The event handler should only fire after all web page content has finished loading.</p></li><li><strong>Definition 11:</strong> To inflame; to irritate, as the passions.<p><strong>Example:</strong> to fire the soul with anger, pride, or revenge</p></li><li><strong>Definition 12:</strong> To animate; to give life or spirit to.<p><strong>Example:</strong> to fire the genius of a young man</p></li><li><strong>Definition 13:</strong> To feed or serve the fire of.<p><strong>Example:</strong> to fire a boiler</p></li><li><strong>Definition 14:</strong> To light up as if by fire; to illuminate.</li><li><strong>Definition 15:</strong> To cauterize.</li><li><strong>Definition 16:</strong> To catch fire; to be kindled.</li><li><strong>Definition 17:</strong> To be irritated or inflamed with passion.</li></ul></div></div>"
+description: Yes, FIRES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- cires
+- fares
+- feres
+- fices
+- fides
+- fifes
+- fikes
+- files
+- fines
+- fired
+- firer
+- firks
+anagrams:
+- serif
+- fiers
+- fries
+- frise
+- refis
+- reifs
+trap:
+  pattern: FI_ES
+  count: 9
+phonetic: "/ˈfaɪ̯ə(ɹ)z/"
+definitions:
+- pos: noun
+  defs:
+  - text: A (usually self-sustaining) chemical reaction involving the bonding of oxygen
+      with carbon or other fuel, with the production of heat and the presence of flame
+      or smouldering.
+  - text: An instance of this chemical reaction, especially when intentionally created
+      and maintained in a specific location to a useful end (such as a campfire or
+      a hearth fire).
+    example: We sat about the fire singing songs and telling tales.
+  - text: The occurrence, often accidental, of fire in a certain place, causing damage
+      and danger.
+    example: During hot and dry summers many fires in forests are caused by regardlessly
+      discarded cigarette butts.
+  - text: The aforementioned chemical reaction of burning, considered one of the Classical
+      elements or basic elements of alchemy.
+  - text: A heater or stove used in place of a real fire (such as an electric fire).
+  - text: The elements necessary to start a fire.
+    example: The fire was laid and needed to be lit.
+  - text: The bullets or other projectiles fired from a gun.
+    example: The fire from the enemy guns kept us from attacking.
+  - text: Strength of passion, whether love or hate.
+  - text: Liveliness of imagination or fancy; intellectual and moral enthusiasm.
+  - text: Splendour; brilliancy; lustre; hence, a star.
+  - text: A severe trial; anything inflaming or provoking.
+  - text: Red coloration in a piece of opal.
+- pos: verb
+  defs:
+  - text: To set (something, often a building) on fire.
+  - text: To heat as with fire, but without setting on fire, as ceramic, metal objects,
+      etc.
+    example: If you fire the pottery at too high a temperature, it may crack.
+  - text: To drive away by setting a fire.
+  - text: To terminate the employment contract of (an employee), especially for cause
+      (such as misconduct or poor performance).
+  - text: To shoot (a gun or analogous device).
+    example: He fired his radar gun at passing cars.
+  - text: To shoot a gun, cannon, or similar weapon.
+    example: Don't fire until you see the whites of their eyes.
+  - text: To shoot; to attempt to score a goal.
+  - text: To cause an action potential in a cell.
+    example: When a neuron fires, it transmits information.
+  - text: To forcibly direct (something).
+    example: He answered the questions the reporters fired at him.
+  - text: "(computer sciences, software engineering) To initiate an event (by means
+      of an event handler)."
+    example: The event handler should only fire after all web page content has finished
+      loading.
+  - text: To inflame; to irritate, as the passions.
+    example: to fire the soul with anger, pride, or revenge
+  - text: To animate; to give life or spirit to.
+    example: to fire the genius of a young man
+  - text: To feed or serve the fire of.
+    example: to fire a boiler
+  - text: To light up as if by fire; to illuminate.
+  - text: To cauterize.
+  - text: To catch fire; to be kindled.
+  - text: To be irritated or inflamed with passion.
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: molls
+title: Is MOLLS a Wordle Word?
+head_title: Is MOLLS a Wordle Word? Yes – Valid Guess & Meaning
 word: molls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A female companion of a gangster, especially a former or current prostitute.</li><li><strong>Definition 2:</strong> A prostitute or woman with loose sexual morals.</li><li><strong>Definition 3:</strong> Bitch, slut; an insulting epithet applied to a female.</li><li><strong>Definition 4:</strong> A girlfriend of a bikie.</li><li><strong>Definition 5:</strong> A girlfriend of a surfie; blends with pejorative sense.</li><li><strong>Definition 6:</strong> A female fan of extreme metal, grunge or hardcore punk, especially the girlfriend of a musician of those aforementioned genres.</li></ul></div></div>"
+description: Yes, MOLLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- bolls
+- colls
+- dolls
+- jolls
+- lolls
+- malls
+- mells
+- mills
+- moals
+- moils
+- molas
+- molds
+trap:
+  pattern: _OLLS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A female companion of a gangster, especially a former or current prostitute.
+  - text: A prostitute or woman with loose sexual morals.
+  - text: Bitch, slut; an insulting epithet applied to a female.
+  - text: A girlfriend of a bikie.
+  - text: A girlfriend of a surfie; blends with pejorative sense.
+  - text: A female fan of extreme metal, grunge or hardcore punk, especially the girlfriend
+      of a musician of those aforementioned genres.
 ---
-

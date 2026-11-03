@@ -1,7 +1,33 @@
 ---
 layout: word
-title: ducat
+title: Is DUCAT a Wordle Word?
+head_title: Is DUCAT a Wordle Word? Yes – Valid Guess & Meaning
 word: ducat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʌkət/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A gold coin minted by various European nations.</li><li><strong>Definition 2:</strong> A coin of the major denomination (dollar, euro, etc.); money in general.</li><li><strong>Definition 3:</strong> A ticket.</li></ul></div></div>"
+description: Yes, DUCAT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- ducal
+phonetic: "/ˈdʌkət/"
+definitions:
+- pos: noun
+  defs:
+  - text: A gold coin minted by various European nations.
+  - text: A coin of the major denomination (dollar, euro, etc.); money in general.
+  - text: A ticket.
 ---
-

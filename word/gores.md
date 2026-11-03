@@ -1,7 +1,73 @@
 ---
 layout: word
-title: gores
+title: Is GORES a Wordle Word?
+head_title: Is GORES a Wordle Word? Yes – Valid Guess & Meaning
 word: gores
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of an animal) To pierce with the horn.<p><strong>Example:</strong> The bull gored the matador.</p></li><li><strong>Definition 2:</strong> To pierce with anything pointed, such as a spear.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A triangular piece of land where roads meet.</li><li><strong>Definition 2:</strong> A small piece of land left unincorporated due to competing surveys or a surveying error.</li><li><strong>Definition 3:</strong> The curved surface that lies between two close lines of longitude on a globe</li><li><strong>Definition 4:</strong> A triangular or rhomboid piece of fabric, especially one forming part of a three-dimensional surface such as a sail, skirt, hot-air balloon, etc.Wp</li><li><strong>Definition 5:</strong> An elastic gusset for providing a snug fit in a shoe.</li><li><strong>Definition 6:</strong> A projecting point.</li><li><strong>Definition 7:</strong> One of the abatements, made of two curved lines, meeting in an acute angle in the fesse point.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut in a triangular form.</li><li><strong>Definition 2:</strong> To provide with a gore.<p><strong>Example:</strong> to gore an apron</p></li></ul></div></div>"
+description: Yes, GORES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- bores
+- cores
+- dores
+- fores
+- gares
+- geres
+- gokes
+- goles
+- goras
+- gorbs
+- gored
+- goris
+anagrams:
+- ergos
+- esrog
+- goers
+- gorse
+- ogres
+- regos
+- soger
+trap:
+  pattern: _ORES
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: "(of an animal) To pierce with the horn."
+    example: The bull gored the matador.
+  - text: To pierce with anything pointed, such as a spear.
+- pos: noun
+  defs:
+  - text: A triangular piece of land where roads meet.
+  - text: A small piece of land left unincorporated due to competing surveys or a
+      surveying error.
+  - text: The curved surface that lies between two close lines of longitude on a globe
+  - text: A triangular or rhomboid piece of fabric, especially one forming part of
+      a three-dimensional surface such as a sail, skirt, hot-air balloon, etc.Wp
+  - text: An elastic gusset for providing a snug fit in a shoe.
+  - text: A projecting point.
+  - text: One of the abatements, made of two curved lines, meeting in an acute angle
+      in the fesse point.
+- pos: verb
+  defs:
+  - text: To cut in a triangular form.
+  - text: To provide with a gore.
+    example: to gore an apron
 ---
-

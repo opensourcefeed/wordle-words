@@ -1,7 +1,36 @@
 ---
 layout: word
-title: bayou
+title: Is BAYOU a Wordle Word?
+head_title: 'Is BAYOU a Wordle Word? Yes – Past Answer #344 & Meaning'
 word: bayou
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbaɪ.oʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slow-moving, often stagnant creek or river.</li><li><strong>Definition 2:</strong> A swamp, a marshy (stagnant) body of water.</li></ul></div></div>"
+description: Yes, BAYOU is a valid Wordle word. It was the Wordle answer on May 29,
+  2022 (#344). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 29, 2022 (#344).
+past_answers:
+- date: '2022-05-29'
+  number: 344
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+anagrams:
+- boyau
+phonetic: "/ˈbaɪ.oʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A slow-moving, often stagnant creek or river.
+  - text: A swamp, a marshy (stagnant) body of water.
 ---
-

@@ -1,7 +1,37 @@
 ---
 layout: word
-title: raspy
+title: Is RASPY a Wordle Word?
+head_title: Is RASPY a Wordle Word? Yes – Possible Answer & Meaning
 word: raspy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of sound) Rough, raw, especially used to describe vocal quality.<p><strong>Example:</strong> His incessant coughing made his voice sound raspy.</p></li><li><strong>Definition 2:</strong> Irritable.</li></ul></div></div>"
+description: Yes, RASPY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- gaspy
+- paspy
+- rasps
+- waspy
+anagrams:
+- spray
+- prays
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of sound) Rough, raw, especially used to describe vocal quality."
+    example: His incessant coughing made his voice sound raspy.
+  - text: Irritable.
 ---
-

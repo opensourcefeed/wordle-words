@@ -1,7 +1,49 @@
 ---
 layout: word
-title: limed
+title: Is LIMED a Wordle Word?
+head_title: Is LIMED a Wordle Word? Yes – Valid Guess & Meaning
 word: limed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To treat with calcium hydroxide or calcium oxide (lime).</li><li><strong>Definition 2:</strong> To smear with birdlime.</li><li><strong>Definition 3:</strong> To apply limewash.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hang out/socialize in an informal, relaxed environment, especially with friends, for example at a party or on the beach.</li></ul></div></div>"
+description: Yes, LIMED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- aimed
+- lamed
+- lemed
+- liked
+- limen
+- limes
+- limey
+- lined
+- lited
+- lived
+- lomed
+- mimed
+definitions:
+- pos: verb
+  defs:
+  - text: To treat with calcium hydroxide or calcium oxide (lime).
+  - text: To smear with birdlime.
+  - text: To apply limewash.
+- pos: verb
+  defs:
+  - text: To hang out/socialize in an informal, relaxed environment, especially with
+      friends, for example at a party or on the beach.
 ---
-

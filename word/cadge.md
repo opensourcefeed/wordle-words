@@ -1,7 +1,56 @@
 ---
 layout: word
-title: cadge
+title: Is CADGE a Wordle Word?
+head_title: Is CADGE a Wordle Word? Yes – Valid Guess & Meaning
 word: cadge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kædʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A circular frame on which cadgers carry hawks for sale.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To beg.<p><strong>Example:</strong> \"Are ye gannin te cadge a lift of yoer fatha?\"</p></li><li><strong>Definition 2:</strong> To obtain something by wit or guile; to convince people to do something they might not normally do.</li><li><strong>Definition 3:</strong> To carry hawks and other birds of prey.</li><li><strong>Definition 4:</strong> To carry, as a burden.</li><li><strong>Definition 5:</strong> To hawk or peddle, as fish, poultry, etc.</li><li><strong>Definition 6:</strong> To intrude or live on another meanly; to beg.</li></ul></div></div>"
+description: Yes, CADGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- badge
+- cadee
+- cadgy
+- cadie
+- cadre
+- fadge
+- gadge
+- madge
+- radge
+- vadge
+- wadge
+anagrams:
+- caged
+trap:
+  pattern: _ADGE
+  count: 8
+phonetic: "/kædʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A circular frame on which cadgers carry hawks for sale.
+- pos: verb
+  defs:
+  - text: To beg.
+    example: '"Are ye gannin te cadge a lift of yoer fatha?"'
+  - text: To obtain something by wit or guile; to convince people to do something
+      they might not normally do.
+  - text: To carry hawks and other birds of prey.
+  - text: To carry, as a burden.
+  - text: To hawk or peddle, as fish, poultry, etc.
+  - text: To intrude or live on another meanly; to beg.
 ---
-

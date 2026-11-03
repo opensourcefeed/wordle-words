@@ -1,7 +1,36 @@
 ---
 layout: word
-title: pshaw
+title: Is PSHAW a Wordle Word?
+head_title: 'Is PSHAW a Wordle Word? Yes – Past Answer #1852 & Meaning'
 word: pshaw
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pʃɔː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To express disgust or contempt.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Indicating disapproval, scoffery, irritation, impatience or disbelief.<p><strong>Example:</strong> Pshaw! I can't believe it!</p></li></ul></div></div>"
+description: Yes, PSHAW is a valid Wordle word. It was the Wordle answer on July 15,
+  2026 (#1852). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 15, 2026 (#1852).
+past_answers:
+- date: '2026-07-15'
+  number: 1852
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 71
+anagrams:
+- whaps
+phonetic: "/pʃɔː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To express disgust or contempt.
+- pos: interjection
+  defs:
+  - text: Indicating disapproval, scoffery, irritation, impatience or disbelief.
+    example: Pshaw! I can't believe it!
 ---
-

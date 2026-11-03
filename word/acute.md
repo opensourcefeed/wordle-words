@@ -1,7 +1,72 @@
 ---
 layout: word
-title: acute
+title: Is ACUTE a Wordle Word?
+head_title: 'Is ACUTE a Wordle Word? Yes – Past Answer #1833 & Meaning'
 word: acute
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who has the acute form of a disorder, such as schizophrenia.</li><li><strong>Definition 2:</strong> An accent or tone higher than others.</li><li><strong>Definition 3:</strong> An acute accent (´).<p><strong>Example:</strong> The word ‘cafe’ often has an acute over the ‘e’.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give an acute sound to.<p><strong>Example:</strong> He acutes his rising inflection too much.</p></li><li><strong>Definition 2:</strong> To make acute; to sharpen, to whet.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Brief, quick, short.<p><strong>Example:</strong> It was an acute event.</p></li><li><strong>Definition 2:</strong> High or shrill.<p><strong>Example:</strong> an acute accent or tone</p></li><li><strong>Definition 3:</strong> Intense, sensitive, sharp.<p><strong>Example:</strong> She had an acute sense of honour.  Eagles have very acute vision.</p></li><li><strong>Definition 4:</strong> Urgent.<p><strong>Example:</strong> His need for medical attention was acute.</p></li><li><strong>Definition 5:</strong> With the sides meeting directly to form an acute angle (at an apex or base).</li><li><strong>Definition 6:</strong> Of an angle: less than 90 degrees.<p><strong>Example:</strong> The teacher pointed out the acute angle.</p></li><li><strong>Definition 7:</strong> Of a triangle: having all three interior angles measuring less than 90 degrees.<p><strong>Example:</strong> an acute triangle</p></li><li><strong>Definition 8:</strong> Of an accent or tone: generally higher than others.</li><li><strong>Definition 9:</strong> Of an abnormal condition of recent or sudden onset, in contrast to delayed onset; this sense does not imply severity, unlike the common usage.<p><strong>Example:</strong> He dropped dead of an acute illness.</p></li><li><strong>Definition 10:</strong> Of a short-lived condition, in contrast to a chronic condition; this sense also does not imply severity.<p><strong>Example:</strong> The acute symptoms resolved promptly.</p></li><li><strong>Definition 11:</strong> After a letter of the alphabet: having an acute accent.<p><strong>Example:</strong> The last letter of ‘café’ is ‘e’ acute.</p></li></ul></div></div>"
+description: Yes, ACUTE is a valid Wordle word. It was the Wordle answer on December
+  26, 2021 (#190) and June 26, 2026 (#1833). See its meaning, starter rating and similar
+  words.
+status: past
+answer_text: It was the Wordle answer on December 26, 2021 (#190) and June 26, 2026
+  (#1833).
+past_answers:
+- date: '2021-12-26'
+  number: 190
+- date: '2026-06-26'
+  number: 1833
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- scute
+definitions:
+- pos: noun
+  defs:
+  - text: A person who has the acute form of a disorder, such as schizophrenia.
+  - text: An accent or tone higher than others.
+  - text: An acute accent (´).
+    example: The word ‘cafe’ often has an acute over the ‘e’.
+- pos: verb
+  defs:
+  - text: To give an acute sound to.
+    example: He acutes his rising inflection too much.
+  - text: To make acute; to sharpen, to whet.
+- pos: adjective
+  defs:
+  - text: Brief, quick, short.
+    example: It was an acute event.
+  - text: High or shrill.
+    example: an acute accent or tone
+  - text: Intense, sensitive, sharp.
+    example: She had an acute sense of honour.  Eagles have very acute vision.
+  - text: Urgent.
+    example: His need for medical attention was acute.
+  - text: With the sides meeting directly to form an acute angle (at an apex or base).
+  - text: 'Of an angle: less than 90 degrees.'
+    example: The teacher pointed out the acute angle.
+  - text: 'Of a triangle: having all three interior angles measuring less than 90
+      degrees.'
+    example: an acute triangle
+  - text: 'Of an accent or tone: generally higher than others.'
+  - text: Of an abnormal condition of recent or sudden onset, in contrast to delayed
+      onset; this sense does not imply severity, unlike the common usage.
+    example: He dropped dead of an acute illness.
+  - text: Of a short-lived condition, in contrast to a chronic condition; this sense
+      also does not imply severity.
+    example: The acute symptoms resolved promptly.
+  - text: 'After a letter of the alphabet: having an acute accent.'
+    example: The last letter of ‘café’ is ‘e’ acute.
 ---
-

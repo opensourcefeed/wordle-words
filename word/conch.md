@@ -1,7 +1,54 @@
 ---
 layout: word
-title: conch
+title: Is CONCH a Wordle Word?
+head_title: 'Is CONCH a Wordle Word? Yes – Past Answer #1647 & Meaning'
 word: conch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɒntʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A marine gastropod of the family Strombidae which lives in its own spiral shell.</li><li><strong>Definition 2:</strong> The shell of this sea animal.</li><li><strong>Definition 3:</strong> A musical instrument made from a large spiral seashell, somewhat like a trumpet.</li><li><strong>Definition 4:</strong> The semidome of an apse, or the apse itself.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To refine the flavour and texture of chocolate by warming and grinding, either in a traditional concher, or between rollers.</li><li><strong>Definition 2:</strong> To play a conch seashell as a musical instrument, by blowing through a hole made close to the origin of the spiral.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A machine (rather like a rotating pestle and mortar) used to refine the flavour and texture of chocolate by warming and grinding.</li><li><strong>Definition 2:</strong> A person who operates such a machine.</li></ul></div></div>"
+description: Yes, CONCH is a valid Wordle word. It was the Wordle answer on December
+  22, 2025 (#1647). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 22, 2025 (#1647).
+past_answers:
+- date: '2025-12-22'
+  number: 1647
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- cinch
+- coach
+- couch
+- cooch
+- cotch
+- gonch
+phonetic: "/kɒntʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A marine gastropod of the family Strombidae which lives in its own spiral
+      shell.
+  - text: The shell of this sea animal.
+  - text: A musical instrument made from a large spiral seashell, somewhat like a
+      trumpet.
+  - text: The semidome of an apse, or the apse itself.
+- pos: verb
+  defs:
+  - text: To refine the flavour and texture of chocolate by warming and grinding,
+      either in a traditional concher, or between rollers.
+  - text: To play a conch seashell as a musical instrument, by blowing through a hole
+      made close to the origin of the spiral.
+- pos: noun
+  defs:
+  - text: A machine (rather like a rotating pestle and mortar) used to refine the
+      flavour and texture of chocolate by warming and grinding.
+  - text: A person who operates such a machine.
 ---
-

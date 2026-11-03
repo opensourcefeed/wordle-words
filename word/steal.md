@@ -1,7 +1,89 @@
 ---
 layout: word
-title: steal
+title: Is STEAL a Wordle Word?
+head_title: Is STEAL a Wordle Word? Yes – Possible Answer & Meaning
 word: steal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stiːl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of stealing.</li><li><strong>Definition 2:</strong> A piece of merchandise available at a very attractive price.<p><strong>Example:</strong> At this price, this car is a steal.</p></li><li><strong>Definition 3:</strong> A situation in which a defensive player actively takes possession of the ball or puck from the opponent's team.</li><li><strong>Definition 4:</strong> A stolen base.</li><li><strong>Definition 5:</strong> Scoring in an end without the hammer.</li><li><strong>Definition 6:</strong> A policy in database systems that a database follows which allows a transaction to be written on nonvolatile storage before its commit occurs.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take illegally, or without the owner's permission, something owned by someone else.<p><strong>Example:</strong> Three irreplaceable paintings were stolen from the gallery.</p></li><li><strong>Definition 2:</strong> (of ideas, words, music, a look, credit, etc.) To appropriate without giving credit or acknowledgement.<p><strong>Example:</strong> They stole my idea for a biodegradable, disposable garbage de-odorizer.</p></li><li><strong>Definition 3:</strong> To get or effect surreptitiously or artfully.<p><strong>Example:</strong> He stole glances at the pretty woman across the street.</p></li><li><strong>Definition 4:</strong> To acquire at a low price.<p><strong>Example:</strong> He stole the car for two thousand less than its book value.</p></li><li><strong>Definition 5:</strong> To draw attention unexpectedly in (an entertainment), especially by being the outstanding performer. Usually used in the phrase steal the show.</li><li><strong>Definition 6:</strong> To move silently or secretly.<p><strong>Example:</strong> He stole across the room, trying not to wake her.</p></li><li><strong>Definition 7:</strong> To convey (something) clandestinely.</li><li><strong>Definition 8:</strong> To withdraw or convey (oneself) clandestinely.</li><li><strong>Definition 9:</strong> To advance safely to (another base) during the delivery of a pitch, without the aid of a hit, walk, passed ball, wild pitch, or defensive indifference.</li><li><strong>Definition 10:</strong> To dispossess</li><li><strong>Definition 11:</strong> To borrow for a short moment.<p><strong>Example:</strong> Can I steal your pen?</p></li></ul></div></div>"
+description: Yes, STEAL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  - A
+  - L
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- stead
+- steak
+- steam
+- steel
+- sheal
+- speal
+- stean
+- stear
+- steil
+- stell
+- sweal
+anagrams:
+- least
+- slate
+- stale
+- leats
+- salet
+- setal
+- stela
+- taels
+- tales
+- teals
+- tesla
+trap:
+  pattern: STEA_
+  count: 6
+phonetic: "/stiːl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of stealing.
+  - text: A piece of merchandise available at a very attractive price.
+    example: At this price, this car is a steal.
+  - text: A situation in which a defensive player actively takes possession of the
+      ball or puck from the opponent's team.
+  - text: A stolen base.
+  - text: Scoring in an end without the hammer.
+  - text: A policy in database systems that a database follows which allows a transaction
+      to be written on nonvolatile storage before its commit occurs.
+- pos: verb
+  defs:
+  - text: To take illegally, or without the owner's permission, something owned by
+      someone else.
+    example: Three irreplaceable paintings were stolen from the gallery.
+  - text: "(of ideas, words, music, a look, credit, etc.) To appropriate without giving
+      credit or acknowledgement."
+    example: They stole my idea for a biodegradable, disposable garbage de-odorizer.
+  - text: To get or effect surreptitiously or artfully.
+    example: He stole glances at the pretty woman across the street.
+  - text: To acquire at a low price.
+    example: He stole the car for two thousand less than its book value.
+  - text: To draw attention unexpectedly in (an entertainment), especially by being
+      the outstanding performer. Usually used in the phrase steal the show.
+  - text: To move silently or secretly.
+    example: He stole across the room, trying not to wake her.
+  - text: To convey (something) clandestinely.
+  - text: To withdraw or convey (oneself) clandestinely.
+  - text: To advance safely to (another base) during the delivery of a pitch, without
+      the aid of a hit, walk, passed ball, wild pitch, or defensive indifference.
+  - text: To dispossess
+  - text: To borrow for a short moment.
+    example: Can I steal your pen?
 ---
-

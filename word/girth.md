@@ -1,7 +1,57 @@
 ---
 layout: word
-title: girth
+title: Is GIRTH a Wordle Word?
+head_title: 'Is GIRTH a Wordle Word? Yes – Past Answer #355 & Meaning'
 word: girth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɜːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A band passed under the belly of an animal, which holds a saddle or a harness saddle in place.</li><li><strong>Definition 2:</strong> The part of an animal around which the girth fits.</li><li><strong>Definition 3:</strong> One's waistline circumference, most often a large one.</li><li><strong>Definition 4:</strong> A small horizontal brace or girder.</li><li><strong>Definition 5:</strong> The distance measured around an object.</li><li><strong>Definition 6:</strong> The length of the shortest cycle in a graph.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bind as if with a girth or band.</li></ul></div></div>"
+description: Yes, GIRTH is a valid Wordle word. It was the Wordle answer on June 9,
+  2022 (#355). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 9, 2022 (#355).
+past_answers:
+- date: '2022-06-09'
+  number: 355
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- birth
+- mirth
+- airth
+- firth
+- garth
+- girsh
+- girts
+- tirth
+- yirth
+anagrams:
+- right
+- grith
+trap:
+  pattern: _IRTH
+  count: 7
+phonetic: "/ɡɜːθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A band passed under the belly of an animal, which holds a saddle or a harness
+      saddle in place.
+  - text: The part of an animal around which the girth fits.
+  - text: One's waistline circumference, most often a large one.
+  - text: A small horizontal brace or girder.
+  - text: The distance measured around an object.
+  - text: The length of the shortest cycle in a graph.
+- pos: verb
+  defs:
+  - text: To bind as if with a girth or band.
 ---
-

@@ -1,7 +1,32 @@
 ---
 layout: word
-title: rhumb
+title: Is RHUMB a Wordle Word?
+head_title: Is RHUMB a Wordle Word? Yes – Valid Guess & Meaning
 word: rhumb
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹʌm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A line which crosses successive meridians at a constant angle</li><li><strong>Definition 2:</strong> One of the 32 points of the compass (compass points)</li><li><strong>Definition 3:</strong> A unit of angular measure equal to 1/32 of a circle or 11.25°</li></ul></div></div>"
+description: Yes, RHUMB is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- thumb
+- rhomb
+phonetic: "/ɹʌm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A line which crosses successive meridians at a constant angle
+  - text: One of the 32 points of the compass (compass points)
+  - text: A unit of angular measure equal to 1/32 of a circle or 11.25°
 ---
-

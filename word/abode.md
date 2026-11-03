@@ -1,7 +1,59 @@
 ---
 layout: word
-title: abode
+title: Is ABODE a Wordle Word?
+head_title: Is ABODE a Wordle Word? Yes – Possible Answer & Meaning
 word: abode
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈbəʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To endure without yielding; to withstand; await defiantly; to encounter; to persevere.<p><strong>Example:</strong> The old oak tree abides the wind endlessly.</p></li><li><strong>Definition 2:</strong> To bear patiently; to tolerate; to put up with; stand.</li><li><strong>Definition 3:</strong> To pay for; to stand the consequences of; to answer for; to suffer for; to atone for.</li><li><strong>Definition 4:</strong> To wait in expectation.</li><li><strong>Definition 5:</strong> To pause; to delay.</li><li><strong>Definition 6:</strong> To stay; to continue in a place; to remain stable or fixed in some state or condition; to be left.</li><li><strong>Definition 7:</strong> To have one's abode; to dwell; to reside; to sojourn.</li><li><strong>Definition 8:</strong> To endure; to remain; to last.</li><li><strong>Definition 9:</strong> To stand ready for; to await for someone; watch for.</li><li><strong>Definition 10:</strong> To endure or undergo a hard trial or a task; to stand up under.</li><li><strong>Definition 11:</strong> To await submissively; accept without question; submit to.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Act of waiting; delay.</li><li><strong>Definition 2:</strong> Stay or continuance in a place; sojourn.</li><li><strong>Definition 3:</strong> A residence, dwelling or habitation.<p><strong>Example:</strong> of no fixed abode</p></li></ul></div></div>"
+description: Yes, ABODE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- abide
+- above
+- anode
+- abore
+- apode
+anagrams:
+- adobe
+phonetic: "/əˈbəʊd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To endure without yielding; to withstand; await defiantly; to encounter;
+      to persevere.
+    example: The old oak tree abides the wind endlessly.
+  - text: To bear patiently; to tolerate; to put up with; stand.
+  - text: To pay for; to stand the consequences of; to answer for; to suffer for;
+      to atone for.
+  - text: To wait in expectation.
+  - text: To pause; to delay.
+  - text: To stay; to continue in a place; to remain stable or fixed in some state
+      or condition; to be left.
+  - text: To have one's abode; to dwell; to reside; to sojourn.
+  - text: To endure; to remain; to last.
+  - text: To stand ready for; to await for someone; watch for.
+  - text: To endure or undergo a hard trial or a task; to stand up under.
+  - text: To await submissively; accept without question; submit to.
+- pos: noun
+  defs:
+  - text: Act of waiting; delay.
+  - text: Stay or continuance in a place; sojourn.
+  - text: A residence, dwelling or habitation.
+    example: of no fixed abode
 ---
-

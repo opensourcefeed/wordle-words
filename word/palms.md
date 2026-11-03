@@ -1,7 +1,74 @@
 ---
 layout: word
-title: palms
+title: Is PALMS a Wordle Word?
+head_title: Is PALMS a Wordle Word? Yes – Valid Guess & Meaning
 word: palms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.</li><li><strong>Definition 2:</strong> A branch or leaf of the palm, anciently borne or worn as a symbol of victory or rejoicing.</li><li><strong>Definition 3:</strong> (by extension) Triumph; victory.</li><li><strong>Definition 4:</strong> Any of 23 awards that can be earned after obtaining the Eagle Scout rank, but generally only before turning 18 years old.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.</li><li><strong>Definition 2:</strong> The corresponding part of the forefoot of a lower mammal.</li><li><strong>Definition 3:</strong> A linear measure equal either to the breadth of the hand or to its length from the wrist to the ends of the fingers; a hand; used in measuring a horse's height.</li><li><strong>Definition 4:</strong> (sailmaking) A metallic disk attached to a strap and worn in the palm of the hand; used to push the needle through the canvas, in sewing sails, etc.</li><li><strong>Definition 5:</strong> The broad flattened part of an antler, as of a full-grown fallow deer; so called as resembling the palm of the hand with its protruding fingers.</li><li><strong>Definition 6:</strong> The flat inner face of an anchor fluke.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hold or conceal something in the palm of the hand, e.g, for an act of sleight of hand or to steal something.</li><li><strong>Definition 2:</strong> To hold something without bending the fingers significantly.<p><strong>Example:</strong> John palmed the ball.</p></li><li><strong>Definition 3:</strong> To move something with the palm of the hand.</li></ul></div></div>"
+description: Yes, PALMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- balms
+- calms
+- halms
+- malms
+- palas
+- pales
+- palis
+- palls
+- palmy
+- palps
+- palus
+- parms
+anagrams:
+- psalm
+- lamps
+- plasm
+trap:
+  pattern: PAL_S
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various evergreen trees from the family Palmae or Arecaceae, which
+      are mainly found in the tropics.
+  - text: A branch or leaf of the palm, anciently borne or worn as a symbol of victory
+      or rejoicing.
+  - text: "(by extension) Triumph; victory."
+  - text: Any of 23 awards that can be earned after obtaining the Eagle Scout rank,
+      but generally only before turning 18 years old.
+- pos: noun
+  defs:
+  - text: The inner and somewhat concave part of the human hand that extends from
+      the wrist to the bases of the fingers.
+  - text: The corresponding part of the forefoot of a lower mammal.
+  - text: A linear measure equal either to the breadth of the hand or to its length
+      from the wrist to the ends of the fingers; a hand; used in measuring a horse's
+      height.
+  - text: "(sailmaking) A metallic disk attached to a strap and worn in the palm of
+      the hand; used to push the needle through the canvas, in sewing sails, etc."
+  - text: The broad flattened part of an antler, as of a full-grown fallow deer; so
+      called as resembling the palm of the hand with its protruding fingers.
+  - text: The flat inner face of an anchor fluke.
+- pos: verb
+  defs:
+  - text: To hold or conceal something in the palm of the hand, e.g, for an act of
+      sleight of hand or to steal something.
+  - text: To hold something without bending the fingers significantly.
+    example: John palmed the ball.
+  - text: To move something with the palm of the hand.
 ---
-

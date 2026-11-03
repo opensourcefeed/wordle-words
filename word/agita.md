@@ -1,7 +1,38 @@
 ---
 layout: word
-title: agita
+title: Is AGITA a Wordle Word?
+head_title: Is AGITA a Wordle Word? Yes – Valid Guess & Meaning
 word: agita
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæ.dʒɪ.tə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Dyspepsia</li><li><strong>Definition 2:</strong> Mental aggravation; annoyance</li></ul></div></div>"
+description: Yes, AGITA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- agila
+- akita
+anagrams:
+- gaita
+- taiga
+phonetic: "/ˈæ.dʒɪ.tə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Dyspepsia
+  - text: Mental aggravation; annoyance
 ---
-

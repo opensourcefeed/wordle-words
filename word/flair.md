@@ -1,7 +1,49 @@
 ---
 layout: word
-title: flair
+title: Is FLAIR a Wordle Word?
+head_title: 'Is FLAIR a Wordle Word? Yes – Past Answer #303 & Meaning'
 word: flair
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /flɛə̯/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A natural or innate talent or aptitude.<p><strong>Example:</strong> to have a flair for art</p></li><li><strong>Definition 2:</strong> Distinctive style or elegance.<p><strong>Example:</strong> to dress with flair</p></li><li><strong>Definition 3:</strong> Smell; odor.</li><li><strong>Definition 4:</strong> Olfaction; sense of smell.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To add flair.</li></ul></div></div>"
+description: Yes, FLAIR is a valid Wordle word. It was the Wordle answer on April
+  18, 2022 (#303). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 18, 2022 (#303).
+past_answers:
+- date: '2022-04-18'
+  number: 303
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- flail
+- clair
+- glair
+anagrams:
+- frail
+- filar
+phonetic: "/flɛə̯/"
+definitions:
+- pos: noun
+  defs:
+  - text: A natural or innate talent or aptitude.
+    example: to have a flair for art
+  - text: Distinctive style or elegance.
+    example: to dress with flair
+  - text: Smell; odor.
+  - text: Olfaction; sense of smell.
+- pos: verb
+  defs:
+  - text: To add flair.
 ---
-

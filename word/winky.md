@@ -1,7 +1,45 @@
 ---
 layout: word
-title: winky
+title: Is WINKY a Wordle Word?
+head_title: Is WINKY a Wordle Word? Yes – Valid Guess & Meaning
 word: winky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An emoticon or smiley that shows a winking face.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Tending to wink; winking</li></ul></div></div>"
+description: Yes, WINKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- kinky
+- pinky
+- windy
+- binky
+- dinky
+- hinky
+- linky
+- sinky
+- wicky
+- winey
+- wingy
+- winks
+trap:
+  pattern: _INKY
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: An emoticon or smiley that shows a winking face.
+- pos: adjective
+  defs:
+  - text: Tending to wink; winking
 ---
-

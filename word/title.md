@@ -1,7 +1,61 @@
 ---
 layout: word
-title: title
+title: Is TITLE a Wordle Word?
+head_title: 'Is TITLE a Wordle Word? Yes – Past Answer #1203 & Meaning'
 word: title
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtaɪtl̩/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A prefix (honorific) or suffix (post-nominal) added to a person's name to signify either veneration, official position or a professional or academic qualification. See also</li><li><strong>Definition 2:</strong> Legal right to ownership of a property; a deed or other certificate proving this.<p><strong>Example:</strong> a good title to an estate, or an imperfect title</p></li><li><strong>Definition 3:</strong> In canon law, that by which a beneficiary holds a benefice.</li><li><strong>Definition 4:</strong> A church to which a priest was ordained, and where he was to reside.</li><li><strong>Definition 5:</strong> The name of a book, film, musical piece, painting, or other work of art.<p><strong>Example:</strong> I know the singer's name, but not the title of the song.</p></li><li><strong>Definition 6:</strong> A publication.<p><strong>Example:</strong> Buyers of the new video game console can choose from three bundled titles.</p></li><li><strong>Definition 7:</strong> A section or division of a subject, as of a law or a book.</li><li><strong>Definition 8:</strong> (chiefly in the plural) A written title, credit, or caption shown with a film, video, or performance.<p><strong>Example:</strong> The titles scrolled by too quickly to read.</p></li><li><strong>Definition 9:</strong> The panel for the name, between the bands of the back of a book.</li><li><strong>Definition 10:</strong> The subject of a writing; a short phrase that summarizes the entire topic.</li><li><strong>Definition 11:</strong> A division of an act of law<p><strong>Example:</strong> Title II of the USA PATRIOT Act</p></li><li><strong>Definition 12:</strong> The recognition given to the winner of a championship in sports.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To assign a title to; to entitle.</li></ul></div></div>"
+description: Yes, TITLE is a valid Wordle word. It was the Wordle answer on October
+  4, 2024 (#1203). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 4, 2024 (#1203).
+past_answers:
+- date: '2024-10-04'
+  number: 1203
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- tithe
+- titre
+phonetic: "/ˈtaɪtl̩/"
+definitions:
+- pos: noun
+  defs:
+  - text: A prefix (honorific) or suffix (post-nominal) added to a person's name to
+      signify either veneration, official position or a professional or academic qualification.
+      See also
+  - text: Legal right to ownership of a property; a deed or other certificate proving
+      this.
+    example: a good title to an estate, or an imperfect title
+  - text: In canon law, that by which a beneficiary holds a benefice.
+  - text: A church to which a priest was ordained, and where he was to reside.
+  - text: The name of a book, film, musical piece, painting, or other work of art.
+    example: I know the singer's name, but not the title of the song.
+  - text: A publication.
+    example: Buyers of the new video game console can choose from three bundled titles.
+  - text: A section or division of a subject, as of a law or a book.
+  - text: "(chiefly in the plural) A written title, credit, or caption shown with
+      a film, video, or performance."
+    example: The titles scrolled by too quickly to read.
+  - text: The panel for the name, between the bands of the back of a book.
+  - text: The subject of a writing; a short phrase that summarizes the entire topic.
+  - text: A division of an act of law
+    example: Title II of the USA PATRIOT Act
+  - text: The recognition given to the winner of a championship in sports.
+- pos: verb
+  defs:
+  - text: To assign a title to; to entitle.
 ---
-

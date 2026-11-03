@@ -1,7 +1,48 @@
 ---
 layout: word
-title: manta
+title: Is MANTA a Wordle Word?
+head_title: Is MANTA a Wordle Word? Yes – Valid Guess & Meaning
 word: manta
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A kind of fabric or blanket used in Latin America and southwestern United States.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several very large pelagic rays of the genus Manta, with winglike pectoral fins, a long tail, and two fins resembling horns that project from the head.</li></ul></div></div>"
+description: Yes, MANTA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- manga
+- mania
+- manna
+- manoa
+- mante
+- manto
+- mants
+- manty
+- menta
+- wanta
+anagrams:
+- atman
+- manat
+definitions:
+- pos: noun
+  defs:
+  - text: A kind of fabric or blanket used in Latin America and southwestern United
+      States.
+- pos: noun
+  defs:
+  - text: Any of several very large pelagic rays of the genus Manta, with winglike
+      pectoral fins, a long tail, and two fins resembling horns that project from
+      the head.
 ---
-

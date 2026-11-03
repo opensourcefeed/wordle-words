@@ -1,7 +1,42 @@
 ---
 layout: word
-title: cyber
+title: Is CYBER a Wordle Word?
+head_title: 'Is CYBER a Wordle Word? Yes – Past Answer #1296 & Meaning'
 word: cyber
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Everything having to do with the Internet considered collectively.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To engage in cybersex.<p><strong>Example:</strong> Wanna cyber?</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, or having to do with, the Internet; alternative spelling of cyber-</li><li><strong>Definition 2:</strong> Cybergoth.</li></ul></div></div>"
+description: Yes, CYBER is a valid Wordle word. It was the Wordle answer on January
+  5, 2025 (#1296). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 5, 2025 (#1296).
+past_answers:
+- date: '2025-01-05'
+  number: 1296
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- caber
+- cuber
+- cyder
+definitions:
+- pos: noun
+  defs:
+  - text: Everything having to do with the Internet considered collectively.
+- pos: verb
+  defs:
+  - text: To engage in cybersex.
+    example: Wanna cyber?
+- pos: adjective
+  defs:
+  - text: Of, or having to do with, the Internet; alternative spelling of cyber-
+  - text: Cybergoth.
 ---
-

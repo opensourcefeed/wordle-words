@@ -1,7 +1,45 @@
 ---
 layout: word
-title: tiara
+title: Is TIARA a Wordle Word?
+head_title: 'Is TIARA a Wordle Word? Yes – Past Answer #342 & Meaning'
 word: tiara
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tiˈɑːɹə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The papal crown.</li><li><strong>Definition 2:</strong> An ornamental coronet.</li></ul></div></div>"
+description: Yes, TIARA is a valid Wordle word. It was the Wordle answer on May 27,
+  2022 (#342). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 27, 2022 (#342).
+past_answers:
+- date: '2022-05-27'
+  number: 342
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - T
+  - I
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- tiare
+- tiars
+anagrams:
+- aarti
+- atria
+- raita
+- riata
+- taira
+phonetic: "/tiˈɑːɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The papal crown.
+  - text: An ornamental coronet.
 ---
-

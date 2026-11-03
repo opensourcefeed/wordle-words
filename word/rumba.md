@@ -1,7 +1,38 @@
 ---
 layout: word
-title: rumba
+title: Is RUMBA a Wordle Word?
+head_title: 'Is RUMBA a Wordle Word? Yes – Past Answer #1335 & Meaning'
 word: rumba
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A slow-paced Cuban partner dance in 4:4 time.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dance the rumba</li></ul></div></div>"
+description: Yes, RUMBA is a valid Wordle word. It was the Wordle answer on February
+  13, 2025 (#1335). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 13, 2025 (#1335).
+past_answers:
+- date: '2025-02-13'
+  number: 1335
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- rumbo
+anagrams:
+- umbra
+definitions:
+- pos: noun
+  defs:
+  - text: A slow-paced Cuban partner dance in 4:4 time.
+- pos: verb
+  defs:
+  - text: To dance the rumba
 ---
-

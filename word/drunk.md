@@ -1,7 +1,60 @@
 ---
 layout: word
-title: drunk
+title: Is DRUNK a Wordle Word?
+head_title: 'Is DRUNK a Wordle Word? Yes – Past Answer #1770 & Meaning'
 word: drunk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹʌŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To consume (a liquid) through the mouth.<p><strong>Example:</strong> He drank the water I gave him.</p></li><li><strong>Definition 2:</strong> (metonymic) To consume the liquid contained within (a bottle, glass, etc.).<p><strong>Example:</strong> Jack drank the whole bottle by himself.</p></li><li><strong>Definition 3:</strong> To consume alcoholic beverages.<p><strong>Example:</strong> Everyone who is drinking is drinking, but not everyone who is drinking is drinking.</p></li><li><strong>Definition 4:</strong> To take in (a liquid), in any manner; to suck up; to absorb; to imbibe.</li><li><strong>Definition 5:</strong> To take in; to receive within one, through the senses; to inhale; to hear; to see.</li><li><strong>Definition 6:</strong> To smoke, as tobacco.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who is intoxicated with alcohol.</li><li><strong>Definition 2:</strong> A habitual drinker, especially one who is frequently intoxicated.</li><li><strong>Definition 3:</strong> A drinking-bout; a period of drunkenness.</li><li><strong>Definition 4:</strong> A drunken state.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Intoxicated as a result of excessive alcohol consumption, usually by drinking alcoholic beverages.</li><li><strong>Definition 2:</strong> Habitually or frequently in a state of intoxication.</li><li><strong>Definition 3:</strong> (usually followed by with or on) Elated or emboldened.<p><strong>Example:</strong> Drunk with power he immediately ordered a management reshuffle.</p></li><li><strong>Definition 4:</strong> Drenched or saturated with moisture or liquid.</li></ul></div></div>"
+description: Yes, DRUNK is a valid Wordle word. It was the Wordle answer on April
+  24, 2026 (#1770). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 24, 2026 (#1770).
+past_answers:
+- date: '2026-04-24'
+  number: 1770
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- drank
+- drink
+- trunk
+- crunk
+- krunk
+phonetic: "/dɹʌŋk/"
+definitions:
+- pos: verb
+  defs:
+  - text: To consume (a liquid) through the mouth.
+    example: He drank the water I gave him.
+  - text: "(metonymic) To consume the liquid contained within (a bottle, glass, etc.)."
+    example: Jack drank the whole bottle by himself.
+  - text: To consume alcoholic beverages.
+    example: Everyone who is drinking is drinking, but not everyone who is drinking
+      is drinking.
+  - text: To take in (a liquid), in any manner; to suck up; to absorb; to imbibe.
+  - text: To take in; to receive within one, through the senses; to inhale; to hear;
+      to see.
+  - text: To smoke, as tobacco.
+- pos: noun
+  defs:
+  - text: One who is intoxicated with alcohol.
+  - text: A habitual drinker, especially one who is frequently intoxicated.
+  - text: A drinking-bout; a period of drunkenness.
+  - text: A drunken state.
+- pos: adjective
+  defs:
+  - text: Intoxicated as a result of excessive alcohol consumption, usually by drinking
+      alcoholic beverages.
+  - text: Habitually or frequently in a state of intoxication.
+  - text: "(usually followed by with or on) Elated or emboldened."
+    example: Drunk with power he immediately ordered a management reshuffle.
+  - text: Drenched or saturated with moisture or liquid.
 ---
-

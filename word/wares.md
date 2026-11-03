@@ -1,7 +1,63 @@
 ---
 layout: word
-title: wares
+title: Is WARES a Wordle Word?
+head_title: Is WARES a Wordle Word? Yes – Valid Guess & Meaning
 word: wares
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɛəz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in combination) Goods or a type of goods offered for sale or use.</li><li><strong>Definition 2:</strong> (in the plural) See wares.</li><li><strong>Definition 3:</strong> Pottery or metal goods.<p><strong>Example:</strong> damascene ware, tole ware</p></li><li><strong>Definition 4:</strong> A style or genre of artifact.</li><li><strong>Definition 5:</strong> Crockery.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Goods or services that are for sale.<p><strong>Example:</strong> The square was filled with booths, with vendors offering their wares.</p></li></ul></div></div>"
+description: Yes, WARES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- bares
+- cares
+- dares
+- fares
+- gares
+- hares
+- lares
+- mares
+- nares
+- pares
+- rares
+- tares
+anagrams:
+- swear
+- resaw
+- sawer
+- sewar
+- sware
+- wears
+trap:
+  pattern: _ARES
+  count: 14
+phonetic: "/wɛəz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in combination) Goods or a type of goods offered for sale or use."
+  - text: "(in the plural) See wares."
+  - text: Pottery or metal goods.
+    example: damascene ware, tole ware
+  - text: A style or genre of artifact.
+  - text: Crockery.
+- pos: noun
+  defs:
+  - text: Goods or services that are for sale.
+    example: The square was filled with booths, with vendors offering their wares.
 ---
-

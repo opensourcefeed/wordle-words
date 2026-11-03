@@ -1,7 +1,42 @@
 ---
 layout: word
-title: patio
+title: Is PATIO a Wordle Word?
+head_title: 'Is PATIO a Wordle Word? Yes – Past Answer #1270 & Meaning'
 word: patio
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpæti.əʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A paved outside area, adjoining a house, used for dining or recreation.</li><li><strong>Definition 2:</strong> An inner courtyard typical of traditional houses in some regions of Spain.</li></ul></div></div>"
+description: Yes, PATIO is a valid Wordle word. It was the Wordle answer on December
+  10, 2024 (#1270). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 10, 2024 (#1270).
+past_answers:
+- date: '2024-12-10'
+  number: 1270
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - I
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- ratio
+- patia
+- patin
+anagrams:
+- potai
+phonetic: "/ˈpæti.əʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A paved outside area, adjoining a house, used for dining or recreation.
+  - text: An inner courtyard typical of traditional houses in some regions of Spain.
 ---
-

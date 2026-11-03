@@ -1,7 +1,69 @@
 ---
 layout: word
-title: dread
+title: Is DREAD a Wordle Word?
+head_title: 'Is DREAD a Wordle Word? Yes – Past Answer #1480 & Meaning'
 word: dread
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɹɛd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Great fear in view of impending evil; fearful apprehension of danger; anticipatory terror.<p><strong>Example:</strong> my visit to the doctor is filling me with dread</p></li><li><strong>Definition 2:</strong> Reverential or respectful fear; awe.</li><li><strong>Definition 3:</strong> Somebody or something dreaded.</li><li><strong>Definition 4:</strong> A person highly revered.</li><li><strong>Definition 5:</strong> Fury; dreadfulness.</li><li><strong>Definition 6:</strong> A Rastafarian.</li><li><strong>Definition 7:</strong> (chiefly in the plural) dreadlock</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fear greatly.</li><li><strong>Definition 2:</strong> To anticipate with fear.<p><strong>Example:</strong> I'm dreading getting the results of the test, as it could decide my whole life.</p></li><li><strong>Definition 3:</strong> To be in dread, or great fear.</li><li><strong>Definition 4:</strong> To style (the hair) into dreadlocks.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Terrible; greatly feared.</li><li><strong>Definition 2:</strong> Awe-inspiring; held in fearful awe.</li></ul></div></div>"
+description: Yes, DREAD is a valid Wordle word. It was the Wordle answer on July 8,
+  2025 (#1480). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 8, 2025 (#1480).
+past_answers:
+- date: '2025-07-08'
+  number: 1480
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- bread
+- dream
+- tread
+- aread
+- drear
+- dreed
+- dryad
+- oread
+anagrams:
+- adder
+- adred
+- aredd
+- dared
+- readd
+phonetic: "/dɹɛd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Great fear in view of impending evil; fearful apprehension of danger; anticipatory
+      terror.
+    example: my visit to the doctor is filling me with dread
+  - text: Reverential or respectful fear; awe.
+  - text: Somebody or something dreaded.
+  - text: A person highly revered.
+  - text: Fury; dreadfulness.
+  - text: A Rastafarian.
+  - text: "(chiefly in the plural) dreadlock"
+- pos: verb
+  defs:
+  - text: To fear greatly.
+  - text: To anticipate with fear.
+    example: I'm dreading getting the results of the test, as it could decide my whole
+      life.
+  - text: To be in dread, or great fear.
+  - text: To style (the hair) into dreadlocks.
+- pos: adjective
+  defs:
+  - text: Terrible; greatly feared.
+  - text: Awe-inspiring; held in fearful awe.
 ---
-

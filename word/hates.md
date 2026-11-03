@@ -1,7 +1,63 @@
 ---
 layout: word
-title: hates
+title: Is HATES a Wordle Word?
+head_title: Is HATES a Wordle Word? Yes – Valid Guess & Meaning
 word: hates
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /heɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An object of hatred.<p><strong>Example:</strong> One of my pet hates is traffic wardens.</p></li><li><strong>Definition 2:</strong> Hatred.<p><strong>Example:</strong> He gave me a look filled with pure hate.</p></li><li><strong>Definition 3:</strong> Negative feedback, abusive behaviour.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dislike intensely or greatly.</li><li><strong>Definition 2:</strong> To experience hatred.<p><strong>Example:</strong> Do not fear; he who fears hates; he who hates kills. — attributed to Gandhi</p></li></ul></div></div>"
+description: Yes, HATES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- hater
+- bates
+- cates
+- dates
+- fates
+- gates
+- hades
+- hajes
+- hakes
+- hales
+- hames
+- hares
+anagrams:
+- haste
+- ashet
+- haets
+- heast
+- heats
+trap:
+  pattern: _ATES
+  count: 13
+phonetic: "/heɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: An object of hatred.
+    example: One of my pet hates is traffic wardens.
+  - text: Hatred.
+    example: He gave me a look filled with pure hate.
+  - text: Negative feedback, abusive behaviour.
+- pos: verb
+  defs:
+  - text: To dislike intensely or greatly.
+  - text: To experience hatred.
+    example: Do not fear; he who fears hates; he who hates kills. — attributed to
+      Gandhi
 ---
-

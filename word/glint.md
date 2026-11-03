@@ -1,7 +1,51 @@
 ---
 layout: word
-title: glint
+title: Is GLINT a Wordle Word?
+head_title: 'Is GLINT a Wordle Word? Yes – Past Answer #1648 & Meaning'
 word: glint
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡlɪnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short flash of light.<p><strong>Example:</strong> I saw the glint of metal as he raised the gun.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flash or gleam briefly.<p><strong>Example:</strong> A wedding ring glinted on her finger.</p></li><li><strong>Definition 2:</strong> To glance; to peep forth, as a flower from the bud; to glitter.</li><li><strong>Definition 3:</strong> To cause to flash or gleam; to reflect.</li><li><strong>Definition 4:</strong> To dry; to wither.<p><strong>Example:</strong> The sun glints grass and corn.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of a blade) Not sharp; dull.<p><strong>Example:</strong> The knife is glint.</p></li></ul></div></div>"
+description: Yes, GLINT is a valid Wordle word. It was the Wordle answer on December
+  23, 2025 (#1648). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 23, 2025 (#1648).
+past_answers:
+- date: '2025-12-23'
+  number: 1648
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- flint
+- clint
+- elint
+- glent
+- glift
+phonetic: "/ɡlɪnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short flash of light.
+    example: I saw the glint of metal as he raised the gun.
+- pos: verb
+  defs:
+  - text: To flash or gleam briefly.
+    example: A wedding ring glinted on her finger.
+  - text: To glance; to peep forth, as a flower from the bud; to glitter.
+  - text: To cause to flash or gleam; to reflect.
+  - text: To dry; to wither.
+    example: The sun glints grass and corn.
+- pos: adjective
+  defs:
+  - text: "(of a blade) Not sharp; dull."
+    example: The knife is glint.
 ---
-

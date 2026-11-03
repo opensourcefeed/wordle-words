@@ -1,7 +1,64 @@
 ---
 layout: word
-title: sable
+title: Is SABLE a Wordle Word?
+head_title: Is SABLE a Wordle Word? Yes – Valid Guess & Meaning
 word: sable
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈseɪbəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small carnivorous mammal of the Old World that resembles a weasel, Martes zibellina, from cold regions in Eurasia and the North Pacific islands, valued for its dark brown fur (Wikipedia).</li><li><strong>Definition 2:</strong> The marten, especially Martes americana (syn. Mustela americana).</li><li><strong>Definition 3:</strong> The fur or pelt of the sable or other species of martens; a coat made from this fur.</li><li><strong>Definition 4:</strong> An artist's brush made from the fur of the sable (Wikipedia).</li><li><strong>Definition 5:</strong> A black colour on a coat of arms (Wikipedia).</li><li><strong>Definition 6:</strong> A dark brown colour, resembling the fur of some sables.</li><li><strong>Definition 7:</strong> (in the plural, sables) Black garments, especially worn in mourning.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of the black colour sable.</li><li><strong>Definition 2:</strong> : In blazon, of the colour black.</li><li><strong>Definition 3:</strong> Made of sable fur.</li><li><strong>Definition 4:</strong> Dark, somber.</li><li><strong>Definition 5:</strong> Dark-skinned; black.</li></ul></div></div>"
+description: Yes, SABLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- cable
+- fable
+- table
+- gable
+- hable
+- sabre
+- salle
+anagrams:
+- ables
+- baels
+- bales
+- beals
+- blaes
+- blase
+trap:
+  pattern: _ABLE
+  count: 6
+phonetic: "/ˈseɪbəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small carnivorous mammal of the Old World that resembles a weasel, Martes
+      zibellina, from cold regions in Eurasia and the North Pacific islands, valued
+      for its dark brown fur (Wikipedia).
+  - text: The marten, especially Martes americana (syn. Mustela americana).
+  - text: The fur or pelt of the sable or other species of martens; a coat made from
+      this fur.
+  - text: An artist's brush made from the fur of the sable (Wikipedia).
+  - text: A black colour on a coat of arms (Wikipedia).
+  - text: A dark brown colour, resembling the fur of some sables.
+  - text: "(in the plural, sables) Black garments, especially worn in mourning."
+- pos: adjective
+  defs:
+  - text: Of the black colour sable.
+  - text: ": In blazon, of the colour black."
+  - text: Made of sable fur.
+  - text: Dark, somber.
+  - text: Dark-skinned; black.
 ---
-

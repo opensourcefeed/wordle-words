@@ -1,7 +1,32 @@
 ---
 layout: word
-title: teloi
+title: Is TELOI a Wordle Word?
+head_title: Is TELOI a Wordle Word? Yes – Valid Guess
 word: teloi
-meaning: ""
+description: Yes, TELOI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  - L
+  - O
+  - I
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- telos
+anagrams:
+- oilet
+- toile
 ---
-

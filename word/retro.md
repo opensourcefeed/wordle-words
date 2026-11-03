@@ -1,7 +1,50 @@
 ---
 layout: word
-title: retro
+title: Is RETRO a Wordle Word?
+head_title: 'Is RETRO a Wordle Word? Yes – Past Answer #373 & Meaning'
 word: retro
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɛ.tɹoʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Past fashions or trends.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, or relating to, the past, past times, or the way things were.</li><li><strong>Definition 2:</strong> Affecting things past; retroactive, ex post facto.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small rocket engine on a larger rocket or spacecraft, designed to slow or reverse its motion.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An exhibition of works from an extended period of an artist's activity.</li></ul></div></div>"
+description: Yes, RETRO is a valid Wordle word. It was the Wordle answer on June 27,
+  2022 (#373). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 27, 2022 (#373).
+past_answers:
+- date: '2022-06-27'
+  number: 373
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - E
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- metro
+- retry
+- repro
+phonetic: "/ˈɹɛ.tɹoʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Past fashions or trends.
+- pos: adjective
+  defs:
+  - text: Of, or relating to, the past, past times, or the way things were.
+  - text: Affecting things past; retroactive, ex post facto.
+- pos: noun
+  defs:
+  - text: A small rocket engine on a larger rocket or spacecraft, designed to slow
+      or reverse its motion.
+- pos: noun
+  defs:
+  - text: An exhibition of works from an extended period of an artist's activity.
 ---
-

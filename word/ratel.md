@@ -1,7 +1,46 @@
 ---
 layout: word
-title: ratel
+title: Is RATEL a Wordle Word?
+head_title: Is RATEL a Wordle Word? Yes – Valid Guess & Meaning
 word: ratel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹɑːtəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A carnivorous mammal, Mellivora capensis, found in Africa and some parts of Asia; the honey badger.</li></ul></div></div>"
+description: Yes, RATEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - T
+  - E
+  - L
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- patel
+- ratal
+- rated
+- rater
+- rates
+- ravel
+anagrams:
+- alert
+- alter
+- later
+- artel
+- taler
+phonetic: "/ˈɹɑːtəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A carnivorous mammal, Mellivora capensis, found in Africa and some parts
+      of Asia; the honey badger.
 ---
-

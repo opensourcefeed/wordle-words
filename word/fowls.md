@@ -1,7 +1,56 @@
 ---
 layout: word
-title: fowls
+title: Is FOWLS a Wordle Word?
+head_title: Is FOWLS a Wordle Word? Yes – Valid Guess & Meaning
 word: fowls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faʊlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bird.</li><li><strong>Definition 2:</strong> A bird of the order Galliformes, including chickens, turkeys, pheasant, partridges and quail.</li><li><strong>Definition 3:</strong> Birds which are hunted or kept for food, including Galliformes and also waterfowl of the order Anseriformes such as ducks, geese and swans.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To hunt fowl.<p><strong>Example:</strong> We took our guns and went fowling.</p></li></ul></div></div>"
+description: Yes, FOWLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- bowls
+- cowls
+- dowls
+- foals
+- foils
+- fools
+- fouls
+- gowls
+- howls
+- jowls
+- nowls
+- sowls
+anagrams:
+- flows
+- wolfs
+trap:
+  pattern: _OWLS
+  count: 10
+phonetic: "/faʊlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A bird.
+  - text: A bird of the order Galliformes, including chickens, turkeys, pheasant,
+      partridges and quail.
+  - text: Birds which are hunted or kept for food, including Galliformes and also
+      waterfowl of the order Anseriformes such as ducks, geese and swans.
+- pos: verb
+  defs:
+  - text: To hunt fowl.
+    example: We took our guns and went fowling.
 ---
-

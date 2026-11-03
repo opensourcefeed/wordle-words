@@ -1,7 +1,50 @@
 ---
 layout: word
-title: felts
+title: Is FELTS a Wordle Word?
+head_title: Is FELTS a Wordle Word? Yes – Valid Guess & Meaning
 word: felts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make into felt, or a feltlike substance; to cause to adhere and mat together.</li><li><strong>Definition 2:</strong> To cover with, or as if with, felt.<p><strong>Example:</strong> to felt the cylinder of a steam engine</p></li><li><strong>Definition 3:</strong> To cause a player to lose all their chips.</li></ul></div></div>"
+description: Yes, FELTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- belts
+- celts
+- delts
+- feats
+- fells
+- felty
+- fents
+- fests
+- fetts
+- gelts
+- kelts
+- melts
+anagrams:
+- lefts
+trap:
+  pattern: _ELTS
+  count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To make into felt, or a feltlike substance; to cause to adhere and mat together.
+  - text: To cover with, or as if with, felt.
+    example: to felt the cylinder of a steam engine
+  - text: To cause a player to lose all their chips.
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: oaten
+title: Is OATEN a Wordle Word?
+head_title: Is OATEN a Wordle Word? Yes – Valid Guess & Meaning
 word: oaten
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Made of oats<p><strong>Example:</strong> an oaten cake</p></li></ul></div></div>"
+description: Yes, OATEN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- eaten
+- oaken
+- often
+- laten
+- oater
+- outen
+- paten
+anagrams:
+- atone
+- neato
+definitions:
+- pos: adjective
+  defs:
+  - text: Made of oats
+    example: an oaten cake
 ---
-

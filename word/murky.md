@@ -1,7 +1,39 @@
 ---
 layout: word
-title: murky
+title: Is MURKY a Wordle Word?
+head_title: 'Is MURKY a Wordle Word? Yes – Past Answer #1888 & Meaning'
 word: murky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Hard to see through, as a fog or mist.</li><li><strong>Definition 2:</strong> Dark, dim, gloomy.</li><li><strong>Definition 3:</strong> Cloudy, indistinct, obscure.</li><li><strong>Definition 4:</strong> Dishonest, shady.</li></ul></div></div>"
+description: Yes, MURKY is a valid Wordle word. It was the Wordle answer on August
+  20, 2026 (#1888). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 20, 2026 (#1888).
+past_answers:
+- date: '2026-08-20'
+  number: 1888
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- mucky
+- musky
+- mirky
+- murks
+- murly
+- murry
+definitions:
+- pos: adjective
+  defs:
+  - text: Hard to see through, as a fog or mist.
+  - text: Dark, dim, gloomy.
+  - text: Cloudy, indistinct, obscure.
+  - text: Dishonest, shady.
 ---
-

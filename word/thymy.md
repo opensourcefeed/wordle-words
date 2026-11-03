@@ -1,7 +1,27 @@
 ---
 layout: word
-title: thymy
+title: Is THYMY a Wordle Word?
+head_title: Is THYMY a Wordle Word? Yes – Valid Guess
 word: thymy
-meaning: ""
+description: Yes, THYMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels: []
+  unique_letters: 4
+  repeated:
+  - Y
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- thyme
+- rhymy
+- thymi
+anagrams:
+- mythy
 ---
-

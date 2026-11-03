@@ -1,7 +1,47 @@
 ---
 layout: word
-title: chick
+title: Is CHICK a Wordle Word?
+head_title: Is CHICK a Wordle Word? Yes – Possible Answer & Meaning
 word: chick
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /t͡ʃɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A young bird.</li><li><strong>Definition 2:</strong> A young chicken.</li><li><strong>Definition 3:</strong> (term of endearment) A young child.</li><li><strong>Definition 4:</strong> A young, especially attractive, woman or teenage girl.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sprout, as seed does in the ground; to vegetate.</li></ul></div></div>"
+description: Yes, CHICK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- check
+- chock
+- chuck
+- click
+- crick
+- thick
+- chack
+- chica
+- chich
+- chico
+- chics
+- chirk
+phonetic: "/t͡ʃɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A young bird.
+  - text: A young chicken.
+  - text: "(term of endearment) A young child."
+  - text: A young, especially attractive, woman or teenage girl.
+- pos: verb
+  defs:
+  - text: To sprout, as seed does in the ground; to vegetate.
 ---
-

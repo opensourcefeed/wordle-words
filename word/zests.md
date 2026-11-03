@@ -1,7 +1,55 @@
 ---
 layout: word
-title: zests
+title: Is ZESTS a Wordle Word?
+head_title: Is ZESTS a Wordle Word? Yes – Valid Guess & Meaning
 word: zests
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The outer skin of a citrus fruit, used as a flavouring or garnish.<p><strong>Example:</strong> The orange zest gives the strong flavor in this dish.</p></li><li><strong>Definition 2:</strong> General vibrance of flavour.<p><strong>Example:</strong> I add zest to the meat by rubbing it with a spice mixture before grilling.</p></li><li><strong>Definition 3:</strong> (by extension) Enthusiasm; keen enjoyment; relish; gusto.</li><li><strong>Definition 4:</strong> The woody, thick skin enclosing the kernel of a walnut.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To scrape the zest from a fruit.</li><li><strong>Definition 2:</strong> To make more zesty.</li></ul></div></div>"
+description: Yes, ZESTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - E
+  - T
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- zesty
+- bests
+- fests
+- gests
+- hests
+- jests
+- kests
+- lests
+- nests
+- pests
+- rests
+- tests
+trap:
+  pattern: _ESTS
+  count: 15
+definitions:
+- pos: noun
+  defs:
+  - text: The outer skin of a citrus fruit, used as a flavouring or garnish.
+    example: The orange zest gives the strong flavor in this dish.
+  - text: General vibrance of flavour.
+    example: I add zest to the meat by rubbing it with a spice mixture before grilling.
+  - text: "(by extension) Enthusiasm; keen enjoyment; relish; gusto."
+  - text: The woody, thick skin enclosing the kernel of a walnut.
+- pos: verb
+  defs:
+  - text: To scrape the zest from a fruit.
+  - text: To make more zesty.
 ---
-

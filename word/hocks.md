@@ -1,7 +1,62 @@
 ---
 layout: word
-title: hocks
+title: Is HOCKS a Wordle Word?
+head_title: Is HOCKS a Wordle Word? Yes – Valid Guess & Meaning
 word: hocks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A Rhenish wine, of a light yellow color, either sparkling or still, from the Hochheim region; often applied to all Rhenish wines.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The tarsal joint of a digitigrade quadruped, such as a horse, pig or dog.</li><li><strong>Definition 2:</strong> Meat from that part of a food animal.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To disable by cutting the tendons of the hock; to hamstring; to hough.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To leave with a pawnbroker as security for a loan.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bother; to pester; to annoy incessantly</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> To cough heavily, esp. causing uvular frication.</li></ul></div></div>"
+description: Yes, HOCKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- bocks
+- cocks
+- docks
+- hacks
+- hecks
+- hicks
+- hocus
+- hoiks
+- holks
+- honks
+- hooks
+- horks
+anagrams:
+- shock
+trap:
+  pattern: _OCKS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: A Rhenish wine, of a light yellow color, either sparkling or still, from
+      the Hochheim region; often applied to all Rhenish wines.
+- pos: noun
+  defs:
+  - text: The tarsal joint of a digitigrade quadruped, such as a horse, pig or dog.
+  - text: Meat from that part of a food animal.
+- pos: verb
+  defs:
+  - text: To disable by cutting the tendons of the hock; to hamstring; to hough.
+- pos: verb
+  defs:
+  - text: To leave with a pawnbroker as security for a loan.
+- pos: verb
+  defs:
+  - text: To bother; to pester; to annoy incessantly
+- pos: noun
+  defs:
+  - text: To cough heavily, esp. causing uvular frication.
 ---
-

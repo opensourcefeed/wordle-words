@@ -1,7 +1,48 @@
 ---
 layout: word
-title: doily
+title: Is DOILY a Wordle Word?
+head_title: Is DOILY a Wordle Word? Yes – Valid Guess & Meaning
 word: doily
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɔɪli/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small ornamental piece of lace or linen or paper used to protect a surface from scratches by hard objects such as vases or bowls; or to decorate a plate of food.</li><li><strong>Definition 2:</strong> An old kind of woollen material.</li></ul></div></div>"
+description: Yes, DOILY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- daily
+- dolly
+- dogly
+- doilt
+- dooly
+- dowly
+- doyly
+- drily
+- noily
+- roily
+- soily
+trap:
+  pattern: DO_LY
+  count: 6
+phonetic: "/ˈdɔɪli/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small ornamental piece of lace or linen or paper used to protect a surface
+      from scratches by hard objects such as vases or bowls; or to decorate a plate
+      of food.
+  - text: An old kind of woollen material.
 ---
-

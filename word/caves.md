@@ -1,7 +1,80 @@
 ---
 layout: word
-title: caves
+title: Is CAVES a Wordle Word?
+head_title: Is CAVES a Wordle Word? Yes – Valid Guess & Meaning
 word: caves
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /keɪvz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large, naturally-occurring cavity formed underground or in the face of a cliff or a hillside.<p><strong>Example:</strong> We found a cave on the mountainside where we could take shelter.</p></li><li><strong>Definition 2:</strong> A hole, depression, or gap in earth or rock, whether natural or man-made.</li><li><strong>Definition 3:</strong> A storage cellar, especially for wine or cheese.<p><strong>Example:</strong> This wine has been aged in our cave for thirty years.</p></li><li><strong>Definition 4:</strong> A place of retreat, such as a man cave.<p><strong>Example:</strong> My room was a cozy cave where I could escape from my family.</p></li><li><strong>Definition 5:</strong> A naturally-occurring cavity in bedrock which is large enough to be entered by an adult.<p><strong>Example:</strong> It was not strictly a cave, but a narrow fissure in the rock.</p></li><li><strong>Definition 6:</strong> A shielded area where nuclear experiments can be carried out.</li><li><strong>Definition 7:</strong> (drilling) Debris, particularly broken rock, which falls into a drill hole and interferes with drilling.</li><li><strong>Definition 8:</strong> A collapse or cave-in.</li><li><strong>Definition 9:</strong> The vagina.</li><li><strong>Definition 10:</strong> (often \"Cave\") A group that breaks from a larger political party or faction on a particular issue.</li><li><strong>Definition 11:</strong> Any hollow place, or part; a cavity.</li><li><strong>Definition 12:</strong> A code cave.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To surrender.<p><strong>Example:</strong> He caved under pressure.</p></li><li><strong>Definition 2:</strong> To collapse.<p><strong>Example:</strong> First the braces buckled, then the roof began to cave, then we ran.</p></li><li><strong>Definition 3:</strong> To hollow out or undermine.<p><strong>Example:</strong> The levee has been severely caved by the river current.</p></li><li><strong>Definition 4:</strong> To engage in the recreational exploration of caves.<p><strong>Example:</strong> I have caved from Yugoslavia to Kentucky.</p></li><li><strong>Definition 5:</strong> In room-and-pillar mining, to extract a deposit of rock by breaking down a pillar which had been holding it in place.<p><strong>Example:</strong> The deposit is caved by knocking out the posts.</p></li><li><strong>Definition 6:</strong> To work over tailings to dress small pieces of marketable ore.</li><li><strong>Definition 7:</strong> To dwell in a cave.</li></ul></div></div>"
+description: Yes, CAVES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 22
+neighbours:
+- cades
+- cafes
+- cages
+- cakes
+- cames
+- canes
+- capes
+- cares
+- cases
+- cates
+- cavas
+- caved
+trap:
+  pattern: _AVES
+  count: 11
+phonetic: "/keɪvz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large, naturally-occurring cavity formed underground or in the face of
+      a cliff or a hillside.
+    example: We found a cave on the mountainside where we could take shelter.
+  - text: A hole, depression, or gap in earth or rock, whether natural or man-made.
+  - text: A storage cellar, especially for wine or cheese.
+    example: This wine has been aged in our cave for thirty years.
+  - text: A place of retreat, such as a man cave.
+    example: My room was a cozy cave where I could escape from my family.
+  - text: A naturally-occurring cavity in bedrock which is large enough to be entered
+      by an adult.
+    example: It was not strictly a cave, but a narrow fissure in the rock.
+  - text: A shielded area where nuclear experiments can be carried out.
+  - text: "(drilling) Debris, particularly broken rock, which falls into a drill hole
+      and interferes with drilling."
+  - text: A collapse or cave-in.
+  - text: The vagina.
+  - text: (often "Cave") A group that breaks from a larger political party or faction
+      on a particular issue.
+  - text: Any hollow place, or part; a cavity.
+  - text: A code cave.
+- pos: verb
+  defs:
+  - text: To surrender.
+    example: He caved under pressure.
+  - text: To collapse.
+    example: First the braces buckled, then the roof began to cave, then we ran.
+  - text: To hollow out or undermine.
+    example: The levee has been severely caved by the river current.
+  - text: To engage in the recreational exploration of caves.
+    example: I have caved from Yugoslavia to Kentucky.
+  - text: In room-and-pillar mining, to extract a deposit of rock by breaking down
+      a pillar which had been holding it in place.
+    example: The deposit is caved by knocking out the posts.
+  - text: To work over tailings to dress small pieces of marketable ore.
+  - text: To dwell in a cave.
 ---
-

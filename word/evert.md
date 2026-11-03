@@ -1,7 +1,42 @@
 ---
 layout: word
-title: evert
+title: Is EVERT a Wordle Word?
+head_title: Is EVERT a Wordle Word? Yes – Valid Guess & Meaning
 word: evert
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈvɜːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn inside out (like a pocket being emptied) or outwards.</li><li><strong>Definition 2:</strong> To move (someone or something) out of the way.</li><li><strong>Definition 3:</strong> To turn upside down; to overturn.</li><li><strong>Definition 4:</strong> To disrupt; to overthrow.</li></ul></div></div>"
+description: Yes, EVERT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- avert
+- event
+- every
+- exert
+- overt
+anagrams:
+- revet
+- verte
+phonetic: "/ɪˈvɜːt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To turn inside out (like a pocket being emptied) or outwards.
+  - text: To move (someone or something) out of the way.
+  - text: To turn upside down; to overturn.
+  - text: To disrupt; to overthrow.
 ---
-

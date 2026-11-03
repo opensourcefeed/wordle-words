@@ -1,7 +1,74 @@
 ---
 layout: word
-title: clams
+title: Is CLAMS a Wordle Word?
+head_title: Is CLAMS a Wordle Word? Yes – Valid Guess & Meaning
 word: clams
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klæmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Acronym of Clip-on Load Adjusting Mechanism. A device that can be fitted onto an oar to adjust set.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bivalve mollusk of many kinds, especially those that are edible; for example the soft-shell clam (Mya arenaria), the hard clam (Mercenaria mercenaria), the sea clam or hen clam (Spisula solidissima), and other species. The name is said to have been given originally to the Tridacna gigas, a huge East Indian bivalve.</li><li><strong>Definition 2:</strong> Strong pincers or forceps.</li><li><strong>Definition 3:</strong> A kind of vise, usually of wood.</li><li><strong>Definition 4:</strong> A dollar (usually used in the plural).<p><strong>Example:</strong> Those sneakers cost me fifty clams!</p></li><li><strong>Definition 5:</strong> A Scientologist.</li><li><strong>Definition 6:</strong> A vagina.</li><li><strong>Definition 7:</strong> One who clams up; a taciturn person, one who refuses to speak.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dig for clams.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A crash or clangor made by ringing all the bells of a chime at once.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce, in bellringing, a clam or clangor; to cause to clang.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be moist or glutinous; to stick; to adhere.</li><li><strong>Definition 2:</strong> To clog, as with glutinous or viscous matter.</li></ul></div></div>"
+description: Yes, CLAMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- clamp
+- class
+- blams
+- chams
+- clads
+- claes
+- clags
+- clame
+- clans
+- claps
+- clats
+- claws
+anagrams:
+- calms
+trap:
+  pattern: CLA_S
+  count: 10
+phonetic: "/klæmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Acronym of Clip-on Load Adjusting Mechanism. A device that can be fitted
+      onto an oar to adjust set.
+- pos: noun
+  defs:
+  - text: A bivalve mollusk of many kinds, especially those that are edible; for example
+      the soft-shell clam (Mya arenaria), the hard clam (Mercenaria mercenaria), the
+      sea clam or hen clam (Spisula solidissima), and other species. The name is said
+      to have been given originally to the Tridacna gigas, a huge East Indian bivalve.
+  - text: Strong pincers or forceps.
+  - text: A kind of vise, usually of wood.
+  - text: A dollar (usually used in the plural).
+    example: Those sneakers cost me fifty clams!
+  - text: A Scientologist.
+  - text: A vagina.
+  - text: One who clams up; a taciturn person, one who refuses to speak.
+- pos: verb
+  defs:
+  - text: To dig for clams.
+- pos: noun
+  defs:
+  - text: A crash or clangor made by ringing all the bells of a chime at once.
+- pos: verb
+  defs:
+  - text: To produce, in bellringing, a clam or clangor; to cause to clang.
+- pos: verb
+  defs:
+  - text: To be moist or glutinous; to stick; to adhere.
+  - text: To clog, as with glutinous or viscous matter.
 ---
-

@@ -1,7 +1,57 @@
 ---
 layout: word
-title: tread
+title: Is TREAD a Wordle Word?
+head_title: Is TREAD a Wordle Word? Yes – Possible Answer & Meaning
 word: tread
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tɹɛd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To step or walk (on or over something); to trample.<p><strong>Example:</strong> Don't tread on the lawn.</p></li><li><strong>Definition 2:</strong> To step or walk upon.<p><strong>Example:</strong> Actors tread the boards.</p></li><li><strong>Definition 3:</strong> To beat or press with the feet.<p><strong>Example:</strong> to tread a path; to tread land when too light; a well-trodden path</p></li><li><strong>Definition 4:</strong> To go through or accomplish by walking, dancing, etc.</li><li><strong>Definition 5:</strong> To crush under the foot; to trample in contempt or hatred; to subdue.</li><li><strong>Definition 6:</strong> To copulate; said of (especially male) birds.</li><li><strong>Definition 7:</strong> (of a male bird) To copulate with.</li></ul></div></div>"
+description: Yes, TREAD is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- bread
+- dread
+- treat
+- trend
+- triad
+- aread
+- oread
+- treed
+- troad
+anagrams:
+- trade
+- adret
+- dater
+- derat
+- rated
+- tared
+phonetic: "/tɹɛd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To step or walk (on or over something); to trample.
+    example: Don't tread on the lawn.
+  - text: To step or walk upon.
+    example: Actors tread the boards.
+  - text: To beat or press with the feet.
+    example: to tread a path; to tread land when too light; a well-trodden path
+  - text: To go through or accomplish by walking, dancing, etc.
+  - text: To crush under the foot; to trample in contempt or hatred; to subdue.
+  - text: To copulate; said of (especially male) birds.
+  - text: "(of a male bird) To copulate with."
 ---
-

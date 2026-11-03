@@ -1,7 +1,52 @@
 ---
 layout: word
-title: limbo
+title: Is LIMBO a Wordle Word?
+head_title: 'Is LIMBO a Wordle Word? Yes – Past Answer #1584 & Meaning'
 word: limbo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɪmbəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (Roman Catholic theology, since circa 400 A.D.) The place where innocent souls exist temporarily until they can enter heaven, notably those of the saints who died before the advent of Christ (limbus patruum) and those of unbaptized but innocent children (limbus infantum).</li><li><strong>Definition 2:</strong> (by extension, since the 16th century) Any in-between place, state or condition of neglect or oblivion which results in an unresolved status, delay or deadlock.<p><strong>Example:</strong> My application has been stuck in bureaucratic limbo for two weeks.</p></li></ul></div></div>"
+description: Yes, LIMBO is a valid Wordle word. It was the Wordle answer on October
+  20, 2025 (#1584). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 20, 2025 (#1584).
+past_answers:
+- date: '2025-10-20'
+  number: 1584
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- bimbo
+- dimbo
+- himbo
+- kimbo
+- limba
+- limbi
+- limbs
+- limby
+- timbo
+trap:
+  pattern: _IMBO
+  count: 6
+phonetic: "/ˈlɪmbəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(Roman Catholic theology, since circa 400 A.D.) The place where innocent
+      souls exist temporarily until they can enter heaven, notably those of the saints
+      who died before the advent of Christ (limbus patruum) and those of unbaptized
+      but innocent children (limbus infantum)."
+  - text: "(by extension, since the 16th century) Any in-between place, state or condition
+      of neglect or oblivion which results in an unresolved status, delay or deadlock."
+    example: My application has been stuck in bureaucratic limbo for two weeks.
 ---
-

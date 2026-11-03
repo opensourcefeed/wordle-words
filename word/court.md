@@ -1,7 +1,67 @@
 ---
 layout: word
-title: court
+title: Is COURT a Wordle Word?
+head_title: 'Is COURT a Wordle Word? Yes – Past Answer #942 & Meaning'
 word: court
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.<p><strong>Example:</strong> The girls were playing in the court.</p></li><li><strong>Definition 2:</strong> (social) Royal society.</li><li><strong>Definition 3:</strong> Attention directed to a person in power; behaviour designed to gain favor; politeness of manner; civility towards someone</li><li><strong>Definition 4:</strong> The administration of law.</li><li><strong>Definition 5:</strong> A place arranged for playing the games of tennis, basketball, squash, badminton, volleyball and some other games<p><strong>Example:</strong> The local sports club has six tennis courts and two squash courts.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To seek to achieve or win.<p><strong>Example:</strong> He was courting big new accounts that previous salesman had not attempted.</p></li><li><strong>Definition 2:</strong> To risk (a consequence, usually negative).<p><strong>Example:</strong> He courted controversy with his frank speeches.</p></li><li><strong>Definition 3:</strong> To try to win a commitment to marry from.</li><li><strong>Definition 4:</strong> To engage in behavior leading to mating.<p><strong>Example:</strong> The bird was courting by making an elaborate dance.</p></li><li><strong>Definition 5:</strong> To attempt to attract.</li><li><strong>Definition 6:</strong> To attempt to gain alliance with.</li><li><strong>Definition 7:</strong> To engage in activities intended to win someone's affections.<p><strong>Example:</strong> She's had a few beaus come courting.</p></li><li><strong>Definition 8:</strong> To engage in courtship behavior.<p><strong>Example:</strong> In this season, you can see many animals courting.</p></li><li><strong>Definition 9:</strong> To invite by attractions; to allure; to attract.</li></ul></div></div>"
+description: Yes, COURT is a valid Wordle word. It was the Wordle answer on January
+  17, 2024 (#942). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 17, 2024 (#942).
+past_answers:
+- date: '2024-01-17'
+  number: 942
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- count
+- courb
+- courd
+- coure
+- cours
+- yourt
+anagrams:
+- crout
+definitions:
+- pos: noun
+  defs:
+  - text: An enclosed space; a courtyard; an uncovered area shut in by the walls of
+      a building, or by different buildings; also, a space opening from a street and
+      nearly surrounded by houses; a blind alley.
+    example: The girls were playing in the court.
+  - text: "(social) Royal society."
+  - text: Attention directed to a person in power; behaviour designed to gain favor;
+      politeness of manner; civility towards someone
+  - text: The administration of law.
+  - text: A place arranged for playing the games of tennis, basketball, squash, badminton,
+      volleyball and some other games
+    example: The local sports club has six tennis courts and two squash courts.
+- pos: verb
+  defs:
+  - text: To seek to achieve or win.
+    example: He was courting big new accounts that previous salesman had not attempted.
+  - text: To risk (a consequence, usually negative).
+    example: He courted controversy with his frank speeches.
+  - text: To try to win a commitment to marry from.
+  - text: To engage in behavior leading to mating.
+    example: The bird was courting by making an elaborate dance.
+  - text: To attempt to attract.
+  - text: To attempt to gain alliance with.
+  - text: To engage in activities intended to win someone's affections.
+    example: She's had a few beaus come courting.
+  - text: To engage in courtship behavior.
+    example: In this season, you can see many animals courting.
+  - text: To invite by attractions; to allure; to attract.
 ---
-

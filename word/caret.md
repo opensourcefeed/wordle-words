@@ -1,7 +1,51 @@
 ---
 layout: word
-title: caret
+title: Is CARET a Wordle Word?
+head_title: Is CARET a Wordle Word? Yes – Valid Guess & Meaning
 word: caret
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkæɹ.ət/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mark ⟨ ‸ ⟩ used by writers and proofreaders to indicate that something is to be inserted at that point.</li><li><strong>Definition 2:</strong> An indicator, often a blinking line or bar, indicating where the next insertion or other edit will take place. Also called a cursor.</li><li><strong>Definition 3:</strong> A circumflex, ⟨ ＾ ⟩.</li><li><strong>Definition 4:</strong> A háček, ⟨ ˇ ⟩.</li></ul></div></div>"
+description: Yes, CARET is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- cadet
+- carat
+- cared
+- carer
+- cares
+- carex
+- curet
+anagrams:
+- cater
+- crate
+- react
+- trace
+- carte
+- recta
+phonetic: "/ˈkæɹ.ət/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mark ⟨ ‸ ⟩ used by writers and proofreaders to indicate that something
+      is to be inserted at that point.
+  - text: An indicator, often a blinking line or bar, indicating where the next insertion
+      or other edit will take place. Also called a cursor.
+  - text: A circumflex, ⟨ ＾ ⟩.
+  - text: A háček, ⟨ ˇ ⟩.
 ---
-

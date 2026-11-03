@@ -1,7 +1,33 @@
 ---
 layout: word
-title: teste
+title: Is TESTE a Wordle Word?
+head_title: Is TESTE a Wordle Word? Yes – Valid Guess
 word: teste
-meaning: ""
+description: Yes, TESTE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - T
+  - E
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- taste
+- testy
+- geste
+- testa
+- tests
+anagrams:
+- teets
+- tetes
 ---
-

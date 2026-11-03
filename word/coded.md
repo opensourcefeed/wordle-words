@@ -1,7 +1,62 @@
 ---
 layout: word
-title: coded
+title: Is CODED a Wordle Word?
+head_title: Is CODED a Wordle Word? Yes – Valid Guess & Meaning
 word: coded
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To write software programs.<p><strong>Example:</strong> I learned to code on an early home computer in the 1980s.</p></li><li><strong>Definition 2:</strong> To add codes to a dataset.</li><li><strong>Definition 3:</strong> To categorise by assigning identifiers from a schedule, for example CPT coding for medical insurance purposes.</li><li><strong>Definition 4:</strong> To encode.<p><strong>Example:</strong> We should code the messages we send out on Usenet.</p></li><li><strong>Definition 5:</strong> To encode a protein.</li><li><strong>Definition 6:</strong> To call a hospital emergency code.<p><strong>Example:</strong> coding in the CT scanner</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Of a patient, to suffer a sudden medical emergency (a code blue) such as cardiac arrest.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Encoded; written in code or cipher.</li></ul></div></div>"
+description: Yes, CODED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- boded
+- ceded
+- cided
+- codec
+- coden
+- coder
+- codes
+- codex
+- coked
+- coled
+- coned
+- cooed
+trap:
+  pattern: CO_ED
+  count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: To write software programs.
+    example: I learned to code on an early home computer in the 1980s.
+  - text: To add codes to a dataset.
+  - text: To categorise by assigning identifiers from a schedule, for example CPT
+      coding for medical insurance purposes.
+  - text: To encode.
+    example: We should code the messages we send out on Usenet.
+  - text: To encode a protein.
+  - text: To call a hospital emergency code.
+    example: coding in the CT scanner
+- pos: verb
+  defs:
+  - text: Of a patient, to suffer a sudden medical emergency (a code blue) such as
+      cardiac arrest.
+- pos: adjective
+  defs:
+  - text: Encoded; written in code or cipher.
 ---
-

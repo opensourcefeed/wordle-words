@@ -1,7 +1,56 @@
 ---
 layout: word
-title: nines
+title: Is NINES a Wordle Word?
+head_title: Is NINES a Wordle Word? Yes – Valid Guess & Meaning
 word: nines
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The digit or figure 9.</li><li><strong>Definition 2:</strong> A playing card with nine pips.</li><li><strong>Definition 3:</strong> A nine-millimeter semi-automatic pistol.</li><li><strong>Definition 4:</strong> (usually in the plural) A statistical unit of proportion (of reliability, purity, etc.).<p><strong>Example:</strong> They guaranteed that our Web site would have 99.99% uptime, or four nines.</p></li><li><strong>Definition 5:</strong> A baseball club, team, or lineup (composed of nine players).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pair of nines.<p><strong>Example:</strong> He drew nines from the deck.</p></li></ul></div></div>"
+description: Yes, NINES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- bines
+- cines
+- dines
+- fines
+- kines
+- lines
+- mines
+- nenes
+- nides
+- nifes
+- niner
+- nites
+trap:
+  pattern: _INES
+  count: 15
+definitions:
+- pos: noun
+  defs:
+  - text: The digit or figure 9.
+  - text: A playing card with nine pips.
+  - text: A nine-millimeter semi-automatic pistol.
+  - text: "(usually in the plural) A statistical unit of proportion (of reliability,
+      purity, etc.)."
+    example: They guaranteed that our Web site would have 99.99% uptime, or four nines.
+  - text: A baseball club, team, or lineup (composed of nine players).
+- pos: noun
+  defs:
+  - text: A pair of nines.
+    example: He drew nines from the deck.
 ---
-

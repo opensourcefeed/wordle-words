@@ -1,7 +1,42 @@
 ---
 layout: word
-title: dicta
+title: Is DICTA a Wordle Word?
+head_title: Is DICTA a Wordle Word? Yes – Valid Guess & Meaning
 word: dicta
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An authoritative statement; a dogmatic saying; a maxim, an apothegm.</li><li><strong>Definition 2:</strong> A judicial opinion expressed by judges on points that do not necessarily arise in the case, and are not involved in it.</li><li><strong>Definition 3:</strong> The report of a judgment made by one of the judges who has given it.</li><li><strong>Definition 4:</strong> An arbitrament or award.</li></ul></div></div>"
+description: Yes, DICTA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- dicto
+- dicts
+- dictu
+- dicty
+- diota
+- ficta
+anagrams:
+- diact
+definitions:
+- pos: noun
+  defs:
+  - text: An authoritative statement; a dogmatic saying; a maxim, an apothegm.
+  - text: A judicial opinion expressed by judges on points that do not necessarily
+      arise in the case, and are not involved in it.
+  - text: The report of a judgment made by one of the judges who has given it.
+  - text: An arbitrament or award.
 ---
-

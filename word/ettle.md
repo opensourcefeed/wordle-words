@@ -1,7 +1,39 @@
 ---
 layout: word
-title: ettle
+title: Is ETTLE a Wordle Word?
+head_title: Is ETTLE a Wordle Word? Yes – Valid Guess & Meaning
 word: ettle
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛtl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Intention; intent; aim.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To aim; purpose; intend; attempt; try.</li><li><strong>Definition 2:</strong> To expect; reckon; count on.</li><li><strong>Definition 3:</strong> To take aim.</li><li><strong>Definition 4:</strong> To make attempt.</li><li><strong>Definition 5:</strong> To direct one's course.</li><li><strong>Definition 6:</strong> To aspire; be ambitious.</li></ul></div></div>"
+description: Yes, ETTLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - E
+  - T
+  common:
+  - E
+  - T
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+phonetic: "/ˈɛtl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Intention; intent; aim.
+- pos: verb
+  defs:
+  - text: To aim; purpose; intend; attempt; try.
+  - text: To expect; reckon; count on.
+  - text: To take aim.
+  - text: To make attempt.
+  - text: To direct one's course.
+  - text: To aspire; be ambitious.
 ---
-

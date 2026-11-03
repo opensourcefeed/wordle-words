@@ -1,7 +1,51 @@
 ---
 layout: word
-title: swear
+title: Is SWEAR a Wordle Word?
+head_title: Is SWEAR a Wordle Word? Yes – Possible Answer & Meaning
 word: swear
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swɛə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take an oath, to promise.</li><li><strong>Definition 2:</strong> To use offensive, profane, or obscene language.</li></ul></div></div>"
+description: Yes, SWEAR is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- shear
+- smear
+- spear
+- sweat
+- skear
+- stear
+- sweal
+- sweer
+- sweir
+anagrams:
+- resaw
+- sawer
+- sewar
+- sware
+- wares
+- wears
+trap:
+  pattern: S_EAR
+  count: 6
+phonetic: "/swɛə/"
+definitions:
+- pos: verb
+  defs:
+  - text: To take an oath, to promise.
+  - text: To use offensive, profane, or obscene language.
 ---
-

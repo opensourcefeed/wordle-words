@@ -1,7 +1,39 @@
 ---
 layout: word
-title: derby
+title: Is DERBY a Wordle Word?
+head_title: Is DERBY a Wordle Word? Yes – Possible Answer & Meaning
 word: derby
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɑː.bi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of several annual horse races.</li><li><strong>Definition 2:</strong> (by extension) Any organized race.<p><strong>Example:</strong> a donkey derby</p></li><li><strong>Definition 3:</strong> A bowler hat.</li><li><strong>Definition 4:</strong> A local derby.</li></ul></div></div>"
+description: Yes, DERBY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- debby
+- deray
+- derny
+- derpy
+- derry
+- herby
+phonetic: "/ˈdɑː.bi/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of several annual horse races.
+  - text: "(by extension) Any organized race."
+    example: a donkey derby
+  - text: A bowler hat.
+  - text: A local derby.
 ---
-

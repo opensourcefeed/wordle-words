@@ -1,7 +1,39 @@
 ---
 layout: word
-title: plebe
+title: Is PLEBE a Wordle Word?
+head_title: Is PLEBE a Wordle Word? Yes – Valid Guess & Meaning
 word: plebe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pliːb/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually in the plural) A plebeian, a member of the lower class of Roman citizens.</li><li><strong>Definition 2:</strong> The plebs, the plebeian class.</li><li><strong>Definition 3:</strong> The similar lower class of any area.</li><li><strong>Definition 4:</strong> A freshman cadet at a military academy.</li></ul></div></div>"
+description: Yes, PLEBE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- glebe
+- plebs
+- plene
+anagrams:
+- bleep
+phonetic: "/pliːb/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(usually in the plural) A plebeian, a member of the lower class of Roman
+      citizens."
+  - text: The plebs, the plebeian class.
+  - text: The similar lower class of any area.
+  - text: A freshman cadet at a military academy.
 ---
-

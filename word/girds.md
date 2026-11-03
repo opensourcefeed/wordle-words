@@ -1,7 +1,57 @@
 ---
 layout: word
-title: girds
+title: Is GIRDS a Wordle Word?
+head_title: Is GIRDS a Wordle Word? Yes – Valid Guess & Meaning
 word: girds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bind with a flexible rope or cord.<p><strong>Example:</strong> The fasces were girt about with twine in bundles large.</p></li><li><strong>Definition 2:</strong> To encircle with, or as if with a belt.<p><strong>Example:</strong> The lady girt herself with silver chain, from which she hung a golden shear.</p></li><li><strong>Definition 3:</strong> To prepare oneself for an action.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sarcastic remark.</li><li><strong>Definition 2:</strong> A stroke with a rod or switch.</li><li><strong>Definition 3:</strong> A severe spasm; a twinge; a pang.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To jeer at.</li><li><strong>Definition 2:</strong> To jeer.</li></ul></div></div>"
+description: Yes, GIRDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- birds
+- gilds
+- girls
+- girns
+- giros
+- girrs
+- girts
+- jirds
+- yirds
+anagrams:
+- grids
+trap:
+  pattern: GIR_S
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To bind with a flexible rope or cord.
+    example: The fasces were girt about with twine in bundles large.
+  - text: To encircle with, or as if with a belt.
+    example: The lady girt herself with silver chain, from which she hung a golden
+      shear.
+  - text: To prepare oneself for an action.
+- pos: noun
+  defs:
+  - text: A sarcastic remark.
+  - text: A stroke with a rod or switch.
+  - text: A severe spasm; a twinge; a pang.
+- pos: verb
+  defs:
+  - text: To jeer at.
+  - text: To jeer.
 ---
-

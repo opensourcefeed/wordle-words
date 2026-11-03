@@ -1,7 +1,38 @@
 ---
 layout: word
-title: clomp
+title: Is CLOMP a Wordle Word?
+head_title: Is CLOMP a Wordle Word? Yes – Valid Guess & Meaning
 word: clomp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klɒmp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sound of feet hitting the ground loudly.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To walk heavily or clumsily, as with clogs.</li><li><strong>Definition 2:</strong> To make some object hit something, thereby producing a clomping sound.</li></ul></div></div>"
+description: Yes, CLOMP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- clamp
+- clump
+- chomp
+- clomb
+- cloop
+phonetic: "/klɒmp/"
+definitions:
+- pos: noun
+  defs:
+  - text: The sound of feet hitting the ground loudly.
+- pos: verb
+  defs:
+  - text: To walk heavily or clumsily, as with clogs.
+  - text: To make some object hit something, thereby producing a clomping sound.
 ---
-

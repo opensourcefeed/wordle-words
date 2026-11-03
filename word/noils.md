@@ -1,7 +1,54 @@
 ---
 layout: word
-title: noils
+title: Is NOILS a Wordle Word?
+head_title: Is NOILS a Wordle Word? Yes – Valid Guess & Meaning
 word: noils
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short fibre left over from combing wool or spinning silk during the preparation of textile yarns. Sometimes it is referred to as 'Raw Silk', although this is somewhat of a misnomer.<p><strong>Example:</strong> The silk noil was slightly nubby with random flecks in an off-white colour.</p></li></ul></div></div>"
+description: Yes, NOILS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - I
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- boils
+- coils
+- foils
+- moils
+- nails
+- noels
+- noias
+- noily
+- noirs
+- nolls
+- nouls
+- nowls
+anagrams:
+- linos
+- lions
+- loins
+- oslin
+trap:
+  pattern: _OILS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A short fibre left over from combing wool or spinning silk during the preparation
+      of textile yarns. Sometimes it is referred to as 'Raw Silk', although this is
+      somewhat of a misnomer.
+    example: The silk noil was slightly nubby with random flecks in an off-white colour.
 ---
-

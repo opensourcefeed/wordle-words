@@ -1,7 +1,43 @@
 ---
 layout: word
-title: tooms
+title: Is TOOMS a Wordle Word?
+head_title: Is TOOMS a Wordle Word? Yes – Valid Guess
 word: tooms
-meaning: ""
+description: Yes, TOOMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- booms
+- cooms
+- dooms
+- looms
+- rooms
+- sooms
+- tools
+- toons
+- toots
+- zooms
+anagrams:
+- moots
+- mosto
+- smoot
+- tomos
+trap:
+  pattern: _OOMS
+  count: 8
 ---
-

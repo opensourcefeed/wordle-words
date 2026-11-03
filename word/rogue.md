@@ -1,7 +1,70 @@
 ---
 layout: word
-title: rogue
+title: Is ROGUE a Wordle Word?
+head_title: 'Is ROGUE a Wordle Word? Yes – Past Answer #145 & Meaning'
 word: rogue
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹəʊ̯ɡ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A scoundrel, rascal or unprincipled, deceitful, and unreliable person.</li><li><strong>Definition 2:</strong> A mischievous scamp.</li><li><strong>Definition 3:</strong> A vagrant.</li><li><strong>Definition 4:</strong> Deceitful software pretending to be anti-spyware, but in fact being malicious software itself.</li><li><strong>Definition 5:</strong> An aggressive animal separate from the herd, especially an elephant.</li><li><strong>Definition 6:</strong> A plant that shows some undesirable variation.</li><li><strong>Definition 7:</strong> A character class focusing on stealthy conduct.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cull; to destroy plants not meeting a required standard, especially when saving seed, rogue or unwanted plants are removed before pollination.</li><li><strong>Definition 2:</strong> To cheat.</li><li><strong>Definition 3:</strong> To give the name or designation of rogue to; to decry.</li><li><strong>Definition 4:</strong> To wander; to play the vagabond; to play knavish tricks.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of an animal, especially an elephant) Vicious and solitary.</li><li><strong>Definition 2:</strong> (by extension) Large, destructive and unpredictable.</li><li><strong>Definition 3:</strong> (by extension) Deceitful, unprincipled.</li><li><strong>Definition 4:</strong> Mischievous, unpredictable.</li></ul></div></div>"
+description: Yes, ROGUE is a valid Wordle word. It was the Wordle answer on November
+  11, 2021 (#145). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 11, 2021 (#145).
+past_answers:
+- date: '2021-11-11'
+  number: 145
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- vogue
+- bogue
+- cogue
+- mogue
+- pogue
+- roguy
+- roque
+- togue
+anagrams:
+- rouge
+- erugo
+- orgue
+trap:
+  pattern: _OGUE
+  count: 7
+phonetic: "/ˈɹəʊ̯ɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A scoundrel, rascal or unprincipled, deceitful, and unreliable person.
+  - text: A mischievous scamp.
+  - text: A vagrant.
+  - text: Deceitful software pretending to be anti-spyware, but in fact being malicious
+      software itself.
+  - text: An aggressive animal separate from the herd, especially an elephant.
+  - text: A plant that shows some undesirable variation.
+  - text: A character class focusing on stealthy conduct.
+- pos: verb
+  defs:
+  - text: To cull; to destroy plants not meeting a required standard, especially when
+      saving seed, rogue or unwanted plants are removed before pollination.
+  - text: To cheat.
+  - text: To give the name or designation of rogue to; to decry.
+  - text: To wander; to play the vagabond; to play knavish tricks.
+- pos: adjective
+  defs:
+  - text: "(of an animal, especially an elephant) Vicious and solitary."
+  - text: "(by extension) Large, destructive and unpredictable."
+  - text: "(by extension) Deceitful, unprincipled."
+  - text: Mischievous, unpredictable.
 ---
-

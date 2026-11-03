@@ -1,7 +1,48 @@
 ---
 layout: word
-title: blend
+title: Is BLEND a Wordle Word?
+head_title: 'Is BLEND a Wordle Word? Yes – Past Answer #1538 & Meaning'
 word: blend
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blɛnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mixture of two or more things.<p><strong>Example:</strong> Our department has a good blend of experienced workers and young promise.</p></li><li><strong>Definition 2:</strong> A word formed by combining two other words; a grammatical contamination, portmanteau word.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To mingle; to mix; to unite intimately; to pass or shade insensibly into each other.<p><strong>Example:</strong> To make hummus you need to blend chickpeas, olive oil, lemon juice and garlic.</p></li><li><strong>Definition 2:</strong> To be mingled or mixed.</li><li><strong>Definition 3:</strong> To pollute by mixture or association; to spoil or corrupt; to blot; to stain.</li></ul></div></div>"
+description: Yes, BLEND is a valid Wordle word. It was the Wordle answer on September
+  4, 2025 (#1538). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 4, 2025 (#1538).
+past_answers:
+- date: '2025-09-04'
+  number: 1538
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- bland
+- bleed
+- blind
+- blond
+- blent
+phonetic: "/blɛnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mixture of two or more things.
+    example: Our department has a good blend of experienced workers and young promise.
+  - text: A word formed by combining two other words; a grammatical contamination,
+      portmanteau word.
+- pos: verb
+  defs:
+  - text: To mingle; to mix; to unite intimately; to pass or shade insensibly into
+      each other.
+    example: To make hummus you need to blend chickpeas, olive oil, lemon juice and
+      garlic.
+  - text: To be mingled or mixed.
+  - text: To pollute by mixture or association; to spoil or corrupt; to blot; to stain.
 ---
-

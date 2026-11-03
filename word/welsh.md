@@ -1,7 +1,32 @@
 ---
 layout: word
-title: welsh
+title: Is WELSH a Wordle Word?
+head_title: Is WELSH a Wordle Word? Yes – Possible Answer & Meaning
 word: welsh
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɛlʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To swindle someone by not paying a debt, especially a gambling debt.</li></ul></div></div>"
+description: Yes, WELSH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- welch
+- pelsh
+- wersh
+phonetic: "/wɛlʃ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To swindle someone by not paying a debt, especially a gambling debt.
 ---
-

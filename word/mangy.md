@@ -1,7 +1,45 @@
 ---
 layout: word
-title: mangy
+title: Is MANGY a Wordle Word?
+head_title: Is MANGY a Wordle Word? Yes – Possible Answer & Meaning
 word: mangy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmeɪndʒi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Afflicted with mange.</li><li><strong>Definition 2:</strong> (by extension) Worn and squalid-looking; bedraggled or decrepit.<p><strong>Example:</strong> We stayed in a really mangy hotel in New York.</p></li></ul></div></div>"
+description: Yes, MANGY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- manga
+- mange
+- mango
+- manly
+- tangy
+- mandy
+- mangi
+- mangs
+- manky
+- manny
+- manty
+- mingy
+trap:
+  pattern: MAN_Y
+  count: 6
+phonetic: "/ˈmeɪndʒi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Afflicted with mange.
+  - text: "(by extension) Worn and squalid-looking; bedraggled or decrepit."
+    example: We stayed in a really mangy hotel in New York.
 ---
-

@@ -1,7 +1,50 @@
 ---
 layout: word
-title: crick
+title: Is CRICK a Wordle Word?
+head_title: Is CRICK a Wordle Word? Yes – Possible Answer & Meaning
 word: crick
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A painful muscular cramp or spasm of some part of the body, as of the neck or back, making it difficult to move the part affected. (Compare catch.)</li><li><strong>Definition 2:</strong> A small jackscrew.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To develop a crick (cramp, spasm).</li><li><strong>Definition 2:</strong> To cause to develop a crick; to create a crick in.</li><li><strong>Definition 3:</strong> To twist, bend, or contort, especially in a way that produces strain.</li></ul></div></div>"
+description: Yes, CRICK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- brick
+- chick
+- click
+- crack
+- crock
+- prick
+- trick
+- crink
+- cruck
+- erick
+- wrick
+trap:
+  pattern: _RICK
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A painful muscular cramp or spasm of some part of the body, as of the neck
+      or back, making it difficult to move the part affected. (Compare catch.)
+  - text: A small jackscrew.
+- pos: verb
+  defs:
+  - text: To develop a crick (cramp, spasm).
+  - text: To cause to develop a crick; to create a crick in.
+  - text: To twist, bend, or contort, especially in a way that produces strain.
 ---
-

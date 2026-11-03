@@ -1,7 +1,58 @@
 ---
 layout: word
-title: saber
+title: Is SABER a Wordle Word?
+head_title: Is SABER a Wordle Word? Yes – Valid Guess & Meaning
 word: saber
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈseɪ.bɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light sword, sharp along the front edge, part of the back edge, and at the point.</li><li><strong>Definition 2:</strong> A modern fencing sword modeled after the sabre.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To strike or kill with a sabre.</li></ul></div></div>"
+description: Yes, SABER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- safer
+- saner
+- sober
+- caber
+- sabed
+- sabes
+- sabir
+- sager
+- saker
+- saser
+- sater
+- saver
+anagrams:
+- abers
+- bares
+- baser
+- bears
+- braes
+- sabre
+trap:
+  pattern: SA_ER
+  count: 10
+phonetic: "/ˈseɪ.bɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A light sword, sharp along the front edge, part of the back edge, and at
+      the point.
+  - text: A modern fencing sword modeled after the sabre.
+- pos: verb
+  defs:
+  - text: To strike or kill with a sabre.
 ---
-

@@ -1,7 +1,59 @@
 ---
 layout: word
-title: roper
+title: Is ROPER a Wordle Word?
+head_title: Is ROPER a Wordle Word? Yes – Valid Guess & Meaning
 word: roper
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An accomplice who locates a mark to be swindled by a confidence trickster.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Agent noun of rope; one who uses a rope, especially one who throws a lariat or lasso.</li><li><strong>Definition 2:</strong> A maker of ropes.</li><li><strong>Definition 3:</strong> One who ropes goods; a packer.</li><li><strong>Definition 4:</strong> A crafty fellow; one fit to be hanged.</li><li><strong>Definition 5:</strong> A person hired by a gambling establishment to locate potential customers and bring them in.</li></ul></div></div>"
+description: Yes, ROPER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- riper
+- roger
+- rover
+- rower
+- coper
+- doper
+- hoper
+- loper
+- moper
+- raper
+- rober
+- roker
+anagrams:
+- porer
+- prore
+- repro
+trap:
+  pattern: _OPER
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: An accomplice who locates a mark to be swindled by a confidence trickster.
+- pos: noun
+  defs:
+  - text: Agent noun of rope; one who uses a rope, especially one who throws a lariat
+      or lasso.
+  - text: A maker of ropes.
+  - text: One who ropes goods; a packer.
+  - text: A crafty fellow; one fit to be hanged.
+  - text: A person hired by a gambling establishment to locate potential customers
+      and bring them in.
 ---
-

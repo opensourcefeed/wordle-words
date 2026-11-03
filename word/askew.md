@@ -1,7 +1,43 @@
 ---
 layout: word
-title: askew
+title: Is ASKEW a Wordle Word?
+head_title: 'Is ASKEW a Wordle Word? Yes – Past Answer #310 & Meaning'
 word: askew
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈskjuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Turned or twisted to one side.</li><li><strong>Definition 2:</strong> Untoward, unfavourable.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Tilted to one side.<p><strong>Example:</strong> He wore his hat askew</p></li></ul></div></div>"
+description: Yes, ASKEW is a valid Wordle word. It was the Wordle answer on April
+  25, 2022 (#310). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 25, 2022 (#310).
+past_answers:
+- date: '2022-04-25'
+  number: 310
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- asked
+- asker
+anagrams:
+- wakes
+- wekas
+phonetic: "/əˈskjuː/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Turned or twisted to one side.
+  - text: Untoward, unfavourable.
+- pos: adverb
+  defs:
+  - text: Tilted to one side.
+    example: He wore his hat askew
 ---
-

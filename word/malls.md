@@ -1,7 +1,53 @@
 ---
 layout: word
-title: malls
+title: Is MALLS a Wordle Word?
+head_title: Is MALLS a Wordle Word? Yes – Valid Guess & Meaning
 word: malls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pedestrianised street, especially a shopping precinct.</li><li><strong>Definition 2:</strong> An enclosed shopping centre.</li><li><strong>Definition 3:</strong> An alley where the game of pall mall was played.</li><li><strong>Definition 4:</strong> A public walk; a level shaded walk, a promenade.</li><li><strong>Definition 5:</strong> A heavy wooden mallet or hammer used in the game of pall mall.</li><li><strong>Definition 6:</strong> The game of polo.</li><li><strong>Definition 7:</strong> An old game played with malls or mallets and balls; pall mall.</li></ul></div></div>"
+description: Yes, MALLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 69
+neighbours:
+- balls
+- calls
+- falls
+- galls
+- halls
+- lalls
+- mails
+- malas
+- males
+- malis
+- malms
+- malts
+anagrams:
+- small
+trap:
+  pattern: _ALLS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A pedestrianised street, especially a shopping precinct.
+  - text: An enclosed shopping centre.
+  - text: An alley where the game of pall mall was played.
+  - text: A public walk; a level shaded walk, a promenade.
+  - text: A heavy wooden mallet or hammer used in the game of pall mall.
+  - text: The game of polo.
+  - text: An old game played with malls or mallets and balls; pall mall.
 ---
-

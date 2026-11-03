@@ -1,7 +1,51 @@
 ---
 layout: word
-title: loner
+title: Is LONER a Wordle Word?
+head_title: Is LONER a Wordle Word? Yes – Valid Guess & Meaning
 word: loner
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈloʊnɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who is alone, lacking or avoiding the company of others.<p><strong>Example:</strong> I actually enjoy being a loner.</p></li></ul></div></div>"
+description: Yes, LONER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- goner
+- liner
+- loser
+- lover
+- lower
+- boner
+- doner
+- honer
+- loper
+- moner
+- toner
+- zoner
+anagrams:
+- enrol
+- nerol
+trap:
+  pattern: _ONER
+  count: 8
+phonetic: "/ˈloʊnɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who is alone, lacking or avoiding the company of others.
+    example: I actually enjoy being a loner.
 ---
-

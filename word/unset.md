@@ -1,7 +1,53 @@
 ---
 layout: word
-title: unset
+title: Is UNSET a Wordle Word?
+head_title: Is UNSET a Wordle Word? Yes – Possible Answer & Meaning
 word: unset
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make not set.<p><strong>Example:</strong> to unset a single bit in a binary pattern</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not set; not fixed or appointed.</li><li><strong>Definition 2:</strong> Not mounted or placed in a setting.</li><li><strong>Definition 3:</strong> Not set, as a broken limb.</li><li><strong>Definition 4:</strong> Not planted.</li></ul></div></div>"
+description: Yes, UNSET is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- onset
+- unmet
+- upset
+- inset
+- unget
+- unket
+- unlet
+- unsee
+- unsew
+- unsex
+- unwet
+anagrams:
+- suent
+- tunes
+trap:
+  pattern: UN_ET
+  count: 6
+definitions:
+- pos: verb
+  defs:
+  - text: To make not set.
+    example: to unset a single bit in a binary pattern
+- pos: adjective
+  defs:
+  - text: Not set; not fixed or appointed.
+  - text: Not mounted or placed in a setting.
+  - text: Not set, as a broken limb.
+  - text: Not planted.
 ---
-

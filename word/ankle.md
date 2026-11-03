@@ -1,7 +1,49 @@
 ---
 layout: word
-title: ankle
+title: Is ANKLE a Wordle Word?
+head_title: 'Is ANKLE a Wordle Word? Yes – Past Answer #1729 & Meaning'
 word: ankle
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæŋ.kəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The skeletal joint which connects the foot with the leg; the uppermost portion of the foot and lowermost portion of the leg, which contain this skeletal joint.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To walk.</li><li><strong>Definition 2:</strong> To cyclically angle the foot at the ankle while pedaling, to maximize the amount of work applied to the pedal during each revolution.</li></ul></div></div>"
+description: Yes, ANKLE is a valid Wordle word. It was the Wordle answer on March
+  14, 2026 (#1729). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 14, 2026 (#1729).
+past_answers:
+- date: '2026-03-14'
+  number: 1729
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- angle
+- ancle
+- anele
+- anile
+- anole
+- inkle
+trap:
+  pattern: AN_LE
+  count: 6
+phonetic: "/ˈæŋ.kəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: The skeletal joint which connects the foot with the leg; the uppermost portion
+      of the foot and lowermost portion of the leg, which contain this skeletal joint.
+- pos: verb
+  defs:
+  - text: To walk.
+  - text: To cyclically angle the foot at the ankle while pedaling, to maximize the
+      amount of work applied to the pedal during each revolution.
 ---
-

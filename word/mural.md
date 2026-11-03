@@ -1,7 +1,58 @@
 ---
 layout: word
-title: mural
+title: Is MURAL a Wordle Word?
+head_title: 'Is MURAL a Wordle Word? Yes – Past Answer #926 & Meaning'
 word: mural
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmjʊəɹəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A large painting, usually drawn on a wall.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To create a mural.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to a wall; on, or in, or against a wall.<p><strong>Example:</strong> a mural quadrant</p></li><li><strong>Definition 2:</strong> Resembling a wall; perpendicular or steep.<p><strong>Example:</strong> a mural precipice</p></li></ul></div></div>"
+description: Yes, MURAL is a valid Wordle word. It was the Wordle answer on January
+  1, 2024 (#926). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 1, 2024 (#926).
+past_answers:
+- date: '2024-01-01'
+  number: 926
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- moral
+- rural
+- aural
+- dural
+- fural
+- jural
+- maral
+- muras
+- sural
+anagrams:
+- larum
+- rumal
+trap:
+  pattern: _URAL
+  count: 7
+phonetic: "/ˈmjʊəɹəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A large painting, usually drawn on a wall.
+- pos: verb
+  defs:
+  - text: To create a mural.
+- pos: adjective
+  defs:
+  - text: Of or relating to a wall; on, or in, or against a wall.
+    example: a mural quadrant
+  - text: Resembling a wall; perpendicular or steep.
+    example: a mural precipice
 ---
-

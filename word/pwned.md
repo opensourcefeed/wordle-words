@@ -1,7 +1,36 @@
 ---
 layout: word
-title: pwned
+title: Is PWNED a Wordle Word?
+head_title: Is PWNED a Wordle Word? Yes – Valid Guess & Meaning
 word: pwned
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piˈəʊnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (originally leet) To own, to defeat or dominate (someone or something, especially a game or someone playing a game).</li></ul></div></div>"
+description: Yes, PWNED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- awned
+- owned
+- paned
+- pened
+- pined
+- pyned
+phonetic: "/piˈəʊnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(originally leet) To own, to defeat or dominate (someone or something,
+      especially a game or someone playing a game)."
 ---
-

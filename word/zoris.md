@@ -1,7 +1,46 @@
 ---
 layout: word
-title: zoris
+title: Is ZORIS a Wordle Word?
+head_title: Is ZORIS a Wordle Word? Yes – Valid Guess & Meaning
 word: zoris
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A Japanese sandal made from rice straw or lacquered wood, worn with a kimono for formal occasions.</li><li><strong>Definition 2:</strong> (especially Southeast US) A sandal, usually of rubber, secured to the foot by two straps mounted between the big toe and its neighbour, a flip-flop</li></ul></div></div>"
+description: Yes, ZORIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - I
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- doris
+- goris
+- horis
+- koris
+- loris
+- noris
+- zaris
+- zoril
+trap:
+  pattern: _ORIS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A Japanese sandal made from rice straw or lacquered wood, worn with a kimono
+      for formal occasions.
+  - text: "(especially Southeast US) A sandal, usually of rubber, secured to the foot
+      by two straps mounted between the big toe and its neighbour, a flip-flop"
 ---
-

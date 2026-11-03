@@ -1,7 +1,45 @@
 ---
 layout: word
-title: farse
+title: Is FARSE a Wordle Word?
+head_title: Is FARSE a Wordle Word? Yes – Valid Guess & Meaning
 word: farse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɑː(ɹ)s/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vernacular paraphrase inserted into Latin liturgy.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To insert vernacular paraphrases into (a Latin liturgy).</li></ul></div></div>"
+description: Yes, FARSE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- 'false'
+- farce
+- parse
+- carse
+- farle
+- marse
+- tarse
+anagrams:
+- safer
+- fares
+- fears
+phonetic: "/fɑː(ɹ)s/"
+definitions:
+- pos: noun
+  defs:
+  - text: A vernacular paraphrase inserted into Latin liturgy.
+- pos: verb
+  defs:
+  - text: To insert vernacular paraphrases into (a Latin liturgy).
 ---
-

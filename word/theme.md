@@ -1,7 +1,59 @@
 ---
 layout: word
-title: theme
+title: Is THEME a Wordle Word?
+head_title: 'Is THEME a Wordle Word? Yes – Past Answer #447 & Meaning'
 word: theme
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /θiːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A subject of a talk or an artistic piece; a topic.</li><li><strong>Definition 2:</strong> A recurring idea; a motif.</li><li><strong>Definition 3:</strong> An essay written for school.</li><li><strong>Definition 4:</strong> The main melody of a piece of music, especially one that is the source of variations.</li><li><strong>Definition 5:</strong> A song, or a snippet of a song, that identifies a film, a TV program, a character, etc. by playing at the appropriate time.</li><li><strong>Definition 6:</strong> The collection of color schemes, sounds, artwork etc., that \"skin\" an environment towards a particular motif.</li><li><strong>Definition 7:</strong> (grammar) The stem of a word.</li><li><strong>Definition 8:</strong> Thematic relation of a noun phrase to a verb.</li><li><strong>Definition 9:</strong> Theta role in generative grammar and government and binding theory.</li><li><strong>Definition 10:</strong> Topic, what is generally being talked about, as opposed to rheme.</li><li><strong>Definition 11:</strong> A regional unit of organisation in the Byzantine empire.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give a theme to.<p><strong>Example:</strong> We themed the birthday party around superheroes.</p></li><li><strong>Definition 2:</strong> To apply a theme to; to change the visual appearance and/or layout of (software).</li></ul></div></div>"
+description: Yes, THEME is a valid Wordle word. It was the Wordle answer on September
+  9, 2022 (#447). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 9, 2022 (#447).
+past_answers:
+- date: '2022-09-09'
+  number: 447
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - T
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- there
+- these
+- thyme
+- pheme
+- rheme
+- thebe
+- thema
+- thete
+phonetic: "/θiːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A subject of a talk or an artistic piece; a topic.
+  - text: A recurring idea; a motif.
+  - text: An essay written for school.
+  - text: The main melody of a piece of music, especially one that is the source of
+      variations.
+  - text: A song, or a snippet of a song, that identifies a film, a TV program, a
+      character, etc. by playing at the appropriate time.
+  - text: The collection of color schemes, sounds, artwork etc., that "skin" an environment
+      towards a particular motif.
+  - text: "(grammar) The stem of a word."
+  - text: Thematic relation of a noun phrase to a verb.
+  - text: Theta role in generative grammar and government and binding theory.
+  - text: Topic, what is generally being talked about, as opposed to rheme.
+  - text: A regional unit of organisation in the Byzantine empire.
+- pos: verb
+  defs:
+  - text: To give a theme to.
+    example: We themed the birthday party around superheroes.
+  - text: To apply a theme to; to change the visual appearance and/or layout of (software).
 ---
-

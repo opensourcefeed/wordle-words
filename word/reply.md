@@ -1,7 +1,52 @@
 ---
 layout: word
-title: reply
+title: Is REPLY a Wordle Word?
+head_title: 'Is REPLY a Wordle Word? Yes – Past Answer #1871 & Meaning'
 word: reply
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪˈplaɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A written or spoken response; part of a conversation.</li><li><strong>Definition 2:</strong> Something given in reply.</li><li><strong>Definition 3:</strong> A counterattack.</li><li><strong>Definition 4:</strong> The answer of a figure.</li><li><strong>Definition 5:</strong> A document written by a party specifically replying to a responsive declaration and in some cases an answer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give a written or spoken response, especially to a question, request, accusation or criticism; to answer.</li><li><strong>Definition 2:</strong> To act or gesture in response.<p><strong>Example:</strong> Joanne replied to Pete's insult with a slap to his face.</p></li><li><strong>Definition 3:</strong> To repeat something back; to echo.</li></ul></div></div>"
+description: Yes, REPLY is a valid Wordle word. It was the Wordle answer on August
+  3, 2026 (#1871). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 3, 2026 (#1871).
+past_answers:
+- date: '2026-08-03'
+  number: 1871
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- repay
+- redly
+- reely
+- refly
+- repla
+anagrams:
+- plyer
+phonetic: "/ɹɪˈplaɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A written or spoken response; part of a conversation.
+  - text: Something given in reply.
+  - text: A counterattack.
+  - text: The answer of a figure.
+  - text: A document written by a party specifically replying to a responsive declaration
+      and in some cases an answer.
+- pos: verb
+  defs:
+  - text: To give a written or spoken response, especially to a question, request,
+      accusation or criticism; to answer.
+  - text: To act or gesture in response.
+    example: Joanne replied to Pete's insult with a slap to his face.
+  - text: To repeat something back; to echo.
 ---
-

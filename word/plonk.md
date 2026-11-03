@@ -1,7 +1,52 @@
 ---
 layout: word
-title: plonk
+title: Is PLONK a Wordle Word?
+head_title: Is PLONK a Wordle Word? Yes – Valid Guess & Meaning
 word: plonk
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The sound of something solid landing.<p><strong>Example:</strong> I just heard a plonk – did something fall down in the kitchen?</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To set or toss (something) down carelessly.<p><strong>Example:</strong> When you’ve finished with the sponge, just plonk it back in the sink.</p></li><li><strong>Definition 2:</strong> To automatically ignore a particular poster.<p><strong>Example:</strong> I got tired of his trolling and ad hominem attacks, so I plonked him.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> (followed by a location) Precisely and forcefully.<p><strong>Example:</strong> He dropped his bag of tools plonk in the middle of the table.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> The sound made by something solid landing.</li><li><strong>Definition 2:</strong> The supposed sound of adding a user to one's killfile.</li></ul></div></div>"
+description: Yes, PLONK is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- plank
+- plunk
+- clonk
+- plink
+- plock
+- plong
+- plook
+- plouk
+- pronk
+definitions:
+- pos: noun
+  defs:
+  - text: The sound of something solid landing.
+    example: I just heard a plonk – did something fall down in the kitchen?
+- pos: verb
+  defs:
+  - text: To set or toss (something) down carelessly.
+    example: When you’ve finished with the sponge, just plonk it back in the sink.
+  - text: To automatically ignore a particular poster.
+    example: I got tired of his trolling and ad hominem attacks, so I plonked him.
+- pos: adverb
+  defs:
+  - text: "(followed by a location) Precisely and forcefully."
+    example: He dropped his bag of tools plonk in the middle of the table.
+- pos: interjection
+  defs:
+  - text: The sound made by something solid landing.
+  - text: The supposed sound of adding a user to one's killfile.
 ---
-

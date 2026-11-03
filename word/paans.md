@@ -1,7 +1,41 @@
 ---
 layout: word
-title: paans
+title: Is PAANS a Wordle Word?
+head_title: Is PAANS a Wordle Word? Yes – Valid Guess & Meaning
 word: paans
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A psychoactive preparation of betel leaf combined with areca nut and/or cured tobacco, chewed recreationally in Asia; such a preparation served wrapped in the leaf.</li></ul></div></div>"
+description: Yes, PAANS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- naans
+- paals
+- pains
+- pawns
+- peans
+- pians
+- plans
+anagrams:
+- napas
+- sapan
+definitions:
+- pos: noun
+  defs:
+  - text: A psychoactive preparation of betel leaf combined with areca nut and/or
+      cured tobacco, chewed recreationally in Asia; such a preparation served wrapped
+      in the leaf.
 ---
-

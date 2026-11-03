@@ -1,7 +1,71 @@
 ---
 layout: word
-title: grind
+title: Is GRIND a Wordle Word?
+head_title: 'Is GRIND a Wordle Word? Yes – Past Answer #1093 & Meaning'
 word: grind
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡɹaɪnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of reducing to powder, or of sharpening, by friction.</li><li><strong>Definition 2:</strong> Something that has been reduced to powder, something that has been ground.</li><li><strong>Definition 3:</strong> A specific degree of pulverization of coffee beans.<p><strong>Example:</strong> This bag contains espresso grind.</p></li><li><strong>Definition 4:</strong> A tedious and laborious task.<p><strong>Example:</strong> This homework is a grind.</p></li><li><strong>Definition 5:</strong> A grinding trick on a skateboard or snowboard.</li><li><strong>Definition 6:</strong> One who studies hard; a swot.</li><li><strong>Definition 7:</strong> Grindcore (subgenre of heavy metal)</li><li><strong>Definition 8:</strong> Hustle</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reduce to smaller pieces by crushing with lateral motion.</li><li><strong>Definition 2:</strong> To shape with the force of friction.<p><strong>Example:</strong> grind a lens; grind an axe</p></li><li><strong>Definition 3:</strong> To remove material by rubbing with an abrasive surface.</li><li><strong>Definition 4:</strong> To become ground, pulverized, or polished by friction.<p><strong>Example:</strong> Steel grinds to a sharp edge.</p></li><li><strong>Definition 5:</strong> To move with much difficulty or friction; to grate.</li><li><strong>Definition 6:</strong> To slide the flat portion of a skateboard or snowboard across an obstacle such as a railing.</li><li><strong>Definition 7:</strong> To oppress, hold down or weaken.</li><li><strong>Definition 8:</strong> To rotate the hips erotically.</li><li><strong>Definition 9:</strong> To dance in a sexually suggestive way with both partners in very close proximity, often pressed against each other.</li><li><strong>Definition 10:</strong> To repeat a task a large number of times in a row to achieve a specific goal.</li><li><strong>Definition 11:</strong> To operate by turning a crank.<p><strong>Example:</strong> to grind an organ</p></li><li><strong>Definition 12:</strong> To produce mechanically and repetitively as if by turning a crank.</li><li><strong>Definition 13:</strong> To automatically format and indent code.</li><li><strong>Definition 14:</strong> To instill through repetitive teaching.<p><strong>Example:</strong> Grinding lessons into students' heads does not motivate them to learn.</p></li><li><strong>Definition 15:</strong> To eat.<p><strong>Example:</strong> Eh, brah, let's go grind.</p></li><li><strong>Definition 16:</strong> To work or study hard; to hustle or drudge.</li><li><strong>Definition 17:</strong> To annoy or irritate (a person); to grind one's gears.</li></ul></div></div>"
+description: Yes, GRIND is a valid Wordle word. It was the Wordle answer on June 16,
+  2024 (#1093). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 16, 2024 (#1093).
+past_answers:
+- date: '2024-06-16'
+  number: 1093
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- grand
+- grins
+- grund
+phonetic: "/ˈɡɹaɪnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of reducing to powder, or of sharpening, by friction.
+  - text: Something that has been reduced to powder, something that has been ground.
+  - text: A specific degree of pulverization of coffee beans.
+    example: This bag contains espresso grind.
+  - text: A tedious and laborious task.
+    example: This homework is a grind.
+  - text: A grinding trick on a skateboard or snowboard.
+  - text: One who studies hard; a swot.
+  - text: Grindcore (subgenre of heavy metal)
+  - text: Hustle
+- pos: verb
+  defs:
+  - text: To reduce to smaller pieces by crushing with lateral motion.
+  - text: To shape with the force of friction.
+    example: grind a lens; grind an axe
+  - text: To remove material by rubbing with an abrasive surface.
+  - text: To become ground, pulverized, or polished by friction.
+    example: Steel grinds to a sharp edge.
+  - text: To move with much difficulty or friction; to grate.
+  - text: To slide the flat portion of a skateboard or snowboard across an obstacle
+      such as a railing.
+  - text: To oppress, hold down or weaken.
+  - text: To rotate the hips erotically.
+  - text: To dance in a sexually suggestive way with both partners in very close proximity,
+      often pressed against each other.
+  - text: To repeat a task a large number of times in a row to achieve a specific
+      goal.
+  - text: To operate by turning a crank.
+    example: to grind an organ
+  - text: To produce mechanically and repetitively as if by turning a crank.
+  - text: To automatically format and indent code.
+  - text: To instill through repetitive teaching.
+    example: Grinding lessons into students' heads does not motivate them to learn.
+  - text: To eat.
+    example: Eh, brah, let's go grind.
+  - text: To work or study hard; to hustle or drudge.
+  - text: To annoy or irritate (a person); to grind one's gears.
 ---
-

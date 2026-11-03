@@ -1,7 +1,83 @@
 ---
 layout: word
-title: print
+title: Is PRINT a Wordle Word?
+head_title: 'Is PRINT a Wordle Word? Yes – Past Answer #61 & Meaning'
 word: print
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹɪnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Books and other material created by printing presses, considered collectively or as a medium.<p><strong>Example:</strong> TV and the internet haven't killed print.</p></li><li><strong>Definition 2:</strong> Clear handwriting, especially, writing without connected letters as in cursive.<p><strong>Example:</strong> Write in print using block letters.</p></li><li><strong>Definition 3:</strong> The letters forming the text of a document.<p><strong>Example:</strong> The print is too small for me to read.</p></li><li><strong>Definition 4:</strong> A newspaper.</li><li><strong>Definition 5:</strong> A visible impression on a surface.<p><strong>Example:</strong> Using a crayon, the girl made a print of the leaf under the page.</p></li><li><strong>Definition 6:</strong> A fingerprint.<p><strong>Example:</strong> Did the police find any prints at the scene?</p></li><li><strong>Definition 7:</strong> A footprint.</li><li><strong>Definition 8:</strong> (visual art) A picture that was created in multiple copies by printing.</li><li><strong>Definition 9:</strong> A photograph that has been printed onto paper from the negative.</li><li><strong>Definition 10:</strong> A copy of a film that can be projected.</li><li><strong>Definition 11:</strong> Cloth that has had a pattern of dye printed onto it.</li><li><strong>Definition 12:</strong> A plaster cast in bas relief.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To produce one or more copies of a text or image on a surface, especially by machine; often used with out or off: print out, print off.<p><strong>Example:</strong> Print the draft double-spaced so we can mark changes between the lines.</p></li><li><strong>Definition 2:</strong> To produce a microchip (an integrated circuit) in a process resembling the printing of an image.<p><strong>Example:</strong> The circuitry is printed onto the semiconductor surface.</p></li><li><strong>Definition 3:</strong> To write very clearly, especially, to write without connecting the letters as in cursive.<p><strong>Example:</strong> I'm only in grade 2, so I only know how to print.</p></li><li><strong>Definition 4:</strong> To publish in a book, newspaper, etc.<p><strong>Example:</strong> How could they print an unfounded rumour like that?</p></li><li><strong>Definition 5:</strong> To stamp or impress (something) with coloured figures or patterns.<p><strong>Example:</strong> to print calico</p></li><li><strong>Definition 6:</strong> To fix or impress, as a stamp, mark, character, idea, etc., into or upon something.</li><li><strong>Definition 7:</strong> To stamp something in or upon; to make an impression or mark upon by pressure, or as by pressure.</li><li><strong>Definition 8:</strong> To display a string on the terminal.</li><li><strong>Definition 9:</strong> To produce an observable value.<p><strong>Example:</strong> On March 16, 2020, the S&P printed at 2,386.13, one of the worst drops in history.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, relating to, or writing for printed publications.<p><strong>Example:</strong> a print edition of a book</p></li></ul></div></div>"
+description: Yes, PRINT is a valid Wordle word. It was the Wordle answer on August
+  19, 2021 (#61). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 19, 2021 (#61).
+past_answers:
+- date: '2021-08-19'
+  number: 61
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- paint
+- point
+- prent
+- pring
+- prink
+- prunt
+phonetic: "/pɹɪnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Books and other material created by printing presses, considered collectively
+      or as a medium.
+    example: TV and the internet haven't killed print.
+  - text: Clear handwriting, especially, writing without connected letters as in cursive.
+    example: Write in print using block letters.
+  - text: The letters forming the text of a document.
+    example: The print is too small for me to read.
+  - text: A newspaper.
+  - text: A visible impression on a surface.
+    example: Using a crayon, the girl made a print of the leaf under the page.
+  - text: A fingerprint.
+    example: Did the police find any prints at the scene?
+  - text: A footprint.
+  - text: "(visual art) A picture that was created in multiple copies by printing."
+  - text: A photograph that has been printed onto paper from the negative.
+  - text: A copy of a film that can be projected.
+  - text: Cloth that has had a pattern of dye printed onto it.
+  - text: A plaster cast in bas relief.
+- pos: verb
+  defs:
+  - text: 'To produce one or more copies of a text or image on a surface, especially
+      by machine; often used with out or off: print out, print off.'
+    example: Print the draft double-spaced so we can mark changes between the lines.
+  - text: To produce a microchip (an integrated circuit) in a process resembling the
+      printing of an image.
+    example: The circuitry is printed onto the semiconductor surface.
+  - text: To write very clearly, especially, to write without connecting the letters
+      as in cursive.
+    example: I'm only in grade 2, so I only know how to print.
+  - text: To publish in a book, newspaper, etc.
+    example: How could they print an unfounded rumour like that?
+  - text: To stamp or impress (something) with coloured figures or patterns.
+    example: to print calico
+  - text: To fix or impress, as a stamp, mark, character, idea, etc., into or upon
+      something.
+  - text: To stamp something in or upon; to make an impression or mark upon by pressure,
+      or as by pressure.
+  - text: To display a string on the terminal.
+  - text: To produce an observable value.
+    example: On March 16, 2020, the S&P printed at 2,386.13, one of the worst drops
+      in history.
+- pos: adjective
+  defs:
+  - text: Of, relating to, or writing for printed publications.
+    example: a print edition of a book
 ---
-

@@ -1,7 +1,36 @@
 ---
 layout: word
-title: droid
+title: Is DROID a Wordle Word?
+head_title: Is DROID a Wordle Word? Yes – Valid Guess & Meaning
 word: droid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɹɔɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A robot, especially one made with some physical resemblance to a human.</li></ul></div></div>"
+description: Yes, DROID is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - R
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- droit
+- druid
+- aroid
+- droil
+phonetic: "/ˈdɹɔɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A robot, especially one made with some physical resemblance to a human.
 ---
-

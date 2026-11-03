@@ -1,7 +1,78 @@
 ---
 layout: word
-title: thing
+title: Is THING a Wordle Word?
+head_title: 'Is THING a Wordle Word? Yes – Past Answer #944 & Meaning'
 word: thing
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /θɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is considered to exist as a separate entity, object, quality or concept.</li><li><strong>Definition 2:</strong> A word, symbol, sign, or other referent that can be used to refer to any entity.</li><li><strong>Definition 3:</strong> An individual object or distinct entity.</li><li><strong>Definition 4:</strong> A genuine concept, entity or phenomenon; something that actually exists (often contrary to expectation or belief).<p><strong>Example:</strong> Bacon pie? Is that a thing?</p></li><li><strong>Definition 5:</strong> Whatever can be owned.</li><li><strong>Definition 6:</strong> Corporeal object.</li><li><strong>Definition 7:</strong> (somewhat obsolete, with the) The latest fad or fashion.</li><li><strong>Definition 8:</strong> (in the plural) Clothes, possessions or equipment.<p><strong>Example:</strong> Hold on, let me just grab my things.</p></li><li><strong>Definition 9:</strong> A unit or container, usually containing edible goods.<p><strong>Example:</strong> get me a thing of apple juice at the store;  I just ate a whole thing of jelly beans</p></li><li><strong>Definition 10:</strong> A problem, dilemma, or complicating factor.<p><strong>Example:</strong> The car looks cheap, but the thing is, I have doubts about its safety.</p></li><li><strong>Definition 11:</strong> A penis.</li><li><strong>Definition 12:</strong> A living being or creature.<p><strong>Example:</strong> you poor thing;  she's a funny old thing, but her heart's in the right place;  I met a pretty blond thing at the bar</p></li><li><strong>Definition 13:</strong> That which matters; the crux.<p><strong>Example:</strong> that's the thing: we don't know where he went;  the thing is, I don't have any money</p></li><li><strong>Definition 14:</strong> Used after a noun to refer dismissively to the situation surrounding the noun's referent.<p><strong>Example:</strong> Oh yeah, I'm supposed to promote that vision thing.</p></li><li><strong>Definition 15:</strong> That which is favoured; personal preference. (Used in possessive constructions.)</li><li><strong>Definition 16:</strong> A public assembly or judicial council in a Germanic country.</li><li><strong>Definition 17:</strong> A romantic relationship.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To express as a thing; to reify.</li></ul></div></div>"
+description: Yes, THING is a valid Wordle word. It was the Wordle answer on January
+  19, 2024 (#944). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 19, 2024 (#944).
+past_answers:
+- date: '2024-01-19'
+  number: 944
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- think
+- thong
+- tying
+- ahing
+- ching
+- ehing
+- ohing
+- thang
+- thine
+- thins
+- toing
+anagrams:
+- night
+phonetic: "/θɪŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: That which is considered to exist as a separate entity, object, quality
+      or concept.
+  - text: A word, symbol, sign, or other referent that can be used to refer to any
+      entity.
+  - text: An individual object or distinct entity.
+  - text: A genuine concept, entity or phenomenon; something that actually exists
+      (often contrary to expectation or belief).
+    example: Bacon pie? Is that a thing?
+  - text: Whatever can be owned.
+  - text: Corporeal object.
+  - text: "(somewhat obsolete, with the) The latest fad or fashion."
+  - text: "(in the plural) Clothes, possessions or equipment."
+    example: Hold on, let me just grab my things.
+  - text: A unit or container, usually containing edible goods.
+    example: get me a thing of apple juice at the store;  I just ate a whole thing
+      of jelly beans
+  - text: A problem, dilemma, or complicating factor.
+    example: The car looks cheap, but the thing is, I have doubts about its safety.
+  - text: A penis.
+  - text: A living being or creature.
+    example: you poor thing;  she's a funny old thing, but her heart's in the right
+      place;  I met a pretty blond thing at the bar
+  - text: That which matters; the crux.
+    example: 'that''s the thing: we don''t know where he went;  the thing is, I don''t
+      have any money'
+  - text: Used after a noun to refer dismissively to the situation surrounding the
+      noun's referent.
+    example: Oh yeah, I'm supposed to promote that vision thing.
+  - text: That which is favoured; personal preference. (Used in possessive constructions.)
+  - text: A public assembly or judicial council in a Germanic country.
+  - text: A romantic relationship.
+- pos: verb
+  defs:
+  - text: To express as a thing; to reify.
 ---
-

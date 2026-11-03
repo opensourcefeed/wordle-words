@@ -1,7 +1,46 @@
 ---
 layout: word
-title: dicey
+title: Is DICEY a Wordle Word?
+head_title: 'Is DICEY a Wordle Word? Yes – Past Answer #1219 & Meaning'
 word: dicey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdaɪsi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Fraught with danger.</li><li><strong>Definition 2:</strong> Of uncertain, risky outcome.</li><li><strong>Definition 3:</strong> Of doubtful or uncertain efficacy, provenance, etc.; dodgy.</li><li><strong>Definition 4:</strong> Nauseating, rank.</li></ul></div></div>"
+description: Yes, DICEY is a valid Wordle word. It was the Wordle answer on October
+  20, 2024 (#1219). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 20, 2024 (#1219).
+past_answers:
+- date: '2024-10-20'
+  number: 1219
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- diced
+- dicer
+- dices
+- dicky
+- dicty
+- dikey
+- divey
+- nicey
+- picey
+- ricey
+phonetic: "/ˈdaɪsi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Fraught with danger.
+  - text: Of uncertain, risky outcome.
+  - text: Of doubtful or uncertain efficacy, provenance, etc.; dodgy.
+  - text: Nauseating, rank.
 ---
-

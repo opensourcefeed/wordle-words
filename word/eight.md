@@ -1,7 +1,63 @@
 ---
 layout: word
-title: eight
+title: Is EIGHT a Wordle Word?
+head_title: 'Is EIGHT a Wordle Word? Yes – Past Answer #1665 & Meaning'
 word: eight
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /eɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The digit/figure 8.</li><li><strong>Definition 2:</strong> Any of the four cards in a normal deck with the value eight.</li><li><strong>Definition 3:</strong> A light, narrow rowing boat, especially one used in competitive rowing, steered by a cox, in which eight rowers each have two oars.</li><li><strong>Definition 4:</strong> (especially in plural) A race in which such craft participate.</li><li><strong>Definition 5:</strong> The eight people who crew a rowing-boat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> numeral</p><ul><li><strong>Definition 1:</strong> A numerical value equal to 8; the number occurring after seven and before nine.</li><li><strong>Definition 2:</strong> Describing a group or set with eight elements.<p><strong>Example:</strong> He works eight hours a day.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> The ordinal form of the number eight.</li></ul></div></div>"
+description: Yes, EIGHT is a valid Wordle word. It was the Wordle answer on January
+  9, 2026 (#1665). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 9, 2026 (#1665).
+past_answers:
+- date: '2026-01-09'
+  number: 1665
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- fight
+- light
+- might
+- night
+- right
+- sight
+- tight
+- wight
+- aight
+- bight
+- dight
+- hight
+trap:
+  pattern: _IGHT
+  count: 15
+phonetic: "/eɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The digit/figure 8.
+  - text: Any of the four cards in a normal deck with the value eight.
+  - text: A light, narrow rowing boat, especially one used in competitive rowing,
+      steered by a cox, in which eight rowers each have two oars.
+  - text: "(especially in plural) A race in which such craft participate."
+  - text: The eight people who crew a rowing-boat.
+- pos: numeral
+  defs:
+  - text: A numerical value equal to 8; the number occurring after seven and before
+      nine.
+  - text: Describing a group or set with eight elements.
+    example: He works eight hours a day.
+- pos: adjective
+  defs:
+  - text: The ordinal form of the number eight.
 ---
-

@@ -1,7 +1,40 @@
 ---
 layout: word
-title: deked
+title: Is DEKED a Wordle Word?
+head_title: Is DEKED a Wordle Word? Yes – Valid Guess & Meaning
 word: deked
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To avoid, go around, or dodge an object, person, or conversation topic; often by using trickery.</li><li><strong>Definition 2:</strong> To execute a deke in ice hockey or other sports.</li></ul></div></div>"
+description: Yes, DEKED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - D
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 98
+neighbours:
+- dekes
+- deled
+- dered
+- dewed
+- diked
+- duked
+- dyked
+- reked
+definitions:
+- pos: verb
+  defs:
+  - text: To avoid, go around, or dodge an object, person, or conversation topic;
+      often by using trickery.
+  - text: To execute a deke in ice hockey or other sports.
 ---
-

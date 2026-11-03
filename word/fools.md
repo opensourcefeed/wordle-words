@@ -1,7 +1,61 @@
 ---
 layout: word
-title: fools
+title: Is FOOLS a Wordle Word?
+head_title: Is FOOLS a Wordle Word? Yes – Valid Guess & Meaning
 word: fools
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fuːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person with poor judgment or little intelligence.<p><strong>Example:</strong> The village fool threw his own shoes down the well.</p></li><li><strong>Definition 2:</strong> A jester; a person whose role was to entertain a sovereign and the court (or lower personages).</li><li><strong>Definition 3:</strong> Someone who derives pleasure from something specified.</li><li><strong>Definition 4:</strong> Buddy, dude, man.</li><li><strong>Definition 5:</strong> A type of dessert made of puréed fruit and custard or cream.<p><strong>Example:</strong> an apricot fool; a gooseberry fool</p></li><li><strong>Definition 6:</strong> (often capitalized, Fool) A particular card in a tarot deck, representing a jester.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To trick; to deceive</li><li><strong>Definition 2:</strong> To act in an idiotic manner; to act foolishly</li></ul></div></div>"
+description: Yes, FOOLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- bools
+- cools
+- dools
+- foals
+- foils
+- foods
+- foots
+- fouls
+- fowls
+- gools
+- mools
+- pools
+anagrams:
+- loofs
+trap:
+  pattern: _OOLS
+  count: 10
+phonetic: "/fuːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person with poor judgment or little intelligence.
+    example: The village fool threw his own shoes down the well.
+  - text: A jester; a person whose role was to entertain a sovereign and the court
+      (or lower personages).
+  - text: Someone who derives pleasure from something specified.
+  - text: Buddy, dude, man.
+  - text: A type of dessert made of puréed fruit and custard or cream.
+    example: an apricot fool; a gooseberry fool
+  - text: "(often capitalized, Fool) A particular card in a tarot deck, representing
+      a jester."
+- pos: verb
+  defs:
+  - text: To trick; to deceive
+  - text: To act in an idiotic manner; to act foolishly
 ---
-

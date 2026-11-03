@@ -1,7 +1,77 @@
 ---
 layout: word
-title: stuck
+title: Is STUCK a Wordle Word?
+head_title: Is STUCK a Wordle Word? Yes – Possible Answer & Meaning
 word: stuck
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈstʌk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become or remain attached; to adhere.<p><strong>Example:</strong> The tape will not stick if it melts.</p></li><li><strong>Definition 2:</strong> To jam; to stop moving.<p><strong>Example:</strong> The lever sticks if you push it too far up.</p></li><li><strong>Definition 3:</strong> To tolerate, to endure, to stick with.</li><li><strong>Definition 4:</strong> To persist.<p><strong>Example:</strong> His old nickname stuck.</p></li><li><strong>Definition 5:</strong> Of snow, to remain frozen on landing.</li><li><strong>Definition 6:</strong> To remain loyal; to remain firm.<p><strong>Example:</strong> Just stick to your strategy, and you will win.</p></li><li><strong>Definition 7:</strong> To hesitate, to be reluctant; to refuse (in negative phrases).</li><li><strong>Definition 8:</strong> To be puzzled (at something), have difficulty understanding.</li><li><strong>Definition 9:</strong> To cause difficulties, scruples, or hesitation.</li><li><strong>Definition 10:</strong> To attach with glue or as if by gluing.<p><strong>Example:</strong> Stick the label on the jar.</p></li><li><strong>Definition 11:</strong> To place, set down (quickly or carelessly).<p><strong>Example:</strong> Stick your bag over there and come with me.</p></li><li><strong>Definition 12:</strong> To press (something with a sharp point) into something else.<p><strong>Example:</strong> The balloon will pop when I stick this pin in it.</p></li><li><strong>Definition 13:</strong> To fix on a pointed instrument; to impale.<p><strong>Example:</strong> to stick an apple on a fork</p></li><li><strong>Definition 14:</strong> To adorn or deck with things fastened on as by piercing.</li><li><strong>Definition 15:</strong> To perform (a landing) perfectly.<p><strong>Example:</strong> Once again, the world champion sticks the dismount.</p></li><li><strong>Definition 16:</strong> To propagate plants by cuttings.<p><strong>Example:</strong> Stick cuttings from geraniums promptly.</p></li><li><strong>Definition 17:</strong> (joinery) To run or plane (mouldings) in a machine, in contradistinction to working them by hand. Such mouldings are said to be stuck.</li><li><strong>Definition 18:</strong> To bring to a halt; to stymie; to puzzle.<p><strong>Example:</strong> to stick somebody with a hard problem</p></li><li><strong>Definition 19:</strong> To impose upon; to compel to pay; sometimes, to cheat.</li><li><strong>Definition 20:</strong> To have sexual intercourse with.</li><li><strong>Definition 21:</strong> To stand pat: to cease taking any more cards and finalize one's hand.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Unable to move.<p><strong>Example:</strong> Can you shift this gate? I think it’s stuck.</p></li><li><strong>Definition 2:</strong> Unable to progress with a task.<p><strong>Example:</strong> I’m totally stuck on this question in the test.</p></li><li><strong>Definition 3:</strong> No longer functioning, frozen up, frozen.<p><strong>Example:</strong> There are several ways to close a stuck program.</p></li></ul></div></div>"
+description: Yes, STUCK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- shuck
+- snuck
+- stack
+- stick
+- stock
+- stunk
+- stucs
+anagrams:
+- tucks
+phonetic: "/ˈstʌk/"
+definitions:
+- pos: verb
+  defs:
+  - text: To become or remain attached; to adhere.
+    example: The tape will not stick if it melts.
+  - text: To jam; to stop moving.
+    example: The lever sticks if you push it too far up.
+  - text: To tolerate, to endure, to stick with.
+  - text: To persist.
+    example: His old nickname stuck.
+  - text: Of snow, to remain frozen on landing.
+  - text: To remain loyal; to remain firm.
+    example: Just stick to your strategy, and you will win.
+  - text: To hesitate, to be reluctant; to refuse (in negative phrases).
+  - text: To be puzzled (at something), have difficulty understanding.
+  - text: To cause difficulties, scruples, or hesitation.
+  - text: To attach with glue or as if by gluing.
+    example: Stick the label on the jar.
+  - text: To place, set down (quickly or carelessly).
+    example: Stick your bag over there and come with me.
+  - text: To press (something with a sharp point) into something else.
+    example: The balloon will pop when I stick this pin in it.
+  - text: To fix on a pointed instrument; to impale.
+    example: to stick an apple on a fork
+  - text: To adorn or deck with things fastened on as by piercing.
+  - text: To perform (a landing) perfectly.
+    example: Once again, the world champion sticks the dismount.
+  - text: To propagate plants by cuttings.
+    example: Stick cuttings from geraniums promptly.
+  - text: "(joinery) To run or plane (mouldings) in a machine, in contradistinction
+      to working them by hand. Such mouldings are said to be stuck."
+  - text: To bring to a halt; to stymie; to puzzle.
+    example: to stick somebody with a hard problem
+  - text: To impose upon; to compel to pay; sometimes, to cheat.
+  - text: To have sexual intercourse with.
+  - text: 'To stand pat: to cease taking any more cards and finalize one''s hand.'
+- pos: adjective
+  defs:
+  - text: Unable to move.
+    example: Can you shift this gate? I think it’s stuck.
+  - text: Unable to progress with a task.
+    example: I’m totally stuck on this question in the test.
+  - text: No longer functioning, frozen up, frozen.
+    example: There are several ways to close a stuck program.
 ---
-

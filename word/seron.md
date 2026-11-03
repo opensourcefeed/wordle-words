@@ -1,7 +1,36 @@
 ---
 layout: word
-title: seron
+title: Is SERON a Wordle Word?
+head_title: Is SERON a Wordle Word? Yes – Valid Guess
 word: seron
-meaning: ""
+description: Yes, SERON is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - O
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- heron
+- serin
+- serow
+- seton
+anagrams:
+- snore
+- noser
+- oners
+- renos
+- rones
+- senor
 ---
-

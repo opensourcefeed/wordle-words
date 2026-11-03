@@ -1,7 +1,34 @@
 ---
 layout: word
-title: payee
+title: Is PAYEE a Wordle Word?
+head_title: Is PAYEE a Wordle Word? Yes – Possible Answer & Meaning
 word: payee
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One to whom money is paid.</li></ul></div></div>"
+description: Yes, PAYEE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- payer
+- patee
+- payed
+- sayee
+definitions:
+- pos: noun
+  defs:
+  - text: One to whom money is paid.
 ---
-

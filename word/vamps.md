@@ -1,7 +1,69 @@
 ---
 layout: word
-title: vamps
+title: Is VAMPS a Wordle Word?
+head_title: Is VAMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: vamps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The top part of a boot or shoe, above the sole and welt and in front of the ankle seam, that covers the instep and toes; the front part of an upper; the analogous part of a stocking.</li><li><strong>Definition 2:</strong> Something added to give an old thing a new appearance.</li><li><strong>Definition 3:</strong> Something patched up, pieced together, improvised, or refurbished.</li><li><strong>Definition 4:</strong> A repeated and often improvised accompaniment, usually consisting of one or two measures, often a single chord or simple chord progression, repeated as necessary, for example, to accommodate dialogue or to anticipate the entrance of a soloist.</li><li><strong>Definition 5:</strong> (by extension) An activity or speech intended to fill or stall for time.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To patch, repair, or refurbish.</li><li><strong>Definition 2:</strong> Often as vamp up: to fabricate or put together (something) from existing material, or by adding new material to something existing.</li><li><strong>Definition 3:</strong> To cobble together, to extemporize, to improvise.</li><li><strong>Definition 4:</strong> (shoemaking) To attach a vamp (to footwear).</li><li><strong>Definition 5:</strong> To travel by foot; to walk.</li><li><strong>Definition 6:</strong> To delay or stall for time, as for an audience.<p><strong>Example:</strong> Keep vamping! Something’s wrong with the mic!</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A flirtatious, seductive woman, especially one who exploits men by using their sexual desire for her.</li><li><strong>Definition 2:</strong> A vampire.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To seduce or exploit someone.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A volunteer firefighter.</li></ul></div></div>"
+description: Yes, VAMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- camps
+- damps
+- gamps
+- lamps
+- ramps
+- samps
+- tamps
+- vampy
+trap:
+  pattern: _AMPS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: The top part of a boot or shoe, above the sole and welt and in front of
+      the ankle seam, that covers the instep and toes; the front part of an upper;
+      the analogous part of a stocking.
+  - text: Something added to give an old thing a new appearance.
+  - text: Something patched up, pieced together, improvised, or refurbished.
+  - text: A repeated and often improvised accompaniment, usually consisting of one
+      or two measures, often a single chord or simple chord progression, repeated
+      as necessary, for example, to accommodate dialogue or to anticipate the entrance
+      of a soloist.
+  - text: "(by extension) An activity or speech intended to fill or stall for time."
+- pos: verb
+  defs:
+  - text: To patch, repair, or refurbish.
+  - text: 'Often as vamp up: to fabricate or put together (something) from existing
+      material, or by adding new material to something existing.'
+  - text: To cobble together, to extemporize, to improvise.
+  - text: "(shoemaking) To attach a vamp (to footwear)."
+  - text: To travel by foot; to walk.
+  - text: To delay or stall for time, as for an audience.
+    example: Keep vamping! Something’s wrong with the mic!
+- pos: noun
+  defs:
+  - text: A flirtatious, seductive woman, especially one who exploits men by using
+      their sexual desire for her.
+  - text: A vampire.
+- pos: verb
+  defs:
+  - text: To seduce or exploit someone.
+- pos: noun
+  defs:
+  - text: A volunteer firefighter.
 ---
-

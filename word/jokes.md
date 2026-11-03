@@ -1,7 +1,65 @@
 ---
 layout: word
-title: jokes
+title: Is JOKES a Wordle Word?
+head_title: Is JOKES a Wordle Word? Yes – Valid Guess & Meaning
 word: jokes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An amusing story.</li><li><strong>Definition 2:</strong> Something said or done for amusement, not in seriousness.<p><strong>Example:</strong> It was a joke!</p></li><li><strong>Definition 3:</strong> The root cause or main issue, especially an unexpected one</li><li><strong>Definition 4:</strong> A laughably worthless thing or person; a sham.<p><strong>Example:</strong> The president was a joke.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To do or say something for amusement rather than seriously.<p><strong>Example:</strong> I didn’t mean what I said — I was only joking.</p></li><li><strong>Definition 2:</strong> (intransitive, followed by with) To dupe in a friendly manner for amusement; to mess with, play with.<p><strong>Example:</strong> Relax, man, I'm just joking with you.</p></li><li><strong>Definition 3:</strong> To make merry with; to make jokes upon; to rally.<p><strong>Example:</strong> to joke a comrade</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Really good.</li><li><strong>Definition 2:</strong> Funny or entertaining.<p><strong>Example:</strong> Man, that video is bare jokes!</p></li></ul></div></div>"
+description: Yes, JOKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- joker
+- bokes
+- cokes
+- gokes
+- hokes
+- jakes
+- jobes
+- joked
+- jokey
+- joles
+- jones
+- jukes
+trap:
+  pattern: _OKES
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: An amusing story.
+  - text: Something said or done for amusement, not in seriousness.
+    example: It was a joke!
+  - text: The root cause or main issue, especially an unexpected one
+  - text: A laughably worthless thing or person; a sham.
+    example: The president was a joke.
+- pos: verb
+  defs:
+  - text: To do or say something for amusement rather than seriously.
+    example: I didn’t mean what I said — I was only joking.
+  - text: "(intransitive, followed by with) To dupe in a friendly manner for amusement;
+      to mess with, play with."
+    example: Relax, man, I'm just joking with you.
+  - text: To make merry with; to make jokes upon; to rally.
+    example: to joke a comrade
+- pos: adjective
+  defs:
+  - text: Really good.
+  - text: Funny or entertaining.
+    example: Man, that video is bare jokes!
 ---
-

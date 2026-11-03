@@ -1,7 +1,41 @@
 ---
 layout: word
-title: vigil
+title: Is VIGIL a Wordle Word?
+head_title: Is VIGIL a Wordle Word? Yes – Possible Answer & Meaning
 word: vigil
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈvɪdʒəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An instance of keeping awake during normal sleeping hours, especially to keep watch or pray.</li><li><strong>Definition 2:</strong> A period of observation or surveillance at any hour.<p><strong>Example:</strong> His dog kept vigil outside the hospital for eight days while he was recovering from an accident.</p></li><li><strong>Definition 3:</strong> The eve of a religious festival in which staying awake is part of the ritual devotions.</li><li><strong>Definition 4:</strong> A quiet demonstration in support of a cause.<p><strong>Example:</strong> The protesters kept vigil outside the conference centre in which the party congress was being held.</p></li></ul></div></div>"
+description: Yes, VIGIL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- sigil
+- vigia
+phonetic: "/ˈvɪdʒəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: An instance of keeping awake during normal sleeping hours, especially to
+      keep watch or pray.
+  - text: A period of observation or surveillance at any hour.
+    example: His dog kept vigil outside the hospital for eight days while he was recovering
+      from an accident.
+  - text: The eve of a religious festival in which staying awake is part of the ritual
+      devotions.
+  - text: A quiet demonstration in support of a cause.
+    example: The protesters kept vigil outside the conference centre in which the
+      party congress was being held.
 ---
-

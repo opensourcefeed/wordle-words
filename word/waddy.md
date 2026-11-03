@@ -1,7 +1,44 @@
 ---
 layout: word
-title: waddy
+title: Is WADDY a Wordle Word?
+head_title: Is WADDY a Wordle Word? Yes – Valid Guess & Meaning
 word: waddy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwɒdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cowboy.</li></ul></div></div>"
+description: Yes, WADDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- caddy
+- daddy
+- paddy
+- baddy
+- faddy
+- laddy
+- maddy
+- raddy
+- saddy
+- wadds
+- widdy
+- wuddy
+trap:
+  pattern: _ADDY
+  count: 10
+phonetic: "/ˈwɒdi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cowboy.
 ---
-

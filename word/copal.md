@@ -1,7 +1,38 @@
 ---
 layout: word
-title: copal
+title: Is COPAL a Wordle Word?
+head_title: Is COPAL a Wordle Word? Yes – Valid Guess & Meaning
 word: copal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkəʊp(ə)l/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A resinous exudation from various tropical trees, especially Hymenaea courbaril and Schinus terebinthifolia, used chiefly in making varnishes and printing ink.</li></ul></div></div>"
+description: Yes, COPAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- coral
+- comal
+- copay
+- cowal
+- coxal
+- nopal
+phonetic: "/ˈkəʊp(ə)l/"
+definitions:
+- pos: noun
+  defs:
+  - text: A resinous exudation from various tropical trees, especially Hymenaea courbaril
+      and Schinus terebinthifolia, used chiefly in making varnishes and printing ink.
 ---
-

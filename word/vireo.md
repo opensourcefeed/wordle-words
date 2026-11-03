@@ -1,7 +1,40 @@
 ---
 layout: word
-title: vireo
+title: Is VIREO a Wordle Word?
+head_title: Is VIREO a Wordle Word? Yes – Valid Guess & Meaning
 word: vireo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of a number of small insectivorous passerine birds, of the genus Vireo, that have grey-green plumage.</li><li><strong>Definition 2:</strong> Any bird of the family Vireonidae, which includes vireos, shrike-vireo, greenlets and peppershrikes.</li><li><strong>Definition 3:</strong> (in plural) The family Vireonidae.</li></ul></div></div>"
+description: Yes, VIREO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - R
+  - E
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- video
+- vired
+- vires
+- virgo
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a number of small insectivorous passerine birds, of the genus Vireo,
+      that have grey-green plumage.
+  - text: Any bird of the family Vireonidae, which includes vireos, shrike-vireo,
+      greenlets and peppershrikes.
+  - text: "(in plural) The family Vireonidae."
 ---
-

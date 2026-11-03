@@ -1,7 +1,59 @@
 ---
 layout: word
-title: helms
+title: Is HELMS a Wordle Word?
+head_title: Is HELMS a Wordle Word? Yes – Valid Guess & Meaning
 word: helms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hɛlmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The stems of various cultivated plants, left after harvesting the crop to be used as animal litter or for thatching.</li><li><strong>Definition 2:</strong> An individual plant stem.</li><li><strong>Definition 3:</strong> Part of a harness; a hame.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The steering apparatus of a ship, especially the tiller or wheel.</li><li><strong>Definition 2:</strong> (maritime) The member of the crew in charge of steering the boat.</li><li><strong>Definition 3:</strong> A position of leadership or control.<p><strong>Example:</strong> the helm of the Commonwealth</p></li><li><strong>Definition 4:</strong> One at the place of direction or control; a guide; a director.</li><li><strong>Definition 5:</strong> A helve.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be a helmsman or a member of the helm; to be in charge of steering the boat.</li><li><strong>Definition 2:</strong> (by extension) To lead (a project, etc.).</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A helmet.</li><li><strong>Definition 2:</strong> A helmet.</li><li><strong>Definition 3:</strong> A heavy cloud lying on the brow of a mountain.</li></ul></div></div>"
+description: Yes, HELMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- halms
+- heles
+- hells
+- helos
+- helps
+- herms
+- holms
+- yelms
+phonetic: "/hɛlmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The stems of various cultivated plants, left after harvesting the crop to
+      be used as animal litter or for thatching.
+  - text: An individual plant stem.
+  - text: Part of a harness; a hame.
+- pos: noun
+  defs:
+  - text: The steering apparatus of a ship, especially the tiller or wheel.
+  - text: "(maritime) The member of the crew in charge of steering the boat."
+  - text: A position of leadership or control.
+    example: the helm of the Commonwealth
+  - text: One at the place of direction or control; a guide; a director.
+  - text: A helve.
+- pos: verb
+  defs:
+  - text: To be a helmsman or a member of the helm; to be in charge of steering the
+      boat.
+  - text: "(by extension) To lead (a project, etc.)."
+- pos: noun
+  defs:
+  - text: A helmet.
+  - text: A helmet.
+  - text: A heavy cloud lying on the brow of a mountain.
 ---
-

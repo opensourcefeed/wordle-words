@@ -1,7 +1,74 @@
 ---
 layout: word
-title: kings
+title: Is KINGS a Wordle Word?
+head_title: Is KINGS a Wordle Word? Yes – Valid Guess & Meaning
 word: kings
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɪŋz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.<p><strong>Example:</strong> Henry VIII was the king of England from 1509 to 1547.</p></li><li><strong>Definition 2:</strong> A powerful or majorly influential person.<p><strong>Example:</strong> Howard Stern styled himself as the \"king of all media\".</p></li><li><strong>Definition 3:</strong> Something that has a preeminent position.<p><strong>Example:</strong> In times of financial panic, cash is king.</p></li><li><strong>Definition 4:</strong> A component of certain games.</li><li><strong>Definition 5:</strong> A king skin.<p><strong>Example:</strong> Oi mate, have you got kings?</p></li><li><strong>Definition 6:</strong> A male dragonfly; a drake.</li><li><strong>Definition 7:</strong> A king-sized bed.</li><li><strong>Definition 8:</strong> A male person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To crown king, to make (a person) king.</li><li><strong>Definition 2:</strong> To rule over as king.</li><li><strong>Definition 3:</strong> To perform the duties of a king.</li><li><strong>Definition 4:</strong> To assume or pretend preeminence (over); to lord it over.</li><li><strong>Definition 5:</strong> To promote a piece of draughts/checkers that has traversed the board to the opposite side, that piece subsequently being permitted to move backwards as well as forwards.</li><li><strong>Definition 6:</strong> To dress and perform as a drag king.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A drinking game that uses playing cards.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sounding stone, a Chinese musical instrument.</li></ul></div></div>"
+description: Yes, KINGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- bings
+- dings
+- gings
+- hings
+- jings
+- kangs
+- kinas
+- kinds
+- kines
+- kingy
+- kinks
+- kinos
+anagrams:
+- ginks
+trap:
+  pattern: _INGS
+  count: 14
+phonetic: "/kɪŋz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A male monarch; a man who heads a monarchy. If it's an absolute monarchy,
+      then he is the supreme ruler of his nation.
+    example: Henry VIII was the king of England from 1509 to 1547.
+  - text: A powerful or majorly influential person.
+    example: Howard Stern styled himself as the "king of all media".
+  - text: Something that has a preeminent position.
+    example: In times of financial panic, cash is king.
+  - text: A component of certain games.
+  - text: A king skin.
+    example: Oi mate, have you got kings?
+  - text: A male dragonfly; a drake.
+  - text: A king-sized bed.
+  - text: A male person.
+- pos: verb
+  defs:
+  - text: To crown king, to make (a person) king.
+  - text: To rule over as king.
+  - text: To perform the duties of a king.
+  - text: To assume or pretend preeminence (over); to lord it over.
+  - text: To promote a piece of draughts/checkers that has traversed the board to
+      the opposite side, that piece subsequently being permitted to move backwards
+      as well as forwards.
+  - text: To dress and perform as a drag king.
+- pos: noun
+  defs:
+  - text: A drinking game that uses playing cards.
+- pos: noun
+  defs:
+  - text: A sounding stone, a Chinese musical instrument.
 ---
-

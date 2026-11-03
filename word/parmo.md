@@ -1,7 +1,38 @@
 ---
 layout: word
-title: parmo
+title: Is PARMO a Wordle Word?
+head_title: Is PARMO a Wordle Word? Yes – Valid Guess & Meaning
 word: parmo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (chiefly Teesside) A north-eastern English dish of deep-fried breaded chicken topped with béchamel sauce and cheese, sometimes served like a pizza with additional toppings.</li></ul></div></div>"
+description: Yes, PARMO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- pareo
+- pargo
+- parma
+- parms
+- parvo
+- pasmo
+definitions:
+- pos: noun
+  defs:
+  - text: "(chiefly Teesside) A north-eastern English dish of deep-fried breaded chicken
+      topped with béchamel sauce and cheese, sometimes served like a pizza with additional
+      toppings."
 ---
-

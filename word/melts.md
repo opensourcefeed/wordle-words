@@ -1,7 +1,68 @@
 ---
 layout: word
-title: melts
+title: Is MELTS a Wordle Word?
+head_title: Is MELTS a Wordle Word? Yes – Valid Guess & Meaning
 word: melts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Molten material, the product of melting.</li><li><strong>Definition 2:</strong> The transition of matter from a solid state to a liquid state.</li><li><strong>Definition 3:</strong> The springtime snow runoff in mountain regions.</li><li><strong>Definition 4:</strong> A melt sandwich.</li><li><strong>Definition 5:</strong> A wax-based substance for use in an oil burner as an alternative to mixing oils and water.</li><li><strong>Definition 6:</strong> An idiot.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To change (or to be changed) from a solid state to a liquid state, usually by a gradual heat.<p><strong>Example:</strong> I melted butter to make a cake.</p></li><li><strong>Definition 2:</strong> To dissolve, disperse, vanish.<p><strong>Example:</strong> His troubles melted away.</p></li><li><strong>Definition 3:</strong> To soften, as by a warming or kindly influence; to relax; to render gentle or susceptible to mild influences; sometimes, in a bad sense, to take away the firmness of; to weaken.</li><li><strong>Definition 4:</strong> To be discouraged.</li><li><strong>Definition 5:</strong> To be emotionally softened or touched.<p><strong>Example:</strong> She melted when she saw the romantic message in the Valentine's Day card.</p></li><li><strong>Definition 6:</strong> To be very hot and sweat profusely.<p><strong>Example:</strong> I need shade! I'm melting!</p></li></ul></div></div>"
+description: Yes, MELTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- belts
+- celts
+- delts
+- felts
+- gelts
+- kelts
+- malts
+- meats
+- meets
+- melas
+- melds
+- meles
+anagrams:
+- smelt
+trap:
+  pattern: _ELTS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: Molten material, the product of melting.
+  - text: The transition of matter from a solid state to a liquid state.
+  - text: The springtime snow runoff in mountain regions.
+  - text: A melt sandwich.
+  - text: A wax-based substance for use in an oil burner as an alternative to mixing
+      oils and water.
+  - text: An idiot.
+- pos: verb
+  defs:
+  - text: To change (or to be changed) from a solid state to a liquid state, usually
+      by a gradual heat.
+    example: I melted butter to make a cake.
+  - text: To dissolve, disperse, vanish.
+    example: His troubles melted away.
+  - text: To soften, as by a warming or kindly influence; to relax; to render gentle
+      or susceptible to mild influences; sometimes, in a bad sense, to take away the
+      firmness of; to weaken.
+  - text: To be discouraged.
+  - text: To be emotionally softened or touched.
+    example: She melted when she saw the romantic message in the Valentine's Day card.
+  - text: To be very hot and sweat profusely.
+    example: I need shade! I'm melting!
 ---
-

@@ -1,7 +1,33 @@
 ---
 layout: word
-title: jumar
+title: Is JUMAR a Wordle Word?
+head_title: Is JUMAR a Wordle Word? Yes – Valid Guess & Meaning
 word: jumar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A device, used to clip on a rope, that tightens when weight is applied, thus allowing the rope to be climbed.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To climb using this device.</li></ul></div></div>"
+description: Yes, JUMAR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 66
+definitions:
+- pos: noun
+  defs:
+  - text: A device, used to clip on a rope, that tightens when weight is applied,
+      thus allowing the rope to be climbed.
+- pos: verb
+  defs:
+  - text: To climb using this device.
 ---
-

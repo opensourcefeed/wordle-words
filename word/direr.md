@@ -1,7 +1,54 @@
 ---
 layout: word
-title: direr
+title: Is DIRER a Wordle Word?
+head_title: Is DIRER a Wordle Word? Yes – Valid Guess & Meaning
 word: direr
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Warning of bad consequences: ill-boding; portentous.<p><strong>Example:</strong> dire omens</p></li><li><strong>Definition 2:</strong> Requiring action to prevent bad consequences: urgent, pressing.<p><strong>Example:</strong> dire need</p></li><li><strong>Definition 3:</strong> Expressing bad consequences: dreadful; dismal<p><strong>Example:</strong> dire consequences;  to be in dire straits</p></li><li><strong>Definition 4:</strong> Bad in quality, awful, terrible.</li></ul></div></div>"
+description: Yes, DIRER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - I
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- diner
+- diver
+- airer
+- darer
+- dicer
+- diker
+- dimer
+- firer
+- hirer
+- wirer
+anagrams:
+- drier
+- rider
+- reird
+trap:
+  pattern: DI_ER
+  count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: 'Warning of bad consequences: ill-boding; portentous.'
+    example: dire omens
+  - text: 'Requiring action to prevent bad consequences: urgent, pressing.'
+    example: dire need
+  - text: 'Expressing bad consequences: dreadful; dismal'
+    example: dire consequences;  to be in dire straits
+  - text: Bad in quality, awful, terrible.
 ---
-

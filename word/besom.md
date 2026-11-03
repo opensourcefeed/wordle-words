@@ -1,7 +1,41 @@
 ---
 layout: word
-title: besom
+title: Is BESOM a Wordle Word?
+head_title: Is BESOM a Wordle Word? Yes – Valid Guess & Meaning
 word: besom
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbiː.zəm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A broom made from a bundle of twigs tied onto a shaft.</li><li><strong>Definition 2:</strong> A troublesome woman.</li><li><strong>Definition 3:</strong> Any cleansing or purifying agent.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sweep.</li></ul></div></div>"
+description: Yes, BESOM is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- bosom
+- besot
+- bisom
+anagrams:
+- mebos
+- mobes
+phonetic: "/ˈbiː.zəm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A broom made from a bundle of twigs tied onto a shaft.
+  - text: A troublesome woman.
+  - text: Any cleansing or purifying agent.
+- pos: verb
+  defs:
+  - text: To sweep.
 ---
-

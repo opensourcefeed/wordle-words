@@ -1,7 +1,40 @@
 ---
 layout: word
-title: makar
+title: Is MAKAR a Wordle Word?
+head_title: Is MAKAR a Wordle Word? Yes – Valid Guess & Meaning
 word: makar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmakə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A poet writing in Scots.</li></ul></div></div>"
+description: Yes, MAKAR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- maker
+- madar
+- makaf
+- makai
+- makan
+- malar
+- mazar
+anagrams:
+- karma
+- marka
+phonetic: "/ˈmakə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A poet writing in Scots.
 ---
-

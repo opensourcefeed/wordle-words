@@ -1,7 +1,45 @@
 ---
 layout: word
-title: hiker
+title: Is HIKER a Wordle Word?
+head_title: Is HIKER a Wordle Word? Yes – Valid Guess & Meaning
 word: hiker
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhaɪkɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who hikes, especially frequently.</li></ul></div></div>"
+description: Yes, HIKER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- biker
+- diker
+- hider
+- hiked
+- hikes
+- hiper
+- hirer
+- hiver
+- liker
+- piker
+- siker
+trap:
+  pattern: _IKER
+  count: 6
+phonetic: "/ˈhaɪkɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who hikes, especially frequently.
 ---
-

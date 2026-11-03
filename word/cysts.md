@@ -1,7 +1,36 @@
 ---
 layout: word
-title: cysts
+title: Is CYSTS a Wordle Word?
+head_title: Is CYSTS a Wordle Word? Yes – Valid Guess & Meaning
 word: cysts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sɪsts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pouch or sac without opening, usually membranous and containing morbid matter, which develops in one of the natural cavities or in the substance of an organ.</li><li><strong>Definition 2:</strong> Of or pertaining to the urinary bladder or gall bladder (in compounds).</li></ul></div></div>"
+description: Yes, CYSTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels: []
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- casts
+- cists
+- costs
+- xysts
+phonetic: "/sɪsts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pouch or sac without opening, usually membranous and containing morbid
+      matter, which develops in one of the natural cavities or in the substance of
+      an organ.
+  - text: Of or pertaining to the urinary bladder or gall bladder (in compounds).
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: oared
+title: Is OARED a Wordle Word?
+head_title: Is OARED a Wordle Word? Yes – Valid Guess & Meaning
 word: oared
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having oars.</li></ul></div></div>"
+description: Yes, OARED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 2
+neighbours:
+- bared
+- cared
+- dared
+- eared
+- fared
+- hared
+- oaked
+- oarer
+- pared
+- rared
+- sared
+- tared
+anagrams:
+- adore
+- oread
+trap:
+  pattern: _ARED
+  count: 12
+definitions:
+- pos: adjective
+  defs:
+  - text: Having oars.
 ---
-

@@ -1,7 +1,34 @@
 ---
 layout: word
-title: washi
+title: Is WASHI a Wordle Word?
+head_title: Is WASHI a Wordle Word? Yes – Valid Guess & Meaning
 word: washi
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tough paper used in traditional Japanese art forms.</li></ul></div></div>"
+description: Yes, WASHI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- dashi
+- nashi
+- washy
+anagrams:
+- wisha
+definitions:
+- pos: noun
+  defs:
+  - text: A tough paper used in traditional Japanese art forms.
 ---
-

@@ -1,6 +1,37 @@
 ---
 layout: word
-title: gandy
+title: Is GANDY a Wordle Word?
+head_title: Is GANDY a Wordle Word? Yes – Valid Guess
 word: gandy
+description: Yes, GANDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- candy
+- dandy
+- gaudy
+- handy
+- randy
+- sandy
+- bandy
+- gundy
+- kandy
+- mandy
+- pandy
+- yandy
+trap:
+  pattern: _ANDY
+  count: 11
 ---
-

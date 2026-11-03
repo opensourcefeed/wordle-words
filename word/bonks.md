@@ -1,7 +1,56 @@
 ---
 layout: word
-title: bonks
+title: Is BONKS a Wordle Word?
+head_title: Is BONKS a Wordle Word? Yes – Valid Guess & Meaning
 word: bonks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bump on the head.</li><li><strong>Definition 2:</strong> Any minor collision or random meeting.</li><li><strong>Definition 3:</strong> An act of sexual intercourse.</li><li><strong>Definition 4:</strong> A condition of sudden, severe fatigue in an endurance sports event caused by glycogen depletion.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To strike or collide with something.</li><li><strong>Definition 2:</strong> To have sexual intercourse.</li><li><strong>Definition 3:</strong> To hit something with the front of the board, especially in midair.</li><li><strong>Definition 4:</strong> To experience sudden and severe fatigue in an endurance sports event due to glycogen depletion.</li></ul></div></div>"
+description: Yes, BONKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- bonus
+- banks
+- binks
+- boaks
+- bocks
+- bolks
+- bonds
+- bones
+- bongs
+- books
+- borks
+- bosks
+anagrams:
+- knobs
+trap:
+  pattern: _ONKS
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A bump on the head.
+  - text: Any minor collision or random meeting.
+  - text: An act of sexual intercourse.
+  - text: A condition of sudden, severe fatigue in an endurance sports event caused
+      by glycogen depletion.
+- pos: verb
+  defs:
+  - text: To strike or collide with something.
+  - text: To have sexual intercourse.
+  - text: To hit something with the front of the board, especially in midair.
+  - text: To experience sudden and severe fatigue in an endurance sports event due
+      to glycogen depletion.
 ---
-

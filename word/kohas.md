@@ -1,7 +1,40 @@
 ---
 layout: word
-title: kohas
+title: Is KOHAS a Wordle Word?
+head_title: Is KOHAS a Wordle Word? Yes – Valid Guess & Meaning
 word: kohas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (chiefly Sri Lanka) The koel (Eudynamys), a genus of cuckoos from Asia, Australia, and the Pacific with a distinctive loud call; specifically, the Asian koel (Eudynamys scolopaceus).</li></ul></div></div>"
+description: Yes, KOHAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- kohls
+- kokas
+- kolas
+- koras
+anagrams:
+- hokas
+- shako
+- sokah
+definitions:
+- pos: noun
+  defs:
+  - text: "(chiefly Sri Lanka) The koel (Eudynamys), a genus of cuckoos from Asia,
+      Australia, and the Pacific with a distinctive loud call; specifically, the Asian
+      koel (Eudynamys scolopaceus)."
 ---
-

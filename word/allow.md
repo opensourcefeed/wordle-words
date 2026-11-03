@@ -1,7 +1,61 @@
 ---
 layout: word
-title: allow
+title: Is ALLOW a Wordle Word?
+head_title: 'Is ALLOW a Wordle Word? Yes – Past Answer #273 & Meaning'
 word: allow
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈlaʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grant, give, admit, accord, afford, or yield; to let one have.<p><strong>Example:</strong> to allow a servant his liberty;  to allow a free passage;  to allow one day for rest</p></li><li><strong>Definition 2:</strong> To acknowledge; to accept as true; to concede; to accede to an opinion.<p><strong>Example:</strong> to allow a right;  to allow a claim;  to allow the truth of a proposition</p></li><li><strong>Definition 3:</strong> To grant (something) as a deduction or an addition; especially to abate or deduct.<p><strong>Example:</strong> To allow a sum for leakage.</p></li><li><strong>Definition 4:</strong> To grant license to; to permit; to consent to.<p><strong>Example:</strong> Smoking allowed only in designated areas.</p></li><li><strong>Definition 5:</strong> To not bar or obstruct.<p><strong>Example:</strong> Although I don't consent to their holding such meetings, I will allow them for the time being.</p></li><li><strong>Definition 6:</strong> To acknowledge or concede.</li><li><strong>Definition 7:</strong> To take into account by making an allowance.<p><strong>Example:</strong> When calculating a budget for a construction project, always allow for contingencies.</p></li><li><strong>Definition 8:</strong> To render physically possible.</li><li><strong>Definition 9:</strong> To praise; to approve of; hence, to sanction.</li><li><strong>Definition 10:</strong> To sanction; to invest; to entrust.</li><li><strong>Definition 11:</strong> To like; to be suited or pleased with.</li></ul></div></div>"
+description: Yes, ALLOW is a valid Wordle word. It was the Wordle answer on March
+  19, 2022 (#273). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 19, 2022 (#273).
+past_answers:
+- date: '2022-03-19'
+  number: 273
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - A
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 72
+neighbours:
+- aglow
+- allot
+- alloy
+- ablow
+- aflow
+- allod
+phonetic: "/əˈlaʊ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To grant, give, admit, accord, afford, or yield; to let one have.
+    example: to allow a servant his liberty;  to allow a free passage;  to allow one
+      day for rest
+  - text: To acknowledge; to accept as true; to concede; to accede to an opinion.
+    example: to allow a right;  to allow a claim;  to allow the truth of a proposition
+  - text: To grant (something) as a deduction or an addition; especially to abate
+      or deduct.
+    example: To allow a sum for leakage.
+  - text: To grant license to; to permit; to consent to.
+    example: Smoking allowed only in designated areas.
+  - text: To not bar or obstruct.
+    example: Although I don't consent to their holding such meetings, I will allow
+      them for the time being.
+  - text: To acknowledge or concede.
+  - text: To take into account by making an allowance.
+    example: When calculating a budget for a construction project, always allow for
+      contingencies.
+  - text: To render physically possible.
+  - text: To praise; to approve of; hence, to sanction.
+  - text: To sanction; to invest; to entrust.
+  - text: To like; to be suited or pleased with.
 ---
-

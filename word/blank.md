@@ -1,7 +1,100 @@
 ---
 layout: word
-title: blank
+title: Is BLANK a Wordle Word?
+head_title: 'Is BLANK a Wordle Word? Yes – Past Answer #1492 & Meaning'
 word: blank
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blæŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small French coin, originally of silver, afterwards of copper, worth 5 deniers; also a silver coin of Henry V current in the parts of France then held by the English, worth about 8 pence .</li><li><strong>Definition 2:</strong> A nonplus .</li><li><strong>Definition 3:</strong> The white spot in the centre of a target; hence the object to which anything is directed or aimed, the range of such aim .</li><li><strong>Definition 4:</strong> A lot by which nothing is gained; a ticket in a lottery on which no prize is indicated .</li><li><strong>Definition 5:</strong> An empty space; a void, for example on a paper .</li><li><strong>Definition 6:</strong> (now chiefly U.S.) A document, paper, or form with spaces left blank to be filled up at the pleasure of the person to whom it is given (e.g. a blank charter, ballot, form, contract, etc.), or as the event may determine; a blank form .</li><li><strong>Definition 7:</strong> Blank verse .</li><li><strong>Definition 8:</strong> A piece of metal (such as a coin, screw, nuts), cut and shaped to the required size of the thing to be made, and ready for the finishing operations; (coining) the disc of metal before stamping .</li><li><strong>Definition 9:</strong> A vacant space, place, or period; a void .</li><li><strong>Definition 10:</strong> The 1 / 230400 of a grain .</li><li><strong>Definition 11:</strong> An empty space in one's memory; a forgotten item or memory .</li><li><strong>Definition 12:</strong> A dash written in place of an omitted letter or word</li><li><strong>Definition 13:</strong> The space character; the character resulting from pressing the space-bar on a keyboard.</li><li><strong>Definition 14:</strong> A domino without points on one or both of its divisions.<p><strong>Example:</strong> the double blank</p></li><li><strong>Definition 15:</strong> Short for blank cartridge. .</li><li><strong>Definition 16:</strong> (in the expression ‘shooting blanks’) An ineffective effort which achieves nothing .</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make void; to erase.<p><strong>Example:</strong> I blanked out my previous entry.</p></li><li><strong>Definition 2:</strong> To ignore (a person) deliberately.<p><strong>Example:</strong> She blanked me for no reason.</p></li><li><strong>Definition 3:</strong> To prevent from scoring, for example in a sporting event.<p><strong>Example:</strong> England blanks Wales to advance to the final.</p></li><li><strong>Definition 4:</strong> To become blank.</li><li><strong>Definition 5:</strong> To be temporarily unable to remember.<p><strong>Example:</strong> I'm blanking on her name right now.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> White or pale; without colour.</li><li><strong>Definition 2:</strong> Free from writing, printing, or marks; having an empty space to be filled in<p><strong>Example:</strong> a blank ballot</p></li><li><strong>Definition 3:</strong> Scoreless; without any goals or points.</li><li><strong>Definition 4:</strong> Lacking characteristics which give variety; uniform.<p><strong>Example:</strong> a blank desert; a blank wall; blank unconsciousness</p></li><li><strong>Definition 5:</strong> Absolute; downright; sheer.<p><strong>Example:</strong> There was a look of blank terror on his face.</p></li><li><strong>Definition 6:</strong> Without expression.<p><strong>Example:</strong> Failing to understand the question, he gave me a blank stare.</p></li><li><strong>Definition 7:</strong> Utterly confounded or discomfited.</li><li><strong>Definition 8:</strong> Empty; void; without result; fruitless.<p><strong>Example:</strong> a blank day</p></li><li><strong>Definition 9:</strong> Devoid of thoughts, memory, or inspiration.<p><strong>Example:</strong> The shock left his memory blank.</p></li><li><strong>Definition 10:</strong> Of ammunition: having propellant but no bullets; unbulleted.<p><strong>Example:</strong> The recruits were issued with blank rounds for a training exercise.</p></li></ul></div></div>"
+description: Yes, BLANK is a valid Wordle word. It was the Wordle answer on July 20,
+  2025 (#1492). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 20, 2025 (#1492).
+past_answers:
+- date: '2025-07-20'
+  number: 1492
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- black
+- bland
+- blink
+- clank
+- flank
+- plank
+- blanc
+- blunk
+- brank
+- slank
+phonetic: "/blæŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small French coin, originally of silver, afterwards of copper, worth 5
+      deniers; also a silver coin of Henry V current in the parts of France then held
+      by the English, worth about 8 pence .
+  - text: A nonplus .
+  - text: The white spot in the centre of a target; hence the object to which anything
+      is directed or aimed, the range of such aim .
+  - text: A lot by which nothing is gained; a ticket in a lottery on which no prize
+      is indicated .
+  - text: An empty space; a void, for example on a paper .
+  - text: "(now chiefly U.S.) A document, paper, or form with spaces left blank to
+      be filled up at the pleasure of the person to whom it is given (e.g. a blank
+      charter, ballot, form, contract, etc.), or as the event may determine; a blank
+      form ."
+  - text: Blank verse .
+  - text: A piece of metal (such as a coin, screw, nuts), cut and shaped to the required
+      size of the thing to be made, and ready for the finishing operations; (coining)
+      the disc of metal before stamping .
+  - text: A vacant space, place, or period; a void .
+  - text: The 1 / 230400 of a grain .
+  - text: An empty space in one's memory; a forgotten item or memory .
+  - text: A dash written in place of an omitted letter or word
+  - text: The space character; the character resulting from pressing the space-bar
+      on a keyboard.
+  - text: A domino without points on one or both of its divisions.
+    example: the double blank
+  - text: Short for blank cartridge. .
+  - text: "(in the expression ‘shooting blanks’) An ineffective effort which achieves
+      nothing ."
+- pos: verb
+  defs:
+  - text: To make void; to erase.
+    example: I blanked out my previous entry.
+  - text: To ignore (a person) deliberately.
+    example: She blanked me for no reason.
+  - text: To prevent from scoring, for example in a sporting event.
+    example: England blanks Wales to advance to the final.
+  - text: To become blank.
+  - text: To be temporarily unable to remember.
+    example: I'm blanking on her name right now.
+- pos: adjective
+  defs:
+  - text: White or pale; without colour.
+  - text: Free from writing, printing, or marks; having an empty space to be filled
+      in
+    example: a blank ballot
+  - text: Scoreless; without any goals or points.
+  - text: Lacking characteristics which give variety; uniform.
+    example: a blank desert; a blank wall; blank unconsciousness
+  - text: Absolute; downright; sheer.
+    example: There was a look of blank terror on his face.
+  - text: Without expression.
+    example: Failing to understand the question, he gave me a blank stare.
+  - text: Utterly confounded or discomfited.
+  - text: Empty; void; without result; fruitless.
+    example: a blank day
+  - text: Devoid of thoughts, memory, or inspiration.
+    example: The shock left his memory blank.
+  - text: 'Of ammunition: having propellant but no bullets; unbulleted.'
+    example: The recruits were issued with blank rounds for a training exercise.
 ---
-

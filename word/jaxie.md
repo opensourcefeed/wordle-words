@@ -1,6 +1,29 @@
 ---
 layout: word
-title: jaxie
+title: Is JAXIE a Wordle Word?
+head_title: Is JAXIE a Wordle Word? Yes – Valid Guess
 word: jaxie
+description: Yes, JAXIE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - E
+  rare:
+  - J
+  - X
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- jakie
 ---
-

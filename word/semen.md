@@ -1,7 +1,42 @@
 ---
 layout: word
-title: semen
+title: Is SEMEN a Wordle Word?
+head_title: Is SEMEN a Wordle Word? Yes – Possible Answer & Meaning
 word: semen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsiːmən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sticky, milky fluid produced in male reproductive organs that contains the reproductive cells.</li></ul></div></div>"
+description: Yes, SEMEN is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- seven
+- remen
+- samen
+- semee
+- semes
+- sewen
+- seyen
+anagrams:
+- menes
+- mense
+- mesne
+- neems
+phonetic: "/ˈsiːmən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sticky, milky fluid produced in male reproductive organs that contains
+      the reproductive cells.
 ---
-

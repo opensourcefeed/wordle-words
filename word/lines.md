@@ -1,7 +1,159 @@
 ---
 layout: word
-title: lines
+title: Is LINES a Wordle Word?
+head_title: Is LINES a Wordle Word? Yes – Valid Guess & Meaning
 word: lines
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /laɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.<p><strong>Example:</strong> The arrow descended in a curved line.</p></li><li><strong>Definition 2:</strong> A rope, cord, string, or thread, of any thickness.</li><li><strong>Definition 3:</strong> A hose or pipe, of any size.<p><strong>Example:</strong> a brake line</p></li><li><strong>Definition 4:</strong> Direction, path.<p><strong>Example:</strong> the line of sight</p></li><li><strong>Definition 5:</strong> The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection.<p><strong>Example:</strong> I tried to make a call, but the line was dead.</p></li><li><strong>Definition 6:</strong> A clothesline.</li><li><strong>Definition 7:</strong> A letter, a written form of communication.<p><strong>Example:</strong> Drop me a line.</p></li><li><strong>Definition 8:</strong> A connected series of public conveyances, as a roadbed or railway track; and hence, an established arrangement for forwarding merchandise, etc.<p><strong>Example:</strong> a line of stages</p></li><li><strong>Definition 9:</strong> A trench or rampart, or the non-physical demarcation of the extent of the territory occupied by specified forces.</li><li><strong>Definition 10:</strong> The exterior limit of a figure or territory: a boundary, contour, or outline; a demarcation.</li><li><strong>Definition 11:</strong> A long tape or ribbon marked with units for measuring; a tape measure.</li><li><strong>Definition 12:</strong> A measuring line or cord.</li><li><strong>Definition 13:</strong> That which was measured by a line, such as a field or any piece of land set apart; hence, allotted place of abode.</li><li><strong>Definition 14:</strong> A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark.</li><li><strong>Definition 15:</strong> Lineament; feature; figure (of one's body).</li><li><strong>Definition 16:</strong> A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation.<p><strong>Example:</strong> The line forms on the right.</p></li><li><strong>Definition 17:</strong> The regular infantry of an army, as distinguished from militia, guards, volunteer corps, cavalry, artillery etc.</li><li><strong>Definition 18:</strong> A series or succession of ancestors or descendants of a given person; a family or race; compare lineage.</li><li><strong>Definition 19:</strong> A small amount of text. Specifically:</li><li><strong>Definition 20:</strong> Course of conduct, thought, occupation, or policy; method of argument; department of industry, trade, or intellectual activity.</li><li><strong>Definition 21:</strong> The official, stated position (or set of positions) of an individual or group, particularly a political or religious faction.<p><strong>Example:</strong> Remember, your answers must match the party line.</p></li><li><strong>Definition 22:</strong> A set of products or services sold by a business, or by extension, the business itself.<p><strong>Example:</strong> How many buses does the line have?</p></li><li><strong>Definition 23:</strong> A number of shares taken by a jobber.</li><li><strong>Definition 24:</strong> A measure of length:</li><li><strong>Definition 25:</strong> A maxwell, a unit of magnetic flux.</li><li><strong>Definition 26:</strong> (1800s, with \"the\") The batter’s box.</li><li><strong>Definition 27:</strong> The position in which the fencers hold their swords.</li><li><strong>Definition 28:</strong> Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working).<p><strong>Example:</strong> the engine is in line / out of line</p></li><li><strong>Definition 29:</strong> A small path-shaped portion or serving of a powdery illegal drug, especially cocaine.</li><li><strong>Definition 30:</strong> Instruction; doctrine.</li><li><strong>Definition 31:</strong> Population of cells derived from a single cell and containing the same genetic makeup.</li><li><strong>Definition 32:</strong> (perfusion line) a set composed of a spike, a drip chamber, a clamp, a Y-injection site, a three-way stopcock and a catheter.</li><li><strong>Definition 33:</strong> A group of forwards that play together.</li><li><strong>Definition 34:</strong> A vascular catheter.<p><strong>Example:</strong> line sepsis</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place (objects) into a line (usually used with \"up\"); to form into a line; to align.<p><strong>Example:</strong> to line troops</p></li><li><strong>Definition 2:</strong> To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.<p><strong>Example:</strong> to line works with soldiers</p></li><li><strong>Definition 3:</strong> To form a line along.</li><li><strong>Definition 4:</strong> To mark with a line or lines, to cover with lines.<p><strong>Example:</strong> to line a copy book</p></li><li><strong>Definition 5:</strong> To represent by lines; to delineate; to portray.</li><li><strong>Definition 6:</strong> To read or repeat line by line.<p><strong>Example:</strong> to line out a hymn</p></li><li><strong>Definition 7:</strong> To hit a line drive; to hit a line drive which is caught for an out. Compare fly and ground.<p><strong>Example:</strong> Jones lined to left in his last at-bat.</p></li><li><strong>Definition 8:</strong> To track (wild bees) to their nest by following their line of flight.</li><li><strong>Definition 9:</strong> To measure.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover the inner surface of (something), originally especially with linen.<p><strong>Example:</strong> The bird lines its nest with soft grass.</p></li><li><strong>Definition 2:</strong> To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper.</li><li><strong>Definition 3:</strong> To fill or supply (something), as a purse with money.<p><strong>Example:</strong> to line the shelves</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of a dog) To copulate with, to impregnate.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Words spoken by the actors.<p><strong>Example:</strong> I have yet to learn my lines.</p></li><li><strong>Definition 2:</strong> (fortifications) Dispositions made to cover extended positions, and presenting a front in but one direction to an enemy.</li><li><strong>Definition 3:</strong> Form of a vessel as shown by the outlines of vertical, horizontal, and oblique sections.</li><li><strong>Definition 4:</strong> A school punishment in which a student must repeatedly write out a line of text related to the offence (e.g. \"I must be quiet in class\") a specified number of times; the lines of text so written out.<p><strong>Example:</strong> I had to write out 200 lines</p></li><li><strong>Definition 5:</strong> The reins with which a horse is guided by its driver.</li></ul></div></div>"
+description: Yes, LINES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- linen
+- liner
+- bines
+- cines
+- dines
+- fines
+- kines
+- lanes
+- lenes
+- lifes
+- likes
+- limes
+anagrams:
+- elsin
+- lenis
+- liens
+- nelis
+- silen
+trap:
+  pattern: _INES
+  count: 15
+phonetic: "/laɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A path through two or more points (compare ‘segment’); a continuous mark,
+      including as made by a pen; any path, curved or straight.
+    example: The arrow descended in a curved line.
+  - text: A rope, cord, string, or thread, of any thickness.
+  - text: A hose or pipe, of any size.
+    example: a brake line
+  - text: Direction, path.
+    example: the line of sight
+  - text: 'The wire connecting one telegraphic station with another, a telephone or
+      internet cable between two points: a telephone or network connection.'
+    example: I tried to make a call, but the line was dead.
+  - text: A clothesline.
+  - text: A letter, a written form of communication.
+    example: Drop me a line.
+  - text: A connected series of public conveyances, as a roadbed or railway track;
+      and hence, an established arrangement for forwarding merchandise, etc.
+    example: a line of stages
+  - text: A trench or rampart, or the non-physical demarcation of the extent of the
+      territory occupied by specified forces.
+  - text: 'The exterior limit of a figure or territory: a boundary, contour, or outline;
+      a demarcation.'
+  - text: A long tape or ribbon marked with units for measuring; a tape measure.
+  - text: A measuring line or cord.
+  - text: That which was measured by a line, such as a field or any piece of land
+      set apart; hence, allotted place of abode.
+  - text: A threadlike crease or wrinkle marking the face, hand, or body; hence, a
+      characteristic mark.
+  - text: Lineament; feature; figure (of one's body).
+  - text: A more-or-less straight sequence of people, objects, etc., either arranged
+      as a queue or column and often waiting to be processed or dealt with, or arranged
+      abreast of one another in a row (and contrasted with a column), as in a military
+      formation.
+    example: The line forms on the right.
+  - text: The regular infantry of an army, as distinguished from militia, guards,
+      volunteer corps, cavalry, artillery etc.
+  - text: A series or succession of ancestors or descendants of a given person; a
+      family or race; compare lineage.
+  - text: 'A small amount of text. Specifically:'
+  - text: Course of conduct, thought, occupation, or policy; method of argument; department
+      of industry, trade, or intellectual activity.
+  - text: The official, stated position (or set of positions) of an individual or
+      group, particularly a political or religious faction.
+    example: Remember, your answers must match the party line.
+  - text: A set of products or services sold by a business, or by extension, the business
+      itself.
+    example: How many buses does the line have?
+  - text: A number of shares taken by a jobber.
+  - text: 'A measure of length:'
+  - text: A maxwell, a unit of magnetic flux.
+  - text: (1800s, with "the") The batter’s box.
+  - text: The position in which the fencers hold their swords.
+  - text: Proper relative position or adjustment (of parts, not as to design or proportion,
+      but with reference to smooth working).
+    example: the engine is in line / out of line
+  - text: A small path-shaped portion or serving of a powdery illegal drug, especially
+      cocaine.
+  - text: Instruction; doctrine.
+  - text: Population of cells derived from a single cell and containing the same genetic
+      makeup.
+  - text: "(perfusion line) a set composed of a spike, a drip chamber, a clamp, a
+      Y-injection site, a three-way stopcock and a catheter."
+  - text: A group of forwards that play together.
+  - text: A vascular catheter.
+    example: line sepsis
+- pos: verb
+  defs:
+  - text: To place (objects) into a line (usually used with "up"); to form into a
+      line; to align.
+    example: to line troops
+  - text: To place persons or things along the side of for security or defense; to
+      strengthen by adding; to fortify.
+    example: to line works with soldiers
+  - text: To form a line along.
+  - text: To mark with a line or lines, to cover with lines.
+    example: to line a copy book
+  - text: To represent by lines; to delineate; to portray.
+  - text: To read or repeat line by line.
+    example: to line out a hymn
+  - text: To hit a line drive; to hit a line drive which is caught for an out. Compare
+      fly and ground.
+    example: Jones lined to left in his last at-bat.
+  - text: To track (wild bees) to their nest by following their line of flight.
+  - text: To measure.
+- pos: verb
+  defs:
+  - text: To cover the inner surface of (something), originally especially with linen.
+    example: The bird lines its nest with soft grass.
+  - text: To reinforce (the back of a book) with glue and glued scrap material such
+      as fabric or paper.
+  - text: To fill or supply (something), as a purse with money.
+    example: to line the shelves
+- pos: verb
+  defs:
+  - text: "(of a dog) To copulate with, to impregnate."
+- pos: noun
+  defs:
+  - text: Words spoken by the actors.
+    example: I have yet to learn my lines.
+  - text: "(fortifications) Dispositions made to cover extended positions, and presenting
+      a front in but one direction to an enemy."
+  - text: Form of a vessel as shown by the outlines of vertical, horizontal, and oblique
+      sections.
+  - text: A school punishment in which a student must repeatedly write out a line
+      of text related to the offence (e.g. "I must be quiet in class") a specified
+      number of times; the lines of text so written out.
+    example: I had to write out 200 lines
+  - text: The reins with which a horse is guided by its driver.
 ---
-

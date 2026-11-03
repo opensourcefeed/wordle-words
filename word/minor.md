@@ -1,7 +1,63 @@
 ---
 layout: word
-title: minor
+title: Is MINOR a Wordle Word?
+head_title: Is MINOR a Wordle Word? Yes – Possible Answer & Meaning
 word: minor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmaɪnɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who is below the age of majority, consent, criminal responsibility or other adult responsibilities and accountabilities.<p><strong>Example:</strong> It is illegal to sell weapons to minors under the age of eighteen.</p></li><li><strong>Definition 2:</strong> A subject area of secondary concentration of a student at a college or university, or the student who has chosen such a secondary concentration.<p><strong>Example:</strong> I became an English minor.</p></li><li><strong>Definition 3:</strong> Determinant of a square submatrix</li><li><strong>Definition 4:</strong> (British slang) A younger brother (especially at a public school).</li><li><strong>Definition 5:</strong> A small worker in a leaf-cutter ant colony, sized between a minim and a media.</li><li><strong>Definition 6:</strong> The term of a syllogism which forms the subject of the conclusion.</li><li><strong>Definition 7:</strong> (campanology) Bell changes rung on six bells.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To choose or have an area of secondary concentration as a student in a college or university.<p><strong>Example:</strong> I had so many credit hours of English, I decided to minor in it.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of little significance or importance.<p><strong>Example:</strong> The physical appearance of a candidate is a minor factor in recruitment.</p></li><li><strong>Definition 2:</strong> Of a scale which has lowered scale degrees three, six, and seven relative to major, but with the sixth and seventh not always lowered<p><strong>Example:</strong> a minor scale</p></li><li><strong>Definition 3:</strong> Being the smaller of the two intervals denoted by the same ordinal number</li></ul></div></div>"
+description: Yes, MINOR is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- manor
+- miner
+- milor
+- minar
+- minos
+anagrams:
+- morin
+- rimon
+phonetic: "/ˈmaɪnɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who is below the age of majority, consent, criminal responsibility
+      or other adult responsibilities and accountabilities.
+    example: It is illegal to sell weapons to minors under the age of eighteen.
+  - text: A subject area of secondary concentration of a student at a college or university,
+      or the student who has chosen such a secondary concentration.
+    example: I became an English minor.
+  - text: Determinant of a square submatrix
+  - text: "(British slang) A younger brother (especially at a public school)."
+  - text: A small worker in a leaf-cutter ant colony, sized between a minim and a
+      media.
+  - text: The term of a syllogism which forms the subject of the conclusion.
+  - text: "(campanology) Bell changes rung on six bells."
+- pos: verb
+  defs:
+  - text: To choose or have an area of secondary concentration as a student in a college
+      or university.
+    example: I had so many credit hours of English, I decided to minor in it.
+- pos: adjective
+  defs:
+  - text: Of little significance or importance.
+    example: The physical appearance of a candidate is a minor factor in recruitment.
+  - text: Of a scale which has lowered scale degrees three, six, and seven relative
+      to major, but with the sixth and seventh not always lowered
+    example: a minor scale
+  - text: Being the smaller of the two intervals denoted by the same ordinal number
 ---
-

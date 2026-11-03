@@ -1,7 +1,62 @@
 ---
 layout: word
-title: swept
+title: Is SWEPT a Wordle Word?
+head_title: Is SWEPT a Wordle Word? Yes – Possible Answer & Meaning
 word: swept
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈswɛpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To clean (a surface) by means of a stroking motion of a broom or brush.<p><strong>Example:</strong> to sweep a floor, the street, or a chimney</p></li><li><strong>Definition 2:</strong> To move through a (horizontal) arc or similar long stroke.<p><strong>Example:</strong> The offended countess swept out of the ballroom.</p></li><li><strong>Definition 3:</strong> To search (a place) methodically.</li><li><strong>Definition 4:</strong> To travel quickly.</li><li><strong>Definition 5:</strong> To play a sweep shot.</li><li><strong>Definition 6:</strong> To brush the ice in front of a moving stone, causing it to travel farther and to curl less.</li><li><strong>Definition 7:</strong> To move something in a long sweeping motion, as a broom.</li><li><strong>Definition 8:</strong> To win (a series) without drawing or losing any of the games in that series.</li><li><strong>Definition 9:</strong> To defeat (a team) in a series without drawing or losing any of the games in that series.</li><li><strong>Definition 10:</strong> To remove something abruptly and thoroughly.<p><strong>Example:</strong> She swept the peelings off the table onto the floor.</p></li><li><strong>Definition 11:</strong> To brush against or over; to rub lightly along.<p><strong>Example:</strong> Their long descending train, / With rubies edg'd and sapphires, swept the plain.</p></li><li><strong>Definition 12:</strong> To carry with a long, swinging, or dragging motion; hence, to carry in a stately or proud fashion.</li><li><strong>Definition 13:</strong> To strike with a long stroke.</li><li><strong>Definition 14:</strong> To row with one oar to either the port or starboard side.</li><li><strong>Definition 15:</strong> To draw or drag something over.<p><strong>Example:</strong> to sweep the bottom of a river with a net</p></li><li><strong>Definition 16:</strong> To pass over, or traverse, with the eye or with an instrument of observation.<p><strong>Example:</strong> to sweep the heavens with a telescope</p></li><li><strong>Definition 17:</strong> (including) to vacuum a carpet or rug</li></ul></div></div>"
+description: Yes, SWEPT is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- slept
+- sweat
+- sweet
+- stept
+- swapt
+- swelt
+- swopt
+phonetic: "/ˈswɛpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To clean (a surface) by means of a stroking motion of a broom or brush.
+    example: to sweep a floor, the street, or a chimney
+  - text: To move through a (horizontal) arc or similar long stroke.
+    example: The offended countess swept out of the ballroom.
+  - text: To search (a place) methodically.
+  - text: To travel quickly.
+  - text: To play a sweep shot.
+  - text: To brush the ice in front of a moving stone, causing it to travel farther
+      and to curl less.
+  - text: To move something in a long sweeping motion, as a broom.
+  - text: To win (a series) without drawing or losing any of the games in that series.
+  - text: To defeat (a team) in a series without drawing or losing any of the games
+      in that series.
+  - text: To remove something abruptly and thoroughly.
+    example: She swept the peelings off the table onto the floor.
+  - text: To brush against or over; to rub lightly along.
+    example: Their long descending train, / With rubies edg'd and sapphires, swept
+      the plain.
+  - text: To carry with a long, swinging, or dragging motion; hence, to carry in a
+      stately or proud fashion.
+  - text: To strike with a long stroke.
+  - text: To row with one oar to either the port or starboard side.
+  - text: To draw or drag something over.
+    example: to sweep the bottom of a river with a net
+  - text: To pass over, or traverse, with the eye or with an instrument of observation.
+    example: to sweep the heavens with a telescope
+  - text: "(including) to vacuum a carpet or rug"
 ---
-

@@ -1,7 +1,63 @@
 ---
 layout: word
-title: claws
+title: Is CLAWS a Wordle Word?
+head_title: Is CLAWS a Wordle Word? Yes – Valid Guess & Meaning
 word: claws
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /klɔːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A curved, pointed horny nail on each digit of the foot of a mammal, reptile, or bird.</li><li><strong>Definition 2:</strong> A foot equipped with such.</li><li><strong>Definition 3:</strong> The pincer (chela) of a crustacean or other arthropod.</li><li><strong>Definition 4:</strong> A mechanical device resembling a claw, used for gripping or lifting.</li><li><strong>Definition 5:</strong> A slender appendage or process, formed like a claw, such as the base of petals of the pink.</li><li><strong>Definition 6:</strong> The act of catching a ball overhand.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To scratch or to tear at.</li><li><strong>Definition 2:</strong> To use the claws to seize, to grip.</li><li><strong>Definition 3:</strong> To use the claws to climb.</li><li><strong>Definition 4:</strong> To perform a claw catch.</li><li><strong>Definition 5:</strong> To move with one's fingertips.</li><li><strong>Definition 6:</strong> To relieve uneasy feeling, such as an itch, by scratching; hence, to humor or flatter, to court someone.</li><li><strong>Definition 7:</strong> To rail at; to scold.</li><li><strong>Definition 8:</strong> To flatter; to fawn on (a person).</li></ul></div></div>"
+description: Yes, CLAWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- class
+- blaws
+- chaws
+- clads
+- claes
+- clags
+- clams
+- clans
+- claps
+- clats
+- clays
+- clews
+trap:
+  pattern: CLA_S
+  count: 10
+phonetic: "/klɔːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A curved, pointed horny nail on each digit of the foot of a mammal, reptile,
+      or bird.
+  - text: A foot equipped with such.
+  - text: The pincer (chela) of a crustacean or other arthropod.
+  - text: A mechanical device resembling a claw, used for gripping or lifting.
+  - text: A slender appendage or process, formed like a claw, such as the base of
+      petals of the pink.
+  - text: The act of catching a ball overhand.
+- pos: verb
+  defs:
+  - text: To scratch or to tear at.
+  - text: To use the claws to seize, to grip.
+  - text: To use the claws to climb.
+  - text: To perform a claw catch.
+  - text: To move with one's fingertips.
+  - text: To relieve uneasy feeling, such as an itch, by scratching; hence, to humor
+      or flatter, to court someone.
+  - text: To rail at; to scold.
+  - text: To flatter; to fawn on (a person).
 ---
-

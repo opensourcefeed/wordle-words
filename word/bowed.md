@@ -1,7 +1,62 @@
 ---
 layout: word
-title: bowed
+title: Is BOWED a Wordle Word?
+head_title: Is BOWED a Wordle Word? Yes – Valid Guess & Meaning
 word: bowed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /baʊd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play music on (a stringed) instrument using a bow.<p><strong>Example:</strong> The musician bowed his violin expertly.</p></li><li><strong>Definition 2:</strong> To become bent or curved.<p><strong>Example:</strong> The shelf bowed under the weight of the books.</p></li><li><strong>Definition 3:</strong> To make something bend or curve.</li><li><strong>Definition 4:</strong> To exercise powerful or controlling influence over; to bend, figuratively; to turn; to incline.</li><li><strong>Definition 5:</strong> To premiere.<p><strong>Example:</strong> Cronenberg’s \"Cosmopolis\" bows in Cannes this week.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bend oneself as a gesture of respect or deference.<p><strong>Example:</strong> That singer always bows towards her audience for some reason.</p></li><li><strong>Definition 2:</strong> To debut.</li><li><strong>Definition 3:</strong> To defer (to something).<p><strong>Example:</strong> I bow to your better judgement in the matter.</p></li><li><strong>Definition 4:</strong> To give a direction, indication, or command to by bowing.</li></ul></div></div>"
+description: Yes, BOWED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+neighbours:
+- bowel
+- boded
+- boked
+- boned
+- booed
+- bored
+- bower
+- bowes
+- bowet
+- boxed
+- boyed
+- cowed
+trap:
+  pattern: _OWED
+  count: 13
+phonetic: "/baʊd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To play music on (a stringed) instrument using a bow.
+    example: The musician bowed his violin expertly.
+  - text: To become bent or curved.
+    example: The shelf bowed under the weight of the books.
+  - text: To make something bend or curve.
+  - text: To exercise powerful or controlling influence over; to bend, figuratively;
+      to turn; to incline.
+  - text: To premiere.
+    example: Cronenberg’s "Cosmopolis" bows in Cannes this week.
+- pos: verb
+  defs:
+  - text: To bend oneself as a gesture of respect or deference.
+    example: That singer always bows towards her audience for some reason.
+  - text: To debut.
+  - text: To defer (to something).
+    example: I bow to your better judgement in the matter.
+  - text: To give a direction, indication, or command to by bowing.
 ---
-

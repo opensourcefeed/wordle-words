@@ -1,7 +1,64 @@
 ---
 layout: word
-title: riper
+title: Is RIPER a Wordle Word?
+head_title: 'Is RIPER a Wordle Word? Yes – Past Answer #613 & Meaning'
 word: riper
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of fruits, vegetables, seeds etc.) Ready for reaping or gathering; having attained perfection; mature<p><strong>Example:</strong> ripe apples</p></li><li><strong>Definition 2:</strong> (of foods) Advanced to the state of fitness for use; mellow<p><strong>Example:</strong> ripe cheese</p></li><li><strong>Definition 3:</strong> Having attained its full development; mature; perfected</li><li><strong>Definition 4:</strong> Maturated or suppurated; ready to discharge; -- said of sores, tumors, etc.</li><li><strong>Definition 5:</strong> Ready for action or effect; prepared.</li><li><strong>Definition 6:</strong> Like ripened fruit in ruddiness and plumpness.</li><li><strong>Definition 7:</strong> Intoxicated.</li><li><strong>Definition 8:</strong> Of a conflict between parties, having developed to a stage where the conflict may be reviewed by a court of law.</li><li><strong>Definition 9:</strong> Smelly: having a disagreeable odor.</li></ul></div></div>"
+description: Yes, RIPER is a valid Wordle word. It was the Wordle answer on February
+  22, 2023 (#613). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 22, 2023 (#613).
+past_answers:
+- date: '2023-02-22'
+  number: 613
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- piper
+- rider
+- ripen
+- riser
+- river
+- viper
+- hiper
+- raper
+- ricer
+- rifer
+- rimer
+- riped
+anagrams:
+- pirre
+- prier
+trap:
+  pattern: RI_ER
+  count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of fruits, vegetables, seeds etc.) Ready for reaping or gathering; having
+      attained perfection; mature"
+    example: ripe apples
+  - text: "(of foods) Advanced to the state of fitness for use; mellow"
+    example: ripe cheese
+  - text: Having attained its full development; mature; perfected
+  - text: Maturated or suppurated; ready to discharge; -- said of sores, tumors, etc.
+  - text: Ready for action or effect; prepared.
+  - text: Like ripened fruit in ruddiness and plumpness.
+  - text: Intoxicated.
+  - text: Of a conflict between parties, having developed to a stage where the conflict
+      may be reviewed by a court of law.
+  - text: 'Smelly: having a disagreeable odor.'
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: lusty
+title: Is LUSTY a Wordle Word?
+head_title: 'Is LUSTY a Wordle Word? Yes – Past Answer #88 & Meaning'
 word: lusty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /lʌsti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Exhibiting lust (in the obsolete sense meaning \"vigor\"); strong, healthy, robust; vigorous; full of sap or vitality.</li><li><strong>Definition 2:</strong> Hearty, merry, gleesome, enthusiastic, lively, stirring.</li><li><strong>Definition 3:</strong> Given to experiencing lust; enjoying physical sensations; lustful.</li><li><strong>Definition 4:</strong> Beautiful; handsome; pleasant.</li><li><strong>Definition 5:</strong> Of large size; big.</li></ul></div></div>"
+description: Yes, LUSTY is a valid Wordle word. It was the Wordle answer on September
+  15, 2021 (#88). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 15, 2021 (#88).
+past_answers:
+- date: '2021-09-15'
+  number: 88
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- dusty
+- gusty
+- musty
+- rusty
+- busty
+- fusty
+- lushy
+- lusts
+trap:
+  pattern: _USTY
+  count: 7
+phonetic: "/lʌsti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Exhibiting lust (in the obsolete sense meaning "vigor"); strong, healthy,
+      robust; vigorous; full of sap or vitality.
+  - text: Hearty, merry, gleesome, enthusiastic, lively, stirring.
+  - text: Given to experiencing lust; enjoying physical sensations; lustful.
+  - text: Beautiful; handsome; pleasant.
+  - text: Of large size; big.
 ---
-

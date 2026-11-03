@@ -1,7 +1,38 @@
 ---
 layout: word
-title: dolor
+title: Is DOLOR a Wordle Word?
+head_title: Is DOLOR a Wordle Word? Yes – Valid Guess & Meaning
 word: dolor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdoʊlə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Sorrow, grief, misery or anguish.</li><li><strong>Definition 2:</strong> A unit of pain used to theoretically weigh people's outcomes.</li></ul></div></div>"
+description: Yes, DOLOR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - L
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- color
+- donor
+- dolos
+anagrams:
+- drool
+- loord
+phonetic: "/ˈdoʊlə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: Sorrow, grief, misery or anguish.
+  - text: A unit of pain used to theoretically weigh people's outcomes.
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: rials
+title: Is RIALS a Wordle Word?
+head_title: Is RIALS a Wordle Word? Yes – Valid Guess & Meaning
 word: rials
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The official currencies of Iran, Oman, and Yemen.</li><li><strong>Definition 2:</strong> An old gold coin of England.</li></ul></div></div>"
+description: Yes, RIALS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 4
+neighbours:
+- dials
+- reals
+- riads
+- riels
+- rills
+- ryals
+- sials
+- vials
+anagrams:
+- arils
+- lairs
+- laris
+- liars
+- liras
+- rails
+definitions:
+- pos: noun
+  defs:
+  - text: The official currencies of Iran, Oman, and Yemen.
+  - text: An old gold coin of England.
 ---
-

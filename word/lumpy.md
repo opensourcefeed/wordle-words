@@ -1,7 +1,46 @@
 ---
 layout: word
-title: lumpy
+title: Is LUMPY a Wordle Word?
+head_title: 'Is LUMPY a Wordle Word? Yes – Past Answer #1506 & Meaning'
 word: lumpy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Full of lumps, not smooth.<p><strong>Example:</strong> I don't know which was worse, the lumpy soup or the lumpy bed.</p></li><li><strong>Definition 2:</strong> Of a water surface: covered in many small waves as a result of wind; choppy.</li></ul></div></div>"
+description: Yes, LUMPY is a valid Wordle word. It was the Wordle answer on August
+  3, 2025 (#1506). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 3, 2025 (#1506).
+past_answers:
+- date: '2025-08-03'
+  number: 1506
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- dumpy
+- jumpy
+- bumpy
+- humpy
+- lummy
+- lumps
+- pumpy
+- rumpy
+- tumpy
+anagrams:
+- plumy
+trap:
+  pattern: _UMPY
+  count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Full of lumps, not smooth.
+    example: I don't know which was worse, the lumpy soup or the lumpy bed.
+  - text: 'Of a water surface: covered in many small waves as a result of wind; choppy.'
 ---
-

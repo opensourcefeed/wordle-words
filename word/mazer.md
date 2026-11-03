@@ -1,7 +1,48 @@
 ---
 layout: word
-title: mazer
+title: Is MAZER a Wordle Word?
+head_title: Is MAZER a Wordle Word? Yes – Valid Guess & Meaning
 word: mazer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmeɪzə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The maple tree, or maple wood.</li><li><strong>Definition 2:</strong> A large drinking bowl made from such wood; a mazer bowl.</li></ul></div></div>"
+description: Yes, MAZER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- gazer
+- maker
+- dazer
+- hazer
+- macer
+- maser
+- mater
+- mazar
+- mazed
+- mazel
+- mazes
+- mazet
+trap:
+  pattern: MAZE_
+  count: 6
+phonetic: "/ˈmeɪzə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The maple tree, or maple wood.
+  - text: A large drinking bowl made from such wood; a mazer bowl.
 ---
-

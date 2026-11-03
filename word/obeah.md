@@ -1,7 +1,40 @@
 ---
 layout: word
-title: obeah
+title: Is OBEAH a Wordle Word?
+head_title: Is OBEAH a Wordle Word? Yes – Valid Guess & Meaning
 word: obeah
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈəʊbɪə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A form of folk magic, medicine or witchcraft originating in Africa and practised in parts of the Caribbean.</li><li><strong>Definition 2:</strong> A magician or witch doctor of the magic craft.</li><li><strong>Definition 3:</strong> A spell performed in the practice of the magic craft; an item associated with such a spell.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bewitch using this kind of folk magic.</li></ul></div></div>"
+description: Yes, OBEAH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+anagrams:
+- bohea
+phonetic: "/ˈəʊbɪə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A form of folk magic, medicine or witchcraft originating in Africa and practised
+      in parts of the Caribbean.
+  - text: A magician or witch doctor of the magic craft.
+  - text: A spell performed in the practice of the magic craft; an item associated
+      with such a spell.
+- pos: verb
+  defs:
+  - text: To bewitch using this kind of folk magic.
 ---
-

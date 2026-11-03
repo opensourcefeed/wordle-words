@@ -1,7 +1,40 @@
 ---
 layout: word
-title: arbor
+title: Is ARBOR a Wordle Word?
+head_title: 'Is ARBOR a Wordle Word? Yes – Past Answer #615 & Meaning'
 word: arbor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shady sitting place or pergola usually in a park or garden, surrounded by climbing shrubs, vines or other vegetation.</li><li><strong>Definition 2:</strong> A grove of trees.</li></ul></div></div>"
+description: Yes, ARBOR is a valid Wordle word. It was the Wordle answer on February
+  24, 2023 (#615). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 24, 2023 (#615).
+past_answers:
+- date: '2023-02-24'
+  number: 615
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 55
+neighbours:
+- ardor
+- armor
+anagrams:
+- barro
+definitions:
+- pos: noun
+  defs:
+  - text: A shady sitting place or pergola usually in a park or garden, surrounded
+      by climbing shrubs, vines or other vegetation.
+  - text: A grove of trees.
 ---
-

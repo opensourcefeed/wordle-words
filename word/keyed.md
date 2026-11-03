@@ -1,7 +1,48 @@
 ---
 layout: word
-title: keyed
+title: Is KEYED a Wordle Word?
+head_title: Is KEYED a Wordle Word? Yes – Valid Guess & Meaning
 word: keyed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kiːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fit (a lock) with a key.</li><li><strong>Definition 2:</strong> To fit (pieces of a mechanical assembly) with a key to maintain the orientation between them.</li><li><strong>Definition 3:</strong> To mark or indicate with a symbol indicating membership in a class.</li><li><strong>Definition 4:</strong> (telegraphy and radio telegraphy) To depress (a telegraph key).</li><li><strong>Definition 5:</strong> To operate (the transmitter switch of a two-way radio).</li><li><strong>Definition 6:</strong> (more usually to key in) To enter (information) by typing on a keyboard or keypad.<p><strong>Example:</strong> Our instructor told us to key in our user IDs.</p></li><li><strong>Definition 7:</strong> To vandalize (a car, etc.) by scratching with an implement such as a key.<p><strong>Example:</strong> He keyed the car that had taken his parking spot.</p></li><li><strong>Definition 8:</strong> To link (as one might do with a key or legend).</li><li><strong>Definition 9:</strong> To be identified as a certain taxon when using a key.</li><li><strong>Definition 10:</strong> To modify (an advertisement) so as to target a particular group or demographic.</li><li><strong>Definition 11:</strong> To attune to; to set at; to pitch.</li><li><strong>Definition 12:</strong> To fasten or secure firmly; to fasten or tighten with keys or wedges.</li></ul></div></div>"
+description: Yes, KEYED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- feyed
+- heyed
+- keyer
+phonetic: "/kiːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To fit (a lock) with a key.
+  - text: To fit (pieces of a mechanical assembly) with a key to maintain the orientation
+      between them.
+  - text: To mark or indicate with a symbol indicating membership in a class.
+  - text: "(telegraphy and radio telegraphy) To depress (a telegraph key)."
+  - text: To operate (the transmitter switch of a two-way radio).
+  - text: "(more usually to key in) To enter (information) by typing on a keyboard
+      or keypad."
+    example: Our instructor told us to key in our user IDs.
+  - text: To vandalize (a car, etc.) by scratching with an implement such as a key.
+    example: He keyed the car that had taken his parking spot.
+  - text: To link (as one might do with a key or legend).
+  - text: To be identified as a certain taxon when using a key.
+  - text: To modify (an advertisement) so as to target a particular group or demographic.
+  - text: To attune to; to set at; to pitch.
+  - text: To fasten or secure firmly; to fasten or tighten with keys or wedges.
 ---
-

@@ -1,7 +1,58 @@
 ---
 layout: word
-title: rands
+title: Is RANDS a Wordle Word?
+head_title: Is RANDS a Wordle Word? Yes – Valid Guess & Meaning
 word: rands
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The border of an area of land, especially marshland.</li><li><strong>Definition 2:</strong> A strip of meat; a long fleshy piece of beef, cut from the flank or leg; a sort of steak.</li><li><strong>Definition 3:</strong> A border, edge or rim.<p><strong>Example:</strong> At the wald's rand.</p></li><li><strong>Definition 4:</strong> A strip of leather used to fit the heels of a shoe.</li><li><strong>Definition 5:</strong> (basket-making) A single rod woven in and out of the stakes.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A rocky slope, especially the area over a river valley; specifically, the Rand</li><li><strong>Definition 2:</strong> The currency of South Africa, divided into 100 cents.</li></ul></div></div>"
+description: Yes, RANDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- randy
+- bands
+- fands
+- hands
+- lands
+- mands
+- pands
+- raads
+- raids
+- ranas
+- rando
+- ranes
+anagrams:
+- darns
+- nards
+trap:
+  pattern: _ANDS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: The border of an area of land, especially marshland.
+  - text: A strip of meat; a long fleshy piece of beef, cut from the flank or leg;
+      a sort of steak.
+  - text: A border, edge or rim.
+    example: At the wald's rand.
+  - text: A strip of leather used to fit the heels of a shoe.
+  - text: "(basket-making) A single rod woven in and out of the stakes."
+- pos: noun
+  defs:
+  - text: A rocky slope, especially the area over a river valley; specifically, the
+      Rand
+  - text: The currency of South Africa, divided into 100 cents.
 ---
-

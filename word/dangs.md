@@ -1,7 +1,46 @@
 ---
 layout: word
-title: dangs
+title: Is DANGS a Wordle Word?
+head_title: Is DANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: dangs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Damn.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To dash.</li></ul></div></div>"
+description: Yes, DANGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- bangs
+- cangs
+- danks
+- dants
+- dargs
+- dawgs
+- dings
+- dongs
+- dungs
+- fangs
+- gangs
+- hangs
+trap:
+  pattern: _ANGS
+  count: 15
+definitions:
+- pos: verb
+  defs:
+  - text: Damn.
+- pos: verb
+  defs:
+  - text: To dash.
 ---
-

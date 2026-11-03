@@ -1,7 +1,45 @@
 ---
 layout: word
-title: feign
+title: Is FEIGN a Wordle Word?
+head_title: 'Is FEIGN a Wordle Word? Yes – Past Answer #1875 & Meaning'
 word: feign
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /feɪn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a false show or pretence of; to counterfeit or simulate.<p><strong>Example:</strong> The pupil feigned sickness on the day of his exam.</p></li><li><strong>Definition 2:</strong> To imagine; to invent; to pretend.<p><strong>Example:</strong> He feigned that he had gone home at the appointed time.</p></li><li><strong>Definition 3:</strong> To make an action as if doing one thing, but actually doing another, for example to trick an opponent.</li><li><strong>Definition 4:</strong> To hide or conceal.<p><strong>Example:</strong> Jessica feigned the fact that she had not done her homework.</p></li></ul></div></div>"
+description: Yes, FEIGN is a valid Wordle word. It was the Wordle answer on July 8,
+  2021 (#19) and August 7, 2026 (#1875). See its meaning, starter rating and similar
+  words.
+status: past
+answer_text: It was the Wordle answer on July 8, 2021 (#19) and August 7, 2026 (#1875).
+past_answers:
+- date: '2021-07-08'
+  number: 19
+- date: '2026-08-07'
+  number: 1875
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- deign
+- reign
+phonetic: "/feɪn/"
+definitions:
+- pos: verb
+  defs:
+  - text: To make a false show or pretence of; to counterfeit or simulate.
+    example: The pupil feigned sickness on the day of his exam.
+  - text: To imagine; to invent; to pretend.
+    example: He feigned that he had gone home at the appointed time.
+  - text: To make an action as if doing one thing, but actually doing another, for
+      example to trick an opponent.
+  - text: To hide or conceal.
+    example: Jessica feigned the fact that she had not done her homework.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: epoxy
+title: Is EPOXY a Wordle Word?
+head_title: 'Is EPOXY a Wordle Word? Yes – Past Answer #280 & Meaning'
 word: epoxy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A thermosetting polyepoxide resin used chiefly in strong adhesives, coatings and laminates; epoxy resin.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To glue with epoxy.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Derived from an epoxide.</li></ul></div></div>"
+description: Yes, EPOXY is a valid Wordle word. It was the Wordle answer on March
+  26, 2022 (#280). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 26, 2022 (#280).
+past_answers:
+- date: '2022-03-26'
+  number: 280
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare:
+  - X
+  starter_tier: Weak
+  starter_top_percent: 65
+definitions:
+- pos: noun
+  defs:
+  - text: A thermosetting polyepoxide resin used chiefly in strong adhesives, coatings
+      and laminates; epoxy resin.
+- pos: verb
+  defs:
+  - text: To glue with epoxy.
+- pos: adjective
+  defs:
+  - text: Derived from an epoxide.
 ---
-

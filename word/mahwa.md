@@ -1,7 +1,30 @@
 ---
 layout: word
-title: mahwa
+title: Is MAHWA a Wordle Word?
+head_title: Is MAHWA a Wordle Word? Yes – Valid Guess & Meaning
 word: mahwa
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Madhuca longifolia, an Indian tropical tree.</li></ul></div></div>"
+description: Yes, MAHWA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- mahua
+- malwa
+definitions:
+- pos: noun
+  defs:
+  - text: Madhuca longifolia, an Indian tropical tree.
 ---
-

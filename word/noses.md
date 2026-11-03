@@ -1,7 +1,83 @@
 ---
 layout: word
-title: noses
+title: Is NOSES a Wordle Word?
+head_title: Is NOSES a Wordle Word? Yes – Valid Guess & Meaning
 word: noses
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A protuberance on the face housing the nostrils, which are used to breathe or smell.<p><strong>Example:</strong> She has a cold in the nose.</p></li><li><strong>Definition 2:</strong> A snout, the nose of an animal.</li><li><strong>Definition 3:</strong> The tip of an object.<p><strong>Example:</strong> the nose of a tea-kettle, a bellows, or a fighter plane</p></li><li><strong>Definition 4:</strong> The bulge on the side of a piece of a jigsaw puzzle, that fits into the hole of its adjacent piece.</li><li><strong>Definition 5:</strong> The length of a horse’s nose, used to indicate the distance between horses at the finish of a race, or any very close race.<p><strong>Example:</strong> Red Rum only won by a nose.</p></li><li><strong>Definition 6:</strong> A perfumer.</li><li><strong>Definition 7:</strong> The power of smelling.</li><li><strong>Definition 8:</strong> Bouquet, the smell of something, especially wine.</li><li><strong>Definition 9:</strong> The skill in recognising bouquet.<p><strong>Example:</strong> It is essential that a winetaster develops a good nose.</p></li><li><strong>Definition 10:</strong> (by extension) Skill at finding information.<p><strong>Example:</strong> A successful reporter has a nose for news.</p></li><li><strong>Definition 11:</strong> A downward projection from a cornice.</li><li><strong>Definition 12:</strong> An informer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move cautiously by advancing its front end.<p><strong>Example:</strong> The ship nosed through the minefield.</p></li><li><strong>Definition 2:</strong> To snoop.<p><strong>Example:</strong> She was nosing around other people’s business.</p></li><li><strong>Definition 3:</strong> To detect by smell or as if by smell.</li><li><strong>Definition 4:</strong> To push with one's nose; to nuzzle.</li><li><strong>Definition 5:</strong> To defeat (as in a race or other contest) by a narrow margin; sometimes with out.</li><li><strong>Definition 6:</strong> To utter in a nasal manner; to pronounce with a nasal twang.<p><strong>Example:</strong> to nose a prayer</p></li><li><strong>Definition 7:</strong> To furnish with a nose.<p><strong>Example:</strong> to nose a stair tread</p></li><li><strong>Definition 8:</strong> To confront; be closely face to face or opposite to.</li></ul></div></div>"
+description: Yes, NOSES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- nosey
+- coses
+- doses
+- hoses
+- koses
+- loses
+- moses
+- nodes
+- nokes
+- noles
+- nomes
+- nones
+anagrams:
+- sones
+- sonse
+trap:
+  pattern: _OSES
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A protuberance on the face housing the nostrils, which are used to breathe
+      or smell.
+    example: She has a cold in the nose.
+  - text: A snout, the nose of an animal.
+  - text: The tip of an object.
+    example: the nose of a tea-kettle, a bellows, or a fighter plane
+  - text: The bulge on the side of a piece of a jigsaw puzzle, that fits into the
+      hole of its adjacent piece.
+  - text: The length of a horse’s nose, used to indicate the distance between horses
+      at the finish of a race, or any very close race.
+    example: Red Rum only won by a nose.
+  - text: A perfumer.
+  - text: The power of smelling.
+  - text: Bouquet, the smell of something, especially wine.
+  - text: The skill in recognising bouquet.
+    example: It is essential that a winetaster develops a good nose.
+  - text: "(by extension) Skill at finding information."
+    example: A successful reporter has a nose for news.
+  - text: A downward projection from a cornice.
+  - text: An informer.
+- pos: verb
+  defs:
+  - text: To move cautiously by advancing its front end.
+    example: The ship nosed through the minefield.
+  - text: To snoop.
+    example: She was nosing around other people’s business.
+  - text: To detect by smell or as if by smell.
+  - text: To push with one's nose; to nuzzle.
+  - text: To defeat (as in a race or other contest) by a narrow margin; sometimes
+      with out.
+  - text: To utter in a nasal manner; to pronounce with a nasal twang.
+    example: to nose a prayer
+  - text: To furnish with a nose.
+    example: to nose a stair tread
+  - text: To confront; be closely face to face or opposite to.
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: kedge
+title: Is KEDGE a Wordle Word?
+head_title: Is KEDGE a Wordle Word? Yes – Valid Guess & Meaning
 word: kedge
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɛdʒ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small anchor used for warping a vessel; also called a kedge anchor.</li><li><strong>Definition 2:</strong> A glutton.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To warp (a vessel) by carrying out a kedge in a boat, dropping it overboard, and hauling the vessel up to it.</li><li><strong>Definition 2:</strong> (of a vessel) To move with the help of a kedge, as described above.</li></ul></div></div>"
+description: Yes, KEDGE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- hedge
+- ledge
+- wedge
+- kedgy
+- kidge
+- sedge
+phonetic: "/kɛdʒ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small anchor used for warping a vessel; also called a kedge anchor.
+  - text: A glutton.
+- pos: verb
+  defs:
+  - text: To warp (a vessel) by carrying out a kedge in a boat, dropping it overboard,
+      and hauling the vessel up to it.
+  - text: "(of a vessel) To move with the help of a kedge, as described above."
 ---
-

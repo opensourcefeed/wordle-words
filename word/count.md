@@ -1,7 +1,64 @@
 ---
 layout: word
-title: count
+title: Is COUNT a Wordle Word?
+head_title: 'Is COUNT a Wordle Word? Yes – Past Answer #584 & Meaning'
 word: count
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kaʊnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of counting or tallying a quantity.<p><strong>Example:</strong> Give the chairs a quick count to check if we have enough.</p></li><li><strong>Definition 2:</strong> The result of a tally that reveals the number of items in a set; a quantity counted.</li><li><strong>Definition 3:</strong> A countdown.</li><li><strong>Definition 4:</strong> A charge of misconduct brought in a legal proceeding.</li><li><strong>Definition 5:</strong> The number of balls and strikes, respectively, on a batter's in-progress plate appearance.<p><strong>Example:</strong> He has a 3–2 count with the bases loaded.</p></li><li><strong>Definition 6:</strong> An object of interest or account; value; estimation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To recite numbers in sequence.<p><strong>Example:</strong> Can you count to a hundred?</p></li><li><strong>Definition 2:</strong> To determine the number (of objects in a group).<p><strong>Example:</strong> There are three apples; count them.</p></li><li><strong>Definition 3:</strong> To be of significance; to matter.<p><strong>Example:</strong> Your views don’t count here.    It does count if you cheat with someone when you’re drunk.</p></li><li><strong>Definition 4:</strong> To be an example of something: often followed by as and an indefinite noun.<p><strong>Example:</strong> Apples count as a type of fruit.</p></li><li><strong>Definition 5:</strong> To consider something an example of something.<p><strong>Example:</strong> He counts himself a hero after saving the cat from the river.   I count you as more than a friend.</p></li><li><strong>Definition 6:</strong> To take account or note (of).</li><li><strong>Definition 7:</strong> To plead orally; to argue a matter in court; to recite a count.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (grammar) Countable.</li></ul></div></div>"
+description: Yes, COUNT is a valid Wordle word. It was the Wordle answer on January
+  24, 2023 (#584). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 24, 2023 (#584).
+past_answers:
+- date: '2023-01-24'
+  number: 584
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- court
+- mount
+- fount
+phonetic: "/kaʊnt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of counting or tallying a quantity.
+    example: Give the chairs a quick count to check if we have enough.
+  - text: The result of a tally that reveals the number of items in a set; a quantity
+      counted.
+  - text: A countdown.
+  - text: A charge of misconduct brought in a legal proceeding.
+  - text: The number of balls and strikes, respectively, on a batter's in-progress
+      plate appearance.
+    example: He has a 3–2 count with the bases loaded.
+  - text: An object of interest or account; value; estimation.
+- pos: verb
+  defs:
+  - text: To recite numbers in sequence.
+    example: Can you count to a hundred?
+  - text: To determine the number (of objects in a group).
+    example: There are three apples; count them.
+  - text: To be of significance; to matter.
+    example: Your views don’t count here.    It does count if you cheat with someone
+      when you’re drunk.
+  - text: 'To be an example of something: often followed by as and an indefinite noun.'
+    example: Apples count as a type of fruit.
+  - text: To consider something an example of something.
+    example: He counts himself a hero after saving the cat from the river.   I count
+      you as more than a friend.
+  - text: To take account or note (of).
+  - text: To plead orally; to argue a matter in court; to recite a count.
+- pos: adjective
+  defs:
+  - text: "(grammar) Countable."
 ---
-

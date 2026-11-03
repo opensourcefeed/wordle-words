@@ -1,7 +1,32 @@
 ---
 layout: word
-title: polje
+title: Is POLJE a Wordle Word?
+head_title: Is POLJE a Wordle Word? Yes – Valid Guess & Meaning
 word: polje
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An extensive depression having a flat floor and steep walls but no outflowing surface stream and found in a region having karst topography (as in parts of Yugoslavia).</li></ul></div></div>"
+description: Yes, POLJE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 50
+definitions:
+- pos: noun
+  defs:
+  - text: An extensive depression having a flat floor and steep walls but no outflowing
+      surface stream and found in a region having karst topography (as in parts of
+      Yugoslavia).
 ---
-

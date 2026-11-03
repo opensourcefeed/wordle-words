@@ -1,7 +1,63 @@
 ---
 layout: word
-title: sheer
+title: Is SHEER a Wordle Word?
+head_title: Is SHEER a Wordle Word? Yes – Possible Answer & Meaning
 word: sheer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sheer curtain or fabric.<p><strong>Example:</strong> Use sheers to maximize natural light.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Very thin or transparent.<p><strong>Example:</strong> Her light, sheer dress caught everyone’s attention.</p></li><li><strong>Definition 2:</strong> Pure in composition; unmixed; unadulterated.</li><li><strong>Definition 3:</strong> (by extension) Downright; complete; pure.<p><strong>Example:</strong> I think it is sheer genius to invent such a thing.</p></li><li><strong>Definition 4:</strong> Used to emphasize the amount or degree of something.<p><strong>Example:</strong> The army's sheer size made it impossible to resist.</p></li><li><strong>Definition 5:</strong> Very steep; almost vertical or perpendicular.<p><strong>Example:</strong> It was a sheer drop of 180 feet.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Clean; quite; at once.</li></ul></div></div>"
+description: Yes, SHEER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- cheer
+- shear
+- sheen
+- sheep
+- sheet
+- sneer
+- steer
+- kheer
+- pheer
+- sheel
+- shier
+- shoer
+anagrams:
+- heres
+- herse
+- shere
+trap:
+  pattern: S_EER
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: A sheer curtain or fabric.
+    example: Use sheers to maximize natural light.
+- pos: adjective
+  defs:
+  - text: Very thin or transparent.
+    example: Her light, sheer dress caught everyone’s attention.
+  - text: Pure in composition; unmixed; unadulterated.
+  - text: "(by extension) Downright; complete; pure."
+    example: I think it is sheer genius to invent such a thing.
+  - text: Used to emphasize the amount or degree of something.
+    example: The army's sheer size made it impossible to resist.
+  - text: Very steep; almost vertical or perpendicular.
+    example: It was a sheer drop of 180 feet.
+- pos: adverb
+  defs:
+  - text: Clean; quite; at once.
 ---
-

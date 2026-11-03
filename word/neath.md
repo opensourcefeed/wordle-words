@@ -1,7 +1,40 @@
 ---
 layout: word
-title: neath
+title: Is NEATH a Wordle Word?
+head_title: Is NEATH a Wordle Word? Yes – Valid Guess & Meaning
 word: neath
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /niːθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Beneath.</li></ul></div></div>"
+description: Yes, NEATH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- death
+- heath
+- beath
+- meath
+- neato
+- neats
+anagrams:
+- ahent
+- thane
+phonetic: "/niːθ/"
+definitions:
+- pos: preposition
+  defs:
+  - text: Beneath.
 ---
-

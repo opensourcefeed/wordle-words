@@ -1,7 +1,43 @@
 ---
 layout: word
-title: cocky
+title: Is COCKY a Wordle Word?
+head_title: Is COCKY a Wordle Word? Yes – Valid Guess & Meaning
 word: cocky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɔki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Overly confident; arrogant and boastful.</li></ul></div></div>"
+description: Yes, COCKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- rocky
+- cacky
+- cocks
+- conky
+- cooky
+- corky
+- jocky
+- locky
+- mocky
+- pocky
+- tocky
+trap:
+  pattern: _OCKY
+  count: 7
+phonetic: "/ˈkɔki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Overly confident; arrogant and boastful.
 ---
-

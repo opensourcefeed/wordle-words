@@ -1,7 +1,33 @@
 ---
 layout: word
-title: julep
+title: Is JULEP a Wordle Word?
+head_title: Is JULEP a Wordle Word? Yes – Valid Guess & Meaning
 word: julep
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʒuːlɛp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A refreshing drink flavored with aromatic herbs, especially mint, and sometimes alcohol.</li><li><strong>Definition 2:</strong> A pleasant-tasting liquid medicine in which other nauseous medicines are taken.</li></ul></div></div>"
+description: Yes, JULEP is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 65
+phonetic: "/ˈdʒuːlɛp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A refreshing drink flavored with aromatic herbs, especially mint, and sometimes
+      alcohol.
+  - text: A pleasant-tasting liquid medicine in which other nauseous medicines are
+      taken.
 ---
-

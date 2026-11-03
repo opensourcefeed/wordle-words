@@ -1,7 +1,46 @@
 ---
 layout: word
-title: wiper
+title: Is WIPER a Wordle Word?
+head_title: Is WIPER a Wordle Word? Yes – Valid Guess & Meaning
 word: wiper
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈwaɪpɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who wipes.</li><li><strong>Definition 2:</strong> Something, such as a towel, that is used for wiping.</li><li><strong>Definition 3:</strong> Something, such as a windscreen wiper, that is designed for wiping.</li><li><strong>Definition 4:</strong> A movable electric contact in some devices.</li><li><strong>Definition 5:</strong> A junior role in the engine room of a ship, someone who wipes down machinery and generally keeps it clean.</li></ul></div></div>"
+description: Yes, WIPER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- piper
+- riper
+- viper
+- wider
+- wiser
+- hiper
+- wiped
+- wipes
+- wirer
+- wiver
+phonetic: "/ˈwaɪpɚ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who wipes.
+  - text: Something, such as a towel, that is used for wiping.
+  - text: Something, such as a windscreen wiper, that is designed for wiping.
+  - text: A movable electric contact in some devices.
+  - text: A junior role in the engine room of a ship, someone who wipes down machinery
+      and generally keeps it clean.
 ---
-

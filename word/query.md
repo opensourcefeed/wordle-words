@@ -1,7 +1,48 @@
 ---
 layout: word
-title: query
+title: Is QUERY a Wordle Word?
+head_title: 'Is QUERY a Wordle Word? Yes – Past Answer #205 & Meaning'
 word: query
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkwɪə.ɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A question, an inquiry (US), an enquiry (UK).<p><strong>Example:</strong> The teacher answered the student’s query concerning biosynthesis.</p></li><li><strong>Definition 2:</strong> A question mark.</li><li><strong>Definition 3:</strong> A set of instructions passed to a database.<p><strong>Example:</strong> The database admin switched on query logging for debugging purposes.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ask a question.</li><li><strong>Definition 2:</strong> To ask, inquire.</li><li><strong>Definition 3:</strong> To question or call into doubt.</li><li><strong>Definition 4:</strong> To pass a set of instructions to a database to retrieve information from it.</li><li><strong>Definition 5:</strong> To send a private message to (a user on IRC).</li><li><strong>Definition 6:</strong> To send out a query letter.</li></ul></div></div>"
+description: Yes, QUERY is a valid Wordle word. It was the Wordle answer on January
+  10, 2022 (#205). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 10, 2022 (#205).
+past_answers:
+- date: '2022-01-10'
+  number: 205
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- quern
+phonetic: "/ˈkwɪə.ɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A question, an inquiry (US), an enquiry (UK).
+    example: The teacher answered the student’s query concerning biosynthesis.
+  - text: A question mark.
+  - text: A set of instructions passed to a database.
+    example: The database admin switched on query logging for debugging purposes.
+- pos: verb
+  defs:
+  - text: To ask a question.
+  - text: To ask, inquire.
+  - text: To question or call into doubt.
+  - text: To pass a set of instructions to a database to retrieve information from
+      it.
+  - text: To send a private message to (a user on IRC).
+  - text: To send out a query letter.
 ---
-

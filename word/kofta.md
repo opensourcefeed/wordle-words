@@ -1,7 +1,33 @@
 ---
 layout: word
-title: kofta
+title: Is KOFTA a Wordle Word?
+head_title: Is KOFTA a Wordle Word? Yes – Valid Guess & Meaning
 word: kofta
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkɒftə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of various spicy meatball or meatloaf dishes of the Middle East, Caucasus, South Asia, and the Balkans.</li></ul></div></div>"
+description: Yes, KOFTA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- softa
+phonetic: "/ˈkɒftə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of various spicy meatball or meatloaf dishes of the Middle East, Caucasus,
+      South Asia, and the Balkans.
 ---
-

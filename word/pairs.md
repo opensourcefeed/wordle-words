@@ -1,7 +1,90 @@
 ---
 layout: word
-title: pairs
+title: Is PAIRS a Wordle Word?
+head_title: Is PAIRS a Wordle Word? Yes – Valid Guess & Meaning
 word: pairs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɛəz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Two similar or identical things taken together; often followed by of.<p><strong>Example:</strong> I couldn't decide which of the pair of designer shirts I preferred, so I bought the pair.</p></li><li><strong>Definition 2:</strong> Two people in a relationship, partnership or friendship.<p><strong>Example:</strong> Spouses should make a great pair.</p></li><li><strong>Definition 3:</strong> Used with binary nouns (often in the plural to indicate multiple instances, since such nouns are plural only, except in some technical contexts)<p><strong>Example:</strong> a pair of scissors; two pairs of spectacles; several pairs of jeans</p></li><li><strong>Definition 4:</strong> A couple of working animals attached to work together, as by a yoke.<p><strong>Example:</strong> A pair is harder to drive than two mounts with separate riders.</p></li><li><strong>Definition 5:</strong> A poker hand that contains two cards of identical rank, which cannot also count as a better hand.</li><li><strong>Definition 6:</strong> A score of zero runs (a duck) in both innings of a two-innings match.</li><li><strong>Definition 7:</strong> A double play, two outs recorded in one play.<p><strong>Example:</strong> They turned a pair to end the fifth.</p></li><li><strong>Definition 8:</strong> A doubleheader, two games played on the same day between the same teams<p><strong>Example:</strong> The Pirates took a pair from the Phillies.</p></li><li><strong>Definition 9:</strong> A boat for two sweep rowers.</li><li><strong>Definition 10:</strong> A pair of breasts<p><strong>Example:</strong> She's got a gorgeous pair.</p></li><li><strong>Definition 11:</strong> The exclusion of one member of a parliamentary party from a vote, if a member of the other party is absent for important personal reasons.</li><li><strong>Definition 12:</strong> Two members of opposite parties or opinion, as in a parliamentary body, who mutually agree not to vote on a given question, or on issues of a party nature during a specified time.<p><strong>Example:</strong> There were two pairs on the final vote.</p></li><li><strong>Definition 13:</strong> A number of things resembling one another, or belonging together; a set.</li><li><strong>Definition 14:</strong> (kinematics) In a mechanism, two elements, or bodies, which are so applied to each other as to mutually constrain relative motion; named in accordance with the motion it permits, as in turning pair, sliding pair, twisting pair.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To group into one or more sets of two.<p><strong>Example:</strong> The wedding guests were paired boy/girl and groom's party/bride's party.</p></li><li><strong>Definition 2:</strong> To bring two (animals, notably dogs) together for mating.</li><li><strong>Definition 3:</strong> To engage (oneself) with another of opposite opinions not to vote on a particular question or class of questions.</li><li><strong>Definition 4:</strong> To suit; to fit, as a counterpart.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To impair, to make worse.</li><li><strong>Definition 2:</strong> To become worse, to deteriorate.</li></ul></div></div>"
+description: Yes, PAIRS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- fairs
+- gairs
+- hairs
+- lairs
+- mairs
+- paiks
+- pails
+- pains
+- paips
+- paire
+- parrs
+- sairs
+anagrams:
+- paris
+trap:
+  pattern: _AIRS
+  count: 9
+phonetic: "/pɛəz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Two similar or identical things taken together; often followed by of.
+    example: I couldn't decide which of the pair of designer shirts I preferred, so
+      I bought the pair.
+  - text: Two people in a relationship, partnership or friendship.
+    example: Spouses should make a great pair.
+  - text: Used with binary nouns (often in the plural to indicate multiple instances,
+      since such nouns are plural only, except in some technical contexts)
+    example: a pair of scissors; two pairs of spectacles; several pairs of jeans
+  - text: A couple of working animals attached to work together, as by a yoke.
+    example: A pair is harder to drive than two mounts with separate riders.
+  - text: A poker hand that contains two cards of identical rank, which cannot also
+      count as a better hand.
+  - text: A score of zero runs (a duck) in both innings of a two-innings match.
+  - text: A double play, two outs recorded in one play.
+    example: They turned a pair to end the fifth.
+  - text: A doubleheader, two games played on the same day between the same teams
+    example: The Pirates took a pair from the Phillies.
+  - text: A boat for two sweep rowers.
+  - text: A pair of breasts
+    example: She's got a gorgeous pair.
+  - text: The exclusion of one member of a parliamentary party from a vote, if a member
+      of the other party is absent for important personal reasons.
+  - text: Two members of opposite parties or opinion, as in a parliamentary body,
+      who mutually agree not to vote on a given question, or on issues of a party
+      nature during a specified time.
+    example: There were two pairs on the final vote.
+  - text: A number of things resembling one another, or belonging together; a set.
+  - text: "(kinematics) In a mechanism, two elements, or bodies, which are so applied
+      to each other as to mutually constrain relative motion; named in accordance
+      with the motion it permits, as in turning pair, sliding pair, twisting pair."
+- pos: verb
+  defs:
+  - text: To group into one or more sets of two.
+    example: The wedding guests were paired boy/girl and groom's party/bride's party.
+  - text: To bring two (animals, notably dogs) together for mating.
+  - text: To engage (oneself) with another of opposite opinions not to vote on a particular
+      question or class of questions.
+  - text: To suit; to fit, as a counterpart.
+- pos: verb
+  defs:
+  - text: To impair, to make worse.
+  - text: To become worse, to deteriorate.
 ---
-

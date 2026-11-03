@@ -1,7 +1,41 @@
 ---
 layout: word
-title: piety
+title: Is PIETY a Wordle Word?
+head_title: 'Is PIETY a Wordle Word? Yes – Past Answer #356 & Meaning'
 word: piety
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpaɪ.ɪ.ti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Reverence and devotion to God.<p><strong>Example:</strong> Colleen's piety led her to make sacrifices that most people would not have made.</p></li><li><strong>Definition 2:</strong> Similar reverence to one's parents and family or to one's country.</li><li><strong>Definition 3:</strong> A devout act or thought.</li><li><strong>Definition 4:</strong> A belief that is accepted unthinkingly and with undue reverence.</li></ul></div></div>"
+description: Yes, PIETY is a valid Wordle word. It was the Wordle answer on June 10,
+  2022 (#356). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 10, 2022 (#356).
+past_answers:
+- date: '2022-06-10'
+  number: 356
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- pieta
+- piets
+phonetic: "/ˈpaɪ.ɪ.ti/"
+definitions:
+- pos: noun
+  defs:
+  - text: Reverence and devotion to God.
+    example: Colleen's piety led her to make sacrifices that most people would not
+      have made.
+  - text: Similar reverence to one's parents and family or to one's country.
+  - text: A devout act or thought.
+  - text: A belief that is accepted unthinkingly and with undue reverence.
 ---
-

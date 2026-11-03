@@ -1,7 +1,57 @@
 ---
 layout: word
-title: riffs
+title: Is RIFFS a Wordle Word?
+head_title: Is RIFFS a Wordle Word? Yes – Valid Guess & Meaning
 word: riffs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A repeated instrumental melody line in a song.<p><strong>Example:</strong> Listen to one of the greatest guitar riffs of all time!</p></li><li><strong>Definition 2:</strong> A clever or witty remark.</li><li><strong>Definition 3:</strong> A variation on something.</li><li><strong>Definition 4:</strong> A spoof.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To improvise in the performance or practice of an art, especially by expanding on or making novel use of traditional themes.</li><li><strong>Definition 2:</strong> To riffle.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The belly; the bowels.</li></ul></div></div>"
+description: Yes, RIFFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - F
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- biffs
+- diffs
+- jiffs
+- miffs
+- niffs
+- raffs
+- riffy
+- rifts
+- ruffs
+- tiffs
+- viffs
+- ziffs
+trap:
+  pattern: _IFFS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A repeated instrumental melody line in a song.
+    example: Listen to one of the greatest guitar riffs of all time!
+  - text: A clever or witty remark.
+  - text: A variation on something.
+  - text: A spoof.
+- pos: verb
+  defs:
+  - text: To improvise in the performance or practice of an art, especially by expanding
+      on or making novel use of traditional themes.
+  - text: To riffle.
+- pos: noun
+  defs:
+  - text: The belly; the bowels.
 ---
-

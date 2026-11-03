@@ -1,7 +1,52 @@
 ---
 layout: word
-title: iller
+title: Is ILLER a Wordle Word?
+head_title: Is ILLER a Wordle Word? Yes – Valid Guess & Meaning
 word: iller
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Evil; wicked (of people).</li><li><strong>Definition 2:</strong> Morally reprehensible (of behaviour etc.); blameworthy.</li><li><strong>Definition 3:</strong> Indicative of unkind or malevolent intentions; harsh, cruel.<p><strong>Example:</strong> He suffered from ill treatment.</p></li><li><strong>Definition 4:</strong> Unpropitious, unkind, faulty, not up to reasonable standard.<p><strong>Example:</strong> ill manners; ill will</p></li><li><strong>Definition 5:</strong> Unwell in terms of health or physical condition; sick.<p><strong>Example:</strong> I've been ill with the flu for the past few days.</p></li><li><strong>Definition 6:</strong> Having an urge to vomit.<p><strong>Example:</strong> Seeing those pictures made me ill.</p></li><li><strong>Definition 7:</strong> (hip-hop slang) Sublime, with the connotation of being so in a singularly creative way.</li><li><strong>Definition 8:</strong> Extremely bad (bad enough to make one ill). Generally used indirectly with to be.<p><strong>Example:</strong> That band was ill.</p></li><li><strong>Definition 9:</strong> Unwise; not a good idea.</li></ul></div></div>"
+description: Yes, ILLER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - I
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- idler
+- aller
+- oller
+anagrams:
+- rille
+definitions:
+- pos: adjective
+  defs:
+  - text: Evil; wicked (of people).
+  - text: Morally reprehensible (of behaviour etc.); blameworthy.
+  - text: Indicative of unkind or malevolent intentions; harsh, cruel.
+    example: He suffered from ill treatment.
+  - text: Unpropitious, unkind, faulty, not up to reasonable standard.
+    example: ill manners; ill will
+  - text: Unwell in terms of health or physical condition; sick.
+    example: I've been ill with the flu for the past few days.
+  - text: Having an urge to vomit.
+    example: Seeing those pictures made me ill.
+  - text: "(hip-hop slang) Sublime, with the connotation of being so in a singularly
+      creative way."
+  - text: Extremely bad (bad enough to make one ill). Generally used indirectly with
+      to be.
+    example: That band was ill.
+  - text: Unwise; not a good idea.
 ---
-

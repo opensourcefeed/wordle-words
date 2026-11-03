@@ -1,7 +1,32 @@
 ---
 layout: word
-title: dekko
+title: Is DEKKO a Wordle Word?
+head_title: Is DEKKO a Wordle Word? Yes – Valid Guess & Meaning
 word: dekko
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdekəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A look; a glance.</li></ul></div></div>"
+description: Yes, DEKKO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 4
+  repeated:
+  - K
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- decko
+phonetic: "/ˈdekəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A look; a glance.
 ---
-

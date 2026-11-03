@@ -1,7 +1,35 @@
 ---
 layout: word
-title: hotly
+title: Is HOTLY a Wordle Word?
+head_title: Is HOTLY a Wordle Word? Yes – Possible Answer & Meaning
 word: hotly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> With great amounts of heat</li><li><strong>Definition 2:</strong> In a heated manner; intensely or vehemently</li></ul></div></div>"
+description: Yes, HOTLY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- holly
+- hooly
+- hotty
+anagrams:
+- othyl
+definitions:
+- pos: adverb
+  defs:
+  - text: With great amounts of heat
+  - text: In a heated manner; intensely or vehemently
 ---
-

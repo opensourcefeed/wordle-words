@@ -1,7 +1,55 @@
 ---
 layout: word
-title: saved
+title: Is SAVED a Wordle Word?
+head_title: Is SAVED a Wordle Word? Yes – Valid Guess & Meaning
 word: saved
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /seɪvd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prevent harm or difficulty.</li><li><strong>Definition 2:</strong> To put aside, to avoid.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Rescued from the consequences of sin.</li><li><strong>Definition 2:</strong> Retained for future use rather than spent e.g. ː\"A penny saved is a penny earned.\"</li></ul></div></div>"
+description: Yes, SAVED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- caved
+- eaved
+- laved
+- naved
+- paved
+- raved
+- sabed
+- safed
+- saned
+- sared
+- sated
+- saver
+anagrams:
+- devas
+- vades
+trap:
+  pattern: _AVED
+  count: 8
+phonetic: "/seɪvd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To prevent harm or difficulty.
+  - text: To put aside, to avoid.
+- pos: adjective
+  defs:
+  - text: Rescued from the consequences of sin.
+  - text: Retained for future use rather than spent e.g. ː"A penny saved is a penny
+      earned."
 ---
-

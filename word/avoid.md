@@ -1,7 +1,49 @@
 ---
 layout: word
-title: avoid
+title: Is AVOID a Wordle Word?
+head_title: 'Is AVOID a Wordle Word? Yes – Past Answer #1670 & Meaning'
 word: avoid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈvɔɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To try not to meet or communicate with (a person); to shun</li><li><strong>Definition 2:</strong> To keep away from; to keep clear of; to stay away from<p><strong>Example:</strong> I try to avoid the company of gamblers.</p></li><li><strong>Definition 3:</strong> To try not to do something or to have something happen</li><li><strong>Definition 4:</strong> To make empty; to clear.</li><li><strong>Definition 5:</strong> To make void, to annul; to refute (especially a contract).</li><li><strong>Definition 6:</strong> To defeat or evade; to invalidate.</li><li><strong>Definition 7:</strong> To emit or throw out; to void.</li><li><strong>Definition 8:</strong> To leave, evacuate; to leave as empty, to withdraw or come away from.</li><li><strong>Definition 9:</strong> To get rid of.</li><li><strong>Definition 10:</strong> To retire; to withdraw, depart, go away.</li><li><strong>Definition 11:</strong> To become void or vacant.</li></ul></div></div>"
+description: Yes, AVOID is a valid Wordle word. It was the Wordle answer on January
+  14, 2026 (#1670). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 14, 2026 (#1670).
+past_answers:
+- date: '2026-01-14'
+  number: 1670
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- ovoid
+- aroid
+- axoid
+phonetic: "/əˈvɔɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To try not to meet or communicate with (a person); to shun
+  - text: To keep away from; to keep clear of; to stay away from
+    example: I try to avoid the company of gamblers.
+  - text: To try not to do something or to have something happen
+  - text: To make empty; to clear.
+  - text: To make void, to annul; to refute (especially a contract).
+  - text: To defeat or evade; to invalidate.
+  - text: To emit or throw out; to void.
+  - text: To leave, evacuate; to leave as empty, to withdraw or come away from.
+  - text: To get rid of.
+  - text: To retire; to withdraw, depart, go away.
+  - text: To become void or vacant.
 ---
-

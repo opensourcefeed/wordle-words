@@ -1,7 +1,65 @@
 ---
 layout: word
-title: ruins
+title: Is RUINS a Wordle Word?
+head_title: Is RUINS a Wordle Word? Yes – Valid Guess & Meaning
 word: ruins
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹuː.ɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes in the plural) The remains of a destroyed or dilapidated construction, such as a house or castle.</li><li><strong>Definition 2:</strong> The state of being a ruin, destroyed or decayed.<p><strong>Example:</strong> The monastery has fallen into ruin.</p></li><li><strong>Definition 3:</strong> Something that leads to serious trouble or destruction.<p><strong>Example:</strong> Gambling has been the ruin of many.</p></li><li><strong>Definition 4:</strong> A fall or tumble.</li><li><strong>Definition 5:</strong> A change that destroys or defeats something; destruction; overthrow.<p><strong>Example:</strong> the ruin of a ship or an army;  the ruin of a constitution or a government;  the ruin of health or hopes</p></li><li><strong>Definition 6:</strong> Complete financial loss; bankruptcy.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause the fiscal ruin of.<p><strong>Example:</strong> With all these purchases, you surely mean to ruin us!</p></li><li><strong>Definition 2:</strong> To destroy or make something no longer usable.<p><strong>Example:</strong> He ruined his new white slacks by accidentally spilling oil on them.</p></li><li><strong>Definition 3:</strong> To cause severe financial loss to; to bankrupt or drive out of business.<p><strong>Example:</strong> The crooked stockbroker's fraudulent scheme ruined dozens of victims; some investors lost their life savings and even their houses.</p></li><li><strong>Definition 4:</strong> To upset or overturn the plans or progress of, or to have a disastrous effect on something.<p><strong>Example:</strong> My car breaking down just as I was on the road ruined my vacation.</p></li><li><strong>Definition 5:</strong> To make something less enjoyable or likeable.<p><strong>Example:</strong> I used to love that song, but being assaulted when that song was playing ruined the song for me.</p></li><li><strong>Definition 6:</strong> To reveal the ending of (a story); to spoil.</li><li><strong>Definition 7:</strong> To fall into a state of decay.</li><li><strong>Definition 8:</strong> To seduce or debauch, and thus harm the social standing of.<p><strong>Example:</strong> The young libertine was notorious for ruining local girls.</p></li></ul></div></div>"
+description: Yes, RUINS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 26
+neighbours:
+- quins
+- rains
+- reins
+- roins
+- ruing
+phonetic: "/ˈɹuː.ɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(sometimes in the plural) The remains of a destroyed or dilapidated construction,
+      such as a house or castle."
+  - text: The state of being a ruin, destroyed or decayed.
+    example: The monastery has fallen into ruin.
+  - text: Something that leads to serious trouble or destruction.
+    example: Gambling has been the ruin of many.
+  - text: A fall or tumble.
+  - text: A change that destroys or defeats something; destruction; overthrow.
+    example: the ruin of a ship or an army;  the ruin of a constitution or a government; 
+      the ruin of health or hopes
+  - text: Complete financial loss; bankruptcy.
+- pos: verb
+  defs:
+  - text: To cause the fiscal ruin of.
+    example: With all these purchases, you surely mean to ruin us!
+  - text: To destroy or make something no longer usable.
+    example: He ruined his new white slacks by accidentally spilling oil on them.
+  - text: To cause severe financial loss to; to bankrupt or drive out of business.
+    example: The crooked stockbroker's fraudulent scheme ruined dozens of victims;
+      some investors lost their life savings and even their houses.
+  - text: To upset or overturn the plans or progress of, or to have a disastrous effect
+      on something.
+    example: My car breaking down just as I was on the road ruined my vacation.
+  - text: To make something less enjoyable or likeable.
+    example: I used to love that song, but being assaulted when that song was playing
+      ruined the song for me.
+  - text: To reveal the ending of (a story); to spoil.
+  - text: To fall into a state of decay.
+  - text: To seduce or debauch, and thus harm the social standing of.
+    example: The young libertine was notorious for ruining local girls.
 ---
-

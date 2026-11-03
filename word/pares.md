@@ -1,7 +1,66 @@
 ---
 layout: word
-title: pares
+title: Is PARES a Wordle Word?
+head_title: Is PARES a Wordle Word? Yes – Valid Guess & Meaning
 word: pares
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the outer covering or skin of something with a cutting device, typically a knife<p><strong>Example:</strong> Victor pared some apples in preparation to make a tart.</p></li><li><strong>Definition 2:</strong> (often with down or back) to reduce, diminish or trim gradually something as if by cutting off<p><strong>Example:</strong> Albert had to pare his options down by disregarding anything beyond his meager budget.</p></li><li><strong>Definition 3:</strong> To trim the hoof of a horse</li></ul></div></div>"
+description: Yes, PARES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- parer
+- bares
+- cares
+- dares
+- fares
+- gares
+- hares
+- lares
+- mares
+- nares
+- paces
+- pages
+anagrams:
+- parse
+- spare
+- spear
+- apers
+- apres
+- asper
+- pears
+- prase
+- presa
+- rapes
+- reaps
+- repas
+trap:
+  pattern: _ARES
+  count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: To remove the outer covering or skin of something with a cutting device,
+      typically a knife
+    example: Victor pared some apples in preparation to make a tart.
+  - text: "(often with down or back) to reduce, diminish or trim gradually something
+      as if by cutting off"
+    example: Albert had to pare his options down by disregarding anything beyond his
+      meager budget.
+  - text: To trim the hoof of a horse
 ---
-

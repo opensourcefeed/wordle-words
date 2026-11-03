@@ -1,7 +1,78 @@
 ---
 layout: word
-title: woods
+title: Is WOODS a Wordle Word?
+head_title: Is WOODS a Wordle Word? Yes – Valid Guess & Meaning
 word: woods
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wʊdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.<p><strong>Example:</strong> There was lots of wood on the beach.</p></li><li><strong>Definition 2:</strong> The wood of a particular species of tree.<p><strong>Example:</strong> Teak is much used for outdoor benches, but a number of other woods are also suitable, such as ipé, redwood, etc.</p></li><li><strong>Definition 3:</strong> A forested or wooded area.<p><strong>Example:</strong> He got lost in the woods beyond Seattle.</p></li><li><strong>Definition 4:</strong> Firewood.<p><strong>Example:</strong> We need more wood for the fire.</p></li><li><strong>Definition 5:</strong> A type of golf club, the head of which was traditionally made of wood.</li><li><strong>Definition 6:</strong> A woodwind instrument.</li><li><strong>Definition 7:</strong> An erection of the penis.<p><strong>Example:</strong> That girl at the strip club gave me wood.</p></li><li><strong>Definition 8:</strong> Chess pieces.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover or plant with trees.</li><li><strong>Definition 2:</strong> To hide behind trees.</li><li><strong>Definition 3:</strong> To supply with wood, or get supplies of wood for.<p><strong>Example:</strong> to wood a steamboat or a locomotive</p></li><li><strong>Definition 4:</strong> To take or get a supply of wood.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes offensive, of a person) A peckerwood.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually with plural construction, sometimes with singular construction) A dense collection of trees, usually one covering a relatively small area; usually smaller than a forest.<p><strong>Example:</strong> These woods are part of the Campbell property.</p></li><li><strong>Definition 2:</strong> For chemical behavior purposes, trees in full leaf (coniferous or medium-dense deciduous forests).</li></ul></div></div>"
+description: Yes, WOODS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- woody
+- foods
+- goods
+- hoods
+- moods
+- poods
+- roods
+- woads
+- wolds
+- woofs
+- wools
+- woons
+trap:
+  pattern: _OODS
+  count: 7
+phonetic: "/wʊdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The substance making up the central part of the trunk and branches of a
+      tree. Used as a material for construction, to manufacture various items, etc.
+      or as fuel.
+    example: There was lots of wood on the beach.
+  - text: The wood of a particular species of tree.
+    example: Teak is much used for outdoor benches, but a number of other woods are
+      also suitable, such as ipé, redwood, etc.
+  - text: A forested or wooded area.
+    example: He got lost in the woods beyond Seattle.
+  - text: Firewood.
+    example: We need more wood for the fire.
+  - text: A type of golf club, the head of which was traditionally made of wood.
+  - text: A woodwind instrument.
+  - text: An erection of the penis.
+    example: That girl at the strip club gave me wood.
+  - text: Chess pieces.
+- pos: verb
+  defs:
+  - text: To cover or plant with trees.
+  - text: To hide behind trees.
+  - text: To supply with wood, or get supplies of wood for.
+    example: to wood a steamboat or a locomotive
+  - text: To take or get a supply of wood.
+- pos: noun
+  defs:
+  - text: "(sometimes offensive, of a person) A peckerwood."
+- pos: noun
+  defs:
+  - text: "(usually with plural construction, sometimes with singular construction)
+      A dense collection of trees, usually one covering a relatively small area; usually
+      smaller than a forest."
+    example: These woods are part of the Campbell property.
+  - text: For chemical behavior purposes, trees in full leaf (coniferous or medium-dense
+      deciduous forests).
 ---
-

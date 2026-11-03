@@ -1,7 +1,38 @@
 ---
 layout: word
-title: lurex
+title: Is LUREX a Wordle Word?
+head_title: Is LUREX a Wordle Word? Yes – Valid Guess & Meaning
 word: lurex
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A form of yarn (or fabric made from it) that incorporates a glittering metallic thread.</li></ul></div></div>"
+description: Yes, LUREX is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - R
+  - E
+  rare:
+  - X
+  starter_tier: Average
+  starter_top_percent: 30
+neighbours:
+- lured
+- lurer
+- lures
+- murex
+anagrams:
+- luxer
+definitions:
+- pos: noun
+  defs:
+  - text: A form of yarn (or fabric made from it) that incorporates a glittering metallic
+      thread.
 ---
-

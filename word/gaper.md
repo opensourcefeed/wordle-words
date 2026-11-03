@@ -1,7 +1,53 @@
 ---
 layout: word
-title: gaper
+title: Is GAPER a Wordle Word?
+head_title: Is GAPER a Wordle Word? Yes – Valid Guess & Meaning
 word: gaper
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who gapes; a starer.</li><li><strong>Definition 2:</strong> Any of several species of burrowing clams.</li><li><strong>Definition 3:</strong> The comber, a fish of the species Serranus cabrilla.</li><li><strong>Definition 4:</strong> The fish Champsodon capensis</li><li><strong>Definition 5:</strong> An inexperienced skier.</li></ul></div></div>"
+description: Yes, GAPER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- caper
+- gamer
+- gayer
+- gazer
+- paper
+- taper
+- gager
+- gaped
+- gapes
+- gater
+- japer
+- raper
+anagrams:
+- grape
+- pager
+- parge
+trap:
+  pattern: _APER
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: One who gapes; a starer.
+  - text: Any of several species of burrowing clams.
+  - text: The comber, a fish of the species Serranus cabrilla.
+  - text: The fish Champsodon capensis
+  - text: An inexperienced skier.
 ---
-

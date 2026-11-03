@@ -1,7 +1,56 @@
 ---
 layout: word
-title: sweat
+title: Is SWEAT a Wordle Word?
+head_title: 'Is SWEAT a Wordle Word? Yes – Past Answer #611 & Meaning'
 word: sweat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swɛt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Fluid that exits the body through pores in the skin usually due to physical stress and/or high temperature for the purpose of regulating body temperature and removing certain compounds from the circulation.</li><li><strong>Definition 2:</strong> The state of one who sweats; diaphoresis.<p><strong>Example:</strong> Just thinking about the interview tomorrow puts me into a nervous sweat.</p></li><li><strong>Definition 3:</strong> (especially WWI) A soldier (especially one who is old or experienced).</li><li><strong>Definition 4:</strong> The sweating sickness.</li><li><strong>Definition 5:</strong> Moisture issuing from any substance.<p><strong>Example:</strong> the sweat of hay or grain in a mow or stack</p></li><li><strong>Definition 6:</strong> A short run by a racehorse as a form of exercise.</li><li><strong>Definition 7:</strong> Hard work; toil.</li></ul></div></div>"
+description: Yes, SWEAT is a valid Wordle word. It was the Wordle answer on February
+  20, 2023 (#611). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 20, 2023 (#611).
+past_answers:
+- date: '2023-02-20'
+  number: 611
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- swear
+- sweet
+- swept
+- sceat
+- speat
+- sweal
+- swelt
+anagrams:
+- waste
+- tawse
+- twaes
+- wetas
+phonetic: "/swɛt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Fluid that exits the body through pores in the skin usually due to physical
+      stress and/or high temperature for the purpose of regulating body temperature
+      and removing certain compounds from the circulation.
+  - text: The state of one who sweats; diaphoresis.
+    example: Just thinking about the interview tomorrow puts me into a nervous sweat.
+  - text: "(especially WWI) A soldier (especially one who is old or experienced)."
+  - text: The sweating sickness.
+  - text: Moisture issuing from any substance.
+    example: the sweat of hay or grain in a mow or stack
+  - text: A short run by a racehorse as a form of exercise.
+  - text: Hard work; toil.
 ---
-

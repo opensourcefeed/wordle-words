@@ -1,7 +1,84 @@
 ---
 layout: word
-title: rears
+title: Is REARS a Wordle Word?
+head_title: Is REARS a Wordle Word? Yes – Valid Guess & Meaning
 word: rears
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To bring up to maturity, as offspring; to educate; to instruct; to foster.</li><li><strong>Definition 2:</strong> (said of people towards animals) To breed and raise.<p><strong>Example:</strong> The family has been rearing cattle for 200 years.</p></li><li><strong>Definition 3:</strong> To rise up on the hind legs<p><strong>Example:</strong> The horse was shocked, and thus reared.</p></li><li><strong>Definition 4:</strong> (usually with \"up\") To get angry.</li><li><strong>Definition 5:</strong> To rise high above, tower above.</li><li><strong>Definition 6:</strong> To raise physically or metaphorically; to lift up; to cause to rise, to elevate.<p><strong>Example:</strong> The monster slowly reared its head.</p></li><li><strong>Definition 7:</strong> To construct by building; to set up<p><strong>Example:</strong> to rear defenses or houses</p></li><li><strong>Definition 8:</strong> To raise spiritually; to lift up; to elevate morally.</li><li><strong>Definition 9:</strong> To lift and take up.</li><li><strong>Definition 10:</strong> To rouse; to strip up.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move; stir.</li><li><strong>Definition 2:</strong> (of geese) To carve.<p><strong>Example:</strong> Rere that goose!</p></li><li><strong>Definition 3:</strong> (regional, obsolete) To revive, bring to life, quicken. (only in the phrase, to rear to life)<p><strong>Example:</strong> He healeth the blind and he reareth to life the dead.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The back or hindmost part; that which is behind, or last on order; - opposed to front.</li><li><strong>Definition 2:</strong> Specifically, the part of an army or fleet which comes last, or is stationed behind the rest.</li><li><strong>Definition 3:</strong> The buttocks, a creature's bottom</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place in the rear; to secure the rear of.</li><li><strong>Definition 2:</strong> To sodomize (perform anal sex)</li></ul></div></div>"
+description: Yes, REARS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- rearm
+- bears
+- dears
+- fears
+- gears
+- hears
+- lears
+- nears
+- pears
+- reads
+- reais
+- reaks
+anagrams:
+- rares
+- raser
+- serra
+trap:
+  pattern: _EARS
+  count: 13
+definitions:
+- pos: verb
+  defs:
+  - text: To bring up to maturity, as offspring; to educate; to instruct; to foster.
+  - text: "(said of people towards animals) To breed and raise."
+    example: The family has been rearing cattle for 200 years.
+  - text: To rise up on the hind legs
+    example: The horse was shocked, and thus reared.
+  - text: (usually with "up") To get angry.
+  - text: To rise high above, tower above.
+  - text: To raise physically or metaphorically; to lift up; to cause to rise, to
+      elevate.
+    example: The monster slowly reared its head.
+  - text: To construct by building; to set up
+    example: to rear defenses or houses
+  - text: To raise spiritually; to lift up; to elevate morally.
+  - text: To lift and take up.
+  - text: To rouse; to strip up.
+- pos: verb
+  defs:
+  - text: To move; stir.
+  - text: "(of geese) To carve."
+    example: Rere that goose!
+  - text: "(regional, obsolete) To revive, bring to life, quicken. (only in the phrase,
+      to rear to life)"
+    example: He healeth the blind and he reareth to life the dead.
+- pos: noun
+  defs:
+  - text: The back or hindmost part; that which is behind, or last on order; - opposed
+      to front.
+  - text: Specifically, the part of an army or fleet which comes last, or is stationed
+      behind the rest.
+  - text: The buttocks, a creature's bottom
+- pos: verb
+  defs:
+  - text: To place in the rear; to secure the rear of.
+  - text: To sodomize (perform anal sex)
 ---
-

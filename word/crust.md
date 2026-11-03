@@ -1,7 +1,62 @@
 ---
 layout: word
-title: crust
+title: Is CRUST a Wordle Word?
+head_title: 'Is CRUST a Wordle Word? Yes – Past Answer #23 & Meaning'
 word: crust
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɹʌst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A more solid, dense or hard layer on a surface or boundary.</li><li><strong>Definition 2:</strong> The external, hardened layer of certain foodstuffs, including most types of bread, fried meat, etc.</li><li><strong>Definition 3:</strong> An outer layer composed of pastry</li><li><strong>Definition 4:</strong> The bread-like base of a pizza.</li><li><strong>Definition 5:</strong> The outermost layer of the lithosphere of the Earth.</li><li><strong>Definition 6:</strong> The shell of crabs, lobsters, etc.</li><li><strong>Definition 7:</strong> Nerve, gall.<p><strong>Example:</strong> You've got a lot of crust standing there saying that.</p></li><li><strong>Definition 8:</strong> A living.<p><strong>Example:</strong> to earn one's crust</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover with a crust.</li><li><strong>Definition 2:</strong> To form a crust.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A subgenre of punk rock, derived from hardcore punk with extreme metal elements, often with pessimistic lyrics about political and social ills.</li></ul></div></div>"
+description: Yes, CRUST is a valid Wordle word. It was the Wordle answer on July 12,
+  2021 (#23). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 12, 2021 (#23).
+past_answers:
+- date: '2021-07-12'
+  number: 23
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- crest
+- crush
+- trust
+- brust
+- crost
+- cruet
+- cruft
+- cruse
+- crusy
+- frust
+anagrams:
+- curst
+phonetic: "/kɹʌst/"
+definitions:
+- pos: noun
+  defs:
+  - text: A more solid, dense or hard layer on a surface or boundary.
+  - text: The external, hardened layer of certain foodstuffs, including most types
+      of bread, fried meat, etc.
+  - text: An outer layer composed of pastry
+  - text: The bread-like base of a pizza.
+  - text: The outermost layer of the lithosphere of the Earth.
+  - text: The shell of crabs, lobsters, etc.
+  - text: Nerve, gall.
+    example: You've got a lot of crust standing there saying that.
+  - text: A living.
+    example: to earn one's crust
+- pos: verb
+  defs:
+  - text: To cover with a crust.
+  - text: To form a crust.
+- pos: noun
+  defs:
+  - text: A subgenre of punk rock, derived from hardcore punk with extreme metal elements,
+      often with pessimistic lyrics about political and social ills.
 ---
-

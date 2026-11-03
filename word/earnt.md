@@ -1,7 +1,48 @@
 ---
 layout: word
-title: earnt
+title: Is EARNT a Wordle Word?
+head_title: Is EARNT a Wordle Word? Yes – Valid Guess & Meaning
 word: earnt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɜːnt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To gain (success, reward, recognition) through applied effort or work.<p><strong>Example:</strong> You can have the s'mores: you earned them, clearing the walkway of snow so well.</p></li><li><strong>Definition 2:</strong> To receive payment for work.<p><strong>Example:</strong> He earns seven million dollars a year as CEO.  My bank account is only earning one percent interest.</p></li><li><strong>Definition 3:</strong> To receive payment for work.<p><strong>Example:</strong> Now that you are earning, you can start paying me rent.</p></li><li><strong>Definition 4:</strong> To cause (someone) to receive payment or reward.<p><strong>Example:</strong> My CD earns me six percent!</p></li><li><strong>Definition 5:</strong> To achieve by being worthy of.<p><strong>Example:</strong> to earn a spot in the top 20</p></li></ul></div></div>"
+description: Yes, EARNT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Excellent
+  starter_top_percent: 1
+neighbours:
+- earns
+- earst
+- larnt
+anagrams:
+- antre
+phonetic: "/ɜːnt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To gain (success, reward, recognition) through applied effort or work.
+    example: 'You can have the s''mores: you earned them, clearing the walkway of
+      snow so well.'
+  - text: To receive payment for work.
+    example: He earns seven million dollars a year as CEO.  My bank account is only
+      earning one percent interest.
+  - text: To receive payment for work.
+    example: Now that you are earning, you can start paying me rent.
+  - text: To cause (someone) to receive payment or reward.
+    example: My CD earns me six percent!
+  - text: To achieve by being worthy of.
+    example: to earn a spot in the top 20
 ---
-

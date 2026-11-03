@@ -1,7 +1,70 @@
 ---
 layout: word
-title: punks
+title: Is PUNKS a Wordle Word?
+head_title: Is PUNKS a Wordle Word? Yes – Valid Guess & Meaning
 word: punks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pʌŋks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person used for sex, particularly:</li><li><strong>Definition 2:</strong> A worthless person, particularly:</li><li><strong>Definition 3:</strong> Short for punk rock, a genre known for short, loud, energetic songs with electric guitars and strong drums.</li><li><strong>Definition 4:</strong> Short for punk rocker, a musician known for playing punk rock or a fan of the genre.</li><li><strong>Definition 5:</strong> The larger nonconformist social movement associated with punk rock and its fans.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pimp.</li><li><strong>Definition 2:</strong> To forcibly perform anal sex upon an unwilling partner.<p><strong>Example:</strong> Ricky punked his new cell-mates.</p></li><li><strong>Definition 3:</strong> To prank.<p><strong>Example:</strong> I got expelled when I punked the principal.</p></li><li><strong>Definition 4:</strong> (especially with \"out\") To give up or concede; to act like a wimp.<p><strong>Example:</strong> Jimmy was going to help me with the prank, but he punked (out) at the last minute.</p></li><li><strong>Definition 5:</strong> (often with \"out\" or \"up\") To adapt or embellish in the style of the punk movement.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any material used as tinder for lighting fires, such as agaric, dried wood, or touchwood, but especially wood altered by certain fungi.</li><li><strong>Definition 2:</strong> A utensil for lighting wicks or fuses (such as those of fireworks) resembling stick incense.</li></ul></div></div>"
+description: Yes, PUNKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- bunks
+- dunks
+- funks
+- gunks
+- hunks
+- junks
+- lunks
+- nunks
+- panks
+- penks
+- pinks
+- ponks
+anagrams:
+- spunk
+trap:
+  pattern: _UNKS
+  count: 10
+phonetic: "/pʌŋks/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A person used for sex, particularly:'
+  - text: 'A worthless person, particularly:'
+  - text: Short for punk rock, a genre known for short, loud, energetic songs with
+      electric guitars and strong drums.
+  - text: Short for punk rocker, a musician known for playing punk rock or a fan of
+      the genre.
+  - text: The larger nonconformist social movement associated with punk rock and its
+      fans.
+- pos: verb
+  defs:
+  - text: To pimp.
+  - text: To forcibly perform anal sex upon an unwilling partner.
+    example: Ricky punked his new cell-mates.
+  - text: To prank.
+    example: I got expelled when I punked the principal.
+  - text: (especially with "out") To give up or concede; to act like a wimp.
+    example: Jimmy was going to help me with the prank, but he punked (out) at the
+      last minute.
+  - text: (often with "out" or "up") To adapt or embellish in the style of the punk
+      movement.
+- pos: noun
+  defs:
+  - text: Any material used as tinder for lighting fires, such as agaric, dried wood,
+      or touchwood, but especially wood altered by certain fungi.
+  - text: A utensil for lighting wicks or fuses (such as those of fireworks) resembling
+      stick incense.
 ---
-

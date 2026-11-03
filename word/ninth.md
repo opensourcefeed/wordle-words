@@ -1,7 +1,46 @@
 ---
 layout: word
-title: ninth
+title: Is NINTH a Wordle Word?
+head_title: 'Is NINTH a Wordle Word? Yes – Past Answer #597 & Meaning'
 word: ninth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /naɪnθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The person or thing in the ninth position.</li><li><strong>Definition 2:</strong> One of nine equal parts of a whole.</li><li><strong>Definition 3:</strong> The compound interval between any tone and the tone represented on the ninth degree of the staff above it, as between one of the scale and two of the octave above; the octave of the second, consisting of 13 or 14 semitones (called minor and major ninth).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lose a ninth</li><li><strong>Definition 2:</strong> To divide by nine</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> The ordinal form of the number nine.</li></ul></div></div>"
+description: Yes, NINTH is a valid Wordle word. It was the Wordle answer on February
+  6, 2023 (#597). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 6, 2023 (#597).
+past_answers:
+- date: '2023-02-06'
+  number: 597
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - N
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- ninta
+phonetic: "/naɪnθ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The person or thing in the ninth position.
+  - text: One of nine equal parts of a whole.
+  - text: The compound interval between any tone and the tone represented on the ninth
+      degree of the staff above it, as between one of the scale and two of the octave
+      above; the octave of the second, consisting of 13 or 14 semitones (called minor
+      and major ninth).
+- pos: verb
+  defs:
+  - text: To lose a ninth
+  - text: To divide by nine
+- pos: adjective
+  defs:
+  - text: The ordinal form of the number nine.
 ---
-

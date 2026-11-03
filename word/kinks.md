@@ -1,7 +1,67 @@
 ---
 layout: word
-title: kinks
+title: Is KINKS a Wordle Word?
+head_title: Is KINKS a Wordle Word? Yes – Valid Guess & Meaning
 word: kinks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A convulsive fit of coughing or laughter; a sonorous indraft of breath; a whoop; a gasp of breath caused by laughing, coughing, or crying.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To laugh loudly.</li><li><strong>Definition 2:</strong> To gasp for breath as in a severe fit of coughing.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A tight curl, twist, or bend in a length of thin material, hair etc.<p><strong>Example:</strong> We couldn't get enough water to put out the fire because of a kink in the hose.</p></li><li><strong>Definition 2:</strong> A difficulty or flaw that is likely to impede operation, as in a plan or system.<p><strong>Example:</strong> They had planned to open another shop downtown, but their plan had a few kinks.</p></li><li><strong>Definition 3:</strong> An unreasonable notion; a crotchet; a whim; a caprice.</li><li><strong>Definition 4:</strong> Peculiarity or deviation in sexual behaviour or taste.</li><li><strong>Definition 5:</strong> A positive 1-soliton solution to the Sine–Gordon equation</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To form a kink or twist.</li><li><strong>Definition 2:</strong> To be formed into a kink or twist.</li></ul></div></div>"
+description: Yes, KINKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - K
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- kinky
+- binks
+- dinks
+- finks
+- ginks
+- jinks
+- kicks
+- kinas
+- kinds
+- kines
+- kings
+- kinos
+anagrams:
+- skink
+trap:
+  pattern: _INKS
+  count: 14
+definitions:
+- pos: noun
+  defs:
+  - text: A convulsive fit of coughing or laughter; a sonorous indraft of breath;
+      a whoop; a gasp of breath caused by laughing, coughing, or crying.
+- pos: verb
+  defs:
+  - text: To laugh loudly.
+  - text: To gasp for breath as in a severe fit of coughing.
+- pos: noun
+  defs:
+  - text: A tight curl, twist, or bend in a length of thin material, hair etc.
+    example: We couldn't get enough water to put out the fire because of a kink in
+      the hose.
+  - text: A difficulty or flaw that is likely to impede operation, as in a plan or
+      system.
+    example: They had planned to open another shop downtown, but their plan had a
+      few kinks.
+  - text: An unreasonable notion; a crotchet; a whim; a caprice.
+  - text: Peculiarity or deviation in sexual behaviour or taste.
+  - text: A positive 1-soliton solution to the Sine–Gordon equation
+- pos: verb
+  defs:
+  - text: To form a kink or twist.
+  - text: To be formed into a kink or twist.
 ---
-

@@ -1,7 +1,49 @@
 ---
 layout: word
-title: noose
+title: Is NOOSE a Wordle Word?
+head_title: Is NOOSE a Wordle Word? Yes – Possible Answer & Meaning
 word: noose
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /nuːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An adjustable loop of rope, such as the one placed around the neck in hangings, or the one at the end of a lasso.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To tie or catch in a noose; to entrap or ensnare.</li></ul></div></div>"
+description: Yes, NOOSE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- goose
+- loose
+- moose
+- noise
+- boose
+- noone
+- noove
+- roose
+- woose
+anagrams:
+- osone
+trap:
+  pattern: _OOSE
+  count: 7
+phonetic: "/nuːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: An adjustable loop of rope, such as the one placed around the neck in hangings,
+      or the one at the end of a lasso.
+- pos: verb
+  defs:
+  - text: To tie or catch in a noose; to entrap or ensnare.
 ---
-

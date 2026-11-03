@@ -1,7 +1,43 @@
 ---
 layout: word
-title: shady
+title: Is SHADY a Wordle Word?
+head_title: 'Is SHADY a Wordle Word? Yes – Past Answer #1945 & Meaning'
 word: shady
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʃeɪdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Abounding in shades.</li><li><strong>Definition 2:</strong> Causing shade.</li><li><strong>Definition 3:</strong> Overspread with shade; sheltered from the glare of light or sultry heat.</li><li><strong>Definition 4:</strong> Not trustworthy; disreputable.<p><strong>Example:</strong> He is a shady character.</p></li><li><strong>Definition 5:</strong> Mean, cruel.<p><strong>Example:</strong> Don't be shady, give us a go.</p></li></ul></div></div>"
+description: Yes, SHADY is a valid Wordle word. It was the Wordle answer on October
+  16, 2026 (#1945). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 16, 2026 (#1945).
+past_answers:
+- date: '2026-10-16'
+  number: 1945
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- shade
+- shaky
+- shads
+- shaly
+anagrams:
+- dashy
+phonetic: "/ˈʃeɪdi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Abounding in shades.
+  - text: Causing shade.
+  - text: Overspread with shade; sheltered from the glare of light or sultry heat.
+  - text: Not trustworthy; disreputable.
+    example: He is a shady character.
+  - text: Mean, cruel.
+    example: Don't be shady, give us a go.
 ---
-

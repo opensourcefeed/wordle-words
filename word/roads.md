@@ -1,7 +1,66 @@
 ---
 layout: word
-title: roads
+title: Is ROADS a Wordle Word?
+head_title: Is ROADS a Wordle Word? Yes – Valid Guess & Meaning
 word: roads
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹəʊdz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane.</li><li><strong>Definition 2:</strong> A road; or particularly a car, as a means of transportation.<p><strong>Example:</strong> We travelled to the seaside by road.</p></li><li><strong>Definition 3:</strong> A path chosen in life or career.</li><li><strong>Definition 4:</strong> An underground tunnel in a mine.</li><li><strong>Definition 5:</strong> A railway or a single railway track.</li><li><strong>Definition 6:</strong> The act of riding on horseback.</li><li><strong>Definition 7:</strong> A hostile ride against a particular area; a raid.</li><li><strong>Definition 8:</strong> (often in the plural) A partly sheltered area of water near a shore in which vessels may ride at anchor; a roadstead.</li><li><strong>Definition 9:</strong> A journey, or stage of a journey.</li><li><strong>Definition 10:</strong> A way or route.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (occasionally in the singular) A roadstead.</li></ul></div></div>"
+description: Yes, ROADS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- goads
+- loads
+- raads
+- reads
+- riads
+- roady
+- roams
+- roans
+- roars
+- roids
+- roods
+- toads
+anagrams:
+- dorsa
+- sarod
+- sorda
+phonetic: "/ɹəʊdz/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A way used for travelling between places, originally one wide enough to
+      allow foot passengers and horses to travel, now (US) usually one surfaced with
+      asphalt or concrete and designed to accommodate many vehicles travelling in
+      both directions. In the UK both senses are heard: a country road is the same
+      as a country lane.'
+  - text: A road; or particularly a car, as a means of transportation.
+    example: We travelled to the seaside by road.
+  - text: A path chosen in life or career.
+  - text: An underground tunnel in a mine.
+  - text: A railway or a single railway track.
+  - text: The act of riding on horseback.
+  - text: A hostile ride against a particular area; a raid.
+  - text: "(often in the plural) A partly sheltered area of water near a shore in
+      which vessels may ride at anchor; a roadstead."
+  - text: A journey, or stage of a journey.
+  - text: A way or route.
+- pos: noun
+  defs:
+  - text: "(occasionally in the singular) A roadstead."
 ---
-

@@ -1,7 +1,47 @@
 ---
 layout: word
-title: psych
+title: Is PSYCH a Wordle Word?
+head_title: 'Is PSYCH a Wordle Word? Yes – Past Answer #1943 & Meaning'
 word: psych
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /saɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Psychology or psychiatry.<p><strong>Example:</strong> a psych class</p></li><li><strong>Definition 2:</strong> A psychologist; a psychiatrist.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put (someone) into a required psychological frame of mind (also psych up).</li><li><strong>Definition 2:</strong> To intimidate (someone) emotionally or using psychology (also psych out).</li><li><strong>Definition 3:</strong> To treat (someone) using psychoanalysis.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Psychedelic.<p><strong>Example:</strong> curtains with psych colors</p></li><li><strong>Definition 2:</strong> Psychiatric.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Indicating that one's preceding statement was false and that one has successfully fooled one's interlocutor. Also sike.</li><li><strong>Definition 2:</strong> An interjection of surprised happiness.<p><strong>Example:</strong> Psych! I just found my missing bracelet!</p></li></ul></div></div>"
+description: Yes, PSYCH is a valid Wordle word. It was the Wordle answer on October
+  14, 2026 (#1943). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 14, 2026 (#1943).
+past_answers:
+- date: '2026-10-14'
+  number: 1943
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels: []
+  unique_letters: 5
+  repeated: []
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+phonetic: "/saɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: Psychology or psychiatry.
+    example: a psych class
+  - text: A psychologist; a psychiatrist.
+- pos: verb
+  defs:
+  - text: To put (someone) into a required psychological frame of mind (also psych
+      up).
+  - text: To intimidate (someone) emotionally or using psychology (also psych out).
+  - text: To treat (someone) using psychoanalysis.
+- pos: adjective
+  defs:
+  - text: Psychedelic.
+    example: curtains with psych colors
+  - text: Psychiatric.
+- pos: interjection
+  defs:
+  - text: Indicating that one's preceding statement was false and that one has successfully
+      fooled one's interlocutor. Also sike.
+  - text: An interjection of surprised happiness.
+    example: Psych! I just found my missing bracelet!
 ---
-

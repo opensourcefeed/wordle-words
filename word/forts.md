@@ -1,7 +1,52 @@
 ---
 layout: word
-title: forts
+title: Is FORTS a Wordle Word?
+head_title: Is FORTS a Wordle Word? Yes – Valid Guess & Meaning
 word: forts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fortified defensive structure stationed with troops.</li><li><strong>Definition 2:</strong> Any permanent army post.</li><li><strong>Definition 3:</strong> An outlying trading-station, as in British North America.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To create a fort, fortifications, a strong point, or a redoubt.</li></ul></div></div>"
+description: Yes, FORTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- forte
+- forth
+- forty
+- borts
+- dorts
+- farts
+- fonts
+- foots
+- forbs
+- fords
+- fores
+- forks
+anagrams:
+- frost
+trap:
+  pattern: _ORTS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A fortified defensive structure stationed with troops.
+  - text: Any permanent army post.
+  - text: An outlying trading-station, as in British North America.
+- pos: verb
+  defs:
+  - text: To create a fort, fortifications, a strong point, or a redoubt.
 ---
-

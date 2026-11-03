@@ -1,7 +1,45 @@
 ---
 layout: word
-title: using
+title: Is USING a Wordle Word?
+head_title: 'Is USING a Wordle Word? Yes – Past Answer #180 & Meaning'
 word: using
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈjuːzɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To utilize or employ.</li><li><strong>Definition 2:</strong> To accustom; to habituate. (Now common only in participial form. Uses the same pronunciation as the noun; see usage notes.)<p><strong>Example:</strong> soldiers who are used to hardships and danger</p></li><li><strong>Definition 3:</strong> (except in past tense) To habitually do; to be wont to do. (Now chiefly in past-tense forms; see used to.)<p><strong>Example:</strong> I used to get things done.</p></li><li><strong>Definition 4:</strong> To behave toward; to act with regard to; to treat.<p><strong>Example:</strong> to use an animal cruelly</p></li><li><strong>Definition 5:</strong> To behave, act, comport oneself.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Use; utilization</li></ul></div></div>"
+description: Yes, USING is a valid Wordle word. It was the Wordle answer on December
+  16, 2021 (#180). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 16, 2021 (#180).
+past_answers:
+- date: '2021-12-16'
+  number: 180
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+anagrams:
+- suing
+phonetic: "/ˈjuːzɪŋ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To utilize or employ.
+  - text: To accustom; to habituate. (Now common only in participial form. Uses the
+      same pronunciation as the noun; see usage notes.)
+    example: soldiers who are used to hardships and danger
+  - text: "(except in past tense) To habitually do; to be wont to do. (Now chiefly
+      in past-tense forms; see used to.)"
+    example: I used to get things done.
+  - text: To behave toward; to act with regard to; to treat.
+    example: to use an animal cruelly
+  - text: To behave, act, comport oneself.
+- pos: noun
+  defs:
+  - text: Use; utilization
 ---
-

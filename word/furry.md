@@ -1,7 +1,54 @@
 ---
 layout: word
-title: furry
+title: Is FURRY a Wordle Word?
+head_title: Is FURRY a Wordle Word? Yes – Possible Answer & Meaning
 word: furry
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɜːɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An animal character with human-like characteristics; most commonly refers to such characters created by members of the furry subculture.<p><strong>Example:</strong> What percentage of furries are wolves?</p></li><li><strong>Definition 2:</strong> A member of the furry fandom.<p><strong>Example:</strong> The furry had designed an elaborate costume.</p></li><li><strong>Definition 3:</strong> Someone who roleplays or identifies with a furry character. (Compare therianthrope.)</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Covered with fur, or with something resembling fur.<p><strong>Example:</strong> His treatment of our furry friends was nothing short of appalling.</p></li><li><strong>Definition 2:</strong> Of or related to the furry subculture.</li></ul></div></div>"
+description: Yes, FURRY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 93
+neighbours:
+- curry
+- ferry
+- hurry
+- burry
+- durry
+- firry
+- furrs
+- furzy
+- gurry
+- lurry
+- murry
+- purry
+trap:
+  pattern: _URRY
+  count: 9
+phonetic: "/ˈfɜːɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An animal character with human-like characteristics; most commonly refers
+      to such characters created by members of the furry subculture.
+    example: What percentage of furries are wolves?
+  - text: A member of the furry fandom.
+    example: The furry had designed an elaborate costume.
+  - text: Someone who roleplays or identifies with a furry character. (Compare therianthrope.)
+- pos: adjective
+  defs:
+  - text: Covered with fur, or with something resembling fur.
+    example: His treatment of our furry friends was nothing short of appalling.
+  - text: Of or related to the furry subculture.
 ---
-

@@ -1,7 +1,41 @@
 ---
 layout: word
-title: sheik
+title: Is SHEIK a Wordle Word?
+head_title: Is SHEIK a Wordle Word? Yes – Possible Answer & Meaning
 word: sheik
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃeɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The leader of an Arab village, family or small tribe.</li><li><strong>Definition 2:</strong> An Islamic religious cleric; the leader of an Islamic religious order.</li><li><strong>Definition 3:</strong> (some Arab Gulf countries) An official title for members of the royal family as well as some prominent families.</li><li><strong>Definition 4:</strong> (1920s) A romantic lover. (from the 1921 film The Sheik)</li><li><strong>Definition 5:</strong> An Arab, especially one dressed in traditional clothing.</li><li><strong>Definition 6:</strong> An honorific for specialists in spirituality.</li></ul></div></div>"
+description: Yes, SHEIK is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- shtik
+- smeik
+- steik
+anagrams:
+- hikes
+phonetic: "/ʃeɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: The leader of an Arab village, family or small tribe.
+  - text: An Islamic religious cleric; the leader of an Islamic religious order.
+  - text: "(some Arab Gulf countries) An official title for members of the royal family
+      as well as some prominent families."
+  - text: "(1920s) A romantic lover. (from the 1921 film The Sheik)"
+  - text: An Arab, especially one dressed in traditional clothing.
+  - text: An honorific for specialists in spirituality.
 ---
-

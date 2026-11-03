@@ -1,7 +1,58 @@
 ---
 layout: word
-title: abler
+title: Is ABLER a Wordle Word?
+head_title: Is ABLER a Wordle Word? Yes – Valid Guess & Meaning
 word: abler
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /eɪ.blɚ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Easy to use.</li><li><strong>Definition 2:</strong> Suitable; competent.</li><li><strong>Definition 3:</strong> Liable to.</li><li><strong>Definition 4:</strong> Having the necessary powers or the needed resources to accomplish a task.</li><li><strong>Definition 5:</strong> Free from constraints preventing completion of task; permitted to; not prevented from.<p><strong>Example:</strong> I’ll see you as soon as I’m able.</p></li><li><strong>Definition 6:</strong> Having the physical strength; robust; healthy.<p><strong>Example:</strong> After the past week of forced marches, only half the men are fully able.</p></li><li><strong>Definition 7:</strong> Rich; well-to-do.<p><strong>Example:</strong> He was born to an able family.</p></li><li><strong>Definition 8:</strong> Gifted with skill, intelligence, knowledge, or competence.<p><strong>Example:</strong> The chairman was also an able sailor.</p></li><li><strong>Definition 9:</strong> Legally qualified or competent.<p><strong>Example:</strong> He is able to practice law in six states.</p></li><li><strong>Definition 10:</strong> Capable of performing all the requisite duties; as an able seaman.</li></ul></div></div>"
+description: Yes, ABLER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - E
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 3
+neighbours:
+- abled
+- abeer
+- ables
+- ablet
+- aller
+anagrams:
+- baler
+- blare
+- belar
+- blaer
+- blear
+phonetic: "/eɪ.blɚ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Easy to use.
+  - text: Suitable; competent.
+  - text: Liable to.
+  - text: Having the necessary powers or the needed resources to accomplish a task.
+  - text: Free from constraints preventing completion of task; permitted to; not prevented
+      from.
+    example: I’ll see you as soon as I’m able.
+  - text: Having the physical strength; robust; healthy.
+    example: After the past week of forced marches, only half the men are fully able.
+  - text: Rich; well-to-do.
+    example: He was born to an able family.
+  - text: Gifted with skill, intelligence, knowledge, or competence.
+    example: The chairman was also an able sailor.
+  - text: Legally qualified or competent.
+    example: He is able to practice law in six states.
+  - text: Capable of performing all the requisite duties; as an able seaman.
 ---
-

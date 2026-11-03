@@ -1,7 +1,41 @@
 ---
 layout: word
-title: shiny
+title: Is SHINY a Wordle Word?
+head_title: Is SHINY a Wordle Word? Yes – Possible Answer & Meaning
 word: shiny
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʃaɪni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Anything shiny; a trinket.</li><li><strong>Definition 2:</strong> Contraction of disparaging term \"shiny arses\", originating during World War Two, to describe a desk worker.https//books.google.co.uk/books?id=mAdUqLrKw4YC&pg=PA1717</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Reflecting light.</li><li><strong>Definition 2:</strong> Emitting light.</li><li><strong>Definition 3:</strong> Excellent; remarkable.</li><li><strong>Definition 4:</strong> Bright; luminous; clear; unclouded.</li></ul></div></div>"
+description: Yes, SHINY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- shine
+- spiny
+- whiny
+- shily
+- shins
+phonetic: "/ˈʃaɪni/"
+definitions:
+- pos: noun
+  defs:
+  - text: Anything shiny; a trinket.
+  - text: Contraction of disparaging term "shiny arses", originating during World
+      War Two, to describe a desk worker.https//books.google.co.uk/books?id=mAdUqLrKw4YC&pg=PA1717
+- pos: adjective
+  defs:
+  - text: Reflecting light.
+  - text: Emitting light.
+  - text: Excellent; remarkable.
+  - text: Bright; luminous; clear; unclouded.
 ---
-

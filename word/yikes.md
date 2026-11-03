@@ -1,7 +1,51 @@
 ---
 layout: word
-title: yikes
+title: Is YIKES a Wordle Word?
+head_title: Is YIKES a Wordle Word? Yes – Valid Guess & Meaning
 word: yikes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jaɪks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Expression of shock and alarm.<p><strong>Example:</strong> Then she told me I was ‘beautiful, for a black girl’. —Yikes!</p></li><li><strong>Definition 2:</strong> Expression of empathy with unpleasant or undesirable circumstances.<p><strong>Example:</strong> John has lost his job and can't pay his mortgage; yikes!</p></li></ul></div></div>"
+description: Yes, YIKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- bikes
+- dikes
+- fikes
+- hikes
+- likes
+- mikes
+- pikes
+- sikes
+- tikes
+- yiked
+- yipes
+- yites
+anagrams:
+- skiey
+trap:
+  pattern: _IKES
+  count: 11
+phonetic: "/jaɪks/"
+definitions:
+- pos: interjection
+  defs:
+  - text: Expression of shock and alarm.
+    example: Then she told me I was ‘beautiful, for a black girl’. —Yikes!
+  - text: Expression of empathy with unpleasant or undesirable circumstances.
+    example: John has lost his job and can't pay his mortgage; yikes!
 ---
-

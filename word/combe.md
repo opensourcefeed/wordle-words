@@ -1,7 +1,41 @@
 ---
 layout: word
-title: combe
+title: Is COMBE a Wordle Word?
+head_title: Is COMBE a Wordle Word? Yes – Valid Guess & Meaning
 word: combe
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kuːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A valley, often wooded and often with no river</li><li><strong>Definition 2:</strong> A cirque.</li></ul></div></div>"
+description: Yes, COMBE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- bombe
+- comae
+- combi
+- combo
+- combs
+- comby
+- comme
+- comte
+- corbe
+- pombe
+phonetic: "/kuːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A valley, often wooded and often with no river
+  - text: A cirque.
 ---
-

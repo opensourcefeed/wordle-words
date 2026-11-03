@@ -1,7 +1,36 @@
 ---
 layout: word
-title: addle
+title: Is ADDLE a Wordle Word?
+head_title: Is ADDLE a Wordle Word? Yes – Valid Guess & Meaning
 word: addle
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæ.dəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (provincial) To earn, earn by labor; earn money or one's living.</li><li><strong>Definition 2:</strong> (provincial) To thrive or grow; to ripen.</li></ul></div></div>"
+description: Yes, ADDLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+anagrams:
+- daled
+- dedal
+- laded
+phonetic: "/ˈæ.dəl/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(provincial) To earn, earn by labor; earn money or one's living."
+  - text: "(provincial) To thrive or grow; to ripen."
 ---
-

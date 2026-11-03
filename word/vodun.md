@@ -1,7 +1,33 @@
 ---
 layout: word
-title: vodun
+title: Is VODUN a Wordle Word?
+head_title: Is VODUN a Wordle Word? Yes – Valid Guess & Meaning
 word: vodun
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of a group of related religious practices found chiefly in and around the Caribbean, particularly in Haiti and Louisiana.</li><li><strong>Definition 2:</strong> The spiritual beliefs of the Ewe/Fon of West Africa, practiced chiefly in Benin and in the south of Togo.</li><li><strong>Definition 3:</strong> Any sort of magical or irrational approach to a problem.<p><strong>Example:</strong> I want a real explanation, not this statistical voodoo.</p></li><li><strong>Definition 4:</strong> One who practices voodoo; a native sorcerer.</li></ul></div></div>"
+description: Yes, VODUN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+definitions:
+- pos: noun
+  defs:
+  - text: Any of a group of related religious practices found chiefly in and around
+      the Caribbean, particularly in Haiti and Louisiana.
+  - text: The spiritual beliefs of the Ewe/Fon of West Africa, practiced chiefly in
+      Benin and in the south of Togo.
+  - text: Any sort of magical or irrational approach to a problem.
+    example: I want a real explanation, not this statistical voodoo.
+  - text: One who practices voodoo; a native sorcerer.
 ---
-

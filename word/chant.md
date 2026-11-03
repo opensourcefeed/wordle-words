@@ -1,7 +1,54 @@
 ---
 layout: word
-title: chant
+title: Is CHANT a Wordle Word?
+head_title: 'Is CHANT a Wordle Word? Yes – Past Answer #253 & Meaning'
 word: chant
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃænt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Type of singing done generally without instruments and harmony.</li><li><strong>Definition 2:</strong> A short and simple melody, divided into two parts by double bars, to which unmetrical psalms, etc., are sung or recited. It is the most ancient form of choral music.</li><li><strong>Definition 3:</strong> Twang; manner of speaking; a canting tone.</li><li><strong>Definition 4:</strong> A repetitive song, typically an incantation or part of a ritual.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sing, especially without instruments, and as applied to monophonic and pre-modern music.</li><li><strong>Definition 2:</strong> To sing or intone sacred text.</li><li><strong>Definition 3:</strong> To utter or repeat in a strongly rhythmical manner, especially as a group.<p><strong>Example:</strong> The football fans chanted insults at the referee.</p></li><li><strong>Definition 4:</strong> To sell horses fraudulently, exaggerating their merits.</li></ul></div></div>"
+description: Yes, CHANT is a valid Wordle word. It was the Wordle answer on February
+  27, 2022 (#253). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 27, 2022 (#253).
+past_answers:
+- date: '2022-02-27'
+  number: 253
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- chart
+- chaat
+- chaft
+- chana
+- chang
+- chank
+- chapt
+anagrams:
+- natch
+phonetic: "/tʃænt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Type of singing done generally without instruments and harmony.
+  - text: A short and simple melody, divided into two parts by double bars, to which
+      unmetrical psalms, etc., are sung or recited. It is the most ancient form of
+      choral music.
+  - text: Twang; manner of speaking; a canting tone.
+  - text: A repetitive song, typically an incantation or part of a ritual.
+- pos: verb
+  defs:
+  - text: To sing, especially without instruments, and as applied to monophonic and
+      pre-modern music.
+  - text: To sing or intone sacred text.
+  - text: To utter or repeat in a strongly rhythmical manner, especially as a group.
+    example: The football fans chanted insults at the referee.
+  - text: To sell horses fraudulently, exaggerating their merits.
 ---
-

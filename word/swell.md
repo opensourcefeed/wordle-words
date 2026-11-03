@@ -1,7 +1,62 @@
 ---
 layout: word
-title: swell
+title: Is SWELL a Wordle Word?
+head_title: 'Is SWELL a Wordle Word? Yes – Past Answer #1239 & Meaning'
 word: swell
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swɛl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To become bigger, especially due to being engorged.</li><li><strong>Definition 2:</strong> To cause to become bigger.<p><strong>Example:</strong> Rains and dissolving snow swell the rivers in spring.</p></li><li><strong>Definition 3:</strong> To grow gradually in force or loudness.<p><strong>Example:</strong> The organ music swelled.</p></li><li><strong>Definition 4:</strong> To raise to arrogance; to puff up; to inflate.<p><strong>Example:</strong> to be swelled with pride or haughtiness</p></li><li><strong>Definition 5:</strong> To be raised to arrogance.</li><li><strong>Definition 6:</strong> To be elated; to rise arrogantly.</li><li><strong>Definition 7:</strong> To be turgid, bombastic, or extravagant.<p><strong>Example:</strong> swelling words  a swelling style</p></li><li><strong>Definition 8:</strong> To protuberate; to bulge out.<p><strong>Example:</strong> A cask swells in the middle.</p></li></ul></div></div>"
+description: Yes, SWELL is a valid Wordle word. It was the Wordle answer on November
+  9, 2024 (#1239). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 9, 2024 (#1239).
+past_answers:
+- date: '2024-11-09'
+  number: 1239
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 67
+neighbours:
+- dwell
+- shell
+- smell
+- spell
+- swill
+- skell
+- snell
+- stell
+- sweal
+- sweel
+- swelt
+- swoll
+anagrams:
+- wells
+trap:
+  pattern: S_ELL
+  count: 7
+phonetic: "/swɛl/"
+definitions:
+- pos: verb
+  defs:
+  - text: To become bigger, especially due to being engorged.
+  - text: To cause to become bigger.
+    example: Rains and dissolving snow swell the rivers in spring.
+  - text: To grow gradually in force or loudness.
+    example: The organ music swelled.
+  - text: To raise to arrogance; to puff up; to inflate.
+    example: to be swelled with pride or haughtiness
+  - text: To be raised to arrogance.
+  - text: To be elated; to rise arrogantly.
+  - text: To be turgid, bombastic, or extravagant.
+    example: swelling words  a swelling style
+  - text: To protuberate; to bulge out.
+    example: A cask swells in the middle.
 ---
-

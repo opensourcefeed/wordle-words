@@ -1,7 +1,63 @@
 ---
 layout: word
-title: spend
+title: Is SPEND a Wordle Word?
+head_title: 'Is SPEND a Wordle Word? Yes – Past Answer #107 & Meaning'
 word: spend
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spɛnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Amount of money spent (during a period); expenditure.<p><strong>Example:</strong> I’m sorry, boss, but the advertising spend exceeded the budget again this month.</p></li><li><strong>Definition 2:</strong> (in the plural) Expenditures; money or pocket money.</li><li><strong>Definition 3:</strong> Discharged semen.</li><li><strong>Definition 4:</strong> Vaginal discharge.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pay out (money).<p><strong>Example:</strong> He spends far more on gambling than he does on living proper.</p></li><li><strong>Definition 2:</strong> To bestow; to employ; often with on or upon.</li><li><strong>Definition 3:</strong> To squander.<p><strong>Example:</strong> to spend an estate in gambling</p></li><li><strong>Definition 4:</strong> To exhaust, to wear out.<p><strong>Example:</strong> The violence of the waves was spent.</p></li><li><strong>Definition 5:</strong> To consume, to use up (time).<p><strong>Example:</strong> My sister usually spends her free time in nightclubs.</p></li><li><strong>Definition 6:</strong> To have an orgasm; to ejaculate sexually.<p><strong>Example:</strong> The fish spends his semen on eggs which he finds floating and whose mother he has never seen.</p></li><li><strong>Definition 7:</strong> To waste or wear away; to be consumed.<p><strong>Example:</strong> Energy spends in the using of it.</p></li><li><strong>Definition 8:</strong> To be diffused; to spread.</li><li><strong>Definition 9:</strong> To break ground; to continue working.</li></ul></div></div>"
+description: Yes, SPEND is a valid Wordle word. It was the Wordle answer on October
+  4, 2021 (#107). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 4, 2021 (#107).
+past_answers:
+- date: '2021-10-04'
+  number: 107
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- speed
+- spent
+- scend
+- shend
+- speld
+- stend
+- upend
+anagrams:
+- pends
+phonetic: "/spɛnd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Amount of money spent (during a period); expenditure.
+    example: I’m sorry, boss, but the advertising spend exceeded the budget again
+      this month.
+  - text: "(in the plural) Expenditures; money or pocket money."
+  - text: Discharged semen.
+  - text: Vaginal discharge.
+- pos: verb
+  defs:
+  - text: To pay out (money).
+    example: He spends far more on gambling than he does on living proper.
+  - text: To bestow; to employ; often with on or upon.
+  - text: To squander.
+    example: to spend an estate in gambling
+  - text: To exhaust, to wear out.
+    example: The violence of the waves was spent.
+  - text: To consume, to use up (time).
+    example: My sister usually spends her free time in nightclubs.
+  - text: To have an orgasm; to ejaculate sexually.
+    example: The fish spends his semen on eggs which he finds floating and whose mother
+      he has never seen.
+  - text: To waste or wear away; to be consumed.
+    example: Energy spends in the using of it.
+  - text: To be diffused; to spread.
+  - text: To break ground; to continue working.
 ---
-

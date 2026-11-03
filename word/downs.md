@@ -1,7 +1,97 @@
 ---
 layout: word
-title: downs
+title: Is DOWNS a Wordle Word?
+head_title: Is DOWNS a Wordle Word? Yes – Valid Guess & Meaning
 word: downs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /daʊnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A negative aspect; a downer.<p><strong>Example:</strong> I love almost everything about my job. The only down is that I can't take Saturdays off.</p></li><li><strong>Definition 2:</strong> A grudge (on someone).</li><li><strong>Definition 3:</strong> An act of swallowing an entire drink at once.</li><li><strong>Definition 4:</strong> A single play, from the time the ball is snapped (the start) to the time the whistle is blown (the end) when the ball is down, or is downed.<p><strong>Example:</strong> I bet after the third down, the kicker will replace the quarterback on the field.</p></li><li><strong>Definition 5:</strong> (crosswords) A clue whose solution runs vertically in the grid.<p><strong>Example:</strong> I haven't solved 12 or 13 across, but I've got most of the downs.</p></li><li><strong>Definition 6:</strong> A downstairs room of a two-story house.<p><strong>Example:</strong> She lives in a two-up two-down.</p></li><li><strong>Definition 7:</strong> Down payment.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To knock (someone or something) down; to cause to come down, to fell.<p><strong>Example:</strong> A single rifle shot downed the mighty beast.</p></li><li><strong>Definition 2:</strong> To lower; to put (something) down.<p><strong>Example:</strong> The bell rang for lunch, and the workers downed their tools.</p></li><li><strong>Definition 3:</strong> To defeat; to overpower.</li><li><strong>Definition 4:</strong> To disparage, to put down.</li><li><strong>Definition 5:</strong> To go or come down; to descend.</li><li><strong>Definition 6:</strong> To drink or swallow, especially without stopping before the vessel containing the liquid is empty.<p><strong>Example:</strong> He downed an ale and ordered another.</p></li><li><strong>Definition 7:</strong> To render (the ball) dead, typically by touching the ground while in possession.<p><strong>Example:</strong> He downed it at the seven-yard line.</p></li><li><strong>Definition 8:</strong> (pocket billiards) To sink (a ball) into a hole or pocket.<p><strong>Example:</strong> He downed two balls on the break.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (especially southern England) A hill, especially a chalk hill; rolling grassland<p><strong>Example:</strong> The North Downs are a ridge of chalk hills in south east England.</p></li><li><strong>Definition 2:</strong> (usually in the plural) A field, especially one used for horse racing.</li><li><strong>Definition 3:</strong> (chiefly in the plural) A tract of poor, sandy, undulating or hilly land near the sea, covered with fine turf which serves chiefly for the grazing of sheep.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Soft, fluffy immature feathers which grow on young birds. Used as insulating material in duvets, sleeping bags and jackets.</li><li><strong>Definition 2:</strong> The pubescence of plants; the hairy crown or envelope of the seeds of certain plants, such as the thistle.</li><li><strong>Definition 3:</strong> The soft hair of the face when beginning to appear.</li><li><strong>Definition 4:</strong> That which is made of down, as a bed or pillow; that which affords ease and repose, like a bed of down.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover, ornament, line, or stuff with down.</li></ul></div></div>"
+description: Yes, DOWNS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- downy
+- dawns
+- dowds
+- dowfs
+- dowls
+- downa
+- dowps
+- dowts
+- gowns
+- lowns
+- powns
+- rowns
+anagrams:
+- nowds
+- sownd
+trap:
+  pattern: _OWNS
+  count: 6
+phonetic: "/daʊnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A negative aspect; a downer.
+    example: I love almost everything about my job. The only down is that I can't
+      take Saturdays off.
+  - text: A grudge (on someone).
+  - text: An act of swallowing an entire drink at once.
+  - text: A single play, from the time the ball is snapped (the start) to the time
+      the whistle is blown (the end) when the ball is down, or is downed.
+    example: I bet after the third down, the kicker will replace the quarterback on
+      the field.
+  - text: "(crosswords) A clue whose solution runs vertically in the grid."
+    example: I haven't solved 12 or 13 across, but I've got most of the downs.
+  - text: A downstairs room of a two-story house.
+    example: She lives in a two-up two-down.
+  - text: Down payment.
+- pos: verb
+  defs:
+  - text: To knock (someone or something) down; to cause to come down, to fell.
+    example: A single rifle shot downed the mighty beast.
+  - text: To lower; to put (something) down.
+    example: The bell rang for lunch, and the workers downed their tools.
+  - text: To defeat; to overpower.
+  - text: To disparage, to put down.
+  - text: To go or come down; to descend.
+  - text: To drink or swallow, especially without stopping before the vessel containing
+      the liquid is empty.
+    example: He downed an ale and ordered another.
+  - text: To render (the ball) dead, typically by touching the ground while in possession.
+    example: He downed it at the seven-yard line.
+  - text: "(pocket billiards) To sink (a ball) into a hole or pocket."
+    example: He downed two balls on the break.
+- pos: noun
+  defs:
+  - text: "(especially southern England) A hill, especially a chalk hill; rolling
+      grassland"
+    example: The North Downs are a ridge of chalk hills in south east England.
+  - text: "(usually in the plural) A field, especially one used for horse racing."
+  - text: "(chiefly in the plural) A tract of poor, sandy, undulating or hilly land
+      near the sea, covered with fine turf which serves chiefly for the grazing of
+      sheep."
+- pos: noun
+  defs:
+  - text: Soft, fluffy immature feathers which grow on young birds. Used as insulating
+      material in duvets, sleeping bags and jackets.
+  - text: The pubescence of plants; the hairy crown or envelope of the seeds of certain
+      plants, such as the thistle.
+  - text: The soft hair of the face when beginning to appear.
+  - text: That which is made of down, as a bed or pillow; that which affords ease
+      and repose, like a bed of down.
+- pos: verb
+  defs:
+  - text: To cover, ornament, line, or stuff with down.
 ---
-

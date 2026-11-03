@@ -1,7 +1,67 @@
 ---
 layout: word
-title: canes
+title: Is CANES a Wordle Word?
+head_title: Is CANES a Wordle Word? Yes – Valid Guess & Meaning
 word: canes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /keɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A plant with simple stems, like bamboo or sugar cane, or the stem thereof</li><li><strong>Definition 2:</strong> The stem of such a plant adapted for use as a tool</li><li><strong>Definition 3:</strong> A rod-shaped tool or device, somewhat like a cane</li><li><strong>Definition 4:</strong> Split rattan, as used in wickerwork, basketry and the like</li><li><strong>Definition 5:</strong> A local European measure of length; the canna.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To strike or beat with a cane or similar implement</li><li><strong>Definition 2:</strong> To destroy; to comprehensively defeat<p><strong>Example:</strong> Mudchester Rovers were caned 10-0.</p></li><li><strong>Definition 3:</strong> To do something well, in a competent fashion</li><li><strong>Definition 4:</strong> To produce extreme pain<p><strong>Example:</strong> Don't hit me with that. It really canes!</p></li><li><strong>Definition 5:</strong> To make or furnish with cane or rattan.<p><strong>Example:</strong> to cane chairs</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The genus Arundinaria, the sole temperate genus of bamboo native to the New World.</li></ul></div></div>"
+description: Yes, CANES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- banes
+- cades
+- cafes
+- cages
+- cakes
+- cames
+- caned
+- caneh
+- caner
+- cangs
+- canns
+- cants
+anagrams:
+- acnes
+- scena
+trap:
+  pattern: _ANES
+  count: 12
+phonetic: "/keɪnz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A plant with simple stems, like bamboo or sugar cane, or the stem thereof
+  - text: The stem of such a plant adapted for use as a tool
+  - text: A rod-shaped tool or device, somewhat like a cane
+  - text: Split rattan, as used in wickerwork, basketry and the like
+  - text: A local European measure of length; the canna.
+- pos: verb
+  defs:
+  - text: To strike or beat with a cane or similar implement
+  - text: To destroy; to comprehensively defeat
+    example: Mudchester Rovers were caned 10-0.
+  - text: To do something well, in a competent fashion
+  - text: To produce extreme pain
+    example: Don't hit me with that. It really canes!
+  - text: To make or furnish with cane or rattan.
+    example: to cane chairs
+- pos: noun
+  defs:
+  - text: The genus Arundinaria, the sole temperate genus of bamboo native to the
+      New World.
 ---
-

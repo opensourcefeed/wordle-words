@@ -1,7 +1,43 @@
 ---
 layout: word
-title: baddy
+title: Is BADDY a Wordle Word?
+head_title: Is BADDY a Wordle Word? Yes – Valid Guess & Meaning
 word: baddy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person of bad character in a work of fiction.</li></ul></div></div>"
+description: Yes, BADDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- badly
+- bawdy
+- biddy
+- buddy
+- caddy
+- daddy
+- paddy
+- baldy
+- bandy
+- bardy
+- faddy
+- laddy
+trap:
+  pattern: _ADDY
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: A person of bad character in a work of fiction.
 ---
-

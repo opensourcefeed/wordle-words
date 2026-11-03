@@ -1,7 +1,62 @@
 ---
 layout: word
-title: brews
+title: Is BREWS a Wordle Word?
+head_title: Is BREWS a Wordle Word? Yes – Valid Guess & Meaning
 word: brews
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹuːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The mixture formed by brewing; that which is brewed; a brewage, such as a cup of tea or a brewed beer.</li><li><strong>Definition 2:</strong> A beer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make tea or coffee by mixing tea leaves or coffee beans with hot water.</li><li><strong>Definition 2:</strong> To heat wine, infusing it with spices; to mull.</li><li><strong>Definition 3:</strong> To make a hot soup by combining ingredients and boiling them in water.</li><li><strong>Definition 4:</strong> To make beer by steeping a starch source in water and fermenting the resulting sweet liquid with yeast.</li><li><strong>Definition 5:</strong> To foment or prepare, as by brewing</li><li><strong>Definition 6:</strong> To attend to the business, or go through the processes, of brewing or making beer.</li><li><strong>Definition 7:</strong> (of an unwelcome event) To be in a state of preparation; to be mixing, forming, or gathering.</li><li><strong>Definition 8:</strong> To boil or seethe; to cook.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hill or overhanging cliff.</li></ul></div></div>"
+description: Yes, BREWS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- braws
+- breds
+- brees
+- breis
+- brens
+- brers
+- breys
+- brows
+- crews
+- grews
+- trews
+trap:
+  pattern: BRE_S
+  count: 7
+phonetic: "/bɹuːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The mixture formed by brewing; that which is brewed; a brewage, such as
+      a cup of tea or a brewed beer.
+  - text: A beer.
+- pos: verb
+  defs:
+  - text: To make tea or coffee by mixing tea leaves or coffee beans with hot water.
+  - text: To heat wine, infusing it with spices; to mull.
+  - text: To make a hot soup by combining ingredients and boiling them in water.
+  - text: To make beer by steeping a starch source in water and fermenting the resulting
+      sweet liquid with yeast.
+  - text: To foment or prepare, as by brewing
+  - text: To attend to the business, or go through the processes, of brewing or making
+      beer.
+  - text: "(of an unwelcome event) To be in a state of preparation; to be mixing,
+      forming, or gathering."
+  - text: To boil or seethe; to cook.
+- pos: noun
+  defs:
+  - text: A hill or overhanging cliff.
 ---
-

@@ -1,7 +1,100 @@
 ---
 layout: word
-title: sweet
+title: Is SWEET a Wordle Word?
+head_title: 'Is SWEET a Wordle Word? Yes – Past Answer #262 & Meaning'
 word: sweet
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swiːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The basic taste sensation induced by sugar.</li><li><strong>Definition 2:</strong> A confection made from sugar, or high in sugar content; a candy.</li><li><strong>Definition 3:</strong> A food eaten for dessert.<p><strong>Example:</strong> Can we see the sweet menu, please?</p></li><li><strong>Definition 4:</strong> Sweetheart; darling.</li><li><strong>Definition 5:</strong> That which is sweet or pleasant in odour; a perfume.</li><li><strong>Definition 6:</strong> Sweetness, delight; something pleasant to the mind or senses.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sweeten.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a pleasant taste, especially one relating to the basic taste sensation induced by sugar.<p><strong>Example:</strong> a sweet apple</p></li><li><strong>Definition 2:</strong> Having a taste of sugar.</li><li><strong>Definition 3:</strong> Retaining a portion of sugar.<p><strong>Example:</strong> Sweet wines are better dessert wines.</p></li><li><strong>Definition 4:</strong> Not having a salty taste.<p><strong>Example:</strong> sweet butter</p></li><li><strong>Definition 5:</strong> Having a pleasant smell.<p><strong>Example:</strong> a sweet scent</p></li><li><strong>Definition 6:</strong> Not decaying, fermented, rancid, sour, spoiled, or stale.<p><strong>Example:</strong> sweet milk</p></li><li><strong>Definition 7:</strong> Having a pleasant sound.<p><strong>Example:</strong> a sweet tune</p></li><li><strong>Definition 8:</strong> Having a pleasing disposition.<p><strong>Example:</strong> a sweet child</p></li><li><strong>Definition 9:</strong> Having a helpful disposition.<p><strong>Example:</strong> It was sweet of him to help out.</p></li><li><strong>Definition 10:</strong> Free from excessive unwanted substances like acid or sulphur.<p><strong>Example:</strong> sweet crude oil</p></li><li><strong>Definition 11:</strong> Very pleasing; agreeable.<p><strong>Example:</strong> The new Lexus was a sweet birthday gift.</p></li><li><strong>Definition 12:</strong> Doing well; in a good or happy position.</li><li><strong>Definition 13:</strong> (followed by on) Romantically fixated, enamoured with, fond of<p><strong>Example:</strong> The attraction was mutual and instant; they were sweet on one another from first sight.</p></li><li><strong>Definition 14:</strong> Fresh; not salt or brackish.<p><strong>Example:</strong> sweet water</p></li><li><strong>Definition 15:</strong> Pleasing to the eye; beautiful; mild and attractive; fair.<p><strong>Example:</strong> a sweet colour or complexion</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a sweet manner.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Used as a positive response to good news or information.<p><strong>Example:</strong> They're making a sequel? Ah, sweet!</p></li></ul></div></div>"
+description: Yes, SWEET is a valid Wordle word. It was the Wordle answer on March
+  8, 2022 (#262). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 8, 2022 (#262).
+past_answers:
+- date: '2022-03-08'
+  number: 262
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- sheet
+- sleet
+- sweat
+- sweep
+- swept
+- tweet
+- skeet
+- sweed
+- sweel
+- sweer
+- swees
+- swelt
+anagrams:
+- ewest
+- weest
+- weets
+trap:
+  pattern: SWEE_
+  count: 6
+phonetic: "/swiːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: The basic taste sensation induced by sugar.
+  - text: A confection made from sugar, or high in sugar content; a candy.
+  - text: A food eaten for dessert.
+    example: Can we see the sweet menu, please?
+  - text: Sweetheart; darling.
+  - text: That which is sweet or pleasant in odour; a perfume.
+  - text: Sweetness, delight; something pleasant to the mind or senses.
+- pos: verb
+  defs:
+  - text: To sweeten.
+- pos: adjective
+  defs:
+  - text: Having a pleasant taste, especially one relating to the basic taste sensation
+      induced by sugar.
+    example: a sweet apple
+  - text: Having a taste of sugar.
+  - text: Retaining a portion of sugar.
+    example: Sweet wines are better dessert wines.
+  - text: Not having a salty taste.
+    example: sweet butter
+  - text: Having a pleasant smell.
+    example: a sweet scent
+  - text: Not decaying, fermented, rancid, sour, spoiled, or stale.
+    example: sweet milk
+  - text: Having a pleasant sound.
+    example: a sweet tune
+  - text: Having a pleasing disposition.
+    example: a sweet child
+  - text: Having a helpful disposition.
+    example: It was sweet of him to help out.
+  - text: Free from excessive unwanted substances like acid or sulphur.
+    example: sweet crude oil
+  - text: Very pleasing; agreeable.
+    example: The new Lexus was a sweet birthday gift.
+  - text: Doing well; in a good or happy position.
+  - text: "(followed by on) Romantically fixated, enamoured with, fond of"
+    example: The attraction was mutual and instant; they were sweet on one another
+      from first sight.
+  - text: Fresh; not salt or brackish.
+    example: sweet water
+  - text: Pleasing to the eye; beautiful; mild and attractive; fair.
+    example: a sweet colour or complexion
+- pos: adverb
+  defs:
+  - text: In a sweet manner.
+- pos: interjection
+  defs:
+  - text: Used as a positive response to good news or information.
+    example: They're making a sequel? Ah, sweet!
 ---
-

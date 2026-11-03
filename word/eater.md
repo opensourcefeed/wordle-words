@@ -1,7 +1,55 @@
 ---
 layout: word
-title: eater
+title: Is EATER a Wordle Word?
+head_title: Is EATER a Wordle Word? Yes – Possible Answer & Meaning
 word: eater
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈiːtə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who eats.</li><li><strong>Definition 2:</strong> An eating apple.</li><li><strong>Definition 3:</strong> One who performs fellatio or cunnilingus.</li><li><strong>Definition 4:</strong> A configuration of cells that appears to consume another configuration by gradually causing it to disappear.</li></ul></div></div>"
+description: Yes, EATER is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - A
+  - T
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- cater
+- eager
+- eaten
+- enter
+- ester
+- hater
+- later
+- water
+- dater
+- easer
+- eaver
+- gater
+anagrams:
+- arete
+- reate
+trap:
+  pattern: _ATER
+  count: 13
+phonetic: "/ˈiːtə/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who eats.
+  - text: An eating apple.
+  - text: One who performs fellatio or cunnilingus.
+  - text: A configuration of cells that appears to consume another configuration by
+      gradually causing it to disappear.
 ---
-

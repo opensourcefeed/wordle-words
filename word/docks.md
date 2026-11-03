@@ -1,7 +1,93 @@
 ---
 layout: word
-title: docks
+title: Is DOCKS a Wordle Word?
+head_title: Is DOCKS a Wordle Word? Yes – Valid Guess & Meaning
 word: docks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɒks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any of the genus Rumex of coarse weedy plants with small green flowers related to buckwheat, especially common dock, and used as potherbs and in folk medicine, especially in curing nettle rash.</li><li><strong>Definition 2:</strong> A burdock plant, or the leaves of that plant.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The fleshy root of an animal's tail.</li><li><strong>Definition 2:</strong> The part of the tail which remains after the tail has been docked.</li><li><strong>Definition 3:</strong> The buttocks or anus.</li><li><strong>Definition 4:</strong> A leather case to cover the clipped or cut tail of a horse.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cut off a section of an animal's tail, to practise a caudectomy.</li><li><strong>Definition 2:</strong> To reduce (wages); to deduct from.</li><li><strong>Definition 3:</strong> To cut off, bar, or destroy.<p><strong>Example:</strong> to dock an entail</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fixed structure attached to shore to which a vessel is secured when in port.</li><li><strong>Definition 2:</strong> A structure attached to shore for loading and unloading vessels.</li><li><strong>Definition 3:</strong> The body of water between two piers.</li><li><strong>Definition 4:</strong> The place of arrival and departure of a train in a railway station.</li><li><strong>Definition 5:</strong> A section of a hotel or restaurant.<p><strong>Example:</strong> coffee dock</p></li><li><strong>Definition 6:</strong> A device designed as a base for holding a connected portable appliance such as a laptop computer (in this case, referred to as a docking station), or a mobile telephone, for providing the necessary electrical charge for its autonomy, or as a hardware extension for additional capabilities.</li><li><strong>Definition 7:</strong> A toolbar that provides the user with a way of launching applications, and switching between running applications.</li><li><strong>Definition 8:</strong> An act of docking; joining two things together.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To land at a harbour.</li><li><strong>Definition 2:</strong> To join two moving items.</li><li><strong>Definition 3:</strong> To drag a user interface element (such as a toolbar) to a position on screen where it snaps into place.</li><li><strong>Definition 4:</strong> To place (an electronic device) in its dock.<p><strong>Example:</strong> I docked the laptop and allowed it to recharge for an hour.</p></li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Part of a courtroom where the accused sits.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pierce with holes, as pricking pastry or dough with a fork to prevent excessive rising in the oven.</li></ul></div><div class='meanings'><h3>Meaning 8</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A collection of docks, wharves, warehouses and offices</li></ul></div></div>"
+description: Yes, DOCKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- bocks
+- cocks
+- dacks
+- decks
+- docos
+- docus
+- doeks
+- dooks
+- dorks
+- douks
+- ducks
+- hocks
+trap:
+  pattern: _OCKS
+  count: 14
+phonetic: "/dɒks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any of the genus Rumex of coarse weedy plants with small green flowers related
+      to buckwheat, especially common dock, and used as potherbs and in folk medicine,
+      especially in curing nettle rash.
+  - text: A burdock plant, or the leaves of that plant.
+- pos: noun
+  defs:
+  - text: The fleshy root of an animal's tail.
+  - text: The part of the tail which remains after the tail has been docked.
+  - text: The buttocks or anus.
+  - text: A leather case to cover the clipped or cut tail of a horse.
+- pos: verb
+  defs:
+  - text: To cut off a section of an animal's tail, to practise a caudectomy.
+  - text: To reduce (wages); to deduct from.
+  - text: To cut off, bar, or destroy.
+    example: to dock an entail
+- pos: noun
+  defs:
+  - text: A fixed structure attached to shore to which a vessel is secured when in
+      port.
+  - text: A structure attached to shore for loading and unloading vessels.
+  - text: The body of water between two piers.
+  - text: The place of arrival and departure of a train in a railway station.
+  - text: A section of a hotel or restaurant.
+    example: coffee dock
+  - text: A device designed as a base for holding a connected portable appliance such
+      as a laptop computer (in this case, referred to as a docking station), or a
+      mobile telephone, for providing the necessary electrical charge for its autonomy,
+      or as a hardware extension for additional capabilities.
+  - text: A toolbar that provides the user with a way of launching applications, and
+      switching between running applications.
+  - text: An act of docking; joining two things together.
+- pos: verb
+  defs:
+  - text: To land at a harbour.
+  - text: To join two moving items.
+  - text: To drag a user interface element (such as a toolbar) to a position on screen
+      where it snaps into place.
+  - text: To place (an electronic device) in its dock.
+    example: I docked the laptop and allowed it to recharge for an hour.
+- pos: noun
+  defs:
+  - text: Part of a courtroom where the accused sits.
+- pos: verb
+  defs:
+  - text: To pierce with holes, as pricking pastry or dough with a fork to prevent
+      excessive rising in the oven.
+- pos: noun
+  defs:
+  - text: A collection of docks, wharves, warehouses and offices
 ---
-

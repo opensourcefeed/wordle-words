@@ -1,7 +1,57 @@
 ---
 layout: word
-title: prank
+title: Is PRANK a Wordle Word?
+head_title: 'Is PRANK a Wordle Word? Yes – Past Answer #1459 & Meaning'
 word: prank
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹæŋk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A practical joke or mischievous trick.<p><strong>Example:</strong> He pulled a gruesome prank on his sister.</p></li><li><strong>Definition 2:</strong> An evil deed; a malicious trick, an act of cruel deception.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To perform a practical joke on; to trick.</li><li><strong>Definition 2:</strong> To call someone's phone and promptly hang up<p><strong>Example:</strong> Hey man, prank me when you wanna get picked up.</p></li><li><strong>Definition 3:</strong> To adorn in a showy manner; to dress or equip ostentatiously.</li><li><strong>Definition 4:</strong> To make ostentatious show.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Full of gambols or tricks.</li></ul></div></div>"
+description: Yes, PRANK is a valid Wordle word. It was the Wordle answer on June 17,
+  2025 (#1459). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 17, 2025 (#1459).
+past_answers:
+- date: '2025-06-17'
+  number: 1459
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- crank
+- drank
+- frank
+- plank
+- brank
+- prana
+- prang
+- prink
+- pronk
+- trank
+trap:
+  pattern: _RANK
+  count: 6
+phonetic: "/pɹæŋk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A practical joke or mischievous trick.
+    example: He pulled a gruesome prank on his sister.
+  - text: An evil deed; a malicious trick, an act of cruel deception.
+- pos: verb
+  defs:
+  - text: To perform a practical joke on; to trick.
+  - text: To call someone's phone and promptly hang up
+    example: Hey man, prank me when you wanna get picked up.
+  - text: To adorn in a showy manner; to dress or equip ostentatiously.
+  - text: To make ostentatious show.
+- pos: adjective
+  defs:
+  - text: Full of gambols or tricks.
 ---
-

@@ -1,7 +1,51 @@
 ---
 layout: word
-title: hosel
+title: Is HOSEL a Wordle Word?
+head_title: Is HOSEL a Wordle Word? Yes – Valid Guess & Meaning
 word: hosel
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The portion of the head of a golf club to which the shaft of the club attaches.<p><strong>Example:</strong> Though largely ignored by players, hosel design is integral to the balance, feel and power of a club.</p></li><li><strong>Definition 2:</strong> (slang) A semester, in the context of a course of study which should be enjoyable as opposed to required work.<p><strong>Example:</strong> The new hosel will be using the format suggested by students.</p></li></ul></div></div>"
+description: Yes, HOSEL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- hotel
+- hovel
+- hosed
+- hosen
+- hoser
+- hoses
+- hosey
+- losel
+anagrams:
+- helos
+- holes
+- olehs
+- sheol
+trap:
+  pattern: HOSE_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: The portion of the head of a golf club to which the shaft of the club attaches.
+    example: Though largely ignored by players, hosel design is integral to the balance,
+      feel and power of a club.
+  - text: "(slang) A semester, in the context of a course of study which should be
+      enjoyable as opposed to required work."
+    example: The new hosel will be using the format suggested by students.
 ---
-

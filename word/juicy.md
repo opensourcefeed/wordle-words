@@ -1,7 +1,36 @@
 ---
 layout: word
-title: juicy
+title: Is JUICY a Wordle Word?
+head_title: Is JUICY a Wordle Word? Yes – Possible Answer & Meaning
 word: juicy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdʒusi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having lots of juice.<p><strong>Example:</strong> a juicy peach</p></li><li><strong>Definition 2:</strong> (of a story, etc.) Exciting; titillating.<p><strong>Example:</strong> I do not keep up with all the latest juicy rumors.</p></li><li><strong>Definition 3:</strong> (of a blow, strike, etc.) Strong, painful.</li><li><strong>Definition 4:</strong> Voluptuous, curvy, thick.</li></ul></div></div>"
+description: Yes, JUICY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- juice
+phonetic: "/ˈdʒusi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having lots of juice.
+    example: a juicy peach
+  - text: "(of a story, etc.) Exciting; titillating."
+    example: I do not keep up with all the latest juicy rumors.
+  - text: "(of a blow, strike, etc.) Strong, painful."
+  - text: Voluptuous, curvy, thick.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: burks
+title: Is BURKS a Wordle Word?
+head_title: Is BURKS a Wordle Word? Yes – Valid Guess & Meaning
 word: burks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To vomit.<p><strong>Example:</strong> It was nasty, y’all. She just burked all over my sedan.</p></li></ul></div></div>"
+description: Yes, BURKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- barks
+- berks
+- birks
+- borks
+- bucks
+- buiks
+- bulks
+- bunks
+- buras
+- burbs
+- burds
+- burgs
+anagrams:
+- brusk
+trap:
+  pattern: BUR_S
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To vomit.
+    example: It was nasty, y’all. She just burked all over my sedan.
 ---
-

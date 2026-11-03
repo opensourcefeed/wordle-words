@@ -1,7 +1,49 @@
 ---
 layout: word
-title: holms
+title: Is HOLMS a Wordle Word?
+head_title: Is HOLMS a Wordle Word? Yes – Valid Guess & Meaning
 word: holms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (obsolete outside dialectal) The holly.</li><li><strong>Definition 2:</strong> A common evergreen oak of Europe, Quercus ilex; the holm oak.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An island in a lake, river or estuary; an eyot.</li><li><strong>Definition 2:</strong> (chiefly West Yorkshire) Any small island, but especially one near a larger island or the mainland, sometimes with holly bushes; an islet. Often the word is used in Norse-influenced place-names. See also holme.</li><li><strong>Definition 3:</strong> Rich flat land near a river, prone to being completely flooded; a river-meadow; bottomland.</li></ul></div></div>"
+description: Yes, HOLMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- halms
+- helms
+- holds
+- holes
+- holks
+- holme
+- holos
+- holts
+trap:
+  pattern: HOL_S
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: "(obsolete outside dialectal) The holly."
+  - text: A common evergreen oak of Europe, Quercus ilex; the holm oak.
+- pos: noun
+  defs:
+  - text: An island in a lake, river or estuary; an eyot.
+  - text: "(chiefly West Yorkshire) Any small island, but especially one near a larger
+      island or the mainland, sometimes with holly bushes; an islet. Often the word
+      is used in Norse-influenced place-names. See also holme."
+  - text: Rich flat land near a river, prone to being completely flooded; a river-meadow;
+      bottomland.
 ---
-

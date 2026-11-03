@@ -1,7 +1,41 @@
 ---
 layout: word
-title: adopt
+title: Is ADOPT a Wordle Word?
+head_title: 'Is ADOPT a Wordle Word? Yes – Past Answer #577 & Meaning'
 word: adopt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈdɒpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take by choice into relationship (a child, heir, friend, citizen, etc.)</li><li><strong>Definition 2:</strong> To take or receive as one's own what is not so naturally.<p><strong>Example:</strong> He adopted a new look in order to fit in with his new workmates.</p></li><li><strong>Definition 3:</strong> To select and take or approve.<p><strong>Example:</strong> These resolutions were adopted.</p></li><li><strong>Definition 4:</strong> To win ten consecutive games against an opponent</li></ul></div></div>"
+description: Yes, ADOPT is a valid Wordle word. It was the Wordle answer on January
+  17, 2023 (#577). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 17, 2023 (#577).
+past_answers:
+- date: '2023-01-17'
+  number: 577
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- adapt
+- adept
+phonetic: "/əˈdɒpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To take by choice into relationship (a child, heir, friend, citizen, etc.)
+  - text: To take or receive as one's own what is not so naturally.
+    example: He adopted a new look in order to fit in with his new workmates.
+  - text: To select and take or approve.
+    example: These resolutions were adopted.
+  - text: To win ten consecutive games against an opponent
 ---
-

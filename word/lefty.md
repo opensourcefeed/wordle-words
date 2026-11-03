@@ -1,7 +1,50 @@
 ---
 layout: word
-title: lefty
+title: Is LEFTY a Wordle Word?
+head_title: 'Is LEFTY a Wordle Word? Yes – Past Answer #1550 & Meaning'
 word: lefty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɛfti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One who is left-handed.</li><li><strong>Definition 2:</strong> One who has left-wing political views.</li><li><strong>Definition 3:</strong> One's left testicle.<p><strong>Example:</strong> I'll bet my lefty he won't show up for work today.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Left-handed.</li><li><strong>Definition 2:</strong> Intended for left-handed use.<p><strong>Example:</strong> The lefty scissors are the ones with the red plastic handles.</p></li><li><strong>Definition 3:</strong> Left-wing.</li></ul></div></div>"
+description: Yes, LEFTY is a valid Wordle word. It was the Wordle answer on September
+  16, 2025 (#1550). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 16, 2025 (#1550).
+past_answers:
+- date: '2025-09-16'
+  number: 1550
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- hefty
+- lofty
+- lefte
+- lefts
+- letty
+anagrams:
+- felty
+- flyte
+phonetic: "/ˈlɛfti/"
+definitions:
+- pos: noun
+  defs:
+  - text: One who is left-handed.
+  - text: One who has left-wing political views.
+  - text: One's left testicle.
+    example: I'll bet my lefty he won't show up for work today.
+- pos: adjective
+  defs:
+  - text: Left-handed.
+  - text: Intended for left-handed use.
+    example: The lefty scissors are the ones with the red plastic handles.
+  - text: Left-wing.
 ---
-

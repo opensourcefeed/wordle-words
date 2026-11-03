@@ -1,7 +1,47 @@
 ---
 layout: word
-title: brook
+title: Is BROOK a Wordle Word?
+head_title: 'Is BROOK a Wordle Word? Yes – Past Answer #779 & Meaning'
 word: brook
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹʊk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To use; enjoy; have the full employment of.</li><li><strong>Definition 2:</strong> To earn; deserve.</li><li><strong>Definition 3:</strong> To bear; endure; support; put up with; tolerate (usually used in the negative, with an abstract noun as object).<p><strong>Example:</strong> I will not brook any disobedience.   I will brook no refusal.   I will brook no impertinence.</p></li></ul></div></div>"
+description: Yes, BROOK is a valid Wordle word. It was the Wordle answer on August
+  7, 2023 (#779). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 7, 2023 (#779).
+past_answers:
+- date: '2023-08-07'
+  number: 779
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- brood
+- broom
+- crook
+- blook
+- brock
+- brool
+- broos
+- drook
+- prook
+phonetic: "/bɹʊk/"
+definitions:
+- pos: verb
+  defs:
+  - text: To use; enjoy; have the full employment of.
+  - text: To earn; deserve.
+  - text: To bear; endure; support; put up with; tolerate (usually used in the negative,
+      with an abstract noun as object).
+    example: I will not brook any disobedience.   I will brook no refusal.   I will
+      brook no impertinence.
 ---
-

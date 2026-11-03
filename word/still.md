@@ -1,7 +1,75 @@
 ---
 layout: word
-title: still
+title: Is STILL a Wordle Word?
+head_title: 'Is STILL a Wordle Word? Yes – Past Answer #948 & Meaning'
 word: still
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɪl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A period of calm or silence.<p><strong>Example:</strong> the still of the night</p></li><li><strong>Definition 2:</strong> A photograph, as opposed to movie footage.</li><li><strong>Definition 3:</strong> A resident of the Falkland Islands.</li><li><strong>Definition 4:</strong> A steep hill or ascent.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not moving; calm.<p><strong>Example:</strong> Still waters run deep.</p></li><li><strong>Definition 2:</strong> Not effervescing; not sparkling.<p><strong>Example:</strong> still water; still wines</p></li><li><strong>Definition 3:</strong> Uttering no sound; silent.</li><li><strong>Definition 4:</strong> Having the same stated quality continuously from a past time</li><li><strong>Definition 5:</strong> Comparatively quiet or silent; soft; gentle; low.</li><li><strong>Definition 6:</strong> Constant; continual.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Without motion.<p><strong>Example:</strong> They stood still until the guard was out of sight.</p></li><li><strong>Definition 2:</strong> (aspect) Up to a time, as in the preceding time.<p><strong>Example:</strong> Is it still raining?   It was still raining five minutes ago.</p></li><li><strong>Definition 3:</strong> (degree) To an even greater degree. Used to modify comparative adjectives or adverbs.<p><strong>Example:</strong> Tom is tall; Dick is taller; Harry is still taller.</p></li><li><strong>Definition 4:</strong> Nevertheless.<p><strong>Example:</strong> I’m not hungry, but I’ll still manage to find room for dessert.</p></li><li><strong>Definition 5:</strong> Always; invariably; constantly; continuously.</li><li><strong>Definition 6:</strong> (extensive) Even, yet.<p><strong>Example:</strong> Some dogs howl, more yelp, still more bark.</p></li></ul></div></div>"
+description: Yes, STILL is a valid Wordle word. It was the Wordle answer on January
+  23, 2024 (#948). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 23, 2024 (#948).
+past_answers:
+- date: '2024-01-23'
+  number: 948
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - T
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- skill
+- spill
+- stall
+- stilt
+- swill
+- shill
+- stell
+- stilb
+- stile
+- stull
+anagrams:
+- lilts
+- tills
+phonetic: "/stɪl/"
+definitions:
+- pos: noun
+  defs:
+  - text: A period of calm or silence.
+    example: the still of the night
+  - text: A photograph, as opposed to movie footage.
+  - text: A resident of the Falkland Islands.
+  - text: A steep hill or ascent.
+- pos: adjective
+  defs:
+  - text: Not moving; calm.
+    example: Still waters run deep.
+  - text: Not effervescing; not sparkling.
+    example: still water; still wines
+  - text: Uttering no sound; silent.
+  - text: Having the same stated quality continuously from a past time
+  - text: Comparatively quiet or silent; soft; gentle; low.
+  - text: Constant; continual.
+- pos: adverb
+  defs:
+  - text: Without motion.
+    example: They stood still until the guard was out of sight.
+  - text: "(aspect) Up to a time, as in the preceding time."
+    example: Is it still raining?   It was still raining five minutes ago.
+  - text: "(degree) To an even greater degree. Used to modify comparative adjectives
+      or adverbs."
+    example: Tom is tall; Dick is taller; Harry is still taller.
+  - text: Nevertheless.
+    example: I’m not hungry, but I’ll still manage to find room for dessert.
+  - text: Always; invariably; constantly; continuously.
+  - text: "(extensive) Even, yet."
+    example: Some dogs howl, more yelp, still more bark.
 ---
-

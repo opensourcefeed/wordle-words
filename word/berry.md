@@ -1,7 +1,57 @@
 ---
 layout: word
-title: berry
+title: Is BERRY a Wordle Word?
+head_title: Is BERRY a Wordle Word? Yes – Possible Answer & Meaning
 word: berry
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɛɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small succulent fruit, of any one of many varieties.</li><li><strong>Definition 2:</strong> A soft fruit which develops from a single ovary and contains seeds not encased in pits.</li><li><strong>Definition 3:</strong> A coffee bean.</li><li><strong>Definition 4:</strong> One of the ova or eggs of a fish.</li><li><strong>Definition 5:</strong> (African American) A police car.</li><li><strong>Definition 6:</strong> A dollar.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pick berries.<p><strong>Example:</strong> On summer days Grandma used to take us berrying, whether we wanted to go or not.</p></li><li><strong>Definition 2:</strong> To bear or produce berries.</li></ul></div></div>"
+description: Yes, BERRY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- ferry
+- merry
+- barry
+- beery
+- beray
+- burry
+- derry
+- herry
+- jerry
+- kerry
+- perry
+- serry
+trap:
+  pattern: _ERRY
+  count: 11
+phonetic: "/ˈbɛɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small succulent fruit, of any one of many varieties.
+  - text: A soft fruit which develops from a single ovary and contains seeds not encased
+      in pits.
+  - text: A coffee bean.
+  - text: One of the ova or eggs of a fish.
+  - text: "(African American) A police car."
+  - text: A dollar.
+- pos: verb
+  defs:
+  - text: To pick berries.
+    example: On summer days Grandma used to take us berrying, whether we wanted to
+      go or not.
+  - text: To bear or produce berries.
 ---
-

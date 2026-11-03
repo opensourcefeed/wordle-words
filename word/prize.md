@@ -1,7 +1,54 @@
 ---
 layout: word
-title: prize
+title: Is PRIZE a Wordle Word?
+head_title: 'Is PRIZE a Wordle Word? Yes – Past Answer #438 & Meaning'
 word: prize
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹaɪz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is taken from another; something captured; a thing seized by force, stratagem, or superior power.</li><li><strong>Definition 2:</strong> Anything captured by a belligerent using the rights of war; especially, property captured at sea in virtue of the rights of war, as a vessel.</li><li><strong>Definition 3:</strong> An honour or reward striven for in a competitive contest; anything offered to be competed for, or as an inducement to, or reward of, effort.</li><li><strong>Definition 4:</strong> That which may be won by chance, as in a lottery.</li><li><strong>Definition 5:</strong> Anything worth striving for; a valuable possession held or in prospect.</li><li><strong>Definition 6:</strong> A contest for a reward; competition.</li><li><strong>Definition 7:</strong> A lever; a pry; also, the hold of a lever.</li></ul></div></div>"
+description: Yes, PRIZE is a valid Wordle word. It was the Wordle answer on August
+  31, 2022 (#438). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 31, 2022 (#438).
+past_answers:
+- date: '2022-08-31'
+  number: 438
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare:
+  - Z
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- price
+- pride
+- prime
+- brize
+- frize
+- grize
+- peize
+- prise
+anagrams:
+- pizer
+phonetic: "/pɹaɪz/"
+definitions:
+- pos: noun
+  defs:
+  - text: That which is taken from another; something captured; a thing seized by
+      force, stratagem, or superior power.
+  - text: Anything captured by a belligerent using the rights of war; especially,
+      property captured at sea in virtue of the rights of war, as a vessel.
+  - text: An honour or reward striven for in a competitive contest; anything offered
+      to be competed for, or as an inducement to, or reward of, effort.
+  - text: That which may be won by chance, as in a lottery.
+  - text: Anything worth striving for; a valuable possession held or in prospect.
+  - text: A contest for a reward; competition.
+  - text: A lever; a pry; also, the hold of a lever.
 ---
-

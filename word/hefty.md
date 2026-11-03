@@ -1,7 +1,46 @@
 ---
 layout: word
-title: hefty
+title: Is HEFTY a Wordle Word?
+head_title: 'Is HEFTY a Wordle Word? Yes – Past Answer #1278 & Meaning'
 word: hefty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhɛfti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Heavy, strong, vigorous, mighty, impressive.<p><strong>Example:</strong> He can throw a hefty punch.</p></li><li><strong>Definition 2:</strong> Strong; bulky.<p><strong>Example:</strong> They use some hefty bolts to hold up road signs.</p></li><li><strong>Definition 3:</strong> (of a person) Possessing physical strength and weight; rugged and powerful; powerfully or heavily built.<p><strong>Example:</strong> He was a tall, hefty man.</p></li><li><strong>Definition 4:</strong> Heavy, weighing a lot.<p><strong>Example:</strong> She carries a hefty backpack full of books.</p></li><li><strong>Definition 5:</strong> (of a number or amount) Large.<p><strong>Example:</strong> That's going to cost you a hefty sum.</p></li></ul></div></div>"
+description: Yes, HEFTY is a valid Wordle word. It was the Wordle answer on December
+  18, 2024 (#1278). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 18, 2024 (#1278).
+past_answers:
+- date: '2024-12-18'
+  number: 1278
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- lefty
+- heaty
+- hefte
+- hefts
+phonetic: "/ˈhɛfti/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Heavy, strong, vigorous, mighty, impressive.
+    example: He can throw a hefty punch.
+  - text: Strong; bulky.
+    example: They use some hefty bolts to hold up road signs.
+  - text: "(of a person) Possessing physical strength and weight; rugged and powerful;
+      powerfully or heavily built."
+    example: He was a tall, hefty man.
+  - text: Heavy, weighing a lot.
+    example: She carries a hefty backpack full of books.
+  - text: "(of a number or amount) Large."
+    example: That's going to cost you a hefty sum.
 ---
-

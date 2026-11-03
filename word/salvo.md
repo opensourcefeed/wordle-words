@@ -1,7 +1,37 @@
 ---
 layout: word
-title: salvo
+title: Is SALVO a Wordle Word?
+head_title: Is SALVO a Wordle Word? Yes – Possible Answer & Meaning
 word: salvo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsælvəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An exception; a reservation; an excuse.</li></ul></div></div>"
+description: Yes, SALVO is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - L
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- salve
+- galvo
+- salto
+- sarvo
+anagrams:
+- ovals
+phonetic: "/ˈsælvəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An exception; a reservation; an excuse.
 ---
-

@@ -1,7 +1,39 @@
 ---
 layout: word
-title: bliss
+title: Is BLISS a Wordle Word?
+head_title: 'Is BLISS a Wordle Word? Yes – Past Answer #1410 & Meaning'
 word: bliss
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /blɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Perfect happiness</li></ul></div></div>"
+description: Yes, BLISS is a valid Wordle word. It was the Wordle answer on April
+  29, 2025 (#1410). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 29, 2025 (#1410).
+past_answers:
+- date: '2025-04-29'
+  number: 1410
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- bless
+- blins
+- blips
+- blist
+- blits
+- briss
+phonetic: "/blɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Perfect happiness
 ---
-

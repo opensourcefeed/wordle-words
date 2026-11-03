@@ -1,7 +1,50 @@
 ---
 layout: word
-title: fords
+title: Is FORDS a Wordle Word?
+head_title: Is FORDS a Wordle Word? Yes – Valid Guess & Meaning
 word: fords
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A location where a stream is shallow and the bottom has good footing, making it possible to cross from one side to the other with no bridge, by walking, riding, or driving through the water; a crossing.</li><li><strong>Definition 2:</strong> A stream; a current.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cross a stream using a ford.</li></ul></div></div>"
+description: Yes, FORDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- bords
+- cords
+- fards
+- foids
+- folds
+- fonds
+- foods
+- forbs
+- fordo
+- fores
+- forks
+- forms
+trap:
+  pattern: _ORDS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A location where a stream is shallow and the bottom has good footing, making
+      it possible to cross from one side to the other with no bridge, by walking,
+      riding, or driving through the water; a crossing.
+  - text: A stream; a current.
+- pos: verb
+  defs:
+  - text: To cross a stream using a ford.
 ---
-

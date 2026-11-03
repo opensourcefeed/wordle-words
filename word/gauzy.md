@@ -1,7 +1,35 @@
 ---
 layout: word
-title: gauzy
+title: Is GAUZY a Wordle Word?
+head_title: Is GAUZY a Wordle Word? Yes – Valid Guess & Meaning
 word: gauzy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having the qualities of gauze; light, thin, transparent, hazy.</li><li><strong>Definition 2:</strong> Light; giving the effect of haze.</li></ul></div></div>"
+description: Yes, GAUZY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- gaudy
+- gauze
+- gaucy
+- gaumy
+- mauzy
+definitions:
+- pos: adjective
+  defs:
+  - text: Having the qualities of gauze; light, thin, transparent, hazy.
+  - text: Light; giving the effect of haze.
 ---
-

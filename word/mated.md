@@ -1,7 +1,70 @@
 ---
 layout: word
-title: mated
+title: Is MATED a Wordle Word?
+head_title: Is MATED a Wordle Word? Yes – Valid Guess & Meaning
 word: mated
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put the king of an opponent into checkmate.<p><strong>Example:</strong> That jerk checkmated me in four moves!</p></li><li><strong>Definition 2:</strong> (by extension) To place in a losing situation that has no escape.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To match, fit together without space between.<p><strong>Example:</strong> The pieces of the puzzle mate perfectly.</p></li><li><strong>Definition 2:</strong> To copulate.</li><li><strong>Definition 3:</strong> To pair in order to raise offspring</li><li><strong>Definition 4:</strong> To arrange in matched pairs.</li><li><strong>Definition 5:</strong> To introduce (animals) together for the purpose of breeding.</li><li><strong>Definition 6:</strong> (of an animal) To copulate with.</li><li><strong>Definition 7:</strong> To marry; to match (a person).</li><li><strong>Definition 8:</strong> To match oneself against; to oppose as equal; to compete with.</li><li><strong>Definition 9:</strong> To fit (objects) together without space between.</li><li><strong>Definition 10:</strong> To move (a space shuttle orbiter) onto the back of an aircraft that can carry it.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To confuse; to confound.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Fitted together or interlocked</li></ul></div></div>"
+description: Yes, MATED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 15
+neighbours:
+- matey
+- bated
+- dated
+- fated
+- gated
+- hated
+- lated
+- maaed
+- maced
+- maned
+- mased
+- mater
+anagrams:
+- tamed
+trap:
+  pattern: _ATED
+  count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To put the king of an opponent into checkmate.
+    example: That jerk checkmated me in four moves!
+  - text: "(by extension) To place in a losing situation that has no escape."
+- pos: verb
+  defs:
+  - text: To match, fit together without space between.
+    example: The pieces of the puzzle mate perfectly.
+  - text: To copulate.
+  - text: To pair in order to raise offspring
+  - text: To arrange in matched pairs.
+  - text: To introduce (animals) together for the purpose of breeding.
+  - text: "(of an animal) To copulate with."
+  - text: To marry; to match (a person).
+  - text: To match oneself against; to oppose as equal; to compete with.
+  - text: To fit (objects) together without space between.
+  - text: To move (a space shuttle orbiter) onto the back of an aircraft that can
+      carry it.
+- pos: verb
+  defs:
+  - text: To confuse; to confound.
+- pos: adjective
+  defs:
+  - text: Fitted together or interlocked
 ---
-

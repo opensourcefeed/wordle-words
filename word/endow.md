@@ -1,7 +1,45 @@
 ---
 layout: word
-title: endow
+title: Is ENDOW a Wordle Word?
+head_title: 'Is ENDOW a Wordle Word? Yes – Past Answer #1265 & Meaning'
 word: endow
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɛn-/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To provide with a dower or a dowry.</li><li><strong>Definition 2:</strong> To give property to (someone) as a gift; specifically, to provide (a person or institution) with support in the form of a permanent fund of money or other benefits.</li><li><strong>Definition 3:</strong> Followed by with, or rarely by of: to enrich or furnish with some faculty or quality.</li><li><strong>Definition 4:</strong> Usually in the passive: to naturally furnish (with something).<p><strong>Example:</strong> She was endowed with a beautiful voice.</p></li></ul></div></div>"
+description: Yes, ENDOW is a valid Wordle word. It was the Wordle answer on December
+  5, 2024 (#1265). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 5, 2024 (#1265).
+past_answers:
+- date: '2024-12-05'
+  number: 1265
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- endew
+- indow
+anagrams:
+- nowed
+- owned
+phonetic: "/ɛn-/"
+definitions:
+- pos: verb
+  defs:
+  - text: To provide with a dower or a dowry.
+  - text: To give property to (someone) as a gift; specifically, to provide (a person
+      or institution) with support in the form of a permanent fund of money or other
+      benefits.
+  - text: 'Followed by with, or rarely by of: to enrich or furnish with some faculty
+      or quality.'
+  - text: 'Usually in the passive: to naturally furnish (with something).'
+    example: She was endowed with a beautiful voice.
 ---
-

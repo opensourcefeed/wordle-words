@@ -1,7 +1,46 @@
 ---
 layout: word
-title: genii
+title: Is GENII a Wordle Word?
+head_title: Is GENII a Wordle Word? Yes – Valid Guess & Meaning
 word: genii
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone possessing extraordinary intelligence or skill; especially somebody who has demonstrated this by a creative or original work in science, music, art etc.<p><strong>Example:</strong> I think that would qualify as not smart, but genius... and a very stable genius at that!</p></li><li><strong>Definition 2:</strong> Extraordinary mental capacity.</li><li><strong>Definition 3:</strong> Inspiration, a mental leap, an extraordinary creative process.<p><strong>Example:</strong> a work of genius.</p></li><li><strong>Definition 4:</strong> The tutelary deity or spirit of a place or person.</li></ul></div></div>"
+description: Yes, GENII is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - E
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- genie
+- genic
+- genin
+- genio
+- genip
+trap:
+  pattern: GENI_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Someone possessing extraordinary intelligence or skill; especially somebody
+      who has demonstrated this by a creative or original work in science, music,
+      art etc.
+    example: I think that would qualify as not smart, but genius... and a very stable
+      genius at that!
+  - text: Extraordinary mental capacity.
+  - text: Inspiration, a mental leap, an extraordinary creative process.
+    example: a work of genius.
+  - text: The tutelary deity or spirit of a place or person.
 ---
-

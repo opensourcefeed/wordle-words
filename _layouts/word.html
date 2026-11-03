@@ -1,42 +1,159 @@
 ---
 layout: default
 ---
-
+{% assign up = page.word | upcase %}
+{% assign home = '/' | relative_url %}
 <div class="container">
     <div class="word-details">
+        <nav class="crumbs" aria-label="Breadcrumb">
+            <a href="{{ home }}">All Wordle Words</a> <span aria-hidden="true">›</span> <span aria-current="page">{{ up }}</span>
+        </nav>
+
         <article>
             <h1>{{ page.title }}</h1>
-            <hr>
-            <h2>Is <span class="text-uppercase fw-bolder">{{page.word}}</span> a wordle word?</h2>
-            <p>Yes. <span class="text-uppercase fw-bolder">{{page.word}}</span> is a wordle word candidate.</p>
-            <div class="meaning">
-                {{page.meaning}}
+
+            <section class="answer-card status-{{ page.status }}" aria-label="Answer">
+                <div class="tiles" aria-hidden="true">
+                    {% assign letters = page.word | split: '' %}
+                    {% for l in letters %}<span class="tile">{{ l | upcase }}</span>{% endfor %}
+                </div>
+                <p class="verdict"><strong>Yes.</strong> {{ up }} is a valid Wordle word.</p>
+                <ul class="badges">
+                    <li class="badge-ok">Accepted guess</li>
+                    {% if page.status == 'past' %}
+                    {% for a in page.past_answers %}
+                    <li class="badge-past">Past answer #{{ a.number }} · {{ a.date | date: "%b %-d, %Y" }}</li>
+                    {% endfor %}
+                    {% elsif page.status == 'possible' %}
+                    <li class="badge-possible">Possible future answer</li>
+                    {% else %}
+                    <li class="badge-no">Not on the answer list</li>
+                    {% endif %}
+                </ul>
+                <p class="answer-text">{{ page.answer_text }}</p>
+                {% if page.rule_note %}<p class="rule-note">{{ page.rule_note }}</p>{% endif %}
+                {% if page.repeat_note %}<p class="rule-note">{{ page.repeat_note }}</p>{% endif %}
+            </section>
+
+            {% unless page.sensitive %}
+            <div class="ad-slot">
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
+                    crossorigin="anonymous"></script>
+                <!-- Wordle Words - Word Info -->
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-6380671811722843"
+                    data-ad-slot="2490361185"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
             </div>
-            {% if page.meaning %}
-            <p class="attribution">
-                Definition from <a href="https://en.wiktionary.org/wiki/{{ page.word }}" rel="nofollow">Wiktionary</a>
-                via the <a href="https://dictionaryapi.dev/" rel="nofollow">Free Dictionary API</a>,
-                available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow">CC BY-SA</a> license.
-            </p>
+            {% endunless %}
+
+            {% if page.definitions %}
+            <section class="card-section meaning">
+                <h2>What does {{ up }} mean?</h2>
+                {% if page.phonetic %}<p class="phonetic">{{ page.phonetic | escape }}</p>{% endif %}
+                {% for group in page.definitions %}
+                <h3>{{ group.pos | default: 'meaning' | escape }}</h3>
+                <ol>
+                    {% for d in group.defs limit: 3 %}
+                    <li>{{ d.text | escape }}{% if d.example %}<span class="example">“{{ d.example | escape }}”</span>{% endif %}</li>
+                    {% endfor %}
+                </ol>
+                {% if group.defs.size > 3 %}
+                <details>
+                    <summary>{{ group.defs.size | minus: 3 }} more {{ group.pos | escape }} definition{% if group.defs.size > 4 %}s{% endif %}</summary>
+                    <ol start="4">
+                        {% for d in group.defs offset: 3 %}
+                        <li>{{ d.text | escape }}{% if d.example %}<span class="example">“{{ d.example | escape }}”</span>{% endif %}</li>
+                        {% endfor %}
+                    </ol>
+                </details>
+                {% endif %}
+                {% endfor %}
+                <p class="attribution">
+                    Definition from <a href="https://en.wiktionary.org/wiki/{{ page.word }}" rel="nofollow">Wiktionary</a>
+                    via the <a href="https://dictionaryapi.dev/" rel="nofollow">Free Dictionary API</a>,
+                    available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license nofollow">CC BY-SA</a> license.
+                </p>
+            </section>
             {% endif %}
+
+            <section class="card-section stats">
+                <h2>{{ up }} in Wordle</h2>
+                <dl>
+                    <dt>Starter word rating</dt>
+                    <dd><strong>{{ page.stats.starter_tier }}</strong> – in the top {{ page.stats.starter_top_percent }}% of all
+                        valid Wordle words for testing common letters.</dd>
+                    <dt>Vowels</dt>
+                    <dd>{% if page.stats.vowels.size > 0 %}{{ page.stats.vowels | join: ', ' }}{% else %}None{% endif %}</dd>
+                    <dt>Unique letters</dt>
+                    <dd>{{ page.stats.unique_letters }} of 5{% if page.stats.repeated.size > 0 %} (repeats {{ page.stats.repeated | join: ', ' }}){% endif %}</dd>
+                    {% if page.stats.common.size > 0 %}
+                    <dt>Common letters</dt>
+                    <dd>{{ page.stats.common | join: ', ' }}</dd>
+                    {% endif %}
+                    {% if page.stats.rare.size > 0 %}
+                    <dt>Rare letters</dt>
+                    <dd>{{ page.stats.rare | join: ', ' }}</dd>
+                    {% endif %}
+                </dl>
+                {% if page.trap %}
+                <p class="trap"><strong>Hard-mode trap:</strong> {{ page.trap.count }} valid words fit the pattern
+                    <code>{{ page.trap.pattern }}</code>. If you reach it, you may need several guesses to find the last letter.</p>
+                {% endif %}
+                <p class="stats-note">Letter ratings use how often each letter appears in Wordle answers.</p>
+            </section>
+
+            {% if page.neighbours or page.anagrams %}
+            <section class="card-section related">
+                {% if page.neighbours %}
+                <h2>Words one letter away from {{ up }}</h2>
+                <ul class="word-chips">
+                    {% for w in page.neighbours %}<li><a href="{{ '/word/' | append: w | relative_url }}">{{ w | upcase }}</a></li>{% endfor %}
+                </ul>
+                {% endif %}
+                {% if page.anagrams %}
+                <h2>Anagrams of {{ up }}</h2>
+                <ul class="word-chips">
+                    {% for w in page.anagrams %}<li><a href="{{ '/word/' | append: w | relative_url }}">{{ w | upcase }}</a></li>{% endfor %}
+                </ul>
+                {% endif %}
+            </section>
+            {% endif %}
+
+            <section class="card-section play">
+                <h2>Practice with {{ up }}</h2>
+                {% include playButtons.html %}
+            </section>
         </article>
-        {% unless page.sensitive %}
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6380671811722843"
-            crossorigin="anonymous"></script>
-        <!-- Wordle Words - Word Info -->
-        <ins class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-6380671811722843"
-            data-ad-slot="2490361185"
-            data-ad-format="auto"
-            data-full-width-responsive="true"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        {% endunless %}
-        &nbsp;
-        <div class="text-center">
-            <a class="btn btn-primary" href="{{ '/' | relative_url }}">&larr;&thinsp;&thinsp;Back to All Words</a>
+
+        <div class="text-center back-link">
+            <a class="btn btn-primary" href="{{ home }}">&larr;&thinsp;&thinsp;Back to All Words</a>
         </div>
     </div>
 </div>
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "All Wordle Words", "item": {{ '/' | absolute_url | jsonify }}},
+      {"@type": "ListItem", "position": 2, "name": {{ up | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": {{ up | jsonify }},
+    "description": {% if page.definitions %}{{ page.definitions[0].defs[0].text | jsonify }}{% else %}{{ page.description | jsonify }}{% endif %},
+    "url": {{ page.url | absolute_url | jsonify }},
+    "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Valid Wordle words", "url": {{ '/' | absolute_url | jsonify }}}
+  }
+]
+</script>

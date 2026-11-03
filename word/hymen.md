@@ -1,7 +1,29 @@
 ---
 layout: word
-title: hymen
+title: Is HYMEN a Wordle Word?
+head_title: Is HYMEN a Wordle Word? Yes – Possible Answer & Meaning
 word: hymen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈhaɪmən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A membrane which completely or partially occludes the vaginal opening in human females.</li><li><strong>Definition 2:</strong> Marriage.</li></ul></div></div>"
+description: Yes, HYMEN is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+phonetic: "/ˈhaɪmən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A membrane which completely or partially occludes the vaginal opening in
+      human females.
+  - text: Marriage.
 ---
-

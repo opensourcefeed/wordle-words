@@ -1,7 +1,91 @@
 ---
 layout: word
-title: booms
+title: Is BOOMS a Wordle Word?
+head_title: Is BOOMS a Wordle Word? Yes – Valid Guess & Meaning
 word: booms
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /buːmz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A low-pitched, resonant sound, such as of an explosion.<p><strong>Example:</strong> The boom of the surf.</p></li><li><strong>Definition 2:</strong> A rapid expansion or increase.<p><strong>Example:</strong> You should prepare for the coming boom in the tech industry.</p></li><li><strong>Definition 3:</strong> One of the calls of certain monkeys or birds.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a loud, hollow, resonant sound.<p><strong>Example:</strong> I can hear the organ slowly booming from the chapel.</p></li><li><strong>Definition 2:</strong> (of speech) To exclaim with force, to shout, to thunder.</li><li><strong>Definition 3:</strong> To make something boom.<p><strong>Example:</strong> Men in grey robes slowly boom the drums of death.</p></li><li><strong>Definition 4:</strong> To publicly praise.</li><li><strong>Definition 5:</strong> To rush with violence and noise, as a ship under a press of sail, before a free wind.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A spar extending the foot of a sail; a spar rigged outboard from a ship's side to which boats are secured in harbour.</li><li><strong>Definition 2:</strong> A movable pole used to support a microphone or camera.</li><li><strong>Definition 3:</strong> A horizontal member of a crane or derrick, used for lifting.</li><li><strong>Definition 4:</strong> The longest element of a Yagi antenna, on which the other, smaller ones are transversally mounted.</li><li><strong>Definition 5:</strong> A floating barrier used to obstruct navigation, for military or other purposes; or used for the containment of an oil spill or to control the flow of logs from logging operations.</li><li><strong>Definition 6:</strong> A wishbone-shaped piece of windsurfing equipment.</li><li><strong>Definition 7:</strong> The section of the arm on a backhoe closest to the tractor.</li><li><strong>Definition 8:</strong> A gymnastics apparatus similar to a balance beam.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To extend, or push, with a boom or pole.<p><strong>Example:</strong> to boom off a boat</p></li><li><strong>Definition 2:</strong> (usually with \"up\" or \"down\") To raise or lower with a crane boom.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A period of prosperity, growth, progress, or high market activity.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flourish, grow, or progress.<p><strong>Example:</strong> Business was booming.</p></li><li><strong>Definition 2:</strong> To cause to advance rapidly in price.<p><strong>Example:</strong> to boom railroad or mining shares</p></li></ul></div></div>"
+description: Yes, BOOMS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- boobs
+- boohs
+- books
+- bools
+- boomy
+- boons
+- boors
+- boots
+- borms
+- cooms
+- dooms
+- looms
+anagrams:
+- bosom
+- mobos
+- moobs
+trap:
+  pattern: _OOMS
+  count: 8
+phonetic: "/buːmz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A low-pitched, resonant sound, such as of an explosion.
+    example: The boom of the surf.
+  - text: A rapid expansion or increase.
+    example: You should prepare for the coming boom in the tech industry.
+  - text: One of the calls of certain monkeys or birds.
+- pos: verb
+  defs:
+  - text: To make a loud, hollow, resonant sound.
+    example: I can hear the organ slowly booming from the chapel.
+  - text: "(of speech) To exclaim with force, to shout, to thunder."
+  - text: To make something boom.
+    example: Men in grey robes slowly boom the drums of death.
+  - text: To publicly praise.
+  - text: To rush with violence and noise, as a ship under a press of sail, before
+      a free wind.
+- pos: noun
+  defs:
+  - text: A spar extending the foot of a sail; a spar rigged outboard from a ship's
+      side to which boats are secured in harbour.
+  - text: A movable pole used to support a microphone or camera.
+  - text: A horizontal member of a crane or derrick, used for lifting.
+  - text: The longest element of a Yagi antenna, on which the other, smaller ones
+      are transversally mounted.
+  - text: A floating barrier used to obstruct navigation, for military or other purposes;
+      or used for the containment of an oil spill or to control the flow of logs from
+      logging operations.
+  - text: A wishbone-shaped piece of windsurfing equipment.
+  - text: The section of the arm on a backhoe closest to the tractor.
+  - text: A gymnastics apparatus similar to a balance beam.
+- pos: verb
+  defs:
+  - text: To extend, or push, with a boom or pole.
+    example: to boom off a boat
+  - text: (usually with "up" or "down") To raise or lower with a crane boom.
+- pos: noun
+  defs:
+  - text: A period of prosperity, growth, progress, or high market activity.
+- pos: verb
+  defs:
+  - text: To flourish, grow, or progress.
+    example: Business was booming.
+  - text: To cause to advance rapidly in price.
+    example: to boom railroad or mining shares
 ---
-

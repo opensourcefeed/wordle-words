@@ -1,7 +1,37 @@
 ---
 layout: word
-title: aegis
+title: Is AEGIS a Wordle Word?
+head_title: Is AEGIS a Wordle Word? Yes – Valid Guess & Meaning
 word: aegis
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈiːdʒɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mythological shield associated with the Greek deities Zeus and Athena (and their Roman counterparts Jupiter and Minerva) shown as a short cloak made of goatskin worn on the shoulders, more as an emblem of power and protection than a military shield. The aegis of Athena or Minerva is usually shown with a border of snakes and with the head of Medusa in the center.</li><li><strong>Definition 2:</strong> Usually as under the aegis: guidance, protection; endorsement, sponsorship.</li></ul></div></div>"
+description: Yes, AEGIS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - I
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+phonetic: "/ˈiːdʒɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A mythological shield associated with the Greek deities Zeus and Athena
+      (and their Roman counterparts Jupiter and Minerva) shown as a short cloak made
+      of goatskin worn on the shoulders, more as an emblem of power and protection
+      than a military shield. The aegis of Athena or Minerva is usually shown with
+      a border of snakes and with the head of Medusa in the center.
+  - text: 'Usually as under the aegis: guidance, protection; endorsement, sponsorship.'
 ---
-

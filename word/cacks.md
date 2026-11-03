@@ -1,7 +1,51 @@
 ---
 layout: word
-title: cacks
+title: Is CACKS a Wordle Word?
+head_title: Is CACKS a Wordle Word? Yes – Valid Guess & Meaning
 word: cacks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kæks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To defecate.</li><li><strong>Definition 2:</strong> To kill.<p><strong>Example:</strong> “He tried to shoot me, so I cacked him.”</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To laugh.<p><strong>Example:</strong> I had to cack when you fell down the stairs.</p></li></ul></div></div>"
+description: Yes, CACKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - C
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- backs
+- cacas
+- cacky
+- calks
+- carks
+- casks
+- cauks
+- cawks
+- cocks
+- cucks
+- dacks
+- hacks
+trap:
+  pattern: _ACKS
+  count: 15
+phonetic: "/kæks/"
+definitions:
+- pos: verb
+  defs:
+  - text: To defecate.
+  - text: To kill.
+    example: "“He tried to shoot me, so I cacked him.”"
+- pos: verb
+  defs:
+  - text: To laugh.
+    example: I had to cack when you fell down the stairs.
 ---
-

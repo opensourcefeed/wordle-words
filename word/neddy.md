@@ -1,7 +1,39 @@
 ---
 layout: word
-title: neddy
+title: Is NEDDY a Wordle Word?
+head_title: Is NEDDY a Wordle Word? Yes – Valid Guess & Meaning
 word: neddy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnɛdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A donkey or ass.</li><li><strong>Definition 2:</strong> A horse, especially a racehorse.</li><li><strong>Definition 3:</strong> (in the plural, with \"the\") The horse races.</li><li><strong>Definition 4:</strong> (usually in the plural) Horsepower.</li><li><strong>Definition 5:</strong> An idiot; a stupid or contemptible person.</li></ul></div></div>"
+description: Yes, NEDDY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- needy
+- nerdy
+- teddy
+- noddy
+- nuddy
+- reddy
+phonetic: "/ˈnɛdi/"
+definitions:
+- pos: noun
+  defs:
+  - text: A donkey or ass.
+  - text: A horse, especially a racehorse.
+  - text: (in the plural, with "the") The horse races.
+  - text: "(usually in the plural) Horsepower."
+  - text: An idiot; a stupid or contemptible person.
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: unfed
+title: Is UNFED a Wordle Word?
+head_title: 'Is UNFED a Wordle Word? Yes – Past Answer #36 & Meaning'
 word: unfed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A mosquito that has not had a blood meal.<p><strong>Example:</strong> The captured mosquitos were divided into feds and unfeds.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Not fed.</li><li><strong>Definition 2:</strong> Unsupported.</li></ul></div></div>"
+description: Yes, UNFED is a valid Wordle word. It was the Wordle answer on July 25,
+  2021 (#36). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 25, 2021 (#36).
+past_answers:
+- date: '2021-07-25'
+  number: 36
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- unwed
+- unbed
+- unked
+- unled
+- unred
+trap:
+  pattern: UN_ED
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A mosquito that has not had a blood meal.
+    example: The captured mosquitos were divided into feds and unfeds.
+- pos: adjective
+  defs:
+  - text: Not fed.
+  - text: Unsupported.
 ---
-

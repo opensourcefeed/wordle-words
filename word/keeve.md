@@ -1,7 +1,39 @@
 ---
 layout: word
-title: keeve
+title: Is KEEVE a Wordle Word?
+head_title: Is KEEVE a Wordle Word? Yes – Valid Guess & Meaning
 word: keeve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A vat or tub in which the mash is made; a mash tub.</li><li><strong>Definition 2:</strong> (bleaching) A bleaching vat; a kier.</li><li><strong>Definition 3:</strong> A large vat used in dressing ores.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To set in a keeve, or tub, for fermentation.</li><li><strong>Definition 2:</strong> To heave; to tilt, as a cart.</li></ul></div></div>"
+description: Yes, KEEVE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 3
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 100
+neighbours:
+- deeve
+- kerve
+- kieve
+- peeve
+- reeve
+definitions:
+- pos: noun
+  defs:
+  - text: A vat or tub in which the mash is made; a mash tub.
+  - text: "(bleaching) A bleaching vat; a kier."
+  - text: A large vat used in dressing ores.
+- pos: verb
+  defs:
+  - text: To set in a keeve, or tub, for fermentation.
+  - text: To heave; to tilt, as a cart.
 ---
-

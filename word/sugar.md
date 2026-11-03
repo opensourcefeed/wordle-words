@@ -1,7 +1,78 @@
 ---
 layout: word
-title: sugar
+title: Is SUGAR a Wordle Word?
+head_title: 'Is SUGAR a Wordle Word? Yes – Past Answer #220 & Meaning'
 word: sugar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈʃʊɡə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink.</li><li><strong>Definition 2:</strong> A specific variety of sugar.</li><li><strong>Definition 3:</strong> Any of various small carbohydrates that are used by organisms to store energy.</li><li><strong>Definition 4:</strong> A small serving of this substance (typically about one teaspoon), used to sweeten a drink.<p><strong>Example:</strong> He usually has his coffee white with one sugar.</p></li><li><strong>Definition 5:</strong> A term of endearment.<p><strong>Example:</strong> I'll be with you in a moment, sugar.</p></li><li><strong>Definition 6:</strong> A kiss.</li><li><strong>Definition 7:</strong> Effeminacy in a male, often implying homosexuality.<p><strong>Example:</strong> I think John has a little bit of sugar in him.</p></li><li><strong>Definition 8:</strong> Diabetes.</li><li><strong>Definition 9:</strong> Anything resembling sugar in taste or appearance, especially in chemistry.<p><strong>Example:</strong> Sugar of lead (lead acetate) is a poisonous white crystalline substance with a sweet taste.</p></li><li><strong>Definition 10:</strong> Compliment or flattery used to disguise or render acceptable something obnoxious; honeyed or soothing words.</li><li><strong>Definition 11:</strong> Heroin.</li><li><strong>Definition 12:</strong> Money.</li><li><strong>Definition 13:</strong> Syntactic sugar.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To add sugar to; to sweeten with sugar.<p><strong>Example:</strong> John heavily sugars his coffee.</p></li><li><strong>Definition 2:</strong> To make (something unpleasant) seem less so.<p><strong>Example:</strong> She has a gift for sugaring what would otherwise be harsh words.</p></li><li><strong>Definition 3:</strong> In making maple sugar, to complete the process of boiling down the syrup till it is thick enough to crystallize; to approach or reach the state of granulation; with the preposition off.</li><li><strong>Definition 4:</strong> To apply sugar to trees or plants in order to catch moths.</li><li><strong>Definition 5:</strong> To rewrite (source code) using syntactic sugar.</li><li><strong>Definition 6:</strong> To compliment (a person).</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Used in place of shit!<p><strong>Example:</strong> Oh, sugar!</p></li></ul></div></div>"
+description: Yes, SUGAR is a valid Wordle word. It was the Wordle answer on January
+  25, 2022 (#220). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 25, 2022 (#220).
+past_answers:
+- date: '2022-01-25'
+  number: 220
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- sagar
+- segar
+- sugan
+anagrams:
+- argus
+- gaurs
+- guars
+- ragus
+- rugas
+phonetic: "/ˈʃʊɡə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: Sucrose in the form of small crystals, obtained from sugar cane or sugar
+      beet and used to sweeten food and drink.
+  - text: A specific variety of sugar.
+  - text: Any of various small carbohydrates that are used by organisms to store energy.
+  - text: A small serving of this substance (typically about one teaspoon), used to
+      sweeten a drink.
+    example: He usually has his coffee white with one sugar.
+  - text: A term of endearment.
+    example: I'll be with you in a moment, sugar.
+  - text: A kiss.
+  - text: Effeminacy in a male, often implying homosexuality.
+    example: I think John has a little bit of sugar in him.
+  - text: Diabetes.
+  - text: Anything resembling sugar in taste or appearance, especially in chemistry.
+    example: Sugar of lead (lead acetate) is a poisonous white crystalline substance
+      with a sweet taste.
+  - text: Compliment or flattery used to disguise or render acceptable something obnoxious;
+      honeyed or soothing words.
+  - text: Heroin.
+  - text: Money.
+  - text: Syntactic sugar.
+- pos: verb
+  defs:
+  - text: To add sugar to; to sweeten with sugar.
+    example: John heavily sugars his coffee.
+  - text: To make (something unpleasant) seem less so.
+    example: She has a gift for sugaring what would otherwise be harsh words.
+  - text: In making maple sugar, to complete the process of boiling down the syrup
+      till it is thick enough to crystallize; to approach or reach the state of granulation;
+      with the preposition off.
+  - text: To apply sugar to trees or plants in order to catch moths.
+  - text: To rewrite (source code) using syntactic sugar.
+  - text: To compliment (a person).
+- pos: interjection
+  defs:
+  - text: Used in place of shit!
+    example: Oh, sugar!
 ---
-

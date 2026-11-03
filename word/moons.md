@@ -1,7 +1,68 @@
 ---
 layout: word
-title: moons
+title: Is MOONS a Wordle Word?
+head_title: Is MOONS a Wordle Word? Yes – Valid Guess & Meaning
 word: moons
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (by extension of Moon) Any natural satellite of a planet.<p><strong>Example:</strong> That's no moon, you idiot... it's a space station!</p></li><li><strong>Definition 2:</strong> A month, particularly a lunar month.<p><strong>Example:</strong> They stayed with their aunt and uncle for many moons.</p></li><li><strong>Definition 3:</strong> A crescent-like outwork in a fortification.<p><strong>Example:</strong> The moons surrounding the city walls were built in the sixteenth century.</p></li><li><strong>Definition 4:</strong> The eighteenth trump/major arcana card of the Tarot.</li><li><strong>Definition 5:</strong> The thirty-second Lenormand card.</li><li><strong>Definition 6:</strong> In hearts, the action of taking all the point cards in one hand.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To display one's buttocks to, typically as a jest, insult, or protest.<p><strong>Example:</strong> It was ill-advised of Sam to moon the photographer during the shoot.</p></li><li><strong>Definition 2:</strong> (usually followed by over or after) To fuss over something adoringly; to be infatuated with someone.<p><strong>Example:</strong> Sarah mooned over Sam's photograph for months.</p></li><li><strong>Definition 3:</strong> To spend time idly, absent-mindedly.</li><li><strong>Definition 4:</strong> To expose to the rays of the Moon.</li><li><strong>Definition 5:</strong> To adorn with moons or crescents.</li><li><strong>Definition 6:</strong> (cryptocurrency) Of a coin or token: to rise in price rapidly.<p><strong>Example:</strong> It is impractical if a currency moons and plummets often.</p></li><li><strong>Definition 7:</strong> To shoot the moon.</li></ul></div></div>"
+description: Yes, MOONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- boons
+- goons
+- hoons
+- loons
+- moans
+- moobs
+- moods
+- mooks
+- mools
+- moong
+- mooni
+- moony
+anagrams:
+- monos
+- nomos
+trap:
+  pattern: _OONS
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: "(by extension of Moon) Any natural satellite of a planet."
+    example: That's no moon, you idiot... it's a space station!
+  - text: A month, particularly a lunar month.
+    example: They stayed with their aunt and uncle for many moons.
+  - text: A crescent-like outwork in a fortification.
+    example: The moons surrounding the city walls were built in the sixteenth century.
+  - text: The eighteenth trump/major arcana card of the Tarot.
+  - text: The thirty-second Lenormand card.
+  - text: In hearts, the action of taking all the point cards in one hand.
+- pos: verb
+  defs:
+  - text: To display one's buttocks to, typically as a jest, insult, or protest.
+    example: It was ill-advised of Sam to moon the photographer during the shoot.
+  - text: "(usually followed by over or after) To fuss over something adoringly; to
+      be infatuated with someone."
+    example: Sarah mooned over Sam's photograph for months.
+  - text: To spend time idly, absent-mindedly.
+  - text: To expose to the rays of the Moon.
+  - text: To adorn with moons or crescents.
+  - text: "(cryptocurrency) Of a coin or token: to rise in price rapidly."
+    example: It is impractical if a currency moons and plummets often.
+  - text: To shoot the moon.
 ---
-

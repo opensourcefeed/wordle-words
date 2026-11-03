@@ -1,7 +1,61 @@
 ---
 layout: word
-title: queen
+title: Is QUEEN a Wordle Word?
+head_title: 'Is QUEEN a Wordle Word? Yes – Past Answer #887 & Meaning'
 word: queen
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kwiːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A female monarch. Example: Queen Victoria.</li><li><strong>Definition 2:</strong> The wife or widow of a king.</li><li><strong>Definition 3:</strong> The most powerful piece, able to move any number of spaces horizontally, vertically, or diagonally.</li><li><strong>Definition 4:</strong> A playing card with the letter \"Q\" and the image of a queen on it, the twelfth card in a given suit.</li><li><strong>Definition 5:</strong> A red disk that is the most valuable piece in the Asian game of carom.</li><li><strong>Definition 6:</strong> A powerful or forceful female person.</li><li><strong>Definition 7:</strong> An effeminate male homosexual. (See usage notes.)</li><li><strong>Definition 8:</strong> A reproductive female animal in a hive, such as an ant, bee, termite or wasp.</li><li><strong>Definition 9:</strong> An adult female cat valued for breeding. See also tom.</li><li><strong>Definition 10:</strong> A queen olive.</li><li><strong>Definition 11:</strong> A monarch butterfly (Danaus spp., esp. Danaus gilippus).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a queen.</li><li><strong>Definition 2:</strong> To act the part of a queen; to queen it.</li><li><strong>Definition 3:</strong> To promote a pawn, usually to a queen.</li><li><strong>Definition 4:</strong> To provide with a new queen.</li><li><strong>Definition 5:</strong> To be the queen of a colony.</li><li><strong>Definition 6:</strong> (BDSM, of a female) To sit on the face of (a partner) to receive oral sex.</li></ul></div></div>"
+description: Yes, QUEEN is a valid Wordle word. It was the Wordle answer on November
+  23, 2023 (#887). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 23, 2023 (#887).
+past_answers:
+- date: '2023-11-23'
+  number: 887
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 88
+neighbours:
+- queer
+- quean
+- queek
+- queem
+- quern
+- queyn
+phonetic: "/kwiːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A female monarch. Example: Queen Victoria.'
+  - text: The wife or widow of a king.
+  - text: The most powerful piece, able to move any number of spaces horizontally,
+      vertically, or diagonally.
+  - text: A playing card with the letter "Q" and the image of a queen on it, the twelfth
+      card in a given suit.
+  - text: A red disk that is the most valuable piece in the Asian game of carom.
+  - text: A powerful or forceful female person.
+  - text: An effeminate male homosexual. (See usage notes.)
+  - text: A reproductive female animal in a hive, such as an ant, bee, termite or
+      wasp.
+  - text: An adult female cat valued for breeding. See also tom.
+  - text: A queen olive.
+  - text: A monarch butterfly (Danaus spp., esp. Danaus gilippus).
+- pos: verb
+  defs:
+  - text: To make a queen.
+  - text: To act the part of a queen; to queen it.
+  - text: To promote a pawn, usually to a queen.
+  - text: To provide with a new queen.
+  - text: To be the queen of a colony.
+  - text: "(BDSM, of a female) To sit on the face of (a partner) to receive oral sex."
 ---
-

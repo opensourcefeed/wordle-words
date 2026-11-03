@@ -1,7 +1,79 @@
 ---
 layout: word
-title: brush
+title: Is BRUSH a Wordle Word?
+head_title: 'Is BRUSH a Wordle Word? Yes – Past Answer #825 & Meaning'
 word: brush
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɹʌʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.</li><li><strong>Definition 2:</strong> The act of brushing something.<p><strong>Example:</strong> She gave her hair a quick brush.</p></li><li><strong>Definition 3:</strong> A piece of conductive material, usually carbon, serving to maintain electrical contact between the stationary and rotating parts of a machine.</li><li><strong>Definition 4:</strong> A brush-like electrical discharge of sparks.</li><li><strong>Definition 5:</strong> Wild vegetation, generally larger than grass but smaller than trees.</li><li><strong>Definition 6:</strong> A short and sometimes occasional encounter or experience.<p><strong>Example:</strong> He has had brushes with communism from time to time.</p></li><li><strong>Definition 7:</strong> The furry tail of an animal, especially of a fox.</li><li><strong>Definition 8:</strong> A tuft of hair on the mandibles.</li><li><strong>Definition 9:</strong> A short contest, or trial, of speed.</li><li><strong>Definition 10:</strong> An instrument, resembling a brush, used to produce a soft sound from drums or cymbals.</li><li><strong>Definition 11:</strong> An on-screen tool for \"painting\" a particular colour or texture.</li><li><strong>Definition 12:</strong> A set of defined design and parameters that produce drawn strokes of a certain texture and quality.<p><strong>Example:</strong> donwloading brushes for Photoshop</p></li><li><strong>Definition 13:</strong> In 3D video games, a convex polyhedron, especially one that defines structure of the play area.</li><li><strong>Definition 14:</strong> The floorperson of a poker room, usually in a casino.</li><li><strong>Definition 15:</strong> (North Wisconsin) Evergreen boughs, especially balsam, locally cut and baled for export, usually for use in making wreaths.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To clean with a brush.<p><strong>Example:</strong> Brush your teeth.</p></li><li><strong>Definition 2:</strong> To untangle or arrange with a brush.<p><strong>Example:</strong> Brush your hair.</p></li><li><strong>Definition 3:</strong> To apply with a brush.<p><strong>Example:</strong> Brush the paint onto the walls.</p></li><li><strong>Definition 4:</strong> To remove with a sweeping motion.<p><strong>Example:</strong> Brush the flour off your clothes.</p></li><li><strong>Definition 5:</strong> To touch with a sweeping motion, or lightly in passing.<p><strong>Example:</strong> Her scarf brushed his skin.</p></li><li><strong>Definition 6:</strong> To clean one's teeth by brushing them.</li></ul></div></div>"
+description: Yes, BRUSH is a valid Wordle word. It was the Wordle answer on September
+  22, 2023 (#825). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 22, 2023 (#825).
+past_answers:
+- date: '2023-09-22'
+  number: 825
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- blush
+- brash
+- crush
+- brugh
+- brusk
+- brust
+- frush
+anagrams:
+- shrub
+- bruhs
+- buhrs
+phonetic: "/bɹʌʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An implement consisting of multiple more or less flexible bristles or other
+      filaments attached to a handle, used for any of various purposes including cleaning,
+      painting, and arranging hair.
+  - text: The act of brushing something.
+    example: She gave her hair a quick brush.
+  - text: A piece of conductive material, usually carbon, serving to maintain electrical
+      contact between the stationary and rotating parts of a machine.
+  - text: A brush-like electrical discharge of sparks.
+  - text: Wild vegetation, generally larger than grass but smaller than trees.
+  - text: A short and sometimes occasional encounter or experience.
+    example: He has had brushes with communism from time to time.
+  - text: The furry tail of an animal, especially of a fox.
+  - text: A tuft of hair on the mandibles.
+  - text: A short contest, or trial, of speed.
+  - text: An instrument, resembling a brush, used to produce a soft sound from drums
+      or cymbals.
+  - text: An on-screen tool for "painting" a particular colour or texture.
+  - text: A set of defined design and parameters that produce drawn strokes of a certain
+      texture and quality.
+    example: donwloading brushes for Photoshop
+  - text: In 3D video games, a convex polyhedron, especially one that defines structure
+      of the play area.
+  - text: The floorperson of a poker room, usually in a casino.
+  - text: "(North Wisconsin) Evergreen boughs, especially balsam, locally cut and
+      baled for export, usually for use in making wreaths."
+- pos: verb
+  defs:
+  - text: To clean with a brush.
+    example: Brush your teeth.
+  - text: To untangle or arrange with a brush.
+    example: Brush your hair.
+  - text: To apply with a brush.
+    example: Brush the paint onto the walls.
+  - text: To remove with a sweeping motion.
+    example: Brush the flour off your clothes.
+  - text: To touch with a sweeping motion, or lightly in passing.
+    example: Her scarf brushed his skin.
+  - text: To clean one's teeth by brushing them.
 ---
-

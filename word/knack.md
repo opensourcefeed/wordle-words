@@ -1,7 +1,43 @@
 ---
 layout: word
-title: knack
+title: Is KNACK a Wordle Word?
+head_title: 'Is KNACK a Wordle Word? Yes – Past Answer #1306 & Meaning'
 word: knack
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /næk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A readiness in performance; aptness at doing something.</li><li><strong>Definition 2:</strong> A petty contrivance; a toy.</li><li><strong>Definition 3:</strong> Something performed, or to be done, requiring aptness and dexterity.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To crack; to make a sharp, abrupt noise; to chink.</li><li><strong>Definition 2:</strong> To speak affectedly.</li></ul></div></div>"
+description: Yes, KNACK is a valid Wordle word. It was the Wordle answer on January
+  15, 2025 (#1306). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 15, 2025 (#1306).
+past_answers:
+- date: '2025-01-15'
+  number: 1306
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - K
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- knock
+- snack
+- kiack
+- knick
+- kyack
+phonetic: "/næk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A readiness in performance; aptness at doing something.
+  - text: A petty contrivance; a toy.
+  - text: Something performed, or to be done, requiring aptness and dexterity.
+- pos: verb
+  defs:
+  - text: To crack; to make a sharp, abrupt noise; to chink.
+  - text: To speak affectedly.
 ---
-

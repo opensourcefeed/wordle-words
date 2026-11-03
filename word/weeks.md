@@ -1,7 +1,53 @@
 ---
 layout: word
-title: weeks
+title: Is WEEKS a Wordle Word?
+head_title: Is WEEKS a Wordle Word? Yes – Valid Guess & Meaning
 word: weeks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wiːks/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any period of seven consecutive days.</li><li><strong>Definition 2:</strong> A period of seven days beginning with Sunday or Monday.</li><li><strong>Definition 3:</strong> A period of five days beginning with Monday.</li><li><strong>Definition 4:</strong> A subdivision of the month into longer periods of work days punctuated by shorter weekend periods of days for markets, rest, or religious observation such as a sabbath.<p><strong>Example:</strong> A 4-day week consists of Monday, Tuesday, Wednesday, and Thursday.</p></li><li><strong>Definition 5:</strong> Seven days after (sometimes before) a specified date.<p><strong>Example:</strong> I'll see you Thursday week.</p></li></ul></div></div>"
+description: Yes, WEEKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 89
+neighbours:
+- geeks
+- keeks
+- leeks
+- peeks
+- reeks
+- seeks
+- weeds
+- weeis
+- weeke
+- weels
+- weems
+- weens
+trap:
+  pattern: WEE_S
+  count: 8
+phonetic: "/wiːks/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any period of seven consecutive days.
+  - text: A period of seven days beginning with Sunday or Monday.
+  - text: A period of five days beginning with Monday.
+  - text: A subdivision of the month into longer periods of work days punctuated by
+      shorter weekend periods of days for markets, rest, or religious observation
+      such as a sabbath.
+    example: A 4-day week consists of Monday, Tuesday, Wednesday, and Thursday.
+  - text: Seven days after (sometimes before) a specified date.
+    example: I'll see you Thursday week.
 ---
-

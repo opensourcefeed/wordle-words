@@ -1,7 +1,38 @@
 ---
 layout: word
-title: ketch
+title: Is KETCH a Wordle Word?
+head_title: Is KETCH a Wordle Word? Yes – Valid Guess & Meaning
 word: ketch
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kɛtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fore-and-aft rigged sailing vessel with two masts, main and mizzen, the mizzen being stepped forward of the rudder post.</li></ul></div></div>"
+description: Yes, KETCH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- fetch
+- retch
+- keech
+- kench
+- kotch
+- kutch
+- letch
+- vetch
+phonetic: "/kɛtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A fore-and-aft rigged sailing vessel with two masts, main and mizzen, the
+      mizzen being stepped forward of the rudder post.
 ---
-

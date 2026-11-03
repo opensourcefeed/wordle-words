@@ -1,7 +1,36 @@
 ---
 layout: word
-title: bitey
+title: Is BITEY a Wordle Word?
+head_title: Is BITEY a Wordle Word? Yes – Valid Guess & Meaning
 word: bitey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ˈbaɪ̯ɾi]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Inclined to bite.</li></ul></div></div>"
+description: Yes, BITEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- bitty
+- biter
+- bites
+- bitsy
+- mitey
+phonetic: "[ˈbaɪ̯ɾi]"
+definitions:
+- pos: adjective
+  defs:
+  - text: Inclined to bite.
 ---
-

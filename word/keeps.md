@@ -1,7 +1,76 @@
 ---
 layout: word
-title: keeps
+title: Is KEEPS a Wordle Word?
+head_title: Is KEEPS a Wordle Word? Yes – Valid Guess & Meaning
 word: keeps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kiːps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The main tower of a castle or fortress, located within the castle walls.</li><li><strong>Definition 2:</strong> The food or money required to keep someone alive and healthy; one's support, maintenance.<p><strong>Example:</strong> He works as a cobbler's apprentice for his keep.</p></li><li><strong>Definition 3:</strong> The act or office of keeping; custody; guard; care; heed; charge; notice.</li><li><strong>Definition 4:</strong> The state of being kept; hence, the resulting condition; case.<p><strong>Example:</strong> to be in good keep</p></li><li><strong>Definition 5:</strong> That which is kept in charge; a charge.</li><li><strong>Definition 6:</strong> A cap for holding something, such as a journal box, in place.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To continue in (a course or mode of action); not to intermit or fall from; to uphold or maintain.<p><strong>Example:</strong> to keep silence;  to keep one's word;  to keep possession</p></li><li><strong>Definition 2:</strong> (heading) To hold the status of something.</li><li><strong>Definition 3:</strong> (heading) To hold or be held in a state.</li><li><strong>Definition 4:</strong> To wait for, keep watch for.</li><li><strong>Definition 5:</strong> To act as wicket-keeper.<p><strong>Example:</strong> Godfrey Evans kept for England for many years.</p></li><li><strong>Definition 6:</strong> To take care; to be solicitous; to watch.</li><li><strong>Definition 7:</strong> To be in session; to take place.<p><strong>Example:</strong> School keeps today.</p></li><li><strong>Definition 8:</strong> To observe; to adhere to; to fulfill; not to swerve from or violate.</li><li><strong>Definition 9:</strong> (by extension) To visit (a place) often; to frequent.</li><li><strong>Definition 10:</strong> To observe or celebrate (a holiday).<p><strong>Example:</strong> The feast of St. Stephen is kept on December 26.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Keeping</li></ul></div></div>"
+description: Yes, KEEPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 82
+neighbours:
+- beeps
+- deeps
+- geeps
+- jeeps
+- keefs
+- keeks
+- keels
+- keens
+- keets
+- kelps
+- kemps
+- leeps
+anagrams:
+- peeks
+- pekes
+trap:
+  pattern: _EEPS
+  count: 12
+phonetic: "/kiːps/"
+definitions:
+- pos: noun
+  defs:
+  - text: The main tower of a castle or fortress, located within the castle walls.
+  - text: The food or money required to keep someone alive and healthy; one's support,
+      maintenance.
+    example: He works as a cobbler's apprentice for his keep.
+  - text: The act or office of keeping; custody; guard; care; heed; charge; notice.
+  - text: The state of being kept; hence, the resulting condition; case.
+    example: to be in good keep
+  - text: That which is kept in charge; a charge.
+  - text: A cap for holding something, such as a journal box, in place.
+- pos: verb
+  defs:
+  - text: To continue in (a course or mode of action); not to intermit or fall from;
+      to uphold or maintain.
+    example: to keep silence;  to keep one's word;  to keep possession
+  - text: "(heading) To hold the status of something."
+  - text: "(heading) To hold or be held in a state."
+  - text: To wait for, keep watch for.
+  - text: To act as wicket-keeper.
+    example: Godfrey Evans kept for England for many years.
+  - text: To take care; to be solicitous; to watch.
+  - text: To be in session; to take place.
+    example: School keeps today.
+  - text: To observe; to adhere to; to fulfill; not to swerve from or violate.
+  - text: "(by extension) To visit (a place) often; to frequent."
+  - text: To observe or celebrate (a holiday).
+    example: The feast of St. Stephen is kept on December 26.
+- pos: noun
+  defs:
+  - text: Keeping
 ---
-

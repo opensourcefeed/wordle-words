@@ -1,7 +1,55 @@
 ---
 layout: word
-title: debit
+title: Is DEBIT a Wordle Word?
+head_title: 'Is DEBIT a Wordle Word? Yes – Past Answer #1178 & Meaning'
 word: debit
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɛb.ɪt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> In bookkeeping, an entry in the left hand column of an account.<p><strong>Example:</strong> A cash sale is recorded as debit on the cash account and as credit on the sales account.</p></li><li><strong>Definition 2:</strong> A sum of money taken out of a bank account. Thus called, because in bank's bookkeeping a cash withdrawal diminishes the amount of money held on the account, i.e. bank's debt to the customer.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make an entry on the debit side of an account.</li><li><strong>Definition 2:</strong> To record a receivable in the bookkeeping.<p><strong>Example:</strong> We shall debit the amount of your purchase to your account.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to process of taking money from an account</li><li><strong>Definition 2:</strong> Of or relating to the debit card function of a debit card rather than its often available credit card function</li></ul></div></div>"
+description: Yes, DEBIT is a valid Wordle word. It was the Wordle answer on September
+  9, 2024 (#1178). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 9, 2024 (#1178).
+past_answers:
+- date: '2024-09-09'
+  number: 1178
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- debut
+- demit
+- rebit
+anagrams:
+- betid
+- bidet
+phonetic: "/ˈdɛb.ɪt/"
+definitions:
+- pos: noun
+  defs:
+  - text: In bookkeeping, an entry in the left hand column of an account.
+    example: A cash sale is recorded as debit on the cash account and as credit on
+      the sales account.
+  - text: A sum of money taken out of a bank account. Thus called, because in bank's
+      bookkeeping a cash withdrawal diminishes the amount of money held on the account,
+      i.e. bank's debt to the customer.
+- pos: verb
+  defs:
+  - text: To make an entry on the debit side of an account.
+  - text: To record a receivable in the bookkeeping.
+    example: We shall debit the amount of your purchase to your account.
+- pos: adjective
+  defs:
+  - text: Of or relating to process of taking money from an account
+  - text: Of or relating to the debit card function of a debit card rather than its
+      often available credit card function
 ---
-

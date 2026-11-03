@@ -1,7 +1,43 @@
 ---
 layout: word
-title: clued
+title: Is CLUED a Wordle Word?
+head_title: Is CLUED a Wordle Word? Yes – Possible Answer & Meaning
 word: clued
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kluːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To provide with a clue.<p><strong>Example:</strong> The crossword compiler wasn't sure how to clue the word \"should\".</p></li><li><strong>Definition 2:</strong> To provide someone with information which he or she lacks (often used with \"in\" or \"up\").<p><strong>Example:</strong> Smith, clue Jones in on what's been happening.</p></li></ul></div></div>"
+description: Yes, CLUED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 34
+neighbours:
+- blued
+- clied
+- clues
+- cluey
+- flued
+- glued
+- slued
+anagrams:
+- dulce
+phonetic: "/kluːd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To provide with a clue.
+    example: The crossword compiler wasn't sure how to clue the word "should".
+  - text: To provide someone with information which he or she lacks (often used with
+      "in" or "up").
+    example: Smith, clue Jones in on what's been happening.
 ---
-

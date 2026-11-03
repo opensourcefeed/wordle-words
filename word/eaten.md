@@ -1,7 +1,56 @@
 ---
 layout: word
-title: eaten
+title: Is EATEN a Wordle Word?
+head_title: 'Is EATEN a Wordle Word? Yes – Past Answer #1728 & Meaning'
 word: eaten
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈiːt(ə)n/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To ingest; to be ingested.</li><li><strong>Definition 2:</strong> To use up.</li><li><strong>Definition 3:</strong> To cause (someone) to worry.<p><strong>Example:</strong> What’s eating you?</p></li><li><strong>Definition 4:</strong> To take the loss in a transaction.</li><li><strong>Definition 5:</strong> To be injured or killed by (something such as a firearm or its projectile), especially in the mouth.</li><li><strong>Definition 6:</strong> To corrode or erode.<p><strong>Example:</strong> The acid rain ate away the statue.  The strong acid eats through the metal.</p></li><li><strong>Definition 7:</strong> To perform oral sex (on a person or body part).<p><strong>Example:</strong> Eat me!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (especially in combination) That has been consumed by eating</li></ul></div></div>"
+description: Yes, EATEN is a valid Wordle word. It was the Wordle answer on March
+  13, 2026 (#1728). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 13, 2026 (#1728).
+past_answers:
+- date: '2026-03-13'
+  number: 1728
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 21
+neighbours:
+- eater
+- eatin
+- laten
+- oaten
+- paten
+anagrams:
+- enate
+phonetic: "/ˈiːt(ə)n/"
+definitions:
+- pos: verb
+  defs:
+  - text: To ingest; to be ingested.
+  - text: To use up.
+  - text: To cause (someone) to worry.
+    example: What’s eating you?
+  - text: To take the loss in a transaction.
+  - text: To be injured or killed by (something such as a firearm or its projectile),
+      especially in the mouth.
+  - text: To corrode or erode.
+    example: The acid rain ate away the statue.  The strong acid eats through the
+      metal.
+  - text: To perform oral sex (on a person or body part).
+    example: Eat me!
+- pos: adjective
+  defs:
+  - text: "(especially in combination) That has been consumed by eating"
 ---
-

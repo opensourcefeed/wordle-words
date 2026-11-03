@@ -1,7 +1,42 @@
 ---
 layout: word
-title: ruing
+title: Is RUING a Wordle Word?
+head_title: Is RUING a Wordle Word? Yes – Valid Guess & Meaning
 word: ruing
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cause to repent of sin or regret some past action.</li><li><strong>Definition 2:</strong> To cause to feel sorrow or pity.</li><li><strong>Definition 3:</strong> To repent of or regret (some past action or event); to wish that a past action or event had not taken place.<p><strong>Example:</strong> I rued the day I crossed paths with her.</p></li><li><strong>Definition 4:</strong> To feel compassion or pity.</li><li><strong>Definition 5:</strong> To feel sorrow or regret.</li></ul></div></div>"
+description: Yes, RUING is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- suing
+- cuing
+- duing
+- reing
+- ruins
+anagrams:
+- unrig
+definitions:
+- pos: verb
+  defs:
+  - text: To cause to repent of sin or regret some past action.
+  - text: To cause to feel sorrow or pity.
+  - text: To repent of or regret (some past action or event); to wish that a past
+      action or event had not taken place.
+    example: I rued the day I crossed paths with her.
+  - text: To feel compassion or pity.
+  - text: To feel sorrow or regret.
 ---
-

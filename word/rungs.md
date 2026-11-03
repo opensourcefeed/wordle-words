@@ -1,7 +1,52 @@
 ---
 layout: word
-title: rungs
+title: Is RUNGS a Wordle Word?
+head_title: Is RUNGS a Wordle Word? Yes – Valid Guess & Meaning
 word: rungs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A crosspiece forming a step of a ladder; a round.</li><li><strong>Definition 2:</strong> A crosspiece between legs of a chair.</li><li><strong>Definition 3:</strong> A position in a hierarchy.<p><strong>Example:</strong> the lowest rung of the society</p></li><li><strong>Definition 4:</strong> A floor timber in a ship.</li><li><strong>Definition 5:</strong> One of the stakes of a cart; a spar; a heavy staff.</li><li><strong>Definition 6:</strong> One of the radial handles projecting from the rim of a steering wheel.</li><li><strong>Definition 7:</strong> One of the pins or trundles of a lantern wheel.</li></ul></div></div>"
+description: Yes, RUNGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- bungs
+- dungs
+- fungs
+- lungs
+- mungs
+- pungs
+- rangs
+- rengs
+- rings
+- runds
+- runes
+- runos
+anagrams:
+- gurns
+trap:
+  pattern: _UNGS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A crosspiece forming a step of a ladder; a round.
+  - text: A crosspiece between legs of a chair.
+  - text: A position in a hierarchy.
+    example: the lowest rung of the society
+  - text: A floor timber in a ship.
+  - text: One of the stakes of a cart; a spar; a heavy staff.
+  - text: One of the radial handles projecting from the rim of a steering wheel.
+  - text: One of the pins or trundles of a lantern wheel.
 ---
-

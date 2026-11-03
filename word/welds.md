@@ -1,7 +1,49 @@
 ---
 layout: word
-title: welds
+title: Is WELDS a Wordle Word?
+head_title: Is WELDS a Wordle Word? Yes – Valid Guess & Meaning
 word: welds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The joint made by welding.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To join two materials (especially two metals) together by applying heat, pressure and filler, either separately or in any combination.</li><li><strong>Definition 2:</strong> To bind together inseparably; to unite closely or intimately.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To wield.</li></ul></div></div>"
+description: Yes, WELDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- gelds
+- melds
+- velds
+- walds
+- weeds
+- weids
+- welks
+- wells
+- welts
+- wends
+- wilds
+- wolds
+definitions:
+- pos: noun
+  defs:
+  - text: The joint made by welding.
+- pos: verb
+  defs:
+  - text: To join two materials (especially two metals) together by applying heat,
+      pressure and filler, either separately or in any combination.
+  - text: To bind together inseparably; to unite closely or intimately.
+- pos: verb
+  defs:
+  - text: To wield.
 ---
-

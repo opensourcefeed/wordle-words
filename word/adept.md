@@ -1,7 +1,44 @@
 ---
 layout: word
-title: adept
+title: Is ADEPT a Wordle Word?
+head_title: 'Is ADEPT a Wordle Word? Yes – Past Answer #1412 & Meaning'
 word: adept
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈdɛpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One fully skilled or well versed in anything; a proficient<p><strong>Example:</strong> adepts in philosophy</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Well skilled; completely versed; thoroughly proficient</li></ul></div></div>"
+description: Yes, ADEPT is a valid Wordle word. It was the Wordle answer on May 1,
+  2025 (#1412). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 1, 2025 (#1412).
+past_answers:
+- date: '2025-05-01'
+  number: 1412
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- adapt
+- adopt
+anagrams:
+- apted
+- pated
+- taped
+phonetic: "/əˈdɛpt/"
+definitions:
+- pos: noun
+  defs:
+  - text: One fully skilled or well versed in anything; a proficient
+    example: adepts in philosophy
+- pos: adjective
+  defs:
+  - text: Well skilled; completely versed; thoroughly proficient
 ---
-

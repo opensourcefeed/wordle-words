@@ -1,7 +1,104 @@
 ---
 layout: word
-title: slide
+title: Is SLIDE a Wordle Word?
+head_title: 'Is SLIDE a Wordle Word? Yes – Past Answer #1959 & Meaning'
 word: slide
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /slaɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An item of play equipment that children can climb up and then slide down again.<p><strong>Example:</strong> The long, red slide was great fun for the kids.</p></li><li><strong>Definition 2:</strong> A surface of ice, snow, butter, etc. on which someone can slide for amusement or as a practical joke.</li><li><strong>Definition 3:</strong> The falling of large amounts of rubble, earth and stones down the slope of a hill or mountain; avalanche.<p><strong>Example:</strong> The slide closed the highway.</p></li><li><strong>Definition 4:</strong> An inclined plane on which heavy bodies slide by the force of gravity, especially one constructed on a mountainside for conveying logs by sliding them down.</li><li><strong>Definition 5:</strong> A mechanism consisting of a part which slides on or against a guide.</li><li><strong>Definition 6:</strong> The act of sliding; smooth, even passage or progress.<p><strong>Example:</strong> a slide on the ice</p></li><li><strong>Definition 7:</strong> A lever that can be moved in two directions.</li><li><strong>Definition 8:</strong> A valve that works by sliding, such as in a trombone.</li><li><strong>Definition 9:</strong> A transparent plate bearing an image to be projected to a screen.</li><li><strong>Definition 10:</strong> (by extension) A page of a computer presentation package such as PowerPoint.<p><strong>Example:</strong> I still need to prepare some slides for my presentation tomorrow.</p></li><li><strong>Definition 11:</strong> A flat, usually rectangular piece of glass or similar material on which a prepared sample may be viewed through a microscope Generally referred to as a microscope slide.</li><li><strong>Definition 12:</strong> The act of dropping down and skidding into a base</li><li><strong>Definition 13:</strong> (guitar) A hand-held device made of smooth, hard material, used in the practice of slide guitar.</li><li><strong>Definition 14:</strong> A lively dance from County Kerry, in 12/8 time.</li><li><strong>Definition 15:</strong> A small dislocation in beds of rock along a line of fissure.</li><li><strong>Definition 16:</strong> A grace consisting of two or more small notes moving by conjoint degrees, and leading to a principal note either above or below.</li><li><strong>Definition 17:</strong> A sound which, by a gradual change in the position of the vocal organs, passes imperceptibly into another sound.</li><li><strong>Definition 18:</strong> A clasp or brooch for a belt, etc.</li><li><strong>Definition 19:</strong> (footwear) A shoe that is backless and open-toed.</li><li><strong>Definition 20:</strong> (speech therapy) A voluntary stutter used as a technique to control stuttering in one's speech.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To (cause to) move in continuous contact with a surface<p><strong>Example:</strong> He slid the boat across the grass.</p></li><li><strong>Definition 2:</strong> To move on a low-friction surface.<p><strong>Example:</strong> The car slid on the ice.</p></li><li><strong>Definition 3:</strong> To drop down and skid into a base.<p><strong>Example:</strong> Jones slid into second.</p></li><li><strong>Definition 4:</strong> To lose one’s balance on a slippery surface.<p><strong>Example:</strong> He slid while going around the corner.</p></li><li><strong>Definition 5:</strong> To pass or put imperceptibly; to slip.<p><strong>Example:</strong> to slide in a word to vary the sense of a question</p></li><li><strong>Definition 6:</strong> To pass inadvertently.</li><li><strong>Definition 7:</strong> To pass along smoothly or unobservedly; to move gently onward without friction or hindrance.<p><strong>Example:</strong> A ship or boat slides through the water.</p></li><li><strong>Definition 8:</strong> To pass from one note to another with no perceptible cessation of sound.</li></ul></div></div>"
+description: Yes, SLIDE is a valid Wordle word. It was the Wordle answer on October
+  30, 2026 (#1959). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 30, 2026 (#1959).
+past_answers:
+- date: '2026-10-30'
+  number: 1959
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- elide
+- glide
+- slice
+- slime
+- snide
+- slade
+- slipe
+- slive
+- spide
+- ylide
+anagrams:
+- deils
+- delis
+- diels
+- eilds
+- idles
+- isled
+- sidle
+- sield
+- siled
+phonetic: "/slaɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An item of play equipment that children can climb up and then slide down
+      again.
+    example: The long, red slide was great fun for the kids.
+  - text: A surface of ice, snow, butter, etc. on which someone can slide for amusement
+      or as a practical joke.
+  - text: The falling of large amounts of rubble, earth and stones down the slope
+      of a hill or mountain; avalanche.
+    example: The slide closed the highway.
+  - text: An inclined plane on which heavy bodies slide by the force of gravity, especially
+      one constructed on a mountainside for conveying logs by sliding them down.
+  - text: A mechanism consisting of a part which slides on or against a guide.
+  - text: The act of sliding; smooth, even passage or progress.
+    example: a slide on the ice
+  - text: A lever that can be moved in two directions.
+  - text: A valve that works by sliding, such as in a trombone.
+  - text: A transparent plate bearing an image to be projected to a screen.
+  - text: "(by extension) A page of a computer presentation package such as PowerPoint."
+    example: I still need to prepare some slides for my presentation tomorrow.
+  - text: A flat, usually rectangular piece of glass or similar material on which
+      a prepared sample may be viewed through a microscope Generally referred to as
+      a microscope slide.
+  - text: The act of dropping down and skidding into a base
+  - text: "(guitar) A hand-held device made of smooth, hard material, used in the
+      practice of slide guitar."
+  - text: A lively dance from County Kerry, in 12/8 time.
+  - text: A small dislocation in beds of rock along a line of fissure.
+  - text: A grace consisting of two or more small notes moving by conjoint degrees,
+      and leading to a principal note either above or below.
+  - text: A sound which, by a gradual change in the position of the vocal organs,
+      passes imperceptibly into another sound.
+  - text: A clasp or brooch for a belt, etc.
+  - text: "(footwear) A shoe that is backless and open-toed."
+  - text: "(speech therapy) A voluntary stutter used as a technique to control stuttering
+      in one's speech."
+- pos: verb
+  defs:
+  - text: To (cause to) move in continuous contact with a surface
+    example: He slid the boat across the grass.
+  - text: To move on a low-friction surface.
+    example: The car slid on the ice.
+  - text: To drop down and skid into a base.
+    example: Jones slid into second.
+  - text: To lose one’s balance on a slippery surface.
+    example: He slid while going around the corner.
+  - text: To pass or put imperceptibly; to slip.
+    example: to slide in a word to vary the sense of a question
+  - text: To pass inadvertently.
+  - text: To pass along smoothly or unobservedly; to move gently onward without friction
+      or hindrance.
+    example: A ship or boat slides through the water.
+  - text: To pass from one note to another with no perceptible cessation of sound.
 ---
-

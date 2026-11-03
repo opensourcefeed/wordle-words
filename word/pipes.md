@@ -1,7 +1,76 @@
 ---
 layout: word
-title: pipes
+title: Is PIPES a Wordle Word?
+head_title: Is PIPES a Wordle Word? Yes – Valid Guess & Meaning
 word: pipes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /paɪps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Meanings relating to a wind instrument.</li><li><strong>Definition 2:</strong> Meanings relating to a hollow conduit.</li><li><strong>Definition 3:</strong> Meanings relating to a container.</li><li><strong>Definition 4:</strong> Meanings relating to something resembling a tube.</li><li><strong>Definition 5:</strong> Meanings relating to computing.</li><li><strong>Definition 6:</strong> Meanings relating to a smoking implement.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play (music) on a pipe instrument, such as a bagpipe or a flute.</li><li><strong>Definition 2:</strong> To shout loudly and at high pitch.</li><li><strong>Definition 3:</strong> To emit or have a shrill sound like that of a pipe; to whistle.</li><li><strong>Definition 4:</strong> Of a metal ingot: to become hollow in the process of solidifying.</li><li><strong>Definition 5:</strong> To convey or transport (something) by means of pipes.</li><li><strong>Definition 6:</strong> To install or configure with pipes.</li><li><strong>Definition 7:</strong> To dab moisture away from.</li><li><strong>Definition 8:</strong> To lead or conduct as if by pipes, especially by wired transmission.</li><li><strong>Definition 9:</strong> To directly feed (the output of one program) as input to another program, indicated by the pipe character (pipe) at the command line.</li><li><strong>Definition 10:</strong> To create or decorate with piping (icing).<p><strong>Example:</strong> to pipe flowers on to a cupcake</p></li><li><strong>Definition 11:</strong> To order or signal by a note pattern on a boatswain's pipe.</li><li><strong>Definition 12:</strong> (of a male) To have sexual intercourse with a female.</li><li><strong>Definition 13:</strong> To see.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A single pipe organ.</li><li><strong>Definition 2:</strong> One's vocal capacity.</li><li><strong>Definition 3:</strong> Biceps.</li></ul></div></div>"
+description: Yes, PIPES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- piper
+- hipes
+- kipes
+- lipes
+- papes
+- pikes
+- piles
+- pines
+- pipas
+- piped
+- pipet
+- pipis
+anagrams:
+- pepsi
+trap:
+  pattern: _IPES
+  count: 8
+phonetic: "/paɪps/"
+definitions:
+- pos: noun
+  defs:
+  - text: Meanings relating to a wind instrument.
+  - text: Meanings relating to a hollow conduit.
+  - text: Meanings relating to a container.
+  - text: Meanings relating to something resembling a tube.
+  - text: Meanings relating to computing.
+  - text: Meanings relating to a smoking implement.
+- pos: verb
+  defs:
+  - text: To play (music) on a pipe instrument, such as a bagpipe or a flute.
+  - text: To shout loudly and at high pitch.
+  - text: To emit or have a shrill sound like that of a pipe; to whistle.
+  - text: 'Of a metal ingot: to become hollow in the process of solidifying.'
+  - text: To convey or transport (something) by means of pipes.
+  - text: To install or configure with pipes.
+  - text: To dab moisture away from.
+  - text: To lead or conduct as if by pipes, especially by wired transmission.
+  - text: To directly feed (the output of one program) as input to another program,
+      indicated by the pipe character (pipe) at the command line.
+  - text: To create or decorate with piping (icing).
+    example: to pipe flowers on to a cupcake
+  - text: To order or signal by a note pattern on a boatswain's pipe.
+  - text: "(of a male) To have sexual intercourse with a female."
+  - text: To see.
+- pos: noun
+  defs:
+  - text: A single pipe organ.
+  - text: One's vocal capacity.
+  - text: Biceps.
 ---
-

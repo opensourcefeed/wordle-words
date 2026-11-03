@@ -1,7 +1,59 @@
 ---
 layout: word
-title: faded
+title: Is FADED a Wordle Word?
+head_title: Is FADED a Wordle Word? Yes – Valid Guess & Meaning
 word: faded
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfeɪdɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant.</li><li><strong>Definition 2:</strong> To lose freshness, color, or brightness; to become faint in hue or tint; hence, to be wanting in color.</li><li><strong>Definition 3:</strong> To sink away; to disappear gradually; to grow dim; to vanish.<p><strong>Example:</strong> The milkman's whistling faded into the distance.</p></li><li><strong>Definition 4:</strong> To cause to fade.</li><li><strong>Definition 5:</strong> To bet against.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (sometimes figurative) That has lost some of its former colour or intensity.<p><strong>Example:</strong> a faded rock star of the 1970s</p></li><li><strong>Definition 2:</strong> High on drugs; stoned</li></ul></div></div>"
+description: Yes, FADED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- faced
+- fader
+- fades
+- faked
+- famed
+- fared
+- fated
+- faxed
+- fayed
+- fazed
+- haded
+- jaded
+trap:
+  pattern: FA_ED
+  count: 9
+phonetic: "/ˈfeɪdɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To grow weak; to lose strength; to decay; to perish gradually; to wither,
+      as a plant.
+  - text: To lose freshness, color, or brightness; to become faint in hue or tint;
+      hence, to be wanting in color.
+  - text: To sink away; to disappear gradually; to grow dim; to vanish.
+    example: The milkman's whistling faded into the distance.
+  - text: To cause to fade.
+  - text: To bet against.
+- pos: adjective
+  defs:
+  - text: "(sometimes figurative) That has lost some of its former colour or intensity."
+    example: a faded rock star of the 1970s
+  - text: High on drugs; stoned
 ---
-

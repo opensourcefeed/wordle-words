@@ -1,7 +1,36 @@
 ---
 layout: word
-title: fauna
+title: Is FAUNA a Wordle Word?
+head_title: Is FAUNA a Wordle Word? Yes – Possible Answer & Meaning
 word: fauna
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɔː.nə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Animals considered as a group; especially those of a particular country, region, time.<p><strong>Example:</strong> the fauna of China</p></li><li><strong>Definition 2:</strong> A book, cataloguing the animals of a country.</li></ul></div></div>"
+description: Yes, FAUNA is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 86
+neighbours:
+- sauna
+- faena
+- fauns
+phonetic: "/ˈfɔː.nə/"
+definitions:
+- pos: noun
+  defs:
+  - text: Animals considered as a group; especially those of a particular country,
+      region, time.
+    example: the fauna of China
+  - text: A book, cataloguing the animals of a country.
 ---
-

@@ -1,7 +1,49 @@
 ---
 layout: word
-title: forby
+title: Is FORBY a Wordle Word?
+head_title: Is FORBY a Wordle Word? Yes – Valid Guess & Meaning
 word: forby
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fəˈbʌɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Uncommon; out of the ordinary; extraordinary; superior.<p><strong>Example:</strong> He's a forbye man.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Past; by; beyond.</li><li><strong>Definition 2:</strong> Uncommonly; exceptionally.<p><strong>Example:</strong> He was forby kind.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> preposition</p><ul><li><strong>Definition 1:</strong> Beyond; past; more than; greater than; over and above; moreover.</li><li><strong>Definition 2:</strong> (of time) Past; gone by; over.</li><li><strong>Definition 3:</strong> Near; beside; by, close to.</li><li><strong>Definition 4:</strong> On one side; out of the way.</li><li><strong>Definition 5:</strong> Besides; in addition to; as well as; not to mention.<p><strong>Example:</strong> There was other six forby me.</p></li><li><strong>Definition 6:</strong> With the exception of; not taking into account.</li></ul></div></div>"
+description: Yes, FORBY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- foray
+- forty
+- corby
+- forbs
+- forky
+phonetic: "/fəˈbʌɪ/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Uncommon; out of the ordinary; extraordinary; superior.
+    example: He's a forbye man.
+- pos: adverb
+  defs:
+  - text: Past; by; beyond.
+  - text: Uncommonly; exceptionally.
+    example: He was forby kind.
+- pos: preposition
+  defs:
+  - text: Beyond; past; more than; greater than; over and above; moreover.
+  - text: "(of time) Past; gone by; over."
+  - text: Near; beside; by, close to.
+  - text: On one side; out of the way.
+  - text: Besides; in addition to; as well as; not to mention.
+    example: There was other six forby me.
+  - text: With the exception of; not taking into account.
 ---
-

@@ -1,7 +1,48 @@
 ---
 layout: word
-title: stony
+title: Is STONY a Wordle Word?
+head_title: 'Is STONY a Wordle Word? Yes – Past Answer #932 & Meaning'
 word: stony
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> As hard as stone.</li><li><strong>Definition 2:</strong> Containing or made up of stones.<p><strong>Example:</strong> a stony path</p></li><li><strong>Definition 3:</strong> Of a person, lacking warmth and emotion.</li><li><strong>Definition 4:</strong> Of an action such as a look, showing no warmth of emotion.<p><strong>Example:</strong> She gave him a stony reception.</p></li><li><strong>Definition 5:</strong> Short for stony broke: without any money.</li></ul></div></div>"
+description: Yes, STONY is a valid Wordle word. It was the Wordle answer on January
+  7, 2024 (#932). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 7, 2024 (#932).
+past_answers:
+- date: '2024-01-07'
+  number: 932
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- stone
+- story
+- atony
+- stogy
+- stond
+- stong
+- stonk
+- stonn
+trap:
+  pattern: STON_
+  count: 6
+definitions:
+- pos: adjective
+  defs:
+  - text: As hard as stone.
+  - text: Containing or made up of stones.
+    example: a stony path
+  - text: Of a person, lacking warmth and emotion.
+  - text: Of an action such as a look, showing no warmth of emotion.
+    example: She gave him a stony reception.
+  - text: 'Short for stony broke: without any money.'
 ---
-

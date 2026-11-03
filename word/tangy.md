@@ -1,7 +1,42 @@
 ---
 layout: word
-title: tangy
+title: Is TANGY a Wordle Word?
+head_title: 'Is TANGY a Wordle Word? Yes – Past Answer #209 & Meaning'
 word: tangy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtæŋiː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a sharp, pungent flavor</li></ul></div></div>"
+description: Yes, TANGY is a valid Wordle word. It was the Wordle answer on January
+  14, 2022 (#209). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 14, 2022 (#209).
+past_answers:
+- date: '2022-01-14'
+  number: 209
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- mangy
+- tango
+- rangy
+- taggy
+- tanga
+- tangi
+- tangs
+- tanky
+- tansy
+- tanty
+phonetic: "/ˈtæŋiː/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having a sharp, pungent flavor
 ---
-

@@ -1,7 +1,91 @@
 ---
 layout: word
-title: ports
+title: Is PORTS a Wordle Word?
+head_title: Is PORTS a Wordle Word? Yes – Valid Guess & Meaning
 word: ports
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɔːts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers.</li><li><strong>Definition 2:</strong> A town or city containing such a place, a port city.</li><li><strong>Definition 3:</strong> The left-hand side of a vessel, including aircraft, when one is facing the front. Used to unambiguously refer to directions relative to the vessel structure, rather than to a person or object on board.</li><li><strong>Definition 4:</strong> A sweep rower that primarily rows with an oar on the port side.<p><strong>Example:</strong> Each eight has four ports and four starboards.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An entryway or gate.</li><li><strong>Definition 2:</strong> An opening or doorway in the side of a ship, especially for boarding or loading; an embrasure through which a cannon may be discharged; a porthole.</li><li><strong>Definition 3:</strong> (bowls) A space between two stones wide enough for a delivered stone or bowl to pass through.</li><li><strong>Definition 4:</strong> An opening where a connection (such as a pipe) is made.</li><li><strong>Definition 5:</strong> A logical or physical construct in and from which data are transferred. Computer port (hardware)</li><li><strong>Definition 6:</strong> A female connector of an electronic device, into which a cable's male connector can be inserted.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something used to carry a thing, especially a frame for wicks in candle-making.</li><li><strong>Definition 2:</strong> The manner in which a person carries himself; bearing; deportment; carriage. See also portance.</li><li><strong>Definition 3:</strong> The position of a weapon when ported; a rifle position executed by throwing the weapon diagonally across the front of the body, with the right hand grasping the small of the stock and the barrel sloping upward and crossing the point of the left shoulder.</li><li><strong>Definition 4:</strong> A program that has been adapted, modified, or recoded so that it works on a different platform from the one for which it was created; the act of this adapting.<p><strong>Example:</strong> Gamers can't wait until a port of the title is released on the new system.</p></li><li><strong>Definition 5:</strong> (BSD) A set of files used to build and install a binary executable file from the source code of an application.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of very sweet fortified wine, mostly dark red, traditionally made in Portugal.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A suitcase or schoolbag.</li></ul></div></div>"
+description: Yes, PORTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- borts
+- dorts
+- forts
+- jorts
+- morts
+- parts
+- perts
+- poets
+- polts
+- ponts
+- poots
+- pores
+anagrams:
+- sport
+- prost
+- strop
+trap:
+  pattern: _ORTS
+  count: 10
+phonetic: "/pɔːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A place on the coast at which ships can shelter, or dock to load and unload
+      cargo or passengers.
+  - text: A town or city containing such a place, a port city.
+  - text: The left-hand side of a vessel, including aircraft, when one is facing the
+      front. Used to unambiguously refer to directions relative to the vessel structure,
+      rather than to a person or object on board.
+  - text: A sweep rower that primarily rows with an oar on the port side.
+    example: Each eight has four ports and four starboards.
+- pos: noun
+  defs:
+  - text: An entryway or gate.
+  - text: An opening or doorway in the side of a ship, especially for boarding or
+      loading; an embrasure through which a cannon may be discharged; a porthole.
+  - text: "(bowls) A space between two stones wide enough for a delivered stone or
+      bowl to pass through."
+  - text: An opening where a connection (such as a pipe) is made.
+  - text: A logical or physical construct in and from which data are transferred.
+      Computer port (hardware)
+  - text: A female connector of an electronic device, into which a cable's male connector
+      can be inserted.
+- pos: noun
+  defs:
+  - text: Something used to carry a thing, especially a frame for wicks in candle-making.
+  - text: The manner in which a person carries himself; bearing; deportment; carriage.
+      See also portance.
+  - text: The position of a weapon when ported; a rifle position executed by throwing
+      the weapon diagonally across the front of the body, with the right hand grasping
+      the small of the stock and the barrel sloping upward and crossing the point
+      of the left shoulder.
+  - text: A program that has been adapted, modified, or recoded so that it works on
+      a different platform from the one for which it was created; the act of this
+      adapting.
+    example: Gamers can't wait until a port of the title is released on the new system.
+  - text: "(BSD) A set of files used to build and install a binary executable file
+      from the source code of an application."
+- pos: noun
+  defs:
+  - text: A type of very sweet fortified wine, mostly dark red, traditionally made
+      in Portugal.
+- pos: noun
+  defs:
+  - text: A suitcase or schoolbag.
 ---
-

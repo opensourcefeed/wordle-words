@@ -1,7 +1,78 @@
 ---
 layout: word
-title: darts
+title: Is DARTS a Wordle Word?
+head_title: Is DARTS a Wordle Word? Yes – Valid Guess & Meaning
 word: darts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɑːts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pointed missile weapon, intended to be thrown by the hand, for example a short lance or javelin</li><li><strong>Definition 2:</strong> Any sharp-pointed missile weapon, such as an arrow.</li><li><strong>Definition 3:</strong> (sometimes figurative) Anything resembling such a missile; something that pierces or wounds like such a weapon.</li><li><strong>Definition 4:</strong> A small object with a pointed tip at one end and feathers at the other, which is thrown at a target in the game of darts.</li><li><strong>Definition 5:</strong> A dart-shaped target towed behind an aircraft to train shooters.</li><li><strong>Definition 6:</strong> A plan or scheme.</li><li><strong>Definition 7:</strong> A sudden or fast movement.</li><li><strong>Definition 8:</strong> A fold that is stitched on a garment.</li><li><strong>Definition 9:</strong> A fish, the dace.</li><li><strong>Definition 10:</strong> A cigarette.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw with a sudden effort or thrust; to hurl or launch.</li><li><strong>Definition 2:</strong> To send forth suddenly or rapidly; to emit; to shoot<p><strong>Example:</strong> The sun darts forth his beams.</p></li><li><strong>Definition 3:</strong> To shoot with a dart, especially a tranquilizer dart<p><strong>Example:</strong> They had to dart the animal to get close enough to help</p></li><li><strong>Definition 4:</strong> To fly or pass swiftly, like a dart; to move rapidly in one direction; to shoot out quickly<p><strong>Example:</strong> The flying man darted eastward.</p></li><li><strong>Definition 5:</strong> To start and run with speed; to shoot rapidly along<p><strong>Example:</strong> The deer darted from the thicket.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (games) A game or sport in which darts are thrown at a board, and points are scored depending on where the darts land</li></ul></div></div>"
+description: Yes, DARTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- carts
+- dalts
+- dants
+- darbs
+- dares
+- dargs
+- daris
+- darks
+- darls
+- darns
+- dauts
+- dawts
+anagrams:
+- drats
+- strad
+- trads
+trap:
+  pattern: _ARTS
+  count: 9
+phonetic: "/ˈdɑːts/"
+definitions:
+- pos: noun
+  defs:
+  - text: A pointed missile weapon, intended to be thrown by the hand, for example
+      a short lance or javelin
+  - text: Any sharp-pointed missile weapon, such as an arrow.
+  - text: "(sometimes figurative) Anything resembling such a missile; something that
+      pierces or wounds like such a weapon."
+  - text: A small object with a pointed tip at one end and feathers at the other,
+      which is thrown at a target in the game of darts.
+  - text: A dart-shaped target towed behind an aircraft to train shooters.
+  - text: A plan or scheme.
+  - text: A sudden or fast movement.
+  - text: A fold that is stitched on a garment.
+  - text: A fish, the dace.
+  - text: A cigarette.
+- pos: verb
+  defs:
+  - text: To throw with a sudden effort or thrust; to hurl or launch.
+  - text: To send forth suddenly or rapidly; to emit; to shoot
+    example: The sun darts forth his beams.
+  - text: To shoot with a dart, especially a tranquilizer dart
+    example: They had to dart the animal to get close enough to help
+  - text: To fly or pass swiftly, like a dart; to move rapidly in one direction; to
+      shoot out quickly
+    example: The flying man darted eastward.
+  - text: To start and run with speed; to shoot rapidly along
+    example: The deer darted from the thicket.
+- pos: noun
+  defs:
+  - text: "(games) A game or sport in which darts are thrown at a board, and points
+      are scored depending on where the darts land"
 ---
-

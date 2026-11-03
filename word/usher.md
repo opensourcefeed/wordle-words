@@ -1,7 +1,47 @@
 ---
 layout: word
-title: usher
+title: Is USHER a Wordle Word?
+head_title: 'Is USHER a Wordle Word? Yes – Past Answer #169 & Meaning'
 word: usher
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ˈaʃ.ə(ɹ)]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person, in a church, cinema etc., who escorts people to their seats.</li><li><strong>Definition 2:</strong> A male escort at a wedding.</li><li><strong>Definition 3:</strong> A doorkeeper in a courtroom.</li><li><strong>Definition 4:</strong> An assistant to a head teacher or schoolteacher; an assistant teacher.</li><li><strong>Definition 5:</strong> Any schoolteacher.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To guide people to their seats.</li><li><strong>Definition 2:</strong> To accompany or escort (someone).</li><li><strong>Definition 3:</strong> To precede; to act as a forerunner or herald.</li><li><strong>Definition 4:</strong> To lead or guide somewhere</li></ul></div></div>"
+description: Yes, USHER is a valid Wordle word. It was the Wordle answer on December
+  5, 2021 (#169). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 5, 2021 (#169).
+past_answers:
+- date: '2021-12-05'
+  number: 169
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- uster
+anagrams:
+- erhus
+- huers
+phonetic: "[ˈaʃ.ə(ɹ)]"
+definitions:
+- pos: noun
+  defs:
+  - text: A person, in a church, cinema etc., who escorts people to their seats.
+  - text: A male escort at a wedding.
+  - text: A doorkeeper in a courtroom.
+  - text: An assistant to a head teacher or schoolteacher; an assistant teacher.
+  - text: Any schoolteacher.
+- pos: verb
+  defs:
+  - text: To guide people to their seats.
+  - text: To accompany or escort (someone).
+  - text: To precede; to act as a forerunner or herald.
+  - text: To lead or guide somewhere
 ---
-

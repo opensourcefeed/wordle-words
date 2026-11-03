@@ -1,7 +1,46 @@
 ---
 layout: word
-title: aspic
+title: Is ASPIC a Wordle Word?
+head_title: 'Is ASPIC a Wordle Word? Yes – Past Answer #1884 & Meaning'
 word: aspic
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæspɪk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dish in which ingredients are set into a gelatine, jelly-like substance made from a meat stock or consommé.</li><li><strong>Definition 2:</strong> An asp, a small venomous snake of Egypt.</li><li><strong>Definition 3:</strong> A piece of ordnance carrying a 12-pound shot.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Aspish; relating to an asp, a small venomous snake of Egypt.</li></ul></div></div>"
+description: Yes, ASPIC is a valid Wordle word. It was the Wordle answer on August
+  16, 2026 (#1884). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 16, 2026 (#1884).
+past_answers:
+- date: '2026-08-16'
+  number: 1884
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 35
+neighbours:
+- asdic
+- aspie
+- aspis
+anagrams:
+- picas
+- scapi
+- spica
+phonetic: "/ˈæspɪk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A dish in which ingredients are set into a gelatine, jelly-like substance
+      made from a meat stock or consommé.
+  - text: An asp, a small venomous snake of Egypt.
+  - text: A piece of ordnance carrying a 12-pound shot.
+- pos: adjective
+  defs:
+  - text: Aspish; relating to an asp, a small venomous snake of Egypt.
 ---
-

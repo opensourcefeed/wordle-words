@@ -1,7 +1,54 @@
 ---
 layout: word
-title: gamed
+title: Is GAMED a Wordle Word?
+head_title: Is GAMED a Wordle Word? Yes – Valid Guess & Meaning
 word: gamed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡeɪmd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To gamble.</li><li><strong>Definition 2:</strong> To play card games, board games, or video games.</li><li><strong>Definition 3:</strong> To exploit loopholes in a system or bureaucracy in a way which defeats or nullifies the spirit of the rules in effect, usually to obtain a result which otherwise would be unobtainable.<p><strong>Example:</strong> We'll bury them in paperwork, and game the system.</p></li><li><strong>Definition 4:</strong> (of males) To perform premeditated seduction strategy.</li></ul></div></div>"
+description: Yes, GAMED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- gamer
+- famed
+- gaged
+- galed
+- games
+- gamey
+- gaped
+- gated
+- gazed
+- hamed
+- lamed
+- named
+anagrams:
+- madge
+trap:
+  pattern: _AMED
+  count: 7
+phonetic: "/ɡeɪmd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To gamble.
+  - text: To play card games, board games, or video games.
+  - text: To exploit loopholes in a system or bureaucracy in a way which defeats or
+      nullifies the spirit of the rules in effect, usually to obtain a result which
+      otherwise would be unobtainable.
+    example: We'll bury them in paperwork, and game the system.
+  - text: "(of males) To perform premeditated seduction strategy."
 ---
-

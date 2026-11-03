@@ -1,7 +1,50 @@
 ---
 layout: word
-title: medal
+title: Is MEDAL a Wordle Word?
+head_title: 'Is MEDAL a Wordle Word? Yes – Past Answer #510 & Meaning'
 word: medal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> [ˈmeɾ.ɫ̩]</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stamped metal disc used as a personal ornament, a charm, or a religious object.</li><li><strong>Definition 2:</strong> A stamped or cast metal object (usually a disc), particularly one awarded as a prize or reward.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To win a medal.<p><strong>Example:</strong> He medalled twice at the Olympics.</p></li><li><strong>Definition 2:</strong> To award a medal to.</li></ul></div></div>"
+description: Yes, MEDAL is a valid Wordle word. It was the Wordle answer on November
+  11, 2022 (#510). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 11, 2022 (#510).
+past_answers:
+- date: '2022-11-11'
+  number: 510
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 16
+neighbours:
+- metal
+- modal
+- pedal
+- dedal
+- madal
+- mesal
+anagrams:
+- lamed
+phonetic: "[ˈmeɾ.ɫ̩]"
+definitions:
+- pos: noun
+  defs:
+  - text: A stamped metal disc used as a personal ornament, a charm, or a religious
+      object.
+  - text: A stamped or cast metal object (usually a disc), particularly one awarded
+      as a prize or reward.
+- pos: verb
+  defs:
+  - text: To win a medal.
+    example: He medalled twice at the Olympics.
+  - text: To award a medal to.
 ---
-

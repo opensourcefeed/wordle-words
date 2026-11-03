@@ -1,7 +1,47 @@
 ---
 layout: word
-title: needy
+title: Is NEEDY a Wordle Word?
+head_title: 'Is NEEDY a Wordle Word? Yes – Past Answer #431 & Meaning'
 word: needy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈniːdi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> In need; poor.<p><strong>Example:</strong> Needy people want to give too, but have few material goods to offer.</p></li><li><strong>Definition 2:</strong> Desiring constant affirmation; lacking self-confidence.<p><strong>Example:</strong> It's emotionally exhausting to be around her because she's so needy.</p></li><li><strong>Definition 3:</strong> Needful; necessary.</li></ul></div></div>"
+description: Yes, NEEDY is a valid Wordle word. It was the Wordle answer on August
+  24, 2022 (#431). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 24, 2022 (#431).
+past_answers:
+- date: '2022-08-24'
+  number: 431
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 74
+neighbours:
+- nerdy
+- reedy
+- seedy
+- weedy
+- deedy
+- heedy
+- neddy
+- needs
+trap:
+  pattern: _EEDY
+  count: 6
+phonetic: "/ˈniːdi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: In need; poor.
+    example: Needy people want to give too, but have few material goods to offer.
+  - text: Desiring constant affirmation; lacking self-confidence.
+    example: It's emotionally exhausting to be around her because she's so needy.
+  - text: Needful; necessary.
 ---
-

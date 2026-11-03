@@ -1,7 +1,58 @@
 ---
 layout: word
-title: spell
+title: Is SPELL a Wordle Word?
+head_title: 'Is SPELL a Wordle Word? Yes – Past Answer #507 & Meaning'
 word: spell
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /spɛl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Words or a formula supposed to have magical powers.<p><strong>Example:</strong> He cast a spell to cure warts.</p></li><li><strong>Definition 2:</strong> A magical effect or influence induced by an incantation or formula.<p><strong>Example:</strong> under a spell</p></li><li><strong>Definition 3:</strong> Speech, discourse.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put under the influence of a spell; to affect by a spell; to bewitch; to fascinate; to charm.</li></ul></div></div>"
+description: Yes, SPELL is a valid Wordle word. It was the Wordle answer on November
+  8, 2022 (#507). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 8, 2022 (#507).
+past_answers:
+- date: '2022-11-08'
+  number: 507
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- shell
+- smell
+- spelt
+- spill
+- swell
+- skell
+- snell
+- spall
+- speal
+- speel
+- speil
+- speld
+anagrams:
+- pells
+trap:
+  pattern: S_ELL
+  count: 7
+phonetic: "/spɛl/"
+definitions:
+- pos: noun
+  defs:
+  - text: Words or a formula supposed to have magical powers.
+    example: He cast a spell to cure warts.
+  - text: A magical effect or influence induced by an incantation or formula.
+    example: under a spell
+  - text: Speech, discourse.
+- pos: verb
+  defs:
+  - text: To put under the influence of a spell; to affect by a spell; to bewitch;
+      to fascinate; to charm.
 ---
-

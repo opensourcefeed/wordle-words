@@ -1,7 +1,40 @@
 ---
 layout: word
-title: panda
+title: Is PANDA a Wordle Word?
+head_title: Is PANDA a Wordle Word? Yes – Valid Guess & Meaning
 word: panda
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpændə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The red panda (Ailurus fulgens), a small raccoon-like animal of northeast Asia with reddish fur and a long, ringed tail.</li><li><strong>Definition 2:</strong> Short for giant panda.</li><li><strong>Definition 3:</strong> (law enforcement) Short for panda car.</li></ul></div></div>"
+description: Yes, PANDA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- banda
+- danda
+- pands
+- pandy
+- panga
+- panna
+- pinda
+- vanda
+phonetic: "/ˈpændə/"
+definitions:
+- pos: noun
+  defs:
+  - text: The red panda (Ailurus fulgens), a small raccoon-like animal of northeast
+      Asia with reddish fur and a long, ringed tail.
+  - text: Short for giant panda.
+  - text: "(law enforcement) Short for panda car."
 ---
-

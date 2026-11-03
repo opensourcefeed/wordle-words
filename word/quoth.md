@@ -1,7 +1,36 @@
 ---
 layout: word
-title: quoth
+title: Is QUOTH a Wordle Word?
+head_title: Is QUOTH a Wordle Word? Yes – Possible Answer & Meaning
 word: quoth
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kwəʊθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To say or declare.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (defective, modal, auxiliary) to say</li></ul></div></div>"
+description: Yes, QUOTH is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  rare:
+  - Q
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- quota
+- quote
+phonetic: "/kwəʊθ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To say or declare.
+- pos: verb
+  defs:
+  - text: "(defective, modal, auxiliary) to say"
 ---
-

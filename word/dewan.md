@@ -1,7 +1,42 @@
 ---
 layout: word
-title: dewan
+title: Is DEWAN a Wordle Word?
+head_title: Is DEWAN a Wordle Word? Yes – Valid Guess & Meaning
 word: dewan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dəˈwɑːn/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A holder of any of various offices in various (usually Islamic) countries, usually some sort of councillor.</li></ul></div></div>"
+description: Yes, DEWAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- decan
+- deman
+- dewar
+- dewax
+- diwan
+- rewan
+- sewan
+anagrams:
+- awned
+- dawen
+- waned
+phonetic: "/dəˈwɑːn/"
+definitions:
+- pos: noun
+  defs:
+  - text: A holder of any of various offices in various (usually Islamic) countries,
+      usually some sort of councillor.
 ---
-

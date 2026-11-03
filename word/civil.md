@@ -1,7 +1,43 @@
 ---
 layout: word
-title: civil
+title: Is CIVIL a Wordle Word?
+head_title: 'Is CIVIL a Wordle Word? Yes – Past Answer #1563 & Meaning'
 word: civil
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɪv.əl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having to do with people and government office as opposed to the military or religion.<p><strong>Example:</strong> She went into civil service because she wanted to help the people.</p></li><li><strong>Definition 2:</strong> Behaving in a reasonable or polite manner.<p><strong>Example:</strong> It was very civil of him to stop the argument.</p></li><li><strong>Definition 3:</strong> Relating to private relations among citizens, as opposed to criminal matters.<p><strong>Example:</strong> a civil case</p></li><li><strong>Definition 4:</strong> Secular.</li></ul></div></div>"
+description: Yes, CIVIL is a valid Wordle word. It was the Wordle answer on September
+  29, 2025 (#1563). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 29, 2025 (#1563).
+past_answers:
+- date: '2025-09-29'
+  number: 1563
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - I
+  common:
+  - I
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 94
+neighbours:
+- cavil
+- civic
+- civie
+phonetic: "/ˈsɪv.əl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Having to do with people and government office as opposed to the military
+      or religion.
+    example: She went into civil service because she wanted to help the people.
+  - text: Behaving in a reasonable or polite manner.
+    example: It was very civil of him to stop the argument.
+  - text: Relating to private relations among citizens, as opposed to criminal matters.
+    example: a civil case
+  - text: Secular.
 ---
-

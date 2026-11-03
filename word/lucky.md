@@ -1,7 +1,45 @@
 ---
 layout: word
-title: lucky
+title: Is LUCKY a Wordle Word?
+head_title: 'Is LUCKY a Wordle Word? Yes – Past Answer #812 & Meaning'
 word: lucky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlʌki/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of people) Favoured by luck; fortunate; having good success or good fortune<p><strong>Example:</strong> The downed pilot is very lucky to be alive.</p></li><li><strong>Definition 2:</strong> Producing, or resulting in, good fortune<p><strong>Example:</strong> a lucky cast</p></li></ul></div></div>"
+description: Yes, LUCKY is a valid Wordle word. It was the Wordle answer on September
+  9, 2023 (#812). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on September 9, 2023 (#812).
+past_answers:
+- date: '2023-09-09'
+  number: 812
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- mucky
+- ducky
+- gucky
+- lacky
+- locky
+- lucks
+- sucky
+- yucky
+trap:
+  pattern: _UCKY
+  count: 6
+phonetic: "/ˈlʌki/"
+definitions:
+- pos: adjective
+  defs:
+  - text: "(of people) Favoured by luck; fortunate; having good success or good fortune"
+    example: The downed pilot is very lucky to be alive.
+  - text: Producing, or resulting in, good fortune
+    example: a lucky cast
 ---
-

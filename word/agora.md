@@ -1,7 +1,32 @@
 ---
 layout: word
-title: agora
+title: Is AGORA a Wordle Word?
+head_title: Is AGORA a Wordle Word? Yes – Possible Answer & Meaning
 word: agora
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæ.ɡə.ɹə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A place for gathering.</li><li><strong>Definition 2:</strong> A marketplace, especially in Classical Greece.</li></ul></div></div>"
+description: Yes, AGORA is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+phonetic: "/ˈæ.ɡə.ɹə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A place for gathering.
+  - text: A marketplace, especially in Classical Greece.
 ---
-

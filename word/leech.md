@@ -1,7 +1,51 @@
 ---
 layout: word
-title: leech
+title: Is LEECH a Wordle Word?
+head_title: 'Is LEECH a Wordle Word? Yes – Past Answer #1161 & Meaning'
 word: leech
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /liːtʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An aquatic blood-sucking annelid of class Hirudinea, especially Hirudo medicinalis.</li><li><strong>Definition 2:</strong> A person who derives profit from others in a parasitic fashion.</li><li><strong>Definition 3:</strong> A glass tube designed for drawing blood from damaged tissue by means of a vacuum.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apply a leech medicinally, so that it sucks blood from the patient.</li><li><strong>Definition 2:</strong> To drain (resources) without giving back.<p><strong>Example:</strong> Bert leeched hundreds of files from the BBS, but never uploaded anything in return.</p></li></ul></div></div>"
+description: Yes, LEECH is a valid Wordle word. It was the Wordle answer on August
+  23, 2024 (#1161). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 23, 2024 (#1161).
+past_answers:
+- date: '2024-08-23'
+  number: 1161
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- beech
+- leach
+- keech
+- letch
+- leuch
+- meech
+- reech
+anagrams:
+- leche
+phonetic: "/liːtʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: An aquatic blood-sucking annelid of class Hirudinea, especially Hirudo medicinalis.
+  - text: A person who derives profit from others in a parasitic fashion.
+  - text: A glass tube designed for drawing blood from damaged tissue by means of
+      a vacuum.
+- pos: verb
+  defs:
+  - text: To apply a leech medicinally, so that it sucks blood from the patient.
+  - text: To drain (resources) without giving back.
+    example: Bert leeched hundreds of files from the BBS, but never uploaded anything
+      in return.
 ---
-

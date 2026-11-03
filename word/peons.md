@@ -1,7 +1,48 @@
 ---
 layout: word
-title: peons
+title: Is PEONS a Wordle Word?
+head_title: Is PEONS a Wordle Word? Yes – Valid Guess & Meaning
 word: peons
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A lowly person; a peasant or serf; a labourer who is obliged to do menial work.</li><li><strong>Definition 2:</strong> A person of low rank or importance.</li><li><strong>Definition 3:</strong> A messenger, foot soldier, or native policeman.</li></ul></div></div>"
+description: Yes, PEONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 18
+neighbours:
+- aeons
+- jeons
+- neons
+- peans
+- peens
+- peins
+- peony
+- perns
+- phons
+- pions
+- poons
+anagrams:
+- opens
+- pones
+- snoep
+definitions:
+- pos: noun
+  defs:
+  - text: A lowly person; a peasant or serf; a labourer who is obliged to do menial
+      work.
+  - text: A person of low rank or importance.
+  - text: A messenger, foot soldier, or native policeman.
 ---
-

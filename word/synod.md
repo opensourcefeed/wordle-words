@@ -1,7 +1,37 @@
 ---
 layout: word
-title: synod
+title: Is SYNOD a Wordle Word?
+head_title: Is SYNOD a Wordle Word? Yes – Possible Answer & Meaning
 word: synod
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɪn.əd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ecclesiastic council or meeting to consult on church matters.</li><li><strong>Definition 2:</strong> An administrative division of churches, either the entire denomination, as in the Lutheran Church–Missouri Synod, or a mid-level division (middle judicatory, district) as in the Evangelical Lutheran Church in America</li><li><strong>Definition 3:</strong> An assembly or council having civil authority; a legislative body.</li><li><strong>Definition 4:</strong> A conjunction of two or more of the heavenly bodies.</li></ul></div></div>"
+description: Yes, SYNOD is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- syned
+anagrams:
+- donsy
+- dynos
+phonetic: "/ˈsɪn.əd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An ecclesiastic council or meeting to consult on church matters.
+  - text: An administrative division of churches, either the entire denomination,
+      as in the Lutheran Church–Missouri Synod, or a mid-level division (middle judicatory,
+      district) as in the Evangelical Lutheran Church in America
+  - text: An assembly or council having civil authority; a legislative body.
+  - text: A conjunction of two or more of the heavenly bodies.
 ---
-

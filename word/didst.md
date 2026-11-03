@@ -1,7 +1,85 @@
 ---
 layout: word
-title: didst
+title: Is DIDST a Wordle Word?
+head_title: Is DIDST a Wordle Word? Yes – Valid Guess & Meaning
 word: didst
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈdɪdst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (auxiliary) A syntactic marker.</li><li><strong>Definition 2:</strong> To perform; to execute.<p><strong>Example:</strong> All you ever do is surf the Internet. What will you do this afternoon?</p></li><li><strong>Definition 3:</strong> To cause, make (someone) (do something).</li><li><strong>Definition 4:</strong> To suffice.<p><strong>Example:</strong> it’s not the best broom, but it will have to do;  this will do me, thanks.</p></li><li><strong>Definition 5:</strong> To be reasonable or acceptable.<p><strong>Example:</strong> It simply will not do to have dozens of children running around such a quiet event.</p></li><li><strong>Definition 6:</strong> (ditransitive) To have (as an effect).<p><strong>Example:</strong> The fresh air did him some good.</p></li><li><strong>Definition 7:</strong> To fare, perform (well or poorly).<p><strong>Example:</strong> Our relationship isn't doing very well;  how do you do?</p></li><li><strong>Definition 8:</strong> (chiefly in questions) To have as one's job.<p><strong>Example:</strong> What does Bob do? — He's a plumber.</p></li><li><strong>Definition 9:</strong> To perform the tasks or actions associated with (something).<p><strong>Example:</strong> \"Don't forget to do your report\" means something quite different depending on whether you're a student or a programmer.</p></li><li><strong>Definition 10:</strong> To cook.<p><strong>Example:</strong> I'll just do some eggs.</p></li><li><strong>Definition 11:</strong> To travel in, to tour, to make a circuit of.<p><strong>Example:</strong> Let’s do New York also.</p></li><li><strong>Definition 12:</strong> To treat in a certain way.</li><li><strong>Definition 13:</strong> To work for or on, by way of caring for, looking after, preparing, cleaning, keeping in order, etc.</li><li><strong>Definition 14:</strong> To act or behave in a certain manner; to conduct oneself.</li><li><strong>Definition 15:</strong> To spend (time) in jail. (See also do time)<p><strong>Example:</strong> I did five years for armed robbery.</p></li><li><strong>Definition 16:</strong> To impersonate or depict.<p><strong>Example:</strong> They really laughed when he did Clinton, with a perfect accent and a leer.</p></li><li><strong>Definition 17:</strong> (with 'a' and the name of a person, place, event, etc.) To copy or emulate the actions or behaviour that is associated with the person or thing mentioned.<p><strong>Example:</strong> He did a Henry VIII and got married six times.</p></li><li><strong>Definition 18:</strong> To kill.</li><li><strong>Definition 19:</strong> To deal with for good and all; to finish up; to undo; to ruin; to do for.</li><li><strong>Definition 20:</strong> To punish for a misdemeanor.<p><strong>Example:</strong> He got done for speeding.</p></li><li><strong>Definition 21:</strong> To have sex with. (See also do it)</li><li><strong>Definition 22:</strong> To cheat or swindle.<p><strong>Example:</strong> That guy just did me out of two hundred bucks!</p></li><li><strong>Definition 23:</strong> To convert into a certain form; especially, to translate.<p><strong>Example:</strong> the novel has just been done into English;  I'm going to do this play into a movie</p></li><li><strong>Definition 24:</strong> To finish.</li><li><strong>Definition 25:</strong> To work as a domestic servant (with for).</li><li><strong>Definition 26:</strong> (auxiliary) Used to form the present progressive of verbs.</li><li><strong>Definition 27:</strong> To cash or to advance money for, as a bill or note.</li><li><strong>Definition 28:</strong> (ditransitive) To make or provide.<p><strong>Example:</strong> Could you do me a burger with mayonnaise instead of ketchup?</p></li><li><strong>Definition 29:</strong> To injure (one's own body part).</li><li><strong>Definition 30:</strong> To take drugs.<p><strong>Example:</strong> I do cocaine.</p></li><li><strong>Definition 31:</strong> (in the form be doing [somewhere]) To exist with a purpose or for a reason.<p><strong>Example:</strong> What's that car doing in our swimming pool?</p></li></ul></div></div>"
+description: Yes, DIDST is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - I
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 79
+neighbours:
+- midst
+phonetic: "/ˈdɪdst/"
+definitions:
+- pos: verb
+  defs:
+  - text: "(auxiliary) A syntactic marker."
+  - text: To perform; to execute.
+    example: All you ever do is surf the Internet. What will you do this afternoon?
+  - text: To cause, make (someone) (do something).
+  - text: To suffice.
+    example: it’s not the best broom, but it will have to do;  this will do me, thanks.
+  - text: To be reasonable or acceptable.
+    example: It simply will not do to have dozens of children running around such
+      a quiet event.
+  - text: "(ditransitive) To have (as an effect)."
+    example: The fresh air did him some good.
+  - text: To fare, perform (well or poorly).
+    example: Our relationship isn't doing very well;  how do you do?
+  - text: "(chiefly in questions) To have as one's job."
+    example: What does Bob do? — He's a plumber.
+  - text: To perform the tasks or actions associated with (something).
+    example: '"Don''t forget to do your report" means something quite different depending
+      on whether you''re a student or a programmer.'
+  - text: To cook.
+    example: I'll just do some eggs.
+  - text: To travel in, to tour, to make a circuit of.
+    example: Let’s do New York also.
+  - text: To treat in a certain way.
+  - text: To work for or on, by way of caring for, looking after, preparing, cleaning,
+      keeping in order, etc.
+  - text: To act or behave in a certain manner; to conduct oneself.
+  - text: To spend (time) in jail. (See also do time)
+    example: I did five years for armed robbery.
+  - text: To impersonate or depict.
+    example: They really laughed when he did Clinton, with a perfect accent and a
+      leer.
+  - text: "(with 'a' and the name of a person, place, event, etc.) To copy or emulate
+      the actions or behaviour that is associated with the person or thing mentioned."
+    example: He did a Henry VIII and got married six times.
+  - text: To kill.
+  - text: To deal with for good and all; to finish up; to undo; to ruin; to do for.
+  - text: To punish for a misdemeanor.
+    example: He got done for speeding.
+  - text: To have sex with. (See also do it)
+  - text: To cheat or swindle.
+    example: That guy just did me out of two hundred bucks!
+  - text: To convert into a certain form; especially, to translate.
+    example: the novel has just been done into English;  I'm going to do this play
+      into a movie
+  - text: To finish.
+  - text: To work as a domestic servant (with for).
+  - text: "(auxiliary) Used to form the present progressive of verbs."
+  - text: To cash or to advance money for, as a bill or note.
+  - text: "(ditransitive) To make or provide."
+    example: Could you do me a burger with mayonnaise instead of ketchup?
+  - text: To injure (one's own body part).
+  - text: To take drugs.
+    example: I do cocaine.
+  - text: "(in the form be doing [somewhere]) To exist with a purpose or for a reason."
+    example: What's that car doing in our swimming pool?
 ---
-

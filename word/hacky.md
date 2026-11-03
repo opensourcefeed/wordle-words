@@ -1,7 +1,43 @@
 ---
 layout: word
-title: hacky
+title: Is HACKY a Wordle Word?
+head_title: Is HACKY a Wordle Word? Yes – Valid Guess & Meaning
 word: hacky
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Like a hack; amateurish.</li><li><strong>Definition 2:</strong> Filthy or totally dirty.</li><li><strong>Definition 3:</strong> Using, or characterised by, hacks: poorly designed workarounds.</li><li><strong>Definition 4:</strong> Short and interrupted, broken, jerky; hacking.<p><strong>Example:</strong> A hacky cough. A hacky laugh. A hacky breath. A hacky howl.</p></li></ul></div></div>"
+description: Yes, HACKY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 76
+neighbours:
+- tacky
+- wacky
+- backy
+- cacky
+- hacks
+- hanky
+- jacky
+- lacky
+- packy
+trap:
+  pattern: _ACKY
+  count: 8
+definitions:
+- pos: adjective
+  defs:
+  - text: Like a hack; amateurish.
+  - text: Filthy or totally dirty.
+  - text: 'Using, or characterised by, hacks: poorly designed workarounds.'
+  - text: Short and interrupted, broken, jerky; hacking.
+    example: A hacky cough. A hacky laugh. A hacky breath. A hacky howl.
 ---
-

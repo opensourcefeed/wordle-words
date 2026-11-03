@@ -1,7 +1,49 @@
 ---
 layout: word
-title: fiery
+title: Is FIERY a Wordle Word?
+head_title: 'Is FIERY a Wordle Word? Yes – Past Answer #1673 & Meaning'
 word: fiery
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfaɪəɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to fire.</li><li><strong>Definition 2:</strong> Burning or glowing.</li><li><strong>Definition 3:</strong> Inflammable or easily ignited.</li><li><strong>Definition 4:</strong> Having the colour of fire.</li><li><strong>Definition 5:</strong> Hot or inflamed.</li><li><strong>Definition 6:</strong> Tempestuous or emotionally volatile.<p><strong>Example:</strong> a fiery temper</p></li><li><strong>Definition 7:</strong> Spirited or filled with emotion.</li></ul></div></div>"
+description: Yes, FIERY is a valid Wordle word. It was the Wordle answer on January
+  17, 2026 (#1673). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 17, 2026 (#1673).
+past_answers:
+- date: '2026-01-17'
+  number: 1673
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 23
+neighbours:
+- aiery
+- faery
+- fiere
+- fieri
+- fiers
+- firry
+anagrams:
+- reify
+phonetic: "/ˈfaɪəɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to fire.
+  - text: Burning or glowing.
+  - text: Inflammable or easily ignited.
+  - text: Having the colour of fire.
+  - text: Hot or inflamed.
+  - text: Tempestuous or emotionally volatile.
+    example: a fiery temper
+  - text: Spirited or filled with emotion.
 ---
-

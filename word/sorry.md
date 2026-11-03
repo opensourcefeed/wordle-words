@@ -1,7 +1,55 @@
 ---
 layout: word
-title: sorry
+title: Is SORRY a Wordle Word?
+head_title: 'Is SORRY a Wordle Word? Yes – Past Answer #1379 & Meaning'
 word: sorry
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈsɔɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The act of saying sorry; an apology.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of a person) Regretful for an action; grieved or saddened, especially by the loss of something or someone.<p><strong>Example:</strong> I am sorry I stepped on your toes. It was an accident.</p></li><li><strong>Definition 2:</strong> Poor, pitifully sad or regrettable.<p><strong>Example:</strong> The storm left his garden in a sorry state.</p></li><li><strong>Definition 3:</strong> Pathetic and inferior to the point of causing others disgust.<p><strong>Example:</strong> Bob is a sorry excuse for a football player.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Expresses regret, remorse, or sorrow.<p><strong>Example:</strong> Sorry! I didn't see that you were on the phone.</p></li><li><strong>Definition 2:</strong> Used as a request for someone to repeat something not heard or understood clearly.<p><strong>Example:</strong> Sorry? What was that? The phone cut out.</p></li><li><strong>Definition 3:</strong> Used to correct oneself in speech.<p><strong>Example:</strong> There are four — sorry, five — branches of the store locally.</p></li></ul></div></div>"
+description: Yes, SORRY is a valid Wordle word. It was the Wordle answer on March
+  29, 2025 (#1379). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 29, 2025 (#1379).
+past_answers:
+- date: '2025-03-29'
+  number: 1379
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - O
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- lorry
+- worry
+- serry
+- sorra
+phonetic: "/ˈsɔɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: The act of saying sorry; an apology.
+- pos: adjective
+  defs:
+  - text: "(of a person) Regretful for an action; grieved or saddened, especially
+      by the loss of something or someone."
+    example: I am sorry I stepped on your toes. It was an accident.
+  - text: Poor, pitifully sad or regrettable.
+    example: The storm left his garden in a sorry state.
+  - text: Pathetic and inferior to the point of causing others disgust.
+    example: Bob is a sorry excuse for a football player.
+- pos: interjection
+  defs:
+  - text: Expresses regret, remorse, or sorrow.
+    example: Sorry! I didn't see that you were on the phone.
+  - text: Used as a request for someone to repeat something not heard or understood
+      clearly.
+    example: Sorry? What was that? The phone cut out.
+  - text: Used to correct oneself in speech.
+    example: There are four — sorry, five — branches of the store locally.
 ---
-

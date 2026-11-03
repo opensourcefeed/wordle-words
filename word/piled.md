@@ -1,7 +1,70 @@
 ---
 layout: word
-title: piled
+title: Is PILED a Wordle Word?
+head_title: Is PILED a Wordle Word? Yes – Valid Guess & Meaning
 word: piled
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /paɪld/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (often used with the preposition \"up\") To lay or throw into a pile or heap; to heap up; to collect into a mass; to accumulate<p><strong>Example:</strong> They were piling up wood on the wheelbarrow.</p></li><li><strong>Definition 2:</strong> To cover with heaps; or in great abundance; to fill or overfill; to load.<p><strong>Example:</strong> We piled the camel with our loads.</p></li><li><strong>Definition 3:</strong> To add something to a great number.</li><li><strong>Definition 4:</strong> (of vehicles) To create a hold-up.</li><li><strong>Definition 5:</strong> To place (guns, muskets, etc.) together in threes so that they can stand upright, supporting each other.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To drive piles into; to fill with piles; to strengthen with piles.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give a pile to; to make shaggy.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (iron manufacturing) Formed from a pile or fagot.<p><strong>Example:</strong> piled iron</p></li><li><strong>Definition 2:</strong> Having a pile or point; pointed.</li><li><strong>Definition 3:</strong> Having a pile or nap.</li></ul></div></div>"
+description: Yes, PILED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- ailed
+- biled
+- filed
+- oiled
+- paled
+- piked
+- pilea
+- pilei
+- piler
+- piles
+- piley
+- pined
+anagrams:
+- plied
+- lepid
+trap:
+  pattern: _ILED
+  count: 9
+phonetic: "/paɪld/"
+definitions:
+- pos: verb
+  defs:
+  - text: (often used with the preposition "up") To lay or throw into a pile or heap;
+      to heap up; to collect into a mass; to accumulate
+    example: They were piling up wood on the wheelbarrow.
+  - text: To cover with heaps; or in great abundance; to fill or overfill; to load.
+    example: We piled the camel with our loads.
+  - text: To add something to a great number.
+  - text: "(of vehicles) To create a hold-up."
+  - text: To place (guns, muskets, etc.) together in threes so that they can stand
+      upright, supporting each other.
+- pos: verb
+  defs:
+  - text: To drive piles into; to fill with piles; to strengthen with piles.
+- pos: verb
+  defs:
+  - text: To give a pile to; to make shaggy.
+- pos: adjective
+  defs:
+  - text: "(iron manufacturing) Formed from a pile or fagot."
+    example: piled iron
+  - text: Having a pile or point; pointed.
+  - text: Having a pile or nap.
 ---
-

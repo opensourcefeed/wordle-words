@@ -1,7 +1,53 @@
 ---
 layout: word
-title: flirt
+title: Is FLIRT a Wordle Word?
+head_title: 'Is FLIRT a Wordle Word? Yes – Past Answer #588 & Meaning'
 word: flirt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /flɜːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden jerk; a quick throw or cast; a darting motion</li><li><strong>Definition 2:</strong> Someone who flirts a lot or enjoys flirting; a flirtatious person.</li><li><strong>Definition 3:</strong> An act of flirting.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw (something) with a jerk or sudden movement; to fling.<p><strong>Example:</strong> They flirt water in each other's faces.</p></li><li><strong>Definition 2:</strong> To jeer at; to mock.</li><li><strong>Definition 3:</strong> To dart about; to move with quick, jerky motions.</li><li><strong>Definition 4:</strong> To blurt out.</li><li><strong>Definition 5:</strong> To play at courtship; to talk with teasing affection, to insinuate sexual attraction in a playful (especially conversational) way.</li><li><strong>Definition 6:</strong> To experiment, or tentatively engage, with; to become involved in passing with.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Pert; wanton</li></ul></div></div>"
+description: Yes, FLIRT is a valid Wordle word. It was the Wordle answer on January
+  28, 2023 (#588). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 28, 2023 (#588).
+past_answers:
+- date: '2023-01-28'
+  number: 588
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- flint
+- flirs
+- flitt
+phonetic: "/flɜːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden jerk; a quick throw or cast; a darting motion
+  - text: Someone who flirts a lot or enjoys flirting; a flirtatious person.
+  - text: An act of flirting.
+- pos: verb
+  defs:
+  - text: To throw (something) with a jerk or sudden movement; to fling.
+    example: They flirt water in each other's faces.
+  - text: To jeer at; to mock.
+  - text: To dart about; to move with quick, jerky motions.
+  - text: To blurt out.
+  - text: To play at courtship; to talk with teasing affection, to insinuate sexual
+      attraction in a playful (especially conversational) way.
+  - text: To experiment, or tentatively engage, with; to become involved in passing
+      with.
+- pos: adjective
+  defs:
+  - text: Pert; wanton
 ---
-

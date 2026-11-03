@@ -1,7 +1,73 @@
 ---
 layout: word
-title: found
+title: Is FOUND a Wordle Word?
+head_title: 'Is FOUND a Wordle Word? Yes – Past Answer #282 & Meaning'
 word: found
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /faʊnd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To encounter or discover by accident; to happen upon.</li><li><strong>Definition 2:</strong> To encounter or discover something being searched for; to locate.<p><strong>Example:</strong> I found my car keys. They were under the couch.</p></li><li><strong>Definition 3:</strong> (ditransitive) To discover by study or experiment direct to an object or end.<p><strong>Example:</strong> Water is found to be a compound substance.</p></li><li><strong>Definition 4:</strong> To gain, as the object of desire or effort.<p><strong>Example:</strong> to find leisure; to find means</p></li><li><strong>Definition 5:</strong> To attain to; to arrive at; to acquire.<p><strong>Example:</strong> Looks like he found a new vehicle for himself!</p></li><li><strong>Definition 6:</strong> To point out.<p><strong>Example:</strong> He kept finding faults with my work.</p></li><li><strong>Definition 7:</strong> (ditransitive) To decide that, to discover that, to form the opinion that.<p><strong>Example:</strong> I find your argument unsatisfactory.</p></li><li><strong>Definition 8:</strong> To arrive at, as a conclusion; to determine as true; to establish.<p><strong>Example:</strong> to find a verdict; to find a true bill (of indictment) against an accused person</p></li><li><strong>Definition 9:</strong> To supply; to furnish.<p><strong>Example:</strong> to find food for workmen</p></li><li><strong>Definition 10:</strong> To provide for<p><strong>Example:</strong> He finds his nephew in money.</p></li><li><strong>Definition 11:</strong> To determine or judge.<p><strong>Example:</strong> The jury finds for the defendant.</p></li><li><strong>Definition 12:</strong> To discover game.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Food and lodging; board.</li></ul></div></div>"
+description: Yes, FOUND is a valid Wordle word. It was the Wordle answer on March
+  28, 2022 (#282). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 28, 2022 (#282).
+past_answers:
+- date: '2022-03-28'
+  number: 282
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- bound
+- hound
+- mound
+- pound
+- round
+- sound
+- wound
+- fount
+- lound
+anagrams:
+- fondu
+- fundo
+trap:
+  pattern: _OUND
+  count: 9
+phonetic: "/faʊnd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To encounter or discover by accident; to happen upon.
+  - text: To encounter or discover something being searched for; to locate.
+    example: I found my car keys. They were under the couch.
+  - text: "(ditransitive) To discover by study or experiment direct to an object or
+      end."
+    example: Water is found to be a compound substance.
+  - text: To gain, as the object of desire or effort.
+    example: to find leisure; to find means
+  - text: To attain to; to arrive at; to acquire.
+    example: Looks like he found a new vehicle for himself!
+  - text: To point out.
+    example: He kept finding faults with my work.
+  - text: "(ditransitive) To decide that, to discover that, to form the opinion that."
+    example: I find your argument unsatisfactory.
+  - text: To arrive at, as a conclusion; to determine as true; to establish.
+    example: to find a verdict; to find a true bill (of indictment) against an accused
+      person
+  - text: To supply; to furnish.
+    example: to find food for workmen
+  - text: To provide for
+    example: He finds his nephew in money.
+  - text: To determine or judge.
+    example: The jury finds for the defendant.
+  - text: To discover game.
+- pos: noun
+  defs:
+  - text: Food and lodging; board.
 ---
-

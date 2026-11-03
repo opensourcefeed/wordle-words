@@ -1,7 +1,29 @@
 ---
 layout: word
-title: byway
+title: Is BYWAY a Wordle Word?
+head_title: Is BYWAY a Wordle Word? Yes – Valid Guess & Meaning
 word: byway
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbaɪweɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A road that is not frequently travelled</li><li><strong>Definition 2:</strong> (by extension) an unpopular or arcane field of study</li></ul></div></div>"
+description: Yes, BYWAY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - Y
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 96
+phonetic: "/ˈbaɪweɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A road that is not frequently travelled
+  - text: "(by extension) an unpopular or arcane field of study"
 ---
-

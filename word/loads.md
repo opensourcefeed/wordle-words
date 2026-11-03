@@ -1,7 +1,123 @@
 ---
 layout: word
-title: loads
+title: Is LOADS a Wordle Word?
+head_title: Is LOADS a Wordle Word? Yes – Valid Guess & Meaning
 word: loads
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A burden; a weight to be carried.<p><strong>Example:</strong> I struggled up the hill with the heavy load in my rucksack.</p></li><li><strong>Definition 2:</strong> A worry or concern to be endured, especially in the phrase a load off one's mind.</li><li><strong>Definition 3:</strong> A certain number of articles or quantity of material that can be transported or processed at one time.<p><strong>Example:</strong> She put another load of clothes in the washing machine.</p></li><li><strong>Definition 4:</strong> A quantity of washing put into a washing machine for a wash cycle.<p><strong>Example:</strong> I put a load on before we left.</p></li><li><strong>Definition 5:</strong> (in combination) Used to form nouns that indicate a large quantity, often corresponding to the capacity of a vehicle</li><li><strong>Definition 6:</strong> (often in the plural) A large number or amount.<p><strong>Example:</strong> I got a load of emails about that.</p></li><li><strong>Definition 7:</strong> The volume of work required to be performed.<p><strong>Example:</strong> Will our web servers be able to cope with that load?</p></li><li><strong>Definition 8:</strong> The force exerted on a structural component such as a beam, girder, cable etc.<p><strong>Example:</strong> Each of the cross-members must withstand a tensile load of 1,000 newtons.</p></li><li><strong>Definition 9:</strong> The electrical current or power delivered by a device.<p><strong>Example:</strong> I'm worried that the load on that transformer will be too high.</p></li><li><strong>Definition 10:</strong> A resistive force encountered by a prime mover when performing work.</li><li><strong>Definition 11:</strong> Any component that draws current or power from an electrical circuit.<p><strong>Example:</strong> Connect a second 24-ohm load across the power supply's output terminals.</p></li><li><strong>Definition 12:</strong> A unit of measure for various quantities.</li><li><strong>Definition 13:</strong> The viral load</li><li><strong>Definition 14:</strong> A very small explosive inserted as a gag into a cigarette or cigar.</li><li><strong>Definition 15:</strong> The charge of powder for a firearm.</li><li><strong>Definition 16:</strong> Weight or violence of blows.</li><li><strong>Definition 17:</strong> The contents (e.g. semen) of an ejaculation.</li><li><strong>Definition 18:</strong> Nonsense; rubbish.<p><strong>Example:</strong> What a load!</p></li><li><strong>Definition 19:</strong> The process of loading something, i.e. transferring it into memory or over a network, etc.<p><strong>Example:</strong> All of those uncompressed images are going to slow down the page load.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put a load on or in (a means of conveyance or a place of storage).<p><strong>Example:</strong> The dock workers refused to load the ship.</p></li><li><strong>Definition 2:</strong> To place in or on a conveyance or a place of storage.<p><strong>Example:</strong> He loaded his stuff into his storage locker.</p></li><li><strong>Definition 3:</strong> To put a load on something.<p><strong>Example:</strong> The truck was supposed to leave at dawn, but in fact we spent all morning loading.</p></li><li><strong>Definition 4:</strong> To receive a load.<p><strong>Example:</strong> The truck is designed to load easily.</p></li><li><strong>Definition 5:</strong> To be placed into storage or conveyance.<p><strong>Example:</strong> The containers load quickly and easily.</p></li><li><strong>Definition 6:</strong> To fill (a firearm or artillery) with munition.<p><strong>Example:</strong> I pulled the trigger, but nothing happened. I had forgotten to load the gun.</p></li><li><strong>Definition 7:</strong> To insert (an item or items) into an apparatus so as to ready it for operation, such as a reel of film into a camera, sheets of paper into a printer etc.<p><strong>Example:</strong> Now that you've loaded the camera [with film], you're ready to start shooting.</p></li><li><strong>Definition 8:</strong> To fill (an apparatus) with raw material.<p><strong>Example:</strong> The workers loaded the blast furnace with coke and ore.</p></li><li><strong>Definition 9:</strong> To be put into use in an apparatus.<p><strong>Example:</strong> The cartridge was designed to load easily.</p></li><li><strong>Definition 10:</strong> To read (data or a program) from a storage medium into computer memory.<p><strong>Example:</strong> Click OK to load the selected data.</p></li><li><strong>Definition 11:</strong> To transfer from a storage medium into computer memory.<p><strong>Example:</strong> This program takes an age to load.</p></li><li><strong>Definition 12:</strong> To put runners on first, second and third bases<p><strong>Example:</strong> He walks to load the bases.</p></li><li><strong>Definition 13:</strong> To tamper with so as to produce a biased outcome.<p><strong>Example:</strong> The wording of the ballot paper loaded the vote in favour of the Conservative candidate.</p></li><li><strong>Definition 14:</strong> To ask or adapt a question so that it will be more likely to be answered in a certain way.</li><li><strong>Definition 15:</strong> To encumber with something negative, to place as an encumbrance.<p><strong>Example:</strong> The new owners had loaded the company with debt.</p></li><li><strong>Definition 16:</strong> To provide in abundance.<p><strong>Example:</strong> He loaded carbs into his system before the marathon.</p></li><li><strong>Definition 17:</strong> To weight (a cane, whip, etc.) with lead or similar.</li><li><strong>Definition 18:</strong> To adulterate or drug.<p><strong>Example:</strong> to load wine</p></li><li><strong>Definition 19:</strong> To magnetize.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Lots, much, plenty, a great deal.</li></ul></div></div>"
+description: Yes, LOADS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- goads
+- leads
+- loafs
+- loams
+- loans
+- loids
+- lords
+- roads
+- toads
+- woads
+anagrams:
+- alods
+- odals
+definitions:
+- pos: noun
+  defs:
+  - text: A burden; a weight to be carried.
+    example: I struggled up the hill with the heavy load in my rucksack.
+  - text: A worry or concern to be endured, especially in the phrase a load off one's
+      mind.
+  - text: A certain number of articles or quantity of material that can be transported
+      or processed at one time.
+    example: She put another load of clothes in the washing machine.
+  - text: A quantity of washing put into a washing machine for a wash cycle.
+    example: I put a load on before we left.
+  - text: "(in combination) Used to form nouns that indicate a large quantity, often
+      corresponding to the capacity of a vehicle"
+  - text: "(often in the plural) A large number or amount."
+    example: I got a load of emails about that.
+  - text: The volume of work required to be performed.
+    example: Will our web servers be able to cope with that load?
+  - text: The force exerted on a structural component such as a beam, girder, cable
+      etc.
+    example: Each of the cross-members must withstand a tensile load of 1,000 newtons.
+  - text: The electrical current or power delivered by a device.
+    example: I'm worried that the load on that transformer will be too high.
+  - text: A resistive force encountered by a prime mover when performing work.
+  - text: Any component that draws current or power from an electrical circuit.
+    example: Connect a second 24-ohm load across the power supply's output terminals.
+  - text: A unit of measure for various quantities.
+  - text: The viral load
+  - text: A very small explosive inserted as a gag into a cigarette or cigar.
+  - text: The charge of powder for a firearm.
+  - text: Weight or violence of blows.
+  - text: The contents (e.g. semen) of an ejaculation.
+  - text: Nonsense; rubbish.
+    example: What a load!
+  - text: The process of loading something, i.e. transferring it into memory or over
+      a network, etc.
+    example: All of those uncompressed images are going to slow down the page load.
+- pos: verb
+  defs:
+  - text: To put a load on or in (a means of conveyance or a place of storage).
+    example: The dock workers refused to load the ship.
+  - text: To place in or on a conveyance or a place of storage.
+    example: He loaded his stuff into his storage locker.
+  - text: To put a load on something.
+    example: The truck was supposed to leave at dawn, but in fact we spent all morning
+      loading.
+  - text: To receive a load.
+    example: The truck is designed to load easily.
+  - text: To be placed into storage or conveyance.
+    example: The containers load quickly and easily.
+  - text: To fill (a firearm or artillery) with munition.
+    example: I pulled the trigger, but nothing happened. I had forgotten to load the
+      gun.
+  - text: To insert (an item or items) into an apparatus so as to ready it for operation,
+      such as a reel of film into a camera, sheets of paper into a printer etc.
+    example: Now that you've loaded the camera [with film], you're ready to start
+      shooting.
+  - text: To fill (an apparatus) with raw material.
+    example: The workers loaded the blast furnace with coke and ore.
+  - text: To be put into use in an apparatus.
+    example: The cartridge was designed to load easily.
+  - text: To read (data or a program) from a storage medium into computer memory.
+    example: Click OK to load the selected data.
+  - text: To transfer from a storage medium into computer memory.
+    example: This program takes an age to load.
+  - text: To put runners on first, second and third bases
+    example: He walks to load the bases.
+  - text: To tamper with so as to produce a biased outcome.
+    example: The wording of the ballot paper loaded the vote in favour of the Conservative
+      candidate.
+  - text: To ask or adapt a question so that it will be more likely to be answered
+      in a certain way.
+  - text: To encumber with something negative, to place as an encumbrance.
+    example: The new owners had loaded the company with debt.
+  - text: To provide in abundance.
+    example: He loaded carbs into his system before the marathon.
+  - text: To weight (a cane, whip, etc.) with lead or similar.
+  - text: To adulterate or drug.
+    example: to load wine
+  - text: To magnetize.
+- pos: adverb
+  defs:
+  - text: Lots, much, plenty, a great deal.
 ---
-

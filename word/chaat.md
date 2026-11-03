@@ -1,7 +1,37 @@
 ---
 layout: word
-title: chaat
+title: Is CHAAT a Wordle Word?
+head_title: Is CHAAT a Wordle Word? Yes – Valid Guess & Meaning
 word: chaat
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /t͡ʃɑːt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any savory snack, sold from a roadside stall in India, or served as a starter in an Indian restaurant</li></ul></div></div>"
+description: Yes, CHAAT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - A
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 73
+neighbours:
+- chant
+- chart
+- cheat
+- chaap
+- chaft
+- chapt
+phonetic: "/t͡ʃɑːt/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any savory snack, sold from a roadside stall in India, or served as a starter
+      in an Indian restaurant
 ---
-

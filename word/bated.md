@@ -1,7 +1,70 @@
 ---
 layout: word
-title: bated
+title: Is BATED a Wordle Word?
+head_title: Is BATED a Wordle Word? Yes – Valid Guess & Meaning
 word: bated
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbeɪtɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reduce the force of something; to abate.</li><li><strong>Definition 2:</strong> To restrain, usually with the sense of being in anticipation</li><li><strong>Definition 3:</strong> (sometimes figurative) To cut off, remove, take away.</li><li><strong>Definition 4:</strong> To leave out, except, bar.</li><li><strong>Definition 5:</strong> To waste away.</li><li><strong>Definition 6:</strong> To deprive of.</li><li><strong>Definition 7:</strong> To lessen by retrenching, deducting, or reducing; to abate; to beat down; to lower.</li><li><strong>Definition 8:</strong> To allow by way of abatement or deduction.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To contend or strive with blows or arguments.</li><li><strong>Definition 2:</strong> Of a falcon: To flap the wings vigorously; to bait.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To soak leather so as to remove chemicals used in tanning; to steep in bate.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To masturbate.<p><strong>Example:</strong> I could go out and take a walk in the park, but I'd rather stay home and bate all day.</p></li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Reduced; lowered; restrained</li></ul></div></div>"
+description: Yes, BATED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- baaed
+- baked
+- baled
+- baned
+- bared
+- based
+- bates
+- bayed
+- beted
+- dated
+- fated
+- gated
+trap:
+  pattern: _ATED
+  count: 10
+phonetic: "/ˈbeɪtɪd/"
+definitions:
+- pos: verb
+  defs:
+  - text: To reduce the force of something; to abate.
+  - text: To restrain, usually with the sense of being in anticipation
+  - text: "(sometimes figurative) To cut off, remove, take away."
+  - text: To leave out, except, bar.
+  - text: To waste away.
+  - text: To deprive of.
+  - text: To lessen by retrenching, deducting, or reducing; to abate; to beat down;
+      to lower.
+  - text: To allow by way of abatement or deduction.
+- pos: verb
+  defs:
+  - text: To contend or strive with blows or arguments.
+  - text: 'Of a falcon: To flap the wings vigorously; to bait.'
+- pos: verb
+  defs:
+  - text: To soak leather so as to remove chemicals used in tanning; to steep in bate.
+- pos: verb
+  defs:
+  - text: To masturbate.
+    example: I could go out and take a walk in the park, but I'd rather stay home
+      and bate all day.
+- pos: adjective
+  defs:
+  - text: Reduced; lowered; restrained
 ---
-

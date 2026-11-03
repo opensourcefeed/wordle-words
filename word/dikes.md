@@ -1,7 +1,52 @@
 ---
 layout: word
-title: dikes
+title: Is DIKES a Wordle Word?
+head_title: Is DIKES a Wordle Word? Yes – Valid Guess & Meaning
 word: dikes
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A well-dressed man.</li><li><strong>Definition 2:</strong> Formalwear or other fashionable dress.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually derogatory) A lesbian, particularly one with masculine or butch traits or behavior.</li></ul></div></div>"
+description: Yes, DIKES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- bikes
+- dekes
+- dices
+- dikas
+- diked
+- diker
+- dikey
+- dimes
+- dines
+- dites
+- dives
+- dukes
+anagrams:
+- skied
+trap:
+  pattern: _IKES
+  count: 11
+definitions:
+- pos: noun
+  defs:
+  - text: A well-dressed man.
+  - text: Formalwear or other fashionable dress.
+- pos: noun
+  defs:
+  - text: "(usually derogatory) A lesbian, particularly one with masculine or butch
+      traits or behavior."
 ---
-

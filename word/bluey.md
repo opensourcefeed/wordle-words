@@ -1,7 +1,49 @@
 ---
 layout: word
-title: bluey
+title: Is BLUEY a Wordle Word?
+head_title: Is BLUEY a Wordle Word? Yes – Valid Guess & Meaning
 word: bluey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The metal lead.</li><li><strong>Definition 2:</strong> A bushman's blanket.</li><li><strong>Definition 3:</strong> A collection of clothes and other belongings rolled up into a bundle for carrying; a swag.</li><li><strong>Definition 4:</strong> A blue cattle dog, especially a blue heeler.</li><li><strong>Definition 5:</strong> A blue singlet, especially one from the Bonds clothing label.</li><li><strong>Definition 6:</strong> A bluebottle.</li><li><strong>Definition 7:</strong> A disposable underpad.</li><li><strong>Definition 8:</strong> A blue film.</li><li><strong>Definition 9:</strong> A terminology from WW1 for a person with red hair.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Having a colour similar to blue.</li></ul></div></div>"
+description: Yes, BLUEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- bluer
+- bludy
+- blued
+- blues
+- bluet
+- cluey
+- fluey
+- gluey
+definitions:
+- pos: noun
+  defs:
+  - text: The metal lead.
+  - text: A bushman's blanket.
+  - text: A collection of clothes and other belongings rolled up into a bundle for
+      carrying; a swag.
+  - text: A blue cattle dog, especially a blue heeler.
+  - text: A blue singlet, especially one from the Bonds clothing label.
+  - text: A bluebottle.
+  - text: A disposable underpad.
+  - text: A blue film.
+  - text: A terminology from WW1 for a person with red hair.
+- pos: adjective
+  defs:
+  - text: Having a colour similar to blue.
 ---
-

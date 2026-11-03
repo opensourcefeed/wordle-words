@@ -1,7 +1,36 @@
 ---
 layout: word
-title: dynos
+title: Is DYNOS a Wordle Word?
+head_title: Is DYNOS a Wordle Word? Yes – Valid Guess & Meaning
 word: dynos
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A dynamic climbing move or jump to reach a hold that cannot otherwise be reached.</li><li><strong>Definition 2:</strong> A dynamometer.</li></ul></div></div>"
+description: Yes, DYNOS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- dinos
+- dynes
+- gynos
+anagrams:
+- synod
+- donsy
+definitions:
+- pos: noun
+  defs:
+  - text: A dynamic climbing move or jump to reach a hold that cannot otherwise be
+      reached.
+  - text: A dynamometer.
 ---
-

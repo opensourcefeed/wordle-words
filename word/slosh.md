@@ -1,7 +1,56 @@
 ---
 layout: word
-title: slosh
+title: Is SLOSH a Wordle Word?
+head_title: 'Is SLOSH a Wordle Word? Yes – Past Answer #276 & Meaning'
 word: slosh
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A quantity of a liquid; more than a splash.<p><strong>Example:</strong> We added a slosh of white wine to the sauce.</p></li><li><strong>Definition 2:</strong> A sloshing sound or motion.</li><li><strong>Definition 3:</strong> Slush.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (of a liquid) To shift chaotically; to splash noisily.<p><strong>Example:</strong> The water in his bottle sloshed back and forth as he ran.</p></li><li><strong>Definition 2:</strong> (of a liquid) To cause to slosh<p><strong>Example:</strong> The boy sloshed water over the edge of the bath.</p></li><li><strong>Definition 3:</strong> To make a sloshing sound.<p><strong>Example:</strong> They were so completely soaked that they sloshed when he walked.</p></li><li><strong>Definition 4:</strong> (of a liquid) To pour noisily, sloppily or in large amounts<p><strong>Example:</strong> He really sloshed on the sauce- they were a bit strong for my taste.</p></li><li><strong>Definition 5:</strong> To move noisily through water or other liquid.<p><strong>Example:</strong> The streets were flooded, but they still managed to slosh their way to school.</p></li><li><strong>Definition 6:</strong> To punch (someone).</li></ul></div></div>"
+description: Yes, SLOSH is a valid Wordle word. It was the Wordle answer on March
+  22, 2022 (#276). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 22, 2022 (#276).
+past_answers:
+- date: '2022-03-22'
+  number: 276
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 78
+neighbours:
+- slash
+- sloth
+- slush
+- flosh
+- skosh
+- slish
+- sposh
+definitions:
+- pos: noun
+  defs:
+  - text: A quantity of a liquid; more than a splash.
+    example: We added a slosh of white wine to the sauce.
+  - text: A sloshing sound or motion.
+  - text: Slush.
+- pos: verb
+  defs:
+  - text: "(of a liquid) To shift chaotically; to splash noisily."
+    example: The water in his bottle sloshed back and forth as he ran.
+  - text: "(of a liquid) To cause to slosh"
+    example: The boy sloshed water over the edge of the bath.
+  - text: To make a sloshing sound.
+    example: They were so completely soaked that they sloshed when he walked.
+  - text: "(of a liquid) To pour noisily, sloppily or in large amounts"
+    example: He really sloshed on the sauce- they were a bit strong for my taste.
+  - text: To move noisily through water or other liquid.
+    example: The streets were flooded, but they still managed to slosh their way to
+      school.
+  - text: To punch (someone).
 ---
-

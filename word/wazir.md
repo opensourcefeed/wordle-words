@@ -1,7 +1,35 @@
 ---
 layout: word
-title: wazir
+title: Is WAZIR a Wordle Word?
+head_title: Is WAZIR a Wordle Word? Yes – Valid Guess & Meaning
 word: wazir
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A high-ranking official or minister in an Islamic government, especially in the Ottoman Empire.</li><li><strong>Definition 2:</strong> Vicegerent, viceroy</li><li><strong>Definition 3:</strong> A fairy chess piece that can only be moved one space up, down, left or right.</li></ul></div></div>"
+description: Yes, WAZIR is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - R
+  rare:
+  - Z
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- nazir
+definitions:
+- pos: noun
+  defs:
+  - text: A high-ranking official or minister in an Islamic government, especially
+      in the Ottoman Empire.
+  - text: Vicegerent, viceroy
+  - text: A fairy chess piece that can only be moved one space up, down, left or right.
 ---
-

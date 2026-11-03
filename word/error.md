@@ -1,7 +1,51 @@
 ---
 layout: word
-title: error
+title: Is ERROR a Wordle Word?
+head_title: 'Is ERROR a Wordle Word? Yes – Past Answer #71 & Meaning'
 word: error
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛɹə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The state, quality, or condition of being wrong.</li><li><strong>Definition 2:</strong> A mistake; an accidental wrong action or a false statement not made deliberately.</li><li><strong>Definition 3:</strong> Sin; transgression.</li><li><strong>Definition 4:</strong> A failure to complete a task, usually involving a premature termination.</li><li><strong>Definition 5:</strong> The difference between a measured or calculated value and a true one.</li><li><strong>Definition 6:</strong> A play which is scored as having been made incorrectly.</li><li><strong>Definition 7:</strong> One or more mistakes in a trial that could be grounds for review of the judgement.</li><li><strong>Definition 8:</strong> Any alteration in the DNA chemical structure occurring during DNA replication, recombination or repairing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To function improperly due to an error, especially accompanied by error message.<p><strong>Example:</strong> Remove that line of code and the script should stop erroring there.</p></li><li><strong>Definition 2:</strong> To show or contain an error or fault.<p><strong>Example:</strong> The block transmission errored near the start and could not be received.</p></li><li><strong>Definition 3:</strong> To err.</li></ul></div></div>"
+description: Yes, ERROR is a valid Wordle word. It was the Wordle answer on August
+  29, 2021 (#71). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 29, 2021 (#71).
+past_answers:
+- date: '2021-08-29'
+  number: 71
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 3
+  repeated:
+  - R
+  common:
+  - E
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 63
+phonetic: "/ˈɛɹə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: The state, quality, or condition of being wrong.
+  - text: A mistake; an accidental wrong action or a false statement not made deliberately.
+  - text: Sin; transgression.
+  - text: A failure to complete a task, usually involving a premature termination.
+  - text: The difference between a measured or calculated value and a true one.
+  - text: A play which is scored as having been made incorrectly.
+  - text: One or more mistakes in a trial that could be grounds for review of the
+      judgement.
+  - text: Any alteration in the DNA chemical structure occurring during DNA replication,
+      recombination or repairing.
+- pos: verb
+  defs:
+  - text: To function improperly due to an error, especially accompanied by error
+      message.
+    example: Remove that line of code and the script should stop erroring there.
+  - text: To show or contain an error or fault.
+    example: The block transmission errored near the start and could not be received.
+  - text: To err.
 ---
-

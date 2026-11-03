@@ -1,7 +1,44 @@
 ---
 layout: word
-title: puter
+title: Is PUTER a Wordle Word?
+head_title: Is PUTER a Wordle Word? Yes – Valid Guess & Meaning
 word: puter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A computer.</li></ul></div></div>"
+description: Yes, PUTER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- outer
+- purer
+- cuter
+- luter
+- muter
+- pater
+- peter
+- pucer
+- puker
+- puler
+anagrams:
+- erupt
+- reput
+- upter
+definitions:
+- pos: noun
+  defs:
+  - text: A computer.
 ---
-

@@ -1,7 +1,72 @@
 ---
 layout: word
-title: chime
+title: Is CHIME a Wordle Word?
+head_title: 'Is CHIME a Wordle Word? Yes – Past Answer #839 & Meaning'
 word: chime
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtʃaɪm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A musical instrument producing a sound when struck, similar to a bell (e.g. a tubular metal bar) or actually a bell. Often used in the plural to refer to the set: the chimes.<p><strong>Example:</strong> Hugo was a chime player in the school orchestra.</p></li><li><strong>Definition 2:</strong> An individual ringing component of such a set.<p><strong>Example:</strong> Peter removed the C♯ chime from its mounting so that he could get at the dust that had accumulated underneath.</p></li><li><strong>Definition 3:</strong> A small bell or other ringing or tone-making device as a component of some other device.<p><strong>Example:</strong> The professor had stuffed a wad of gum into the chime of his doorbell so that he wouldn't be bothered.</p></li><li><strong>Definition 4:</strong> The sound of such an instrument or device.<p><strong>Example:</strong> The copier gave a chime to indicate that it had finished printing.</p></li><li><strong>Definition 5:</strong> A small hammer or other device used to strike a bell.<p><strong>Example:</strong> Strike the bell with the brass chime hanging on the chain next to it.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make the sound of a chime.<p><strong>Example:</strong> I got up for lunch as soon as the wall clock began chiming noon.</p></li><li><strong>Definition 2:</strong> To cause to sound in harmony; to play a tune, as upon a set of bells; to move or strike in harmony.</li><li><strong>Definition 3:</strong> To utter harmoniously; to recite rhythmically.</li><li><strong>Definition 4:</strong> To agree; to correspond.<p><strong>Example:</strong> The other lab's results chimed with mine, so I knew we were on the right track with the research.</p></li><li><strong>Definition 5:</strong> To make a rude correspondence of sounds; to jingle, as in rhyming.</li></ul></div></div>"
+description: Yes, CHIME is a valid Wordle word. It was the Wordle answer on October
+  6, 2023 (#839). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on October 6, 2023 (#839).
+past_answers:
+- date: '2023-10-06'
+  number: 839
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 45
+neighbours:
+- chide
+- crime
+- chile
+- chimb
+- chimo
+- chimp
+- chine
+- chive
+- chyme
+- clime
+- rhime
+anagrams:
+- hemic
+- miche
+phonetic: "/ˈtʃaɪm/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'A musical instrument producing a sound when struck, similar to a bell (e.g.
+      a tubular metal bar) or actually a bell. Often used in the plural to refer to
+      the set: the chimes.'
+    example: Hugo was a chime player in the school orchestra.
+  - text: An individual ringing component of such a set.
+    example: Peter removed the C♯ chime from its mounting so that he could get at
+      the dust that had accumulated underneath.
+  - text: A small bell or other ringing or tone-making device as a component of some
+      other device.
+    example: The professor had stuffed a wad of gum into the chime of his doorbell
+      so that he wouldn't be bothered.
+  - text: The sound of such an instrument or device.
+    example: The copier gave a chime to indicate that it had finished printing.
+  - text: A small hammer or other device used to strike a bell.
+    example: Strike the bell with the brass chime hanging on the chain next to it.
+- pos: verb
+  defs:
+  - text: To make the sound of a chime.
+    example: I got up for lunch as soon as the wall clock began chiming noon.
+  - text: To cause to sound in harmony; to play a tune, as upon a set of bells; to
+      move or strike in harmony.
+  - text: To utter harmoniously; to recite rhythmically.
+  - text: To agree; to correspond.
+    example: The other lab's results chimed with mine, so I knew we were on the right
+      track with the research.
+  - text: To make a rude correspondence of sounds; to jingle, as in rhyming.
 ---
-

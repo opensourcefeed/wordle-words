@@ -1,7 +1,47 @@
 ---
 layout: word
-title: bused
+title: Is BUSED a Wordle Word?
+head_title: Is BUSED a Wordle Word? Yes – Possible Answer & Meaning
 word: bused
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bʌst/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To transport via a motor bus.</li><li><strong>Definition 2:</strong> To transport students to school, often to a more distant school for the purposes of achieving racial integration.</li><li><strong>Definition 3:</strong> To travel by bus.</li><li><strong>Definition 4:</strong> (food service) To clear meal remains from.<p><strong>Example:</strong> He bussed tables as the restaurant emptied out.</p></li><li><strong>Definition 5:</strong> (food service) To work at clearing the remains of meals from tables or counters; to work as a busboy.<p><strong>Example:</strong> He’s been bussing for minimum wage.</p></li></ul></div></div>"
+description: Yes, BUSED is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- based
+- buded
+- buses
+- fused
+- mused
+- nused
+- sused
+anagrams:
+- budes
+- debus
+phonetic: "/bʌst/"
+definitions:
+- pos: verb
+  defs:
+  - text: To transport via a motor bus.
+  - text: To transport students to school, often to a more distant school for the
+      purposes of achieving racial integration.
+  - text: To travel by bus.
+  - text: "(food service) To clear meal remains from."
+    example: He bussed tables as the restaurant emptied out.
+  - text: "(food service) To work at clearing the remains of meals from tables or
+      counters; to work as a busboy."
+    example: He’s been bussing for minimum wage.
 ---
-

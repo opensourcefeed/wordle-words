@@ -1,7 +1,84 @@
 ---
 layout: word
-title: mains
+title: Is MAINS a Wordle Word?
+head_title: Is MAINS a Wordle Word? Yes – Valid Guess & Meaning
 word: mains
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /meɪnz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Short for mainline.</li><li><strong>Definition 2:</strong> To mainly play a specific character, or side, during a game.<p><strong>Example:</strong> He mains the same character as me in that game.</p></li><li><strong>Definition 3:</strong> Of a road: to convert into a main or primary road.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> That which is chief or principal; the chief or main portion; the bulk, the greater part, gross.</li><li><strong>Definition 2:</strong> A large cable or pipe providing utility service to an area or a building, such as a water main or electric main.</li><li><strong>Definition 3:</strong> Short for main course.<p><strong>Example:</strong> I had scampi and chips for my main and a slice of cheesecake for dessert.</p></li><li><strong>Definition 4:</strong> The high seas.</li><li><strong>Definition 5:</strong> The mainland.</li><li><strong>Definition 6:</strong> Short for mainsail.</li><li><strong>Definition 7:</strong> (except in might and main) Force, power, strength, violent effort.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hand or match in a game of dice.</li><li><strong>Definition 2:</strong> The largest throw in a match at dice; in the game of hazard, a number from one to nine called out by a person before the dice are thrown.</li><li><strong>Definition 3:</strong> A stake played for at dice.</li><li><strong>Definition 4:</strong> A sporting contest or match, especially a cockfighting match.</li><li><strong>Definition 5:</strong> A banker's shovel for coins.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A basket for gathering grapes.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The domestic electrical power supply.<p><strong>Example:</strong> I plugged it into the mains and it blew up!</p></li><li><strong>Definition 2:</strong> The pipes of a centralized water supply that transport the water to individual buildings.</li><li><strong>Definition 3:</strong> The main course of a meal.</li></ul></div></div>"
+description: Yes, MAINS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 31
+neighbours:
+- cains
+- fains
+- gains
+- hains
+- kains
+- maids
+- maiks
+- mails
+- maims
+- mairs
+- mawns
+- meins
+anagrams:
+- amins
+- manis
+- minas
+- nsima
+trap:
+  pattern: _AINS
+  count: 12
+phonetic: "/meɪnz/"
+definitions:
+- pos: verb
+  defs:
+  - text: Short for mainline.
+  - text: To mainly play a specific character, or side, during a game.
+    example: He mains the same character as me in that game.
+  - text: 'Of a road: to convert into a main or primary road.'
+- pos: noun
+  defs:
+  - text: That which is chief or principal; the chief or main portion; the bulk, the
+      greater part, gross.
+  - text: A large cable or pipe providing utility service to an area or a building,
+      such as a water main or electric main.
+  - text: Short for main course.
+    example: I had scampi and chips for my main and a slice of cheesecake for dessert.
+  - text: The high seas.
+  - text: The mainland.
+  - text: Short for mainsail.
+  - text: "(except in might and main) Force, power, strength, violent effort."
+- pos: noun
+  defs:
+  - text: A hand or match in a game of dice.
+  - text: The largest throw in a match at dice; in the game of hazard, a number from
+      one to nine called out by a person before the dice are thrown.
+  - text: A stake played for at dice.
+  - text: A sporting contest or match, especially a cockfighting match.
+  - text: A banker's shovel for coins.
+- pos: noun
+  defs:
+  - text: A basket for gathering grapes.
+- pos: noun
+  defs:
+  - text: The domestic electrical power supply.
+    example: I plugged it into the mains and it blew up!
+  - text: The pipes of a centralized water supply that transport the water to individual
+      buildings.
+  - text: The main course of a meal.
 ---
-

@@ -1,7 +1,64 @@
 ---
 layout: word
-title: haunt
+title: Is HAUNT a Wordle Word?
+head_title: 'Is HAUNT a Wordle Word? Yes – Past Answer #1498 & Meaning'
 word: haunt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /hænt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A place at which one is regularly found; a habitation or hangout.<p><strong>Example:</strong> I went back the town I used to live and visited all my old haunts.</p></li><li><strong>Definition 2:</strong> A ghost.</li><li><strong>Definition 3:</strong> A feeding place for animals.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To inhabit, or visit frequently (most often used in reference to ghosts).<p><strong>Example:</strong> A couple of ghosts haunt the old, burnt-down house.</p></li><li><strong>Definition 2:</strong> To make uneasy, restless.<p><strong>Example:</strong> The memory of his past failures haunted him.</p></li><li><strong>Definition 3:</strong> To stalk, to follow<p><strong>Example:</strong> The policeman haunted him, following him everywhere.</p></li><li><strong>Definition 4:</strong> To live habitually; to stay, to remain.</li><li><strong>Definition 5:</strong> To accustom; habituate; make accustomed to.</li><li><strong>Definition 6:</strong> To practise; to devote oneself to.</li><li><strong>Definition 7:</strong> To persist in staying or visiting.</li></ul></div></div>"
+description: Yes, HAUNT is a valid Wordle word. It was the Wordle answer on July 26,
+  2025 (#1498). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 26, 2025 (#1498).
+past_answers:
+- date: '2025-07-26'
+  number: 1498
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+neighbours:
+- daunt
+- gaunt
+- jaunt
+- taunt
+- vaunt
+- haint
+- hault
+- hauns
+- maunt
+- naunt
+- saunt
+anagrams:
+- unhat
+trap:
+  pattern: _AUNT
+  count: 9
+phonetic: "/hænt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A place at which one is regularly found; a habitation or hangout.
+    example: I went back the town I used to live and visited all my old haunts.
+  - text: A ghost.
+  - text: A feeding place for animals.
+- pos: verb
+  defs:
+  - text: To inhabit, or visit frequently (most often used in reference to ghosts).
+    example: A couple of ghosts haunt the old, burnt-down house.
+  - text: To make uneasy, restless.
+    example: The memory of his past failures haunted him.
+  - text: To stalk, to follow
+    example: The policeman haunted him, following him everywhere.
+  - text: To live habitually; to stay, to remain.
+  - text: To accustom; habituate; make accustomed to.
+  - text: To practise; to devote oneself to.
+  - text: To persist in staying or visiting.
 ---
-

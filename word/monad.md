@@ -1,7 +1,39 @@
 ---
 layout: word
-title: monad
+title: Is MONAD a Wordle Word?
+head_title: Is MONAD a Wordle Word? Yes – Valid Guess & Meaning
 word: monad
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmɒnæd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An ultimate atom, or simple, unextended point; something ultimate and indivisible.</li><li><strong>Definition 2:</strong> A single individual (such as a pollen grain) that is free from others, not united in a group.</li><li><strong>Definition 3:</strong> A monoid object in the category of endofunctors of a fixed category.</li></ul></div></div>"
+description: Yes, MONAD is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 47
+neighbours:
+- gonad
+- menad
+- monal
+- monas
+anagrams:
+- nomad
+phonetic: "/ˈmɒnæd/"
+definitions:
+- pos: noun
+  defs:
+  - text: An ultimate atom, or simple, unextended point; something ultimate and indivisible.
+  - text: A single individual (such as a pollen grain) that is free from others, not
+      united in a group.
+  - text: A monoid object in the category of endofunctors of a fixed category.
 ---
-

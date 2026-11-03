@@ -1,7 +1,53 @@
 ---
 layout: word
-title: coned
+title: Is CONED a Wordle Word?
+head_title: Is CONED a Wordle Word? Yes – Valid Guess & Meaning
 word: coned
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fashion into the shape of a cone.</li><li><strong>Definition 2:</strong> To form a cone shape.</li><li><strong>Definition 3:</strong> (frequently followed by \"off\") To segregate or delineate an area using traffic cones</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (of an area) segregated or delineated by traffic cones</li></ul></div></div>"
+description: Yes, CONED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- boned
+- caned
+- coded
+- coked
+- coled
+- cones
+- conex
+- coney
+- cooed
+- coped
+- cored
+- cosed
+anagrams:
+- coden
+trap:
+  pattern: CO_ED
+  count: 14
+definitions:
+- pos: verb
+  defs:
+  - text: To fashion into the shape of a cone.
+  - text: To form a cone shape.
+  - text: (frequently followed by "off") To segregate or delineate an area using traffic
+      cones
+- pos: adjective
+  defs:
+  - text: "(of an area) segregated or delineated by traffic cones"
 ---
-

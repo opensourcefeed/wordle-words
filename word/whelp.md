@@ -1,7 +1,43 @@
 ---
 layout: word
-title: whelp
+title: Is WHELP a Wordle Word?
+head_title: 'Is WHELP a Wordle Word? Yes – Past Answer #37 & Meaning'
 word: whelp
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /wɛlp/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A young offspring of a canid (ursid, felid, pinniped), especially of a dog or a wolf, the young of a bear or similar mammal (lion, tiger, seal); a pup, wolf cub.</li><li><strong>Definition 2:</strong> An insolent youth; a mere child.</li><li><strong>Definition 3:</strong> A kind of ship.</li><li><strong>Definition 4:</strong> One of several wooden strips to prevent wear on a windlass on a clipper-era ship.</li><li><strong>Definition 5:</strong> A tooth on a sprocket wheel (compare sprocket and cog).</li></ul></div></div>"
+description: Yes, WHELP is a valid Wordle word. It was the Wordle answer on July 26,
+  2021 (#37). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 26, 2021 (#37).
+past_answers:
+- date: '2021-07-26'
+  number: 37
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 59
+neighbours:
+- chelp
+- wheep
+- whelk
+- whelm
+phonetic: "/wɛlp/"
+definitions:
+- pos: noun
+  defs:
+  - text: A young offspring of a canid (ursid, felid, pinniped), especially of a dog
+      or a wolf, the young of a bear or similar mammal (lion, tiger, seal); a pup,
+      wolf cub.
+  - text: An insolent youth; a mere child.
+  - text: A kind of ship.
+  - text: One of several wooden strips to prevent wear on a windlass on a clipper-era
+      ship.
+  - text: A tooth on a sprocket wheel (compare sprocket and cog).
 ---
-

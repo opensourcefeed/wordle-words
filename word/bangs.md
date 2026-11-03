@@ -1,7 +1,82 @@
 ---
 layout: word
-title: bangs
+title: Is BANGS a Wordle Word?
+head_title: Is BANGS a Wordle Word? Yes – Valid Guess & Meaning
 word: bangs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bæŋz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A sudden percussive noise.<p><strong>Example:</strong> When he struck it with a hammer, there was a loud bang.</p></li><li><strong>Definition 2:</strong> A strike upon an object causing such a noise.</li><li><strong>Definition 3:</strong> An explosion.</li><li><strong>Definition 4:</strong> The symbol !, known as an exclamation point.<p><strong>Example:</strong> An e-mail address with an ! is called a bang path.</p></li><li><strong>Definition 5:</strong> A factorial, in mathematics, because the factorial of n is often written as n!</li><li><strong>Definition 6:</strong> An act of sexual intercourse.</li><li><strong>Definition 7:</strong> An offbeat figure typical of reggae songs and played on guitar and piano.</li><li><strong>Definition 8:</strong> An explosive product.<p><strong>Example:</strong> Load the bang into the hole.</p></li><li><strong>Definition 9:</strong> An injection, a shot (of a narcotic drug).</li><li><strong>Definition 10:</strong> (Boston area) An abrupt left turn.</li><li><strong>Definition 11:</strong> Strong smell (of)<p><strong>Example:</strong> There was a bang of onions off his breath.</p></li><li><strong>Definition 12:</strong> A thrill.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make sudden loud noises, and often repeatedly, especially by exploding or hitting something.<p><strong>Example:</strong> My head was banging after drinking all night at the concert.</p></li><li><strong>Definition 2:</strong> To hit hard.<p><strong>Example:</strong> David and Mary banged into each other.</p></li><li><strong>Definition 3:</strong> To engage in sexual intercourse.<p><strong>Example:</strong> We can hear the couple banging upstairs.</p></li><li><strong>Definition 4:</strong> (with \"in\") To hammer or to hit anything hard.<p><strong>Example:</strong> Hold the picture while I bang in this nail.</p></li><li><strong>Definition 5:</strong> To cut squarely across, as the tail of a horse, or a person's forelock; to cut (the hair).</li><li><strong>Definition 6:</strong> To inject intravenously.<p><strong>Example:</strong> Do you smoke meth? No, I bang it.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Hair hanging over the forehead.</li><li><strong>Definition 2:</strong> A hairstyle including such hair, especially cut straight across the forehead.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Brucellosis, a bacterial disease.</li></ul></div></div>"
+description: Yes, BANGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- bancs
+- bands
+- banes
+- banks
+- banns
+- bants
+- bings
+- bongs
+- bungs
+- cangs
+- dangs
+- fangs
+trap:
+  pattern: _ANGS
+  count: 15
+phonetic: "/bæŋz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A sudden percussive noise.
+    example: When he struck it with a hammer, there was a loud bang.
+  - text: A strike upon an object causing such a noise.
+  - text: An explosion.
+  - text: The symbol !, known as an exclamation point.
+    example: An e-mail address with an ! is called a bang path.
+  - text: A factorial, in mathematics, because the factorial of n is often written
+      as n!
+  - text: An act of sexual intercourse.
+  - text: An offbeat figure typical of reggae songs and played on guitar and piano.
+  - text: An explosive product.
+    example: Load the bang into the hole.
+  - text: An injection, a shot (of a narcotic drug).
+  - text: "(Boston area) An abrupt left turn."
+  - text: Strong smell (of)
+    example: There was a bang of onions off his breath.
+  - text: A thrill.
+- pos: verb
+  defs:
+  - text: To make sudden loud noises, and often repeatedly, especially by exploding
+      or hitting something.
+    example: My head was banging after drinking all night at the concert.
+  - text: To hit hard.
+    example: David and Mary banged into each other.
+  - text: To engage in sexual intercourse.
+    example: We can hear the couple banging upstairs.
+  - text: (with "in") To hammer or to hit anything hard.
+    example: Hold the picture while I bang in this nail.
+  - text: To cut squarely across, as the tail of a horse, or a person's forelock;
+      to cut (the hair).
+  - text: To inject intravenously.
+    example: Do you smoke meth? No, I bang it.
+- pos: noun
+  defs:
+  - text: Hair hanging over the forehead.
+  - text: A hairstyle including such hair, especially cut straight across the forehead.
+- pos: noun
+  defs:
+  - text: Brucellosis, a bacterial disease.
 ---
-

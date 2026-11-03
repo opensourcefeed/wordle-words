@@ -1,7 +1,51 @@
 ---
 layout: word
-title: elbow
+title: Is ELBOW a Wordle Word?
+head_title: 'Is ELBOW a Wordle Word? Yes – Past Answer #1376 & Meaning'
 word: elbow
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛl.bəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The joint between the upper arm and the forearm.</li><li><strong>Definition 2:</strong> (by extension) Any turn or bend like that of the elbow, in a wall, building, coastline, etc.; an angular or jointed part of any structure, such as the raised arm of a chair or sofa, or a short pipe fitting, turning at an angle or bent.<p><strong>Example:</strong> the sides of windows, where the jamb makes an elbow with the window back</p></li><li><strong>Definition 3:</strong> A detective.</li><li><strong>Definition 4:</strong> Part of a basketball court located at the intersection of the free-throw line and the free-throw lane.</li><li><strong>Definition 5:</strong> A hit with the elbow.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To push with the elbow.<p><strong>Example:</strong> He elbowed his way through the crowd.</p></li><li><strong>Definition 2:</strong> (by extension) To nudge, jostle or push.</li></ul></div></div>"
+description: Yes, ELBOW is a valid Wordle word. It was the Wordle answer on March
+  26, 2025 (#1376). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 26, 2025 (#1376).
+past_answers:
+- date: '2025-03-26'
+  number: 1376
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 44
+neighbours:
+- embow
+anagrams:
+- below
+- bowel
+phonetic: "/ˈɛl.bəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: The joint between the upper arm and the forearm.
+  - text: "(by extension) Any turn or bend like that of the elbow, in a wall, building,
+      coastline, etc.; an angular or jointed part of any structure, such as the raised
+      arm of a chair or sofa, or a short pipe fitting, turning at an angle or bent."
+    example: the sides of windows, where the jamb makes an elbow with the window back
+  - text: A detective.
+  - text: Part of a basketball court located at the intersection of the free-throw
+      line and the free-throw lane.
+  - text: A hit with the elbow.
+- pos: verb
+  defs:
+  - text: To push with the elbow.
+    example: He elbowed his way through the crowd.
+  - text: "(by extension) To nudge, jostle or push."
 ---
-

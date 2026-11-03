@@ -1,7 +1,44 @@
 ---
 layout: word
-title: tonal
+title: Is TONAL a Wordle Word?
+head_title: Is TONAL a Wordle Word? Yes – Possible Answer & Meaning
 word: tonal
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtəʊnəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to tones or tonality.</li><li><strong>Definition 2:</strong> Of or relating to the general character, mood, or trend of something.</li><li><strong>Definition 3:</strong> Employing tones that have a predictable relationship to some tonic.</li><li><strong>Definition 4:</strong> Employing differences in pitch (tones) to distinguish differences in the meaning of otherwise similar words (words which would otherwise be homophonic).</li></ul></div></div>"
+description: Yes, TONAL is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - A
+  - L
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- total
+- zonal
+- monal
+anagrams:
+- talon
+- notal
+- ontal
+- tolan
+phonetic: "/ˈtəʊnəl/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Of or relating to tones or tonality.
+  - text: Of or relating to the general character, mood, or trend of something.
+  - text: Employing tones that have a predictable relationship to some tonic.
+  - text: Employing differences in pitch (tones) to distinguish differences in the
+      meaning of otherwise similar words (words which would otherwise be homophonic).
 ---
-

@@ -1,7 +1,43 @@
 ---
 layout: word
-title: jokey
+title: Is JOKEY a Wordle Word?
+head_title: Is JOKEY a Wordle Word? Yes – Valid Guess & Meaning
 word: jokey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> In the nature of a joke; jocular</li></ul></div></div>"
+description: Yes, JOKEY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- joker
+- cokey
+- hokey
+- jakey
+- joked
+- jokes
+- lokey
+- mokey
+- pokey
+- rokey
+trap:
+  pattern: _OKEY
+  count: 7
+definitions:
+- pos: adjective
+  defs:
+  - text: In the nature of a joke; jocular
 ---
-

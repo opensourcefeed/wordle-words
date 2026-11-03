@@ -1,7 +1,33 @@
 ---
 layout: word
-title: gismo
+title: Is GISMO a Wordle Word?
+head_title: Is GISMO a Wordle Word? Yes – Valid Guess & Meaning
 word: gismo
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Something, generally a device, for which one does not know the proper term.</li></ul></div></div>"
+description: Yes, GISMO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- gisms
+- gizmo
+anagrams:
+- misgo
+definitions:
+- pos: noun
+  defs:
+  - text: Something, generally a device, for which one does not know the proper term.
 ---
-

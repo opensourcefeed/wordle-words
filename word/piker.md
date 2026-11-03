@@ -1,7 +1,54 @@
 ---
 layout: word
-title: piker
+title: Is PIKER a Wordle Word?
+head_title: Is PIKER a Wordle Word? Yes – Valid Guess & Meaning
 word: piker
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpaɪkə(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A soldier armed with a pike, a pikeman.</li><li><strong>Definition 2:</strong> One who bets or gambles only with small amounts of money.</li><li><strong>Definition 3:</strong> A stingy person; a cheapskate.</li><li><strong>Definition 4:</strong> An amateur.</li><li><strong>Definition 5:</strong> One who refuses to go out with friends, or leaves a party early.<p><strong>Example:</strong> Mate, don't be a piker! Come to Angie′s birthday party tonight!</p></li><li><strong>Definition 6:</strong> One who pikes (quits or backs out of a promise).</li><li><strong>Definition 7:</strong> A male freshman at Cornell University.</li><li><strong>Definition 8:</strong> A tramp; a vagrant.</li></ul></div></div>"
+description: Yes, PIKER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- piper
+- poker
+- biker
+- diker
+- hiker
+- liker
+- piked
+- pikel
+- pikes
+- piler
+- piner
+- pizer
+trap:
+  pattern: _IKER
+  count: 6
+phonetic: "/ˈpaɪkə(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A soldier armed with a pike, a pikeman.
+  - text: One who bets or gambles only with small amounts of money.
+  - text: A stingy person; a cheapskate.
+  - text: An amateur.
+  - text: One who refuses to go out with friends, or leaves a party early.
+    example: Mate, don't be a piker! Come to Angie′s birthday party tonight!
+  - text: One who pikes (quits or backs out of a promise).
+  - text: A male freshman at Cornell University.
+  - text: A tramp; a vagrant.
 ---
-

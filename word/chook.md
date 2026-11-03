@@ -1,7 +1,43 @@
 ---
 layout: word
-title: chook
+title: Is CHOOK a Wordle Word?
+head_title: Is CHOOK a Wordle Word? Yes – Valid Guess & Meaning
 word: chook
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /tʃʊk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A chicken, especially a hen.</li><li><strong>Definition 2:</strong> A cooked chicken; a chicken dressed for cooking.</li><li><strong>Definition 3:</strong> A fool.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> A call made to chickens.</li></ul></div></div>"
+description: Yes, CHOOK is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- chock
+- crook
+- shook
+- choof
+- choom
+- choon
+- chowk
+anagrams:
+- choko
+phonetic: "/tʃʊk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A chicken, especially a hen.
+  - text: A cooked chicken; a chicken dressed for cooking.
+  - text: A fool.
+- pos: interjection
+  defs:
+  - text: A call made to chickens.
 ---
-

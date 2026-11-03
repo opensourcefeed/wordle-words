@@ -1,7 +1,43 @@
 ---
 layout: word
-title: rebar
+title: Is REBAR a Wordle Word?
+head_title: Is REBAR a Wordle Word? Yes – Possible Answer & Meaning
 word: rebar
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɹiː.bɑː(ɹ)/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A steel reinforcing bar in a reinforced concrete structure.</li><li><strong>Definition 2:</strong> A grid-shaped system of such bars.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To reinforce with bars of this kind.</li></ul></div></div>"
+description: Yes, REBAR is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - R
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 28
+neighbours:
+- debar
+- kebar
+- rebab
+- regar
+anagrams:
+- barer
+- barre
+phonetic: "/ˈɹiː.bɑː(ɹ)/"
+definitions:
+- pos: noun
+  defs:
+  - text: A steel reinforcing bar in a reinforced concrete structure.
+  - text: A grid-shaped system of such bars.
+- pos: verb
+  defs:
+  - text: To reinforce with bars of this kind.
 ---
-

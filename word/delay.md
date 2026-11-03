@@ -1,7 +1,52 @@
 ---
 layout: word
-title: delay
+title: Is DELAY a Wordle Word?
+head_title: 'Is DELAY a Wordle Word? Yes – Past Answer #1158 & Meaning'
 word: delay
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /dɪˈleɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A period of time before an event occurs; the act of delaying; procrastination; lingering inactivity.<p><strong>Example:</strong> the delay before the echo of a sound</p></li><li><strong>Definition 2:</strong> An audio effects unit that introduces a controlled delay.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put off until a later time; to defer.</li><li><strong>Definition 2:</strong> To retard; to stop, detain, or hinder, for a time.<p><strong>Example:</strong> The mail is delayed by a heavy fall of snow.</p></li><li><strong>Definition 3:</strong> To allay; to temper.</li></ul></div></div>"
+description: Yes, DELAY is a valid Wordle word. It was the Wordle answer on August
+  20, 2024 (#1158). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 20, 2024 (#1158).
+past_answers:
+- date: '2024-08-20'
+  number: 1158
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 11
+neighbours:
+- decay
+- relay
+- belay
+- delly
+- denay
+- deray
+anagrams:
+- layed
+- leady
+phonetic: "/dɪˈleɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A period of time before an event occurs; the act of delaying; procrastination;
+      lingering inactivity.
+    example: the delay before the echo of a sound
+  - text: An audio effects unit that introduces a controlled delay.
+- pos: verb
+  defs:
+  - text: To put off until a later time; to defer.
+  - text: To retard; to stop, detain, or hinder, for a time.
+    example: The mail is delayed by a heavy fall of snow.
+  - text: To allay; to temper.
 ---
-

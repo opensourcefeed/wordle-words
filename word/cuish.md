@@ -1,7 +1,28 @@
 ---
 layout: word
-title: cuish
+title: Is CUISH a Wordle Word?
+head_title: Is CUISH a Wordle Word? Yes – Valid Guess & Meaning
 word: cuish
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /kwɪʃ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Defensive armour for the thighs</li></ul></div></div>"
+description: Yes, CUISH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+phonetic: "/kwɪʃ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Defensive armour for the thighs
 ---
-

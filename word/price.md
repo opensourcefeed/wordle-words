@@ -1,7 +1,55 @@
 ---
 layout: word
-title: price
+title: Is PRICE a Wordle Word?
+head_title: 'Is PRICE a Wordle Word? Yes – Past Answer #975 & Meaning'
 word: price
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pɹaɪs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The cost required to gain possession of something.</li><li><strong>Definition 2:</strong> The cost of an action or deed.<p><strong>Example:</strong> I paid a high price for my folly.</p></li><li><strong>Definition 3:</strong> Value; estimation; excellence; worth.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To determine the monetary value of (an item); to put a price on.</li><li><strong>Definition 2:</strong> To pay the price of; to make reparation for.</li><li><strong>Definition 3:</strong> To set a price on; to value; to prize.</li><li><strong>Definition 4:</strong> To ask the price of.<p><strong>Example:</strong> to price eggs</p></li></ul></div></div>"
+description: Yes, PRICE is a valid Wordle word. It was the Wordle answer on February
+  19, 2024 (#975). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on February 19, 2024 (#975).
+past_answers:
+- date: '2024-02-19'
+  number: 975
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 14
+neighbours:
+- prick
+- pride
+- prime
+- prize
+- trice
+- drice
+- grice
+- pricy
+- prise
+anagrams:
+- cripe
+phonetic: "/pɹaɪs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The cost required to gain possession of something.
+  - text: The cost of an action or deed.
+    example: I paid a high price for my folly.
+  - text: Value; estimation; excellence; worth.
+- pos: verb
+  defs:
+  - text: To determine the monetary value of (an item); to put a price on.
+  - text: To pay the price of; to make reparation for.
+  - text: To set a price on; to value; to prize.
+  - text: To ask the price of.
+    example: to price eggs
 ---
-

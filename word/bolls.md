@@ -1,7 +1,46 @@
 ---
 layout: word
-title: bolls
+title: Is BOLLS a Wordle Word?
+head_title: Is BOLLS a Wordle Word? Yes – Valid Guess & Meaning
 word: bolls
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The rounded seed-bearing capsule of a cotton or flax plant.</li><li><strong>Definition 2:</strong> An old dry measure equal to six bushels.</li></ul></div></div>"
+description: Yes, BOLLS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+neighbours:
+- balls
+- bells
+- bills
+- boils
+- bolas
+- bolds
+- boles
+- bolks
+- bolos
+- bolts
+- bolus
+- bools
+trap:
+  pattern: _OLLS
+  count: 10
+definitions:
+- pos: noun
+  defs:
+  - text: The rounded seed-bearing capsule of a cotton or flax plant.
+  - text: An old dry measure equal to six bushels.
 ---
-

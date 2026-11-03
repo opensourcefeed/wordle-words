@@ -1,7 +1,110 @@
 ---
 layout: word
-title: crown
+title: Is CROWN a Wordle Word?
+head_title: 'Is CROWN a Wordle Word? Yes – Past Answer #1165 & Meaning'
 word: crown
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A royal, imperial or princely headdress; a diadem.</li><li><strong>Definition 2:</strong> A wreath or band for the head, especially one given as reward of victory or a mark of honor.</li><li><strong>Definition 3:</strong> (by extension) Any reward of victory or mark of honor.<p><strong>Example:</strong> the martyr's crown</p></li><li><strong>Definition 4:</strong> Imperial or regal power, or those who wield it.</li><li><strong>Definition 5:</strong> (metonym) The sovereign (in a monarchy), as head of state.</li><li><strong>Definition 6:</strong> (by extension) The state, the government (headed by a monarch).<p><strong>Example:</strong> Treasure recovered from shipwrecks automatically becomes property of the Crown.</p></li><li><strong>Definition 7:</strong> The top part of something:</li><li><strong>Definition 8:</strong> A kind of spire or lantern formed by converging flying buttresses.</li><li><strong>Definition 9:</strong> Splendor; culmination; acme.</li><li><strong>Definition 10:</strong> Any currency (originally) issued by the crown (regal power) and often bearing a crown (headdress); (translation) various currencies known by similar names in their native languages, such as the koruna, kruna, krone, korona.</li><li><strong>Definition 11:</strong> A former pre-decimalization British coin worth five shillings.</li><li><strong>Definition 12:</strong> The part of a plant where the root and stem meet.</li><li><strong>Definition 13:</strong> The top of a tree.</li><li><strong>Definition 14:</strong> The part of a tooth above the gums.</li><li><strong>Definition 15:</strong> A prosthetic covering for a tooth.</li><li><strong>Definition 16:</strong> A knot formed in the end of a rope by tucking in the strands to prevent them from unravelling</li><li><strong>Definition 17:</strong> The part of an anchor where the arms and the shank meet</li><li><strong>Definition 18:</strong> The rounding, or rounded part, of the deck from a level line.</li><li><strong>Definition 19:</strong> (in the plural) The bights formed by the turns of a cable.</li><li><strong>Definition 20:</strong> In England, a standard size of printing paper measuring 20 × 15 inches.</li><li><strong>Definition 21:</strong> In American, a standard size of writing paper measuring 19 × 15 inches.</li><li><strong>Definition 22:</strong> A monocyclic ligand having three or more binding sites, capable of holding a guest in a central location</li><li><strong>Definition 23:</strong> During childbirth, the appearance of the baby's head from the mother's vagina</li><li><strong>Definition 24:</strong> A rounding or smoothing of the barrel opening</li><li><strong>Definition 25:</strong> The area enclosed between two concentric perimeters.</li><li><strong>Definition 26:</strong> A round spot shaved clean on the top of the head, as a mark of the clerical state; the tonsure.</li><li><strong>Definition 27:</strong> A whole bird with the legs and wings removed to produce a joint of white meat.</li><li><strong>Definition 28:</strong> A formal hat worn by women to Sunday church services; a church crown.</li><li><strong>Definition 29:</strong> The knurled knob or dial, on the outside of a watch case, used to wind it or adjust the hands.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To place a crown on the head of.</li><li><strong>Definition 2:</strong> To formally declare (someone) a king, queen, emperor, etc.</li><li><strong>Definition 3:</strong> To bestow something upon as a mark of honour, dignity, or recompense; to adorn; to dignify.</li><li><strong>Definition 4:</strong> To form the topmost or finishing part of; to complete; to consummate; to perfect.</li><li><strong>Definition 5:</strong> To declare (someone) a winner.</li><li><strong>Definition 6:</strong> Of a baby, during the birthing process; for the surface of the baby's head to appear in the vaginal opening.<p><strong>Example:</strong> The mother was in the second stage of labor and the fetus had just crowned, prompting a round of encouragement from the midwives.</p></li><li><strong>Definition 7:</strong> To cause to round upward; to make anything higher at the middle than at the edges, such as the face of a machine pulley.</li><li><strong>Definition 8:</strong> To hit on the head.</li><li><strong>Definition 9:</strong> To shoot an opponent in the back of the head with a shotgun in a first-person shooter video game.</li><li><strong>Definition 10:</strong> In checkers, to stack two checkers to indicate that the piece has become a king.<p><strong>Example:</strong> “Crown me!” I said, as I moved my checker to the back row.</p></li><li><strong>Definition 11:</strong> To widen the opening of the barrel.</li><li><strong>Definition 12:</strong> To effect a lodgment upon, as upon the crest of the glacis, or the summit of the breach.</li><li><strong>Definition 13:</strong> To lay the ends of the strands of (a knot) over and under each other.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, related to, or pertaining to a crown.<p><strong>Example:</strong> crown prince</p></li><li><strong>Definition 2:</strong> Of, related to, pertaining to the top of a tree or trees.<p><strong>Example:</strong> a crown fire</p></li></ul></div></div>"
+description: Yes, CROWN is a valid Wordle word. It was the Wordle answer on August
+  27, 2024 (#1165). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 27, 2024 (#1165).
+past_answers:
+- date: '2024-08-27'
+  number: 1165
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- brown
+- clown
+- crowd
+- drown
+- frown
+- grown
+- croon
+- crowl
+- crows
+definitions:
+- pos: noun
+  defs:
+  - text: A royal, imperial or princely headdress; a diadem.
+  - text: A wreath or band for the head, especially one given as reward of victory
+      or a mark of honor.
+  - text: "(by extension) Any reward of victory or mark of honor."
+    example: the martyr's crown
+  - text: Imperial or regal power, or those who wield it.
+  - text: "(metonym) The sovereign (in a monarchy), as head of state."
+  - text: "(by extension) The state, the government (headed by a monarch)."
+    example: Treasure recovered from shipwrecks automatically becomes property of
+      the Crown.
+  - text: 'The top part of something:'
+  - text: A kind of spire or lantern formed by converging flying buttresses.
+  - text: Splendor; culmination; acme.
+  - text: Any currency (originally) issued by the crown (regal power) and often bearing
+      a crown (headdress); (translation) various currencies known by similar names
+      in their native languages, such as the koruna, kruna, krone, korona.
+  - text: A former pre-decimalization British coin worth five shillings.
+  - text: The part of a plant where the root and stem meet.
+  - text: The top of a tree.
+  - text: The part of a tooth above the gums.
+  - text: A prosthetic covering for a tooth.
+  - text: A knot formed in the end of a rope by tucking in the strands to prevent
+      them from unravelling
+  - text: The part of an anchor where the arms and the shank meet
+  - text: The rounding, or rounded part, of the deck from a level line.
+  - text: "(in the plural) The bights formed by the turns of a cable."
+  - text: In England, a standard size of printing paper measuring 20 × 15 inches.
+  - text: In American, a standard size of writing paper measuring 19 × 15 inches.
+  - text: A monocyclic ligand having three or more binding sites, capable of holding
+      a guest in a central location
+  - text: During childbirth, the appearance of the baby's head from the mother's vagina
+  - text: A rounding or smoothing of the barrel opening
+  - text: The area enclosed between two concentric perimeters.
+  - text: A round spot shaved clean on the top of the head, as a mark of the clerical
+      state; the tonsure.
+  - text: A whole bird with the legs and wings removed to produce a joint of white
+      meat.
+  - text: A formal hat worn by women to Sunday church services; a church crown.
+  - text: The knurled knob or dial, on the outside of a watch case, used to wind it
+      or adjust the hands.
+- pos: verb
+  defs:
+  - text: To place a crown on the head of.
+  - text: To formally declare (someone) a king, queen, emperor, etc.
+  - text: To bestow something upon as a mark of honour, dignity, or recompense; to
+      adorn; to dignify.
+  - text: To form the topmost or finishing part of; to complete; to consummate; to
+      perfect.
+  - text: To declare (someone) a winner.
+  - text: Of a baby, during the birthing process; for the surface of the baby's head
+      to appear in the vaginal opening.
+    example: The mother was in the second stage of labor and the fetus had just crowned,
+      prompting a round of encouragement from the midwives.
+  - text: To cause to round upward; to make anything higher at the middle than at
+      the edges, such as the face of a machine pulley.
+  - text: To hit on the head.
+  - text: To shoot an opponent in the back of the head with a shotgun in a first-person
+      shooter video game.
+  - text: In checkers, to stack two checkers to indicate that the piece has become
+      a king.
+    example: "“Crown me!” I said, as I moved my checker to the back row."
+  - text: To widen the opening of the barrel.
+  - text: To effect a lodgment upon, as upon the crest of the glacis, or the summit
+      of the breach.
+  - text: To lay the ends of the strands of (a knot) over and under each other.
+- pos: adjective
+  defs:
+  - text: Of, related to, or pertaining to a crown.
+    example: crown prince
+  - text: Of, related to, pertaining to the top of a tree or trees.
+    example: a crown fire
 ---
-

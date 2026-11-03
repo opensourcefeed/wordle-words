@@ -1,7 +1,39 @@
 ---
 layout: word
-title: guano
+title: Is GUANO a Wordle Word?
+head_title: 'Is GUANO a Wordle Word? Yes – Past Answer #646 & Meaning'
 word: guano
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɡwɑːnəʊ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Dung from a sea bird or from a bat.</li><li><strong>Definition 2:</strong> A variety of seabird.</li></ul></div></div>"
+description: Yes, GUANO is a valid Wordle word. It was the Wordle answer on March
+  27, 2023 (#646). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 27, 2023 (#646).
+past_answers:
+- date: '2023-03-27'
+  number: 646
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 41
+neighbours:
+- grano
+- guaco
+- guana
+- guans
+phonetic: "/ˈɡwɑːnəʊ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Dung from a sea bird or from a bat.
+  - text: A variety of seabird.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: bogan
+title: Is BOGAN a Wordle Word?
+head_title: Is BOGAN a Wordle Word? Yes – Valid Guess & Meaning
 word: bogan
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈboʊɡən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (derogatory stereotype) An unsophisticated person from a working class background.</li><li><strong>Definition 2:</strong> An Anglo-Celtic member of a lower socioeconomic group, stereotypically classified as wearing black jumpers or black concert T-shirts.</li><li><strong>Definition 3:</strong> A petrolhead.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To act like a bogan.</li></ul></div></div>"
+description: Yes, BOGAN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- began
+- bugan
+- dogan
+- hogan
+- logan
+- rogan
+anagrams:
+- goban
+- obang
+phonetic: "/ˈboʊɡən/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(derogatory stereotype) An unsophisticated person from a working class
+      background."
+  - text: An Anglo-Celtic member of a lower socioeconomic group, stereotypically classified
+      as wearing black jumpers or black concert T-shirts.
+  - text: A petrolhead.
+- pos: verb
+  defs:
+  - text: To act like a bogan.
 ---
-

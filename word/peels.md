@@ -1,7 +1,94 @@
 ---
 layout: word
-title: peels
+title: Is PEELS a Wordle Word?
+head_title: Is PEELS a Wordle Word? Yes – Valid Guess & Meaning
 word: peels
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːlz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small salmon; a grilse; a sewin.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (usually uncountable) The skin or outer layer of a fruit, vegetable, etc.</li><li><strong>Definition 2:</strong> The action of peeling away from a formation.</li><li><strong>Definition 3:</strong> A cosmetic preparation designed to remove dead skin or to exfoliate.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To remove the skin or outer covering of.<p><strong>Example:</strong> I sat by my sister's bed, peeling oranges for her.</p></li><li><strong>Definition 2:</strong> To remove something from the outer or top layer of.<p><strong>Example:</strong> I peeled (the skin from) a banana and ate it hungrily.</p></li><li><strong>Definition 3:</strong> To become detached, come away, especially in flakes or strips; to shed skin in such a way.<p><strong>Example:</strong> I had been out in the sun too long, and my nose was starting to peel.</p></li><li><strong>Definition 4:</strong> To remove one's clothing.<p><strong>Example:</strong> The children peeled by the side of the lake and jumped in.</p></li><li><strong>Definition 5:</strong> To move, separate (off or away).<p><strong>Example:</strong> The scrum-half peeled off and made for the touchlines.</p></li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stake.</li><li><strong>Definition 2:</strong> A fence made of stakes; a stockade.</li><li><strong>Definition 3:</strong> A small tower, fort, or castle; a keep.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A shovel or similar instrument, now especially a pole with a flat disc at the end used for removing pizza or loaves of bread from a baker's oven.</li><li><strong>Definition 2:</strong> A T-shaped implement used by printers and bookbinders for hanging wet sheets of paper on lines or poles to dry.</li><li><strong>Definition 3:</strong> The blade of an oar.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An equal or match; a draw.</li><li><strong>Definition 2:</strong> A takeout which removes a stone from play as well as the delivered stone.</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play a peel shot.</li></ul></div><div class='meanings'><h3>Meaning 8</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To send through a hoop (of a ball other than one's own).</li></ul></div><div class='meanings'><h3>Meaning 9</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To plunder; to pillage, rob.</li></ul></div></div>"
+description: Yes, PEELS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+neighbours:
+- feels
+- heels
+- jeels
+- keels
+- peals
+- peeks
+- peely
+- peens
+- peeps
+- peers
+- pells
+- perls
+anagrams:
+- sleep
+- leeps
+- peles
+- speel
+trap:
+  pattern: _EELS
+  count: 9
+phonetic: "/piːlz/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small salmon; a grilse; a sewin.
+- pos: noun
+  defs:
+  - text: "(usually uncountable) The skin or outer layer of a fruit, vegetable, etc."
+  - text: The action of peeling away from a formation.
+  - text: A cosmetic preparation designed to remove dead skin or to exfoliate.
+- pos: verb
+  defs:
+  - text: To remove the skin or outer covering of.
+    example: I sat by my sister's bed, peeling oranges for her.
+  - text: To remove something from the outer or top layer of.
+    example: I peeled (the skin from) a banana and ate it hungrily.
+  - text: To become detached, come away, especially in flakes or strips; to shed skin
+      in such a way.
+    example: I had been out in the sun too long, and my nose was starting to peel.
+  - text: To remove one's clothing.
+    example: The children peeled by the side of the lake and jumped in.
+  - text: To move, separate (off or away).
+    example: The scrum-half peeled off and made for the touchlines.
+- pos: noun
+  defs:
+  - text: A stake.
+  - text: A fence made of stakes; a stockade.
+  - text: A small tower, fort, or castle; a keep.
+- pos: noun
+  defs:
+  - text: A shovel or similar instrument, now especially a pole with a flat disc at
+      the end used for removing pizza or loaves of bread from a baker's oven.
+  - text: A T-shaped implement used by printers and bookbinders for hanging wet sheets
+      of paper on lines or poles to dry.
+  - text: The blade of an oar.
+- pos: noun
+  defs:
+  - text: An equal or match; a draw.
+  - text: A takeout which removes a stone from play as well as the delivered stone.
+- pos: verb
+  defs:
+  - text: To play a peel shot.
+- pos: verb
+  defs:
+  - text: To send through a hoop (of a ball other than one's own).
+- pos: verb
+  defs:
+  - text: To plunder; to pillage, rob.
 ---
-

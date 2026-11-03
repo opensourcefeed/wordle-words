@@ -1,7 +1,35 @@
 ---
 layout: word
-title: cagey
+title: Is CAGEY a Wordle Word?
+head_title: Is CAGEY a Wordle Word? Yes – Possible Answer & Meaning
 word: cagey
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkeɪdʒi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Wary, careful, shrewd.</li><li><strong>Definition 2:</strong> Uncommunicative; unwilling or hesitant to give information.</li></ul></div></div>"
+description: Yes, CAGEY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- caged
+- cager
+- cages
+- cakey
+phonetic: "/ˈkeɪdʒi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Wary, careful, shrewd.
+  - text: Uncommunicative; unwilling or hesitant to give information.
 ---
-

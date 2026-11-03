@@ -1,7 +1,50 @@
 ---
 layout: word
-title: farce
+title: Is FARCE a Wordle Word?
+head_title: 'Is FARCE a Wordle Word? Yes – Past Answer #326 & Meaning'
 word: farce
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɑːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A style of humor marked by broad improbabilities with little regard to regularity or method.</li><li><strong>Definition 2:</strong> A motion picture or play featuring this style of humor.<p><strong>Example:</strong> The farce that we saw last night had us laughing and shaking our heads at the same time.</p></li><li><strong>Definition 3:</strong> A situation abounding with ludicrous incidents.<p><strong>Example:</strong> The first month of labor negotiations was a farce.</p></li><li><strong>Definition 4:</strong> A ridiculous or empty show.<p><strong>Example:</strong> The political arena is a mere farce, with all sorts of fools trying to grab power.</p></li></ul></div></div>"
+description: Yes, FARCE is a valid Wordle word. It was the Wordle answer on May 11,
+  2022 (#326). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 11, 2022 (#326).
+past_answers:
+- date: '2022-05-11'
+  number: 326
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 9
+neighbours:
+- force
+- farci
+- farcy
+- farle
+- farse
+anagrams:
+- facer
+phonetic: "/fɑːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A style of humor marked by broad improbabilities with little regard to regularity
+      or method.
+  - text: A motion picture or play featuring this style of humor.
+    example: The farce that we saw last night had us laughing and shaking our heads
+      at the same time.
+  - text: A situation abounding with ludicrous incidents.
+    example: The first month of labor negotiations was a farce.
+  - text: A ridiculous or empty show.
+    example: The political arena is a mere farce, with all sorts of fools trying to
+      grab power.
 ---
-

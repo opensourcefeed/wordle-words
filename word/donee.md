@@ -1,7 +1,35 @@
 ---
 layout: word
-title: donee
+title: Is DONEE a Wordle Word?
+head_title: Is DONEE a Wordle Word? Yes – Valid Guess & Meaning
 word: donee
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who receives a gift from a donor.<p><strong>Example:</strong> John became the donee of the bone marrow donated by his brother.</p></li></ul></div></div>"
+description: Yes, DONEE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 57
+neighbours:
+- dolee
+- doner
+- donne
+- doree
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who receives a gift from a donor.
+    example: John became the donee of the bone marrow donated by his brother.
 ---
-

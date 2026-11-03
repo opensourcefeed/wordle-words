@@ -1,7 +1,49 @@
 ---
 layout: word
-title: scarf
+title: Is SCARF a Wordle Word?
+head_title: 'Is SCARF a Wordle Word? Yes – Past Answer #694 & Meaning'
 word: scarf
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A long, often knitted, garment worn around the neck.</li><li><strong>Definition 2:</strong> A headscarf.</li><li><strong>Definition 3:</strong> A neckcloth or cravat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw on loosely; to put on like a scarf.</li><li><strong>Definition 2:</strong> To dress with a scarf, or as with a scarf; to cover with a loose wrapping.</li></ul></div></div>"
+description: Yes, SCARF is a valid Wordle word. It was the Wordle answer on May 14,
+  2023 (#694). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 14, 2023 (#694).
+past_answers:
+- date: '2023-05-14'
+  number: 694
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- scare
+- scary
+- scaff
+- scarp
+- scars
+- scart
+- scurf
+- snarf
+- swarf
+trap:
+  pattern: SCAR_
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A long, often knitted, garment worn around the neck.
+  - text: A headscarf.
+  - text: A neckcloth or cravat.
+- pos: verb
+  defs:
+  - text: To throw on loosely; to put on like a scarf.
+  - text: To dress with a scarf, or as with a scarf; to cover with a loose wrapping.
 ---
-

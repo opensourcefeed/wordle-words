@@ -1,7 +1,36 @@
 ---
 layout: word
-title: miaul
+title: Is MIAUL a Wordle Word?
+head_title: Is MIAUL a Wordle Word? Yes – Valid Guess & Meaning
 word: miaul
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The cry of a cat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To give the cry of a cat.</li></ul></div></div>"
+description: Yes, MIAUL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 36
+anagrams:
+- aumil
+- mulai
+definitions:
+- pos: noun
+  defs:
+  - text: The cry of a cat.
+- pos: verb
+  defs:
+  - text: To give the cry of a cat.
 ---
-

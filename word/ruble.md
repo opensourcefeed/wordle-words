@@ -1,7 +1,38 @@
 ---
 layout: word
-title: ruble
+title: Is RUBLE a Wordle Word?
+head_title: Is RUBLE a Wordle Word? Yes – Valid Guess & Meaning
 word: ruble
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹuːbəl/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The monetary unit of Russia, Belarus and Transnistria equal to 100 kopeks (Russian: копе́йка, Belarusian: капе́йка). The Russian ruble's symbol is ₽.</li></ul></div></div>"
+description: Yes, RUBLE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- roble
+- rubli
+anagrams:
+- bluer
+- brule
+- rubel
+phonetic: "/ɹuːbəl/"
+definitions:
+- pos: noun
+  defs:
+  - text: 'The monetary unit of Russia, Belarus and Transnistria equal to 100 kopeks
+      (Russian: копе́йка, Belarusian: капе́йка). The Russian ruble''s symbol is ₽.'
 ---
-

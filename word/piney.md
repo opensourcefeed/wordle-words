@@ -1,7 +1,43 @@
 ---
 layout: word
-title: piney
+title: Is PINEY a Wordle Word?
+head_title: 'Is PINEY a Wordle Word? Yes – Past Answer #500 & Meaning'
 word: piney
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of, pertaining to, or having many pines<p><strong>Example:</strong> a piny fragrance</p></li></ul></div></div>"
+description: Yes, PINEY is a valid Wordle word. It was the Wordle answer on November
+  1, 2022 (#500). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 1, 2022 (#500).
+past_answers:
+- date: '2022-11-01'
+  number: 500
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- pinky
+- liney
+- picey
+- piley
+- pined
+- piner
+- pines
+- pinny
+- poney
+- winey
+definitions:
+- pos: adjective
+  defs:
+  - text: Of, pertaining to, or having many pines
+    example: a piny fragrance
 ---
-

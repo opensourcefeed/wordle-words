@@ -1,7 +1,42 @@
 ---
 layout: word
-title: fluid
+title: Is FLUID a Wordle Word?
+head_title: Is FLUID a Wordle Word? Yes – Possible Answer & Meaning
 word: fluid
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfluːɪd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any substance which can flow with relative ease, tends to assume the shape of its container, and obeys Bernoulli's principle; a liquid, gas or plasma.</li><li><strong>Definition 2:</strong> A liquid (as opposed to a solid or gas).</li><li><strong>Definition 3:</strong> (specifically, typically in the plural) Intravenous fluids.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of or relating to fluid.</li><li><strong>Definition 2:</strong> In a state of flux; subject to change.</li><li><strong>Definition 3:</strong> Moving smoothly, or giving the impression of a liquid in motion.</li><li><strong>Definition 4:</strong> (of an asset) Convertible into cash.</li><li><strong>Definition 5:</strong> Genderfluid.</li></ul></div></div>"
+description: Yes, FLUID is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- bluid
+- flued
+phonetic: "/ˈfluːɪd/"
+definitions:
+- pos: noun
+  defs:
+  - text: Any substance which can flow with relative ease, tends to assume the shape
+      of its container, and obeys Bernoulli's principle; a liquid, gas or plasma.
+  - text: A liquid (as opposed to a solid or gas).
+  - text: "(specifically, typically in the plural) Intravenous fluids."
+- pos: adjective
+  defs:
+  - text: Of or relating to fluid.
+  - text: In a state of flux; subject to change.
+  - text: Moving smoothly, or giving the impression of a liquid in motion.
+  - text: "(of an asset) Convertible into cash."
+  - text: Genderfluid.
 ---
-

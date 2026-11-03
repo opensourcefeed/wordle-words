@@ -1,7 +1,47 @@
 ---
 layout: word
-title: divas
+title: Is DIVAS a Wordle Word?
+head_title: Is DIVAS a Wordle Word? Yes – Valid Guess & Meaning
 word: divas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Any female celebrity, usually a well known singer or actress.</li><li><strong>Definition 2:</strong> A person who may be considered or who considers herself (or by extension himself) much more important than others, has high expectations of others and who is extremely demanding and fussy when it comes to personal privileges.</li></ul></div></div>"
+description: Yes, DIVAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 54
+neighbours:
+- devas
+- dikas
+- disas
+- ditas
+- divan
+- dives
+- divis
+- divos
+- diyas
+- kivas
+- nivas
+- rivas
+anagrams:
+- vaids
+definitions:
+- pos: noun
+  defs:
+  - text: Any female celebrity, usually a well known singer or actress.
+  - text: A person who may be considered or who considers herself (or by extension
+      himself) much more important than others, has high expectations of others and
+      who is extremely demanding and fussy when it comes to personal privileges.
 ---
-

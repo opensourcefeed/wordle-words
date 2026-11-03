@@ -1,7 +1,56 @@
 ---
 layout: word
-title: pukas
+title: Is PUKAS a Wordle Word?
+head_title: Is PUKAS a Wordle Word? Yes – Valid Guess & Meaning
 word: pukas
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fairy that supposedly appears in animal form, often large.<p><strong>Example:</strong> The pooka had befriended the kindly old man.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A convenient storage location or hiding spot created by the arrangement or form of surrounding objects</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small, usually perforated, wave- and beach-polished shell fragment formed from the spire of a cone, found along beaches of Pacific islands, and used especially to make necklaces.</li></ul></div></div>"
+description: Yes, PUKAS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- dukas
+- pikas
+- puhas
+- pujas
+- pukes
+- pukus
+- pulas
+- pumas
+- punas
+- pupas
+- putas
+- puyas
+anagrams:
+- kapus
+trap:
+  pattern: PU_AS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A fairy that supposedly appears in animal form, often large.
+    example: The pooka had befriended the kindly old man.
+- pos: noun
+  defs:
+  - text: A convenient storage location or hiding spot created by the arrangement
+      or form of surrounding objects
+- pos: noun
+  defs:
+  - text: A small, usually perforated, wave- and beach-polished shell fragment formed
+      from the spire of a cone, found along beaches of Pacific islands, and used especially
+      to make necklaces.
 ---
-

@@ -1,7 +1,61 @@
 ---
 layout: word
-title: jolly
+title: Is JOLLY a Wordle Word?
+head_title: 'Is JOLLY a Wordle Word? Yes – Past Answer #1037 & Meaning'
 word: jolly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A pleasure trip or excursion.</li><li><strong>Definition 2:</strong> A marine in the English navy.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To amuse or divert.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Full of merriment and high spirits; jovial.</li><li><strong>Definition 2:</strong> Full of life and mirth; jouous; merry.</li><li><strong>Definition 3:</strong> Splendid, excellent, pleasant</li><li><strong>Definition 4:</strong> Large</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> Very, extremely</li></ul></div></div>"
+description: Yes, JOLLY is a valid Wordle word. It was the Wordle answer on April
+  21, 2024 (#1037). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 21, 2024 (#1037).
+past_answers:
+- date: '2024-04-21'
+  number: 1037
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - O
+  - L
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 96
+neighbours:
+- dolly
+- folly
+- golly
+- holly
+- jelly
+- colly
+- jollo
+- jolls
+- jolty
+- jowly
+- lolly
+- molly
+trap:
+  pattern: _OLLY
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: A pleasure trip or excursion.
+  - text: A marine in the English navy.
+- pos: verb
+  defs:
+  - text: To amuse or divert.
+- pos: adjective
+  defs:
+  - text: Full of merriment and high spirits; jovial.
+  - text: Full of life and mirth; jouous; merry.
+  - text: Splendid, excellent, pleasant
+  - text: Large
+- pos: adverb
+  defs:
+  - text: Very, extremely
 ---
-

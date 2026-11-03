@@ -1,7 +1,84 @@
 ---
 layout: word
-title: board
+title: Is BOARD a Wordle Word?
+head_title: 'Is BOARD a Wordle Word? Yes – Past Answer #1451 & Meaning'
 word: board
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɔːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.</li><li><strong>Definition 2:</strong> A device (e.g., switchboard) containing electrical switches and other controls and designed to control lights, sound, telephone connections, etc.</li><li><strong>Definition 3:</strong> A flat surface with markings for playing a board game.<p><strong>Example:</strong> Each player starts the game with four counters on the board.</p></li><li><strong>Definition 4:</strong> Short for blackboard, whiteboard, chessboard, surfboard, message board (on the Internet), etc.</li><li><strong>Definition 5:</strong> A committee that manages the business of an organization, e.g., a board of directors.<p><strong>Example:</strong> We have to wait to hear back from the board.</p></li><li><strong>Definition 6:</strong> Regular meals or the amount paid for them in a place of lodging.<p><strong>Example:</strong> Room and board</p></li><li><strong>Definition 7:</strong> The side of a ship.</li><li><strong>Definition 8:</strong> The distance a sailing vessel runs between tacks when working to windward.</li><li><strong>Definition 9:</strong> The wall that surrounds an ice hockey rink, often in plural.</li><li><strong>Definition 10:</strong> A long, narrow table, like that used in a medieval dining hall.</li><li><strong>Definition 11:</strong> Paper made thick and stiff like a board, for book covers, etc.; pasteboard.<p><strong>Example:</strong> to bind a book in boards</p></li><li><strong>Definition 12:</strong> A level or stage having a particular layout.</li><li><strong>Definition 13:</strong> A container for holding pre-dealt cards that is used to allow multiple sets of players to play the same cards.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.<p><strong>Example:</strong> It is time to board the aircraft.</p></li><li><strong>Definition 2:</strong> To provide someone with meals and lodging, usually in exchange for money.<p><strong>Example:</strong> to board one's horse at a livery stable</p></li><li><strong>Definition 3:</strong> To receive meals and lodging in exchange for money.</li><li><strong>Definition 4:</strong> To capture an enemy ship by going alongside and grappling her, then invading her with a boarding party</li><li><strong>Definition 5:</strong> To obtain meals, or meals and lodgings, statedly for compensation</li><li><strong>Definition 6:</strong> To approach (someone); to make advances to, accost.</li><li><strong>Definition 7:</strong> To cover with boards or boarding.<p><strong>Example:</strong> to board a house</p></li><li><strong>Definition 8:</strong> To hit (someone) with a wooden board.</li><li><strong>Definition 9:</strong> To write something on a board, especially a blackboard or whiteboard.</li></ul></div></div>"
+description: Yes, BOARD is a valid Wordle word. It was the Wordle answer on June 9,
+  2025 (#1451). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 9, 2025 (#1451).
+past_answers:
+- date: '2025-06-09'
+  number: 1451
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 29
+neighbours:
+- beard
+- hoard
+- boars
+- boart
+- boord
+- bourd
+anagrams:
+- broad
+- abord
+- adorb
+- bardo
+- dobra
+- dorba
+phonetic: "/bɔːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A relatively long, wide and thin piece of any material, usually wood or
+      similar, often for use in construction or furniture-making.
+  - text: A device (e.g., switchboard) containing electrical switches and other controls
+      and designed to control lights, sound, telephone connections, etc.
+  - text: A flat surface with markings for playing a board game.
+    example: Each player starts the game with four counters on the board.
+  - text: Short for blackboard, whiteboard, chessboard, surfboard, message board (on
+      the Internet), etc.
+  - text: A committee that manages the business of an organization, e.g., a board
+      of directors.
+    example: We have to wait to hear back from the board.
+  - text: Regular meals or the amount paid for them in a place of lodging.
+    example: Room and board
+  - text: The side of a ship.
+  - text: The distance a sailing vessel runs between tacks when working to windward.
+  - text: The wall that surrounds an ice hockey rink, often in plural.
+  - text: A long, narrow table, like that used in a medieval dining hall.
+  - text: Paper made thick and stiff like a board, for book covers, etc.; pasteboard.
+    example: to bind a book in boards
+  - text: A level or stage having a particular layout.
+  - text: A container for holding pre-dealt cards that is used to allow multiple sets
+      of players to play the same cards.
+- pos: verb
+  defs:
+  - text: To step or climb onto or otherwise enter a ship, aircraft, train or other
+      conveyance.
+    example: It is time to board the aircraft.
+  - text: To provide someone with meals and lodging, usually in exchange for money.
+    example: to board one's horse at a livery stable
+  - text: To receive meals and lodging in exchange for money.
+  - text: To capture an enemy ship by going alongside and grappling her, then invading
+      her with a boarding party
+  - text: To obtain meals, or meals and lodgings, statedly for compensation
+  - text: To approach (someone); to make advances to, accost.
+  - text: To cover with boards or boarding.
+    example: to board a house
+  - text: To hit (someone) with a wooden board.
+  - text: To write something on a board, especially a blackboard or whiteboard.
 ---
-

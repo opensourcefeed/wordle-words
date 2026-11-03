@@ -1,7 +1,47 @@
 ---
 layout: word
-title: nerks
+title: Is NERKS a Wordle Word?
+head_title: Is NERKS a Wordle Word? Yes – Valid Guess & Meaning
 word: nerks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A stupid or objectionable person.</li></ul></div></div>"
+description: Yes, NERKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- berks
+- jerks
+- merks
+- narks
+- necks
+- nerds
+- nerfs
+- nerka
+- nerts
+- neuks
+- norks
+- perks
+anagrams:
+- kerns
+- renks
+trap:
+  pattern: _ERKS
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A stupid or objectionable person.
 ---
-

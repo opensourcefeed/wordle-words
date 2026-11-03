@@ -1,7 +1,63 @@
 ---
 layout: word
-title: peace
+title: Is PEACE a Wordle Word?
+head_title: 'Is PEACE a Wordle Word? Yes – Past Answer #799 & Meaning'
 word: peace
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /piːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A state of tranquility, quiet, and harmony; absence of violence. For instance, a state free from civil disturbance.<p><strong>Example:</strong> Our lounge strives to maintain an environment of peace for the comfort of our customers.</p></li><li><strong>Definition 2:</strong> A state free of oppressive and unpleasant thoughts and emotions.<p><strong>Example:</strong> The safety equipment will give me some peace of mind.</p></li><li><strong>Definition 3:</strong> Harmony in personal relations.</li><li><strong>Definition 4:</strong> A state free of war, in particular war between different countries.<p><strong>Example:</strong> May there be peace in our time.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make peace; to put at peace; to be at peace.</li><li><strong>Definition 2:</strong> To peace out.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> interjection</p><ul><li><strong>Definition 1:</strong> Shut up!, silence!; be quiet, be silent.</li><li><strong>Definition 2:</strong> Shortened form of peace out; goodbye.</li></ul></div></div>"
+description: Yes, PEACE is a valid Wordle word. It was the Wordle answer on August
+  27, 2023 (#799). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 27, 2023 (#799).
+past_answers:
+- date: '2023-08-27'
+  number: 799
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- peach
+- pence
+- place
+- peage
+- peake
+- peare
+- pease
+- peaze
+- peece
+- perce
+trap:
+  pattern: PEA_E
+  count: 6
+phonetic: "/piːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A state of tranquility, quiet, and harmony; absence of violence. For instance,
+      a state free from civil disturbance.
+    example: Our lounge strives to maintain an environment of peace for the comfort
+      of our customers.
+  - text: A state free of oppressive and unpleasant thoughts and emotions.
+    example: The safety equipment will give me some peace of mind.
+  - text: Harmony in personal relations.
+  - text: A state free of war, in particular war between different countries.
+    example: May there be peace in our time.
+- pos: verb
+  defs:
+  - text: To make peace; to put at peace; to be at peace.
+  - text: To peace out.
+- pos: interjection
+  defs:
+  - text: Shut up!, silence!; be quiet, be silent.
+  - text: Shortened form of peace out; goodbye.
 ---
-

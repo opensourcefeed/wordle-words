@@ -1,7 +1,36 @@
 ---
 layout: word
-title: emery
+title: Is EMERY a Wordle Word?
+head_title: Is EMERY a Wordle Word? Yes – Valid Guess & Meaning
 word: emery
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɛməɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An impure type of corundum, often used for sanding or polishing.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sand or polish with emery.</li><li><strong>Definition 2:</strong> To coat with emery.</li></ul></div></div>"
+description: Yes, EMERY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- every
+- emerg
+phonetic: "/ˈɛməɹi/"
+definitions:
+- pos: noun
+  defs:
+  - text: An impure type of corundum, often used for sanding or polishing.
+- pos: verb
+  defs:
+  - text: To sand or polish with emery.
+  - text: To coat with emery.
 ---
-

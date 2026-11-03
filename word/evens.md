@@ -1,7 +1,55 @@
 ---
 layout: word
-title: evens
+title: Is EVENS a Wordle Word?
+head_title: Is EVENS a Wordle Word? Yes – Valid Guess & Meaning
 word: evens
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (diminutive) An even number.<p><strong>Example:</strong> So let's see. There are two evens here and three odds.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make flat and level.<p><strong>Example:</strong> We need to even this playing field; the west goal is too low.</p></li><li><strong>Definition 2:</strong> To equal.</li><li><strong>Definition 3:</strong> To be equal.<p><strong>Example:</strong> Thrice nine evens twenty seven.</p></li><li><strong>Definition 4:</strong> To place in an equal state, as to obligation, or in a state in which nothing is due on either side; to balance, as accounts; to make quits.<p><strong>Example:</strong> We need to even the score.</p></li><li><strong>Definition 5:</strong> To set right; to complete.</li><li><strong>Definition 6:</strong> To act up to; to keep pace with.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Evening.</li></ul></div></div>"
+description: Yes, EVENS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 75
+neighbours:
+- event
+- avens
+- etens
+- evegs
+- evets
+- ovens
+anagrams:
+- seven
+- eevns
+- neves
+definitions:
+- pos: noun
+  defs:
+  - text: "(diminutive) An even number."
+    example: So let's see. There are two evens here and three odds.
+- pos: verb
+  defs:
+  - text: To make flat and level.
+    example: We need to even this playing field; the west goal is too low.
+  - text: To equal.
+  - text: To be equal.
+    example: Thrice nine evens twenty seven.
+  - text: To place in an equal state, as to obligation, or in a state in which nothing
+      is due on either side; to balance, as accounts; to make quits.
+    example: We need to even the score.
+  - text: To set right; to complete.
+  - text: To act up to; to keep pace with.
+- pos: noun
+  defs:
+  - text: Evening.
 ---
-

@@ -1,7 +1,109 @@
 ---
 layout: word
-title: mates
+title: Is MATES a Wordle Word?
+head_title: Is MATES a Wordle Word? Yes – Valid Guess & Meaning
 word: mates
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /meɪts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The conclusive victory in a game of chess that occurs when an opponent's king is threatened with unavoidable capture.</li><li><strong>Definition 2:</strong> (by extension) Any losing situation with no escape; utter defeat.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put the king of an opponent into checkmate.<p><strong>Example:</strong> That jerk checkmated me in four moves!</p></li><li><strong>Definition 2:</strong> (by extension) To place in a losing situation that has no escape.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fellow, comrade, colleague, partner or someone with whom something is shared, e.g. shipmate, classmate.</li><li><strong>Definition 2:</strong> (especially of a non-human animal) A breeding partner.</li><li><strong>Definition 3:</strong> A friend, usually of the same sex.<p><strong>Example:</strong> He's my best mate.</p></li><li><strong>Definition 4:</strong> Friendly term of address to a stranger, usually male, of similar age<p><strong>Example:</strong> Excuse me, mate, have you got the time?</p></li><li><strong>Definition 5:</strong> In naval ranks, a non-commissioned officer or his subordinate (e.g. Boatswain's Mate, Gunner's Mate, Sailmaker's Mate, etc).</li><li><strong>Definition 6:</strong> A ship's officer, subordinate to the master on a commercial ship.</li><li><strong>Definition 7:</strong> A first mate.</li><li><strong>Definition 8:</strong> A technical assistant in certain trades (e.g. gasfitter's mate, plumber's mate); sometimes an apprentice.</li><li><strong>Definition 9:</strong> The other member of a matched pair of objects.<p><strong>Example:</strong> I found one of the socks I wanted to wear, but I couldn't find its mate.</p></li><li><strong>Definition 10:</strong> A suitable companion; a match; an equal.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To match, fit together without space between.<p><strong>Example:</strong> The pieces of the puzzle mate perfectly.</p></li><li><strong>Definition 2:</strong> To copulate.</li><li><strong>Definition 3:</strong> To pair in order to raise offspring</li><li><strong>Definition 4:</strong> To arrange in matched pairs.</li><li><strong>Definition 5:</strong> To introduce (animals) together for the purpose of breeding.</li><li><strong>Definition 6:</strong> (of an animal) To copulate with.</li><li><strong>Definition 7:</strong> To marry; to match (a person).</li><li><strong>Definition 8:</strong> To match oneself against; to oppose as equal; to compete with.</li><li><strong>Definition 9:</strong> To fit (objects) together without space between.</li><li><strong>Definition 10:</strong> To move (a space shuttle orbiter) onto the back of an aircraft that can carry it.</li></ul></div><div class='meanings'><h3>Meaning 5</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To confuse; to confound.</li></ul></div><div class='meanings'><h3>Meaning 6</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The abovementioned plant; the leaves and shoots used for the tea</li></ul></div><div class='meanings'><h3>Meaning 7</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Friendly; having a friendship (with).<p><strong>Example:</strong> He is mates with my brother.</p></li></ul></div><div class='meanings'><h3>Meaning 8</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An evergreen tree, Ilex paraquariensis, native to South America, cultivated for its leaves.</li><li><strong>Definition 2:</strong> A beverage, resembling tea, made from the dried leaves of this plant.</li><li><strong>Definition 3:</strong> A cup of this drink.</li></ul></div></div>"
+description: Yes, MATES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 6
+neighbours:
+- matey
+- bates
+- cates
+- dates
+- fates
+- gates
+- hates
+- mabes
+- maces
+- mages
+- makes
+- males
+anagrams:
+- steam
+- meats
+- metas
+- satem
+- tames
+- teams
+trap:
+  pattern: _ATES
+  count: 13
+phonetic: "/meɪts/"
+definitions:
+- pos: noun
+  defs:
+  - text: The conclusive victory in a game of chess that occurs when an opponent's
+      king is threatened with unavoidable capture.
+  - text: "(by extension) Any losing situation with no escape; utter defeat."
+- pos: verb
+  defs:
+  - text: To put the king of an opponent into checkmate.
+    example: That jerk checkmated me in four moves!
+  - text: "(by extension) To place in a losing situation that has no escape."
+- pos: noun
+  defs:
+  - text: A fellow, comrade, colleague, partner or someone with whom something is
+      shared, e.g. shipmate, classmate.
+  - text: "(especially of a non-human animal) A breeding partner."
+  - text: A friend, usually of the same sex.
+    example: He's my best mate.
+  - text: Friendly term of address to a stranger, usually male, of similar age
+    example: Excuse me, mate, have you got the time?
+  - text: In naval ranks, a non-commissioned officer or his subordinate (e.g. Boatswain's
+      Mate, Gunner's Mate, Sailmaker's Mate, etc).
+  - text: A ship's officer, subordinate to the master on a commercial ship.
+  - text: A first mate.
+  - text: A technical assistant in certain trades (e.g. gasfitter's mate, plumber's
+      mate); sometimes an apprentice.
+  - text: The other member of a matched pair of objects.
+    example: I found one of the socks I wanted to wear, but I couldn't find its mate.
+  - text: A suitable companion; a match; an equal.
+- pos: verb
+  defs:
+  - text: To match, fit together without space between.
+    example: The pieces of the puzzle mate perfectly.
+  - text: To copulate.
+  - text: To pair in order to raise offspring
+  - text: To arrange in matched pairs.
+  - text: To introduce (animals) together for the purpose of breeding.
+  - text: "(of an animal) To copulate with."
+  - text: To marry; to match (a person).
+  - text: To match oneself against; to oppose as equal; to compete with.
+  - text: To fit (objects) together without space between.
+  - text: To move (a space shuttle orbiter) onto the back of an aircraft that can
+      carry it.
+- pos: verb
+  defs:
+  - text: To confuse; to confound.
+- pos: noun
+  defs:
+  - text: The abovementioned plant; the leaves and shoots used for the tea
+- pos: adjective
+  defs:
+  - text: Friendly; having a friendship (with).
+    example: He is mates with my brother.
+- pos: noun
+  defs:
+  - text: An evergreen tree, Ilex paraquariensis, native to South America, cultivated
+      for its leaves.
+  - text: A beverage, resembling tea, made from the dried leaves of this plant.
+  - text: A cup of this drink.
 ---
-

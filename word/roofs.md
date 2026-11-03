@@ -1,7 +1,60 @@
 ---
 layout: word
-title: roofs
+title: Is ROOFS a Wordle Word?
+head_title: Is ROOFS a Wordle Word? Yes – Valid Guess & Meaning
 word: roofs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹuːfs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The external covering at the top of a building.<p><strong>Example:</strong> The roof was blown off by the tornado.</p></li><li><strong>Definition 2:</strong> The top external level of a building.<p><strong>Example:</strong> Let's go up to the roof.</p></li><li><strong>Definition 3:</strong> The upper part of a cavity.<p><strong>Example:</strong> The palate is the roof of the mouth.</p></li><li><strong>Definition 4:</strong> The surface or bed of rock immediately overlying a bed of coal or a flat vein.</li><li><strong>Definition 5:</strong> (rockclimbing) An overhanging rock wall</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To cover or furnish with a roof.</li><li><strong>Definition 2:</strong> To traverse buildings by walking or climbing across their roofs.</li><li><strong>Definition 3:</strong> To put into prison, to bird.</li><li><strong>Definition 4:</strong> To shelter as if under a roof.</li></ul></div></div>"
+description: Yes, ROOFS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 77
+neighbours:
+- coofs
+- doofs
+- goofs
+- hoofs
+- loofs
+- rolfs
+- roods
+- roofy
+- rooks
+- rooms
+- roons
+- roops
+trap:
+  pattern: _OOFS
+  count: 9
+phonetic: "/ɹuːfs/"
+definitions:
+- pos: noun
+  defs:
+  - text: The external covering at the top of a building.
+    example: The roof was blown off by the tornado.
+  - text: The top external level of a building.
+    example: Let's go up to the roof.
+  - text: The upper part of a cavity.
+    example: The palate is the roof of the mouth.
+  - text: The surface or bed of rock immediately overlying a bed of coal or a flat
+      vein.
+  - text: "(rockclimbing) An overhanging rock wall"
+- pos: verb
+  defs:
+  - text: To cover or furnish with a roof.
+  - text: To traverse buildings by walking or climbing across their roofs.
+  - text: To put into prison, to bird.
+  - text: To shelter as if under a roof.
 ---
-

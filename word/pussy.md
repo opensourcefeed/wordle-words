@@ -1,7 +1,51 @@
 ---
 layout: word
-title: pussy
+title: Is PUSSY a Wordle Word?
+head_title: Is PUSSY a Wordle Word? Yes – Valid Guess & Meaning
 word: pussy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈpʊsɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cat.</li><li><strong>Definition 2:</strong> An affectionate term for a woman or girl, seen as having characteristics associated with cats such as sweetness.</li><li><strong>Definition 3:</strong> The female genitalia; the vulva and/or vagina.<p><strong>Example:</strong> You have a lovely pussy!</p></li><li><strong>Definition 4:</strong> Anything soft and furry; a bloom form, or catkin, as on the pussy willow.</li><li><strong>Definition 5:</strong> (normally in the phrase \"to get some pussy\") Sexual intercourse with a woman.<p><strong>Example:</strong> I’m gonna get me some pussy tonight.</p></li><li><strong>Definition 6:</strong> A coward; a weakling; an ineffectual, timid, or pathetic person.<p><strong>Example:</strong> You're such a pussy!</p></li><li><strong>Definition 7:</strong> A game of tip-cat.</li></ul></div></div>"
+description: Yes, PUSSY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - S
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 95
+neighbours:
+- fussy
+- hussy
+- pushy
+- gussy
+- mussy
+- pissy
+- pubsy
+- pudsy
+- pursy
+- wussy
+trap:
+  pattern: _USSY
+  count: 6
+phonetic: "/ˈpʊsɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A cat.
+  - text: An affectionate term for a woman or girl, seen as having characteristics
+      associated with cats such as sweetness.
+  - text: The female genitalia; the vulva and/or vagina.
+    example: You have a lovely pussy!
+  - text: Anything soft and furry; a bloom form, or catkin, as on the pussy willow.
+  - text: (normally in the phrase "to get some pussy") Sexual intercourse with a woman.
+    example: I’m gonna get me some pussy tonight.
+  - text: A coward; a weakling; an ineffectual, timid, or pathetic person.
+    example: You're such a pussy!
+  - text: A game of tip-cat.
 ---
-

@@ -1,7 +1,46 @@
 ---
 layout: word
-title: erupt
+title: Is ERUPT a Wordle Word?
+head_title: 'Is ERUPT a Wordle Word? Yes – Past Answer #1000 & Meaning'
 word: erupt
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɪˈɹʌpt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To eject something violently (such as lava or water, as from a volcano or geyser).<p><strong>Example:</strong> The volcano erupted, spewing lava across a wide area.</p></li><li><strong>Definition 2:</strong> To burst forth; to break out.<p><strong>Example:</strong> The third molar tooth erupts late in most people, and sometimes does not appear at all.</p></li><li><strong>Definition 3:</strong> To spontaneously release pressure or tension.<p><strong>Example:</strong> The crowd erupted in anger.</p></li></ul></div></div>"
+description: Yes, ERUPT is a valid Wordle word. It was the Wordle answer on March
+  15, 2024 (#1000). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 15, 2024 (#1000).
+past_answers:
+- date: '2024-03-15'
+  number: 1000
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- eruct
+anagrams:
+- puter
+- reput
+- upter
+phonetic: "/ɪˈɹʌpt/"
+definitions:
+- pos: verb
+  defs:
+  - text: To eject something violently (such as lava or water, as from a volcano or
+      geyser).
+    example: The volcano erupted, spewing lava across a wide area.
+  - text: To burst forth; to break out.
+    example: The third molar tooth erupts late in most people, and sometimes does
+      not appear at all.
+  - text: To spontaneously release pressure or tension.
+    example: The crowd erupted in anger.
 ---
-

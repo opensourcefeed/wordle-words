@@ -1,7 +1,57 @@
 ---
 layout: word
-title: fever
+title: Is FEVER a Wordle Word?
+head_title: 'Is FEVER a Wordle Word? Yes – Past Answer #1319 & Meaning'
 word: fever
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfiːvə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A higher than normal body temperature of a person (or, generally, a mammal), usually caused by disease.<p><strong>Example:</strong> \"I have a fever. I think I've the flu.\"</p></li><li><strong>Definition 2:</strong> (usually in combination with one or more preceding words) Any of various diseases.</li><li><strong>Definition 3:</strong> A state of excitement or anxiety.</li><li><strong>Definition 4:</strong> A group of stingrays.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To put into a fever; to affect with fever.<p><strong>Example:</strong> a fevered lip</p></li><li><strong>Definition 2:</strong> To become fevered.</li></ul></div></div>"
+description: Yes, FEVER is a valid Wordle word. It was the Wordle answer on January
+  28, 2025 (#1319). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 28, 2025 (#1319).
+past_answers:
+- date: '2025-01-28'
+  number: 1319
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- fewer
+- lever
+- never
+- sever
+- bever
+- eever
+- faver
+- ferer
+- feyer
+- fiver
+trap:
+  pattern: _EVER
+  count: 6
+phonetic: "/ˈfiːvə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A higher than normal body temperature of a person (or, generally, a mammal),
+      usually caused by disease.
+    example: '"I have a fever. I think I''ve the flu."'
+  - text: "(usually in combination with one or more preceding words) Any of various
+      diseases."
+  - text: A state of excitement or anxiety.
+  - text: A group of stingrays.
+- pos: verb
+  defs:
+  - text: To put into a fever; to affect with fever.
+    example: a fevered lip
+  - text: To become fevered.
 ---
-

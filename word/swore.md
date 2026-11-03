@@ -1,7 +1,54 @@
 ---
 layout: word
-title: swore
+title: Is SWORE a Wordle Word?
+head_title: Is SWORE a Wordle Word? Yes – Possible Answer & Meaning
 word: swore
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /swɔː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To take an oath, to promise.</li><li><strong>Definition 2:</strong> To use offensive, profane, or obscene language.</li></ul></div></div>"
+description: Yes, SWORE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- score
+- shore
+- snore
+- spore
+- store
+- sword
+- sworn
+- smore
+- sware
+- swire
+- swole
+anagrams:
+- sower
+- worse
+- owers
+- owres
+- resow
+- serow
+- weros
+trap:
+  pattern: S_ORE
+  count: 7
+phonetic: "/swɔː/"
+definitions:
+- pos: verb
+  defs:
+  - text: To take an oath, to promise.
+  - text: To use offensive, profane, or obscene language.
 ---
-

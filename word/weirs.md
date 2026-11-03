@@ -1,7 +1,48 @@
 ---
 layout: word
-title: weirs
+title: Is WEIRS a Wordle Word?
+head_title: Is WEIRS a Wordle Word? Yes – Valid Guess & Meaning
 word: weirs
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An adjustable dam placed across a river to regulate the flow of water downstream.</li><li><strong>Definition 2:</strong> A fence placed across a river to catch fish.</li></ul></div></div>"
+description: Yes, WEIRS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 13
+neighbours:
+- weird
+- heirs
+- keirs
+- leirs
+- seirs
+- wairs
+- wears
+- weids
+- weils
+- whirs
+anagrams:
+- wiser
+- sweir
+- swire
+- wires
+- wries
+definitions:
+- pos: noun
+  defs:
+  - text: An adjustable dam placed across a river to regulate the flow of water downstream.
+  - text: A fence placed across a river to catch fish.
 ---
-

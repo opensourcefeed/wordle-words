@@ -1,7 +1,31 @@
 ---
 layout: word
-title: ippon
+title: Is IPPON a Wordle Word?
+head_title: Is IPPON a Wordle Word? Yes – Valid Guess & Meaning
 word: ippon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The highest score in judo, awarded for a throw that places the opponent on their back with impetus or for holding the opponent on their back for a number of seconds.</li></ul></div></div>"
+description: Yes, IPPON is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 4
+  repeated:
+  - P
+  common:
+  - I
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 83
+definitions:
+- pos: noun
+  defs:
+  - text: The highest score in judo, awarded for a throw that places the opponent
+      on their back with impetus or for holding the opponent on their back for a number
+      of seconds.
 ---
-

@@ -1,7 +1,53 @@
 ---
 layout: word
-title: rolly
+title: Is ROLLY a Wordle Word?
+head_title: Is ROLLY a Wordle Word? Yes – Valid Guess & Meaning
 word: rolly
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A horse-drawn wheeled vehicle used in a mine.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A hand-rolled cigarette.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Rolling; having the ability to roll, usually due to wheels attached on the bottom.</li><li><strong>Definition 2:</strong> (of the sea) Rough, turbulent, characterized by large or rapid waves.</li></ul></div></div>"
+description: Yes, ROLLY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - L
+  common:
+  - R
+  - O
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- dolly
+- folly
+- golly
+- holly
+- jolly
+- rally
+- colly
+- lolly
+- molly
+- polly
+- rilly
+- roily
+trap:
+  pattern: _OLLY
+  count: 12
+definitions:
+- pos: noun
+  defs:
+  - text: A horse-drawn wheeled vehicle used in a mine.
+- pos: noun
+  defs:
+  - text: A hand-rolled cigarette.
+- pos: adjective
+  defs:
+  - text: Rolling; having the ability to roll, usually due to wheels attached on the
+      bottom.
+  - text: "(of the sea) Rough, turbulent, characterized by large or rapid waves."
 ---
-

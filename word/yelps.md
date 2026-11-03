@@ -1,7 +1,46 @@
 ---
 layout: word
-title: yelps
+title: Is YELPS a Wordle Word?
+head_title: Is YELPS a Wordle Word? Yes – Valid Guess & Meaning
 word: yelps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /jɛlps/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An abrupt, high-pitched noise or utterance.<p><strong>Example:</strong> The puppy let out a yelp when I stepped on her tail.</p></li><li><strong>Definition 2:</strong> A type of emergency vehicle siren sounding quicker and more intense than the wail.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To utter an abrupt, high-pitched noise.<p><strong>Example:</strong> The children yelped with delight as they played in the cold water.</p></li></ul></div></div>"
+description: Yes, YELPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- helps
+- kelps
+- yelks
+- yells
+- yelms
+- yelts
+- yolps
+anagrams:
+- slype
+phonetic: "/jɛlps/"
+definitions:
+- pos: noun
+  defs:
+  - text: An abrupt, high-pitched noise or utterance.
+    example: The puppy let out a yelp when I stepped on her tail.
+  - text: A type of emergency vehicle siren sounding quicker and more intense than
+      the wail.
+- pos: verb
+  defs:
+  - text: To utter an abrupt, high-pitched noise.
+    example: The children yelped with delight as they played in the cold water.
 ---
-

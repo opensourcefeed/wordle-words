@@ -1,7 +1,34 @@
 ---
 layout: word
-title: bokeh
+title: Is BOKEH a Wordle Word?
+head_title: Is BOKEH a Wordle Word? Yes – Valid Guess & Meaning
 word: bokeh
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈboʊ.kə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A subjective aesthetic quality of out-of-focus areas of an image projected by a camera lens.</li></ul></div></div>"
+description: Yes, BOKEH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- boked
+- bokes
+- boteh
+phonetic: "/ˈboʊ.kə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A subjective aesthetic quality of out-of-focus areas of an image projected
+      by a camera lens.
 ---
-

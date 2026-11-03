@@ -1,7 +1,62 @@
 ---
 layout: word
-title: saith
+title: Is SAITH a Wordle Word?
+head_title: Is SAITH a Wordle Word? Yes – Valid Guess & Meaning
 word: saith
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈseɪ.əθ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To pronounce.<p><strong>Example:</strong> Please say your name slowly and clearly.</p></li><li><strong>Definition 2:</strong> To recite.<p><strong>Example:</strong> Martha, will you say the Pledge of Allegiance?</p></li><li><strong>Definition 3:</strong> To tell, either verbally or in writing.<p><strong>Example:</strong> He said he would be here tomorrow.</p></li><li><strong>Definition 4:</strong> To indicate in a written form.<p><strong>Example:</strong> The sign says it’s 50 kilometres to Paris.</p></li><li><strong>Definition 5:</strong> To have a common expression; used in singular passive voice or plural active voice to indicate a rumor or well-known fact.<p><strong>Example:</strong> They say \"when in Rome, do as the Romans do\", which means \"behave as those around you do.\"</p></li><li><strong>Definition 6:</strong> Suppose, assume; used to mark an example, supposition or hypothesis.<p><strong>Example:</strong> A holiday somewhere warm – Florida, say – would be nice.</p></li><li><strong>Definition 7:</strong> To speak; to express an opinion; to make answer; to reply.</li><li><strong>Definition 8:</strong> (of a possession, especially money) To bet as a wager on an outcome; by extension, used to express belief in an outcome by the speaker.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To try; to assay.</li></ul></div></div>"
+description: Yes, SAITH is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- faith
+- smith
+- baith
+- haith
+- laith
+- raith
+- swith
+anagrams:
+- taish
+trap:
+  pattern: _AITH
+  count: 6
+phonetic: "/ˈseɪ.əθ/"
+definitions:
+- pos: verb
+  defs:
+  - text: To pronounce.
+    example: Please say your name slowly and clearly.
+  - text: To recite.
+    example: Martha, will you say the Pledge of Allegiance?
+  - text: To tell, either verbally or in writing.
+    example: He said he would be here tomorrow.
+  - text: To indicate in a written form.
+    example: The sign says it’s 50 kilometres to Paris.
+  - text: To have a common expression; used in singular passive voice or plural active
+      voice to indicate a rumor or well-known fact.
+    example: They say "when in Rome, do as the Romans do", which means "behave as
+      those around you do."
+  - text: Suppose, assume; used to mark an example, supposition or hypothesis.
+    example: A holiday somewhere warm – Florida, say – would be nice.
+  - text: To speak; to express an opinion; to make answer; to reply.
+  - text: "(of a possession, especially money) To bet as a wager on an outcome; by
+      extension, used to express belief in an outcome by the speaker."
+- pos: verb
+  defs:
+  - text: To try; to assay.
 ---
-

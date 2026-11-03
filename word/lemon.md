@@ -1,7 +1,57 @@
 ---
 layout: word
-title: lemon
+title: Is LEMON a Wordle Word?
+head_title: 'Is LEMON a Wordle Word? Yes – Past Answer #567 & Meaning'
 word: lemon
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈlɛmən/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A yellowish citrus fruit.</li><li><strong>Definition 2:</strong> A semitropical evergreen tree, Citrus limon, that bears such fruits.</li><li><strong>Definition 3:</strong> A taste or flavour/flavor of lemons.</li><li><strong>Definition 4:</strong> A more or less bright shade of yellow associated with lemon fruits.</li><li><strong>Definition 5:</strong> A defective or inadequate item or individual.<p><strong>Example:</strong> He didn’t realise until he’d paid for it that the car was a lemon.</p></li><li><strong>Definition 6:</strong> (shortened from “lemon flavour”) Favor.<p><strong>Example:</strong> A thousand quid for that motor? Do me a lemon, I could get it for half that.</p></li><li><strong>Definition 7:</strong> A piece of fanfiction involving explicit sex (named after the erotic anime series Cream Lemon).</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To flavour with lemon.<p><strong>Example:</strong> You can start the vegetables cooking while you are lemoning the fish.</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Containing or having the flavour/flavor and/or scent of lemons.</li><li><strong>Definition 2:</strong> Of the pale yellow colour/color of lemons.</li><li><strong>Definition 3:</strong> (from \"lemon tart\") Smart; cheeky, vocal.</li></ul></div></div>"
+description: Yes, LEMON is a valid Wordle word. It was the Wordle answer on January
+  7, 2023 (#567). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on January 7, 2023 (#567).
+past_answers:
+- date: '2023-01-07'
+  number: 567
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 19
+neighbours:
+- demon
+- leman
+anagrams:
+- melon
+phonetic: "/ˈlɛmən/"
+definitions:
+- pos: noun
+  defs:
+  - text: A yellowish citrus fruit.
+  - text: A semitropical evergreen tree, Citrus limon, that bears such fruits.
+  - text: A taste or flavour/flavor of lemons.
+  - text: A more or less bright shade of yellow associated with lemon fruits.
+  - text: A defective or inadequate item or individual.
+    example: He didn’t realise until he’d paid for it that the car was a lemon.
+  - text: "(shortened from “lemon flavour”) Favor."
+    example: A thousand quid for that motor? Do me a lemon, I could get it for half
+      that.
+  - text: A piece of fanfiction involving explicit sex (named after the erotic anime
+      series Cream Lemon).
+- pos: verb
+  defs:
+  - text: To flavour with lemon.
+    example: You can start the vegetables cooking while you are lemoning the fish.
+- pos: adjective
+  defs:
+  - text: Containing or having the flavour/flavor and/or scent of lemons.
+  - text: Of the pale yellow colour/color of lemons.
+  - text: (from "lemon tart") Smart; cheeky, vocal.
 ---
-

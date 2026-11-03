@@ -1,7 +1,41 @@
 ---
 layout: word
-title: banco
+title: Is BANCO a Wordle Word?
+head_title: Is BANCO a Wordle Word? Yes – Valid Guess & Meaning
 word: banco
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A bank, especially that of Venice; formerly used to indicate bank money, as distinguished from the current money when it has become depreciated.<p><strong>Example:</strong> banco money</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Being or relating to a type of court involving a bench of judges. Quite often, the Banco Court is an appeals court.</li></ul></div></div>"
+description: Yes, BANCO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- banjo
+- bacco
+- bancs
+- bunco
+anagrams:
+- bacon
+definitions:
+- pos: noun
+  defs:
+  - text: A bank, especially that of Venice; formerly used to indicate bank money,
+      as distinguished from the current money when it has become depreciated.
+    example: banco money
+- pos: adjective
+  defs:
+  - text: Being or relating to a type of court involving a bench of judges. Quite
+      often, the Banco Court is an appeals court.
 ---
-

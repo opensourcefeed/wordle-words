@@ -1,7 +1,37 @@
 ---
 layout: word
-title: ormer
+title: Is ORMER a Wordle Word?
+head_title: Is ORMER a Wordle Word? Yes – Valid Guess & Meaning
 word: ormer
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɔːmə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> An abalone or sea-ear, particularly Haliotis tuberculata, common in the Channel Islands.</li></ul></div></div>"
+description: Yes, ORMER is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- order
+- armer
+anagrams:
+- romer
+phonetic: "/ˈɔːmə/"
+definitions:
+- pos: noun
+  defs:
+  - text: An abalone or sea-ear, particularly Haliotis tuberculata, common in the
+      Channel Islands.
 ---
-

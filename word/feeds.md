@@ -1,7 +1,78 @@
 ---
 layout: word
-title: feeds
+title: Is FEEDS a Wordle Word?
+head_title: Is FEEDS a Wordle Word? Yes – Valid Guess & Meaning
 word: feeds
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Food given to (especially herbivorous) animals.<p><strong>Example:</strong> They sell feed, riding helmets, and everything else for horses.</p></li><li><strong>Definition 2:</strong> Something supplied continuously.<p><strong>Example:</strong> a satellite feed</p></li><li><strong>Definition 3:</strong> The part of a machine that supplies the material to be operated upon.<p><strong>Example:</strong> the paper feed of a printer</p></li><li><strong>Definition 4:</strong> The forward motion of the material fed into a machine.</li><li><strong>Definition 5:</strong> A meal.</li><li><strong>Definition 6:</strong> A gathering to eat, especially in quantity.<p><strong>Example:</strong> They held a crab feed on the beach.</p></li><li><strong>Definition 7:</strong> Encapsulated online content, such as news or a blog, that can be subscribed to.<p><strong>Example:</strong> I've subscribed to the feeds of my favourite blogs, so I can find out when new posts are added without having to visit those sites.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (ditransitive) To give (someone or something) food to eat.<p><strong>Example:</strong> Feed the dog every evening.</p></li><li><strong>Definition 2:</strong> To eat (usually of animals).<p><strong>Example:</strong> Spiders feed on gnats and flies.</p></li><li><strong>Definition 3:</strong> To give (someone or something) to (someone or something else) as food.<p><strong>Example:</strong> Feed the fish to the dolphins.</p></li><li><strong>Definition 4:</strong> To give to a machine to be processed.<p><strong>Example:</strong> Feed the paper gently into the document shredder.</p></li><li><strong>Definition 5:</strong> To satisfy, gratify, or minister to (a sense, taste, desire, etc.).</li><li><strong>Definition 6:</strong> To supply with something.<p><strong>Example:</strong> Springs feed ponds with water.</p></li><li><strong>Definition 7:</strong> To graze; to cause to be cropped by feeding, as herbage by cattle.<p><strong>Example:</strong> If grain is too forward in autumn, feed it with sheep.</p></li><li><strong>Definition 8:</strong> To pass to.</li><li><strong>Definition 9:</strong> (of a phonological rule) To create the environment where another phonological rule can apply; to be applied before another rule.<p><strong>Example:</strong> Nasalization feeds raising.</p></li><li><strong>Definition 10:</strong> (of a syntactic rule) To create the syntactic environment in which another syntactic rule is applied; to be applied before another syntactic rule.</li></ul></div></div>"
+description: Yes, FEEDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- deeds
+- feebs
+- feels
+- feens
+- feers
+- fends
+- feods
+- feuds
+- heeds
+- meeds
+- needs
+- reeds
+trap:
+  pattern: _EEDS
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: Food given to (especially herbivorous) animals.
+    example: They sell feed, riding helmets, and everything else for horses.
+  - text: Something supplied continuously.
+    example: a satellite feed
+  - text: The part of a machine that supplies the material to be operated upon.
+    example: the paper feed of a printer
+  - text: The forward motion of the material fed into a machine.
+  - text: A meal.
+  - text: A gathering to eat, especially in quantity.
+    example: They held a crab feed on the beach.
+  - text: Encapsulated online content, such as news or a blog, that can be subscribed
+      to.
+    example: I've subscribed to the feeds of my favourite blogs, so I can find out
+      when new posts are added without having to visit those sites.
+- pos: verb
+  defs:
+  - text: "(ditransitive) To give (someone or something) food to eat."
+    example: Feed the dog every evening.
+  - text: To eat (usually of animals).
+    example: Spiders feed on gnats and flies.
+  - text: To give (someone or something) to (someone or something else) as food.
+    example: Feed the fish to the dolphins.
+  - text: To give to a machine to be processed.
+    example: Feed the paper gently into the document shredder.
+  - text: To satisfy, gratify, or minister to (a sense, taste, desire, etc.).
+  - text: To supply with something.
+    example: Springs feed ponds with water.
+  - text: To graze; to cause to be cropped by feeding, as herbage by cattle.
+    example: If grain is too forward in autumn, feed it with sheep.
+  - text: To pass to.
+  - text: "(of a phonological rule) To create the environment where another phonological
+      rule can apply; to be applied before another rule."
+    example: Nasalization feeds raising.
+  - text: "(of a syntactic rule) To create the syntactic environment in which another
+      syntactic rule is applied; to be applied before another syntactic rule."
 ---
-

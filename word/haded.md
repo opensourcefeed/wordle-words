@@ -1,7 +1,46 @@
 ---
 layout: word
-title: haded
+title: Is HADED a Wordle Word?
+head_title: Is HADED a Wordle Word? Yes – Valid Guess & Meaning
 word: haded
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To slope or incline from the vertical.</li></ul></div></div>"
+description: Yes, HADED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- faded
+- hades
+- haled
+- hamed
+- hared
+- hated
+- hawed
+- hayed
+- hazed
+- hided
+- jaded
+- laded
+trap:
+  pattern: HA_ED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To slope or incline from the vertical.
 ---
-

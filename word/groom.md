@@ -1,7 +1,38 @@
 ---
 layout: word
-title: groom
+title: Is GROOM a Wordle Word?
+head_title: 'Is GROOM a Wordle Word? Yes – Past Answer #1081 & Meaning'
 word: groom
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɹuːm/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A man who is about to marry.</li></ul></div></div>"
+description: Yes, GROOM is a valid Wordle word. It was the Wordle answer on June 4,
+  2024 (#1081). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 4, 2024 (#1081).
+past_answers:
+- date: '2024-06-04'
+  number: 1081
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 4
+  repeated:
+  - O
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 87
+neighbours:
+- broom
+- gloom
+- froom
+- groof
+- vroom
+phonetic: "/ɡɹuːm/"
+definitions:
+- pos: noun
+  defs:
+  - text: A man who is about to marry.
 ---
-

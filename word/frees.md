@@ -1,7 +1,64 @@
 ---
 layout: word
-title: frees
+title: Is FREES a Wordle Word?
+head_title: Is FREES a Wordle Word? Yes – Valid Guess & Meaning
 word: frees
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /fɹiːz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Free transfer</li><li><strong>Definition 2:</strong> The usual means of restarting play after a foul is committed, where the non-offending team restarts from where the foul was committed.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make free; set at liberty; release.</li><li><strong>Definition 2:</strong> To rid of something that confines or oppresses.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (other ballgames) a kick in which a player may kick the ball without interference from the opposition. Such a kick may be awarded for a foul by the opposition, or earned by a player such as by taking a mark.</li><li><strong>Definition 2:</strong> The usual means of restarting play after a foul is committed, where the non-offending team restarts from where the foul was committed.</li></ul></div></div>"
+description: Yes, FREES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 53
+neighbours:
+- freed
+- freer
+- brees
+- crees
+- drees
+- flees
+- freet
+- frets
+- fries
+- froes
+- grees
+- prees
+anagrams:
+- feers
+- feres
+- reefs
+- sefer
+trap:
+  pattern: _REES
+  count: 7
+phonetic: "/fɹiːz/"
+definitions:
+- pos: noun
+  defs:
+  - text: Free transfer
+  - text: The usual means of restarting play after a foul is committed, where the
+      non-offending team restarts from where the foul was committed.
+- pos: verb
+  defs:
+  - text: To make free; set at liberty; release.
+  - text: To rid of something that confines or oppresses.
+- pos: noun
+  defs:
+  - text: "(other ballgames) a kick in which a player may kick the ball without interference
+      from the opposition. Such a kick may be awarded for a foul by the opposition,
+      or earned by a player such as by taking a mark."
+  - text: The usual means of restarting play after a foul is committed, where the
+      non-offending team restarts from where the foul was committed.
 ---
-

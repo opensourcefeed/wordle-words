@@ -1,7 +1,47 @@
 ---
 layout: word
-title: eaves
+title: Is EAVES a Wordle Word?
+head_title: Is EAVES a Wordle Word? Yes – Valid Guess & Meaning
 word: eaves
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /iːvz/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The underside of a roof that extends beyond the external walls of a building.</li></ul></div></div>"
+description: Yes, EAVES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 51
+neighbours:
+- caves
+- eales
+- eases
+- eaved
+- eaver
+- elves
+- faves
+- haves
+- laves
+- naves
+- oaves
+- paves
+trap:
+  pattern: _AVES
+  count: 11
+phonetic: "/iːvz/"
+definitions:
+- pos: noun
+  defs:
+  - text: The underside of a roof that extends beyond the external walls of a building.
 ---
-

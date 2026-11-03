@@ -1,6 +1,32 @@
 ---
 layout: word
-title: every
+title: Is EVERY a Wordle Word?
+head_title: 'Is EVERY a Wordle Word? Yes – Past Answer #650'
 word: every
+description: Yes, EVERY is a valid Wordle word. It was the Wordle answer on March
+  31, 2023 (#650). See its starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on March 31, 2023 (#650).
+past_answers:
+- date: '2023-03-31'
+  number: 650
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- emery
+- evert
+anagrams:
+- veery
 ---
-

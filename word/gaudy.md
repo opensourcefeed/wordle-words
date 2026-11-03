@@ -1,7 +1,41 @@
 ---
 layout: word
-title: gaudy
+title: Is GAUDY a Wordle Word?
+head_title: 'Is GAUDY a Wordle Word? Yes – Past Answer #149 & Meaning'
 word: gaudy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One of the large beads in the rosary at which the paternoster is recited.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Very showy or ornamented, now especially when excessive, or in a tasteless or vulgar manner</li><li><strong>Definition 2:</strong> Fun; merry; festive</li></ul></div></div>"
+description: Yes, GAUDY is a valid Wordle word. It was the Wordle answer on November
+  15, 2021 (#149). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 15, 2021 (#149).
+past_answers:
+- date: '2021-11-15'
+  number: 149
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- gandy
+- gaucy
+- gauds
+- gaumy
+- gauzy
+definitions:
+- pos: noun
+  defs:
+  - text: One of the large beads in the rosary at which the paternoster is recited.
+- pos: adjective
+  defs:
+  - text: Very showy or ornamented, now especially when excessive, or in a tasteless
+      or vulgar manner
+  - text: Fun; merry; festive
 ---
-

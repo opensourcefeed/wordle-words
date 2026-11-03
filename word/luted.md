@@ -1,7 +1,46 @@
 ---
 layout: word
-title: luted
+title: Is LUTED a Wordle Word?
+head_title: Is LUTED a Wordle Word? Yes – Valid Guess & Meaning
 word: luted
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play on a lute, or as if on a lute.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To fix or fasten something with lute.</li></ul></div></div>"
+description: Yes, LUTED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - T
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 20
+neighbours:
+- lated
+- lited
+- lubed
+- luged
+- lured
+- lutea
+- luter
+- lutes
+- luxed
+- lyted
+- muted
+- outed
+definitions:
+- pos: verb
+  defs:
+  - text: To play on a lute, or as if on a lute.
+- pos: verb
+  defs:
+  - text: To fix or fasten something with lute.
 ---
-

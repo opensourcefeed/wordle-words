@@ -1,7 +1,59 @@
 ---
 layout: word
-title: wring
+title: Is WRING a Wordle Word?
+head_title: Is WRING a Wordle Word? Yes – Possible Answer & Meaning
 word: wring
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɹɪŋ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A powerful squeezing or twisting action.<p><strong>Example:</strong> I grasped his hand and gave it a grateful wring.</p></li><li><strong>Definition 2:</strong> Pain or distress.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To squeeze or twist (something) tightly so that liquid is forced out. See also wring out.<p><strong>Example:</strong> I didn’t have a towel so I just wrung my hair dry.</p></li><li><strong>Definition 2:</strong> To extract (a liquid) from something wet, especially cloth, by squeezing and twisting it.<p><strong>Example:</strong> Put the berries into a cheesecloth and wring the juice into a bowl.</p></li><li><strong>Definition 3:</strong> To obtain (something from or out of someone or something) by force.</li><li><strong>Definition 4:</strong> To draw (something from or out of someone); to generate (something) as a response.</li><li><strong>Definition 5:</strong> To hold (something) tightly and press or twist.<p><strong>Example:</strong> to wring one's hands (with worry, etc.)</p></li><li><strong>Definition 6:</strong> To cause pain or distress to (someone / one's heart, soul, etc.).</li><li><strong>Definition 7:</strong> To slide two ultraflat surfaces together such that their faces bond.</li><li><strong>Definition 8:</strong> To twist, as if in pain.</li><li><strong>Definition 9:</strong> To give an incorrect meaning to (words, teachings, etc.).</li><li><strong>Definition 10:</strong> To subject (someone) to extortion; to afflict or oppress in order to enforce compliance.</li><li><strong>Definition 11:</strong> To bend or strain out of its position.<p><strong>Example:</strong> to wring a mast</p></li></ul></div></div>"
+description: Yes, WRING is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- bring
+- wrong
+- wrung
+- ering
+- iring
+- pring
+- wrang
+phonetic: "/ɹɪŋ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A powerful squeezing or twisting action.
+    example: I grasped his hand and gave it a grateful wring.
+  - text: Pain or distress.
+- pos: verb
+  defs:
+  - text: To squeeze or twist (something) tightly so that liquid is forced out. See
+      also wring out.
+    example: I didn’t have a towel so I just wrung my hair dry.
+  - text: To extract (a liquid) from something wet, especially cloth, by squeezing
+      and twisting it.
+    example: Put the berries into a cheesecloth and wring the juice into a bowl.
+  - text: To obtain (something from or out of someone or something) by force.
+  - text: To draw (something from or out of someone); to generate (something) as a
+      response.
+  - text: To hold (something) tightly and press or twist.
+    example: to wring one's hands (with worry, etc.)
+  - text: To cause pain or distress to (someone / one's heart, soul, etc.).
+  - text: To slide two ultraflat surfaces together such that their faces bond.
+  - text: To twist, as if in pain.
+  - text: To give an incorrect meaning to (words, teachings, etc.).
+  - text: To subject (someone) to extortion; to afflict or oppress in order to enforce
+      compliance.
+  - text: To bend or strain out of its position.
+    example: to wring a mast
 ---
-

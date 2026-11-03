@@ -1,7 +1,31 @@
 ---
 layout: word
-title: otaku
+title: Is OTAKU a Wordle Word?
+head_title: Is OTAKU a Wordle Word? Yes – Valid Guess & Meaning
 word: otaku
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əʊˈtɑːkuː/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One with an obsessive interest in something, particularly anime or manga.</li></ul></div></div>"
+description: Yes, OTAKU is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - T
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+phonetic: "/əʊˈtɑːkuː/"
+definitions:
+- pos: noun
+  defs:
+  - text: One with an obsessive interest in something, particularly anime or manga.
 ---
-

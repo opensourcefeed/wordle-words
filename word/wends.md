@@ -1,7 +1,48 @@
 ---
 layout: word
-title: wends
+title: Is WENDS a Wordle Word?
+head_title: Is WENDS a Wordle Word? Yes – Valid Guess & Meaning
 word: wends
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To turn; change.</li><li><strong>Definition 2:</strong> To direct (one's way or course); pursue one's way; proceed upon some course or way.<p><strong>Example:</strong> We wended our weary way westward.</p></li><li><strong>Definition 3:</strong> To turn; make a turn; go round; veer.</li><li><strong>Definition 4:</strong> To pass away; disappear; depart; vanish.</li></ul></div></div>"
+description: Yes, WENDS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 48
+neighbours:
+- bends
+- fends
+- hends
+- lends
+- mends
+- pends
+- rends
+- sends
+- tends
+- vends
+- wands
+- weeds
+trap:
+  pattern: _ENDS
+  count: 11
+definitions:
+- pos: verb
+  defs:
+  - text: To turn; change.
+  - text: To direct (one's way or course); pursue one's way; proceed upon some course
+      or way.
+    example: We wended our weary way westward.
+  - text: To turn; make a turn; go round; veer.
+  - text: To pass away; disappear; depart; vanish.
 ---
-

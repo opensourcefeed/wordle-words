@@ -1,7 +1,52 @@
 ---
 layout: word
-title: frags
+title: Is FRAGS a Wordle Word?
+head_title: Is FRAGS a Wordle Word? Yes – Valid Guess & Meaning
 word: frags
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A fragmentation grenade.</li><li><strong>Definition 2:</strong> A successful kill in a deathmatch game.<p><strong>Example:</strong> I'd been fighting him for ages, and then you stole my frag!</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To deliberately kill (one's superior officer) with a fragmentation grenade.</li><li><strong>Definition 2:</strong> To hit with the explosion of a fragmentation grenade.</li><li><strong>Definition 3:</strong> To kill.<p><strong>Example:</strong> I fragged him but he fell off the ledge afterwards.</p></li></ul></div></div>"
+description: Yes, FRAGS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 42
+neighbours:
+- brags
+- crags
+- drags
+- flags
+- frabs
+- frais
+- fraps
+- frass
+- frats
+- fraus
+- frays
+- frigs
+trap:
+  pattern: FRA_S
+  count: 8
+definitions:
+- pos: noun
+  defs:
+  - text: A fragmentation grenade.
+  - text: A successful kill in a deathmatch game.
+    example: I'd been fighting him for ages, and then you stole my frag!
+- pos: verb
+  defs:
+  - text: To deliberately kill (one's superior officer) with a fragmentation grenade.
+  - text: To hit with the explosion of a fragmentation grenade.
+  - text: To kill.
+    example: I fragged him but he fell off the ledge afterwards.
 ---
-

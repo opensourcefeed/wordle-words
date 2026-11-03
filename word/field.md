@@ -1,7 +1,64 @@
 ---
 layout: word
-title: field
+title: Is FIELD a Wordle Word?
+head_title: 'Is FIELD a Wordle Word? Yes – Past Answer #381 & Meaning'
 word: field
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A land area free of woodland, cities, and towns; open country.<p><strong>Example:</strong> There are several species of wild flowers growing in this field.</p></li><li><strong>Definition 2:</strong> A wide, open space that is usually used to grow crops or to hold farm animals.<p><strong>Example:</strong> A crop circle was made in a corn field.</p></li><li><strong>Definition 3:</strong> A place where competitive matches are carried out.</li><li><strong>Definition 4:</strong> Any of various figurative meanings, regularly dead metaphors.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To intercept or catch (a ball) and play it.</li><li><strong>Definition 2:</strong> (and other batting sports) To be the team catching and throwing the ball, as opposed to hitting it.<p><strong>Example:</strong> The blue team are fielding first, while the reds are batting.</p></li><li><strong>Definition 3:</strong> To place (a team, its players, etc.) in a game.<p><strong>Example:</strong> The away team fielded two new players and the second-choice goalkeeper.</p></li><li><strong>Definition 4:</strong> To answer; to address.<p><strong>Example:</strong> She will field questions immediately after her presentation.</p></li><li><strong>Definition 5:</strong> To defeat.<p><strong>Example:</strong> They fielded a fearsome army.</p></li><li><strong>Definition 6:</strong> To execute research (in the field).<p><strong>Example:</strong> He fielded the marketing survey about the upcoming product.</p></li><li><strong>Definition 7:</strong> To deploy in the field.<p><strong>Example:</strong> to field a new land-mine detector</p></li></ul></div></div>"
+description: Yes, FIELD is a valid Wordle word. It was the Wordle answer on July 5,
+  2022 (#381). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 5, 2022 (#381).
+past_answers:
+- date: '2022-07-05'
+  number: 381
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 38
+neighbours:
+- fiend
+- wield
+- yield
+- bield
+- fjeld
+- sield
+anagrams:
+- felid
+- filed
+- flied
+definitions:
+- pos: noun
+  defs:
+  - text: A land area free of woodland, cities, and towns; open country.
+    example: There are several species of wild flowers growing in this field.
+  - text: A wide, open space that is usually used to grow crops or to hold farm animals.
+    example: A crop circle was made in a corn field.
+  - text: A place where competitive matches are carried out.
+  - text: Any of various figurative meanings, regularly dead metaphors.
+- pos: verb
+  defs:
+  - text: To intercept or catch (a ball) and play it.
+  - text: "(and other batting sports) To be the team catching and throwing the ball,
+      as opposed to hitting it."
+    example: The blue team are fielding first, while the reds are batting.
+  - text: To place (a team, its players, etc.) in a game.
+    example: The away team fielded two new players and the second-choice goalkeeper.
+  - text: To answer; to address.
+    example: She will field questions immediately after her presentation.
+  - text: To defeat.
+    example: They fielded a fearsome army.
+  - text: To execute research (in the field).
+    example: He fielded the marketing survey about the upcoming product.
+  - text: To deploy in the field.
+    example: to field a new land-mine detector
 ---
-

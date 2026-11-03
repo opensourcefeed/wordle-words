@@ -1,7 +1,37 @@
 ---
 layout: word
-title: beery
+title: Is BEERY a Wordle Word?
+head_title: Is BEERY a Wordle Word? Yes – Valid Guess & Meaning
 word: beery
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈbɪəɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Smelling or tasting of beer.</li><li><strong>Definition 2:</strong> Under the influence of beer.</li></ul></div></div>"
+description: Yes, BEERY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 62
+neighbours:
+- beefy
+- berry
+- leery
+- beers
+- peery
+- veery
+phonetic: "/ˈbɪəɹi/"
+definitions:
+- pos: adjective
+  defs:
+  - text: Smelling or tasting of beer.
+  - text: Under the influence of beer.
 ---
-

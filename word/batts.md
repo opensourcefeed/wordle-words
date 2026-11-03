@@ -1,7 +1,46 @@
 ---
 layout: word
-title: batts
+title: Is BATTS a Wordle Word?
+head_title: Is BATTS a Wordle Word? Yes – Valid Guess & Meaning
 word: batts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Pieces of fabric or fibre used for stuffing; as for batting or insulation</li><li><strong>Definition 2:</strong> (usually in the plural) A shoe.</li></ul></div></div>"
+description: Yes, BATTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 70
+neighbours:
+- batty
+- bafts
+- bahts
+- baits
+- bants
+- basts
+- bates
+- baths
+- batos
+- batta
+- battu
+- bayts
+trap:
+  pattern: BA_TS
+  count: 7
+definitions:
+- pos: noun
+  defs:
+  - text: Pieces of fabric or fibre used for stuffing; as for batting or insulation
+  - text: "(usually in the plural) A shoe."
 ---
-

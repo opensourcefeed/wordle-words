@@ -1,7 +1,34 @@
 ---
 layout: word
-title: alula
+title: Is ALULA a Wordle Word?
+head_title: Is ALULA a Wordle Word? Yes – Valid Guess & Meaning
 word: alula
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæljuːlə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A small projection of three or four feathers on the first digit of the wing on some birds.</li></ul></div></div>"
+description: Yes, ALULA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 3
+  repeated:
+  - A
+  - L
+  common:
+  - A
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 90
+neighbours:
+- alala
+phonetic: "/ˈæljuːlə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A small projection of three or four feathers on the first digit of the wing
+      on some birds.
 ---
-

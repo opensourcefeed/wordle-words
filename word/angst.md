@@ -1,7 +1,41 @@
 ---
 layout: word
-title: angst
+title: Is ANGST a Wordle Word?
+head_title: 'Is ANGST a Wordle Word? Yes – Past Answer #1090 & Meaning'
 word: angst
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /æŋ(k)st/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Emotional turmoil; painful sadness.</li><li><strong>Definition 2:</strong> A feeling of acute but vague anxiety or apprehension often accompanied by depression, especially philosophical anxiety.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To suffer angst; to fret.</li></ul></div></div>"
+description: Yes, ANGST is a valid Wordle word. It was the Wordle answer on June 13,
+  2024 (#1090). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on June 13, 2024 (#1090).
+past_answers:
+- date: '2024-06-13'
+  number: 1090
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 30
+anagrams:
+- gants
+- gnats
+- stang
+- tangs
+phonetic: "/æŋ(k)st/"
+definitions:
+- pos: noun
+  defs:
+  - text: Emotional turmoil; painful sadness.
+  - text: A feeling of acute but vague anxiety or apprehension often accompanied by
+      depression, especially philosophical anxiety.
+- pos: verb
+  defs:
+  - text: To suffer angst; to fret.
 ---
-

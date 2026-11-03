@@ -1,7 +1,74 @@
 ---
 layout: word
-title: boned
+title: Is BONED a Wordle Word?
+head_title: Is BONED a Wordle Word? Yes – Valid Guess & Meaning
 word: boned
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To prepare (meat, etc) by removing the bone or bones from.</li><li><strong>Definition 2:</strong> To fertilize with bone.</li><li><strong>Definition 3:</strong> To put whalebone into.<p><strong>Example:</strong> to bone stays</p></li><li><strong>Definition 4:</strong> To make level, using a particular procedure; to survey a level line.<p><strong>Example:</strong> boning rod</p></li><li><strong>Definition 5:</strong> (usually of a man) To have sexual intercourse with.</li><li><strong>Definition 6:</strong> (in Aboriginal culture) To perform \"bone pointing\", a ritual that is intended to bring illness or even death to the victim.</li><li><strong>Definition 7:</strong> (usually with \"up\") To study.<p><strong>Example:</strong> bone up</p></li><li><strong>Definition 8:</strong> To polish boots to a shiny finish.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To apprehend, steal.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To sight along an object or set of objects to check whether they are level or in line.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (in combination) Having some specific type of bone.</li><li><strong>Definition 2:</strong> Of computer-generated animations: based on models with simulated bones or joints.</li><li><strong>Definition 3:</strong> Beset with unfortunate circumstances that seem difficult or impossible to overcome; in imminent danger.</li><li><strong>Definition 4:</strong> Broken.</li><li><strong>Definition 5:</strong> Of meat or fish, having had the bones removed before cooking.</li><li><strong>Definition 6:</strong> Of a garment such as a corset or basque, fitted with bones.</li><li><strong>Definition 7:</strong> Having the legs straightened during a trick</li></ul></div></div>"
+description: Yes, BONED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- boney
+- baned
+- boded
+- boked
+- boner
+- bones
+- booed
+- bored
+- bowed
+- boxed
+- boyed
+- coned
+trap:
+  pattern: BO_ED
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To prepare (meat, etc) by removing the bone or bones from.
+  - text: To fertilize with bone.
+  - text: To put whalebone into.
+    example: to bone stays
+  - text: To make level, using a particular procedure; to survey a level line.
+    example: boning rod
+  - text: "(usually of a man) To have sexual intercourse with."
+  - text: (in Aboriginal culture) To perform "bone pointing", a ritual that is intended
+      to bring illness or even death to the victim.
+  - text: (usually with "up") To study.
+    example: bone up
+  - text: To polish boots to a shiny finish.
+- pos: verb
+  defs:
+  - text: To apprehend, steal.
+- pos: verb
+  defs:
+  - text: To sight along an object or set of objects to check whether they are level
+      or in line.
+- pos: adjective
+  defs:
+  - text: "(in combination) Having some specific type of bone."
+  - text: 'Of computer-generated animations: based on models with simulated bones
+      or joints.'
+  - text: Beset with unfortunate circumstances that seem difficult or impossible to
+      overcome; in imminent danger.
+  - text: Broken.
+  - text: Of meat or fish, having had the bones removed before cooking.
+  - text: Of a garment such as a corset or basque, fitted with bones.
+  - text: Having the legs straightened during a trick
 ---
-

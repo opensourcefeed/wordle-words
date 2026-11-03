@@ -1,7 +1,58 @@
 ---
 layout: word
-title: arses
+title: Is ARSES a Wordle Word?
+head_title: Is ARSES a Wordle Word? Yes – Valid Guess & Meaning
 word: arses
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The buttocks or more specifically, the anus.</li><li><strong>Definition 2:</strong> A stupid, mean or despicable person.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To be silly, act stupid or mess around.<p><strong>Example:</strong> Stop arsing around!</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> The stronger part of a musical measure: the part containing the beat.</li><li><strong>Definition 2:</strong> The stronger part of a metrical foot: the part containing the long (heavy) syllable in quantitative meter, or the stressed syllable in a qualitative meter.</li><li><strong>Definition 3:</strong> The elevation of the hand, or that part of the bar at which it is raised, in beating time; the weak or unaccented part of the bar, opposed to the thesis.</li><li><strong>Definition 4:</strong> The elevation of the voice to a higher pitch in speaking.</li></ul></div></div>"
+description: Yes, ARSES is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - E
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 10
+neighbours:
+- akses
+- apses
+- arles
+- arsed
+- arsey
+- arsis
+- asses
+- erses
+anagrams:
+- rases
+- rasse
+- saser
+- sears
+definitions:
+- pos: noun
+  defs:
+  - text: The buttocks or more specifically, the anus.
+  - text: A stupid, mean or despicable person.
+- pos: verb
+  defs:
+  - text: To be silly, act stupid or mess around.
+    example: Stop arsing around!
+- pos: noun
+  defs:
+  - text: 'The stronger part of a musical measure: the part containing the beat.'
+  - text: 'The stronger part of a metrical foot: the part containing the long (heavy)
+      syllable in quantitative meter, or the stressed syllable in a qualitative meter.'
+  - text: The elevation of the hand, or that part of the bar at which it is raised,
+      in beating time; the weak or unaccented part of the bar, opposed to the thesis.
+  - text: The elevation of the voice to a higher pitch in speaking.
 ---
-

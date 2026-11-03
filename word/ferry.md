@@ -1,7 +1,65 @@
 ---
 layout: word
-title: ferry
+title: Is FERRY a Wordle Word?
+head_title: 'Is FERRY a Wordle Word? Yes – Past Answer #191 & Meaning'
 word: ferry
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈfɛɹɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule.</li><li><strong>Definition 2:</strong> A place where passengers are transported across water in such a ship.</li><li><strong>Definition 3:</strong> The legal right or franchise that entitles a corporate body or an individual to operate such a service.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To carry; transport; convey.<p><strong>Example:</strong> Trucks plowed through the water to ferry flood victims to safety.</p></li><li><strong>Definition 2:</strong> To move someone or something from one place to another, usually repeatedly.<p><strong>Example:</strong> Being a good waiter takes more than the ability to ferry plates of food around a restaurant.</p></li><li><strong>Definition 3:</strong> To carry or transport over a contracted body of water, as a river or strait, in a boat or other floating conveyance plying between opposite shores.</li><li><strong>Definition 4:</strong> To pass over water in a boat or by ferry.</li></ul></div></div>"
+description: Yes, FERRY is a valid Wordle word. It was the Wordle answer on December
+  27, 2021 (#191). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 27, 2021 (#191).
+past_answers:
+- date: '2021-12-27'
+  number: 191
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - R
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 66
+neighbours:
+- berry
+- furry
+- merry
+- derry
+- ferly
+- ferny
+- firry
+- herry
+- jerry
+- kerry
+- perry
+- serry
+anagrams:
+- fryer
+- refry
+trap:
+  pattern: _ERRY
+  count: 11
+phonetic: "/ˈfɛɹɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A ship used to transport people, smaller vehicles and goods from one port
+      to another, usually on a regular schedule.
+  - text: A place where passengers are transported across water in such a ship.
+  - text: The legal right or franchise that entitles a corporate body or an individual
+      to operate such a service.
+- pos: verb
+  defs:
+  - text: To carry; transport; convey.
+    example: Trucks plowed through the water to ferry flood victims to safety.
+  - text: To move someone or something from one place to another, usually repeatedly.
+    example: Being a good waiter takes more than the ability to ferry plates of food
+      around a restaurant.
+  - text: To carry or transport over a contracted body of water, as a river or strait,
+      in a boat or other floating conveyance plying between opposite shores.
+  - text: To pass over water in a boat or by ferry.
 ---
-

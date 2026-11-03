@@ -1,7 +1,49 @@
 ---
 layout: word
-title: aggro
+title: Is AGGRO a Wordle Word?
+head_title: Is AGGRO a Wordle Word? Yes – Valid Guess & Meaning
 word: aggro
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Aggravation; bother.</li><li><strong>Definition 2:</strong> Aggressive behaviour; loud, intimidating behaviour that convincingly threatens violence without necessarily actually becoming violent.<p><strong>Example:</strong> Move along, lads; we don't want any aggro.</p></li><li><strong>Definition 3:</strong> A measure of how belligerent a player is – a high value may inspire either avoidance or preemptive hostile action from enemies.</li><li><strong>Definition 4:</strong> (MMORPG slang) Hostile attention from an enemy that should target players with better defenses.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> (MMORPG slang) To become aggressive towards the player's character.<p><strong>Example:</strong> Do they aggro on sight or sound?</p></li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Angry.</li><li><strong>Definition 2:</strong> (MMORPG slang) Liable to attack without being attacked first (said of monsters).</li><li><strong>Definition 3:</strong> Hardcore, aggressive.</li></ul></div></div>"
+description: Yes, AGGRO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 4
+  repeated:
+  - G
+  common:
+  - A
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 52
+neighbours:
+- aggri
+- aggry
+definitions:
+- pos: noun
+  defs:
+  - text: Aggravation; bother.
+  - text: Aggressive behaviour; loud, intimidating behaviour that convincingly threatens
+      violence without necessarily actually becoming violent.
+    example: Move along, lads; we don't want any aggro.
+  - text: A measure of how belligerent a player is – a high value may inspire either
+      avoidance or preemptive hostile action from enemies.
+  - text: "(MMORPG slang) Hostile attention from an enemy that should target players
+      with better defenses."
+- pos: verb
+  defs:
+  - text: "(MMORPG slang) To become aggressive towards the player's character."
+    example: Do they aggro on sight or sound?
+- pos: adjective
+  defs:
+  - text: Angry.
+  - text: "(MMORPG slang) Liable to attack without being attacked first (said of monsters)."
+  - text: Hardcore, aggressive.
 ---
-

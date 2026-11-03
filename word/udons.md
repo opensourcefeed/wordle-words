@@ -1,7 +1,28 @@
 ---
 layout: word
-title: udons
+title: Is UDONS a Wordle Word?
+head_title: Is UDONS a Wordle Word? Yes – Valid Guess
 word: udons
-meaning: ""
+description: Yes, UDONS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its starter rating and similar words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 56
+anagrams:
+- sound
+- nodus
+- undos
+- unsod
 ---
-

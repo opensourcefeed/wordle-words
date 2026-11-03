@@ -1,7 +1,43 @@
 ---
 layout: word
-title: abuts
+title: Is ABUTS a Wordle Word?
+head_title: Is ABUTS a Wordle Word? Yes – Valid Guess & Meaning
 word: abuts
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈbʌts/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To touch by means of a mutual border, edge or end; to border on; to lie adjacent (to); to be contiguous (said of an area of land)<p><strong>Example:</strong> His land abuts on the road.</p></li><li><strong>Definition 2:</strong> To border upon; be next to; abut on; be adjacent to.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lean against on one end; to end on, of a part of a building or wall.</li></ul></div></div>"
+description: Yes, ABUTS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 39
+neighbours:
+- abets
+anagrams:
+- buats
+- tabus
+- tsuba
+- tubas
+phonetic: "/əˈbʌts/"
+definitions:
+- pos: verb
+  defs:
+  - text: To touch by means of a mutual border, edge or end; to border on; to lie
+      adjacent (to); to be contiguous (said of an area of land)
+    example: His land abuts on the road.
+  - text: To border upon; be next to; abut on; be adjacent to.
+- pos: verb
+  defs:
+  - text: To lean against on one end; to end on, of a part of a building or wall.
 ---
-

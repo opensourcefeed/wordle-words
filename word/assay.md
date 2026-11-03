@@ -1,7 +1,57 @@
 ---
 layout: word
-title: assay
+title: Is ASSAY a Wordle Word?
+head_title: 'Is ASSAY a Wordle Word? Yes – Past Answer #1502 & Meaning'
 word: assay
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /əˈseɪ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Trial, attempt.</li><li><strong>Definition 2:</strong> Examination and determination; test.</li><li><strong>Definition 3:</strong> The qualitative or quantitative chemical analysis of something.</li><li><strong>Definition 4:</strong> Trial by danger or by affliction; adventure; risk; hardship; state of being tried.</li><li><strong>Definition 5:</strong> Tested purity or value.</li><li><strong>Definition 6:</strong> The act or process of ascertaining the proportion of a particular metal in an ore or alloy; especially, the determination of the proportion of gold or silver in bullion or coin.</li><li><strong>Definition 7:</strong> The alloy or metal to be assayed.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To attempt (something).</li><li><strong>Definition 2:</strong> To try, attempt (to do something).</li><li><strong>Definition 3:</strong> To analyze or estimate the composition or value of (a metal, ore etc.).</li><li><strong>Definition 4:</strong> To test the abilities of (someone) in combat; to fight.</li><li><strong>Definition 5:</strong> To affect.</li><li><strong>Definition 6:</strong> To try tasting, as food or drink.</li></ul></div></div>"
+description: Yes, ASSAY is a valid Wordle word. It was the Wordle answer on July 30,
+  2025 (#1502). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 30, 2025 (#1502).
+past_answers:
+- date: '2025-07-30'
+  number: 1502
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  unique_letters: 3
+  repeated:
+  - A
+  - S
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 92
+neighbours:
+- essay
+- assai
+- assam
+- asway
+anagrams:
+- sayas
+- yaass
+phonetic: "/əˈseɪ/"
+definitions:
+- pos: noun
+  defs:
+  - text: Trial, attempt.
+  - text: Examination and determination; test.
+  - text: The qualitative or quantitative chemical analysis of something.
+  - text: Trial by danger or by affliction; adventure; risk; hardship; state of being
+      tried.
+  - text: Tested purity or value.
+  - text: The act or process of ascertaining the proportion of a particular metal
+      in an ore or alloy; especially, the determination of the proportion of gold
+      or silver in bullion or coin.
+  - text: The alloy or metal to be assayed.
+- pos: verb
+  defs:
+  - text: To attempt (something).
+  - text: To try, attempt (to do something).
+  - text: To analyze or estimate the composition or value of (a metal, ore etc.).
+  - text: To test the abilities of (someone) in combat; to fight.
+  - text: To affect.
+  - text: To try tasting, as food or drink.
 ---
-

@@ -1,7 +1,49 @@
 ---
 layout: word
-title: caddy
+title: Is CADDY a Wordle Word?
+head_title: Is CADDY a Wordle Word? Yes – Possible Answer & Meaning
 word: caddy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkædi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> One hired to assist another in playing the game of golf.<p><strong>Example:</strong> \"Caddy, pass me my five iron.\"</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To serve as a caddy, carrying golf clubs etc.<p><strong>Example:</strong> I was honored to caddy for Tiger Woods at a charity golf game.</p></li></ul></div></div>"
+description: Yes, CADDY is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - D
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 85
+neighbours:
+- candy
+- daddy
+- paddy
+- baddy
+- cadgy
+- cardy
+- cuddy
+- faddy
+- laddy
+- maddy
+- raddy
+- saddy
+trap:
+  pattern: _ADDY
+  count: 10
+phonetic: "/ˈkædi/"
+definitions:
+- pos: noun
+  defs:
+  - text: One hired to assist another in playing the game of golf.
+    example: '"Caddy, pass me my five iron."'
+- pos: verb
+  defs:
+  - text: To serve as a caddy, carrying golf clubs etc.
+    example: I was honored to caddy for Tiger Woods at a charity golf game.
 ---
-

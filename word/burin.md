@@ -1,7 +1,36 @@
 ---
 layout: word
-title: burin
+title: Is BURIN a Wordle Word?
+head_title: Is BURIN a Wordle Word? Yes – Valid Guess & Meaning
 word: burin
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A chisel with a sharp point, used for engraving; a graver.</li><li><strong>Definition 2:</strong> A prehistoric flint tool</li></ul></div></div>"
+description: Yes, BURIN is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 50
+neighbours:
+- buran
+- buyin
+- purin
+anagrams:
+- bruin
+- rubin
+definitions:
+- pos: noun
+  defs:
+  - text: A chisel with a sharp point, used for engraving; a graver.
+  - text: A prehistoric flint tool
 ---
-

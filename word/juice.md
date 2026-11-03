@@ -1,7 +1,56 @@
 ---
 layout: word
-title: juice
+title: Is JUICE a Wordle Word?
+head_title: 'Is JUICE a Wordle Word? Yes – Past Answer #1134 & Meaning'
 word: juice
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /d͡ʒuːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A liquid from a plant, especially fruit.<p><strong>Example:</strong> Squeeze the orange and some juice will come out.</p></li><li><strong>Definition 2:</strong> A beverage made of juice.<p><strong>Example:</strong> I’d like two orange juices please.</p></li><li><strong>Definition 3:</strong> Any liquid resembling juice.</li><li><strong>Definition 4:</strong> A soft drink.</li><li><strong>Definition 5:</strong> Electricity.</li><li><strong>Definition 6:</strong> Liquor.</li><li><strong>Definition 7:</strong> Political power.</li><li><strong>Definition 8:</strong> Petrol; gasoline.</li><li><strong>Definition 9:</strong> Vitality.</li><li><strong>Definition 10:</strong> The amount charged by a bookmaker for betting services.</li><li><strong>Definition 11:</strong> Steroids.</li><li><strong>Definition 12:</strong> Semen.</li><li><strong>Definition 13:</strong> The vaginal lubrication that a woman naturally produces when sexually aroused.</li><li><strong>Definition 14:</strong> Musical agreement between instrumentalists.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To extract the juice from something.</li><li><strong>Definition 2:</strong> To energize or stimulate something.</li></ul></div></div>"
+description: Yes, JUICE is a valid Wordle word. It was the Wordle answer on July 27,
+  2024 (#1134). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on July 27, 2024 (#1134).
+past_answers:
+- date: '2024-07-27'
+  number: 1134
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  - I
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - I
+  - E
+  rare:
+  - J
+  starter_tier: Weak
+  starter_top_percent: 58
+neighbours:
+- juicy
+- ruice
+phonetic: "/d͡ʒuːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: A liquid from a plant, especially fruit.
+    example: Squeeze the orange and some juice will come out.
+  - text: A beverage made of juice.
+    example: I’d like two orange juices please.
+  - text: Any liquid resembling juice.
+  - text: A soft drink.
+  - text: Electricity.
+  - text: Liquor.
+  - text: Political power.
+  - text: Petrol; gasoline.
+  - text: Vitality.
+  - text: The amount charged by a bookmaker for betting services.
+  - text: Steroids.
+  - text: Semen.
+  - text: The vaginal lubrication that a woman naturally produces when sexually aroused.
+  - text: Musical agreement between instrumentalists.
+- pos: verb
+  defs:
+  - text: To extract the juice from something.
+  - text: To energize or stimulate something.
 ---
-

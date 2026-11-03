@@ -1,7 +1,42 @@
 ---
 layout: word
-title: noria
+title: Is NORIA a Wordle Word?
+head_title: Is NORIA a Wordle Word? Yes – Valid Guess & Meaning
 word: noria
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈnɔː.ɹɪə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A water wheel with attached buckets, used to raise and deposit water.</li><li><strong>Definition 2:</strong> Any machine using buckets to raise water to an aqueduct.</li></ul></div></div>"
+description: Yes, NORIA is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - I
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - I
+  - A
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 5
+neighbours:
+- coria
+- moria
+- norie
+- noris
+- norma
+- novia
+anagrams:
+- oiran
+phonetic: "/ˈnɔː.ɹɪə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A water wheel with attached buckets, used to raise and deposit water.
+  - text: Any machine using buckets to raise water to an aqueduct.
 ---
-

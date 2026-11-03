@@ -1,7 +1,90 @@
 ---
 layout: word
-title: stock
+title: Is STOCK a Wordle Word?
+head_title: 'Is STOCK a Wordle Word? Yes – Past Answer #652 & Meaning'
 word: stock
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /stɒk/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A store or supply.</li><li><strong>Definition 2:</strong> The capital raised by a company through the issue of shares. The total of shares held by an individual shareholder.</li><li><strong>Definition 3:</strong> The raw material from which things are made; feedstock.</li><li><strong>Definition 4:</strong> Stock theater, summer stock theater.</li><li><strong>Definition 5:</strong> The trunk and woody main stems of a tree. The base from which something grows or branches.</li><li><strong>Definition 6:</strong> Any of the several species of cruciferous flowers in the genus Matthiola.</li><li><strong>Definition 7:</strong> A handle or stem to which the working part of an implement or weapon is attached.</li><li><strong>Definition 8:</strong> Part of a machine that supports items or holds them in place.</li><li><strong>Definition 9:</strong> A bar, stick or rod.</li><li><strong>Definition 10:</strong> A type of (now formal or official) neckwear.</li><li><strong>Definition 11:</strong> A bed for infants; a crib, cot, or cradle</li><li><strong>Definition 12:</strong> A piece of wood magically made to be just like a real baby and substituted for it by magical beings.</li><li><strong>Definition 13:</strong> A cover for the legs; a stocking.</li><li><strong>Definition 14:</strong> A block of wood; something fixed and solid; a pillar; a firm support; a post.</li><li><strong>Definition 15:</strong> (by extension) A person who is as dull and lifeless as a stock or post; one who has little sense.</li><li><strong>Definition 16:</strong> The longest part of a split tally stick formerly struck in the exchequer, which was delivered to the person who had lent the king money on account, as the evidence of indebtedness.</li><li><strong>Definition 17:</strong> (in the plural) The frame or timbers on which a ship rests during construction.</li><li><strong>Definition 18:</strong> (in the plural) Red and grey bricks, used for the exterior of walls and the front of buildings.</li><li><strong>Definition 19:</strong> In tectology, an aggregate or colony of individuals, such as as trees, chains of salpae, etc.</li><li><strong>Definition 20:</strong> The beater of a fulling mill.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To have on hand for sale.<p><strong>Example:</strong> The store stocks all kinds of dried vegetables.</p></li><li><strong>Definition 2:</strong> To provide with material requisites; to store; to fill; to supply.<p><strong>Example:</strong> to stock a farm, i.e. to supply it with cattle and tools</p></li><li><strong>Definition 3:</strong> To allow (cows) to retain milk for twenty-four hours or more prior to sale.</li><li><strong>Definition 4:</strong> To put in the stocks as punishment.</li><li><strong>Definition 5:</strong> To fit (an anchor) with a stock, or to fasten the stock firmly in place.</li><li><strong>Definition 6:</strong> To arrange cards in a certain manner for cheating purposes; to stack the deck.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Of a type normally available for purchase/in stock.<p><strong>Example:</strong> stock items</p></li><li><strong>Definition 2:</strong> (racing, of a race car) Having the same configuration as cars sold to the non-racing public, or having been modified from such a car.</li><li><strong>Definition 3:</strong> Straightforward, ordinary, just another, very basic.<p><strong>Example:</strong> He gave me a stock answer</p></li></ul></div></div>"
+description: Yes, STOCK is a valid Wordle word. It was the Wordle answer on April
+  2, 2023 (#652). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on April 2, 2023 (#652).
+past_answers:
+- date: '2023-04-02'
+  number: 652
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 60
+neighbours:
+- shock
+- smock
+- stack
+- stick
+- stork
+- stuck
+- stonk
+- stook
+anagrams:
+- tocks
+phonetic: "/stɒk/"
+definitions:
+- pos: noun
+  defs:
+  - text: A store or supply.
+  - text: The capital raised by a company through the issue of shares. The total of
+      shares held by an individual shareholder.
+  - text: The raw material from which things are made; feedstock.
+  - text: Stock theater, summer stock theater.
+  - text: The trunk and woody main stems of a tree. The base from which something
+      grows or branches.
+  - text: Any of the several species of cruciferous flowers in the genus Matthiola.
+  - text: A handle or stem to which the working part of an implement or weapon is
+      attached.
+  - text: Part of a machine that supports items or holds them in place.
+  - text: A bar, stick or rod.
+  - text: A type of (now formal or official) neckwear.
+  - text: A bed for infants; a crib, cot, or cradle
+  - text: A piece of wood magically made to be just like a real baby and substituted
+      for it by magical beings.
+  - text: A cover for the legs; a stocking.
+  - text: A block of wood; something fixed and solid; a pillar; a firm support; a
+      post.
+  - text: "(by extension) A person who is as dull and lifeless as a stock or post;
+      one who has little sense."
+  - text: The longest part of a split tally stick formerly struck in the exchequer,
+      which was delivered to the person who had lent the king money on account, as
+      the evidence of indebtedness.
+  - text: "(in the plural) The frame or timbers on which a ship rests during construction."
+  - text: "(in the plural) Red and grey bricks, used for the exterior of walls and
+      the front of buildings."
+  - text: In tectology, an aggregate or colony of individuals, such as as trees, chains
+      of salpae, etc.
+  - text: The beater of a fulling mill.
+- pos: verb
+  defs:
+  - text: To have on hand for sale.
+    example: The store stocks all kinds of dried vegetables.
+  - text: To provide with material requisites; to store; to fill; to supply.
+    example: to stock a farm, i.e. to supply it with cattle and tools
+  - text: To allow (cows) to retain milk for twenty-four hours or more prior to sale.
+  - text: To put in the stocks as punishment.
+  - text: To fit (an anchor) with a stock, or to fasten the stock firmly in place.
+  - text: To arrange cards in a certain manner for cheating purposes; to stack the
+      deck.
+- pos: adjective
+  defs:
+  - text: Of a type normally available for purchase/in stock.
+    example: stock items
+  - text: "(racing, of a race car) Having the same configuration as cars sold to the
+      non-racing public, or having been modified from such a car."
+  - text: Straightforward, ordinary, just another, very basic.
+    example: He gave me a stock answer
 ---
-

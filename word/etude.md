@@ -1,7 +1,38 @@
 ---
 layout: word
-title: etude
+title: Is ETUDE a Wordle Word?
+head_title: 'Is ETUDE a Wordle Word? Yes – Past Answer #1807 & Meaning'
 word: etude
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /eɪˈtjuːd/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short piece of music, designed to give a performer practice in a particular area or skill.</li></ul></div></div>"
+description: Yes, ETUDE is a valid Wordle word. It was the Wordle answer on May 31,
+  2026 (#1807). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on May 31, 2026 (#1807).
+past_answers:
+- date: '2026-05-31'
+  number: 1807
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  - U
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 64
+neighbours:
+- elude
+- exude
+- stude
+phonetic: "/eɪˈtjuːd/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short piece of music, designed to give a performer practice in a particular
+      area or skill.
 ---
-

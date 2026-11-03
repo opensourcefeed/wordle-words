@@ -1,7 +1,45 @@
 ---
 layout: word
-title: beamy
+title: Is BEAMY a Wordle Word?
+head_title: Is BEAMY a Wordle Word? Yes – Valid Guess & Meaning
 word: beamy
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Resembling a beam in size and weight; massy.<p><strong>Example:</strong> a beamy spear</p></li><li><strong>Definition 2:</strong> Having horns or antlers.<p><strong>Example:</strong> beamy stags</p></li><li><strong>Definition 3:</strong> Having much beam or breadth; wide.</li><li><strong>Definition 4:</strong> Showing or emitting rays of light; beaming; radiant; shining.</li><li><strong>Definition 5:</strong> Radiant; beamsome; joyous; gladsome.</li></ul></div></div>"
+description: Yes, BEAMY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 37
+neighbours:
+- beady
+- beaky
+- beams
+- beany
+- beaty
+- reamy
+- seamy
+anagrams:
+- maybe
+- embay
+definitions:
+- pos: adjective
+  defs:
+  - text: Resembling a beam in size and weight; massy.
+    example: a beamy spear
+  - text: Having horns or antlers.
+    example: beamy stags
+  - text: Having much beam or breadth; wide.
+  - text: Showing or emitting rays of light; beaming; radiant; shining.
+  - text: Radiant; beamsome; joyous; gladsome.
 ---
-

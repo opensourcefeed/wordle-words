@@ -1,7 +1,56 @@
 ---
 layout: word
-title: romps
+title: Is ROMPS a Wordle Word?
+head_title: Is ROMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: romps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Someone who romps; especially, a girl or young woman who indulges in boisterous play; a tomboy.</li><li><strong>Definition 2:</strong> A period of boisterous play, a frolic; now especially, a bout of sexual activity, especially when illicit.</li><li><strong>Definition 3:</strong> An enjoyable, fast-paced but essentially inconsequential film, play, or other piece of entertainment.</li><li><strong>Definition 4:</strong> A decisive victory; a game, match etc. which is won easily.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To play about roughly, energetically or boisterously.<p><strong>Example:</strong> When the kids're allowed to romp in the bedroom, they break something.</p></li><li><strong>Definition 2:</strong> (Often used with down) To press forcefully, to encourage vehemently, to oppress.</li><li><strong>Definition 3:</strong> To win easily.<p><strong>Example:</strong> England romped to an easy win over Australia.</p></li><li><strong>Definition 4:</strong> To engage in playful or boisterous sex.</li></ul></div></div>"
+description: Yes, ROMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - O
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 49
+neighbours:
+- comps
+- pomps
+- ramps
+- rompu
+- rompy
+- roops
+- rosps
+- roups
+- rumps
+- yomps
+anagrams:
+- proms
+definitions:
+- pos: noun
+  defs:
+  - text: Someone who romps; especially, a girl or young woman who indulges in boisterous
+      play; a tomboy.
+  - text: A period of boisterous play, a frolic; now especially, a bout of sexual
+      activity, especially when illicit.
+  - text: An enjoyable, fast-paced but essentially inconsequential film, play, or
+      other piece of entertainment.
+  - text: A decisive victory; a game, match etc. which is won easily.
+- pos: verb
+  defs:
+  - text: To play about roughly, energetically or boisterously.
+    example: When the kids're allowed to romp in the bedroom, they break something.
+  - text: "(Often used with down) To press forcefully, to encourage vehemently, to
+      oppress."
+  - text: To win easily.
+    example: England romped to an easy win over Australia.
+  - text: To engage in playful or boisterous sex.
 ---
-

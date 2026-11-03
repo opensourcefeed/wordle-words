@@ -1,7 +1,46 @@
 ---
 layout: word
-title: actor
+title: Is ACTOR a Wordle Word?
+head_title: 'Is ACTOR a Wordle Word? Yes – Past Answer #875 & Meaning'
 word: actor
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈæk.tə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A person who performs, plays a part in a theatrical play or film.</li><li><strong>Definition 2:</strong> One who acts; a doer.</li><li><strong>Definition 3:</strong> One who takes part in a situation.</li><li><strong>Definition 4:</strong> An advocate or proctor in civil courts or causes.</li><li><strong>Definition 5:</strong> One who institutes a suit; plaintiff or complainant.</li><li><strong>Definition 6:</strong> (policy debate) One who enacts a certain policy action.</li><li><strong>Definition 7:</strong> The entity that performs a role (in use case analysis).</li><li><strong>Definition 8:</strong> (grammar) The most agent-like argument of a clause, e.g. 'the torpedo' in \"The torpedo sank the boat\" and \"The torpedo fired\".</li></ul></div></div>"
+description: Yes, ACTOR is a valid Wordle word. It was the Wordle answer on November
+  11, 2023 (#875). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on November 11, 2023 (#875).
+past_answers:
+- date: '2023-11-11'
+  number: 875
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - A
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - T
+  - O
+  - R
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 7
+neighbours:
+- acton
+anagrams:
+- taroc
+phonetic: "/ˈæk.tə/"
+definitions:
+- pos: noun
+  defs:
+  - text: A person who performs, plays a part in a theatrical play or film.
+  - text: One who acts; a doer.
+  - text: One who takes part in a situation.
+  - text: An advocate or proctor in civil courts or causes.
+  - text: One who institutes a suit; plaintiff or complainant.
+  - text: "(policy debate) One who enacts a certain policy action."
+  - text: The entity that performs a role (in use case analysis).
+  - text: (grammar) The most agent-like argument of a clause, e.g. 'the torpedo' in
+      "The torpedo sank the boat" and "The torpedo fired".
 ---
-

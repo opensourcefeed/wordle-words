@@ -1,7 +1,47 @@
 ---
 layout: word
-title: fecks
+title: Is FECKS a Wordle Word?
+head_title: Is FECKS a Wordle Word? Yes – Valid Guess & Meaning
 word: fecks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To throw.</li><li><strong>Definition 2:</strong> To steal.</li><li><strong>Definition 3:</strong> To leave hastily.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> Fuck.</li></ul></div></div>"
+description: Yes, FECKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 65
+neighbours:
+- becks
+- decks
+- feces
+- fenks
+- gecks
+- hecks
+- kecks
+- mecks
+- necks
+- pecks
+- recks
+trap:
+  pattern: _ECKS
+  count: 10
+definitions:
+- pos: verb
+  defs:
+  - text: To throw.
+  - text: To steal.
+  - text: To leave hastily.
+- pos: verb
+  defs:
+  - text: Fuck.
 ---
-

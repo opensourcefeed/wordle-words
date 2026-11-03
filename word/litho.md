@@ -1,7 +1,39 @@
 ---
 layout: word
-title: litho
+title: Is LITHO a Wordle Word?
+head_title: Is LITHO a Wordle Word? Yes – Valid Guess & Meaning
 word: litho
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To lithograph.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Related to the method of lithography.</li></ul></div></div>"
+description: Yes, LITHO is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - O
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - I
+  - T
+  - O
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 32
+neighbours:
+- lithe
+- liths
+anagrams:
+- thiol
+- tholi
+definitions:
+- pos: verb
+  defs:
+  - text: To lithograph.
+- pos: adjective
+  defs:
+  - text: Related to the method of lithography.
 ---
-

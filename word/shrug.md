@@ -1,7 +1,42 @@
 ---
 layout: word
-title: shrug
+title: Is SHRUG a Wordle Word?
+head_title: 'Is SHRUG a Wordle Word? Yes – Past Answer #426 & Meaning'
 word: shrug
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ʃɹʌɡ/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A lifting of the shoulders to signal indifference or a casual lack of knowledge.<p><strong>Example:</strong> He dismissed my comment with a shrug.</p></li><li><strong>Definition 2:</strong> A cropped, cardigan-like garment with short or long sleeves, typically knitted.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To raise (the shoulders) to express uncertainty, lack of concern, (formerly) dread, etc.<p><strong>Example:</strong> I asked him for an answer and he just shrugged.</p></li></ul></div></div>"
+description: Yes, SHRUG is a valid Wordle word. It was the Wordle answer on August
+  19, 2022 (#426). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 19, 2022 (#426).
+past_answers:
+- date: '2022-08-19'
+  number: 426
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 61
+neighbours:
+- shrub
+- sprug
+anagrams:
+- gursh
+phonetic: "/ʃɹʌɡ/"
+definitions:
+- pos: noun
+  defs:
+  - text: A lifting of the shoulders to signal indifference or a casual lack of knowledge.
+    example: He dismissed my comment with a shrug.
+  - text: A cropped, cardigan-like garment with short or long sleeves, typically knitted.
+- pos: verb
+  defs:
+  - text: To raise (the shoulders) to express uncertainty, lack of concern, (formerly)
+      dread, etc.
+    example: I asked him for an answer and he just shrugged.
 ---
-

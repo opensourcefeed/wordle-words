@@ -1,7 +1,53 @@
 ---
 layout: word
-title: gorse
+title: Is GORSE a Wordle Word?
+head_title: Is GORSE a Wordle Word? Yes – Valid Guess & Meaning
 word: gorse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ɡɔːs/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Evergreen shrub, of the genus Ulex, having spiny leaves and yellow flowers.</li></ul></div></div>"
+description: Yes, GORSE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - E
+  rare: []
+  starter_tier: Good
+  starter_top_percent: 8
+neighbours:
+- goose
+- gorge
+- horse
+- worse
+- corse
+- dorse
+- gorsy
+- gosse
+- morse
+- torse
+- zorse
+anagrams:
+- ergos
+- esrog
+- goers
+- gores
+- ogres
+- regos
+- soger
+trap:
+  pattern: _ORSE
+  count: 8
+phonetic: "/ɡɔːs/"
+definitions:
+- pos: noun
+  defs:
+  - text: Evergreen shrub, of the genus Ulex, having spiny leaves and yellow flowers.
 ---
-

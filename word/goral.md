@@ -1,7 +1,51 @@
 ---
 layout: word
-title: goral
+title: Is GORAL a Wordle Word?
+head_title: Is GORAL a Wordle Word? Yes – Valid Guess & Meaning
 word: goral
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A type of Asian ungulate ruminant, now defined as any of the four species of the genus Naemorhedus.</li></ul></div></div>"
+description: Yes, GORAL is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - R
+  - A
+  - L
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 12
+neighbours:
+- coral
+- moral
+- boral
+- goras
+- goray
+- gyral
+- horal
+- loral
+- poral
+- roral
+- soral
+anagrams:
+- algor
+- argol
+- largo
+- rolag
+trap:
+  pattern: _ORAL
+  count: 9
+definitions:
+- pos: noun
+  defs:
+  - text: A type of Asian ungulate ruminant, now defined as any of the four species
+      of the genus Naemorhedus.
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: pulse
+title: Is PULSE a Wordle Word?
+head_title: Is PULSE a Wordle Word? Yes – Possible Answer & Meaning
 word: pulse
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /pʊls/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A normally regular beat felt when arteries are depressed, caused by the pumping action of the heart.</li><li><strong>Definition 2:</strong> A beat or throb.</li><li><strong>Definition 3:</strong> The beat or tactus of a piece of music.</li><li><strong>Definition 4:</strong> An autosoliton</li></ul></div></div>"
+description: Yes, PULSE is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- purse
+- bulse
+- dulse
+- mulse
+anagrams:
+- pelus
+- plues
+- pules
+- pusle
+- spule
+phonetic: "/pʊls/"
+definitions:
+- pos: noun
+  defs:
+  - text: A normally regular beat felt when arteries are depressed, caused by the
+      pumping action of the heart.
+  - text: A beat or throb.
+  - text: The beat or tactus of a piece of music.
+  - text: An autosoliton
 ---
-

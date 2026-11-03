@@ -1,7 +1,40 @@
 ---
 layout: word
-title: burke
+title: Is BURKE a Wordle Word?
+head_title: Is BURKE a Wordle Word? Yes – Valid Guess & Meaning
 word: burke
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /bɜː(ɹ)k/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (sometimes affectionate) A fool, prat, twit.</li><li><strong>Definition 2:</strong> Cunt.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To murder by suffocation</li><li><strong>Definition 2:</strong> To murder for the same purpose as Burke, to kill in order to have a body to sell to anatomists, surgeons, etc.</li><li><strong>Definition 3:</strong> To smother; to conceal, hush up, suppress.</li></ul></div></div>"
+description: Yes, BURKE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - R
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 46
+neighbours:
+- burka
+- burks
+- burse
+phonetic: "/bɜː(ɹ)k/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(sometimes affectionate) A fool, prat, twit."
+  - text: Cunt.
+- pos: verb
+  defs:
+  - text: To murder by suffocation
+  - text: To murder for the same purpose as Burke, to kill in order to have a body
+      to sell to anatomists, surgeons, etc.
+  - text: To smother; to conceal, hush up, suppress.
 ---
-

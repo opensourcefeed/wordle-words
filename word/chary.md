@@ -1,7 +1,47 @@
 ---
 layout: word
-title: chary
+title: Is CHARY a Wordle Word?
+head_title: Is CHARY a Wordle Word? Yes – Valid Guess & Meaning
 word: chary
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈtʃɛəɹi/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> adverb</p><ul><li><strong>Definition 1:</strong> In a chary manner.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Careful, cautious, shy, wary.</li><li><strong>Definition 2:</strong> Excessively particular or fussy about details; fastidious.</li><li><strong>Definition 3:</strong> Not disposed to give freely; not lavish; frugal, sparing.</li><li><strong>Definition 4:</strong> Cared for, regarded as precious; cherished.</li></ul></div></div>"
+description: Yes, CHARY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 33
+neighbours:
+- chard
+- charm
+- chart
+- chara
+- chare
+- chark
+- charr
+- chars
+- clary
+trap:
+  pattern: CHAR_
+  count: 9
+phonetic: "/ˈtʃɛəɹi/"
+definitions:
+- pos: adverb
+  defs:
+  - text: In a chary manner.
+- pos: adjective
+  defs:
+  - text: Careful, cautious, shy, wary.
+  - text: Excessively particular or fussy about details; fastidious.
+  - text: Not disposed to give freely; not lavish; frugal, sparing.
+  - text: Cared for, regarded as precious; cherished.
 ---
-

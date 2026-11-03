@@ -1,7 +1,54 @@
 ---
 layout: word
-title: yerks
+title: Is YERKS a Wordle Word?
+head_title: Is YERKS a Wordle Word? Yes – Valid Guess & Meaning
 word: yerks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To stab.</li><li><strong>Definition 2:</strong> To throw or thrust with a sudden, smart movement; to kick or strike suddenly; to jerk.</li><li><strong>Definition 3:</strong> To strike or lash with a whip or stick.</li><li><strong>Definition 4:</strong> To rouse or excite.</li><li><strong>Definition 5:</strong> To bind or tie with a jerk.</li></ul></div></div>"
+description: Yes, YERKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- berks
+- jerks
+- merks
+- nerks
+- perks
+- serks
+- yarks
+- yelks
+- yerds
+- yesks
+- yeuks
+- yirks
+anagrams:
+- rykes
+- skyer
+- skyre
+- syker
+trap:
+  pattern: _ERKS
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: To stab.
+  - text: To throw or thrust with a sudden, smart movement; to kick or strike suddenly;
+      to jerk.
+  - text: To strike or lash with a whip or stick.
+  - text: To rouse or excite.
+  - text: To bind or tie with a jerk.
 ---
-

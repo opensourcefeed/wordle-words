@@ -1,7 +1,36 @@
 ---
 layout: word
-title: innie
+title: Is INNIE a Wordle Word?
+head_title: Is INNIE a Wordle Word? Yes – Valid Guess & Meaning
 word: innie
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈɪni/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A navel that is formed of a hollow in the abdomen (as opposed to one that protrudes from the abdomen).</li><li><strong>Definition 2:</strong> A vagina with inner labia minora</li></ul></div></div>"
+description: Yes, INNIE is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - I
+  - E
+  unique_letters: 3
+  repeated:
+  - I
+  - N
+  common:
+  - I
+  - E
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 81
+neighbours:
+- indie
+- innit
+phonetic: "/ˈɪni/"
+definitions:
+- pos: noun
+  defs:
+  - text: A navel that is formed of a hollow in the abdomen (as opposed to one that
+      protrudes from the abdomen).
+  - text: A vagina with inner labia minora
 ---
-

@@ -1,7 +1,65 @@
 ---
 layout: word
-title: nosed
+title: Is NOSED a Wordle Word?
+head_title: Is NOSED a Wordle Word? Yes – Valid Guess & Meaning
 word: nosed
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To move cautiously by advancing its front end.<p><strong>Example:</strong> The ship nosed through the minefield.</p></li><li><strong>Definition 2:</strong> To snoop.<p><strong>Example:</strong> She was nosing around other people’s business.</p></li><li><strong>Definition 3:</strong> To detect by smell or as if by smell.</li><li><strong>Definition 4:</strong> To push with one's nose; to nuzzle.</li><li><strong>Definition 5:</strong> To defeat (as in a race or other contest) by a narrow margin; sometimes with out.</li><li><strong>Definition 6:</strong> To utter in a nasal manner; to pronounce with a nasal twang.<p><strong>Example:</strong> to nose a prayer</p></li><li><strong>Definition 7:</strong> To furnish with a nose.<p><strong>Example:</strong> to nose a stair tread</p></li><li><strong>Definition 8:</strong> To confront; be closely face to face or opposite to.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> (in combination) Having some specific type of nose.<p><strong>Example:</strong> Rudolph the red-nosed reindeer</p></li></ul></div></div>"
+description: Yes, NOSED is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Past-tense words ending in ED are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 17
+neighbours:
+- nosey
+- cosed
+- dosed
+- hosed
+- losed
+- mosed
+- noded
+- noser
+- noses
+- noted
+- nowed
+- noyed
+anagrams:
+- nodes
+- ondes
+- sonde
+trap:
+  pattern: _OSED
+  count: 9
+definitions:
+- pos: verb
+  defs:
+  - text: To move cautiously by advancing its front end.
+    example: The ship nosed through the minefield.
+  - text: To snoop.
+    example: She was nosing around other people’s business.
+  - text: To detect by smell or as if by smell.
+  - text: To push with one's nose; to nuzzle.
+  - text: To defeat (as in a race or other contest) by a narrow margin; sometimes
+      with out.
+  - text: To utter in a nasal manner; to pronounce with a nasal twang.
+    example: to nose a prayer
+  - text: To furnish with a nose.
+    example: to nose a stair tread
+  - text: To confront; be closely face to face or opposite to.
+- pos: adjective
+  defs:
+  - text: "(in combination) Having some specific type of nose."
+    example: Rudolph the red-nosed reindeer
 ---
-

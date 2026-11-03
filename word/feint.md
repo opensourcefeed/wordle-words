@@ -1,7 +1,47 @@
 ---
 layout: word
-title: feint
+title: Is FEINT a Wordle Word?
+head_title: Is FEINT a Wordle Word? Yes – Valid Guess & Meaning
 word: feint
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /feɪ̯nt/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A movement made to confuse the opponent; a dummy.</li><li><strong>Definition 2:</strong> That which is feigned; an assumed or false appearance; a pretense or stratagem.</li><li><strong>Definition 3:</strong> (war) An offensive movement resembling an attack in all but its continuance</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To make a feint, or mock attack.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Feigned; counterfeit.</li><li><strong>Definition 2:</strong> (war) (of an attack) directed toward a different part from the intended strike</li></ul></div></div>"
+description: Yes, FEINT is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - E
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - E
+  - I
+  - T
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 25
+neighbours:
+- faint
+- flint
+- feist
+- meint
+anagrams:
+- fient
+phonetic: "/feɪ̯nt/"
+definitions:
+- pos: noun
+  defs:
+  - text: A movement made to confuse the opponent; a dummy.
+  - text: That which is feigned; an assumed or false appearance; a pretense or stratagem.
+  - text: "(war) An offensive movement resembling an attack in all but its continuance"
+- pos: verb
+  defs:
+  - text: To make a feint, or mock attack.
+- pos: adjective
+  defs:
+  - text: Feigned; counterfeit.
+  - text: "(war) (of an attack) directed toward a different part from the intended
+      strike"
 ---
-

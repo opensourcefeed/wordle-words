@@ -1,7 +1,53 @@
 ---
 layout: word
-title: solve
+title: Is SOLVE a Wordle Word?
+head_title: 'Is SOLVE a Wordle Word? Yes – Past Answer #165 & Meaning'
 word: solve
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /sɒlv/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (chiefly law enforcement) A solution; an explanation.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To find an answer or solution to a problem or question; to work out.</li><li><strong>Definition 2:</strong> To find the values of variables that satisfy a system of equations and/or inequalities.</li><li><strong>Definition 3:</strong> To algebraically manipulate an equation or inequality into a form that isolates a chosen variable on one side, so that the other side consists of an expression that may be used to generate solutions.</li><li><strong>Definition 4:</strong> To loosen or separate the parts of.</li></ul></div></div>"
+description: Yes, SOLVE is a valid Wordle word. It was the Wordle answer on December
+  1, 2021 (#165). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on December 1, 2021 (#165).
+past_answers:
+- date: '2021-12-01'
+  number: 165
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - O
+  - E
+  unique_letters: 5
+  repeated: []
+  common:
+  - O
+  - L
+  - E
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 24
+neighbours:
+- salve
+- soave
+- solde
+- volve
+- wolve
+anagrams:
+- loves
+- ovels
+- slove
+- voles
+phonetic: "/sɒlv/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(chiefly law enforcement) A solution; an explanation."
+- pos: verb
+  defs:
+  - text: To find an answer or solution to a problem or question; to work out.
+  - text: To find the values of variables that satisfy a system of equations and/or
+      inequalities.
+  - text: To algebraically manipulate an equation or inequality into a form that isolates
+      a chosen variable on one side, so that the other side consists of an expression
+      that may be used to generate solutions.
+  - text: To loosen or separate the parts of.
 ---
-

@@ -1,7 +1,44 @@
 ---
 layout: word
-title: tonga
+title: Is TONGA a Wordle Word?
+head_title: Is TONGA a Wordle Word? Yes – Possible Answer & Meaning
 word: tonga
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A light, two-wheeled, horse-drawn carriage used for transportation in India, Pakistan, and Bangladesh.</li></ul></div></div>"
+description: Yes, TONGA is a valid Wordle word. It is on the original Wordle answer
+  list and has not been an answer yet, so it could be a future answer. See its meaning,
+  starter rating and similar words.
+status: possible
+answer_text: It is on the original Wordle answer list and has not been an answer yet,
+  so it could be a future answer.
+stats:
+  vowels:
+  - O
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - O
+  - A
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 27
+neighbours:
+- conga
+- donga
+- longa
+- ponga
+- tanga
+- tongs
+- tonka
+- wonga
+anagrams:
+- tango
+trap:
+  pattern: _ONGA
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: A light, two-wheeled, horse-drawn carriage used for transportation in India,
+      Pakistan, and Bangladesh.
 ---
-

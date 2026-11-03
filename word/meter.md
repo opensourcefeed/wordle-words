@@ -1,7 +1,68 @@
 ---
 layout: word
-title: meter
+title: Is METER a Wordle Word?
+head_title: 'Is METER a Wordle Word? Yes – Past Answer #1157 & Meaning'
 word: meter
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmiːtə/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> (always meter) A device that measures things.</li><li><strong>Definition 2:</strong> (always meter) A parking meter or similar device for collecting payment.</li><li><strong>Definition 3:</strong> (always meter) One who metes or measures.<p><strong>Example:</strong> a labouring coal-meter</p></li><li><strong>Definition 4:</strong> (elsewhere metre) The base unit of length in the International System of Units (SI), conceived of as 1/10000000 of the distance from the North Pole to the Equator, and now defined as the distance light will travel in a vacuum in 1/299792458 second.</li><li><strong>Definition 5:</strong> (elsewhere metre) An increment of music; the overall rhythm; particularly, the number of beats in a measure.</li><li><strong>Definition 6:</strong> (elsewhere metre) The rhythm pattern in a poem.</li><li><strong>Definition 7:</strong> (elsewhere metre) A line above or below a hanging net, to which the net is attached in order to strengthen it.</li><li><strong>Definition 8:</strong> A poem.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To measure with a metering device.</li><li><strong>Definition 2:</strong> To imprint a postage mark with a postage meter.</li><li><strong>Definition 3:</strong> To regulate the flow of or to deliver in regulated amounts (usually of fluids but sometimes of other things such as anticipation or breath).</li></ul></div></div>"
+description: Yes, METER is a valid Wordle word. It was the Wordle answer on August
+  19, 2024 (#1157). See its meaning, starter rating and similar words.
+status: past
+answer_text: It was the Wordle answer on August 19, 2024 (#1157).
+past_answers:
+- date: '2024-08-19'
+  number: 1157
+repeat_note: Since February 2026, Wordle sometimes reuses past answers, so it could
+  be the answer again.
+stats:
+  vowels:
+  - E
+  unique_letters: 4
+  repeated:
+  - E
+  common:
+  - E
+  - T
+  - R
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 43
+neighbours:
+- deter
+- mater
+- merer
+- meted
+- meteg
+- metel
+- metes
+- miter
+- muter
+- peter
+- seter
+anagrams:
+- metre
+- remet
+- retem
+phonetic: "/ˈmiːtə/"
+definitions:
+- pos: noun
+  defs:
+  - text: "(always meter) A device that measures things."
+  - text: "(always meter) A parking meter or similar device for collecting payment."
+  - text: "(always meter) One who metes or measures."
+    example: a labouring coal-meter
+  - text: "(elsewhere metre) The base unit of length in the International System of
+      Units (SI), conceived of as 1/10000000 of the distance from the North Pole to
+      the Equator, and now defined as the distance light will travel in a vacuum in
+      1/299792458 second."
+  - text: "(elsewhere metre) An increment of music; the overall rhythm; particularly,
+      the number of beats in a measure."
+  - text: "(elsewhere metre) The rhythm pattern in a poem."
+  - text: "(elsewhere metre) A line above or below a hanging net, to which the net
+      is attached in order to strengthen it."
+  - text: A poem.
+- pos: verb
+  defs:
+  - text: To measure with a metering device.
+  - text: To imprint a postage mark with a postage meter.
+  - text: To regulate the flow of or to deliver in regulated amounts (usually of fluids
+      but sometimes of other things such as anticipation or breath).
 ---
-

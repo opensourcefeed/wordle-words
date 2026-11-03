@@ -1,7 +1,62 @@
 ---
 layout: word
-title: bulks
+title: Is BULKS a Wordle Word?
+head_title: Is BULKS a Wordle Word? Yes – Valid Guess & Meaning
 word: bulks
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> Size, specifically, volume.</li><li><strong>Definition 2:</strong> Any huge body or structure.</li><li><strong>Definition 3:</strong> The major part of something.<p><strong>Example:</strong> I understood the bulk of what you were saying, just one of two points I need to hear again.</p></li><li><strong>Definition 4:</strong> Dietary fibre.</li><li><strong>Definition 5:</strong> Unpackaged goods when transported in large volumes, e.g. coal, ore or grain.</li><li><strong>Definition 6:</strong> A cargo or any items moved or communicated in the manner of cargo.</li><li><strong>Definition 7:</strong> Excess body mass, especially muscle.</li><li><strong>Definition 8:</strong> A period where one tries to gain muscle.</li><li><strong>Definition 9:</strong> (brane cosmology) A hypothetical higher-dimensional space within which our own four-dimensional universe may exist.</li><li><strong>Definition 10:</strong> The body.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To appear or seem to be, as to bulk or extent.</li><li><strong>Definition 2:</strong> To grow in size; to swell or expand.</li><li><strong>Definition 3:</strong> To gain body mass by means of diet, exercise, etc.</li><li><strong>Definition 4:</strong> To put or hold in bulk.</li><li><strong>Definition 5:</strong> To add bulk to, to bulk out.</li></ul></div></div>"
+description: Yes, BULKS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 5
+  repeated: []
+  common:
+  - L
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- bulky
+- balks
+- bilks
+- bolks
+- bucks
+- buiks
+- bulbs
+- bulls
+- bunks
+- burks
+- busks
+- hulks
+trap:
+  pattern: BU_KS
+  count: 6
+definitions:
+- pos: noun
+  defs:
+  - text: Size, specifically, volume.
+  - text: Any huge body or structure.
+  - text: The major part of something.
+    example: I understood the bulk of what you were saying, just one of two points
+      I need to hear again.
+  - text: Dietary fibre.
+  - text: Unpackaged goods when transported in large volumes, e.g. coal, ore or grain.
+  - text: A cargo or any items moved or communicated in the manner of cargo.
+  - text: Excess body mass, especially muscle.
+  - text: A period where one tries to gain muscle.
+  - text: "(brane cosmology) A hypothetical higher-dimensional space within which
+      our own four-dimensional universe may exist."
+  - text: The body.
+- pos: verb
+  defs:
+  - text: To appear or seem to be, as to bulk or extent.
+  - text: To grow in size; to swell or expand.
+  - text: To gain body mass by means of diet, exercise, etc.
+  - text: To put or hold in bulk.
+  - text: To add bulk to, to bulk out.
 ---
-

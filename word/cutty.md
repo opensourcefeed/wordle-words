@@ -1,7 +1,50 @@
 ---
 layout: word
-title: cutty
+title: Is CUTTY a Wordle Word?
+head_title: Is CUTTY a Wordle Word? Yes – Valid Guess & Meaning
 word: cutty
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈkʌti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short spoon.</li><li><strong>Definition 2:</strong> A short tobacco pipe.</li><li><strong>Definition 3:</strong> A wanton or unchaste woman.</li><li><strong>Definition 4:</strong> A girl with a short, dumpy figure.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> adjective</p><ul><li><strong>Definition 1:</strong> Short, shortened, or small; curtailed.</li></ul></div></div>"
+description: Yes, CUTTY is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - T
+  common:
+  - T
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 91
+neighbours:
+- catty
+- nutty
+- putty
+- butty
+- culty
+- cutey
+- cutto
+- gutty
+- jutty
+- rutty
+- tutty
+- vutty
+trap:
+  pattern: _UTTY
+  count: 9
+phonetic: "/ˈkʌti/"
+definitions:
+- pos: noun
+  defs:
+  - text: A short spoon.
+  - text: A short tobacco pipe.
+  - text: A wanton or unchaste woman.
+  - text: A girl with a short, dumpy figure.
+- pos: adjective
+  defs:
+  - text: Short, shortened, or small; curtailed.
 ---
-

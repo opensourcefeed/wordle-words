@@ -1,7 +1,54 @@
 ---
 layout: word
-title: gasps
+title: Is GASPS a Wordle Word?
+head_title: Is GASPS a Wordle Word? Yes – Valid Guess & Meaning
 word: gasps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A short, sudden intake of breath.<p><strong>Example:</strong> The audience gave a gasp of astonishment</p></li><li><strong>Definition 2:</strong> : A draw or drag on a cigarette (or gasper).<p><strong>Example:</strong> I'm popping out for a gasp.</p></li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To draw in the breath suddenly, as if from a shock.<p><strong>Example:</strong> The audience gasped as the magician disappeared.</p></li><li><strong>Definition 2:</strong> To breathe laboriously or convulsively.<p><strong>Example:</strong> We were all gasping when we reached the summit.</p></li><li><strong>Definition 3:</strong> To speak in a breathless manner.<p><strong>Example:</strong> The old man gasped his last few words.</p></li><li><strong>Definition 4:</strong> To pant with eagerness; to show vehement desire.<p><strong>Example:</strong> I'm gasping for a cup of tea.</p></li></ul></div></div>"
+description: Yes, GASPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 4
+  repeated:
+  - S
+  common:
+  - A
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 84
+neighbours:
+- gamps
+- gases
+- gaspy
+- gasts
+- gaups
+- gawps
+- hasps
+- jasps
+- rasps
+- wasps
+anagrams:
+- spags
+definitions:
+- pos: noun
+  defs:
+  - text: A short, sudden intake of breath.
+    example: The audience gave a gasp of astonishment
+  - text: ": A draw or drag on a cigarette (or gasper)."
+    example: I'm popping out for a gasp.
+- pos: verb
+  defs:
+  - text: To draw in the breath suddenly, as if from a shock.
+    example: The audience gasped as the magician disappeared.
+  - text: To breathe laboriously or convulsively.
+    example: We were all gasping when we reached the summit.
+  - text: To speak in a breathless manner.
+    example: The old man gasped his last few words.
+  - text: To pant with eagerness; to show vehement desire.
+    example: I'm gasping for a cup of tea.
 ---
-

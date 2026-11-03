@@ -1,7 +1,35 @@
 ---
 layout: word
-title: mufti
+title: Is MUFTI a Wordle Word?
+head_title: Is MUFTI a Wordle Word? Yes – Valid Guess & Meaning
 word: mufti
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> /ˈmʊfti/</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A Muslim scholar and interpreter of shari’a law, who can deliver a fatwa.</li><li><strong>Definition 2:</strong> A civilian dress when worn by a member of the military, or casual dress when worn by a pupil of a school who normally would wear uniform.</li></ul></div></div>"
+description: Yes, MUFTI is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+stats:
+  vowels:
+  - U
+  - I
+  unique_letters: 5
+  repeated: []
+  common:
+  - T
+  - I
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 80
+neighbours:
+- mukti
+- murti
+- mutti
+phonetic: "/ˈmʊfti/"
+definitions:
+- pos: noun
+  defs:
+  - text: A Muslim scholar and interpreter of shari’a law, who can deliver a fatwa.
+  - text: A civilian dress when worn by a member of the military, or casual dress
+      when worn by a pupil of a school who normally would wear uniform.
 ---
-

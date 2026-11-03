@@ -1,7 +1,61 @@
 ---
 layout: word
-title: mumps
+title: Is MUMPS a Wordle Word?
+head_title: Is MUMPS a Wordle Word? Yes – Valid Guess & Meaning
 word: mumps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A grimace.</li></ul></div><div class='meanings'><h3>Meaning 2</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To mumble, speak unclearly.</li><li><strong>Definition 2:</strong> To move the lips with the mouth closed; to mumble, as in sulkiness.</li><li><strong>Definition 3:</strong> To beg, especially if using a repeated phrase.</li><li><strong>Definition 4:</strong> To deprive of (something) by cheating; to impose upon.</li><li><strong>Definition 5:</strong> To cheat; to deceive; to play the beggar.</li><li><strong>Definition 6:</strong> To be sullen or sulky.</li><li><strong>Definition 7:</strong> To nibble.</li></ul></div><div class='meanings'><h3>Meaning 3</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A cube of peat.</li></ul></div><div class='meanings'><h3>Meaning 4</h3><p><strong>Part of Speech:</strong> noun</p><ul><li><strong>Definition 1:</strong> A contagious disease caused by the Mumps virus of the genus Rubulavirus, mostly occurring in childhood, which causes swelling of glands in the face and neck.</li><li><strong>Definition 2:</strong> A gloomy or sullen silence.</li></ul></div></div>"
+description: Yes, MUMPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - U
+  unique_letters: 4
+  repeated:
+  - M
+  common: []
+  rare: []
+  starter_tier: Weak
+  starter_top_percent: 97
+neighbours:
+- bumps
+- dumps
+- gumps
+- humps
+- jumps
+- lumps
+- mumms
+- mumph
+- mumus
+- numps
+- pumps
+- rumps
+trap:
+  pattern: _UMPS
+  count: 13
+definitions:
+- pos: noun
+  defs:
+  - text: A grimace.
+- pos: verb
+  defs:
+  - text: To mumble, speak unclearly.
+  - text: To move the lips with the mouth closed; to mumble, as in sulkiness.
+  - text: To beg, especially if using a repeated phrase.
+  - text: To deprive of (something) by cheating; to impose upon.
+  - text: To cheat; to deceive; to play the beggar.
+  - text: To be sullen or sulky.
+  - text: To nibble.
+- pos: noun
+  defs:
+  - text: A cube of peat.
+- pos: noun
+  defs:
+  - text: A contagious disease caused by the Mumps virus of the genus Rubulavirus,
+      mostly occurring in childhood, which causes swelling of glands in the face and
+      neck.
+  - text: A gloomy or sullen silence.
 ---
-

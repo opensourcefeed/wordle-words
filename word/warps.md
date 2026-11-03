@@ -1,7 +1,55 @@
 ---
 layout: word
-title: warps
+title: Is WARPS a Wordle Word?
+head_title: Is WARPS a Wordle Word? Yes – Valid Guess & Meaning
 word: warps
-meaning: "<div class='dictionary-entry'><p><strong>Phonetics:</strong> N/A</p><div class='meanings'><h3>Meaning 1</h3><p><strong>Part of Speech:</strong> verb</p><ul><li><strong>Definition 1:</strong> To twist or become twisted, physically or mentally:</li><li><strong>Definition 2:</strong> (ropemaking) To run (yarn) off the reel into hauls to be tarred.</li><li><strong>Definition 3:</strong> To arrange (strands of thread, etc) so that they run lengthwise in weaving.</li><li><strong>Definition 4:</strong> To plot; to fabricate or weave (a plot or scheme).</li><li><strong>Definition 5:</strong> To change or fix (make fixed, for example by freezing).</li><li><strong>Definition 6:</strong> To move:</li><li><strong>Definition 7:</strong> (obsolete outside dialectal, of an animal) To bring forth (young) prematurely.</li><li><strong>Definition 8:</strong> To fertilize (low-lying land) by letting the tide, a river, or other water in upon it to deposit silt and alluvial matter.</li><li><strong>Definition 9:</strong> (very rare) To throw.</li></ul></div></div>"
+description: Yes, WARPS is a valid Wordle word. It is not on the Wordle answer list,
+  so it is unlikely to be a daily answer. See its meaning, starter rating and similar
+  words.
+status: guess
+answer_text: It is not on the Wordle answer list, so it is unlikely to be a daily
+  answer.
+rule_note: Plurals ending in S are almost never chosen as Wordle answers.
+stats:
+  vowels:
+  - A
+  unique_letters: 5
+  repeated: []
+  common:
+  - A
+  - R
+  rare: []
+  starter_tier: Average
+  starter_top_percent: 40
+neighbours:
+- barps
+- carps
+- harps
+- jarps
+- parps
+- tarps
+- warbs
+- wards
+- wares
+- warks
+- warms
+- warns
+anagrams:
+- wraps
+trap:
+  pattern: WAR_S
+  count: 8
+definitions:
+- pos: verb
+  defs:
+  - text: 'To twist or become twisted, physically or mentally:'
+  - text: "(ropemaking) To run (yarn) off the reel into hauls to be tarred."
+  - text: To arrange (strands of thread, etc) so that they run lengthwise in weaving.
+  - text: To plot; to fabricate or weave (a plot or scheme).
+  - text: To change or fix (make fixed, for example by freezing).
+  - text: 'To move:'
+  - text: "(obsolete outside dialectal, of an animal) To bring forth (young) prematurely."
+  - text: To fertilize (low-lying land) by letting the tide, a river, or other water
+      in upon it to deposit silt and alluvial matter.
+  - text: "(very rare) To throw."
 ---
-
