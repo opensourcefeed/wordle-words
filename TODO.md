@@ -20,7 +20,7 @@ None of the local work has shipped, and the current local config would break the
 - [x] **Replace hard-coded `href="/"` with `{{ '/' | relative_url }}`** in `_includes/header.html` and `_layouts/word.html`. Today "Back to All Words" goes to the opensourcefeed.org homepage. (H, S)
 - [x] **Do NOT delete the 5,727 "skipped" word pages** (the uncommitted `D word/*.md`). They are live URLs today, and the home page links to all 14,855 words, so deleting them creates thousands of internal 404s. Generate a page for **every** word in `_data/wordle-words.yml`. A definition is optional, because the Wordle data from P1 carries the page. (H, M)
 - [x] **Deploy, then verify in production**: CSS loads, `/wordle-words/sitemap.xml` returns 200 (it returns 404 today), and the canonical URLs are correct. (H, S)
-- [ ] **Google Search Console** *(your action, needs account access)*: add the property and submit `https://www.opensourcefeed.org/wordle-words/sitemap.xml`. Also add `Sitemap: https://www.opensourcefeed.org/wordle-words/sitemap.xml` to the main site's `robots.txt` (that file lives in the main site repo; crawlers ignore `/wordle-words/robots.txt`). (H, S)
+- [x] **Google Search Console**: `wordle-words/sitemap.xml` is submitted (last fetched 2026-11-03, 0 errors). Read-only API access works via `scripts/gsc.rb` (see "Search Console" below). *Still your action:* add `Sitemap: https://www.opensourcefeed.org/wordle-words/sitemap.xml` to the main site's `robots.txt` (main site repo). (H, S)
 - [x] **Trust and compliance pages** (H, S)
   - [x] Rewrote `about.markdown`: what the site is, word-list and definition sources, who runs it, contact, NYT disclaimer.
   - [x] Privacy Policy: footer links to the main site's existing `/privacy-policy/`, which already covers AdSense, Google cookies and Ahrefs.
@@ -124,6 +124,29 @@ Users judge a site's trust and quality in the first few seconds. A polished desi
 - [ ] Replace or complement Ahrefs analytics with an analytics tool that records in-page events (checker use and puzzle click-through). (M, S)
 
 ---
+
+## Search Console
+
+Read-only access: service account `opensourcefeed-github-https@…` with **Restricted** permission on `sc-domain:opensourcefeed.org`. The key lives **outside the repo**; never commit it (`/*.json` is git-ignored as a safety net).
+
+```sh
+export GSC_KEY_FILE=../opensourcefeeed-github-https-20b7c20e29a7.json
+ruby scripts/gsc.rb performance 28 gsc.json   # queries/pages under /wordle-words/
+ruby scripts/gsc.rb sitemaps
+ruby scripts/gsc.rb inspect https://www.opensourcefeed.org/wordle-words/word/tiger
+```
+
+**Baseline (2026-11-03, the day P1/P2 shipped):**
+- 0 impressions and 0 clicks for `/wordle-words/` pages in the last 90 days.
+- Home page: indexed, crawled 2026-11-03.
+- Word pages (`/word/tiger`, `/word/apply`, `/word/aahed`): *Discovered – currently not indexed*, never crawled. Google knows them from the sitemap but hadn't fetched any, which fits the old site having no crawlable links to them.
+- Hub pages: unknown to Google (new today).
+
+**Next checks:**
+- [ ] ~2026-11-17: re-run `inspect` on a sample of word and hub pages. Expect hubs to be crawled and word pages to start moving from "Discovered" to "Crawled" or "Indexed".
+- [ ] ~2026-12-01: first `performance 28` review. Use it for title/description CTR fixes and for new hub ideas from queries with impressions but no matching page.
+- [x] Link to `/wordle-words/` from the puzzles hub (`/puzzles/`): "Wordle Word Tools" section (checker, past answers, browse, possible answers), nav, FAQ and footer links (2026-11-03).
+- [ ] Also link to `/wordle-words/` from the main opensourcefeed.org pages (home or nav). Internal links from the established domain are the fastest way to get the new section crawled. (H, S)
 
 ## Success checkpoint (about 12 weeks after the P0 + P1 deploy)
 

@@ -5,3 +5,7 @@ _site
 vendor
 Gemfile.lock
 .bundle
+
+# Never commit credentials (e.g. Search Console service-account keys)
+/*.json
+*service-account*.json
