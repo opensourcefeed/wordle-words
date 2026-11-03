@@ -64,4 +64,15 @@ definitions:
     example: All incoming mail was routed through a single office.
   - text: To connect two local area networks, thereby forming an internet.
   - text: To send (information) through a router.
+prev_word: roust
+next_word: routh
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

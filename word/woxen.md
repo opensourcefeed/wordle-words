@@ -27,4 +27,15 @@ neighbours:
 - women
 - woven
 - boxen
+prev_word: wowse
+next_word: wrack
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

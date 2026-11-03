@@ -30,4 +30,15 @@ neighbours:
 - duded
 anagrams:
 - debud
+prev_word: buddy
+next_word: budes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

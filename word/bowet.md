@@ -32,4 +32,15 @@ neighbours:
 - rowet
 anagrams:
 - botew
+prev_word: bowes
+next_word: bowie
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

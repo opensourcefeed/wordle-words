@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: A woolly back; someone from the area around Liverpool, not from Liverpool
       itself.
+prev_word: wools
+next_word: woons
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

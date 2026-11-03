@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _UKED
   count: 6
+prev_word: yugas
+next_word: yukes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

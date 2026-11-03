@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IKED
   count: 9
+prev_word: figos
+next_word: fikes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

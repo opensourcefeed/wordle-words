@@ -27,4 +27,15 @@ neighbours:
 - agita
 anagrams:
 - galia
+prev_word: agidi
+next_word: agile
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

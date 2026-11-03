@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A master, especially of music, in South Asia and Middle East
+prev_word: usque
+next_word: uster
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

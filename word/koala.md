@@ -35,4 +35,15 @@ definitions:
   - text: A tree-dwelling marsupial, Phascolarctos cinereus, that resembles a small
       bear with a broad head, large ears and sharp claws, mainly found in eastern
       Australia.
+prev_word: knuts
+next_word: koans
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

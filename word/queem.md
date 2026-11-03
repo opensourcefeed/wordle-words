@@ -27,4 +27,15 @@ neighbours:
 - queek
 anagrams:
 - queme
+prev_word: queek
+next_word: queen
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

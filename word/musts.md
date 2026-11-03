@@ -55,4 +55,15 @@ definitions:
   - text: A time during which male elephants exhibit increased levels of sexual activity
       and aggressiveness (also spelled musth).
   - text: An elephant in this sexual and aggressive state.
+prev_word: musth
+next_word: musty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -50,4 +50,15 @@ definitions:
   - text: Rolling; having the ability to roll, usually due to wheels attached on the
       bottom.
   - text: "(of the sea) Rough, turbulent, characterized by large or rapid waves."
+prev_word: rolls
+next_word: romal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

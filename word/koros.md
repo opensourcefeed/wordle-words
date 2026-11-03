@@ -36,4 +36,15 @@ anagrams:
 - rokos
 - rooks
 - skroo
+prev_word: korma
+next_word: korun
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

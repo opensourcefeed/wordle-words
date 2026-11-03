@@ -28,4 +28,15 @@ neighbours:
 - seton
 anagrams:
 - bento
+prev_word: betid
+next_word: betta
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

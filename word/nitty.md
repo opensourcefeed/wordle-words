@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ITTY
   count: 8
+prev_word: nitto
+next_word: nival
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

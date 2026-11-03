@@ -46,4 +46,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Great, excellent.
+prev_word: skiff
+next_word: skimo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

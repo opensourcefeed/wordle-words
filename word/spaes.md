@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To divine; foretell
+prev_word: spaer
+next_word: spags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

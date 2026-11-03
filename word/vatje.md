@@ -22,4 +22,13 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 46
+prev_word: vatic
+next_word: vatos
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

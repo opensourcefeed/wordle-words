@@ -57,4 +57,15 @@ definitions:
   - text: "(Commerce) To name the current price, notably of a financial security."
   - text: To indicate verbally or by equivalent means the start of a quotation.
   - text: To observe, to take account of.
+prev_word: quota
+next_word: quoth
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

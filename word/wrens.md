@@ -32,4 +32,15 @@ definitions:
   - text: Any member of a mainly New World passerine bird family Troglodytidae; true
       wren.
   - text: Small bird of similar appearance to a true wren.
+prev_word: wreck
+next_word: wrest
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

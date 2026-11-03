@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To make a wry face in contempt, or to grin in scorn
   - text: To grin with an air of civility; to leer.
+prev_word: fleek
+next_word: flees
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

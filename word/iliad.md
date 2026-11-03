@@ -26,4 +26,15 @@ neighbours:
 - iliac
 - eliad
 - ilial
+prev_word: iliac
+next_word: ilial
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -116,4 +116,15 @@ definitions:
 - pos: noun
   defs:
   - text: A corset.
+prev_word: staws
+next_word: stead
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

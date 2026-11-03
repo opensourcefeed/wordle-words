@@ -36,4 +36,15 @@ definitions:
   - text: Describing rocks, such as silicate minerals, magmas, and volcanic and intrusive
       igneous rocks, which contain relatively high concentrations of magnesium and
       iron.
+prev_word: mafia
+next_word: mafts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

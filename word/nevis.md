@@ -32,4 +32,15 @@ anagrams:
 - veins
 - vines
 - visne
+prev_word: neves
+next_word: nevus
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

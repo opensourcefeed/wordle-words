@@ -69,4 +69,15 @@ definitions:
   - text: The extremity of an anchor fluke; the bill.
   - text: A local maximum of a function, e.g. for sine waves, each point at which
       the value of y is at its maximum.
+prev_word: peart
+next_word: peasy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

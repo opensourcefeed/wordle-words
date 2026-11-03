@@ -44,4 +44,15 @@ definitions:
   - text: To give up; yield to another.
     example: Edward decided to cede the province.
   - text: To give way.
+prev_word: ceder
+next_word: cedis
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

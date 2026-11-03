@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An ancient Greek or Roman building used for performances of music and poetry.
   - text: A theatre or concert hall.
+prev_word: odeon
+next_word: odism
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

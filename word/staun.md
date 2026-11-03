@@ -31,4 +31,15 @@ anagrams:
 - tansu
 - tuans
 - tunas
+prev_word: statu
+next_word: stave
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

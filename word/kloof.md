@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: A deep glen or ravine.
+prev_word: klong
+next_word: kluge
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

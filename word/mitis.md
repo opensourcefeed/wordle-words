@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: MI_IS
   count: 7
+prev_word: mitie
+next_word: mitre
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

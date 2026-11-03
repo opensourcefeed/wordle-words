@@ -25,4 +25,15 @@ stats:
 neighbours:
 - aggro
 - aggry
+prev_word: aggie
+next_word: aggro
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

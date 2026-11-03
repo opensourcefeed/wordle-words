@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - gerle
 - regle
+prev_word: legal
+next_word: leges
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

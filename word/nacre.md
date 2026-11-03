@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A shellfish which contains mother-of-pearl.
   - text: A pearly substance which lines the interior of many shells; mother-of-pearl.
+prev_word: nacho
+next_word: nadas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Roman Catholic, especially one of Irish origin.
+prev_word: dogal
+next_word: doges
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

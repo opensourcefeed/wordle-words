@@ -25,4 +25,15 @@ neighbours:
 - codex
 anagrams:
 - poxed
+prev_word: poddy
+next_word: podge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

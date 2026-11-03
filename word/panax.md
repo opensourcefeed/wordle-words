@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 95
 neighbours:
 - pinax
+prev_word: pampa
+next_word: pance
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -32,4 +32,15 @@ neighbours:
 - hypes
 - kyles
 - wyles
+prev_word: hyleg
+next_word: hylic
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(rare outside place names) A wood or grove."
+prev_word: hurry
+next_word: hurts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -48,4 +48,15 @@ definitions:
   - text: Crack cocaine.
   - text: Hard labor.
     example: The prisoners were sentenced to three years' hard.
+prev_word: haram
+next_word: hardy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

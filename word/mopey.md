@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: MO_EY
   count: 8
+prev_word: mopes
+next_word: moppy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

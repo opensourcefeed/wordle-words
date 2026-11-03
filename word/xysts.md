@@ -23,4 +23,13 @@ stats:
 neighbours:
 - cysts
 - xysti
+prev_word: xysti
+next_word: yaars
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

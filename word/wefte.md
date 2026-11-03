@@ -25,4 +25,15 @@ neighbours:
 - lefte
 - weete
 - wefts
+prev_word: weets
+next_word: wefts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

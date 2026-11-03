@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - apeek
 - peake
+prev_word: pekau
+next_word: pekes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

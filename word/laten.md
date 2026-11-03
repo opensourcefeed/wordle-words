@@ -32,4 +32,15 @@ neighbours:
 - paten
 anagrams:
 - leant
+prev_word: lated
+next_word: later
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

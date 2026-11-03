@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: The opening, improvised section of a Classical raga performance, before
       the formal recitation.
+prev_word: alapa
+next_word: alarm
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

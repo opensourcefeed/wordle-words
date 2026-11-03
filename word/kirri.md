@@ -26,4 +26,15 @@ neighbours:
 - karri
 - pirri
 - wirri
+prev_word: kirns
+next_word: kisan
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

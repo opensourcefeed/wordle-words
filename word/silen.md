@@ -33,4 +33,15 @@ anagrams:
 - liens
 - lines
 - nelis
+prev_word: siled
+next_word: siler
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

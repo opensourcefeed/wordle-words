@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 99
 neighbours:
 - humus
+prev_word: huggy
+next_word: huias
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

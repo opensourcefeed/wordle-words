@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Of or relating to sound.
   - text: Having a speed approaching that of the speed of sound in air.
+prev_word: songy
+next_word: sonly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

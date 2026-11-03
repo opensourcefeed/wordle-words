@@ -52,4 +52,15 @@ definitions:
     example: David was beefing last night after Ruth told him off
   - text: To fail or mess up.
     example: I beefed my presentation hard yesterday.
+prev_word: beedi
+next_word: beefy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -53,4 +53,15 @@ definitions:
   - text: To win easily.
     example: England romped to an easy win over Australia.
   - text: To engage in playful or boisterous sex.
+prev_word: romer
+next_word: rompu
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

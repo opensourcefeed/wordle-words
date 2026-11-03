@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _EELY
   count: 6
+prev_word: reels
+next_word: reems
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

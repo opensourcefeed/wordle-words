@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Tilted to one side.
     example: He wore his hat askew
+prev_word: asker
+next_word: askoi
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

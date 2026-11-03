@@ -61,4 +61,15 @@ definitions:
   - text: To be lifted up.
   - text: To extract (code) from a loop construct as part of optimization.
   - text: To steal, to rob.
+prev_word: hoise
+next_word: hokas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

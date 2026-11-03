@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: S_ITS
   count: 8
+prev_word: swith
+next_word: swive
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

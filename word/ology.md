@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any branch of learning, especially one ending in “-logy”.
+prev_word: ollie
+next_word: olona
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

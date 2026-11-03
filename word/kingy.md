@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _INGY
   count: 8
+prev_word: kings
+next_word: kinin
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

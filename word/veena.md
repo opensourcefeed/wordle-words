@@ -32,4 +32,15 @@ definitions:
   - text: A plucked stringed instrument with five or seven steel strings stretched
       on a long fretted finger-board over two gourds, used mostly in Carnatic Indian
       classical music.
+prev_word: vealy
+next_word: veeps
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

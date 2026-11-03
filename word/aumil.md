@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - miaul
 - mulai
+prev_word: aulos
+next_word: aunes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

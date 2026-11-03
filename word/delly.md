@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ELLY
   count: 11
+prev_word: dells
+next_word: delos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

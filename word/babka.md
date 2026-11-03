@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 100
 anagrams:
 - kabab
+prev_word: babes
+next_word: baboo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

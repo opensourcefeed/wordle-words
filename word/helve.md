@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To furnish (an axe, etc.) with a helve.
+prev_word: helps
+next_word: hemal
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

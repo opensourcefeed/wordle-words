@@ -56,4 +56,15 @@ definitions:
   - text: Affected by haze; hazy.
   - text: "(of a photograph) Clouded, especially due to accidental exposure to light."
   - text: Drunk.
+prev_word: hazan
+next_word: hazel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

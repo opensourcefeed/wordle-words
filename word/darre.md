@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _ARRE
   count: 6
+prev_word: darns
+next_word: darts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

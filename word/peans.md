@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _EANS
   count: 11
+prev_word: peals
+next_word: peare
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

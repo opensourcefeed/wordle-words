@@ -27,4 +27,15 @@ anagrams:
 - mania
 - amnia
 - anima
+prev_word: amahs
+next_word: amari
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

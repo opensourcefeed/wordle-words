@@ -31,4 +31,15 @@ anagrams:
 - dream
 - armed
 - derma
+prev_word: mados
+next_word: maedi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

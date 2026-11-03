@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A stupid, foolish, or ridiculous person, especially a man.
+prev_word: boysy
+next_word: braai
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

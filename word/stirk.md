@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A yearling cow; a young bullock or heifer.
+prev_word: stire
+next_word: stirp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -52,4 +52,13 @@ definitions:
   - text: To be a dominant quality of a place or situation; to prevail, predominate,
       rule.
     example: Silence reigned.
+prev_word: reify
+next_word: reiki
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

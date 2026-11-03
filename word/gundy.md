@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - dungy
 - nudgy
+prev_word: gundi
+next_word: gunge
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

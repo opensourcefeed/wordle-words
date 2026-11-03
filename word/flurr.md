@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 85
 neighbours:
 - fluor
+prev_word: fluor
+next_word: flush
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

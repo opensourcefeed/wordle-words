@@ -48,4 +48,15 @@ definitions:
   - text: "(chiefly in the plural) A waterproof boot that comes up to the hip, used
       by fishermen, etc."
   - text: A long-legged bird associated with wetland or coastal environments.
+prev_word: waded
+next_word: wades
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: POO_Y
   count: 8
+prev_word: poohs
+next_word: pooja
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Dreary.
+prev_word: dream
+next_word: dreck
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

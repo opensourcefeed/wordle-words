@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: In Greek myth, a female tree spirit.
+prev_word: druxy
+next_word: dryas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

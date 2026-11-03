@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: One of the stans; any of the ex-Soviet countries and their neighbours whose
       name ends with "-stan" such as Turkmenistan, Uzbekistan, and Kazakhstan.
+prev_word: stank
+next_word: staph
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

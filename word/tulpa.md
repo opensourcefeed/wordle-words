@@ -25,4 +25,15 @@ neighbours:
 - culpa
 - talpa
 - tulps
+prev_word: tulle
+next_word: tulps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

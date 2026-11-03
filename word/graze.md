@@ -62,4 +62,15 @@ definitions:
   - text: To cause a slight wound to; to scratch.
     example: to graze one's knee
   - text: To yield grass for grazing.
+prev_word: grays
+next_word: great
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

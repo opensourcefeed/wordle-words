@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: An informal trading post or convenience store found in townships and remote
       areas.
+prev_word: spays
+next_word: speak
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

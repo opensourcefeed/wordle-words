@@ -47,4 +47,15 @@ definitions:
   - text: To line or finish (a surface, such as a wall), with plaster, stucco, thin
       boards, or similar.
   - text: To set a higher bound.
+prev_word: ceili
+next_word: celeb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

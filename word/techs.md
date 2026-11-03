@@ -38,4 +38,15 @@ definitions:
   - text: Technician
   - text: Technique
   - text: "(used in titles) technical college"
+prev_word: teaze
+next_word: techy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

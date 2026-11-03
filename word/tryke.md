@@ -24,4 +24,15 @@ neighbours:
 - gryke
 - trike
 - troke
+prev_word: tryer
+next_word: tryma
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

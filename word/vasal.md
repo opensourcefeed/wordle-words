@@ -27,4 +27,15 @@ neighbours:
 - vagal
 anagrams:
 - lavas
+prev_word: varve
+next_word: vases
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

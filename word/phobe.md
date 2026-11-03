@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person who experiences a phobia.
+prev_word: phlox
+next_word: phoca
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

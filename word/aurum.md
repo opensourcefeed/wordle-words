@@ -24,4 +24,15 @@ stats:
 neighbours:
 - agrum
 - durum
+prev_word: auris
+next_word: autos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Any member of the family Canidae, including dogs, wolves, foxes, coyotes
       and jackals.
+prev_word: cangs
+next_word: canna
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

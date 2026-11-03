@@ -27,4 +27,13 @@ neighbours:
 - trags
 anagrams:
 - tugra
+prev_word: trags
+next_word: traik
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: AN_AS
   count: 6
+prev_word: ansae
+next_word: antae
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

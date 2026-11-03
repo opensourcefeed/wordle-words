@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Money, riches, or wealth, especially when seen as having a corrupting effect
       or causing greed, or obtained in an underhanded manner.
+prev_word: lucky
+next_word: ludes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: A_TER
   count: 6
+prev_word: attas
+next_word: attic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

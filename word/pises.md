@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ISES
   count: 8
+prev_word: pisco
+next_word: pisky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

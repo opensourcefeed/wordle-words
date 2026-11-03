@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 43
 neighbours:
 - cagot
+prev_word: magna
+next_word: magus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

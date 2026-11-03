@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Pertaining to a prophet; prophetic, oracular.
+prev_word: vatha
+next_word: vatje
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -23,4 +23,13 @@ neighbours:
 - makai
 - makan
 - makar
+prev_word: majos
+next_word: makai
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

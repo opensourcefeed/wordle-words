@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: Evening.
+prev_word: evegs
+next_word: event
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

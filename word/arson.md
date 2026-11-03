@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To illegally set fire to; to burn down in a criminal manner
+prev_word: arsis
+next_word: artal
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OOKS
   count: 14
+prev_word: pooka
+next_word: pools
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

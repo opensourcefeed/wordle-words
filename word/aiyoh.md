@@ -25,4 +25,13 @@ stats:
 neighbours:
 - aiyah
 - aiyoo
+prev_word: aiyee
+next_word: aiyoo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

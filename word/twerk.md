@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A puny or insignificant person, generally male; a twerp.
+prev_word: tweet
+next_word: twerp
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

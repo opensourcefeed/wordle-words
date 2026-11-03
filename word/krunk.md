@@ -23,4 +23,15 @@ neighbours:
 - drunk
 - trunk
 - crunk
+prev_word: krump
+next_word: ksars
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

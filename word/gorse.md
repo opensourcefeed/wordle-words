@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: Evergreen shrub, of the genus Ulex, having spiny leaves and yellow flowers.
+prev_word: gorps
+next_word: gorsy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

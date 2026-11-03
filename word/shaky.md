@@ -43,4 +43,15 @@ definitions:
   - text: Easily shaken; tottering; unsound.
     example: a shaky constitution
   - text: Wavering; undecided.
+prev_word: shakt
+next_word: shale
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

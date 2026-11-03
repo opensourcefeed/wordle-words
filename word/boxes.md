@@ -85,4 +85,15 @@ definitions:
   defs:
   - text: A Mediterranean food fish of the genus Boops, which is a variety of sea
       bream; a bogue or oxeye.
+prev_word: boxer
+next_word: boxla
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

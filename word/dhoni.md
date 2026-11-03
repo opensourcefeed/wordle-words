@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A handcrafted sailboat with a motor or lateen sails, resembling a dhow,
       that is used in the Maldives.
+prev_word: dhols
+next_word: dhoti
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

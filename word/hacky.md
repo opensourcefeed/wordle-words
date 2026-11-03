@@ -40,4 +40,15 @@ definitions:
   - text: 'Using, or characterised by, hacks: poorly designed workarounds.'
   - text: Short and interrupted, broken, jerky; hacking.
     example: A hacky cough. A hacky laugh. A hacky breath. A hacky howl.
+prev_word: hacks
+next_word: hadal
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

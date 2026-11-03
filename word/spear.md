@@ -83,4 +83,15 @@ definitions:
     example: a spear counterpart
   - text: Pertaining to male family members.
     example: the spear side of the family
+prev_word: spean
+next_word: speat
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

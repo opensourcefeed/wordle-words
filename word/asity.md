@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the family Philepittidae of small suboscine passerine birds.
+prev_word: aside
+next_word: askar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

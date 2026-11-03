@@ -23,4 +23,15 @@ neighbours:
 - moaky
 - mocky
 - mokey
+prev_word: mokis
+next_word: mokos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

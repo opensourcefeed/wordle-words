@@ -58,4 +58,15 @@ definitions:
   - text: To make bright; to cause to shine by reflected light.
     example: in hunting, to shine the eyes of a deer at night by throwing a light
       on them
+prev_word: shola
+next_word: shonk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

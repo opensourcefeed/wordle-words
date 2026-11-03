@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Dangerous, involving risks.
     example: Investing in this start-up company could be risky.
+prev_word: risks
+next_word: risps
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

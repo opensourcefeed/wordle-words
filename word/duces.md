@@ -45,4 +45,15 @@ definitions:
   - text: A high-ranking commander in the Roman army, responsible for more than one
       legion.
   - text: The subject of a fugue, answered by the comes.
+prev_word: ducat
+next_word: duchy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

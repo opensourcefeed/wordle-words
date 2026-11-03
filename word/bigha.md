@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A measure of land in India, varying from a third of an acre to an acre.
+prev_word: biggy
+next_word: bight
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

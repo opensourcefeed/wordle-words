@@ -63,4 +63,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a brilliant reddish orange-gold colour, like that of a flame.
+prev_word: flaky
+next_word: flamm
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

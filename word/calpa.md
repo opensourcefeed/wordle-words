@@ -27,4 +27,15 @@ neighbours:
 - kalpa
 - salpa
 - talpa
+prev_word: calos
+next_word: calps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

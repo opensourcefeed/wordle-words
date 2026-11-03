@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: In a noble manner.
     example: In the end he died nobly, trying to save the lives of others.
+prev_word: noble
+next_word: nocks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

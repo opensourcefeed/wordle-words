@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ANTY
   count: 9
+prev_word: tanto
+next_word: tapas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

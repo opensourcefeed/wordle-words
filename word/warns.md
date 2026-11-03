@@ -49,4 +49,15 @@ definitions:
       or stay away.
     example: A sign warns trespassers off/away from the site.
   - text: To give warning.
+prev_word: warms
+next_word: warps
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

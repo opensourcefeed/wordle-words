@@ -38,4 +38,15 @@ definitions:
       endemic to New Zealand.
   - text: "(New South Wales, Queensland) The edible saltwater clam Plebidonax deltoides,
       endemic to Australia."
+prev_word: pipid
+next_word: pipit
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

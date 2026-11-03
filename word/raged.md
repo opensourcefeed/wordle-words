@@ -50,4 +50,15 @@ definitions:
   - text: To act or speak in heightened anger.
   - text: "(sometimes figurative) To move with great violence, as a storm etc."
   - text: To enrage.
+prev_word: ragde
+next_word: ragee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

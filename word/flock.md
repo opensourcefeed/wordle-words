@@ -48,4 +48,15 @@ definitions:
     example: People flocked to the cinema to see the new film.
   - text: To flock to; to crowd.
   - text: To treat a pool with chemicals to remove suspended particles.
+prev_word: flobs
+next_word: flocs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

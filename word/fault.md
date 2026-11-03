@@ -60,4 +60,15 @@ definitions:
   - text: To fracture.
   - text: To commit a mistake or error.
   - text: To undergo a page fault.
+prev_word: fauld
+next_word: fauna
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

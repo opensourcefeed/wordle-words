@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _IFFS
   count: 9
+prev_word: vifda
+next_word: vigas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

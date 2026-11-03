@@ -25,4 +25,15 @@ neighbours:
 - misto
 anagrams:
 - odism
+prev_word: misch
+next_word: miser
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

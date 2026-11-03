@@ -56,4 +56,15 @@ definitions:
   - text: To let out (a sail) so that it luffs.
   - text: To alter the vertical angle of the jib of a crane so as to bring it level
       with the load.
+prev_word: luffa
+next_word: luged
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

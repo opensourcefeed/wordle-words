@@ -47,4 +47,15 @@ definitions:
   - text: To hide or conceal.
   - text: To render or become invisible via futuristic technology.
     example: The ship cloaked before entering the enemy sector of space.
+prev_word: clipt
+next_word: cloam
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

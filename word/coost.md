@@ -30,4 +30,15 @@ anagrams:
 - coots
 - scoot
 - tocos
+prev_word: coopt
+next_word: coots
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

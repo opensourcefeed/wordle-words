@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - sinus
 - sunis
+prev_word: nisse
+next_word: nital
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

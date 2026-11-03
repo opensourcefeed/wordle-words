@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: The currency of Iceland, Denmark (including Greenland and the Faroe Islands)
       and Norway, divided into 100 øre, except in Iceland where 1 króna = 100 aurar.
+prev_word: krona
+next_word: kroon
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

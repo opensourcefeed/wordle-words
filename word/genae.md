@@ -38,4 +38,15 @@ definitions:
   - text: The part of the head to which the jaws of an insect are attached.
   - text: The part of the head below the compound eyes of Diptera, or an analagous
       part of the head of larvae without compound eyes.
+prev_word: gemot
+next_word: genal
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

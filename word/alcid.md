@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A bird of the family Alcidae, including auks, auklets, razorbills, dovekies,
       guillemots, and puffins.
+prev_word: alces
+next_word: alcos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

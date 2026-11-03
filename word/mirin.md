@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A form of Japanese rice wine, less alcoholic than sake.
+prev_word: mirid
+next_word: mirkn
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

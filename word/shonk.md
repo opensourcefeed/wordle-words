@@ -26,4 +26,15 @@ neighbours:
 - stonk
 anagrams:
 - honks
+prev_word: shone
+next_word: shook
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

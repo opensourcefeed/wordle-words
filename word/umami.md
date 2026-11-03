@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: One of the five basic tastes, the savory taste of foods such as seaweed,
       cured fish, aged cheeses and meats.
+prev_word: ulzie
+next_word: umbel
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

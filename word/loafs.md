@@ -38,4 +38,15 @@ definitions:
   - text: To do nothing, to be idle.
     example: loaf about, loaf around.
   - text: "(Cockney rhyming slang) To headbutt, (from loaf of bread)"
+prev_word: loads
+next_word: loams
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

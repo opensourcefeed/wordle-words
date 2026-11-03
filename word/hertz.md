@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: 'In the International System of Units, the derived unit of frequency; one
       (period or cycle of any periodic event) per second. Symbol: Hz'
+prev_word: herse
+next_word: herye
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

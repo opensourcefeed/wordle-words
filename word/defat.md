@@ -30,4 +30,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove fat from a material, especially by the use of solvents
+prev_word: deevs
+next_word: defer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

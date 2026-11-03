@@ -29,4 +29,15 @@ neighbours:
 - towie
 anagrams:
 - waite
+prev_word: tawer
+next_word: tawny
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

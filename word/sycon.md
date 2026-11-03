@@ -18,4 +18,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 53
+prev_word: syces
+next_word: syeds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

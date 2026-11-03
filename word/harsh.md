@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Unpleasantly rough to the touch or other senses.
   - text: Severe or cruel.
+prev_word: harry
+next_word: harts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

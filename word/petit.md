@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: "(of size) Petite: small, little."
   - text: 'Petty, in its various senses:'
+prev_word: peter
+next_word: petos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: A hardened stem or stalk of a plant.
     example: Neither young poles nor old runts are durable. — Holland.
   - text: A bow.
+prev_word: runos
+next_word: runty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

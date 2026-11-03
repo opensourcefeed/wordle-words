@@ -27,4 +27,15 @@ neighbours:
 - vendu
 anagrams:
 - upend
+prev_word: pends
+next_word: pened
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -57,4 +57,15 @@ definitions:
   - text: Performed, done, or acted, weakly; not exhibiting vigor, strength, or energy
     example: faint efforts
   - text: Slight; minimal.
+prev_word: fains
+next_word: faire
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

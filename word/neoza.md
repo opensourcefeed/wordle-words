@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ozena
 - zonae
+prev_word: neosa
+next_word: neper
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

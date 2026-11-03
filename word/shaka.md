@@ -37,4 +37,15 @@ definitions:
   - text: A greeting gesture in which the thumb and little finger are extended while
       curling the three middle fingers in a semi-fist. Used to express a variety of
       positive meanings including "all right", "hello" and "goodbye".
+prev_word: shahs
+next_word: shake
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 44
 neighbours:
 - begob
+prev_word: berms
+next_word: berry
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

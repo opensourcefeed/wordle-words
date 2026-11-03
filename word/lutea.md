@@ -27,4 +27,15 @@ neighbours:
 - luted
 - luter
 - lutes
+prev_word: lusus
+next_word: luted
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

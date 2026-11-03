@@ -23,4 +23,15 @@ neighbours:
 - dempt
 - kempt
 - tempt
+prev_word: nemns
+next_word: nenes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

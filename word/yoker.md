@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OKER
   count: 8
+prev_word: yokel
+next_word: yokes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

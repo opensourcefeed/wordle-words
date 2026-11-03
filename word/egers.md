@@ -31,4 +31,13 @@ anagrams:
 - grese
 - reges
 - serge
+prev_word: egads
+next_word: egest
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

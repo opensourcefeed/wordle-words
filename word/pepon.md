@@ -25,4 +25,15 @@ neighbours:
 - pedon
 - pelon
 - pepos
+prev_word: peple
+next_word: pepos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

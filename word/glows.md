@@ -62,4 +62,15 @@ definitions:
   - text: To make hot; to flush.
   - text: To feel hot; to have a burning sensation, as of the skin, from friction,
       exercise, etc.; to burn.
+prev_word: glove
+next_word: glowy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

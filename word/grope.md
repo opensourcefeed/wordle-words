@@ -52,4 +52,15 @@ definitions:
       as to make the contact appear accidental, for the purpose of one's sexual gratification.
     example: That old man groped that girl on the train!
   - text: To examine; to test; to sound.
+prev_word: groom
+next_word: gross
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

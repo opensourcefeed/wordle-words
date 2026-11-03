@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 8
 anagrams:
 - triol
+prev_word: lirks
+next_word: lises
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

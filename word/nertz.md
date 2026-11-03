@@ -25,4 +25,15 @@ neighbours:
 - hertz
 - nerts
 - nurtz
+prev_word: nerts
+next_word: nerve
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/tz/"
+  label: Ending in TZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

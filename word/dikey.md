@@ -29,4 +29,15 @@ neighbours:
 - dykey
 anagrams:
 - yiked
+prev_word: dikes
+next_word: dilli
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

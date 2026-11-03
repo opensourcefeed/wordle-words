@@ -70,4 +70,15 @@ definitions:
   - text: To dignify or raise by an act of favour; to honour.
   - text: To supply with heavenly grace.
   - text: To add grace notes, cadenzas, etc., to.
+prev_word: grabs
+next_word: grade
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

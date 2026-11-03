@@ -45,4 +45,15 @@ definitions:
   - text: To swallow eagerly, or in large draughts; to swallow up; to take down in
       one swallow.
   - text: To react nervously by swallowing.
+prev_word: gulph
+next_word: gulpy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

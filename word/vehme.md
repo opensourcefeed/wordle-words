@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 94
 neighbours:
 - fehme
+prev_word: vegos
+next_word: veils
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

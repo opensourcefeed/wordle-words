@@ -88,4 +88,15 @@ definitions:
       placed, paying three dollars; and Cinnamon showed, paying five dollars.'
   - text: To have a certain appearance, such as well or ill, fit or unfit; to become
       or suit; to appear.
+prev_word: shewn
+next_word: shiai
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

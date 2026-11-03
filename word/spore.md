@@ -58,4 +58,15 @@ definitions:
 - pos: verb
   defs:
   - text: To produce spores.
+prev_word: spoot
+next_word: spork
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

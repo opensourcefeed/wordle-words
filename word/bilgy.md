@@ -28,4 +28,15 @@ neighbours:
 - bulgy
 anagrams:
 - bigly
+prev_word: bilge
+next_word: bilks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

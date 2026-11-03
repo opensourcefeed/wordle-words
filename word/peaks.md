@@ -71,4 +71,15 @@ definitions:
   - text: To become sick or wan.
   - text: To acquire sharpness of figure or features; hence, to look thin or sickly.
   - text: To pry; to peep slyly.
+prev_word: peake
+next_word: peaky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

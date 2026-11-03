@@ -37,4 +37,13 @@ anagrams:
 - sidle
 - sield
 - siled
+prev_word: eikon
+next_word: eiron
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

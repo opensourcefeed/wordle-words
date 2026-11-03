@@ -35,4 +35,15 @@ definitions:
   - text: A primitive word, from which other words may be derived.
   - text: The number of distinct symbols used to represent numbers in a particular
       base, as ten for decimal.
+prev_word: radio
+next_word: radon
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

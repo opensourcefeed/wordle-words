@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: Hell; the infernal pit; the great deep; the primal chaos.
   - text: An abyss; a gulf, a chasm, a very deep hole.
+prev_word: abyes
+next_word: abyss
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

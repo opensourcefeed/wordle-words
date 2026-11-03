@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To produce and undergo a spasm.
+prev_word: spart
+next_word: spate
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

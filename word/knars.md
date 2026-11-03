@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A knot or burl in a tree; a knurl, a gnarl.
+prev_word: knarl
+next_word: knaur
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

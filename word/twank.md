@@ -26,4 +26,15 @@ neighbours:
 - trank
 - twink
 - twonk
+prev_word: twang
+next_word: tways
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

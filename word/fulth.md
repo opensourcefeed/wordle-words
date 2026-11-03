@@ -22,4 +22,15 @@ stats:
 neighbours:
 - filth
 - furth
+prev_word: fully
+next_word: fulwa
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

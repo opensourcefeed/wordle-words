@@ -24,4 +24,15 @@ neighbours:
 - civvy
 - divvy
 - mivey
+prev_word: mivey
+next_word: mixed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

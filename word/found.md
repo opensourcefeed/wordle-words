@@ -70,4 +70,15 @@ definitions:
 - pos: noun
   defs:
   - text: Food and lodging; board.
+prev_word: fouls
+next_word: fount
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

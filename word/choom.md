@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An Englishman.
+prev_word: chook
+next_word: choon
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

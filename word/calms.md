@@ -52,4 +52,15 @@ definitions:
   - text: To make calm.
     example: to calm a crying baby
   - text: To become calm.
+prev_word: calls
+next_word: calmy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

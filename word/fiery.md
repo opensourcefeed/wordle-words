@@ -46,4 +46,15 @@ definitions:
   - text: Tempestuous or emotionally volatile.
     example: a fiery temper
   - text: Spirited or filled with emotion.
+prev_word: fiers
+next_word: fiest
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tumpline.
+prev_word: tumor
+next_word: tumpy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

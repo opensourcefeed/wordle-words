@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: The upper or dorsal surface of an articulated animal such as an arthropod.
+prev_word: terfs
+next_word: terms
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

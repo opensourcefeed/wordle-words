@@ -29,4 +29,15 @@ neighbours:
 - tratt
 anagrams:
 - trapt
+prev_word: prats
+next_word: praty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

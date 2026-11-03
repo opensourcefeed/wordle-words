@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: An alloy coating made of lead and tin (or, more recently, zinc and tin)
       and used to cover steel.
+prev_word: terms
+next_word: terns
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

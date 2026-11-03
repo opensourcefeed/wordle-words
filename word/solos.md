@@ -50,4 +50,15 @@ definitions:
       the others in turn without a partner"
   - text: A single shot of espresso.
   - text: An instance of soloing the football.
+prev_word: solon
+next_word: solum
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

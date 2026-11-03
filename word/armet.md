@@ -32,4 +32,15 @@ anagrams:
 - ramet
 - retam
 - trema
+prev_word: armer
+next_word: armil
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

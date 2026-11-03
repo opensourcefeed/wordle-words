@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: An articulated lorry.
   - text: An articulated bus.
+prev_word: arter
+next_word: artis
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

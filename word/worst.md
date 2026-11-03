@@ -107,4 +107,15 @@ definitions:
   - text: Superlative of bad
     example: My sore leg hurts worst when it's cold and rainy.
   - text: Superlative of ill
+prev_word: worse
+next_word: worth
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

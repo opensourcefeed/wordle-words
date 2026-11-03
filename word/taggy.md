@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _AGGY
   count: 9
+prev_word: tafia
+next_word: tagma
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

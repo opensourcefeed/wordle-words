@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: SPOO_
   count: 7
+prev_word: spoor
+next_word: spore
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

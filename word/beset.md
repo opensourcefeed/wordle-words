@@ -46,4 +46,15 @@ definitions:
   - text: "(sometimes figurative) To attack or assail, especially from all sides."
   - text: To decorate something with jewels etc.
   - text: Of a ship, to get trapped by ice.
+prev_word: beses
+next_word: besit
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

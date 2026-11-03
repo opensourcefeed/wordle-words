@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make the harsh cry of a crow, rook, or raven.
+prev_word: cavus
+next_word: cawks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

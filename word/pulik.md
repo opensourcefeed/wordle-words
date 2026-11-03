@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of a breed of Hungarian sheepdog with a distinctive thick, corded coat.
+prev_word: pules
+next_word: pulis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

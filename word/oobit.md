@@ -25,4 +25,15 @@ stats:
 neighbours:
 - orbit
 - oubit
+prev_word: ooaas
+next_word: oohed
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

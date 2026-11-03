@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 63
 neighbours:
 - howre
+prev_word: howay
+next_word: howdy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

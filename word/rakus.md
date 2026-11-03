@@ -28,4 +28,15 @@ neighbours:
 - rakis
 - ramus
 - ratus
+prev_word: raksi
+next_word: rales
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

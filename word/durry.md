@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A thick, flat-woven cotton Indian rug or carpet.
+prev_word: durrs
+next_word: durst
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

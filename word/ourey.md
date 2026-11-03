@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Good
   starter_top_percent: 9
+prev_word: ouphs
+next_word: ourie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -79,4 +79,15 @@ definitions:
       factors.
     example: That architecture won't scale to real-world environments.
   - text: To weigh, measure or grade according to a scale or system.
+prev_word: scald
+next_word: scall
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

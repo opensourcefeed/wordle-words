@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: POO_S
   count: 8
+prev_word: pooch
+next_word: pooed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

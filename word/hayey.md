@@ -24,4 +24,15 @@ stats:
 neighbours:
 - hayed
 - hayer
+prev_word: hayer
+next_word: hayle
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

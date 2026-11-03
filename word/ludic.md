@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Of or pertaining to play; playful.
   - text: Of or pertaining to games of chance.
+prev_word: ludes
+next_word: ludos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

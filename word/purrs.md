@@ -52,4 +52,15 @@ definitions:
   - text: To make a vibrating throaty sound, as from pleasure.
     example: He purred like a kitten when she massaged his neck.
   - text: "(of an engine) To make a low and consistent rumbling sound."
+prev_word: purre
+next_word: purry
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

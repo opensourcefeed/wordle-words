@@ -63,4 +63,15 @@ definitions:
 - pos: noun
   defs:
   - text: Student accommodation
+prev_word: hallo
+next_word: halma
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

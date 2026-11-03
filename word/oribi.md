@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Ourebia ourebi, a species of antelope.
+prev_word: orgue
+next_word: oriel
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

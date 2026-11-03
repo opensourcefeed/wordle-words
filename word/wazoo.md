@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The anus; ass.
+prev_word: wazir
+next_word: weald
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

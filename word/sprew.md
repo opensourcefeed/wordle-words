@@ -25,4 +25,15 @@ neighbours:
 - spree
 - spred
 - strew
+prev_word: spree
+next_word: sprig
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

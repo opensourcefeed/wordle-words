@@ -92,4 +92,15 @@ definitions:
   - text: To remain without ruin or injury.
   - text: To stop asking for more cards; to keep one's hand as it has been dealt so
       far.
+prev_word: stamp
+next_word: stane
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

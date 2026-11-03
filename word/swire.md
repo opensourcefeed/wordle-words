@@ -40,4 +40,15 @@ anagrams:
 - weirs
 - wires
 - wries
+prev_word: swipe
+next_word: swirl
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

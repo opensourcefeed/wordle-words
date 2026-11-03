@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Any of several brightly-coloured, venomous snakes, of the genus Bungarus,
       of southeast Asia.
+prev_word: krais
+next_word: krang
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

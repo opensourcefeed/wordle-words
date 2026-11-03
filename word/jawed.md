@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Having jaws.
   - text: "(in combination) Having a specified type of jaw."
+prev_word: jawan
+next_word: jawns
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

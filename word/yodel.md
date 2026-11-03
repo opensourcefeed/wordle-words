@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To sing (a song) in such a way that the voice fluctuates rapidly between
       the normal chest voice and falsetto.
+prev_word: yocks
+next_word: yodhs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

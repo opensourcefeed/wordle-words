@@ -29,4 +29,15 @@ neighbours:
 - thebe
 anagrams:
 - teeth
+prev_word: theta
+next_word: thews
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

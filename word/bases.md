@@ -121,4 +121,15 @@ definitions:
   - text: A primitive word, from which other words may be derived.
   - text: The number of distinct symbols used to represent numbers in a particular
       base, as ten for decimal.
+prev_word: baser
+next_word: basha
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

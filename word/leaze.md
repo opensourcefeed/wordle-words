@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _EAZE
   count: 6
+prev_word: leavy
+next_word: leben
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

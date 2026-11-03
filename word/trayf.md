@@ -32,4 +32,13 @@ definitions:
   - text: "(of food) Not kosher."
     example: The casserole looked delicious, but Moishe wouldn't eat it because it
       was treyf.
+prev_word: trawl
+next_word: trays
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: To open something using a zipper.
   - text: To come open by means of a zipper.
   - text: To decompress (a zip file).
+prev_word: unwon
+next_word: upbow
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

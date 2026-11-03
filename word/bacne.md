@@ -28,4 +28,15 @@ definitions:
   - text: Acne on the back.
     example: Bacne seems to be suffered more by men than by women, though women do
       have outbreaks of acne on their backs as well. - Acne Resource Center
+prev_word: backy
+next_word: bacon
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

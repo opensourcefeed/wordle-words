@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ANED
   count: 10
+prev_word: sandy
+next_word: saner
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To take a photograph of.
+prev_word: phota
+next_word: phots
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

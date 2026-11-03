@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _APAS
   count: 8
+prev_word: nanua
+next_word: naped
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

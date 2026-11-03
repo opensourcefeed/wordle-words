@@ -25,4 +25,15 @@ neighbours:
 - snubs
 anagrams:
 - bunks
+prev_word: knows
+next_word: knule
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

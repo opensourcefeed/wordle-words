@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: Cannabis, especially as used in the Indian subcontinent.
+prev_word: bhaji
+next_word: bhats
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

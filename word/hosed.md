@@ -56,4 +56,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Ruined, messed up.
+prev_word: horsy
+next_word: hosel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

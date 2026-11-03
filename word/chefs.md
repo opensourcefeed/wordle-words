@@ -35,4 +35,15 @@ definitions:
     example: Kiss the chef. (slogan on aprons used by home barbecue enthusiasts)
   - text: One who manufactures illegal drugs; a cook.
   - text: A reliquary in the shape of a head.
+prev_word: cheet
+next_word: cheka
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

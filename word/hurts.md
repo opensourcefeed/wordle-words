@@ -52,4 +52,15 @@ definitions:
   - text: To cause (somebody) emotional pain.
   - text: To undermine, impede, or damage.
     example: This latest gaffe hurts the legislator’s reelection prospects still further.
+prev_word: hurst
+next_word: hurty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

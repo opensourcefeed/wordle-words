@@ -37,4 +37,13 @@ definitions:
   defs:
   - text: A style of weaving that uses a process similar to tie-dye to dye the threads.
   - text: A work woven in this style.
+prev_word: ikans
+next_word: ikons
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

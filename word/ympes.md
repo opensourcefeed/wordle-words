@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 51
 neighbours:
 - yipes
+prev_word: ymolt
+next_word: yobbo
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

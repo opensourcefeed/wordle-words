@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: To keep within a channel by means of levees.
     example: to levee a river
+prev_word: levas
+next_word: level
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

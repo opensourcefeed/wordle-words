@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: POL_S
   count: 7
+prev_word: polka
+next_word: pollo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

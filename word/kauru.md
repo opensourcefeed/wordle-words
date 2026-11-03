@@ -24,4 +24,13 @@ stats:
 neighbours:
 - kauri
 - kaury
+prev_word: kauri
+next_word: kaury
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

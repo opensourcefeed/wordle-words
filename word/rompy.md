@@ -25,4 +25,15 @@ neighbours:
 - roopy
 - roupy
 - rumpy
+prev_word: rompu
+next_word: ronde
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

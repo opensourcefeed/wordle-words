@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A cigarette break from work or military duty; a brief cessation of work
       to have a smoke, or (more generally) to take a small rest, snack etc.
+prev_word: smoke
+next_word: smoky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

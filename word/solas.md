@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: SO_AS
   count: 9
+prev_word: solar
+next_word: solde
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

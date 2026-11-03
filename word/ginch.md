@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: _INCH
   count: 6
+prev_word: gimpy
+next_word: ginga
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

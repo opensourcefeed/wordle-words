@@ -23,4 +23,15 @@ stats:
 neighbours:
 - aught
 - oucht
+prev_word: atuas
+next_word: audad
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

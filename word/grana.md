@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A stack-like structure in plant chloroplasts that contain chlorophyll; the
       site of photosynthesis.
+prev_word: grams
+next_word: grand
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

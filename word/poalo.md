@@ -26,4 +26,15 @@ neighbours:
 - pollo
 anagrams:
 - paolo
+prev_word: poake
+next_word: pobby
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

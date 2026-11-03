@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: To become spherical.
   - text: To make spherical.
+prev_word: gloat
+next_word: globi
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

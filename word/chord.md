@@ -47,4 +47,15 @@ definitions:
   - text: To accord; to harmonize together.
     example: This note chords with that one.
   - text: To provide with musical chords or strings; to string; to tune.
+prev_word: chops
+next_word: chore
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

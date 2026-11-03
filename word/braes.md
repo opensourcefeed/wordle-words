@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: The sloping bank of a river valley.
   - text: Any hillside or slope.
+prev_word: brads
+next_word: brags
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: S_ENT
   count: 6
+prev_word: suede
+next_word: suers
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

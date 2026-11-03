@@ -28,4 +28,15 @@ anagrams:
 - odors
 - roods
 - sordo
+prev_word: ordie
+next_word: oread
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

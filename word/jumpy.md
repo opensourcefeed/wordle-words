@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Nervous and excited.
+prev_word: jumps
+next_word: junco
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

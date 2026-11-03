@@ -54,4 +54,15 @@ definitions:
       stressed syllable of each to the end of each.
     example: '"India" and "windier" rhyme with each other in non-rhotic accents.'
   - text: To number; count; reckon.
+prev_word: rhumb
+next_word: rhymy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

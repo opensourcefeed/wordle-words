@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - apism
 - pimas
+prev_word: sammy
+next_word: samps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

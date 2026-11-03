@@ -24,4 +24,15 @@ neighbours:
 - anata
 - asana
 - jnana
+prev_word: amyls
+next_word: anata
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

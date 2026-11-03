@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To move or impale (food etc.) with a spork.
+prev_word: spore
+next_word: sport
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rk/"
+  label: Ending in RK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

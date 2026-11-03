@@ -48,4 +48,15 @@ definitions:
     example: He loped along, hour after hour, not fast but steady and covering much
       ground.
   - text: To jump, leap.
+prev_word: loots
+next_word: loper
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

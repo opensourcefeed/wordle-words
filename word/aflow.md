@@ -25,4 +25,15 @@ neighbours:
 - aglow
 - allow
 - ablow
+prev_word: aflap
+next_word: afoam
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

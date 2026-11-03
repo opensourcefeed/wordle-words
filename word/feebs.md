@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Someone who is feeble-minded; an idiot.
+prev_word: fedex
+next_word: feeds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

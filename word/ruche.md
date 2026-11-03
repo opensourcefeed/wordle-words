@@ -39,4 +39,15 @@ definitions:
   - text: To flute or pleat (fabric).
     example: ruched curtains
   - text: To bunch up (fabric); to ruck up.
+prev_word: rubus
+next_word: ruchy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

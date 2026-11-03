@@ -69,4 +69,15 @@ definitions:
   - text: To equip with a shaft.
   - text: To fuck; to have sexual intercourse with.
     example: Turns out my roommate was shafting my girlfriend.
+prev_word: shady
+next_word: shags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

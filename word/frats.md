@@ -48,4 +48,15 @@ definitions:
   - text: Shortened form for fraternity, college organization. (Often used as a noun
       modifier.)
     example: '"All the frats will be there."'
+prev_word: frati
+next_word: fraud
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

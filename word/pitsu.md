@@ -25,4 +25,13 @@ neighbours:
 - pittu
 anagrams:
 - situp
+prev_word: pitso
+next_word: pitta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

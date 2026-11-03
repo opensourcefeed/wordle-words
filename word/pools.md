@@ -95,4 +95,15 @@ definitions:
   defs:
   - text: A pool of water used for swimming, usually one which has been artificially
       constructed.
+prev_word: pooks
+next_word: pooly
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

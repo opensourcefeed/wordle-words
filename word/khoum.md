@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of the Mauritanian ouguiya. 5 khoums equal one ouguiya.
+prev_word: khors
+next_word: khuds
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make the characteristic cry of a sheep.
+prev_word: azyms
+next_word: baals
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

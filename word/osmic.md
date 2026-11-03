@@ -32,4 +32,15 @@ definitions:
   - text: Pertaining to, derived from, or containing, osmium; specifically, designating
       those compounds in which it has a higher valence.
     example: osmic oxide
+prev_word: oslin
+next_word: osmol
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

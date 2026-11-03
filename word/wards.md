@@ -58,4 +58,15 @@ definitions:
       -- usually followed by off.
   - text: To be vigilant; to keep guard.
   - text: To act on the defensive with a weapon.
+prev_word: warby
+next_word: wared
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

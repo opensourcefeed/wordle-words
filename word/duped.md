@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To duplicate.
     example: Can you dupe this photo for me?
+prev_word: duomo
+next_word: duper
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

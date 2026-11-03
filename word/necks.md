@@ -71,4 +71,15 @@ definitions:
       them.
   - text: To drink rapidly.
   - text: To decrease in diameter.
+prev_word: neche
+next_word: neddy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

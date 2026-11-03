@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: Of high birth or social position; aristocratic or patrician.
   - text: Representing the choicest or most select of a group.
+prev_word: elint
+next_word: elmen
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

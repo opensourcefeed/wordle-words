@@ -53,4 +53,15 @@ definitions:
   - text: That which consists of, or pertains to, three things or numbers together.
   - text: A lottery prize resulting from the favourable combination of three numbers
       in the draw.
+prev_word: terne
+next_word: terra
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

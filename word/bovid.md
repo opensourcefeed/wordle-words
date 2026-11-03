@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: An animal of the family Bovidae (such as the antelope, gazelle, goat, and
       sheep).
+prev_word: boutu
+next_word: bowat
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

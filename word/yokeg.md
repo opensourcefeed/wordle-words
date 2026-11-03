@@ -25,4 +25,13 @@ neighbours:
 - yokel
 - yoker
 - yokes
+prev_word: yoked
+next_word: yokel
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

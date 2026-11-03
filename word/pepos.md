@@ -41,4 +41,15 @@ definitions:
   - text: A fruit of plants of the gourd family Cucurbitaceae, possessing a hard rind
       and producing many seeds in a single, central, pulpy chamber.
   - text: A plant producing such a fruit.
+prev_word: pepon
+next_word: peppy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
 neighbours:
 - birse
 - bitsy
+prev_word: birse
+next_word: birth
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

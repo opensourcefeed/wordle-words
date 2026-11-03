@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - gases
 - sages
+prev_word: segar
+next_word: segni
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

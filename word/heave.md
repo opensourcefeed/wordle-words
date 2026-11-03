@@ -77,4 +77,15 @@ definitions:
   - text: To make an effort to raise, throw, or move anything; to strain to do something
       difficult.
   - text: To rob; to steal from; to plunder.
+prev_word: heaty
+next_word: heavy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

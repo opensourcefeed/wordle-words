@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: MIN_S
   count: 9
+prev_word: minor
+next_word: minse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

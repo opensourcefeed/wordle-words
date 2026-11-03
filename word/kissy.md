@@ -44,4 +44,15 @@ definitions:
     example: We sat behind an obnoxiously kissy couple in the cinema.
   - text: Suited to kissing; resembling or relating to kissing.
     example: kissy lips
+prev_word: kisan
+next_word: kists
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -30,4 +30,15 @@ anagrams:
 - loons
 - nolos
 - snool
+prev_word: solid
+next_word: solos
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

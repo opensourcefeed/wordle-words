@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A member of a heya ("stable"); trained by its shisho
   - text: Disciple, mentee, follower
+prev_word: desex
+next_word: desis
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

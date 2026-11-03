@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(obsolete outside dialectal) To croak, make a hoarse noise."
+prev_word: crost
+next_word: crout
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

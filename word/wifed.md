@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: WI_ED
   count: 8
+prev_word: wiels
+next_word: wifes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

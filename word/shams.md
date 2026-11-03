@@ -48,4 +48,15 @@ definitions:
     example: A con-man must be skilled in the arts of sham and deceit.
   - text: A false front, or removable ornamental covering.
   - text: A decorative cover for a pillow.
+prev_word: shame
+next_word: shand
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

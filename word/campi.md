@@ -26,4 +26,15 @@ neighbours:
 - campy
 - carpi
 - sampi
+prev_word: camos
+next_word: campo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

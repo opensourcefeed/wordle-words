@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: An East Indian species of wild cattle (Bos gaurus), of large size and an
       untamable disposition.
+prev_word: gaups
+next_word: gauss
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

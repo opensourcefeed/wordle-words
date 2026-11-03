@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: SHA_S
   count: 8
+prev_word: shank
+next_word: shape
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

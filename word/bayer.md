@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AYER
   count: 7
+prev_word: bayed
+next_word: bayes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

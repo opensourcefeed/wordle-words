@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To dress.
   - text: To act as a guiser; to go dressed up in a parade etc.
+prev_word: guiro
+next_word: gulab
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

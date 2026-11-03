@@ -50,4 +50,15 @@ definitions:
   - text: Vigour, vitality and liveliness
   - text: Rapture, enthusiasm
   - text: Spirit, energy
+prev_word: vertu
+next_word: vespa
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

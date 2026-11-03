@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 87
 neighbours:
 - aflaj
+prev_word: aflaj
+next_word: aflow
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

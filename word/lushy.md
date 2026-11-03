@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _USHY
   count: 9
+prev_word: luser
+next_word: lusks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

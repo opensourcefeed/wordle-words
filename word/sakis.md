@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Any of several species of South American monkeys of the genus Pithecia.
       with large ears and a long hairy tail that is not prehensile.
+prev_word: sakia
+next_word: sakti
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

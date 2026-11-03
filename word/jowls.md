@@ -47,4 +47,15 @@ definitions:
       a dewlap, wattle, crop, or double chin).
   - text: The cheek; especially the cheek meat of a hog.
   - text: Cut of fish including the head and adjacent parts
+prev_word: jowed
+next_word: jowly
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -28,4 +28,15 @@ neighbours:
 - litre
 - mitie
 - yitie
+prev_word: liths
+next_word: litre
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

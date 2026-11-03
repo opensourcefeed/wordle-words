@@ -26,4 +26,15 @@ neighbours:
 - repps
 - ripes
 - risps
+prev_word: ripes
+next_word: riqqs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

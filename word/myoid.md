@@ -24,4 +24,15 @@ neighbours:
 - hyoid
 - mysid
 - pyoid
+prev_word: mynas
+next_word: myoma
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: HO_KS
   count: 7
+prev_word: hoied
+next_word: hoing
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

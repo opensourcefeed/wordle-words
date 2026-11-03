@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _REES
   count: 7
+prev_word: green
+next_word: greet
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - keyer
 - rekey
+prev_word: reeks
+next_word: reels
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

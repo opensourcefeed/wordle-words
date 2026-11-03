@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who has myopia.
+prev_word: myons
+next_word: myops
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

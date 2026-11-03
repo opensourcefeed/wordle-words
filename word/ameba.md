@@ -33,4 +33,15 @@ definitions:
   - text: The graph of the real part of the logarithms of a polynomial equation in
       complex numbers.
   - text: An asexual.
+prev_word: ambry
+next_word: ameer
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

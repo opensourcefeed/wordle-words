@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A proclamation of law or other authoritative command.
+prev_word: edges
+next_word: edify
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ed/"
+  label: Starting with ED
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

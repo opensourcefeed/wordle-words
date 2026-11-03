@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ITED
   count: 6
+prev_word: litas
+next_word: litem
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

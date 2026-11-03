@@ -26,4 +26,15 @@ definitions:
   defs:
   - text: Bright; lustrous; shining.
   - text: "(of a person) Festively or smartly dressed; spruce; fine."
+prev_word: nites
+next_word: niton
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

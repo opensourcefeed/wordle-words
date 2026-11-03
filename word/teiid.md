@@ -25,4 +25,15 @@ stats:
 neighbours:
 - tepid
 - teind
+prev_word: tehrs
+next_word: teils
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

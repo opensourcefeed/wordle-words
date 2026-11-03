@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To generate intermediate frames in an animated sequence so as to give the
       appearance of smooth movement.
+prev_word: tweel
+next_word: tweep
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

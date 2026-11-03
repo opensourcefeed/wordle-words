@@ -39,4 +39,15 @@ definitions:
   - text: Having a knee or knees, or, in combination, the stated type of knee or knees.
     example: a kneed biped, a knobbly-kneed boy
   - text: Having angular joints like the knee.
+prev_word: knead
+next_word: kneel
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

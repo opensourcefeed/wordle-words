@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A communist.
+prev_word: comme
+next_word: comms
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

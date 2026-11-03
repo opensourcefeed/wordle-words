@@ -50,4 +50,15 @@ definitions:
   - text: To humbly beg a person for aid or their time.
   - text: To ask earnestly for; to seek to obtain by supplication; to entreat for.
   - text: To implore, to entreat, to request.
+prev_word: prawn
+next_word: preak
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

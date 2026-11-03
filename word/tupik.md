@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A tent or other building made from animal skins, used by the Inuit during
       the summer.
+prev_word: tupek
+next_word: tuple
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

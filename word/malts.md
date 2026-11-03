@@ -47,4 +47,15 @@ definitions:
   - text: Malt liquor, especially malt whisky.
   - text: A milkshake with malted milk powder added for flavor.
   - text: Maltose-rich sugar derived from malted grain.
+prev_word: malmy
+next_word: malty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

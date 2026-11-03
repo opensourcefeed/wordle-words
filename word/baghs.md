@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of enclosed garden common in south and south-eastern Asia.
+prev_word: baggy
+next_word: bagie
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A worker who runs errands; an errand boy.
+prev_word: goety
+next_word: goffs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

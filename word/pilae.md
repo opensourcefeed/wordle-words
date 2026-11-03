@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: PILA_
   count: 6
+prev_word: pikul
+next_word: pilaf
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

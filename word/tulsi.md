@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Holy basil, Ocimum tenuiflorum.
+prev_word: tulps
+next_word: tumid
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

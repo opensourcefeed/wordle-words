@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 98
 neighbours:
 - verve
+prev_word: vetch
+next_word: veves
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

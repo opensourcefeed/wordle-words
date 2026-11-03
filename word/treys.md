@@ -53,4 +53,15 @@ definitions:
   - text: The third bearer of the same personal name in a family, often denoted by
       suffixed Roman numeral III.
   - text: The third branch of a deer's antler.
+prev_word: treyf
+next_word: triac
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

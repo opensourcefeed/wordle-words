@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _IMPS
   count: 8
+prev_word: nimby
+next_word: niner
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

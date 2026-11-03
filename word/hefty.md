@@ -43,4 +43,15 @@ definitions:
     example: She carries a hefty backpack full of books.
   - text: "(of a number or amount) Large."
     example: That's going to cost you a hefty sum.
+prev_word: hefts
+next_word: heiau
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

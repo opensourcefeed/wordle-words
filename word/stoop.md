@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: The staircase and landing or porch leading to the entrance of a residence.
   - text: The threshold of a doorway, a doorstep.
+prev_word: stool
+next_word: stoor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -44,4 +44,15 @@ definitions:
     example: He paid his rent ahead.
   - text: Having progressed more.
     example: In all of his classes Jack was ahead.
+prev_word: aguti
+next_word: aheap
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

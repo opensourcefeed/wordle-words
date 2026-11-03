@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Any of three genera of large Asian ungulates belonging to the subfamily
       Caprinae (goat-antelopes).
+prev_word: tahas
+next_word: taiga
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

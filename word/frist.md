@@ -35,4 +35,15 @@ anagrams:
 - first
 - frits
 - rifts
+prev_word: frisk
+next_word: frita
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

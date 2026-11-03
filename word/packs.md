@@ -84,4 +84,15 @@ definitions:
       with reference to their technique in the scrum."
   - text: "(of a drag king, transman, etc.) To wear a prosthetic penis inside one’s
       trousers for better verisimilitude."
+prev_word: pacha
+next_word: packy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

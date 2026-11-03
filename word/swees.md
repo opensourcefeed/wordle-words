@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: SWEE_
   count: 6
+prev_word: sweer
+next_word: sweet
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

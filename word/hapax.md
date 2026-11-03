@@ -23,4 +23,15 @@ stats:
 neighbours:
 - capax
 - hapas
+prev_word: hapas
+next_word: haply
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

@@ -48,4 +48,15 @@ definitions:
     example: The dog homed.
   - text: (always with "in on") To seek or aim for something.
     example: The missile was able to home in on the target.
+prev_word: homas
+next_word: homer
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

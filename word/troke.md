@@ -35,4 +35,15 @@ neighbours:
 - wroke
 anagrams:
 - toker
+prev_word: trois
+next_word: troll
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

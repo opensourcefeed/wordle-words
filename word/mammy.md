@@ -43,4 +43,15 @@ definitions:
   - text: "(historical, often pejorative) In the southern United States, a black nanny
       employed to look after white children; or in the antebellum South, a female
       slave who was close to the household and looked after the children."
+prev_word: mamma
+next_word: manas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

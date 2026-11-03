@@ -26,4 +26,15 @@ neighbours:
 - untag
 anagrams:
 - bugan
+prev_word: unaus
+next_word: unban
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

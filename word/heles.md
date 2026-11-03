@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ELES
   count: 7
+prev_word: heled
+next_word: helio
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

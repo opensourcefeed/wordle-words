@@ -34,4 +34,15 @@ definitions:
   - text: "(usually with up) To excite."
   - text: "(usually with up) To intensify or increase."
     example: 2014, Andy Paul, Amp Up Your Sales, AMACOM Books
+prev_word: amowt
+next_word: ample
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

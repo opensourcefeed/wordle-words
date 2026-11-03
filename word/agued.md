@@ -25,4 +25,15 @@ stats:
 neighbours:
 - agues
 - aguey
+prev_word: agrum
+next_word: agues
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

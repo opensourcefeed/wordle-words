@@ -61,4 +61,15 @@ definitions:
   - text: To prevent the movement or liquidation of a person's financial assets
     example: The court froze the criminal's bank account.
   - text: Of prices, spending etc., to keep at the same level, without any increase.
+prev_word: froyo
+next_word: frugs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - outer
 - oaten
 - outed
+prev_word: outed
+next_word: outer
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

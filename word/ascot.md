@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: Ascot tie
+prev_word: ascon
+next_word: ascus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

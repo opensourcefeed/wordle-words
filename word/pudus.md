@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A very small South American deer of the genus Pudu, native to the Andes.
+prev_word: pudsy
+next_word: puers
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

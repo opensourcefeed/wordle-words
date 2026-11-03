@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Lucky; fortunate; thriving; plump
+prev_word: sonse
+next_word: sooey
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

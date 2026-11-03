@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: An Indian dessert made from sweetened, condensed milk flavoured with fruit
       and spices.
+prev_word: bares
+next_word: barfs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

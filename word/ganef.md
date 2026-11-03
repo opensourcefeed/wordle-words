@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A thief; a rascal or scoundrel.
+prev_word: gandy
+next_word: ganev
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

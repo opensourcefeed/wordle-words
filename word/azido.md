@@ -28,4 +28,15 @@ neighbours:
 - azide
 anagrams:
 - diazo
+prev_word: azide
+next_word: azine
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

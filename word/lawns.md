@@ -51,4 +51,15 @@ definitions:
   - text: "(in the plural) Pieces of this fabric, especially as used for the sleeves
       of a bishop."
   - text: A piece of clothing made from lawn.
+prev_word: lawks
+next_word: lawny
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

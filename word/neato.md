@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - atone
 - oaten
+prev_word: neath
+next_word: neats
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

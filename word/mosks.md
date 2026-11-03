@@ -29,4 +29,15 @@ neighbours:
 - moses
 - mosts
 - musks
+prev_word: mosey
+next_word: mosso
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

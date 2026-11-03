@@ -50,4 +50,15 @@ definitions:
     example: David couldn′t drive his car as he hadn′t paid his rego.
   - text: The registration number of a motor vehicle, used by police to access registration
       details such as the identity of the owner.
+prev_word: regna
+next_word: regot
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

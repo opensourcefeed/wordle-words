@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A small decorative box, hung from the sash of a kimono, for holding small
       objects
+prev_word: input
+next_word: inrun
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

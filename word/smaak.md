@@ -24,4 +24,15 @@ neighbours:
 - smaik
 anagrams:
 - kamas
+prev_word: slype
+next_word: smack
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

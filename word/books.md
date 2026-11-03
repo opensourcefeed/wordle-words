@@ -91,4 +91,15 @@ definitions:
       intellectual property class.
   - text: To leave.
     example: He was here earlier, but he booked.
+prev_word: boohs
+next_word: booky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

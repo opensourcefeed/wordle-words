@@ -46,4 +46,15 @@ definitions:
   - text: "(abbreviation) promenade"
   - text: A formal ball held at a high school or college on special occasions, e.g.
       near the end of the academic year
+prev_word: promo
+next_word: prone
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

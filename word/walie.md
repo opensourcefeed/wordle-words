@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 9
 neighbours:
 - walis
+prev_word: wales
+next_word: walis
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

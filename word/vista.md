@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a vista or landscape of.
+prev_word: visor
+next_word: visto
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

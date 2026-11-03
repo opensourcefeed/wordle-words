@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _OARS
   count: 6
+prev_word: vlogs
+next_word: vobla
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

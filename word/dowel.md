@@ -51,4 +51,15 @@ definitions:
   - text: To fasten together with dowels.
   - text: To furnish with dowels.
     example: A cooper dowels pieces for the head of a cask.
+prev_word: dowed
+next_word: dower
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

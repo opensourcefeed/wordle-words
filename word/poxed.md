@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: PO_ED
   count: 8
+prev_word: powsy
+next_word: poxes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

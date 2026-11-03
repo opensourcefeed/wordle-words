@@ -59,4 +59,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Encoded; written in code or cipher.
+prev_word: codec
+next_word: coden
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

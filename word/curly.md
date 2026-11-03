@@ -49,4 +49,15 @@ definitions:
   - text: Having curls.
   - text: Curling in a direction, as opposed to straight (quotation marks or apostrophes)
   - text: Complicated and difficult; knotty.
+prev_word: curls
+next_word: curns
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

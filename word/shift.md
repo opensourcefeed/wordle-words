@@ -92,4 +92,15 @@ definitions:
   - text: To practice indirect or evasive methods.
   - text: In violin-playing, to move the left hand from its original position next
       to the nut.
+prev_word: shies
+next_word: shill
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

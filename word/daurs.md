@@ -32,4 +32,15 @@ anagrams:
 - duars
 - duras
 - rudas
+prev_word: daunt
+next_word: dauts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

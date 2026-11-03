@@ -24,4 +24,15 @@ neighbours:
 - hamza
 - mamba
 - samba
+prev_word: hamal
+next_word: hamed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

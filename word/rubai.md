@@ -27,4 +27,15 @@ neighbours:
 - rubli
 anagrams:
 - urbia
+prev_word: ruana
+next_word: ruban
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

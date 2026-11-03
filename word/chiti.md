@@ -23,4 +23,15 @@ stats:
 neighbours:
 - chili
 - chits
+prev_word: chiru
+next_word: chits
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

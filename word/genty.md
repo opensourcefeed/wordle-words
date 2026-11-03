@@ -24,4 +24,15 @@ neighbours:
 - genny
 - gents
 - tenty
+prev_word: gents
+next_word: genua
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

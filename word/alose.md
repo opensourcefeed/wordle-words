@@ -30,4 +30,15 @@ neighbours:
 - alowe
 anagrams:
 - aloes
+prev_word: aloos
+next_word: aloud
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: The settlings of oil, molasses, etc., at the bottom of a barrel or hogshead.
   - text: Plural of foot
+prev_word: fools
+next_word: footy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

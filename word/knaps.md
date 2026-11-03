@@ -39,4 +39,15 @@ definitions:
   - text: To rap or strike sharply.
   - text: To bite; to bite off; to break short.
   - text: To make a sound of snapping.
+prev_word: knags
+next_word: knarl
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: A sheaf of corn.
   - text: A charge for pasturage.
+prev_word: gaita
+next_word: gaitt
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

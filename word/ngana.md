@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 96
 neighbours:
 - ngaka
+prev_word: ngaka
+next_word: ngapi
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

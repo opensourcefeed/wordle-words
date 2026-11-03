@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A police officer.
   - text: A railway signaller.
+prev_word: bobas
+next_word: bobol
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

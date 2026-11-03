@@ -26,4 +26,13 @@ neighbours:
 - flexi
 anagrams:
 - pixel
+prev_word: plews
+next_word: plica
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

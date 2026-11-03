@@ -40,4 +40,15 @@ definitions:
   - text: "(of a horse) To make its cry."
   - text: To make a sound similar to a horse's cry.
   - text: To scoff or sneer.
+prev_word: neifs
+next_word: neist
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

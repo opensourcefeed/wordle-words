@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: POO_Y
   count: 8
+prev_word: poove
+next_word: popes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

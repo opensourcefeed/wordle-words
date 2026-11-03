@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The hooked goad that is used in India to control elephants.
+prev_word: ankle
+next_word: anlas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

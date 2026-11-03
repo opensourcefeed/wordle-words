@@ -41,4 +41,15 @@ definitions:
   - text: Venereal disease, or (by extension) any disease.
   - text: A fast-paced game, loosely based on billiards or pool, with many players
       participating at the same time.
+prev_word: crudo
+next_word: crudy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

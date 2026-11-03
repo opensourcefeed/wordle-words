@@ -32,4 +32,15 @@ anagrams:
 - argal
 - graal
 - lagar
+prev_word: larfs
+next_word: large
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

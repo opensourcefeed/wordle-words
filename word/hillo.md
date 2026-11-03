@@ -30,4 +30,15 @@ neighbours:
 - hills
 - hollo
 - hullo
+prev_word: hilch
+next_word: hills
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

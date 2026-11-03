@@ -43,4 +43,15 @@ definitions:
   - text: "(Of the weather, air, etc) humid, or hot and humid."
   - text: Wet or mouldy
     example: muggy straw
+prev_word: muggs
+next_word: mugho
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -45,4 +45,15 @@ definitions:
   - text: To whinge, moan, complain.
   - text: To make elaborate unnatural and distorted faces as a form of amusement or
       in a girning competition.
+prev_word: girly
+next_word: giron
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

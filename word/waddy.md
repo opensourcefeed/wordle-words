@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cowboy.
+prev_word: wadds
+next_word: waded
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

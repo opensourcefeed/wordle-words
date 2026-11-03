@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: One of an order of priests among certain groups of Celts before the adoption
       of Abrahamic religions.
+prev_word: drugs
+next_word: drums
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

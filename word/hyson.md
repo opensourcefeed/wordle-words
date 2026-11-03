@@ -23,4 +23,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Chinese green tea.
+prev_word: hyrax
+next_word: hythe
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

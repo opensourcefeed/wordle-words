@@ -26,4 +26,15 @@ neighbours:
 - crawl
 - drawl
 - trawl
+prev_word: wrath
+next_word: wreak
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

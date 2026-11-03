@@ -53,4 +53,15 @@ definitions:
   - text: A circular lowland between a resurgent dome and the walls of the caldera
       surrounding it.
   - text: A hill or mound.
+prev_word: moars
+next_word: mobby
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

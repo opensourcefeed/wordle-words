@@ -24,4 +24,15 @@ neighbours:
 - jocks
 - jocky
 - socko
+prev_word: jobes
+next_word: jocks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

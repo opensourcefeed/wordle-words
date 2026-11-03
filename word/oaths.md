@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pledge.
+prev_word: oater
+next_word: oaves
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

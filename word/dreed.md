@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: "(North England and Scotland) To suffer; bear; endure; put up with; undergo."
   - text: "(North England and Scotland) To endure; brook; be able to do or continue."
+prev_word: dreck
+next_word: dreer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

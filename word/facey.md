@@ -29,4 +29,15 @@ neighbours:
 - fakey
 - lacey
 - pacey
+prev_word: facet
+next_word: facia
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

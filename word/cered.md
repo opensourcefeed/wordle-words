@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - creed
 - ceder
+prev_word: cerci
+next_word: ceres
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

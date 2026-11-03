@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: TO_TS
   count: 7
+prev_word: toise
+next_word: toity
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Hindu religious festival; loosely, a South Asian fair.
+prev_word: melam
+next_word: melba
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

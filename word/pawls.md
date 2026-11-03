@@ -41,4 +41,15 @@ definitions:
       allow movement in only one direction (e.g. on a windlass or in a clock mechanism),
       or alternatively to move the wheel in one direction.
   - text: A similar device to prevent motion in other mechanisms besides ratchets.
+prev_word: pawky
+next_word: pawns
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

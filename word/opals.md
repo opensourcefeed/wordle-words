@@ -39,4 +39,15 @@ definitions:
   - text: A colloquial name used in molecular biology referring to a particular stop
       codon sequence, "UGA."
   - text: Any of various lycaenid butterflies of the genus Nesolycaena.
+prev_word: opahs
+next_word: opens
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

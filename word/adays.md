@@ -27,4 +27,15 @@ neighbours:
 - apays
 - aways
 - bdays
+prev_word: adaws
+next_word: adbot
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

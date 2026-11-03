@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 46
 anagrams:
 - zonal
+prev_word: azine
+next_word: azoic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

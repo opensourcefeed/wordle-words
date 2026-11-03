@@ -46,4 +46,15 @@ definitions:
   - text: To deceive or outmaneuver someone using a feint, especially in American
       football or soccer
   - text: To bend the neck; to bow or duck the head.
+prev_word: jujus
+next_word: jukes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

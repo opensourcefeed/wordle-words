@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: An Ancient Greek statue of a woman, portrayed standing, usually clothed,
       painted in bright colours and having an elaborate hairstyle.
+prev_word: koppa
+next_word: koran
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

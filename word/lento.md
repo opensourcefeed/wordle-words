@@ -40,4 +40,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Very slowly.
+prev_word: lenti
+next_word: leone
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

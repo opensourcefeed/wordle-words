@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - flyer
 - ferly
+prev_word: refix
+next_word: refry
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

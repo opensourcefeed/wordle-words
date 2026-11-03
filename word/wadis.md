@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A valley, gully, or stream bed in northern Africa and southwest Asia that
       remains dry except during the rainy season.
+prev_word: wadge
+next_word: wadts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

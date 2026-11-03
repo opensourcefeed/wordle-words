@@ -63,4 +63,15 @@ definitions:
   - text: To be converted to charcoal.
   - text: To burn to charcoal; to char.
   - text: To mark or delineate with charcoal.
+prev_word: coala
+next_word: coaly
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

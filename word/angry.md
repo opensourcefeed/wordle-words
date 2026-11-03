@@ -37,4 +37,15 @@ definitions:
     example: The broken glass left two angry cuts across my arm.
   - text: "(said about the elements, like the sky or the sea) Dark and stormy, menacing."
     example: Angry clouds raced across the sky.
+prev_word: anglo
+next_word: angst
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

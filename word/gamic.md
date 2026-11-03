@@ -24,4 +24,15 @@ neighbours:
 - gamin
 anagrams:
 - magic
+prev_word: gamey
+next_word: gamin
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

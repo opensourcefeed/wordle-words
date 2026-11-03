@@ -67,4 +67,15 @@ definitions:
   - text: To make a vertical cut in the coal.
   - text: To reap, as grain.
   - text: To deprive of property; to fleece.
+prev_word: sheal
+next_word: sheas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To distribute in small amounts; to share out small portions of a meager
       resource.
+prev_word: dolci
+next_word: dolee
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

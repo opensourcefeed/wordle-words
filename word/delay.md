@@ -49,4 +49,15 @@ definitions:
   - text: To retard; to stop, detain, or hinder, for a time.
     example: The mail is delayed by a heavy fall of snow.
   - text: To allay; to temper.
+prev_word: dekko
+next_word: deled
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

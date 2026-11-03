@@ -81,4 +81,15 @@ definitions:
   - text: Full of earnestness; active; wide awake; glowing.
     example: a live man, or orator
   - text: Vivid; bright.
+prev_word: alist
+next_word: aliya
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

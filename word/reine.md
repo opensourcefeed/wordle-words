@@ -33,4 +33,15 @@ neighbours:
 - reune
 - rhine
 - seine
+prev_word: reiks
+next_word: reing
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: "(chiefly Philadelphia) Something; any object, place or thing."
   - text: "(chiefly Philadelphia) A woman."
     example: Yo, you see that jawn, she bad as hell.
+prev_word: jawed
+next_word: jaxie
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

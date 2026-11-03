@@ -28,4 +28,15 @@ anagrams:
 - opens
 - peons
 - pones
+prev_word: snoek
+next_word: snogs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

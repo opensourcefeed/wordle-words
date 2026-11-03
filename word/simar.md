@@ -31,4 +31,15 @@ anagrams:
 - amirs
 - mairs
 - ramis
+prev_word: silva
+next_word: simas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

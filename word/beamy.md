@@ -42,4 +42,15 @@ definitions:
   - text: Having much beam or breadth; wide.
   - text: Showing or emitting rays of light; beaming; radiant; shining.
   - text: Radiant; beamsome; joyous; gladsome.
+prev_word: beams
+next_word: beano
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

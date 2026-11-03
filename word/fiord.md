@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A long, narrow, deep inlet between cliffs.
+prev_word: finos
+next_word: fiqhs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

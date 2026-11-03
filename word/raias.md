@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: RA_AS
   count: 7
+prev_word: raiah
+next_word: raids
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
   - text: "(usually countable) A tall, tropical Asian perennial herb, Boehmeria nivea,
       cultivated for its fibrous stems."
   - text: "(usually uncountable) fibre extracted from this plant, resembling flax."
+prev_word: ramet
+next_word: ramin
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The stench or high flavour of game or other meat when kept long.
+prev_word: fumes
+next_word: funda
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

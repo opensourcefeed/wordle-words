@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dash.
+prev_word: dandy
+next_word: danio
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

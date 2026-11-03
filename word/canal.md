@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To dig an artificial waterway in or to (a place), especially for drainage
   - text: To travel along a canal by boat
+prev_word: camus
+next_word: cando
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: In a state of shock or confusion.
   - text: Stunned.
+prev_word: daynt
+next_word: dazer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

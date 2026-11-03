@@ -23,4 +23,15 @@ stats:
 anagrams:
 - suint
 - units
+prev_word: inurn
+next_word: invar
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

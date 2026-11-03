@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OOPS
   count: 11
+prev_word: yoofs
+next_word: yopos
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

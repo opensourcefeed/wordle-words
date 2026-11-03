@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A squeal of excitement or delight.
     example: 2001, "Susan", I got a hamster! Squee! (on Internet newsgroup alt.fan.digimon)
+prev_word: squat
+next_word: squeg
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

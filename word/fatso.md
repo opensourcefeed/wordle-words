@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Someone who is overweight.
+prev_word: fatly
+next_word: fatty
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

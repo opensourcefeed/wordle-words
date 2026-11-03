@@ -24,4 +24,15 @@ neighbours:
 - fnarr
 - gnarl
 - gnars
+prev_word: gnarl
+next_word: gnars
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

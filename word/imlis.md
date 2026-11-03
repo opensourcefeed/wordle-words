@@ -24,4 +24,15 @@ stats:
 neighbours:
 - idlis
 - impis
+prev_word: imino
+next_word: immew
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

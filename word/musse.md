@@ -28,4 +28,15 @@ neighbours:
 - russe
 anagrams:
 - muses
+prev_word: musos
+next_word: mussy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: TWEE_
   count: 6
+prev_word: tweed
+next_word: tween
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

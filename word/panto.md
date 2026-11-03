@@ -62,4 +62,15 @@ definitions:
       dell'arte, but later aimed mostly at children and involving physical comedy,
       topical jokes, call and response, and fairy-tale plots.
   - text: Gesturing without speaking; dumb-show, mime.
+prev_word: pansy
+next_word: pants
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

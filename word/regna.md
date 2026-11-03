@@ -28,4 +28,15 @@ anagrams:
 - anger
 - range
 - renga
+prev_word: regma
+next_word: regos
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

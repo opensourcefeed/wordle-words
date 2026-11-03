@@ -64,4 +64,15 @@ definitions:
     example: All the fans were willing their team to win the game.
   - text: To bequeath (something) to someone in one's will (legal document).
     example: He willed his stamp collection to the local museum.
+prev_word: wilja
+next_word: willy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IPES
   count: 8
+prev_word: hiper
+next_word: hiply
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

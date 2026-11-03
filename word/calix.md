@@ -35,4 +35,15 @@ definitions:
   - text: The outermost whorl of flower parts, comprising the sepals, which covers
       and protects the petals as they develop.
   - text: Any of various cup-like structures.
+prev_word: calif
+next_word: calks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

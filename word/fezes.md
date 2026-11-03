@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _EZES
   count: 7
+prev_word: feyly
+next_word: fezzy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

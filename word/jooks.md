@@ -54,4 +54,15 @@ definitions:
   - text: To deceive or outmaneuver someone using a feint, especially in American
       football or soccer
   - text: To bend the neck; to bow or duck the head.
+prev_word: jonty
+next_word: joram
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

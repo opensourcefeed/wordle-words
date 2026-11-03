@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A caravanserai; a resting-place for a travelling caravan.
+prev_word: khana
+next_word: khaph
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

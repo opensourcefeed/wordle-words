@@ -51,4 +51,15 @@ definitions:
   - text: "(earth science) to cut, scrape, erode, or otherwise make into a scarp or
       escarpment"
     example: to scarp the face of a ditch or a rock
+prev_word: scarf
+next_word: scars
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/rp/"
+  label: Ending in RP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -57,4 +57,15 @@ definitions:
   - text: To be in want.
   - text: To see the deficiency in (someone or something); to find fault with, to
       malign, reproach.
+prev_word: lacka
+next_word: lacky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

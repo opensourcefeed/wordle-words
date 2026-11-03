@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A Samoan chief.
   - text: A coniferous tree, Prumnopitys taxifolia, endemic to New Zealand.
+prev_word: masut
+next_word: match
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

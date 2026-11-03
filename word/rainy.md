@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Pouring with rain; wet; showery
     example: Due to the rainy weather, we decided not to play in the park.
+prev_word: rains
+next_word: raird
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

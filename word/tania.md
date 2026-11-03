@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: New cocoyam, yautia (Xanthosoma sagittifolium).
   - text: Taro.
+prev_word: tanhs
+next_word: tanka
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: Caused by trees or shrubs.
   - text: Bushy, bristling.
   - text: Drunk; inebriated
+prev_word: bosks
+next_word: bosom
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

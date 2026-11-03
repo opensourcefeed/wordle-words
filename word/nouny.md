@@ -23,4 +23,15 @@ stats:
 neighbours:
 - nonny
 - nouns
+prev_word: nouns
+next_word: noups
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

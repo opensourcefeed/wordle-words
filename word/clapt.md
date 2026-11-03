@@ -29,4 +29,15 @@ neighbours:
 - clept
 - clipt
 - coapt
+prev_word: claps
+next_word: claro
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

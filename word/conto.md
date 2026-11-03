@@ -28,4 +28,15 @@ neighbours:
 - conte
 - convo
 - ponto
+prev_word: conte
+next_word: conus
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To impede or bar by estoppel.
   - text: To stop up, to plug
+prev_word: estoc
+next_word: estro
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

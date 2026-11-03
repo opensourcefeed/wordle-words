@@ -84,4 +84,15 @@ definitions:
   - text: To create a musical recording (a track).
     example: Lil Kyle is gonna track with that DJ next week.
   - text: To make sense; to be consistent with known information
+prev_word: trace
+next_word: tract
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -29,4 +29,15 @@ neighbours:
 - ricey
 anagrams:
 - yince
+prev_word: nicer
+next_word: niche
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

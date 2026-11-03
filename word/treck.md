@@ -27,4 +27,15 @@ neighbours:
 - wreck
 - dreck
 - trock
+prev_word: treat
+next_word: treed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

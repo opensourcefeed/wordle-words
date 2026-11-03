@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: CHIR_
   count: 8
+prev_word: chirr
+next_word: chiru
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

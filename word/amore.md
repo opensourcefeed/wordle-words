@@ -33,4 +33,15 @@ neighbours:
 - smore
 anagrams:
 - morae
+prev_word: among
+next_word: amort
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: To murder for the same purpose as Burke, to kill in order to have a body
       to sell to anatomists, surgeons, etc.
   - text: To smother; to conceal, hush up, suppress.
+prev_word: burka
+next_word: burks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

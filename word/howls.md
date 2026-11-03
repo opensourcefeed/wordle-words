@@ -53,4 +53,15 @@ definitions:
   - text: To make a noise resembling the cry of a wild beast.
   - text: To utter with outcry.
     example: to howl derision
+prev_word: howks
+next_word: howre
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

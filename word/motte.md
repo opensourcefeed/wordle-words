@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A raised earth mound, often topped with a wooden or stone structure and
       surrounded with a ditch.
+prev_word: motor
+next_word: motto
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

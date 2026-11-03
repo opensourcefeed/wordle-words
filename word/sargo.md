@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - agros
 - goras
+prev_word: sarge
+next_word: sarin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

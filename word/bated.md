@@ -67,4 +67,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Reduced; lowered; restrained
+prev_word: batch
+next_word: bates
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

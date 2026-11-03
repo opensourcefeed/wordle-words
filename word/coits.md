@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: CO_TS
   count: 6
+prev_word: coirs
+next_word: coked
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

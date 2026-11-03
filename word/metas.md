@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: Metoidioplasty.
+prev_word: metal
+next_word: meted
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

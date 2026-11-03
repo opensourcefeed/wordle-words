@@ -41,4 +41,15 @@ definitions:
   - text: To utter words of disapprobation and displeasure; to find fault; to contend
       angrily.
   - text: To make a clamorous noise; to chafe.
+prev_word: chics
+next_word: chief
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

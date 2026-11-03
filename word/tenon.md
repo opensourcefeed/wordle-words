@@ -41,4 +41,15 @@ definitions:
     example: First we'll tenon this part, then we'll make a mortise that will fit
       it on that part.
   - text: To fit with tenons.
+prev_word: tenny
+next_word: tenor
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

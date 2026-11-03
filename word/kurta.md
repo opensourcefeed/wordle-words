@@ -30,4 +30,15 @@ definitions:
   - text: A traditional article of clothing worn in Afghanistan, Bangladesh, India,
       Pakistan, and Sri Lanka, consisting of a loose, collarless, long-sleeved, knee-length
       shirt worn by both men and women.
+prev_word: kurre
+next_word: kurus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

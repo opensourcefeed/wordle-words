@@ -42,4 +42,13 @@ definitions:
   - text: 'Of food: that has no meat or milk in any form as an ingredient.'
     example: My mom made a pareve casserole with soy hot dogs.
   - text: "(by extension) Neutral, bland, inoffensive."
+prev_word: pareu
+next_word: parge
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/v/"
+  label: Ending in V
 ---

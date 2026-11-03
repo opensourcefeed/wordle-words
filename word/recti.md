@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Any of several straight muscles in various parts of the body, as of the
       abdomen, thigh, eye etc.
+prev_word: recte
+next_word: recto
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

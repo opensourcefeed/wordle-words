@@ -26,4 +26,15 @@ neighbours:
 - huias
 - hules
 - quies
+prev_word: huias
+next_word: hukou
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

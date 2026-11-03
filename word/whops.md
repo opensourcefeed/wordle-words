@@ -37,4 +37,15 @@ definitions:
   - text: To throw or move (something) quickly, usually with an impact.
     example: He angrily whopped the book onto the table.
   - text: To administer corporal punishment
+prev_word: whoot
+next_word: whorl
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

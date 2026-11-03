@@ -25,4 +25,15 @@ neighbours:
 - rowie
 anagrams:
 - mower
+prev_word: rowie
+next_word: rownd
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

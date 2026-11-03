@@ -57,4 +57,15 @@ definitions:
       to request a call back.
     example: Susan beeped Jessica, and then Jessica called her back, because Susan
       didn't have enough credit on her phone to make the call.
+prev_word: beefy
+next_word: beers
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

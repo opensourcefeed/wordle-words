@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A group of men assembled for some common purpose; a club, or cabal.
+prev_word: junta
+next_word: jupes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

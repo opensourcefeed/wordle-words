@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Sound, entire, healthy; robust, not impaired.
+prev_word: haled
+next_word: hales
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

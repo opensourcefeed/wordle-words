@@ -24,4 +24,15 @@ stats:
 neighbours:
 - atomy
 - atony
+prev_word: atony
+next_word: atria
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: The souls or spirits of dead ancestors, conceived as deities or the subjects
       of reverence, or of other deceased relatives.
+prev_word: maneh
+next_word: manet
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

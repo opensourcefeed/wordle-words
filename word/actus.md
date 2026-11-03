@@ -27,4 +27,15 @@ neighbours:
 - ictus
 anagrams:
 - scuta
+prev_word: actor
+next_word: acute
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

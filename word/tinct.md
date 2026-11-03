@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 78
 neighbours:
 - cinct
+prev_word: tinas
+next_word: tinds
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

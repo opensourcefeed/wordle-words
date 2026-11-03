@@ -53,4 +53,15 @@ definitions:
   - text: To tell a joke; to talk in a playful manner; to make fun of something or
       someone.
     example: Surely you jest!
+prev_word: jessy
+next_word: jesus
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

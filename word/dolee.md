@@ -30,4 +30,15 @@ neighbours:
 - dolie
 - donee
 - doree
+prev_word: doled
+next_word: doles
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

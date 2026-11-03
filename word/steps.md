@@ -85,4 +85,15 @@ definitions:
   - text: To move mentally; to go in imagination.
   - text: To set, as the foot.
   - text: To fix the foot of (a mast) in its step; to erect.
+prev_word: stent
+next_word: stept
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

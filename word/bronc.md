@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: A bronco.
+prev_word: bromo
+next_word: brond
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -38,4 +38,15 @@ anagrams:
 - nicer
 - crein
 - rince
+prev_word: crims
+next_word: crink
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

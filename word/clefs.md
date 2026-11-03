@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A symbol found on a musical staff that indicates the pitches represented
       by the lines and the spaces on the staff
+prev_word: cleep
+next_word: cleft
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

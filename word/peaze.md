@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _EAZE
   count: 6
+prev_word: peavy
+next_word: pebas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

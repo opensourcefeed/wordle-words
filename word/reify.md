@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To regard something abstract as if it were a concrete material thing
+prev_word: reifs
+next_word: reign
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

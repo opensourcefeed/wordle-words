@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - runts
 - turns
+prev_word: nurse
+next_word: nurtz
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

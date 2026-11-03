@@ -53,4 +53,15 @@ definitions:
   - text: To fire or dismiss an employee.
     example: The boss canned him for speaking out.
   - text: To hole the ball.
+prev_word: canso
+next_word: canti
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

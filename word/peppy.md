@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Full of pep; energetic, cheerful, and vigorous; bouncy
     example: Cedric was not feeling peppy when he woke up two hours before dawn.
+prev_word: pepos
+next_word: pepsi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

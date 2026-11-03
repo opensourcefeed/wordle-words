@@ -41,4 +41,15 @@ definitions:
   - text: Any snake.
   - text: A name loosely applied to various snakes more or less resembling the viper;
       a viper.
+prev_word: added
+next_word: addin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

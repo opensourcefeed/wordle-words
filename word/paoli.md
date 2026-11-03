@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - apiol
 - pilao
+prev_word: panty
+next_word: paolo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

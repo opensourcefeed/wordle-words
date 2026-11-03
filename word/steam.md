@@ -83,4 +83,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Old-fashioned; from before the digital age.
+prev_word: steal
+next_word: stean
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -36,4 +36,15 @@ anagrams:
 - rales
 - reals
 - seral
+prev_word: ladoo
+next_word: laevo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

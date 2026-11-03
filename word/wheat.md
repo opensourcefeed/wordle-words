@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Wheaten, of a light brown colour, like that of wheat.
+prev_word: whear
+next_word: wheek
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

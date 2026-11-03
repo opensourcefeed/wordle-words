@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A coin that is defective, having been incorrectly minted, often prized by
       collectors.
+prev_word: fidge
+next_word: fidus
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

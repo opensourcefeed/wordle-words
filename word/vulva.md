@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: The external female sexual organs, collectively.
+prev_word: vulns
+next_word: vutty
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -25,4 +25,15 @@ anagrams:
 - baits
 - basti
 - tabis
+prev_word: absey
+next_word: abuna
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

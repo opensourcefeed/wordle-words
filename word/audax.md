@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A non-competitive long-distance (often over 200 km) cycling event.
+prev_word: audad
+next_word: audio
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

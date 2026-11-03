@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To hang out/socialize in an informal, relaxed environment, especially with
       friends, for example at a party or on the beach.
+prev_word: limby
+next_word: limen
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

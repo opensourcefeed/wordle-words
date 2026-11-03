@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 19
 neighbours:
 - quina
+prev_word: tuile
+next_word: tuism
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

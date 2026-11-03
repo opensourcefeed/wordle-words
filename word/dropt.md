@@ -24,4 +24,15 @@ neighbours:
 - droit
 - dript
 - drops
+prev_word: drops
+next_word: dross
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

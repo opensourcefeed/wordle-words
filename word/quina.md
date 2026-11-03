@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: QUIN_
   count: 6
+prev_word: quilt
+next_word: quine
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -83,4 +83,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a rough manner; rudely; roughly.
+prev_word: rouge
+next_word: rougy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

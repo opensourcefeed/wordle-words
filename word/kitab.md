@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 55
 anagrams:
 - batik
+prev_word: kists
+next_word: kited
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ab/"
+  label: Ending in AB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

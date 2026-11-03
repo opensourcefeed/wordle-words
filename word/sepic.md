@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - spice
 - epics
+prev_word: sepia
+next_word: sepoy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

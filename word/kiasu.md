@@ -32,4 +32,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Afraid to lose out, particularly because one is overly competitive.
+prev_word: kiang
+next_word: kibbe
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

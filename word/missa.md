@@ -28,4 +28,15 @@ anagrams:
 - amiss
 - saims
 - simas
+prev_word: misos
+next_word: missy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

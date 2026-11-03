@@ -23,4 +23,15 @@ stats:
 neighbours:
 - muirs
 - murry
+prev_word: muirs
+next_word: muist
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

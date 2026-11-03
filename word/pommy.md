@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: English; British.
+prev_word: pomme
+next_word: pomos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

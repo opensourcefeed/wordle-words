@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A large, semi-aquatic, herbivorous (plant-eating) African mammal (Hippopotamus
       amphibius)
+prev_word: hiply
+next_word: hippy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

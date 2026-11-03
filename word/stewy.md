@@ -24,4 +24,15 @@ neighbours:
 - stews
 anagrams:
 - wytes
+prev_word: stews
+next_word: steys
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

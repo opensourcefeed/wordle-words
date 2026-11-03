@@ -53,4 +53,15 @@ definitions:
     example: a door flies open;  a bomb flies apart
   - text: To display (a flag) on a flagpole.
   - text: To hunt with a hawk.
+prev_word: flout
+next_word: flows
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

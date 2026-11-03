@@ -29,4 +29,13 @@ definitions:
 - pos: noun
   defs:
   - text: A subdivision of currency, equal to one hundredth of an Icelandic króna
+prev_word: eyrie
+next_word: ezine
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

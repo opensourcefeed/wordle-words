@@ -25,4 +25,15 @@ neighbours:
 - theed
 - thees
 - wheek
+prev_word: theed
+next_word: thees
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

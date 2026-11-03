@@ -29,4 +29,15 @@ neighbours:
 - pukus
 anagrams:
 - sukuk
+prev_word: kukri
+next_word: kulak
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

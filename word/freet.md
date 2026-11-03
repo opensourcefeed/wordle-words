@@ -30,4 +30,15 @@ neighbours:
 - freit
 anagrams:
 - terfe
+prev_word: frees
+next_word: freit
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

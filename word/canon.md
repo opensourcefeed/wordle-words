@@ -66,4 +66,15 @@ definitions:
       as 48-point.
   - text: The part of a bell by which it is suspended; the ear or shank of a bell.
   - text: A carom.
+prev_word: canoe
+next_word: canso
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

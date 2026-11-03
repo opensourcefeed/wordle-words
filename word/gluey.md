@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Viscous and adhesive, as glue.
+prev_word: glues
+next_word: glugg
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

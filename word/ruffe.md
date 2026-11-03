@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Gymnocephalus cernua, a small Eurasian freshwater fish.
   - text: Other species in the same genus.
+prev_word: ruers
+next_word: ruffs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

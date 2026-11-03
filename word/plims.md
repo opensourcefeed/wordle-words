@@ -32,4 +32,15 @@ neighbours:
 - slims
 anagrams:
 - limps
+prev_word: pligs
+next_word: pling
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

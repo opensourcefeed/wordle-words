@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To varnish with japan.
+prev_word: janty
+next_word: japed
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

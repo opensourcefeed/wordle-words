@@ -26,4 +26,15 @@ neighbours:
 - knurs
 anagrams:
 - stunk
+prev_word: knurs
+next_word: koala
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

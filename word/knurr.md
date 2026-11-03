@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: A knurl.
   - text: The small wooden ball in the game of trap ball, or knurr and spell.
+prev_word: knurl
+next_word: knurs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

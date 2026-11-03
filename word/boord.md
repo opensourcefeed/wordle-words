@@ -31,4 +31,15 @@ anagrams:
 - brood
 - dobro
 - droob
+prev_word: boons
+next_word: boors
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

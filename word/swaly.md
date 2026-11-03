@@ -28,4 +28,15 @@ anagrams:
 - lawsy
 - swayl
 - yawls
+prev_word: swale
+next_word: swami
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

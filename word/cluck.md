@@ -46,4 +46,15 @@ definitions:
     example: My mother clucked her tongue in disapproval.
   - text: To call together, or call to follow, as a hen does her chickens.
   - text: To suffer withdrawal from heroin.
+prev_word: clubs
+next_word: clued
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

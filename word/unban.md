@@ -30,4 +30,15 @@ definitions:
 - pos: verb
   defs:
   - text: To lift a ban against.
+prev_word: unbag
+next_word: unbar
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

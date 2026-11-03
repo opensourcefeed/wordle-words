@@ -28,4 +28,15 @@ anagrams:
 - efits
 - feist
 - tiefs
+prev_word: fiery
+next_word: fifed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

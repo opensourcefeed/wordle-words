@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _UTTY
   count: 9
+prev_word: rutin
+next_word: ruvid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

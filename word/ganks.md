@@ -51,4 +51,15 @@ definitions:
       or taking a well-equipped high-level character to assault players in a starting
       area.
     example: Our group totally ganked this guy.
+prev_word: ganja
+next_word: ganof
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

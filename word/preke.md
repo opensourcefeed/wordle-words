@@ -26,4 +26,15 @@ neighbours:
 - proke
 anagrams:
 - kreep
+prev_word: preif
+next_word: prems
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

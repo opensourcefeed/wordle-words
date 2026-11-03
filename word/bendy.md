@@ -43,4 +43,15 @@ definitions:
     example: a bendy road
   - text: Of a vehicle, articulated.
   - text: Divided into diagonal bands of colour
+prev_word: bends
+next_word: benes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

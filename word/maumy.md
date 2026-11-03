@@ -29,4 +29,15 @@ neighbours:
 - mausy
 - mauvy
 - mauzy
+prev_word: maums
+next_word: maund
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

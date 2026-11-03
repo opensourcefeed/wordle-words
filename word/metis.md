@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: Of mixed heritage
   - text: Of Métis heritage.
+prev_word: metif
+next_word: metol
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

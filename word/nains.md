@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AINS
   count: 12
+prev_word: naily
+next_word: naios
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

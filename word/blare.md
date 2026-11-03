@@ -58,4 +58,15 @@ definitions:
   - text: To make a loud sound.
     example: The trumpet blaring in my ears gave me a headache.
   - text: To cause to sound like the blare of a trumpet; to proclaim loudly.
+prev_word: blank
+next_word: blart
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

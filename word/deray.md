@@ -36,4 +36,15 @@ anagrams:
 - deary
 - rayed
 - yeard
+prev_word: derat
+next_word: derby
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

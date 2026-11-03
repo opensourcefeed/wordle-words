@@ -46,4 +46,15 @@ definitions:
   - text: A person's ability to count, calculate, and use different systems of mathematics
       at differing levels.
     example: My mathematics is always improving.
+prev_word: mathe
+next_word: matin
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

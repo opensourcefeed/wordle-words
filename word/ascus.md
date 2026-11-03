@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A sac-shaped cell present in ascomycete fungi; it is a reproductive cell
       in which meiosis and an additional cell division produce eight spores.
+prev_word: ascot
+next_word: asdic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

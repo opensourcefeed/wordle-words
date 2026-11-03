@@ -37,4 +37,15 @@ definitions:
   - text: A transparent block in the shape of a prism (typically with triangular ends),
       used to split or reflect light.
   - text: A crystal in which the faces are parallel to the vertical axis.
+prev_word: prise
+next_word: priss
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

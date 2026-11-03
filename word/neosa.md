@@ -26,4 +26,15 @@ neighbours:
 - neoza
 anagrams:
 - aeons
+prev_word: neons
+next_word: neoza
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

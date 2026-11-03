@@ -29,4 +29,15 @@ neighbours:
 - roaky
 - roany
 - roars
+prev_word: roars
+next_word: roast
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,13 @@ definitions:
   - text: The highest score in judo, awarded for a throw that places the opponent
       on their back with impetus or for holding the opponent on their back for a number
       of seconds.
+prev_word: iotas
+next_word: irade
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

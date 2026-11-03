@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - flair
 - frail
+prev_word: fikes
+next_word: filch
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

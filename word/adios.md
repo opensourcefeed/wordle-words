@@ -36,4 +36,15 @@ definitions:
 - pos: interjection
   defs:
   - text: "(in Spanish contexts) goodbye"
+prev_word: adieu
+next_word: adits
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

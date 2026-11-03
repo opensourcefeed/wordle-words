@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: BORE_
   count: 6
+prev_word: bored
+next_word: borek
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

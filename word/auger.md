@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To use an auger; to drill a hole using an auger.
   - text: To proceed in the manner of an auger.
+prev_word: augen
+next_word: auges
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

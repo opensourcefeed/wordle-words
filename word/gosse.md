@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - gesso
 - segos
+prev_word: gosht
+next_word: gotch
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

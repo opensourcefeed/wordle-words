@@ -50,4 +50,15 @@ definitions:
       tasked with completing a number of passes while the other group tries to take
       possession of the ball.'
   - text: A gambling game played with small balls on a table.
+prev_word: ronde
+next_word: roneo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

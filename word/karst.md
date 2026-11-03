@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A type of land formation, usually with many caves formed through the dissolving
       of limestone by underground drainage.
+prev_word: karri
+next_word: karsy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the broad-winged soaring raptors of the genus Buteo.
+prev_word: butch
+next_word: butes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

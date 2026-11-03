@@ -51,4 +51,15 @@ definitions:
     example: One faltering step means certain death.
   - text: "(usually with to) To be of some level of importance."
     example: Formality and titles mean nothing in their circle.
+prev_word: means
+next_word: meany
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

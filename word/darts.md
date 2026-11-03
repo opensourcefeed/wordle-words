@@ -75,4 +75,15 @@ definitions:
   defs:
   - text: "(games) A game or sport in which darts are thrown at a board, and points
       are scored depending on where the darts land"
+prev_word: darre
+next_word: darzi
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

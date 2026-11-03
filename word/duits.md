@@ -30,4 +30,15 @@ neighbours:
 - dusts
 - quits
 - suits
+prev_word: duing
+next_word: dukas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

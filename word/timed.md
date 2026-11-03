@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: Happening at a certain time.
   - text: Regulated by time.
+prev_word: timbo
+next_word: timer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

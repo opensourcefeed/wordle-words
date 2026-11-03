@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: A type of spicy, spreadable salami from Calabria.
+prev_word: nazzy
+next_word: neafe
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

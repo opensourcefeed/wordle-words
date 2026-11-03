@@ -26,4 +26,15 @@ stats:
 neighbours:
 - quail
 - quais
+prev_word: quail
+next_word: quais
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

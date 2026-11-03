@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: An unmarried Maasai or Samburu warrior.
+prev_word: moral
+next_word: moras
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

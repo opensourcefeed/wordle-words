@@ -25,4 +25,15 @@ neighbours:
 - lakin
 - linin
 - lipin
+prev_word: likes
+next_word: lilac
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

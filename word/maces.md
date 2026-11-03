@@ -79,4 +79,15 @@ definitions:
       a hand-held device.
   - text: To spray a similar noxious chemical in defense or attack using an available
       hand-held device such as an aerosol spray can.
+prev_word: macer
+next_word: mache
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

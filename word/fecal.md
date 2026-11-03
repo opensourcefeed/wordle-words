@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of or relating to feces.
+prev_word: feaze
+next_word: feces
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -31,4 +31,15 @@ neighbours:
 - murls
 anagrams:
 - simul
+prev_word: muids
+next_word: muirs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

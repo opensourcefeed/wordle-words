@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To attack with MIRV missiles.
+prev_word: mirth
+next_word: mirza
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

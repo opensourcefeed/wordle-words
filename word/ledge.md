@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To cause to have, or to develop, a ledge (during mining, canal construction,
       building, etc).
+prev_word: ledes
+next_word: ledgy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

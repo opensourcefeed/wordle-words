@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The official currency of Qatar and Saudi Arabia.
+prev_word: rivet
+next_word: rizas
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

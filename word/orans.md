@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _RANS
   count: 6
+prev_word: orang
+next_word: orant
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

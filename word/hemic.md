@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - chime
 - miche
+prev_word: hemes
+next_word: hemin
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

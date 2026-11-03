@@ -35,4 +35,15 @@ definitions:
   - text: An imitation coin resembling old Roman bronze coins, made at Padua in the
       16th century.
   - text: A stately Spanish dance.
+prev_word: pauxi
+next_word: pavas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

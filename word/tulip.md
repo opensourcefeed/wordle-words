@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A type of flowering plant, genus Tulipa.
   - text: The flower of this plant.
+prev_word: tules
+next_word: tulle
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

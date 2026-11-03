@@ -31,4 +31,15 @@ neighbours:
 - fluey
 - glued
 - slued
+prev_word: flubs
+next_word: flues
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

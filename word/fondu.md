@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A dish made of melted cheese, chocolate etc., or of a boiling liquid into
       which food can be dipped.
+prev_word: fonds
+next_word: fones
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/du/"
+  label: Ending in DU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 24
 anagrams:
 - baloi
+prev_word: abohm
+next_word: aboma
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

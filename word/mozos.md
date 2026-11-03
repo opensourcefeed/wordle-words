@@ -47,4 +47,15 @@ definitions:
   - text: A title of respect for a young man (usually unmarried) with or without a
       name used.
   - text: An unmarried man, a boy.
+prev_word: mozes
+next_word: mpret
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

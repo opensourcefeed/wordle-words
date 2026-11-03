@@ -29,4 +29,15 @@ neighbours:
 - alefs
 anagrams:
 - fetal
+prev_word: alefs
+next_word: aleph
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

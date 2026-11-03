@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Ukrainian national dance in 2/4 time.
+prev_word: goosy
+next_word: gopik
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

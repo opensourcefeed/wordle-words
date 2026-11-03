@@ -24,4 +24,15 @@ stats:
 neighbours:
 - dixit
 - fixie
+prev_word: fixie
+next_word: fizzy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

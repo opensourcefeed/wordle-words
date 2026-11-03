@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EROS
   count: 7
+prev_word: kerns
+next_word: kerry
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

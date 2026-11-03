@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - spilt
 - split
+prev_word: slips
+next_word: slish
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

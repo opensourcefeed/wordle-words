@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ARDY
   count: 8
+prev_word: pards
+next_word: pared
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

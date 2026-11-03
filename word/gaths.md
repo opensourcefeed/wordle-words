@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _ATHS
   count: 8
+prev_word: gates
+next_word: gator
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

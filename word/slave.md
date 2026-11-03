@@ -69,4 +69,15 @@ definitions:
     example: I was slaving all day over a hot stove.
   - text: To place a device under the control of another.
     example: to slave a hard disk
+prev_word: slaty
+next_word: slaws
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

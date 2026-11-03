@@ -28,4 +28,15 @@ neighbours:
 - oxime
 anagrams:
 - sixmo
+prev_word: oxime
+next_word: oxine
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

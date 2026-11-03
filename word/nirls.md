@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _IRLS
   count: 9
+prev_word: niqab
+next_word: nirly
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

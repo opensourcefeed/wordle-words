@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: The cardinal number occurring after fifty-nine and before sixty-one, represented
       in Roman numerals as LX and in Arabic numerals as 60.
+prev_word: sixth
+next_word: sizar
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

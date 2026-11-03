@@ -31,4 +31,15 @@ neighbours:
 - palmy
 anagrams:
 - playa
+prev_word: palas
+next_word: palea
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

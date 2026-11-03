@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To urge onward; to hasten.
   - text: To move with haste.
+prev_word: hasta
+next_word: hasty
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

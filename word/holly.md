@@ -49,4 +49,15 @@ definitions:
   - text: The wood from this tree.
   - text: "(with a qualifier) Any of several unrelated plant species likened to Ilex
       because of their prickly, evergreen foliage and/or round, bright-red berries"
+prev_word: hollo
+next_word: holme
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

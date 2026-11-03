@@ -28,4 +28,15 @@ neighbours:
 - dower
 - jowar
 - sowar
+prev_word: dowak
+next_word: dowds
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

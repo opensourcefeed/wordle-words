@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A Russian monetary unit equal to one hundredth of a ruble.
   - text: 'A kopiyka: a Ukrainian monetary unit equal to one hundredth of a hryvnia.'
+prev_word: koori
+next_word: kophs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

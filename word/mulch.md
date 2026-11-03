@@ -46,4 +46,15 @@ definitions:
     example: Mulch your vegetable garden to retain moisture and keep weeds down.
   - text: To turn into mulch.
     example: I decided to mulch the grass clippings.
+prev_word: mulai
+next_word: mulct
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

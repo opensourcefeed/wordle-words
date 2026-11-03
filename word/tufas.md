@@ -28,4 +28,15 @@ neighbours:
 - tunas
 anagrams:
 - fauts
+prev_word: tucks
+next_word: tuffe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

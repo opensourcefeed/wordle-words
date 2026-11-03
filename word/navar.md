@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - varan
 - varna
+prev_word: naval
+next_word: naved
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

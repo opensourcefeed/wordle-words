@@ -61,4 +61,15 @@ definitions:
     example: He’s been crowing all day about winning the game of cards.
   - text: To test the reed of a double reed instrument by placing the reed alone in
       the mouth and blowing it.
+prev_word: crown
+next_word: croze
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

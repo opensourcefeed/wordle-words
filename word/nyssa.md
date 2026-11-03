@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 68
 neighbours:
 - lyssa
+prev_word: nyong
+next_word: nyung
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

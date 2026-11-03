@@ -20,4 +20,15 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 89
+prev_word: mythy
+next_word: mzees
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

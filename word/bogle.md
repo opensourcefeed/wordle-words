@@ -36,4 +36,15 @@ definitions:
 - pos: noun
   defs:
   - text: A goblin; a frightful spectre or phantom; a bogy or bugbear.
+prev_word: bogie
+next_word: bogue
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

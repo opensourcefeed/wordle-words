@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: "(rare outside entomology) The mesial plane dividing the body into similar
       right and left halves."
+prev_word: mesne
+next_word: messy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

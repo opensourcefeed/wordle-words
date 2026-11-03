@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Wisdom, knowledge, learning
+prev_word: sophs
+next_word: sopor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -23,4 +23,13 @@ neighbours:
 anagrams:
 - knops
 - ponks
+prev_word: knops
+next_word: knots
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

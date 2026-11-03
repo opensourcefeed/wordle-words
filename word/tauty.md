@@ -27,4 +27,15 @@ neighbours:
 - tanty
 - tarty
 - tauts
+prev_word: tauts
+next_word: tavah
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

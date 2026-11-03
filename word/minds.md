@@ -78,4 +78,15 @@ definitions:
   - text: To remember.
   - text: To have in mind; to intend.
   - text: To put in mind; to remind.
+prev_word: mindi
+next_word: mined
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

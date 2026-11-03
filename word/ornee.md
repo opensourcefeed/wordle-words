@@ -22,4 +22,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 25
+prev_word: ormer
+next_word: ornis
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

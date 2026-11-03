@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A type of sweet snack food consisting of dried apricot made into a pulp
       and flavoured with salt and sugar.
+prev_word: mebbe
+next_word: mecca
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

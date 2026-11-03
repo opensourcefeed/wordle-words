@@ -59,4 +59,15 @@ definitions:
     example: The silicon was doped with boron to make a p-type semiconductor.
   - text: Covered with dope, a glue or paint like pore filler.
     example: The doped fabric covering the Hindenburg was very flammable.
+prev_word: dopas
+next_word: doper
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -36,4 +36,15 @@ neighbours:
 anagrams:
 - razed
 - zerda
+prev_word: dazed
+next_word: dazes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

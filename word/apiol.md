@@ -26,4 +26,15 @@ stats:
 anagrams:
 - paoli
 - pilao
+prev_word: aping
+next_word: apish
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

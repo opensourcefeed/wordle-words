@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(chiefly Western Australia) A boomerang."
+prev_word: kyles
+next_word: kylin
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ANED
   count: 10
+prev_word: vanda
+next_word: vanes
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

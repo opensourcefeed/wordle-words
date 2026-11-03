@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A non-Jew, a gentile. (See usage notes)
+prev_word: goxes
+next_word: goyle
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

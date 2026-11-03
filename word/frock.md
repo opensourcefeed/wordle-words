@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To clothe in a frock.
   - text: To make a cleric.
+prev_word: frizz
+next_word: froes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

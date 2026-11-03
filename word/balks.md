@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: To indicate to fishermen, by shouts or signals from shore, the direction
       taken by the shoals of herring.
+prev_word: bales
+next_word: balky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

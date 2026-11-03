@@ -26,4 +26,15 @@ neighbours:
 - carse
 anagrams:
 - cease
+prev_word: caeca
+next_word: cafes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

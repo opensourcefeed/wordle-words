@@ -25,4 +25,13 @@ anagrams:
 - kinos
 - oinks
 - oskin
+prev_word: njirl
+next_word: nmoli
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

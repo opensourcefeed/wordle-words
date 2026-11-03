@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OPER
   count: 7
+prev_word: hoped
+next_word: hopes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

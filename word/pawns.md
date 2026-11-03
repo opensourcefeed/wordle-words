@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: "(originally leet) To own, to defeat or dominate (someone or something,
       especially a game or someone playing a game)."
+prev_word: pawls
+next_word: paxes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

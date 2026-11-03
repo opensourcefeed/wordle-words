@@ -30,4 +30,15 @@ neighbours:
 - cozen
 anagrams:
 - ponce
+prev_word: coped
+next_word: coper
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

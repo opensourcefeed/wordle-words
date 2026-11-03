@@ -54,4 +54,15 @@ definitions:
   - text: To inflate with pride, flattery, self-esteem, etc.; often with up.
   - text: To praise with exaggeration; to flatter; to call public attention to by
       praises; to praise unduly.
+prev_word: puffa
+next_word: puffy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ anagrams:
 - pards
 - prads
 - sprad
+prev_word: spans
+next_word: spare
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

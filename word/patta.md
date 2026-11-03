@@ -33,4 +33,15 @@ neighbours:
 - pitta
 anagrams:
 - attap
+prev_word: patsy
+next_word: patte
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

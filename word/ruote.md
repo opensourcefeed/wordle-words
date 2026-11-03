@@ -31,4 +31,15 @@ anagrams:
 - outre
 - rouet
 - utero
+prev_word: runup
+next_word: rupee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

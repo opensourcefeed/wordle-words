@@ -29,4 +29,13 @@ neighbours:
 - tyers
 anagrams:
 - eyres
+prev_word: eyass
+next_word: eying
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

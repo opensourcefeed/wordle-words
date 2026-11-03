@@ -83,4 +83,15 @@ definitions:
     example: In this standard opening position White has to be careful because the
       pawn on e4 hangs.
   - text: Of a pitcher, to throw a hittable off-speed pitch.
+prev_word: hangi
+next_word: hanks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

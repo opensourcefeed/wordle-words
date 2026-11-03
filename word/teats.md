@@ -53,4 +53,15 @@ definitions:
       secreted.
   - text: Something resembling a teat, such as a small protuberance or nozzle.
   - text: An artificial nipple used for bottle-feeding infants.
+prev_word: tease
+next_word: teaze
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

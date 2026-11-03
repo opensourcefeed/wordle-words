@@ -49,4 +49,15 @@ definitions:
   - text: "(normally with a preposition) To build stonework or brickwork about, under,
       in, over, etc.; to construct by masons"
     example: to mason in a kettle or boiler
+prev_word: masks
+next_word: massa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

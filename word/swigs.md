@@ -46,4 +46,15 @@ definitions:
   - text: To take up the last bit of slack in rigging by taking a single turn around
       a cleat, then hauling on the line above and below the cleat while keeping tension
       on the line.
+prev_word: swift
+next_word: swile
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

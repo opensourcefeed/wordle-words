@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - armor
 - maror
+prev_word: morph
+next_word: morro
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

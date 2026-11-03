@@ -78,4 +78,15 @@ definitions:
   - text: A gold coin of the reign of James I, worth twenty shillings.
   - text: A work unit.
   - text: A physically large person.
+prev_word: unite
+next_word: unity
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

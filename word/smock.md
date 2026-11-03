@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Of or pertaining to a smock; resembling a smock
   - text: Hence, of or pertaining to a woman.
+prev_word: smize
+next_word: smogs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

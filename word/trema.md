@@ -34,4 +34,15 @@ anagrams:
 - mater
 - ramet
 - retam
+prev_word: treks
+next_word: trems
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

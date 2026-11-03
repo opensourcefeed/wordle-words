@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _REES
   count: 7
+prev_word: creep
+next_word: crein
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: A finely-ground paste of meat, fish or vegetables, sometimes with the addition
       of alcohol.
+prev_word: pater
+next_word: paths
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

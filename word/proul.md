@@ -26,4 +26,15 @@ neighbours:
 - prowl
 - proal
 - proll
+prev_word: proud
+next_word: prove
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

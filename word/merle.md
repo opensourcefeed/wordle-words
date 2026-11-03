@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: The Eurasian blackbird, Turdus merula.
   - text: Any blackbird.
+prev_word: merks
+next_word: merls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

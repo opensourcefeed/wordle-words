@@ -46,4 +46,15 @@ definitions:
   - text: Besides; in addition to; as well as; not to mention.
     example: There was other six forby me.
   - text: With the exception of; not taking into account.
+prev_word: forbs
+next_word: force
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

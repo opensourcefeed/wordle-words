@@ -22,4 +22,15 @@ stats:
 neighbours:
 - mudim
 - mudir
+prev_word: mudge
+next_word: mudim
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

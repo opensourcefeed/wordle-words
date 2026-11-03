@@ -27,4 +27,15 @@ neighbours:
 - roady
 - toady
 - woads
+prev_word: woads
+next_word: woald
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

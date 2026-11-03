@@ -44,4 +44,15 @@ definitions:
   - text: A workman who works for lower wages than his fellows, or who will not join
       a strike.
   - text: "(Cambridge University) A townsman, as opposed to a gownsman."
+prev_word: snive
+next_word: snods
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

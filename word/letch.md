@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Strong desire; passion.
   - text: A lecher.
+prev_word: lests
+next_word: lethe
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

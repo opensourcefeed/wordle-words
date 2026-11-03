@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: A measure of the rate of flow of fluid, especially through a pipeline, equal
       to one cubic foot per second.
+prev_word: curvy
+next_word: cushy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

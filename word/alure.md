@@ -28,4 +28,15 @@ neighbours:
 - alurk
 anagrams:
 - ureal
+prev_word: alumy
+next_word: alurk
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

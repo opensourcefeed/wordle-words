@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: The nest of a bird of prey.
   - text: Any high and remote but commanding place.
+prev_word: eyres
+next_word: eyrir
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

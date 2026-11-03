@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A deep, steep-sided rift, gap or fissure; a gorge or abyss.
   - text: "(by extension) A large difference of opinion."
+prev_word: chase
+next_word: chats
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

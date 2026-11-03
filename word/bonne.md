@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A French nursemaid.
+prev_word: bonks
+next_word: bonny
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

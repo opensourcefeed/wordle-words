@@ -37,4 +37,15 @@ definitions:
   - text: A thing having such a shape, such as an arena.
   - text: In a projective plane, a set of points such that no three are collinear
       and there is a unique tangent line at each point.
+prev_word: ouzos
+next_word: ovary
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

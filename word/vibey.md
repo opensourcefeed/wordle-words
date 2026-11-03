@@ -24,4 +24,15 @@ neighbours:
 - vibed
 - vibes
 - vibex
+prev_word: vibex
+next_word: vicar
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To renegotiate a contract.
   - text: To refill one's drug stash.
+prev_word: reune
+next_word: reuse
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

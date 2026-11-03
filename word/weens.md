@@ -51,4 +51,15 @@ definitions:
   - text: To weep or cry.
     example: The boy's mother weened day and night.
   - text: To lament.
+prev_word: weems
+next_word: weeny
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

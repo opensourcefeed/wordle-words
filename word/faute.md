@@ -29,4 +29,15 @@ neighbours:
 - fauts
 - fauve
 - vaute
+prev_word: faurd
+next_word: fauts
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

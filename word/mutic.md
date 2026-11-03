@@ -25,4 +25,15 @@ neighbours:
 - metic
 - mucic
 - mutis
+prev_word: mutha
+next_word: mutis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

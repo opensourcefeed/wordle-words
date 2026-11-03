@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To supply with new personnel.
+prev_word: relos
+next_word: remap
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 20
 neighbours:
 - sunna
+prev_word: sunup
+next_word: suped
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

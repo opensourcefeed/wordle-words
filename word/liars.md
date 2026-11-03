@@ -45,4 +45,15 @@ definitions:
   - text: A swabber responsible for cleaning the outside parts of the ship rather
       than the cabins, a role traditionally assigned to a person caught telling a
       lie the previous week.
+prev_word: liard
+next_word: liart
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

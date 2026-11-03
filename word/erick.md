@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _RICK
   count: 6
+prev_word: erica
+next_word: erics
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

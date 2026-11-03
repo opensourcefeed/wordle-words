@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AINS
   count: 12
+prev_word: faine
+next_word: faint
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ anagrams:
 - loses
 - sloes
 - soles
+prev_word: leses
+next_word: lests
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

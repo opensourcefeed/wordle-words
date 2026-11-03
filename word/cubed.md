@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Raised to the third power.
+prev_word: cubeb
+next_word: cuber
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

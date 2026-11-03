@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Situation.
+prev_word: sitar
+next_word: sited
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

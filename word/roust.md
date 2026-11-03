@@ -48,4 +48,15 @@ definitions:
   - text: To harass, to treat in a rough way.
   - text: To arrest
   - text: To drive strongly
+prev_word: rouse
+next_word: route
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

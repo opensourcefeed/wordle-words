@@ -31,4 +31,15 @@ definitions:
   - text: A young girl, especially one who is attractive, beautiful or graceful.
   - text: The larva of certain insects.
   - text: Any of various butterflies of the family Nymphalidae.
+prev_word: nylon
+next_word: nyong
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

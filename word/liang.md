@@ -30,4 +30,15 @@ anagrams:
 - algin
 - ligan
 - linga
+prev_word: liane
+next_word: liard
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -41,4 +41,15 @@ definitions:
       a soil ripper.
   - text: Closely-related cultivars such as the enormous turnip-shaped Sakurajima
       or green-and-red watermelon radish.
+prev_word: moola
+next_word: mools
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

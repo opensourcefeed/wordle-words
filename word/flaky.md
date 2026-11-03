@@ -42,4 +42,15 @@ definitions:
   - text: "(of a thing) Unreliable; working only on an intermittent basis; likely
       to malfunction."
     example: I cannot enjoy the online game because of my flaky Internet connection.
+prev_word: flaks
+next_word: flame
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

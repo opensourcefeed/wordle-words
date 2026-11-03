@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IPPY
   count: 11
+prev_word: sipes
+next_word: sired
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

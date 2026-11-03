@@ -35,4 +35,15 @@ neighbours:
 anagrams:
 - alder
 - lader
+prev_word: arked
+next_word: arles
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

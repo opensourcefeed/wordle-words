@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ADES
   count: 10
+prev_word: kadai
+next_word: kadis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

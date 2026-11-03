@@ -27,4 +27,15 @@ neighbours:
 - gript
 - grisy
 - tripy
+prev_word: gript
+next_word: grise
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

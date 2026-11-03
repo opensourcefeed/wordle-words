@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Any of various spicy meatball or meatloaf dishes of the Middle East, Caucasus,
       South Asia, and the Balkans.
+prev_word: koffs
+next_word: kogal
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IRLS
   count: 9
+prev_word: dirks
+next_word: dirts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

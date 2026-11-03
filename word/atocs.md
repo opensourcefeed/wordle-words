@@ -32,4 +32,15 @@ anagrams:
 - costa
 - octas
 - tacos
+prev_word: atmos
+next_word: atoke
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -66,4 +66,15 @@ definitions:
   - text: To explore, investigate, or question
     example: If you probe further, you may discover different reasons.
   - text: To insert a probe into.
+prev_word: proas
+next_word: probs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

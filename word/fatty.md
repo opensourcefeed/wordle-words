@@ -41,4 +41,15 @@ definitions:
   - text: Containing, composed of, or consisting of fat.
   - text: Like fat; greasy.
   - text: Literally or figuratively large.
+prev_word: fatso
+next_word: fatwa
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

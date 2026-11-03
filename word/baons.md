@@ -30,4 +30,15 @@ neighbours:
 - kaons
 anagrams:
 - bason
+prev_word: banya
+next_word: baozi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

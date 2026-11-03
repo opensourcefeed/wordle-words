@@ -75,4 +75,15 @@ definitions:
       testing.
   - text: A sports event in which anybody can compete
     example: the Australian Open
+prev_word: opals
+next_word: opepe
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

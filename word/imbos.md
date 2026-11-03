@@ -26,4 +26,15 @@ neighbours:
 - umbos
 anagrams:
 - bisom
+prev_word: imbed
+next_word: imbue
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

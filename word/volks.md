@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OLKS
   count: 6
+prev_word: volke
+next_word: volta
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

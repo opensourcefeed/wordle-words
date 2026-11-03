@@ -46,4 +46,15 @@ definitions:
   - text: 'Of a morphism: that it is a monomorphism.'
     example: If a composition (of morphisms) is monic then, by theorem, the pre-composite
       of it is monic as well.
+prev_word: mongo
+next_word: monie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

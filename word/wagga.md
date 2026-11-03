@@ -23,4 +23,15 @@ stats:
 neighbours:
 - dagga
 - ragga
+prev_word: wages
+next_word: wagon
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

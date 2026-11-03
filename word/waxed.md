@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: Of an object, coated or treated with wax in order to make it shiny or waterproof,
       or to protect it.
+prev_word: wawls
+next_word: waxen
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

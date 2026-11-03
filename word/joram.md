@@ -28,4 +28,15 @@ neighbours:
 - jorum
 anagrams:
 - major
+prev_word: jooks
+next_word: jorts
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

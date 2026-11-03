@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Inclined to talk too much, especially about trivia.
+prev_word: gabba
+next_word: gable
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - airth
 - raith
+prev_word: arish
+next_word: arked
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

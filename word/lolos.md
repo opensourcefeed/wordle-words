@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OLOS
   count: 10
+prev_word: lolog
+next_word: lomas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

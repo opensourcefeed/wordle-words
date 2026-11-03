@@ -27,4 +27,15 @@ neighbours:
 - pomps
 - poopa
 - poppa
+prev_word: pomos
+next_word: pomps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

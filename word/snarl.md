@@ -55,4 +55,15 @@ definitions:
   - text: To be congested in traffic, or to make traffic congested.
   - text: To form raised work upon the outer surface of (thin metal ware) by the repercussion
       of a snarling iron upon the inner surface.
+prev_word: snark
+next_word: snars
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

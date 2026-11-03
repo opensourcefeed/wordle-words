@@ -70,4 +70,15 @@ definitions:
   - text: To generate an entire space by means of linear combinations.
   - text: To be matched, as horses.
   - text: To fetter, as a horse; to hobble.
+prev_word: spank
+next_word: spard
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

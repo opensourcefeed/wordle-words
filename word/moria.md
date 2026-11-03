@@ -32,4 +32,15 @@ neighbours:
 - noria
 anagrams:
 - moira
+prev_word: morgy
+next_word: morin
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

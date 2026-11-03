@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A letter or other symbol that stands for a word or name.
+prev_word: sigil
+next_word: sigma
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

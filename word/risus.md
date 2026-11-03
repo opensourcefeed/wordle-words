@@ -30,4 +30,15 @@ neighbours:
 - risks
 - risps
 - rists
+prev_word: rists
+next_word: rites
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

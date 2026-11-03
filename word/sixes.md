@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A pair of sixes.
   - text: Short for six of one, half a dozen of the other.
+prev_word: sixer
+next_word: sixmo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

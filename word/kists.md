@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To place in a coffin.
+prev_word: kissy
+next_word: kitab
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A coniferous tree, of genus Larix, having deciduous leaves, in fascicles.
   - text: The wood of the larch.
+prev_word: lapse
+next_word: lards
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

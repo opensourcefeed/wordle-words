@@ -25,4 +25,15 @@ neighbours:
 - glads
 - glary
 - glazy
+prev_word: glads
+next_word: glaik
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

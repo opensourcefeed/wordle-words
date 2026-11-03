@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of a breed of small Highland cattle.
+prev_word: kylix
+next_word: kynde
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/oe/"
+  label: Ending in OE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

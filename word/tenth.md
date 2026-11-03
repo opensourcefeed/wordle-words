@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: The ordinal numeral form of ten; next in order after that which is ninth.
   - text: Being one of ten equal parts of a whole.
+prev_word: tense
+next_word: tents
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

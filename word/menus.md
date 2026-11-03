@@ -40,4 +40,15 @@ definitions:
   - text: A list of dishes offered in a restaurant.
   - text: A list from which the user may select an operation to be performed, often
       done with a keyboard, mouse, or controller under a graphical user interface
+prev_word: ments
+next_word: meous
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

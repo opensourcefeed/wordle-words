@@ -38,4 +38,15 @@ definitions:
   - text: Any of various units of weight in Spanish- and Portuguese-speaking countries
       approximately equal to 460 grams or a little more than a US or UK pound.
   - text: Alternative spelling of libbra, an Italian unit of weight.
+prev_word: libor
+next_word: libre
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

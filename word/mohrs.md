@@ -26,4 +26,15 @@ neighbours:
 - moers
 - mohos
 - moors
+prev_word: mohos
+next_word: mohua
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - caput
 anagrams:
 - culpa
+prev_word: capri
+next_word: caput
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

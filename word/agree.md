@@ -58,4 +58,15 @@ definitions:
     example: In Romanian, the articles, adjectives, pronouns agree in gender, number
       and case with the noun they refer to.
   - text: To consent to a contract or to an element of a contract.
+prev_word: agora
+next_word: agria
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

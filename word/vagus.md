@@ -27,4 +27,15 @@ neighbours:
 - ragus
 - varus
 - vatus
+prev_word: vague
+next_word: vaids
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

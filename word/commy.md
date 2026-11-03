@@ -30,4 +30,15 @@ neighbours:
 - mommy
 - pommy
 - tommy
+prev_word: comms
+next_word: compo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

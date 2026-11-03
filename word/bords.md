@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ORDS
   count: 6
+prev_word: borde
+next_word: bored
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

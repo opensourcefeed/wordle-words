@@ -24,4 +24,15 @@ neighbours:
 - mufti
 - murti
 - mutti
+prev_word: mukim
+next_word: mulai
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

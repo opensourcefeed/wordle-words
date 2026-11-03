@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: Sour, bitter, and harsh to the taste, as unripe fruit.
   - text: Sharp and harsh in expressing oneself.
+prev_word: acene
+next_word: acers
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

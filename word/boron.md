@@ -32,4 +32,15 @@ definitions:
   - text: The chemical element (symbol B) with an atomic number of 5, which is a metalloid
       found in its pure form as a dark amorphous powder.
   - text: A single atom of this element.
+prev_word: borne
+next_word: borts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

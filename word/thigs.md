@@ -30,4 +30,15 @@ neighbours:
 - whigs
 anagrams:
 - sight
+prev_word: thigh
+next_word: thilk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

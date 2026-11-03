@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: To take or experience pride in something; to be proud of it.
     example: I pride myself on being a good judge of character.
+prev_word: pricy
+next_word: pridy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

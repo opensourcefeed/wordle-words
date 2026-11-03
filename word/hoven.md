@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: HOVE_
   count: 6
+prev_word: hovel
+next_word: hover
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

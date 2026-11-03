@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ANDY
   count: 11
+prev_word: ganch
+next_word: ganef
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

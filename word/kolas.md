@@ -54,4 +54,15 @@ definitions:
   - text: A tree, genus Cola, bearing large brown seeds ("nuts") that are the source
       of cola extract.
   - text: A nut of this tree.
+prev_word: kokum
+next_word: kolos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

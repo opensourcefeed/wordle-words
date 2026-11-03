@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: BO_TS
   count: 7
+prev_word: botte
+next_word: botty
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Quickly, rapidly, with speed.
     example: Construction of the new offices is proceeding apace.
+prev_word: aorta
+next_word: apage
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

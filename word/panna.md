@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ANNA
   count: 6
+prev_word: panks
+next_word: panne
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

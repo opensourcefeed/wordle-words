@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - usage
 - agues
+prev_word: auger
+next_word: aught
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

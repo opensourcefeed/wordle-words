@@ -29,4 +29,15 @@ neighbours:
 - pinga
 anagrams:
 - aging
+prev_word: ginch
+next_word: ginge
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

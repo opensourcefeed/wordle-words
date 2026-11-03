@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - punto
 - unpot
+prev_word: putin
+next_word: putos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

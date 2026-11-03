@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _UBBY
   count: 10
+prev_word: fubar
+next_word: fubsy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

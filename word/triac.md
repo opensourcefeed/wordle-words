@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A three-terminal electronic component that conducts current in either direction
       when triggered; a bidirectional triode thyristor.
+prev_word: treys
+next_word: triad
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

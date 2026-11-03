@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To make a soft murmuring sound, as a pigeon.
   - text: To speak in an admiring fashion, to be enthusiastic about.
+prev_word: cooch
+next_word: cooee
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

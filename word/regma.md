@@ -29,4 +29,15 @@ anagrams:
 - gamer
 - grame
 - marge
+prev_word: regle
+next_word: regna
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

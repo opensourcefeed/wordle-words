@@ -34,4 +34,15 @@ neighbours:
 - puter
 anagrams:
 - turme
+prev_word: muted
+next_word: mutes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

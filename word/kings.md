@@ -71,4 +71,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sounding stone, a Chinese musical instrument.
+prev_word: kines
+next_word: kingy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

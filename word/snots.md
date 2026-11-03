@@ -44,4 +44,15 @@ definitions:
   - text: Mucus, especially mucus from the nose.
   - text: A contemptible child.
   - text: A mean fellow.
+prev_word: snort
+next_word: snout
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: MARA_
   count: 6
+prev_word: maras
+next_word: march
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -43,4 +43,15 @@ definitions:
     example: gold without alloy
   - text: An admixture; something added which stains, taints etc.
   - text: Fusion, marriage, combination.
+prev_word: allow
+next_word: allus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/oy/"
+  label: Ending in OY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

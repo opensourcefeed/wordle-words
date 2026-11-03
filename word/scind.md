@@ -21,4 +21,15 @@ stats:
 neighbours:
 - scand
 - scend
+prev_word: scifi
+next_word: scion
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

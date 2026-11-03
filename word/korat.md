@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - tarok
 - troak
+prev_word: koras
+next_word: kores
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

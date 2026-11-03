@@ -30,4 +30,15 @@ anagrams:
 - grano
 - orang
 - rogan
+prev_word: naggy
+next_word: nahal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

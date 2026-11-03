@@ -31,4 +31,15 @@ definitions:
       over or under other letters, e.g. أ‎ (over an alif - ا‎), إ‎ (under an alif),
       ؤ‎ (over a wāw - و‎) or ئ‎ (over a dotless yāʾ - ى‎). The exact seat of hamza
       is governed by an orthographic rule - "seat of hamza rule".
+prev_word: hammy
+next_word: hanap
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

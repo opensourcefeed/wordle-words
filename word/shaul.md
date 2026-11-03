@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - hauls
 - hulas
+prev_word: shash
+next_word: shave
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

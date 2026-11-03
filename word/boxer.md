@@ -45,4 +45,15 @@ definitions:
   - text: The person running a game of two-up.
   - text: One who packs boxes.
   - text: A letterboxer.
+prev_word: boxen
+next_word: boxes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

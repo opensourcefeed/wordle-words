@@ -57,4 +57,15 @@ definitions:
 - pos: noun
   defs:
   - text: A feeling of nausea caused by disgust or overindulgence.
+prev_word: palla
+next_word: pallu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

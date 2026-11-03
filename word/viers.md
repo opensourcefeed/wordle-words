@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _IERS
   count: 7
+prev_word: video
+next_word: vieux
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

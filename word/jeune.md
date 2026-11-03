@@ -24,4 +24,15 @@ stats:
 neighbours:
 - jaune
 - reune
+prev_word: jetty
+next_word: jewel
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

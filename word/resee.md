@@ -26,4 +26,15 @@ neighbours:
 - reses
 - resew
 - resue
+prev_word: resay
+next_word: reses
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

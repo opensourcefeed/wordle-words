@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pincer-like claw of a crustacean or arachnid.
+prev_word: cheka
+next_word: chelp
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

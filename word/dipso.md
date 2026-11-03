@@ -26,4 +26,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dipsomaniac; an alcoholic; a drunk.
+prev_word: dippy
+next_word: diram
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

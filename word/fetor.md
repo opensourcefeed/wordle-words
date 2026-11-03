@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: An unpleasant smell.
+prev_word: fetid
+next_word: fetta
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

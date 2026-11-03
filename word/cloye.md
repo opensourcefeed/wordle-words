@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: CLO_E
   count: 7
+prev_word: clows
+next_word: cloys
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ye/"
+  label: Ending in YE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

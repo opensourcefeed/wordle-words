@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: To an extraordinary degree.
     example: That day he ran to school extra fast.
+prev_word: extol
+next_word: exude
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

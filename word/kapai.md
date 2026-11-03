@@ -30,4 +30,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Good, fine
+prev_word: kaons
+next_word: kapas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

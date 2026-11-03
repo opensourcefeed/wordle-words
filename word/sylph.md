@@ -30,4 +30,15 @@ definitions:
       with the implication of sublime station over everyday people."
   - text: Any of the mainly dark green and blue hummingbirds (genus Aglaiocercus),
       the male of which has a long forked tail.
+prev_word: sylis
+next_word: sylva
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

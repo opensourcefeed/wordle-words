@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A civil judge in certain Islamic countries.
+prev_word: cadie
+next_word: cadre
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

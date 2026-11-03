@@ -59,4 +59,15 @@ definitions:
       the effects of the wind on the sails.
   - text: To pull up or tug upwards sharply.
     example: She hiked her skirt up.
+prev_word: hiker
+next_word: hikoi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

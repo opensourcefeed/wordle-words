@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An aromatic red powder that is used during the Holi festival.
+prev_word: abeat
+next_word: abele
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

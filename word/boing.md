@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a boing sound or bouncing motion.
+prev_word: boils
+next_word: boink
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

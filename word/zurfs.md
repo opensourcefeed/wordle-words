@@ -25,4 +25,13 @@ neighbours:
 - surfs
 - turfs
 - zarfs
+prev_word: zuppa
+next_word: zuzim
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

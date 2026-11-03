@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fish, the ide, Leuciscus idus.
+prev_word: oread
+next_word: orful
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

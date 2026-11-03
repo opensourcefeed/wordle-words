@@ -49,4 +49,15 @@ definitions:
     example: He cheated death when his car collided with a moving train.
   - text: To deceive; to fool; to trick.
     example: He cheated his way into office.
+prev_word: cheap
+next_word: cheba
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

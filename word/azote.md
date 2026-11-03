@@ -29,4 +29,15 @@ neighbours:
 - azoth
 anagrams:
 - toaze
+prev_word: azons
+next_word: azoth
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

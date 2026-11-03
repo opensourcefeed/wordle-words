@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _AUCH
   count: 6
+prev_word: vatus
+next_word: vault
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

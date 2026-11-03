@@ -27,4 +27,15 @@ neighbours:
 - aidos
 anagrams:
 - oidia
+prev_word: aides
+next_word: aidos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

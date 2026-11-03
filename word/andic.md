@@ -27,4 +27,15 @@ anagrams:
 - canid
 - cnida
 - nicad
+prev_word: ancon
+next_word: andro
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

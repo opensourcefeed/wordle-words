@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Madhuca longifolia, an Indian tropical tree.
+prev_word: mahrs
+next_word: mahwa
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

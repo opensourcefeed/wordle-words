@@ -91,4 +91,15 @@ definitions:
     example: We'll schedule closing arguments for Thursday, and the jury will have
       the case by that afternoon.
   - text: To make an observation of (a bird species).
+prev_word: hadji
+next_word: haems
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

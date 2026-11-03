@@ -26,4 +26,15 @@ neighbours:
 - glary
 anagrams:
 - zygal
+prev_word: glaze
+next_word: gleam
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

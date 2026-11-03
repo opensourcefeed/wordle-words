@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: BE_ES
   count: 6
+prev_word: besee
+next_word: beset
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

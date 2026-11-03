@@ -39,4 +39,15 @@ definitions:
       or ileostomy.
   - text: A mouthlike opening, such as the oral cavity of a nematode.
   - text: An artificial anus.
+prev_word: stoln
+next_word: stomp
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

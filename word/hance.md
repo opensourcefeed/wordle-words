@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ANCE
   count: 6
+prev_word: hanap
+next_word: hanch
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

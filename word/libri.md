@@ -24,4 +24,15 @@ stats:
 neighbours:
 - libra
 - libre
+prev_word: libre
+next_word: licet
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

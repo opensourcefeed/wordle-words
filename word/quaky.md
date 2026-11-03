@@ -23,4 +23,15 @@ stats:
 neighbours:
 - quake
 - qualy
+prev_word: quake
+next_word: quale
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

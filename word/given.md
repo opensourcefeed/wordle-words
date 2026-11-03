@@ -85,4 +85,15 @@ definitions:
   defs:
   - text: Considering; taking into account.
     example: Given the current situation, I don't think that's possible.
+prev_word: gived
+next_word: giver
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

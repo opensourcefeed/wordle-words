@@ -25,4 +25,15 @@ neighbours:
 - halon
 - holos
 - solon
+prev_word: holms
+next_word: holos
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

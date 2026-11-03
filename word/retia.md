@@ -43,4 +43,15 @@ definitions:
   - text: An anatomical part resembling or including a network.
   - text: A rotating cutaway plate or overlay on an astrolabe or starmap which represents
       the horizon; used to locate stars and other astronomical features.
+prev_word: retem
+next_word: retie
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

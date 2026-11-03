@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: STEE_
   count: 8
+prev_word: steed
+next_word: steel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

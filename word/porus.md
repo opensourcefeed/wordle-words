@@ -35,4 +35,15 @@ anagrams:
 - pours
 - puros
 - roups
+prev_word: porty
+next_word: posca
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

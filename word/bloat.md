@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Bloated.
+prev_word: blive
+next_word: blobs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

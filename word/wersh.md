@@ -28,4 +28,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Insipid; tasteless; delicate; having a pale and sickly look.
+prev_word: weros
+next_word: wests
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -82,4 +82,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a wall knot on the end of (a rope).
+prev_word: walla
+next_word: wally
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

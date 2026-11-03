@@ -40,4 +40,15 @@ definitions:
   - text: The part of the liver or other organ where its vessels and nerves enter;
       the hilum.
   - text: The foramen of Monro.
+prev_word: porns
+next_word: porte
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

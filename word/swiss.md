@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To prepare (meat, fabric, etc.) by rolling or pounding in order to soften
       it.
+prev_word: swish
+next_word: swith
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

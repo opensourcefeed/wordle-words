@@ -35,4 +35,15 @@ anagrams:
 - avens
 - naves
 - vanes
+prev_word: venal
+next_word: vends
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

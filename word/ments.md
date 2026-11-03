@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ENTS
   count: 14
+prev_word: mento
+next_word: menus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

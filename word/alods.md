@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - loads
 - odals
+prev_word: almug
+next_word: aloed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: TRO_S
   count: 7
+prev_word: tronk
+next_word: troop
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

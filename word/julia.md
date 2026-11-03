@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 55
 neighbours:
 - dulia
+prev_word: julep
+next_word: jumar
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

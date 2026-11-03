@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _USTS
   count: 9
+prev_word: juste
+next_word: jutes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

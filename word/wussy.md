@@ -27,4 +27,15 @@ neighbours:
 trap:
   pattern: _USSY
   count: 6
+prev_word: wushu
+next_word: wuxia
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

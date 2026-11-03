@@ -54,4 +54,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of paper, having yellowish-brown stains.
+prev_word: fowth
+next_word: foxes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

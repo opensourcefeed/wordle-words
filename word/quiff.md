@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(British dialect) A puff or whiff, especially of tobacco smoke."
+prev_word: quiet
+next_word: quila
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

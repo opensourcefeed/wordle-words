@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - henry
 - yrneh
+prev_word: rhymy
+next_word: rhyta
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

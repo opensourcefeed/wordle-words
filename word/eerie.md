@@ -36,4 +36,13 @@ definitions:
   - text: Strange, weird, fear-inspiring.
     example: The eerie sounds seemed to come from the graveyard after midnight.
   - text: Frightened, timid.
+prev_word: eensy
+next_word: eeven
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Magnolia denudata, a species of magnolia with large white blossoms that
       open before the leaves.
+prev_word: yukos
+next_word: yules
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

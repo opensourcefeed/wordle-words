@@ -59,4 +59,15 @@ definitions:
 - pos: noun
   defs:
   - text: To cough heavily, esp. causing uvular frication.
+prev_word: hobos
+next_word: hocus
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

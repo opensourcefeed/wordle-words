@@ -32,4 +32,15 @@ definitions:
   - text: A woman who meddles in the business of others; a busybody; a female gossipmonger.
     example: Please don't tell your girlfriend what I said; she's a yenta!
   - text: "(Jewish) A matchmaker; a woman who specializes in finding spouses."
+prev_word: yelts
+next_word: yente
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

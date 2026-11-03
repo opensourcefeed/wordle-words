@@ -41,4 +41,15 @@ definitions:
   - text: A bout; a hit; a turn. See venew.
   - text: 'Sport venue: a stadium or similar building in which a sporting competition
       is held.'
+prev_word: vents
+next_word: venus
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: A phonograph needle.
   - text: A small plastic stick used as a pen for writing on the touch-sensitive screen
       of an electronic device.
+prev_word: style
+next_word: stylo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

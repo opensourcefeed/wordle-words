@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - creed
 - cered
+prev_word: ceded
+next_word: cedes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

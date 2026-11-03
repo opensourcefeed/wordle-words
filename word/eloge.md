@@ -25,4 +25,15 @@ stats:
 neighbours:
 - elope
 - elogy
+prev_word: elmen
+next_word: elogy
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

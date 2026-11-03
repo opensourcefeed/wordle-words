@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - gerle
 - leger
+prev_word: regie
+next_word: regma
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

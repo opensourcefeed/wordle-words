@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ONER
   count: 8
+prev_word: toned
+next_word: tones
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -53,4 +53,15 @@ definitions:
   - text: To rub or scratch out; to erase
   - text: To level with the ground; to overthrow; to destroy; to raze
   - text: To be leveled with the ground; to fall; to suffer overthrow
+prev_word: rasas
+next_word: raser
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -52,4 +52,15 @@ definitions:
   - text: To create a concavity or depression in.
   - text: To serve as or become a basin.
   - text: To shelter or enclose in a basin.
+prev_word: basil
+next_word: basis
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

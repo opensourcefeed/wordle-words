@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To move very quickly, especially while making a high-pitched hum.
+prev_word: zines
+next_word: zingy
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 anagrams:
 - synod
 - dynos
+prev_word: donor
+next_word: donut
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

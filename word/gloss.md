@@ -46,4 +46,15 @@ definitions:
   - text: To give a gloss or sheen to.
   - text: To make (something) attractive by deception
   - text: To become shiny.
+prev_word: glory
+next_word: glost
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

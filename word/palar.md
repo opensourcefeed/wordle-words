@@ -31,4 +31,15 @@ neighbours:
 - pasar
 - pilar
 - talar
+prev_word: palak
+next_word: palas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -26,4 +26,15 @@ neighbours:
 - lited
 - liter
 - lites
+prev_word: lited
+next_word: liter
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

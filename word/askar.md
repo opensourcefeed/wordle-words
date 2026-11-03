@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - araks
 - karas
+prev_word: asity
+next_word: asked
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

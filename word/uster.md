@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - sture
 - trues
+prev_word: ustad
+next_word: usual
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/us/"
+  label: Starting with US
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

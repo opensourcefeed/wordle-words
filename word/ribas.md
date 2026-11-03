@@ -31,4 +31,15 @@ anagrams:
 - abris
 - rabis
 - sabir
+prev_word: riato
+next_word: ribby
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

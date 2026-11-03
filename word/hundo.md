@@ -29,4 +29,15 @@ definitions:
 - pos: numeral
   defs:
   - text: A hundred.
+prev_word: hunch
+next_word: hunks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

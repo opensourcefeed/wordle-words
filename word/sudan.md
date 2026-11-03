@@ -24,4 +24,15 @@ neighbours:
 - sugan
 anagrams:
 - duans
+prev_word: sucre
+next_word: sudds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -26,4 +26,15 @@ neighbours:
 - erbia
 anagrams:
 - rubai
+prev_word: urbex
+next_word: urdee
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

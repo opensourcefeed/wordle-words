@@ -30,4 +30,15 @@ neighbours:
 - sarvo
 anagrams:
 - vapor
+prev_word: parve
+next_word: pasag
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

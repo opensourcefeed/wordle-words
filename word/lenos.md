@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A trough used in ancient winemaking.
+prev_word: lenis
+next_word: lense
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

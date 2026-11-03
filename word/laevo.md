@@ -26,4 +26,15 @@ stats:
 anagrams:
 - loave
 - volae
+prev_word: laers
+next_word: lagan
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

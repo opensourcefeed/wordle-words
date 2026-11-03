@@ -23,4 +23,15 @@ neighbours:
 - bongs
 - boyfs
 - boyos
+prev_word: boyfs
+next_word: boyla
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

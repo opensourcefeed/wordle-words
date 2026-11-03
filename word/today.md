@@ -44,4 +44,15 @@ definitions:
   - text: In the current era; nowadays.
     example: In the 1500s, people had to do things by hand, but today we have electric
       can openers.
+prev_word: tocos
+next_word: todde
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

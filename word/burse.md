@@ -43,4 +43,15 @@ definitions:
   - text: An ornamental case to hold the corporal when not in use.
   - text: A stock exchange; a bourse.
   - text: A kind of bazaar.
+prev_word: bursa
+next_word: burst
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

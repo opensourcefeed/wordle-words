@@ -64,4 +64,13 @@ definitions:
     example: BTW, that guy whuz still an asshole - camping the BFG and whoring the
       quad - I usually leave BFG maps but stuck around on that one and suicided quite
       a bit (3 times I got to about -10 frags, then came back to 0...).
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

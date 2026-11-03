@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: WEE_S
   count: 8
+prev_word: weete
+next_word: wefte
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

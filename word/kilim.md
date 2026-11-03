@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A flat tapestry-woven carpet or rug.
+prev_word: kilig
+next_word: kills
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/im/"
+  label: Ending in IM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

@@ -37,4 +37,15 @@ definitions:
     example: Woah, that chick in the bikini is a real momma!
   - text: One's wife or girlfriend.
     example: I need to talk to momma before I buy the car.
+prev_word: momie
+next_word: momme
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

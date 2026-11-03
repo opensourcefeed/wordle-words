@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A jiffy; a moment; a short time.
+prev_word: jibes
+next_word: jiffy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

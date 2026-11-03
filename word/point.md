@@ -58,4 +58,15 @@ definitions:
   - text: A vaccine point.
   - text: In various sports, a position of a certain player, or, by extension, the
       player occupying that position.
+prev_word: poind
+next_word: poire
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

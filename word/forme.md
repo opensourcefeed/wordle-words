@@ -50,4 +50,15 @@ definitions:
       and secured in a chase.
   - text: A quantic.
   - text: "(fitness) A specific way of performing a movement."
+prev_word: forma
+next_word: forms
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

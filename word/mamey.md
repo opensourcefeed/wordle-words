@@ -35,4 +35,15 @@ definitions:
   - text: The evergreen tree Mammea americana, or its edible fruit
   - text: The flowering plant Magnolia guatemalensis
   - text: The tree Pouteria sapota, or its fruit.
+prev_word: mamee
+next_word: mamie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A cathartic drug consisting of the tuberous roots of Ipomoea purga, a convolvulaceous
       plant found in Mexico.
+prev_word: jakie
+next_word: jaleo
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A coarse material, usually of cotton, originally made in India.
   - text: An imitation of this fabric.
+prev_word: baffy
+next_word: bafts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

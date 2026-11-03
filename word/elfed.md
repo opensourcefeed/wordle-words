@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 80
 neighbours:
 - effed
+prev_word: elemi
+next_word: elfin
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

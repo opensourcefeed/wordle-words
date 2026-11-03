@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A plant and corresponding personified divinity, Haoma.
+prev_word: haole
+next_word: hapas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

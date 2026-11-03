@@ -29,4 +29,15 @@ definitions:
   - text: Any of the various small, long-tailed lizards of the subfamily Agaminae
       of family Agamidae, especially in genera Acanthocercus, Agama, Dendragama, Laudakia,
       Phrynocephalus, Trapelus and Xenagama.
+prev_word: agals
+next_word: agami
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

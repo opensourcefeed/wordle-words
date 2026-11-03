@@ -25,4 +25,15 @@ neighbours:
 - yacca
 - yacks
 - yakka
+prev_word: yacht
+next_word: yacks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

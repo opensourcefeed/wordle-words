@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: A dish made by fermenting finely chopped cabbage.
   - text: A German person.
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

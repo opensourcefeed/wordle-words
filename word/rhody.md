@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 56
 anagrams:
 - hydro
+prev_word: rhino
+next_word: rhomb
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

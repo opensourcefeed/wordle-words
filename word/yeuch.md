@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An exclamation of disgust.
     example: Yech! This jelly donut is the worst on the planet!
+prev_word: yetts
+next_word: yeuks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

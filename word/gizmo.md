@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Something, generally a device, for which one does not know the proper term.
+prev_word: gives
+next_word: glace
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

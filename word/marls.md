@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To cover, as part of a rope, with marline, marking a peculiar hitch at each
       turn to prevent unwinding.
+prev_word: marle
+next_word: marly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

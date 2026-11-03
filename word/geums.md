@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the genus Geum of perennial herbaceous plants.
+prev_word: getup
+next_word: geyan
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

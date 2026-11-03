@@ -65,4 +65,15 @@ definitions:
   - text: To play a boast shot.
   - text: To possess something special.
     example: His family boasted a famous name.
+prev_word: boart
+next_word: boats
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

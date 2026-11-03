@@ -40,4 +40,15 @@ definitions:
   - text: The location of a property as used for taxation or other legal purposes.
   - text: (real estate) The street number and street name of an address such as "3912
       Park Drive". It does not include the city, county, country, etc.
+prev_word: situp
+next_word: siver
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

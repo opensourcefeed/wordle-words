@@ -30,4 +30,15 @@ neighbours:
 - nidal
 - nival
 - notal
+prev_word: nisus
+next_word: niter
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

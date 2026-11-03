@@ -31,4 +31,15 @@ neighbours:
 - dorty
 - porty
 - rorty
+prev_word: borts
+next_word: bortz
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

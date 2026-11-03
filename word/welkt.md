@@ -23,4 +23,13 @@ stats:
 neighbours:
 - welke
 - welks
+prev_word: welks
+next_word: wells
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

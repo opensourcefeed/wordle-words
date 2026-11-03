@@ -56,4 +56,15 @@ definitions:
       archetype."
   - text: Designates some bright star, usually the brightest star, of a constellation.
     example: When space travel becomes feasible, I plan to visit Alpha Centauri.
+prev_word: alowe
+next_word: altar
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

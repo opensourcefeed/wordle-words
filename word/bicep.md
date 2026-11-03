@@ -26,4 +26,15 @@ stats:
   starter_top_percent: 49
 neighbours:
 - bices
+prev_word: biccy
+next_word: bices
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

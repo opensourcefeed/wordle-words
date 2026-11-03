@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: One in a series of volumes.
   - text: A large or scholarly book.
+prev_word: tomen
+next_word: tomia
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

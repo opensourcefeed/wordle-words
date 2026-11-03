@@ -27,4 +27,15 @@ neighbours:
 - potae
 anagrams:
 - patio
+prev_word: potae
+next_word: potch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

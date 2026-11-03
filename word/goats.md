@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: To allow goats to feed on.
   - text: To scapegoat.
+prev_word: goary
+next_word: goaty
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

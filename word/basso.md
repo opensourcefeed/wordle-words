@@ -40,4 +40,15 @@ definitions:
   - text: A bass singer, especially in opera.
   - text: An instrumental part written for a bass instrument.
   - text: The double bass, or contrabasso.
+prev_word: bassi
+next_word: bassy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

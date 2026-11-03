@@ -57,4 +57,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having one or more holes.
+prev_word: holds
+next_word: holes
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

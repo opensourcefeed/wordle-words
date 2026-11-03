@@ -25,4 +25,15 @@ anagrams:
 - salon
 - loans
 - solan
+prev_word: slive
+next_word: slobs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

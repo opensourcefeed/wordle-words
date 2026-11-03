@@ -29,4 +29,15 @@ neighbours:
 - vatha
 anagrams:
 - arhat
+prev_word: rates
+next_word: rathe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

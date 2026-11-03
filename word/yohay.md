@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 75
 neighbours:
 - yohah
+prev_word: yohah
+next_word: yoick
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

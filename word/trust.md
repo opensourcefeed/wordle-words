@@ -83,4 +83,15 @@ definitions:
   - text: Secure, safe.
   - text: Faithful, dependable.
   - text: Of or relating to a trust.
+prev_word: truss
+next_word: truth
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

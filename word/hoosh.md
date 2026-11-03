@@ -23,4 +23,15 @@ stats:
 neighbours:
 - hooch
 - woosh
+prev_word: hoors
+next_word: hoots
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

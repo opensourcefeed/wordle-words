@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: "(thru-hiker slang) To persuade someone to give you food or other favors
       without actually begging."
+prev_word: yogin
+next_word: yohah
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

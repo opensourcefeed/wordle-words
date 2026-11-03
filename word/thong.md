@@ -35,4 +35,15 @@ definitions:
     example: No! I won't buy you a thong. You're too young for that.
   - text: The largest section of a bullwhip constructed of many straps of braided
       leather.
+prev_word: tholi
+next_word: thorn
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

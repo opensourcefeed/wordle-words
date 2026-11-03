@@ -24,4 +24,15 @@ neighbours:
 - tassa
 anagrams:
 - actas
+prev_word: tasar
+next_word: tased
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Characterized by a high level of activity or gossip; in a buzz, buzzing.
+prev_word: abuts
+next_word: abyes
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

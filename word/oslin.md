@@ -28,4 +28,15 @@ anagrams:
 - lions
 - loins
 - noils
+prev_word: oskin
+next_word: osmic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

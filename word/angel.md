@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To support by donating money.
+prev_word: angas
+next_word: anger
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

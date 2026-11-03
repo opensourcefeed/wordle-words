@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To put into, or provide with a haven.
+prev_word: havel
+next_word: haver
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

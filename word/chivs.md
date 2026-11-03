@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: CHI_S
   count: 8
+prev_word: chive
+next_word: chivy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

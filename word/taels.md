@@ -51,4 +51,15 @@ definitions:
   - text: Any of several monetary units equal to the equivalent weight in silver.
   - text: Leung, a traditional unit of weight, in modern usage legally defined as
       1/16 of a catty or kan (斤) or 0.0377993638 kilograms
+prev_word: tadah
+next_word: taffy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

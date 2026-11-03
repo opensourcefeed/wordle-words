@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ERMS
   count: 7
+prev_word: derma
+next_word: derns
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

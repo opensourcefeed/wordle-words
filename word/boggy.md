@@ -43,4 +43,15 @@ definitions:
       and rotting vegetation.
     example: The edge of the woods led out onto a noisome, boggy fen, a paradise for
       mosquitos and small frogs.
+prev_word: bogey
+next_word: bogie
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

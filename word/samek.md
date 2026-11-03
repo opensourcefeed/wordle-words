@@ -31,4 +31,15 @@ anagrams:
 - kasme
 - makes
 - meaks
+prev_word: samba
+next_word: samel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

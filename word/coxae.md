@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: The basal segment of a limb of various arthropods (insects and spiders,
       for example).
+prev_word: cowry
+next_word: coxal
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

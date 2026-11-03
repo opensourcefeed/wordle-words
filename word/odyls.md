@@ -26,4 +26,15 @@ neighbours:
 - odyle
 anagrams:
 - sloyd
+prev_word: odyle
+next_word: ofays
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/od/"
+  label: Starting with OD
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

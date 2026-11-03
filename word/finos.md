@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: The driest and palest type of traditional sherry.
+prev_word: finny
+next_word: fiord
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

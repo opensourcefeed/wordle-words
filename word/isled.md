@@ -36,4 +36,13 @@ anagrams:
 - sidle
 - sield
 - siled
+prev_word: ishes
+next_word: isles
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

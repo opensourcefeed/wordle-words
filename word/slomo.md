@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A technique of film, photography and video to stretch time and allow visibility
       of things normally happening too fast to be conveniently examined.
+prev_word: sloka
+next_word: sloom
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

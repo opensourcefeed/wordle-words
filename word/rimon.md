@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - minor
 - morin
+prev_word: rimes
+next_word: rimus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

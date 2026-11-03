@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tilak.
+prev_word: tigon
+next_word: tikes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

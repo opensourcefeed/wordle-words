@@ -33,4 +33,15 @@ neighbours:
 - aline
 - flane
 - slane
+prev_word: aland
+next_word: alang
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Very small.
+prev_word: eejit
+next_word: eerie
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

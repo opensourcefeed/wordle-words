@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 47
 anagrams:
 - ledgy
+prev_word: gybes
+next_word: gymps
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

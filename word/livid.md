@@ -35,4 +35,15 @@ definitions:
   - text: Having a dark, bluish appearance.
   - text: Pale, pallid.
   - text: So angry that one turns pale; very angry; furious.
+prev_word: lives
+next_word: livor
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

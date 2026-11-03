@@ -40,4 +40,15 @@ definitions:
   - text: To wear away by abrasion, corrosion or chemical reaction.
   - text: To destroy gradually by an ongoing process.
     example: to erode a person's trust
+prev_word: ernes
+next_word: erose
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -36,4 +36,15 @@ definitions:
       it; a swot.
   - text: One who wastes time on nonproductive activities online.
   - text: A container used to distribute a large amount of bait in a single cast.
+prev_word: spode
+next_word: spoil
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - dobra
 - doula
 - vobla
+prev_word: dobie
+next_word: doble
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

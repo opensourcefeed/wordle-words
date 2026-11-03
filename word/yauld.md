@@ -25,4 +25,15 @@ neighbours:
 - fauld
 - hauld
 - tauld
+prev_word: yauds
+next_word: yaups
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

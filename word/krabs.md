@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _RABS
   count: 6
+prev_word: kraal
+next_word: kraft
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

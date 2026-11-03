@@ -61,4 +61,15 @@ definitions:
   defs:
   - text: Relatively short or low, and thick or broad.
   - text: Sitting on the hams or heels; sitting close to the ground; cowering; crouching.
+prev_word: squad
+next_word: squee
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

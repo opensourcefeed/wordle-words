@@ -23,4 +23,15 @@ stats:
 neighbours:
 - purdy
 - purga
+prev_word: purau
+next_word: purdy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

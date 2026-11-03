@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of mutation forming part of a recon.
+prev_word: mutis
+next_word: mutti
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

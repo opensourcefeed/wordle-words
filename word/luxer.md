@@ -32,4 +32,15 @@ neighbours:
 - luxes
 anagrams:
 - lurex
+prev_word: luxed
+next_word: luxes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

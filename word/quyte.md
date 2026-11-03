@@ -26,4 +26,15 @@ neighbours:
 - quote
 - quate
 - quete
+prev_word: qursh
+next_word: raads
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

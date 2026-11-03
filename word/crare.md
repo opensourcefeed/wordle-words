@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CRA_E
   count: 8
+prev_word: crapy
+next_word: crash
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

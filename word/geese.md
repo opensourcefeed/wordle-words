@@ -45,4 +45,15 @@ definitions:
   - text: A young woman or girlfriend.
   - text: An old English board game in which players moved counters along a board,
       earning a double move when they reached the picture of a goose.
+prev_word: geeps
+next_word: geest
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

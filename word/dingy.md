@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Drab; shabby; dirty; squalid
+prev_word: dings
+next_word: dinic
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

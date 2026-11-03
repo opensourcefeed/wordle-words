@@ -51,4 +51,15 @@ definitions:
   - text: One who pikes (quits or backs out of a promise).
   - text: A male freshman at Cornell University.
   - text: A tramp; a vagrant.
+prev_word: pikel
+next_word: pikes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -163,4 +163,15 @@ definitions:
   - text: The study of computers and their architecture, languages, and applications,
       in all aspects, as well as the mathematical structures that relate to computers
       and computation.
+prev_word: compo
+next_word: compt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

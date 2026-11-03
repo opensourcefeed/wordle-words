@@ -20,4 +20,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 39
+prev_word: khazi
+next_word: kheer
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

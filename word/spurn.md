@@ -36,4 +36,15 @@ definitions:
   - text: To reject something by pushing it away with the foot.
   - text: To waste; fail to make the most of (an opportunity)
   - text: To kick or toss up the heels.
+prev_word: spunk
+next_word: spurs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

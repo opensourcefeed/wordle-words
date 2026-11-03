@@ -27,4 +27,15 @@ neighbours:
 - piker
 - pikes
 - pikul
+prev_word: piked
+next_word: piker
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

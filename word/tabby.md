@@ -54,4 +54,15 @@ definitions:
     example: a tabby waistcoat
   - text: Brindled; diversified in color
     example: a tabby cat.
+prev_word: tabac
+next_word: taber
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

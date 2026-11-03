@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Having a pattern or colors which resemble a Scottish tartan; checkered or
       marked with bars or stripes at right angles to one another.
+prev_word: plage
+next_word: plaig
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

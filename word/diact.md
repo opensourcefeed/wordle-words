@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 30
 anagrams:
 - dicta
+prev_word: dhuti
+next_word: dials
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

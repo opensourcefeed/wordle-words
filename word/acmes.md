@@ -39,4 +39,15 @@ definitions:
   - text: The top or highest point; pinnacle; culmination.
   - text: The crisis or height of a disease.
   - text: Mature age; full bloom of life.
+prev_word: acker
+next_word: acmic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

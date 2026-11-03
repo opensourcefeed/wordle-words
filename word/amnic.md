@@ -25,4 +25,15 @@ neighbours:
 - amnio
 anagrams:
 - manic
+prev_word: amnia
+next_word: amnio
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

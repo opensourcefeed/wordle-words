@@ -66,4 +66,15 @@ definitions:
   - text: To hunt for pearls
     example: to go pearling
   - text: To dig the nose of one's surfboard into the water, often on takeoff.
+prev_word: peare
+next_word: pears
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Lord! (especially as an expression of surprise)
+prev_word: lawin
+next_word: lawns
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

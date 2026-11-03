@@ -26,4 +26,15 @@ neighbours:
 - sakis
 anagrams:
 - sakai
+prev_word: sakes
+next_word: sakis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

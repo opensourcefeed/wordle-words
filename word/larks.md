@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To sport, engage in harmless pranking.
   - text: To frolic, engage in carefree adventure.
+prev_word: laris
+next_word: larky
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

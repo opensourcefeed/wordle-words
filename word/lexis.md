@@ -42,4 +42,15 @@ definitions:
   - text: The vocabulary used by a writer
     example: In this broadsheet newspaper, the reporter uses a complicated and formal
       lexis which I find hard to understand.
+prev_word: lexes
+next_word: lezzo
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

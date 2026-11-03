@@ -70,4 +70,15 @@ definitions:
 - pos: noun
   defs:
   - text: An ancient unit of quantity, 72 sheets of parchment.
+prev_word: roleo
+next_word: rolfs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

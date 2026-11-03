@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 38
 neighbours:
 - annex
+prev_word: admix
+next_word: adobe
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

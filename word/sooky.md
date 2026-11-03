@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOKY
   count: 10
+prev_word: sooks
+next_word: soole
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

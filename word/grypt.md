@@ -22,4 +22,15 @@ neighbours:
 - crypt
 - gript
 - grype
+prev_word: grype
+next_word: guaco
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

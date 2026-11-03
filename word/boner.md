@@ -48,4 +48,15 @@ definitions:
   - text: One who or that which bones (removes bones).
   - text: A blunder; a silly mistake.
     example: He really pulled a boner that time!
+prev_word: boned
+next_word: bones
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

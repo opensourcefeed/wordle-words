@@ -46,4 +46,15 @@ definitions:
   - text: The coarse, strong fiber of the East Indian plants, Corchorus olitorius
       and Corchorus capsularis, used to make mats, paper, gunny cloth etc.
   - text: The plants from which this fibre is obtained.
+prev_word: justs
+next_word: jutty
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

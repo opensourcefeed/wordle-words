@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Eastern Australia) A type of processed meat sausage."
+prev_word: devis
+next_word: devos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ANNY
   count: 8
+prev_word: ranns
+next_word: ranse
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -26,4 +26,15 @@ neighbours:
 - jiffs
 - meffs
 - teffs
+prev_word: jefes
+next_word: jehad
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

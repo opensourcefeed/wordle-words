@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: CA_KS
   count: 6
+prev_word: cauda
+next_word: cauld
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

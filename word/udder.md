@@ -37,4 +37,13 @@ definitions:
   - text: An organ formed of the mammary glands of female quadruped mammals, particularly
       ruminants such as cattle, goats, sheep and deer.
   - text: "(impolite) A woman's breast."
+prev_word: udals
+next_word: udons
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

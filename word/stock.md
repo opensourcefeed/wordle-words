@@ -87,4 +87,15 @@ definitions:
       non-racing public, or having been modified from such a car."
   - text: Straightforward, ordinary, just another, very basic.
     example: He gave me a stock answer
+prev_word: stobs
+next_word: stoep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

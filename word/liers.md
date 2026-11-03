@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _IERS
   count: 7
+prev_word: liens
+next_word: lieus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

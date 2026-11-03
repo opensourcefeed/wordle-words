@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: An abalone or sea-ear, particularly Haliotis tuberculata, common in the
       Channel Islands.
+prev_word: orlop
+next_word: ornee
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

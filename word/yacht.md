@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To sail, voyage, or race in a yacht.
+prev_word: yacca
+next_word: yacka
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

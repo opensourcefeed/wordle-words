@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A homeless person; a social derelict.
+prev_word: derpy
+next_word: derry
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

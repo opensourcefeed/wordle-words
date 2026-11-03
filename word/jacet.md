@@ -26,4 +26,15 @@ neighbours:
 - facet
 - lacet
 - tacet
+prev_word: jacal
+next_word: jacks
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

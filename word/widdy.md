@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _IDDY
   count: 7
+prev_word: wicky
+next_word: widen
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

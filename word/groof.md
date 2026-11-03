@@ -26,4 +26,13 @@ neighbours:
 - grouf
 anagrams:
 - forgo
+prev_word: grone
+next_word: groom
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

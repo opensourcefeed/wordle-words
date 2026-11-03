@@ -33,4 +33,13 @@ definitions:
 - pos: noun
   defs:
   - text: A pressure point in the traditions of shiatsu, acupressure, and acupuncture.
+prev_word: tsuba
+next_word: tuans
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

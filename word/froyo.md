@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: A frozen dessert made from yogurt or other dairy products, slightly tarter
       than ice cream and lower in fat.
+prev_word: frowy
+next_word: froze
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

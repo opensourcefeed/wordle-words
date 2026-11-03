@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A small lizard-like amphibian in the family Salamandridae that lives in
       the water as an adult.
+prev_word: newsy
+next_word: nexal
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - fatty
 - fitly
 - patly
+prev_word: fates
+next_word: fatso
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

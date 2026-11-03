@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: An iron support fitting used on the upper millstone of a grist mill.
+prev_word: rince
+next_word: rindy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

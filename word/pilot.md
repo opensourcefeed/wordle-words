@@ -71,4 +71,15 @@ definitions:
   - text: Being a vehicle to warn other road users of the presence of an oversize
       vehicle/combination.
     example: a pilot vehicle
+prev_word: pilon
+next_word: pilow
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

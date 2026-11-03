@@ -48,4 +48,15 @@ definitions:
     example: the germ of civil liberty
   - text: An equivalence class that includes a specified function defined in an open
       neighborhood.
+prev_word: gerle
+next_word: germy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

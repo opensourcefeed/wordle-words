@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - ingot
 - tigon
+prev_word: toils
+next_word: toise
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

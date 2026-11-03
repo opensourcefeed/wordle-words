@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: A class of Japanese rice wines made from polished rice and typically about
       20% alcohol by volume.
+prev_word: saker
+next_word: sakia
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

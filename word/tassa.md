@@ -26,4 +26,15 @@ neighbours:
 - tasca
 - tasse
 - tasso
+prev_word: tasks
+next_word: tasse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

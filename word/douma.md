@@ -28,4 +28,15 @@ neighbours:
 - doums
 - doura
 - louma
+prev_word: doula
+next_word: doums
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

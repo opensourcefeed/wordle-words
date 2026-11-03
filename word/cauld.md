@@ -30,4 +30,15 @@ neighbours:
 - yauld
 anagrams:
 - ducal
+prev_word: cauks
+next_word: caulk
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

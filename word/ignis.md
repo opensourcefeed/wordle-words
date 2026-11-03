@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 87
+prev_word: iglus
+next_word: ihram
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

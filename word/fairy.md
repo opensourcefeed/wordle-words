@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Like a fairy; fanciful, whimsical, delicate.
+prev_word: fairs
+next_word: faith
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -29,4 +29,15 @@ anagrams:
 - massa
 - msasa
 - samas
+prev_word: assai
+next_word: assay
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

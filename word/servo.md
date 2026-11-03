@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To control by means of a servocontrol
+prev_word: serve
+next_word: sesey
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/vo/"
+  label: Ending in VO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -43,4 +43,15 @@ definitions:
       edges.
     example: A few more miles of hot sand and gravel and red stone brought us around
       a low mesa to the Little Colorado River.
+prev_word: mesal
+next_word: mesca
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

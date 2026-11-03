@@ -43,4 +43,15 @@ definitions:
       than to crude-oil price increases.
   - text: Tending to lag, or respond slowly because of network latency.
     example: I've given up trying to play on that laggy server.
+prev_word: lager
+next_word: lahal
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

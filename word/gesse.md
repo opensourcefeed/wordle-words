@@ -29,4 +29,15 @@ neighbours:
 - geste
 - gosse
 - jesse
+prev_word: gerne
+next_word: gesso
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

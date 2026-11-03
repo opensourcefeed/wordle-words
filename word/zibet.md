@@ -22,4 +22,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 56
+prev_word: zhuzh
+next_word: ziffs
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

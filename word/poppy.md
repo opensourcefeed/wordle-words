@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: Of a bright red colour tinted with orange, like that of the common poppy
       flower (Papaver rhoeas).
+prev_word: poppa
+next_word: popsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

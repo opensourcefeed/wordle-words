@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A youth detention centre.
   - text: A minor.
+prev_word: juves
+next_word: kaama
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

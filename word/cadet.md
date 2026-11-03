@@ -42,4 +42,15 @@ definitions:
   - text: A young man who makes a business of ruining girls to put them in brothels.
   - text: A young gentleman learning sheep farming at a station; also, any young man
       attached to a sheep station.
+prev_word: cades
+next_word: cadge
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Especially large or powerful.
+prev_word: jumar
+next_word: jumby
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

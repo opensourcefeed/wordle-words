@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A rude, rustic man; a churl.
   - text: A stingy person; a niggard.
+prev_word: carle
+next_word: carne
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

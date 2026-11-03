@@ -24,4 +24,15 @@ stats:
 anagrams:
 - chiel
 - chile
+prev_word: elbow
+next_word: elder
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

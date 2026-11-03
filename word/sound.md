@@ -65,4 +65,15 @@ definitions:
 - pos: interjection
   defs:
   - text: Yes; used to show agreement or understanding, generally without much enthusiasm.
+prev_word: soums
+next_word: soups
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

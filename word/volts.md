@@ -49,4 +49,15 @@ definitions:
   - text: A circular tread; a gait by which a horse going sideways round a centre
       makes two concentric tracks.
   - text: A sudden movement to avoid a thrust.
+prev_word: volti
+next_word: volva
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

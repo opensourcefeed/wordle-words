@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pry (something, especially a lock) open with or as if with a crowbar.
+prev_word: jembe
+next_word: jenny
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

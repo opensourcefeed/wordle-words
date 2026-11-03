@@ -78,4 +78,15 @@ definitions:
   - text: To fit together, or make suitable for fitting together; specifically, to
       furnish with a tongue and groove at the edges.
     example: to match boards
+prev_word: matai
+next_word: mated
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: A dynamic climbing move or jump to reach a hold that cannot otherwise be
       reached.
   - text: A dynamometer.
+prev_word: dynes
+next_word: dzhos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

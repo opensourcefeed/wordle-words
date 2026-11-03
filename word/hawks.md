@@ -72,4 +72,15 @@ definitions:
   - text: To try to cough up something from one's throat; to clear the throat loudly.
     example: Grandpa sat on the front porch, hawking and wheezing, as he packed his
       pipe with cheap tobacco.
+prev_word: hawed
+next_word: hawms
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

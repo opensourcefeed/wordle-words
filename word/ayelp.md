@@ -21,4 +21,11 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 12
+prev_word: ayaya
+next_word: aygre
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

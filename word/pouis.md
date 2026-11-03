@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various trees in the genus Handroanthus.
+prev_word: poufy
+next_word: pouke
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

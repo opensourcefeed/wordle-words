@@ -76,4 +76,15 @@ definitions:
 - pos: noun
   defs:
   - text: Pokeweed
+prev_word: poker
+next_word: pokey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

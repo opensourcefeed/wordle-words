@@ -27,4 +27,15 @@ neighbours:
 - slily
 - smily
 - soily
+prev_word: shill
+next_word: shims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

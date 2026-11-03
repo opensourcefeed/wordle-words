@@ -39,4 +39,15 @@ definitions:
       6; nursery school.
   - text: The elementary school grade before first grade.
   - text: The two levels between nursery and prep; the second and third years of preschool.
+prev_word: kinds
+next_word: kines
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

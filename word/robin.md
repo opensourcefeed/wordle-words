@@ -38,4 +38,15 @@ definitions:
   - text: Any of various passerine birds (about 100 species) of the families Muscicapidae,
       Turdidae and Petroicidae (formerly Eopsaltriidae), typically with a red breast.
   - text: A trimming in front of a dress.
+prev_word: robes
+next_word: roble
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

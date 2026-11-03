@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To provide (a place) with a system of sewers.
+prev_word: sewen
+next_word: sewin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

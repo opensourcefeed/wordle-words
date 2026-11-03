@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A swampy depression in Middle Eastern countries.
+prev_word: khoja
+next_word: khoum
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

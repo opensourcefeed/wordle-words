@@ -37,4 +37,13 @@ definitions:
 - pos: noun
   defs:
   - text: A decree issued by a Muslim ruler.
+prev_word: ippon
+next_word: irate
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

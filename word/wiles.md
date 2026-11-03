@@ -52,4 +52,15 @@ definitions:
   - text: "(usually in the plural) A trick or stratagem practiced for ensnaring or
       deception; a sly, insidious artifice"
     example: He was seduced by her wiles.
+prev_word: wiled
+next_word: wilga
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

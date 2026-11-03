@@ -30,4 +30,15 @@ definitions:
   - text: Hit extremely hard.
     example: If you don’t cut that out, I’m going to whomp you so hard your head will
       spin!
+prev_word: whole
+next_word: whoof
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

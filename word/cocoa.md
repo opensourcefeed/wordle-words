@@ -44,4 +44,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a light to medium brown colour, like that of cocoa powder.
+prev_word: cocky
+next_word: cocos
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

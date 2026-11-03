@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 70
 anagrams:
 - phuts
+prev_word: pshaw
+next_word: psias
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

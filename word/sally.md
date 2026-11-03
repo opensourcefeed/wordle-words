@@ -47,4 +47,15 @@ definitions:
   - text: A willow
   - text: Any tree that looks like a willow
   - text: An object made from the above trees' wood
+prev_word: salle
+next_word: salmi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

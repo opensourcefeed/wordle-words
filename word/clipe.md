@@ -30,4 +30,15 @@ neighbours:
 - clype
 - cripe
 - slipe
+prev_word: clint
+next_word: clips
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

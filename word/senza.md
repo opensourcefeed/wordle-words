@@ -27,4 +27,15 @@ neighbours:
 - sensa
 anagrams:
 - nazes
+prev_word: senvy
+next_word: sepad
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

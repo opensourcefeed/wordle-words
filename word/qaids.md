@@ -38,4 +38,13 @@ anagrams:
 trap:
   pattern: _AIDS
   count: 10
+prev_word: qadis
+next_word: qajaq
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - kylix
 anagrams:
 - xylic
+prev_word: cyder
+next_word: cymae
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/ix/"
+  label: Ending in IX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

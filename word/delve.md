@@ -39,4 +39,15 @@ definitions:
   - text: To search thoroughly and carefully for information, research, dig into,
       penetrate, fathom, trace out
   - text: To dig, to excavate.
+prev_word: delts
+next_word: deman
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

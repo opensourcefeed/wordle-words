@@ -31,4 +31,15 @@ anagrams:
 - nokes
 - snoek
 - soken
+prev_word: snogs
+next_word: snood
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

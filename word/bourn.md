@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small stream or brook.
+prev_word: bourg
+next_word: bouse
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

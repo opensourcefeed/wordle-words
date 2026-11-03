@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A thief; a rascal or scoundrel.
+prev_word: gonia
+next_word: gonks
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

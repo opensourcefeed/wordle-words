@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ALED
   count: 8
+prev_word: galea
+next_word: gales
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

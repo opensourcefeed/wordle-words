@@ -54,4 +54,15 @@ definitions:
       or over a flame, preliminary to dyeing it.
   - text: To remove the hair or down from (a plucked chicken, etc.) by passing it
       over a flame.
+prev_word: sinew
+next_word: sings
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

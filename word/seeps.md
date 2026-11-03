@@ -56,4 +56,15 @@ definitions:
       their fishpond.
   - text: To diminish or wane away slowly.
     example: The resistance movement against the invaders had slowly  seeped away.
+prev_word: seems
+next_word: seepy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A bangle worn by Sikhs, one of the five Ks, to remind them to do God's work.
+prev_word: karai
+next_word: karat
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

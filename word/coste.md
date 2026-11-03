@@ -37,4 +37,15 @@ anagrams:
 - escot
 - estoc
 - scote
+prev_word: costa
+next_word: costs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

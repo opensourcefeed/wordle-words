@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - aryls
 - rayls
+prev_word: ruvid
+next_word: rybat
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ERES
   count: 11
+prev_word: gerbe
+next_word: gerle
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

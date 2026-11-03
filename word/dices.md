@@ -54,4 +54,15 @@ definitions:
   - text: To play dice.
   - text: To cut into small cubes.
   - text: To ornament with squares, diamonds, or cubes.
+prev_word: dicer
+next_word: dicey
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

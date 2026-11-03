@@ -25,4 +25,13 @@ stats:
 neighbours:
 - aquae
 - atuas
+prev_word: aquae
+next_word: araba
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

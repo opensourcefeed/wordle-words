@@ -28,4 +28,15 @@ neighbours:
 - apery
 anagrams:
 - ayrie
+prev_word: aidos
+next_word: aigas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

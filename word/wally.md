@@ -55,4 +55,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(Of eyes) unusually pale; misaligned, sideways-looking, affected by strabismus."
+prev_word: walls
+next_word: walty
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -30,4 +30,15 @@ neighbours:
 - domal
 - notal
 - rotal
+prev_word: dosha
+next_word: doted
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

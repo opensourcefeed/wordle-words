@@ -64,4 +64,15 @@ definitions:
   - text: To make oneself drunk.
   - text: "(especially with along, down, up etc.) To move at high speed."
     example: I was bombing down the road on my motorbike.
+prev_word: bombo
+next_word: bomoh
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

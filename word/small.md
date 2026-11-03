@@ -62,4 +62,15 @@ definitions:
   - text: In or into small pieces.
   - text: To a small extent.
   - text: In a low tone; softly.
+prev_word: smaik
+next_word: smalm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

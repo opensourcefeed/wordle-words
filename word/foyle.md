@@ -31,4 +31,15 @@ neighbours:
 - soyle
 anagrams:
 - foley
+prev_word: foyer
+next_word: foyne
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

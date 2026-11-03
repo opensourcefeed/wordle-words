@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: GOO_Y
   count: 11
+prev_word: gonzo
+next_word: goodo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

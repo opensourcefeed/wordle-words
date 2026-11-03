@@ -53,4 +53,15 @@ definitions:
   - text: The gangway from ship to shore when a ship is lying alongside a quay.
   - text: The hinged part of a landing craft or ferry which is lowered to form a landing
       platform; a ramp.
+prev_word: brown
+next_word: bruck
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

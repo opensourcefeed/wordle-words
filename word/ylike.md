@@ -28,4 +28,13 @@ neighbours:
 anagrams:
 - kiley
 - kylie
+prev_word: ylids
+next_word: ylkes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

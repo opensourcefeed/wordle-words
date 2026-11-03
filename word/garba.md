@@ -27,4 +27,15 @@ neighbours:
 - garbo
 - garbs
 - garda
+prev_word: garam
+next_word: garbe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

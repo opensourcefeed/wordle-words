@@ -21,4 +21,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 74
+prev_word: caphs
+next_word: caple
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

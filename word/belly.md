@@ -58,4 +58,15 @@ definitions:
   - text: To position one’s belly; to move on one’s belly.
   - text: To swell and become protuberant; to bulge or billow.
   - text: To cause to swell out; to fill.
+prev_word: bells
+next_word: belon
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

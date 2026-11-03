@@ -31,4 +31,13 @@ anagrams:
 - outre
 - rouet
 - ruote
+prev_word: uteri
+next_word: utile
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: In an apt or suitable manner; fitly; appropriately
     example: My friend, aptly nicknamed "Shorty"
+prev_word: apter
+next_word: aquae
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

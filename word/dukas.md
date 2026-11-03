@@ -26,4 +26,15 @@ neighbours:
 - dumas
 - duras
 - pukas
+prev_word: duits
+next_word: duked
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

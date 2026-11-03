@@ -36,4 +36,15 @@ definitions:
   - text: Bold and spirited, cheeky, impudent, saucy.
   - text: Somewhat sexy and provocative.
   - text: Lively, vigorous.
+prev_word: sasse
+next_word: satai
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

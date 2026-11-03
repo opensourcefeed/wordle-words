@@ -42,4 +42,15 @@ definitions:
   - text: In a bad manner.
   - text: Very much; to a great degree.
     example: I want it so badly.
+prev_word: badge
+next_word: baels
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

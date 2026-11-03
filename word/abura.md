@@ -34,4 +34,15 @@ definitions:
   - text: A medium-sized tropical African tree, Mitragyne macrophylla, from the family
       Loganiaceae.
   - text: The soft pale wood from the abura tree.
+prev_word: abune
+next_word: aburn
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

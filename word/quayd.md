@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 84
 neighbours:
 - quays
+prev_word: quaws
+next_word: quays
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

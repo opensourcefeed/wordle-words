@@ -33,4 +33,15 @@ anagrams:
 - duper
 - perdu
 - pured
+prev_word: urned
+next_word: ursae
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

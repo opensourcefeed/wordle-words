@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make glamorous or more glamorous.
+prev_word: glamp
+next_word: gland
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

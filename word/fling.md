@@ -48,4 +48,15 @@ definitions:
   - text: A lively Scottish country dance.
     example: the Highland fling
   - text: A trifling matter; an object of contempt.
+prev_word: flims
+next_word: flint
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

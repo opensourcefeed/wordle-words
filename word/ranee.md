@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: The wife of a rajah.
   - text: A Hindu princess or female ruler in India.
+prev_word: raned
+next_word: ranes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

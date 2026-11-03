@@ -25,4 +25,15 @@ neighbours:
 - boogy
 - podgy
 - wodgy
+prev_word: bodge
+next_word: bodhi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

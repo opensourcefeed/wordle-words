@@ -29,4 +29,15 @@ anagrams:
 - deash
 - hades
 - heads
+prev_word: sades
+next_word: sadhu
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

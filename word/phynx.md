@@ -17,4 +17,13 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 97
+prev_word: phyma
+next_word: physa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

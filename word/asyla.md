@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 61
 anagrams:
 - alays
+prev_word: aswim
+next_word: ataps
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

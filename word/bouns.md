@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - bonus
 - bosun
+prev_word: bound
+next_word: bourd
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

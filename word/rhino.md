@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rhinoceros.
+prev_word: rhine
+next_word: rhody
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

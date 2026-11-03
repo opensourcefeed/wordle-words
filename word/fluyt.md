@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 74
 anagrams:
 - fluty
+prev_word: fluty
+next_word: flyby
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

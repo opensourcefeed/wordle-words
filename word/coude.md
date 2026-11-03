@@ -27,4 +27,15 @@ neighbours:
 - coure
 anagrams:
 - douce
+prev_word: couch
+next_word: cough
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

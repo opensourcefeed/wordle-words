@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: BRE_S
   count: 7
+prev_word: breid
+next_word: breme
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

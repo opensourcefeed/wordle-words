@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _EALS
   count: 14
+prev_word: fazes
+next_word: feard
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -61,4 +61,15 @@ definitions:
   defs:
   - text: The region between the eyes and nostrils of birds, reptiles, and amphibians.
   - text: The anterior portion of the cheeks of insects.
+prev_word: lorel
+next_word: loric
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

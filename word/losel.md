@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Worthless; wasteful.
+prev_word: losed
+next_word: losen
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

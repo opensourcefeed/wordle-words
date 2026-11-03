@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(hawking) A leash for a hawk."
+prev_word: lunch
+next_word: lunet
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

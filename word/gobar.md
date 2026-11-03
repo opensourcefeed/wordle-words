@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: Dried cow dung used directly as fuel or as a source of gas.
+prev_word: goban
+next_word: gobbe
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

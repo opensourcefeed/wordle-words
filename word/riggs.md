@@ -28,4 +28,15 @@ neighbours:
 - rings
 anagrams:
 - grigs
+prev_word: rifty
+next_word: right
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

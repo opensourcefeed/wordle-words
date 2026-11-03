@@ -48,4 +48,15 @@ definitions:
     example: she caught him in the nude
   - text: A color that resembles or evokes bare flesh; a paint, dye, etc. of such
       color.
+prev_word: nuder
+next_word: nudge
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

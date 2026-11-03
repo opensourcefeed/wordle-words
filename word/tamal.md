@@ -27,4 +27,15 @@ neighbours:
 - tamas
 anagrams:
 - talma
+prev_word: talus
+next_word: tamas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

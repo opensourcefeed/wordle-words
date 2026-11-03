@@ -53,4 +53,15 @@ definitions:
   - text: To cause to turn; to bend.
   - text: To be the subject of a trend; to be currently popular, relevant or interesting.
     example: What topics have been trending on social networks this week?
+prev_word: trems
+next_word: tress
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

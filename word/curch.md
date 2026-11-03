@@ -23,4 +23,15 @@ neighbours:
 - lurch
 - culch
 - cutch
+prev_word: curbs
+next_word: curds
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

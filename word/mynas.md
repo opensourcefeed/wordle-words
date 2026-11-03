@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of the South and East Asian birds of the starling family Sturnidae.
+prev_word: mynah
+next_word: myoid
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

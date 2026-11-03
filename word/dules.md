@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ULES
   count: 8
+prev_word: dulce
+next_word: dulia
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

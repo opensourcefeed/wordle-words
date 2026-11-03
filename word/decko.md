@@ -26,4 +26,15 @@ neighbours:
 - dekko
 anagrams:
 - coked
+prev_word: decim
+next_word: decks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

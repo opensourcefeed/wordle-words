@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 37
+prev_word: pagri
+next_word: pahos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

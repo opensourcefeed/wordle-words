@@ -53,4 +53,15 @@ definitions:
   - text: To be concerned with.
   - text: To handle, to manage, to cope.
     example: I can't deal with this.
+prev_word: deals
+next_word: deans
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

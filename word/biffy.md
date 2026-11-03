@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A toilet
   - text: An outhouse
+prev_word: biffs
+next_word: bifid
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -69,4 +69,15 @@ definitions:
     example: Naked Bacon (a brand without nitrates or phosphates)
   - text: Of a singularity, not hidden within an event horizon and thus observable
       from other parts of spacetime.
+prev_word: nakas
+next_word: naker
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

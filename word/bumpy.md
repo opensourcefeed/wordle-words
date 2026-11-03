@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Rough; jumpy; causing or characterized by jolts and irregular movements
   - text: Covered with or full of bumps
+prev_word: bumps
+next_word: bunas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

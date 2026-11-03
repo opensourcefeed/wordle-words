@@ -24,4 +24,15 @@ neighbours:
 - pocan
 anagrams:
 - uncap
+prev_word: pubsy
+next_word: pucer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

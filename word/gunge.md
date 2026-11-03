@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: A kind of cultivation energy, more powerful than qi.
   - text: An advanced practice that cultivates such energy.
+prev_word: gundy
+next_word: gungy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -22,4 +22,13 @@ stats:
 neighbours:
 - shush
 - zhuzh
+prev_word: zhomo
+next_word: zhuzh
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

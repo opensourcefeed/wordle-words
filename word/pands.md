@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANDS
   count: 9
+prev_word: panda
+next_word: pandy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

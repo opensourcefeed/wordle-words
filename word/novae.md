@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any sudden brightening of a previously inconspicuous star.
+prev_word: noust
+next_word: novas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

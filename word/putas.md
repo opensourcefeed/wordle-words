@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: PU_AS
   count: 9
+prev_word: pussy
+next_word: puter
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -71,4 +71,15 @@ definitions:
   - text: To throw.
   - text: To lurch forward; especially, of a horse, to stumble after hitting the ground
       with the toe instead of the flat of the foot.
+prev_word: pecke
+next_word: pecky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

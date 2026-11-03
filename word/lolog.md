@@ -24,4 +24,15 @@ stats:
 neighbours:
 - colog
 - lolos
+prev_word: lolly
+next_word: lolos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

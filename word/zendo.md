@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - dozen
 - zoned
+prev_word: zeins
+next_word: zerda
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

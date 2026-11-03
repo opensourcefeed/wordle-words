@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 62
 anagrams:
 - kaput
+prev_word: upsey
+next_word: upter
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

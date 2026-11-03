@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - lolas
 - ollas
+prev_word: salmi
+next_word: salon
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

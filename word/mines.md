@@ -77,4 +77,15 @@ definitions:
   defs:
   - text: Variation of mine, formed through analogy based on the final -s of the other
       possessive pronouns (ours, yours, hers, theirs, his)
+prev_word: miner
+next_word: mingi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

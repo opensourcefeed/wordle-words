@@ -65,4 +65,15 @@ definitions:
 - pos: noun
   defs:
   - text: A two-player reaction game in which opponents slap each other's hands.
+prev_word: slant
+next_word: slart
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

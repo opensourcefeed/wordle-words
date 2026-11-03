@@ -43,4 +43,15 @@ definitions:
   - text: A sandwich, usually with a hot savoury filling in a breadcake. The most
       common are chips, bacon, sausage and egg.
     example: Let's have a bacon butty!
+prev_word: butts
+next_word: butut
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

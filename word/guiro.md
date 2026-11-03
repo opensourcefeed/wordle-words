@@ -38,4 +38,15 @@ definitions:
   - text: A musical instrument consisting of a gourd surrounded by a net of beads.
     example: The sekere may be twisted, shaken or slapped to produce a subtle variety
       of effects.
+prev_word: guimp
+next_word: guise
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

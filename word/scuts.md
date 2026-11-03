@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: Distasteful work; drudgery; specifically some menial procedure left for
       a doctor or medical student to complete, sometimes for training purposes.
+prev_word: scute
+next_word: scuzz
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

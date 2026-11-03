@@ -35,4 +35,15 @@ anagrams:
 - rages
 - sager
 - sarge
+prev_word: sefer
+next_word: segas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -70,4 +70,15 @@ definitions:
     example: Gold was valued highly among the Romans.
   - text: To hold dear.
     example: I value these old photographs.
+prev_word: valse
+next_word: valve
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

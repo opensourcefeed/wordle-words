@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - theft
+prev_word: thirl
+next_word: thole
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

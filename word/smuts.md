@@ -47,4 +47,15 @@ definitions:
       in grasses, including cereal crops; the disease so caused.
   - text: Bad, soft coal containing earthy matter, found in the immediate locality
       of faults.
+prev_word: smush
+next_word: snabs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

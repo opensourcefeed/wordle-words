@@ -55,4 +55,15 @@ definitions:
     example: Sometimes she coughed (up) blood.
   - text: To make a noise like a cough.
     example: The engine coughed and sputtered.
+prev_word: coude
+next_word: could
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 80
 neighbours:
 - azyme
+prev_word: azyme
+next_word: baaed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

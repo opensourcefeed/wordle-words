@@ -23,4 +23,15 @@ neighbours:
 - aback
 - abase
 - abash
+prev_word: abash
+next_word: abate
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

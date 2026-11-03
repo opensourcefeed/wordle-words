@@ -27,4 +27,13 @@ neighbours:
 - ovule
 anagrams:
 - velum
+prev_word: mvula
+next_word: mvuli
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

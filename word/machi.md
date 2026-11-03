@@ -27,4 +27,15 @@ neighbours:
 - michi
 - mochi
 - tachi
+prev_word: mache
+next_word: macho
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -24,4 +24,15 @@ stats:
 neighbours:
 - boxla
 - boyly
+prev_word: boygs
+next_word: boyly
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

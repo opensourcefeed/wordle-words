@@ -32,4 +32,15 @@ neighbours:
 - foxie
 - jolie
 - molie
+prev_word: folic
+next_word: folio
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

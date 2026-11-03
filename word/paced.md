@@ -47,4 +47,15 @@ definitions:
   - text: To walk back and forth in a small distance.
   - text: To set the speed in a race.
   - text: To measure by walking.
+prev_word: pacay
+next_word: pacer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

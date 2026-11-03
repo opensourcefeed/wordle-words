@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pith helmet.
+prev_word: toped
+next_word: topek
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

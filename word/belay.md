@@ -52,4 +52,15 @@ definitions:
   - text: To lay aside; stop; cancel.
     example: Belay that order!
   - text: The general command to stop or cease.
+prev_word: belar
+next_word: belch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

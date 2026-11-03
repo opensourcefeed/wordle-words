@@ -116,4 +116,15 @@ definitions:
 - pos: verb
   defs:
   - text: To behave as a rake; to lead a hedonistic and immoral life.
+prev_word: raker
+next_word: rakhi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

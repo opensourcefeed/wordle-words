@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Excited; thrilled
+prev_word: kiley
+next_word: kilim
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

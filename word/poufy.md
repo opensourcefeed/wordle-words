@@ -32,4 +32,15 @@ definitions:
   - text: Decorated with fabric, feathers or other material to create an impression
       of transparent volume and movement.
   - text: Effeminate.
+prev_word: poufs
+next_word: pouis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

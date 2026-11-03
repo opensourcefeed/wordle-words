@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: QUA_S
   count: 8
+prev_word: qorma
+next_word: quack
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

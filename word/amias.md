@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: AMI_S
   count: 6
+prev_word: ament
+next_word: amice
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

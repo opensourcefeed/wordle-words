@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Aspish; relating to an asp, a small venomous snake of Egypt.
+prev_word: asper
+next_word: aspie
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

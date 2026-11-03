@@ -28,4 +28,15 @@ neighbours:
 - simps
 - siris
 - sumis
+prev_word: simba
+next_word: simps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

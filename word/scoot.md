@@ -58,4 +58,15 @@ definitions:
       to make room for someone else (to sit, stand, etc.).
     example: Do you mind scooting a bit to the left?
   - text: To dispatch someone or something at speed.
+prev_word: scoop
+next_word: scopa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

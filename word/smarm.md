@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: To fawn, to be unctuous.
   - text: To address in a fawning and unctuous manner.
+prev_word: smalt
+next_word: smart
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

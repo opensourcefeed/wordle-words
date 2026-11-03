@@ -39,4 +39,15 @@ definitions:
   - text: To grind between the teeth.
     example: The dog was gnashing a carpet
   - text: To run away.
+prev_word: gnars
+next_word: gnats
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

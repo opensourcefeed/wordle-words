@@ -28,4 +28,15 @@ neighbours:
 - pined
 - pwned
 - pyned
+prev_word: pendu
+next_word: penes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

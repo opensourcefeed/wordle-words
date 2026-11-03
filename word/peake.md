@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: PEA_E
   count: 6
+prev_word: peags
+next_word: peaks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

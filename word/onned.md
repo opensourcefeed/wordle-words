@@ -27,4 +27,15 @@ neighbours:
 - owned
 anagrams:
 - donne
+prev_word: onmun
+next_word: onsen
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/on/"
+  label: Starting with ON
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 90
 neighbours:
 - pungi
+prev_word: punim
+next_word: punka
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

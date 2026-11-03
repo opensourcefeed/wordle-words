@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IPPY
   count: 11
+prev_word: gipon
+next_word: gipsy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

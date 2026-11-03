@@ -59,4 +59,15 @@ definitions:
   - text: A pickpocket.
   - text: A competitor in certain sports who is known to regularly imitate being fouled,
       with the purpose of getting his/her opponent penalised.
+prev_word: dived
+next_word: dives
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

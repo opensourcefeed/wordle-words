@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: To lie around; encompass.
   - text: "(of an army) To surround; beleaguer."
+prev_word: belga
+next_word: belit
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

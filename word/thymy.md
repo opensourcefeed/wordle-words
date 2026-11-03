@@ -24,4 +24,15 @@ neighbours:
 - thymi
 anagrams:
 - mythy
+prev_word: thymi
+next_word: tians
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

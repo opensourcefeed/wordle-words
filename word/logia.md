@@ -36,4 +36,15 @@ definitions:
       texts that was (originally) handed down without narrative context."
     example: The Q materials are often thought to have almost exclusively consisted
       of logia.
+prev_word: loggy
+next_word: logic
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

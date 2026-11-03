@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To travel en masse, to flock
+prev_word: horas
+next_word: horis
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

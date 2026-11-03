@@ -40,4 +40,15 @@ definitions:
     example: Many people in Texas and New Mexico live in adobe houses.
   - text: The earth from which such bricks are made.
   - text: A house made of adobe brick.
+prev_word: adnex
+next_word: adobo
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -27,4 +27,15 @@ neighbours:
 - solus
 - sorus
 - wojus
+prev_word: sojas
+next_word: sokah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

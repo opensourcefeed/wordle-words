@@ -78,4 +78,15 @@ definitions:
   defs:
   - text: To cleanse; clean out; put in order; empty; empty out
     example: Farm out the stable and pigsty.
+prev_word: farls
+next_word: faros
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: The sulphate of 4-methylaminophenol, used as a photographic developer
+prev_word: metis
+next_word: metre
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

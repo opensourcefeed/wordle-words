@@ -47,4 +47,15 @@ definitions:
   - text: To meet and give salutations.
   - text: To be perceived by (somebody).
     example: A brilliant dawn greeted her eyes as she looked out of the window.
+prev_word: grees
+next_word: grege
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -27,4 +27,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, or relating to humus.
+prev_word: humfs
+next_word: humid
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

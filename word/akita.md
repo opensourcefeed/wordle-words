@@ -26,4 +26,15 @@ neighbours:
 - agita
 anagrams:
 - kiaat
+prev_word: aking
+next_word: akkas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ak/"
+  label: Starting with AK
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - cleat
 - eclat
+prev_word: laces
+next_word: lacey
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

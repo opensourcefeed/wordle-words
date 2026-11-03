@@ -65,4 +65,15 @@ definitions:
   - text: To divide and distribute.
   - text: To tell to another.
     example: He shared his story with the press.
+prev_word: shard
+next_word: shark
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

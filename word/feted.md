@@ -37,4 +37,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Honoured; celebrated.
+prev_word: fetch
+next_word: fetes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

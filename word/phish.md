@@ -24,4 +24,15 @@ neighbours:
 - ptish
 - shish
 - whish
+prev_word: phies
+next_word: phizz
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

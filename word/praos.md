@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: PRA_S
   count: 8
+prev_word: prank
+next_word: praps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

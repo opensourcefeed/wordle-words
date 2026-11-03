@@ -38,4 +38,15 @@ definitions:
       yellow head and white petals
   - text: Many other flowering plants of various species.
   - text: A boot or other footwear.
+prev_word: dairy
+next_word: daker
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

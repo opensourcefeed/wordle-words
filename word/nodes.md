@@ -66,4 +66,15 @@ definitions:
       which marks the hour of the day, the parallels of the Sun's declination, his
       place in the ecliptic, etc.
   - text: The word of interest in a KWIC, surrounded by left and right cotexts.
+prev_word: noded
+next_word: nodum
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

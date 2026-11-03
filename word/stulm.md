@@ -22,4 +22,15 @@ stats:
 neighbours:
 - stull
 - stumm
+prev_word: stull
+next_word: stumm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/lm/"
+  label: Ending in LM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

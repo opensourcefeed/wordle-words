@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: A birder or birdwatcher.
+prev_word: birch
+next_word: birds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

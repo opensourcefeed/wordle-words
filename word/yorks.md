@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To vomit.
+prev_word: yorga
+next_word: yorps
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

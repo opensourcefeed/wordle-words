@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - maria
 - miraa
+prev_word: amain
+next_word: amaro
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

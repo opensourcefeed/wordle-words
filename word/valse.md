@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A waltz.
+prev_word: valor
+next_word: value
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

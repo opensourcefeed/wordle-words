@@ -38,4 +38,15 @@ definitions:
       for temporary use.
   - text: A toroidal cushion typically used by hemorrhoid patients.
   - text: An idiot.
+prev_word: donsy
+next_word: doobs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

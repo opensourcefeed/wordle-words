@@ -45,4 +45,15 @@ definitions:
   - text: Perceptual disturbance experienced by some migraine sufferers before a migraine
       headache.
   - text: Telltale sensation experienced by some people with epilepsy before a seizure.
+prev_word: aurar
+next_word: aurei
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Beyond what is customary or proper; extravagant.
   - text: Very unconventional.
+prev_word: outie
+next_word: outro
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

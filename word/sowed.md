@@ -48,4 +48,15 @@ definitions:
     example: As you sow, so shall you reap.
   - text: To spread abroad; to propagate.
   - text: To scatter over; to besprinkle.
+prev_word: sowce
+next_word: sower
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

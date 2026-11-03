@@ -40,4 +40,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a dull manner; without liveliness; without lustre.
+prev_word: dulls
+next_word: dulse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

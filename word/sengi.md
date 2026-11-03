@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - singe
 - segni
+prev_word: senex
+next_word: senna
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

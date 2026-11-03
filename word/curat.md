@@ -27,4 +27,15 @@ neighbours:
 - curst
 - jurat
 - surat
+prev_word: cupro
+next_word: curbs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

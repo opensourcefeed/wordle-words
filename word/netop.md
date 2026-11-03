@@ -21,4 +21,15 @@ stats:
   rare: []
   starter_tier: Average
   starter_top_percent: 16
+prev_word: netes
+next_word: netta
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

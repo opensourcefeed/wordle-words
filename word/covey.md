@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To brood; to incubate.
+prev_word: covet
+next_word: covin
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

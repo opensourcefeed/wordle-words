@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To pierce with, or as if with, a thorn
+prev_word: thong
+next_word: thoro
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

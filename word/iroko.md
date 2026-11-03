@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: A hardwood obtained from several African trees of the genus Chlorophora.
   - text: The tree itself.
+prev_word: irked
+next_word: irone
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A little; a small number.
   - text: A quantity; a goodly number.
+prev_word: wheel
+next_word: wheep
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

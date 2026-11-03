@@ -86,4 +86,15 @@ definitions:
   defs:
   - text: An instrument or condition for attaining a purpose.
     example: A car is a means of transport.
+prev_word: meane
+next_word: meant
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

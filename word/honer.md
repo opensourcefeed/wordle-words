@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ONER
   count: 8
+prev_word: honed
+next_word: hones
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

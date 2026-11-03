@@ -34,4 +34,15 @@ neighbours:
 - lurer
 anagrams:
 - recur
+prev_word: cured
+next_word: cures
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

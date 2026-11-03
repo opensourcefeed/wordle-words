@@ -33,4 +33,15 @@ definitions:
   - text: The horizontal distance between a batsman and the ball as it passes him.
   - text: The use of all the width of the pitch, from one side to the other.
     example: Manchester United like to play with width.
+prev_word: widow
+next_word: wield
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

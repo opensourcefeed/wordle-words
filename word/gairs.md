@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _AIRS
   count: 9
+prev_word: gains
+next_word: gaita
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

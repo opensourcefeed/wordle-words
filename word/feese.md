@@ -26,4 +26,15 @@ neighbours:
 - fesse
 - leese
 - neese
+prev_word: feers
+next_word: feeze
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: The plant Primula elatior, similar to cowslip but with larger, pale yellow
       flowers.
+prev_word: oxine
+next_word: oxman
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

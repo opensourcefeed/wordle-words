@@ -32,4 +32,15 @@ anagrams:
 - pedro
 - pored
 - roped
+prev_word: ornis
+next_word: orpin
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

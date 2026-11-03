@@ -22,4 +22,13 @@ neighbours:
 - payed
 anagrams:
 - spayd
+prev_word: payor
+next_word: peace
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

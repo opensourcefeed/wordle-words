@@ -51,4 +51,15 @@ definitions:
   - text: To react to something with uncontrollable desire.
     example: That boy is so attractive I drool whenever I see him!
   - text: To talk nonsense; drivel.
+prev_word: drook
+next_word: droop
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

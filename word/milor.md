@@ -26,4 +26,15 @@ neighbours:
 - minor
 - miler
 - milos
+prev_word: milly
+next_word: milos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

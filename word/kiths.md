@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Friends and acquaintances.
   - text: "(rural) An acquaintance or a friend."
+prev_word: kithe
+next_word: kitke
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

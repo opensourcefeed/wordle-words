@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - burro
 - robur
+prev_word: rubli
+next_word: rubus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

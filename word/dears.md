@@ -55,4 +55,15 @@ definitions:
   - text: An affectionate, familiar term of address, such as used between husband
       and wife.
     example: Pass me the salt, would you dear?
+prev_word: dearn
+next_word: deary
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

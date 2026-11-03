@@ -25,4 +25,15 @@ neighbours:
 - ahint
 anagrams:
 - handi
+prev_word: ahigh
+next_word: ahing
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

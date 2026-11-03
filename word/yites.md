@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ITES
   count: 12
+prev_word: yirth
+next_word: yitie
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -90,4 +90,15 @@ definitions:
   - text: An abnormal condition in journal bearings where the bearing seizes to the
       shaft that is rotating and rotates inside the journal, destroying both the shaft
       and the journal.
+prev_word: spink
+next_word: spiny
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

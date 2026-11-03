@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To cut or snip.
   - text: To hit (the ball) with the edge of the bat, causing a slight deflection.
+prev_word: snibs
+next_word: snide
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

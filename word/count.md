@@ -61,4 +61,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(grammar) Countable."
+prev_word: could
+next_word: coupe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

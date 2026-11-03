@@ -57,4 +57,15 @@ definitions:
       luxury, etc.
   - text: To cause to riot; to throw into a tumult.
   - text: To annoy.
+prev_word: rione
+next_word: rioty
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

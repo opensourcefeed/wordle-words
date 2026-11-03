@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: Clary sage (Salvia sclarea)
+prev_word: clart
+next_word: clash
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

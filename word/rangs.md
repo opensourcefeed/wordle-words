@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+prev_word: rangi
+next_word: rangy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

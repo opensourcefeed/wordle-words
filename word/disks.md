@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: A removable disk used for storing digital data, measuring between 2 and
       8 inches diagonally and storing between 80 KB and 240 MB.
+prev_word: dishy
+next_word: disme
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

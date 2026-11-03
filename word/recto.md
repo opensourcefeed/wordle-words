@@ -38,4 +38,15 @@ definitions:
   - text: The right-hand page of a book of a script which reads from left to right,
       usually having an odd page number.
   - text: A writ of right.
+prev_word: recti
+next_word: recue
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -37,4 +37,15 @@ definitions:
   - text: "(chiefly Sri Lanka) The koel (Eudynamys), a genus of cuckoos from Asia,
       Australia, and the Pacific with a distinctive loud call; specifically, the Asian
       koel (Eudynamys scolopaceus)."
+prev_word: kogal
+next_word: kohen
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

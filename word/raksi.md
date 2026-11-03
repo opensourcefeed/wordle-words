@@ -28,4 +28,15 @@ anagrams:
 - krais
 - raiks
 - rakis
+prev_word: rakki
+next_word: rakus
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/si/"
+  label: Ending in SI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

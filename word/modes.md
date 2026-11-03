@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: Style or fashion; popular trend.
     example: Her wardrobe is always in mode.
+prev_word: moder
+next_word: modge
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

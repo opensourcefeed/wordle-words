@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: The deltoid muscles.
+prev_word: delta
+next_word: delve
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

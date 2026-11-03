@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To operate a taser or electroshock stun gun, by using it against a subject
+prev_word: tasca
+next_word: taser
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

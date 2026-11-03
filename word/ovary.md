@@ -32,4 +32,15 @@ definitions:
       secretes the hormones estrogen and progesterone.
     example: The male testicles are homologous to the female ovaries.
   - text: The lower part of a pistil or carpel that bears ovules and ripens into fruit.
+prev_word: ovals
+next_word: ovate
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

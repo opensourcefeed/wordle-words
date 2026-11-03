@@ -50,4 +50,15 @@ definitions:
     example: Amusement relaxes the mind.
   - text: To relieve from constipation; to loosen; to open.
     example: An aperient relaxes the bowels.
+prev_word: rekey
+next_word: relay
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ax/"
+  label: Ending in AX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

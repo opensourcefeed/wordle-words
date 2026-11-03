@@ -36,4 +36,15 @@ definitions:
   - text: To be present or found.
     example: The chemical monofluoroacetate occurs in all parts of Dichapetalum cymosum,
       and is responsible for its toxic effects.
+prev_word: occam
+next_word: ocean
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

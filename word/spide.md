@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Northern Irish English) A chav."
+prev_word: spicy
+next_word: spied
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

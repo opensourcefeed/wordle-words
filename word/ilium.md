@@ -31,4 +31,15 @@ definitions:
   - text: The upper and widest of the three bones that make up each side of the hipbone
       and pelvis.
   - text: The ileum, part of the small intestine.
+prev_word: ilial
+next_word: iller
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

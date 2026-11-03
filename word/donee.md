@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Someone who receives a gift from a donor.
     example: John became the donee of the bone marrow donated by his brother.
+prev_word: donas
+next_word: doner
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

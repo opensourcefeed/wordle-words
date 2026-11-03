@@ -31,4 +31,15 @@ neighbours:
 - preve
 anagrams:
 - verge
+prev_word: grese
+next_word: grews
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

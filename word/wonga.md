@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Money.
     example: A whole wodge of wonga.
+prev_word: womyn
+next_word: wongi
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

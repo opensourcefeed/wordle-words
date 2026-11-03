@@ -18,4 +18,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 44
+prev_word: ensew
+next_word: ensue
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

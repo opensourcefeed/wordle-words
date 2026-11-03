@@ -23,4 +23,13 @@ definitions:
 - pos: noun
   defs:
   - text: A full-body wash taken by Muslims to restore the body to a state of purity.
+prev_word: ghoul
+next_word: ghyll
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

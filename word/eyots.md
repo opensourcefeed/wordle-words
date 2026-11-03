@@ -30,4 +30,13 @@ definitions:
 - pos: noun
   defs:
   - text: A little island, especially in a river or lake.
+prev_word: eying
+next_word: eyras
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

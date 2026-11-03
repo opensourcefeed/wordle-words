@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A temple or sacred place.
+prev_word: fands
+next_word: fanga
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

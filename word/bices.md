@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: BI_ES
   count: 9
+prev_word: bicep
+next_word: bicky
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

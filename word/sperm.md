@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: To ejaculate.
   - text: To ejaculate on or into.
+prev_word: speos
+next_word: spesh
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

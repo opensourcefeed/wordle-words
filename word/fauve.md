@@ -25,4 +25,15 @@ neighbours:
 - mauve
 - faute
 - sauve
+prev_word: fauts
+next_word: favas
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

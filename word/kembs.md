@@ -24,4 +24,15 @@ neighbours:
 - kemps
 - kerbs
 - wembs
+prev_word: kembo
+next_word: kemps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

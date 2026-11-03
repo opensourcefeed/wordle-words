@@ -26,4 +26,15 @@ neighbours:
 - preon
 anagrams:
 - phone
+prev_word: phene
+next_word: phese
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -26,4 +26,15 @@ neighbours:
 - livre
 anagrams:
 - viver
+prev_word: vivos
+next_word: vixen
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

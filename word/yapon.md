@@ -24,4 +24,15 @@ neighbours:
 - capon
 - yapok
 - yupon
+prev_word: yapok
+next_word: yapps
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

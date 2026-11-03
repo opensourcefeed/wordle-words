@@ -39,4 +39,15 @@ definitions:
       diatoms and dinoflagellates.
   - text: The calcareous wall of a corallite, the exoskeleton of a coral polyp.
   - text: A case for the corporal cloth used in the Eucharist.
+prev_word: thebe
+next_word: theed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

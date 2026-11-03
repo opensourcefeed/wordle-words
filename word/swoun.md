@@ -24,4 +24,15 @@ neighbours:
 - sworn
 - stoun
 - swoln
+prev_word: swots
+next_word: swung
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

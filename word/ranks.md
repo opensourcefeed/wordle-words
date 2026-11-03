@@ -79,4 +79,15 @@ definitions:
     example: Their defense ranked third in the league.
   - text: To assign a suitable place in a class or order; to classify.
   - text: To take rank of; to outrank.
+prev_word: ranke
+next_word: ranns
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,13 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 74
+prev_word: pause
+next_word: pavan
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

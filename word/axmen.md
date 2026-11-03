@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A man who wields an axe.
   - text: A musician who plays a guitar or saxophone.
+prev_word: axman
+next_word: axoid
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

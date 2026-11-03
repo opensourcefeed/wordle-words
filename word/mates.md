@@ -106,4 +106,15 @@ definitions:
       for its leaves.
   - text: A beverage, resembling tea, made from the dried leaves of this plant.
   - text: A cup of this drink.
+prev_word: mater
+next_word: matey
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

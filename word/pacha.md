@@ -34,4 +34,15 @@ definitions:
   - text: A high-ranking Turkish military officer, especially as a commander or regional
       governor; the highest honorary title during the Ottoman Empire.
   - text: The Indian butterfly Herona marathus, family Nymphalidae.
+prev_word: pacey
+next_word: packs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

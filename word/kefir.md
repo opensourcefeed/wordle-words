@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A fermented milk drink from the Caucasus and Eastern Europe, similar to
       yogurt but more liquidy.
+prev_word: keeve
+next_word: kehua
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

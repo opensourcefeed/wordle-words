@@ -74,4 +74,15 @@ definitions:
       be suitable (for a particular type of person or a particular purpose)."
     example: They have geared the hotel mainly at tourists.
   - text: To borrow money in order to invest it in assets.
+prev_word: geare
+next_word: geasa
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

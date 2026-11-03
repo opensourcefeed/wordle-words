@@ -32,4 +32,15 @@ neighbours:
 - yatra
 anagrams:
 - array
+prev_word: yarns
+next_word: yarrs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

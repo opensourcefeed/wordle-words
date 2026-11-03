@@ -36,4 +36,15 @@ definitions:
   - text: A kiwi fruit.
   - text: A green-yellow colour, like that of kiwi flesh (also called kiwi green).
   - text: A member of the air force who does not fly.
+prev_word: kivas
+next_word: klang
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

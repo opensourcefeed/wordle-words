@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: To make gathers in textiles by drawing together parallel threads.
   - text: To bake (a raw egg removed from its shell) in a baking dish.
+prev_word: shirk
+next_word: shirs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/rr/"
+  label: Ending in RR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

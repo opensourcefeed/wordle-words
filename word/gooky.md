@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: GOO_Y
   count: 11
+prev_word: googs
+next_word: goold
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

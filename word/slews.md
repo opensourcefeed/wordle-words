@@ -51,4 +51,15 @@ definitions:
     example: The single line was slewed onto the disused up formation to make way
       for the future redoubling.
   - text: To make a public mockery of someone through insult or wit.
+prev_word: slept
+next_word: sleys
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

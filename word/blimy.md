@@ -25,4 +25,15 @@ neighbours:
 - bliny
 anagrams:
 - limby
+prev_word: blimp
+next_word: blind
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

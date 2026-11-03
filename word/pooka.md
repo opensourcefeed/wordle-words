@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A fairy that supposedly appears in animal form, often large.
     example: The pooka had befriended the kindly old man.
+prev_word: pooja
+next_word: pooks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

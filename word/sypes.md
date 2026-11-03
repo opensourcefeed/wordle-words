@@ -32,4 +32,15 @@ neighbours:
 - syped
 - syphs
 - types
+prev_word: syped
+next_word: syphs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

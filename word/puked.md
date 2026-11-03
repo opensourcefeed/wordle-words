@@ -44,4 +44,15 @@ definitions:
   - text: To sell securities or investments at a loss, often under duress or pressure,
       in order to satisfy liquidity or margin requirements, or out of a desire to
       exit a deteriorating market.
+prev_word: pukas
+next_word: puker
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

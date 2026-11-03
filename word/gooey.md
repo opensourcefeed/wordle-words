@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Of or relating to goo
   - text: Soft, sticky and viscous
+prev_word: goody
+next_word: goofs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

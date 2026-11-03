@@ -24,4 +24,13 @@ stats:
 neighbours:
 - queyn
 - queys
+prev_word: queys
+next_word: quibs
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

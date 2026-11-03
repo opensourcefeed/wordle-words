@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A game of chance similar to bingo
   - text: A lottery
+prev_word: lotte
+next_word: lotus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

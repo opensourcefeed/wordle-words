@@ -32,4 +32,15 @@ neighbours:
 - rhone
 - rhyne
 - thine
+prev_word: rhime
+next_word: rhino
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/rh/"
+  label: Starting with RH
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

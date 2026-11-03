@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: The set that results from applying a group's binary operation with a given
       fixed element of the group on each element of a given subgroup.
+prev_word: coses
+next_word: cosey
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

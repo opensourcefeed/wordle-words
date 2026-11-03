@@ -47,4 +47,15 @@ definitions:
       as a soothing medicine for children; also known as dillseed.
   - text: A cucumber pickled with dill flavoring
   - text: A fool.
+prev_word: dilli
+next_word: dilly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
   - text: Ten million; 10,000,000. Often used with units of money.
     example: Following the ban, the government stands to lose ₹30 crore annually,
       sources said. (India Times, 2nd July 2003)
+prev_word: crops
+next_word: cross
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

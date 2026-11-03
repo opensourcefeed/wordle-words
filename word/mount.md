@@ -45,4 +45,15 @@ definitions:
   - text: A bulwark for offence or defence; a mound.
   - text: A bank; a fund.
   - text: A green hillock in the base of a shield.
+prev_word: mound
+next_word: moups
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

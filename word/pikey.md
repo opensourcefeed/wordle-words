@@ -42,4 +42,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Associated with or filled with pike (fish).
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

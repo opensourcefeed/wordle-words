@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: A kilometer.
   - text: "(usually in the plural) Kilometres per hour."
+prev_word: klieg
+next_word: klong
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kl/"
+  label: Starting with KL
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

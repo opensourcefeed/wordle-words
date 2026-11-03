@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To force into this prison or a similar system.
+prev_word: gulab
+next_word: gular
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

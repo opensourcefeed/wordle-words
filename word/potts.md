@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: PO_TS
   count: 8
+prev_word: potto
+next_word: potty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

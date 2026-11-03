@@ -39,4 +39,15 @@ definitions:
   - text: A prescribed number or percentage that may serve as, for example, a maximum,
       a minimum, or a goal.
   - text: A restriction on the import of something to a specific quantity.
+prev_word: quorl
+next_word: quote
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

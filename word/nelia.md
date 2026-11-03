@@ -32,4 +32,15 @@ anagrams:
 - anile
 - elain
 - liane
+prev_word: neive
+next_word: nelis
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OFFS
   count: 6
+prev_word: gofer
+next_word: gogga
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

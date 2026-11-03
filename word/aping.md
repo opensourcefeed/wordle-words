@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Foolish imitation or mimicry.
+prev_word: apian
+next_word: apiol
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

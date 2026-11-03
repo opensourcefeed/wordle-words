@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(professional usage) To attach a fuze to."
+prev_word: fuzee
+next_word: fuzil
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

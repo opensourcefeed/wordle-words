@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To suffer angst; to fret.
+prev_word: angry
+next_word: anigh
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

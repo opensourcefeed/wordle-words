@@ -51,4 +51,15 @@ definitions:
       shaped corona, especially Narcissus pseudonarcissus, the national flower of
       Wales.
   - text: A brilliant yellow color, like that of a daffodil.
+prev_word: dados
+next_word: daffy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _ESTS
   count: 15
+prev_word: lesos
+next_word: letch
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

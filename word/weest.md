@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To waste.
+prev_word: weepy
+next_word: weete
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

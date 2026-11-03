@@ -44,4 +44,15 @@ definitions:
   - text: Marked by unconventional sexual preferences or behavior, as fetishism, sadomasochism,
       and other sexual practices.
   - text: Queer; eccentric; crotchety.
+prev_word: kinks
+next_word: kinos
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

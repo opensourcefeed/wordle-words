@@ -53,4 +53,13 @@ definitions:
   - text: A small (typically thumb-sized) metal container of oil, often containing
       an integral brush.
   - text: An oilskin coat.
+prev_word: oiled
+next_word: oilet
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

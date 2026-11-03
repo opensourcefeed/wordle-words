@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - saist
 - satis
+prev_word: sissy
+next_word: sists
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

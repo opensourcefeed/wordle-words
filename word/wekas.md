@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: The woodhen, a flightless bird of New Zealand.
+prev_word: weize
+next_word: welch
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

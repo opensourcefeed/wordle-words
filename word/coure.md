@@ -30,4 +30,15 @@ neighbours:
 - courd
 - cours
 - loure
+prev_word: courd
+next_word: cours
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

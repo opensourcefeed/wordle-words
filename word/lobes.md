@@ -49,4 +49,15 @@ definitions:
   - text: A clear division of an organ that can be determined at the gross anatomy
       level, especially one of the parts of the brain, liver or lung.
   - text: A semicircular pattern left on the ice as the skater travels across it.
+prev_word: lobed
+next_word: lobos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

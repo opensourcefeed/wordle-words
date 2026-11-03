@@ -77,4 +77,15 @@ definitions:
   defs:
   - text: Forming a combination or nexus of.
     example: The concept of the movie was Fantastic Voyage meets The Devil Wears Prada.
+prev_word: meers
+next_word: meffs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

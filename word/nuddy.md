@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UDDY
   count: 9
+prev_word: nucin
+next_word: nuder
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -26,4 +26,15 @@ neighbours:
 - chiba
 anagrams:
 - beach
+prev_word: cheat
+next_word: check
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

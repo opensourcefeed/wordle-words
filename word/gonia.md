@@ -28,4 +28,15 @@ neighbours:
 - gonna
 anagrams:
 - ngaio
+prev_word: gongs
+next_word: gonif
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

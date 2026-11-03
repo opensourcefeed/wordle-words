@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: A lazy and slovenly person.
   - text: A lazy and obese person.
+prev_word: sloan
+next_word: sloes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

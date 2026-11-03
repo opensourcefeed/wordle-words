@@ -45,4 +45,15 @@ definitions:
       justice.
   - text: Hence, anything found, or without an owner; that which comes along, as it
       were, by chance.
+prev_word: waide
+next_word: waift
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

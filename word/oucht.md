@@ -28,4 +28,15 @@ anagrams:
 - touch
 - chout
 - couth
+prev_word: ouche
+next_word: oueds
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

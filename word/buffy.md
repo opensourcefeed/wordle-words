@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UFFY
   count: 6
+prev_word: buffs
+next_word: bufos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

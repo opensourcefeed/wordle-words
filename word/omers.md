@@ -45,4 +45,15 @@ definitions:
   - text: A former small Hebrew unit of dry volume equal to about 2.3 L or 2.1 quarts.
   - text: A vessel of one omer.
   - text: The sheaf of barley offered on the second day of Passover.
+prev_word: omens
+next_word: omiai
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Short for quantifiable.
   - text: Short for quantitative.
+prev_word: quank
+next_word: quare
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -29,4 +29,15 @@ neighbours:
 - quina
 anagrams:
 - quail
+prev_word: quiff
+next_word: quill
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

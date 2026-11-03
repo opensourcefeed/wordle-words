@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: feard
+next_word: fears
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

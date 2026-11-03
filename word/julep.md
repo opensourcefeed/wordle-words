@@ -30,4 +30,15 @@ definitions:
       alcohol.
   - text: A pleasant-tasting liquid medicine in which other nauseous medicines are
       taken.
+prev_word: jukus
+next_word: julia
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

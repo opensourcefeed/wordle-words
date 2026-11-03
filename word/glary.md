@@ -31,4 +31,15 @@ neighbours:
 - goary
 anagrams:
 - gyral
+prev_word: glare
+next_word: glass
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

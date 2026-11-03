@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: An enormous mythical bird in Eastern legend.
+prev_word: ruins
+next_word: ruled
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

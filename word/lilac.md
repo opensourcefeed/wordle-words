@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a pale purple colour.
+prev_word: likin
+next_word: lills
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _EELY
   count: 6
+prev_word: feels
+next_word: feens
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

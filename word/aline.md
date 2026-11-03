@@ -51,4 +51,15 @@ definitions:
   - text: To identify with or match the behaviour, thoughts, etc of another person.
   - text: To organize a linear arrangement of DNA, RNA or protein sequences which
       have regions of similarity.
+prev_word: alims
+next_word: alios
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

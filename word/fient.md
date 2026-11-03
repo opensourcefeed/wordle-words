@@ -27,4 +27,15 @@ neighbours:
 - sient
 anagrams:
 - feint
+prev_word: fiend
+next_word: fiere
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

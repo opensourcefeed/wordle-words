@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Property; possession
   - text: Duty; place; office
+prev_word: ouens
+next_word: ouija
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

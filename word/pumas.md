@@ -43,4 +43,15 @@ definitions:
   - text: The mountain lion or cougar, Puma concolor.
   - text: A woman in her 20s or 30s who seeks relationships with younger men; a younger
       cougar.
+prev_word: pulut
+next_word: pumie
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

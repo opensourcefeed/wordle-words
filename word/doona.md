@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A padded blanket.
+prev_word: doomy
+next_word: doorn
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

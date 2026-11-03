@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Greedy
   - text: Slovenly, dirty
+prev_word: piezo
+next_word: pight
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

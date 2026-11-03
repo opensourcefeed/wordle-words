@@ -23,4 +23,15 @@ neighbours:
 - whift
 - whips
 - whist
+prev_word: whips
+next_word: whirl
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

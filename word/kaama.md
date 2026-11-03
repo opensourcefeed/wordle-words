@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 100
 neighbours:
 - karma
+prev_word: juvie
+next_word: kabab
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To get off a bus.
+prev_word: debur
+next_word: debut
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -68,4 +68,15 @@ definitions:
   - text: 'Impertinent, bold: brazen.'
   - text: Bad, annoying; as wordplay applied especially to brass instruments.
   - text: Of inferior composition.
+prev_word: brash
+next_word: brast
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

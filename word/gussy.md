@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To dress up or decorate in a showy way
+prev_word: gusli
+next_word: gusto
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

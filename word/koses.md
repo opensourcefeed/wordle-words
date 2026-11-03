@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _OSES
   count: 11
+prev_word: korus
+next_word: kotch
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

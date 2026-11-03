@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pastry typically made and consumed in the Spanish Mediterranean coast.
+prev_word: cobza
+next_word: cocci
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

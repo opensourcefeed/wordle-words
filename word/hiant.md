@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - ahint
 - haint
+prev_word: heyed
+next_word: hibas
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

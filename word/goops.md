@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: "(usually uncountable) A thick, slimy substance; goo."
   - text: A silly, stupid, or boorish person.
+prev_word: goony
+next_word: goopy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

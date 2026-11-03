@@ -134,4 +134,15 @@ definitions:
   defs:
   - text: An agricultural tool resembling a scythe, used to cut (harvest) certain
       plants such as peas, reeds, or tares.
+prev_word: maker
+next_word: makie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

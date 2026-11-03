@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fool; an idiot; a lunkhead.
+prev_word: lungs
+next_word: lunts
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

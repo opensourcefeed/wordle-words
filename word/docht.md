@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - dicht
+prev_word: dobro
+next_word: docks
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

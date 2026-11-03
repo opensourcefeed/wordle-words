@@ -40,4 +40,15 @@ anagrams:
 - lears
 - rales
 - reals
+prev_word: serai
+next_word: sered
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

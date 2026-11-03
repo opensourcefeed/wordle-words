@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Unapt
+prev_word: inane
+next_word: inarm
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -27,4 +27,15 @@ neighbours:
 - naris
 anagrams:
 - cairn
+prev_word: nares
+next_word: naris
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

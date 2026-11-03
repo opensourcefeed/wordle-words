@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To appear in a cameo role.
+prev_word: camel
+next_word: cames
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

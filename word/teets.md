@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EETS
   count: 7
+prev_word: teeth
+next_word: teffs
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

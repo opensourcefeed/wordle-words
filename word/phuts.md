@@ -29,4 +29,15 @@ neighbours:
 - shuts
 anagrams:
 - pshut
+prev_word: phubs
+next_word: phutu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

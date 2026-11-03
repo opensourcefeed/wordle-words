@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A soft, chewy candy made from boiled molasses or brown sugar.
   - text: Flattery.
+prev_word: taels
+next_word: tafia
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

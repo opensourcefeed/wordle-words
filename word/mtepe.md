@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 75
+prev_word: msasa
+next_word: mucho
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

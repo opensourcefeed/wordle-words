@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of the South and East Asian birds of the starling family Sturnidae.
+prev_word: mylar
+next_word: mynas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

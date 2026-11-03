@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A polyester film.
+prev_word: myals
+next_word: mynah
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/my/"
+  label: Starting with MY
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

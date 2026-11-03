@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Any of several omnivorous mammals, of the genus Nasua or Nasuella, in order
       Carnivora, that live in the range from southern United States to northern Argentina.
+prev_word: coate
+next_word: coats
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

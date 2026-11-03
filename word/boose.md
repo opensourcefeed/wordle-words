@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _OOSE
   count: 7
+prev_word: boors
+next_word: boost
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

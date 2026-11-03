@@ -27,4 +27,15 @@ neighbours:
 - beisa
 anagrams:
 - erbia
+prev_word: beins
+next_word: beisa
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

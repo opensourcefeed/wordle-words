@@ -36,4 +36,15 @@ neighbours:
 anagrams:
 - dreed
 - reded
+prev_word: derby
+next_word: deres
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

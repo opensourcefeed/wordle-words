@@ -50,4 +50,15 @@ definitions:
   - text: To bear witness; to give testimony or full attestation.
   - text: To call as a witness.
   - text: To assert; to aver; to declare.
+prev_word: votes
+next_word: vouge
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

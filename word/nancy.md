@@ -36,4 +36,13 @@ definitions:
 - pos: noun
   defs:
   - text: An effeminate man, especially a homosexual.
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a dusty blue-green colour.
+prev_word: louts
+next_word: loved
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

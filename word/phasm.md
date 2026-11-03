@@ -25,4 +25,15 @@ neighbours:
 - plasm
 anagrams:
 - pashm
+prev_word: phase
+next_word: pheer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

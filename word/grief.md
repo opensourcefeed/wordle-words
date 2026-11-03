@@ -44,4 +44,13 @@ definitions:
   - text: To deliberately harass and annoy or cause grief to other players of a game
       in order to interfere with their enjoyment of it; especially, to do this as
       one’s primary activity in the game.
+prev_word: grids
+next_word: griff
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

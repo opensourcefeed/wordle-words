@@ -30,4 +30,15 @@ neighbours:
 - kurus
 - kutis
 - puris
+prev_word: kunds
+next_word: kurre
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

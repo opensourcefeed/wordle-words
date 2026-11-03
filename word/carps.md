@@ -52,4 +52,15 @@ definitions:
   - text: To complain about a fault; to harp on.
   - text: To say; to tell.
   - text: To find fault with; to censure.
+prev_word: carpi
+next_word: carrs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

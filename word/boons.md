@@ -49,4 +49,15 @@ definitions:
   - text: A good thing; a blessing or benefit; a thing to be thankful for.
     example: Anaesthetics are a great boon to modern surgery.
   - text: An unpaid service due by a tenant to his lord.
+prev_word: boomy
+next_word: boord
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

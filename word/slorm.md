@@ -23,4 +23,15 @@ stats:
 neighbours:
 - storm
 - sloom
+prev_word: slopy
+next_word: slosh
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

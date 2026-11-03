@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: An Asian wild dog, Cuon alpinus.
+prev_word: dhobi
+next_word: dholl
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

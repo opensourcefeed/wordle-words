@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - debit
 - bidet
+prev_word: beths
+next_word: beton
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

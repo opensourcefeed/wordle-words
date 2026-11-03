@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A very sugary, fluffy white cream derivative.
   - text: Cream
+prev_word: crema
+next_word: crems
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -26,4 +26,15 @@ neighbours:
 - rubes
 - rufus
 - rurus
+prev_word: rubor
+next_word: ruche
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

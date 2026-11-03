@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To goof, fumble, or err in the performance of an action.
+prev_word: flowy
+next_word: flued
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

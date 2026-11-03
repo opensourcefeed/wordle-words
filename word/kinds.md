@@ -54,4 +54,15 @@ definitions:
   - text: Equivalent means used as response to an action.
     example: I'll pay in kind for his insult.
   - text: Each of the two elements of the communion service, bread and wine.
+prev_word: kinda
+next_word: kindy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

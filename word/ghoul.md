@@ -34,4 +34,15 @@ definitions:
   - text: A graverobber.
   - text: A person with an undue interest in death and corpses, or more generally
       in things that are revolting and repulsive.
+prev_word: ghost
+next_word: ghusl
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

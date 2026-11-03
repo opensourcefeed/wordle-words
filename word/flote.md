@@ -30,4 +30,15 @@ neighbours:
 - flota
 - flyte
 - zlote
+prev_word: flota
+next_word: flour
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

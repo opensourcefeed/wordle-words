@@ -24,4 +24,15 @@ stats:
 neighbours:
 - gadid
 - marid
+prev_word: madge
+next_word: madly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

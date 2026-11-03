@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 72
 anagrams:
 - purdy
+prev_word: updos
+next_word: upend
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

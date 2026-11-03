@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: "(Asian English, of food or medicine) promoting heat; stimulating or energising
       the body (according to traditional Chinese medicine)."
+prev_word: heats
+next_word: heave
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

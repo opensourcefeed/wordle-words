@@ -127,4 +127,15 @@ definitions:
   - text: To transport by float (vehicular trailer).
   - text: To perform a float.
   - text: To cause (an element within a document) to float above or beside others.
+prev_word: flitt
+next_word: flobs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

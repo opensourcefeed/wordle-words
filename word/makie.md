@@ -30,4 +30,15 @@ neighbours:
 - mamie
 - manie
 - mavie
+prev_word: makes
+next_word: makis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

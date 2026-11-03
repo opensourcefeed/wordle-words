@@ -55,4 +55,15 @@ definitions:
   - text: To have sugar crystals form in or on.
     example: Fruits preserved in sugar candy after a time.
   - text: To be formed into candy; to solidify in a candylike form or mass.
+prev_word: cando
+next_word: caned
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

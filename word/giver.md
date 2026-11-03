@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who gives; a donor or contributor.
+prev_word: given
+next_word: gives
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

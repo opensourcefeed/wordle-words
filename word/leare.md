@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _EARE
   count: 9
+prev_word: leapt
+next_word: learn
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

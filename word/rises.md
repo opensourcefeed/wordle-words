@@ -58,4 +58,15 @@ definitions:
   - text: To come; to offer itself.
   - text: To be lifted, or capable of being lifted, from the imposing stone without
       dropping any of the type; said of a form.
+prev_word: riser
+next_word: rishi
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

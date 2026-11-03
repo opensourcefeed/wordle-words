@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To be an omen of.
   - text: To divine or predict from omens.
+prev_word: omega
+next_word: omers
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

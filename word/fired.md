@@ -80,4 +80,15 @@ definitions:
   defs:
   - text: Dismissed, let go from a job.
   - text: Heated in a furnace, kiln, etc., to become permanently hardened.
+prev_word: fique
+next_word: firer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

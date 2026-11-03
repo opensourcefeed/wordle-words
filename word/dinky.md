@@ -43,4 +43,15 @@ definitions:
   - text: Tiny and cute; small and attractive.
   - text: Tiny and insignificant; small and undesirable.
     example: They stayed in a dinky hotel room, but they had a great trip.
+prev_word: dinks
+next_word: dinlo
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

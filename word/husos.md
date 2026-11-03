@@ -24,4 +24,15 @@ stats:
 neighbours:
 - husks
 - musos
+prev_word: husky
+next_word: hussy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

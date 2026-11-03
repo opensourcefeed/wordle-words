@@ -53,4 +53,15 @@ definitions:
   - text: To incur risk of (something).
   - text: To incur risk of harming or jeopardizing.
   - text: To incur risk as a result of (doing something).
+prev_word: rishi
+next_word: risky
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

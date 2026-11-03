@@ -40,4 +40,15 @@ definitions:
   - text: Resembling plates.
   - text: Of a field semy of plates.
   - text: Composed of thin plate-like pieces of rock or mineral.
+prev_word: platt
+next_word: plaud
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

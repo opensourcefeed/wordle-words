@@ -55,4 +55,15 @@ definitions:
   - text: A rocky slope, especially the area over a river valley; specifically, the
       Rand
   - text: The currency of South Africa, divided into 100 cents.
+prev_word: rando
+next_word: randy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

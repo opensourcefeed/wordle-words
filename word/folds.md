@@ -93,4 +93,15 @@ definitions:
 - pos: verb
   defs:
   - text: To confine animals in a fold.
+prev_word: foist
+next_word: foley
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: QUA_S
   count: 8
+prev_word: quate
+next_word: quawk
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: Asshole, arsehole
+prev_word: ahold
+next_word: ahull
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ah/"
+  label: Starting with AH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -35,4 +35,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An exclamation of contempt, or of disgust, especially for a smell.
+prev_word: fauch
+next_word: fauld
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

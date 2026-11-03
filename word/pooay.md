@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: POO_Y
   count: 8
+prev_word: ponzu
+next_word: pooch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

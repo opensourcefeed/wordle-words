@@ -111,4 +111,15 @@ definitions:
   - text: To pass over, or traverse, with the eye or with an instrument of observation.
     example: to sweep the heavens with a telescope
   - text: "(including) to vacuum a carpet or rug"
+prev_word: sweel
+next_word: sweer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ep/"
+  label: Ending in EP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

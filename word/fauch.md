@@ -31,4 +31,15 @@ anagrams:
 trap:
   pattern: _AUCH
   count: 6
+prev_word: fatwa
+next_word: faugh
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

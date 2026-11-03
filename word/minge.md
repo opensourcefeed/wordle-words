@@ -44,4 +44,13 @@ definitions:
 - pos: noun
   defs:
   - text: The pubic hair and vulva.
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

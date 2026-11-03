@@ -25,4 +25,15 @@ neighbours:
 - lowth
 - rowth
 - sowth
+prev_word: fowls
+next_word: foxed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

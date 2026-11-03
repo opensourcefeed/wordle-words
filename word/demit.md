@@ -41,4 +41,15 @@ definitions:
   - text: To let fall; to depress; to yield.
   - text: To relinquish an office, membership, authority, etc.; to resign, as from
       a Masonic lodge.
+prev_word: demic
+next_word: demob
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

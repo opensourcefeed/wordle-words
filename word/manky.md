@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Unpleasantly dirty and disgusting.
+prev_word: manks
+next_word: manly
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

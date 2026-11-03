@@ -67,4 +67,15 @@ definitions:
   - text: "(provincial) To try, attempt, endeavor; to take aim at; to try to hit;
       to purpose."
   - text: To hint; suggest; insinuate.
+prev_word: minse
+next_word: minty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

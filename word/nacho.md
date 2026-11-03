@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A single tortilla chip from a dish of nachos.
+prev_word: nache
+next_word: nacre
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -25,4 +25,15 @@ neighbours:
 - gynie
 anagrams:
 - geyan
+prev_word: gymps
+next_word: gynie
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

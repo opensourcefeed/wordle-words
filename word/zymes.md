@@ -23,4 +23,13 @@ stats:
 neighbours:
 - cymes
 - lymes
+prev_word: zygon
+next_word: zymic
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

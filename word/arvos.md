@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Afternoon.
+prev_word: arvee
+next_word: aryls
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

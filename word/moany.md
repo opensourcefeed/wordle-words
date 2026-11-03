@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Susceptible to moaning; tending to complain.
+prev_word: moans
+next_word: moars
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

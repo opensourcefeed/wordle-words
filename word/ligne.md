@@ -27,4 +27,15 @@ neighbours:
 - ligge
 anagrams:
 - ingle
+prev_word: light
+next_word: liked
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -54,4 +54,15 @@ definitions:
       influence of some element or thing.
   - text: To change slightly in shade due to the addition of colour; (by extension)
       to change slightly in quality due to the addition of some other thing.
+prev_word: tines
+next_word: tings
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

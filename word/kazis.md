@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: KA_IS
   count: 6
+prev_word: kayos
+next_word: kazoo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

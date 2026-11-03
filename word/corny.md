@@ -47,4 +47,15 @@ definitions:
   - text: Producing corn or grain; furnished with grains of corn.
   - text: Containing corn; tasting well of malt.
   - text: Tipsy; drunk
+prev_word: cornu
+next_word: corps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

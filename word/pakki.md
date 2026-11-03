@@ -26,4 +26,15 @@ neighbours:
 - palki
 - parki
 - rakki
+prev_word: pakka
+next_word: pakua
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

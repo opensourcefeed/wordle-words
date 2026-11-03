@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To flog or beat with a knout.
+prev_word: knoud
+next_word: knowd
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

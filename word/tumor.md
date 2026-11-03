@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: An abnormal growth; differential diagnosis includes abscess, metaplasia,
       and neoplasia.
+prev_word: tummy
+next_word: tumps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

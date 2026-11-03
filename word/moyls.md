@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: MO_LS
   count: 6
+prev_word: moyle
+next_word: mozed
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

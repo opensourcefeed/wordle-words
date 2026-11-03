@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _OAST
   count: 6
+prev_word: hoary
+next_word: hobby
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

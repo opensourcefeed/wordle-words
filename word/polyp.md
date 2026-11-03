@@ -34,4 +34,13 @@ definitions:
   - text: An abnormal growth protruding from a mucous membrane
   - text: A cylindrical coelenterate, such as the hydra, having a mouth surrounded
       with tentacles
+prev_word: polts
+next_word: polys
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

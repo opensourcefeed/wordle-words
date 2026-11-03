@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Flint.
   - text: A finely ground relatively pure form of silicas used as a paint filler etc.
+prev_word: siles
+next_word: silks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

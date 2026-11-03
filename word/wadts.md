@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: WA_TS
   count: 7
+prev_word: wadis
+next_word: wafer
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

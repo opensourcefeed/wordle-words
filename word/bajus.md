@@ -28,4 +28,15 @@ neighbours:
 - bapus
 anagrams:
 - jubas
+prev_word: bajri
+next_word: baked
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _INCE
   count: 6
+prev_word: rimus
+next_word: rinds
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

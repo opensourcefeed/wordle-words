@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A sauce, especially for pasta, originating from the Genoa region in Italy,
       made from basil, garlic, pine nuts, olive oil and cheese (usually pecorino)
+prev_word: pesta
+next_word: pests
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

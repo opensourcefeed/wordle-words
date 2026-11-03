@@ -36,4 +36,15 @@ definitions:
   - text: Perceptual disturbance experienced by some migraine sufferers before a migraine
       headache.
   - text: Telltale sensation experienced by some people with epilepsy before a seizure.
+prev_word: aunty
+next_word: aural
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/au/"
+  label: Starting with AU
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -24,4 +24,15 @@ neighbours:
 - lochs
 - locky
 - mochy
+prev_word: lochs
+next_word: locie
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

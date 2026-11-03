@@ -37,4 +37,15 @@ definitions:
       them from the Pauli exclusion principle, and that hence obeys Bose-Einstein
       statistics. They have integer spin. Among them are many elementary particles,
       and some (gauge bosons) are known to carry the fundamental forces. Compare fermion.
+prev_word: bosom
+next_word: bossa
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

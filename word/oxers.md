@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of horse jump with two rails that may be set even or uneven.
+prev_word: oxeas
+next_word: oxeye
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

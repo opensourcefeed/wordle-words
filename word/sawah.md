@@ -23,4 +23,15 @@ neighbours:
 - dawah
 anagrams:
 - awash
+prev_word: savvy
+next_word: sawed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

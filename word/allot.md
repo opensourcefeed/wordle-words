@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To distribute or apportion by (or as if by) lot.
   - text: To assign or designate as a task or for a purpose.
+prev_word: allod
+next_word: allow
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

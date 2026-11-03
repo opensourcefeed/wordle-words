@@ -45,4 +45,15 @@ definitions:
   - text: The ground; the earth; a spot of earth or turf.
   - text: A stupid person; a dolt.
   - text: Part of a shoulder of beef, or of the neck piece near the shoulder.
+prev_word: clock
+next_word: cloff
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

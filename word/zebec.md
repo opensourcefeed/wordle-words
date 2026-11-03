@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: A small two-masted, and later three-masted, Mediterranean transport ship
       with an overhanging bow and stern.
+prev_word: zeals
+next_word: zebra
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/ze/"
+  label: Starting with ZE
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

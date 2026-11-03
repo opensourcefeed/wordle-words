@@ -28,4 +28,15 @@ neighbours:
 - combo
 - gombo
 - tombo
+prev_word: bombe
+next_word: bombs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

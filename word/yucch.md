@@ -21,4 +21,15 @@ stats:
 neighbours:
 - yecch
 - yucca
+prev_word: yucca
+next_word: yucko
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

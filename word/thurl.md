@@ -23,4 +23,15 @@ stats:
 neighbours:
 - churl
 - thirl
+prev_word: thunk
+next_word: thuya
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

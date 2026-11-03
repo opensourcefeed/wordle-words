@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: A hypothetical subatomic particle postulated to resolve certain symmetry
       problems concerning the strong nuclear force.
+prev_word: axiom
+next_word: axite
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

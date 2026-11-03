@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OWLS
   count: 10
+prev_word: gowks
+next_word: gowns
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

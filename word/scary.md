@@ -44,4 +44,15 @@ definitions:
   - text: Uncannily striking or surprising.
     example: Linda changed her hair, and it’s scary how much she looks like her mother.
   - text: Subject to sudden alarm; easily frightened.
+prev_word: scart
+next_word: scath
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

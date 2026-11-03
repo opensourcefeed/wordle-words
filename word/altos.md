@@ -48,4 +48,15 @@ definitions:
       the part that performed a countermelody above the tenor or main melody.
   - text: A person or musical instrument that performs the alto part.
   - text: An alto saxophone
+prev_word: altho
+next_word: alula
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

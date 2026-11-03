@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Of or pertaining to punk (touchwood) - soft or rotted.
   - text: Of or pertaining to the punk subculture.
+prev_word: punks
+next_word: punny
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

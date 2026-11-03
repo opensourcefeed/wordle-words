@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ARIS
   count: 7
+prev_word: zarfs
+next_word: zatis
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

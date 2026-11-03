@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: In a mad manner; without reason or understanding; wildly.
     example: I'm madly in love with you.
+prev_word: madid
+next_word: mados
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

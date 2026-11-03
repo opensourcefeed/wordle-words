@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: DO_IE
   count: 6
+prev_word: doxes
+next_word: doyen
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

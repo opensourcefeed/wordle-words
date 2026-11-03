@@ -22,4 +22,15 @@ neighbours:
 - hynde
 - kynds
 - tynde
+prev_word: kyloe
+next_word: kynds
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Very wet; sodden, soaked.
   - text: Sentimental, maudlin, schmaltzy.
+prev_word: sopor
+next_word: sopra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

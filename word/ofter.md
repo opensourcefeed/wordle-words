@@ -37,4 +37,13 @@ anagrams:
 trap:
   pattern: O_TER
   count: 6
+prev_word: often
+next_word: ofuro
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

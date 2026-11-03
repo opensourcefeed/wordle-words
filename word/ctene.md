@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 52
+prev_word: crypt
+next_word: cubby
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

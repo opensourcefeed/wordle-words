@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _ONNE
   count: 6
+prev_word: conky
+next_word: conns
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

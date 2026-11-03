@@ -81,4 +81,15 @@ definitions:
     example: to board a house
   - text: To hit (someone) with a wooden board.
   - text: To write something on a board, especially a blackboard or whiteboard.
+prev_word: boaks
+next_word: boars
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

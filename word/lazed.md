@@ -47,4 +47,15 @@ definitions:
   - text: To be lazy, waste time.
   - text: To pass time relaxing; to relax, lounge.
     example: The cat spent the afternoon lazing in the sun.
+prev_word: lazar
+next_word: lazes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

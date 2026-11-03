@@ -27,4 +27,15 @@ neighbours:
 - reame
 - reams
 - seamy
+prev_word: reams
+next_word: reans
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

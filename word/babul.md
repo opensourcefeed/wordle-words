@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A tree native to South Asia, Vachellia nilotica subsp. indica, formerly
       Acacia nilotica subsp. indica.
+prev_word: baboo
+next_word: babus
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

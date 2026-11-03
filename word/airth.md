@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _IRTH
   count: 7
+prev_word: airns
+next_word: airts
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

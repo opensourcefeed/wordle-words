@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A stenographer, someone whose job is to take dictation in shorthand
   - text: Stenography
+prev_word: stend
+next_word: stens
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -29,4 +29,15 @@ neighbours:
 - halse
 - hanse
 - hawse
+prev_word: haunt
+next_word: haute
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

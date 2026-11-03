@@ -29,4 +29,15 @@ neighbours:
 - chums
 - phuts
 - shuts
+prev_word: chute
+next_word: chyle
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

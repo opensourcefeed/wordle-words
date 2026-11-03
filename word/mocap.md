@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: Motion capture.
+prev_word: mobos
+next_word: mocha
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ap/"
+  label: Ending in AP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

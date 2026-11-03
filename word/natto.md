@@ -29,4 +29,15 @@ neighbours:
 - nitto
 anagrams:
 - tanto
+prev_word: natis
+next_word: natty
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - papaw
 - pawas
+prev_word: pawas
+next_word: pawed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

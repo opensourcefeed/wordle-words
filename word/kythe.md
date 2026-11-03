@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: _YTHE
   count: 7
+prev_word: kytes
+next_word: kyudo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -25,4 +25,13 @@ neighbours:
 - aglus
 anagrams:
 - gusli
+prev_word: igloo
+next_word: ignis
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

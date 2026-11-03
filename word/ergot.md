@@ -38,4 +38,15 @@ definitions:
   - text: The sclerotium (wintering stage) of certain fungi in the genus Claviceps,
       appearing as a deformed grain in certain cereals and grasses infected by the
       fungi.
+prev_word: ergos
+next_word: erhus
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

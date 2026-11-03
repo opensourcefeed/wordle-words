@@ -47,4 +47,15 @@ definitions:
   - text: An elementary particle that has a spin of 1/2 (i.e., is a fermion) and does
       not interact via the strong nuclear force; examples include the electron, the
       muon, the neutrino and the tauon.
+prev_word: lepra
+next_word: lered
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

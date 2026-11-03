@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: SPA_E
   count: 7
+prev_word: spams
+next_word: spang
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 39
 neighbours:
 - preon
+prev_word: preon
+next_word: preps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

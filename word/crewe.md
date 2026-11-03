@@ -25,4 +25,13 @@ neighbours:
 - crepe
 - crews
 - krewe
+prev_word: crest
+next_word: crews
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ definitions:
       removed and pinned up on a wall.
   - text: The person so depicted.
   - text: Figurehead, person who represents an idea, cause etc.
+prev_word: pints
+next_word: pions
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

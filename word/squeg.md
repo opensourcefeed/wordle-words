@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 70
 neighbours:
 - squee
+prev_word: squee
+next_word: squib
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sq/"
+  label: Starting with SQ
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -61,4 +61,15 @@ definitions:
   - text: To place (two ropes) alongside each other so that they may be grasped and
       hauled on at the same time.
   - text: To join (two ropes) end to end so that both will pass through a block.
+prev_word: marri
+next_word: marse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

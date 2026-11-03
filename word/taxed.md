@@ -54,4 +54,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Subject to taxation.
+prev_word: tawts
+next_word: taxer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

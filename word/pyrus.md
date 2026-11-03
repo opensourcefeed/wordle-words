@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - syrup
 - pursy
+prev_word: pyros
+next_word: pyuff
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

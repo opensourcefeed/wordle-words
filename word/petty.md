@@ -52,4 +52,15 @@ definitions:
   - text: Begrudging in nature, especially over insignificant matters.
     example: That corporation is only slightly pettier than they are greedy, and they
       are overdue to reap the consequences.
+prev_word: petto
+next_word: pewed
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

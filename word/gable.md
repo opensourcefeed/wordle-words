@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: The triangular area at the peak of an external wall adjacent to, and terminating,
       two sloped roof surfaces (pitches).
+prev_word: gabby
+next_word: gaddi
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

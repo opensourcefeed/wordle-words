@@ -54,4 +54,15 @@ definitions:
   - text: To put into a fever; to affect with fever.
     example: a fevered lip
   - text: To become fevered.
+prev_word: feued
+next_word: fewer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

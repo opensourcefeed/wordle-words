@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Minuscule.
+prev_word: weens
+next_word: weeps
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

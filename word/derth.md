@@ -24,4 +24,15 @@ neighbours:
 - berth
 - death
 - depth
+prev_word: derry
+next_word: dervs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

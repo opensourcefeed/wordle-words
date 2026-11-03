@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To remove or destroy the ovaries (of an animal) so that it cannot become
       pregnant.
+prev_word: spayd
+next_word: spaza
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

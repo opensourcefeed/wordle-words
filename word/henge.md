@@ -34,4 +34,15 @@ definitions:
   - text: A prehistoric enclosure in the form of a circle or circular arc defined
       by a raised circular bank and a circular ditch usually running inside the bank,
       with one or more entrances leading into the enclosed open space.
+prev_word: hends
+next_word: henna
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

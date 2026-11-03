@@ -57,4 +57,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a case or covering; encased or clad.
+prev_word: casco
+next_word: caser
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

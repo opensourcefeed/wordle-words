@@ -29,4 +29,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Special
+prev_word: sperm
+next_word: spets
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

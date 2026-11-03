@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _EEDS
   count: 9
+prev_word: yedes
+next_word: yeeek
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

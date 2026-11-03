@@ -44,4 +44,15 @@ definitions:
       l, L, ℓ'
     example: You should be able to fill four cups with one litre of water.
   - text: A measure of volume equivalent to a litre.
+prev_word: litie
+next_word: lived
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

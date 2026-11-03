@@ -28,4 +28,15 @@ neighbours:
 - morah
 - toran
 - toras
+prev_word: toque
+next_word: toran
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _UFFS
   count: 13
+prev_word: fuero
+next_word: fuffy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

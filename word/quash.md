@@ -36,4 +36,15 @@ definitions:
     example: The army quashed the rebellion.
   - text: To crush or dash to pieces.
   - text: To void or suppress (a subpoena, decision, etc.).
+prev_word: quart
+next_word: quasi
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

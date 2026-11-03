@@ -30,4 +30,15 @@ anagrams:
 - frita
 - iftar
 - trifa
+prev_word: frate
+next_word: frats
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

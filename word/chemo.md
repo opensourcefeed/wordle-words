@@ -32,4 +32,15 @@ definitions:
       state.
   - text: "(most common usage) chemical treatment to kill or halt the replication
       and/or spread of cancerous cells in a patient."
+prev_word: chelp
+next_word: chems
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

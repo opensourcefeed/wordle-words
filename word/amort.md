@@ -29,4 +29,15 @@ neighbours:
 - aport
 anagrams:
 - morat
+prev_word: amore
+next_word: amour
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

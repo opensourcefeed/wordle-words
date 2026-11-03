@@ -24,4 +24,13 @@ definitions:
 - pos: noun
   defs:
   - text: A type of curry, in which the spices are cooked in oil with no water.
+prev_word: bhoot
+next_word: bhuts
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

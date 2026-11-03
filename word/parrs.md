@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: PAR_S
   count: 10
+prev_word: parra
+next_word: parry
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

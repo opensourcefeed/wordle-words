@@ -28,4 +28,15 @@ neighbours:
 - soupy
 anagrams:
 - lousy
+prev_word: souls
+next_word: soums
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -73,4 +73,15 @@ definitions:
   - text: To be dizzy or vertiginous; have a giddy sensation; to have, or appear to
       have, a whirling motion.
     example: My head was swimming after drinking two bottles of cheap wine.
+prev_word: swill
+next_word: swine
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

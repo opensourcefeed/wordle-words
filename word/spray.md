@@ -63,4 +63,15 @@ definitions:
       same byte sequence, hoping to establish that sequence in a certain predetermined
       location as part of an exploit.
     example: to spray the heap of a target process
+prev_word: sprat
+next_word: spred
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

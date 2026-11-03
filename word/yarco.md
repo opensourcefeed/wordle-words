@@ -26,4 +26,15 @@ neighbours:
 - yarto
 anagrams:
 - oracy
+prev_word: yarak
+next_word: yards
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To trail; to draggle.
+prev_word: drags
+next_word: drain
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

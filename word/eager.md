@@ -60,4 +60,15 @@ definitions:
   - text: Not employing lazy evaluation; calculating results immediately, rather than
       deferring calculation until they are required.
     example: an eager algorithm
+prev_word: dzhos
+next_word: eagle
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

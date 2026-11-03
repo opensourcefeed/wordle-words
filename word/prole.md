@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A member of the proletariat; a proletarian
   - text: A pleb (ordinary person).
+prev_word: proke
+next_word: proll
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

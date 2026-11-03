@@ -51,4 +51,15 @@ definitions:
   - text: "(of a raven) To croak."
   - text: To pluck and quickly release (a musical string).
   - text: To be a truant from (school).
+prev_word: plung
+next_word: pluot
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

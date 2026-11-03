@@ -27,4 +27,15 @@ neighbours:
 - sizer
 - sizes
 - zizel
+prev_word: sized
+next_word: sizer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

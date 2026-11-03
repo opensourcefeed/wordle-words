@@ -44,4 +44,15 @@ definitions:
       maximum relative combat power at a decisive place and time.
   - text: In an intelligence context, application of intelligence sources and methods
       in concert with the operation plan.
+prev_word: synch
+next_word: synds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

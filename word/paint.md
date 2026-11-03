@@ -74,4 +74,15 @@ definitions:
   - text: To color one's face by way of beautifying it.
   - text: To direct a radar beam toward.
     example: '"We''ll paint the target for the flyboys," the JTAC said.'
+prev_word: pains
+next_word: paipe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

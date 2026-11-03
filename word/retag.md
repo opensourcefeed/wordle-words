@@ -32,4 +32,15 @@ anagrams:
 - gater
 - targe
 - terga
+prev_word: resus
+next_word: retam
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

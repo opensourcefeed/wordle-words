@@ -39,4 +39,15 @@ definitions:
   - text: Echolocation
   - text: A device that uses hydrophones (in the same manner as radar) to locate objects
       underwater.
+prev_word: somas
+next_word: sonce
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

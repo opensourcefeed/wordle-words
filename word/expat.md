@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: An expatriate; a person who lives outside their own country.
+prev_word: exons
+next_word: expel
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

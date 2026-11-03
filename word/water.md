@@ -72,4 +72,15 @@ definitions:
     example: a diamond of the first water is perfectly pure and transparent
   - text: A wavy, lustrous pattern or decoration such as is imparted to linen, silk,
       metals, etc.
+prev_word: watch
+next_word: watts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To act like a bogan.
+prev_word: boffs
+next_word: bogey
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

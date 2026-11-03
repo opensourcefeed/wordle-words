@@ -48,4 +48,15 @@ definitions:
     example: He's a dodgy Peeping Tom.
   - text: Uncomfortable and weird
     example: I'm feeling dodgy today, probably got the flu.
+prev_word: dodge
+next_word: dodos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

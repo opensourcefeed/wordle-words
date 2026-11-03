@@ -25,4 +25,15 @@ neighbours:
 - buran
 - furan
 - quean
+prev_word: quoys
+next_word: qursh
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

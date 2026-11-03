@@ -52,4 +52,15 @@ definitions:
   - text: To afflict; to chasten; to punish.
   - text: "(now only in passive) To strike with love or infatuation."
     example: Bob was smitten with Laura from the first time he saw her.
+prev_word: smirs
+next_word: smith
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

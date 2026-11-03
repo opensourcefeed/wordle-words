@@ -42,4 +42,15 @@ definitions:
   - text: To wave; to brandish.
   - text: "(past tense only blessed) To turn (a reference) into an object."
   - text: "(with from) To secure, defend, or prevent from."
+prev_word: blert
+next_word: blest
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

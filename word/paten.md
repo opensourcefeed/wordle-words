@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: The plate used to hold the host during the Eucharist.
   - text: Any shallow dish found in an archaeological site.
+prev_word: patel
+next_word: pater
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

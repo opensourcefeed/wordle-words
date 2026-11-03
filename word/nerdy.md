@@ -41,4 +41,15 @@ definitions:
   - text: "(of a quality or interest) Of, pertaining to, in the style of, or appealing
       to nerds."
     example: I got a pair of nerdy glasses and clothes for Halloween.
+prev_word: nerds
+next_word: nerfs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

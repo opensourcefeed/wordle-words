@@ -53,4 +53,15 @@ definitions:
   - text: A coin formerly current in England and Scotland, equal to thirteen shillings
       and four pence.
   - text: A German coin and money of account; the mark.
+prev_word: march
+next_word: mards
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

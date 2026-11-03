@@ -32,4 +32,15 @@ anagrams:
 - pians
 - pinas
 - spain
+prev_word: spims
+next_word: spine
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

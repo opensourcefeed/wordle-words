@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 100
 anagrams:
 - kukus
+prev_word: sukis
+next_word: sulci
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: "(most commonly) A unit of computing storage equal to eight bits, which
       can represent any of 256 distinct values."
     example: The word “hello” fits into five bytes of ASCII code.
+prev_word: byssi
+next_word: byway
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/by/"
+  label: Starting with BY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

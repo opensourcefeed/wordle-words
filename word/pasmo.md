@@ -25,4 +25,15 @@ neighbours:
 - paseo
 anagrams:
 - pomas
+prev_word: paska
+next_word: paspy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

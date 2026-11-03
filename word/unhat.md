@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 36
 anagrams:
 - haunt
+prev_word: ungum
+next_word: unhip
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

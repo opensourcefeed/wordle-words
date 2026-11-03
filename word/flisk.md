@@ -26,4 +26,15 @@ neighbours:
 - glisk
 anagrams:
 - filks
+prev_word: flirt
+next_word: flite
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/sk/"
+  label: Ending in SK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -51,4 +51,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Slashed or striped in patterns.
+prev_word: razai
+next_word: razee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

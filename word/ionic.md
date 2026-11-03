@@ -41,4 +41,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, relating to, or containing ions
+prev_word: iodin
+next_word: ioras
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 89
 neighbours:
 - kamis
+prev_word: kames
+next_word: kamis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

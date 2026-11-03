@@ -72,4 +72,15 @@ definitions:
       ice in winter.
     example: Many US states have outlawed studs due to the damage they cause to paved
       roads.
+prev_word: stude
+next_word: study
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

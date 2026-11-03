@@ -28,4 +28,15 @@ neighbours:
 - ideal
 - ileac
 - ilial
+prev_word: ileac
+next_word: ileum
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

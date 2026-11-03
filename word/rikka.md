@@ -27,4 +27,15 @@ neighbours:
 - tikka
 anagrams:
 - rakki
+prev_word: rigor
+next_word: rikwa
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

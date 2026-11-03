@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A gathering of elders or leaders in Pakistan or Afghanistan, especially
       within a tribe.
+prev_word: jirds
+next_word: jirre
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

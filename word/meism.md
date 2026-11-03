@@ -26,4 +26,15 @@ neighbours:
 - seism
 anagrams:
 - mimes
+prev_word: meiny
+next_word: meith
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

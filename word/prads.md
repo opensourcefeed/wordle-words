@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A horse.
+prev_word: praam
+next_word: prags
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

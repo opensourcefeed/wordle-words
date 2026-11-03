@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: Silly talk or writing; nonsense, silliness, or fake assertion(s).
     example: I heard his speech. It sounded like a whole lot of hooey to me.
+prev_word: hoody
+next_word: hoofs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

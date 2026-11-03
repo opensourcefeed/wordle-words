@@ -58,4 +58,13 @@ definitions:
     example: an equal movement
   - text: Intended for voices of one kind only, either all male or all female; not
       mixed.
+prev_word: epris
+next_word: eques
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

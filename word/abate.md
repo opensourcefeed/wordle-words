@@ -63,4 +63,15 @@ definitions:
       as a sculpture, or in metalwork.
   - text: To dull the edge or point of; to blunt.
   - text: To destroy, or level to the ground.
+prev_word: abask
+next_word: abaya
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

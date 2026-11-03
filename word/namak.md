@@ -27,4 +27,15 @@ neighbours:
 - zamak
 anagrams:
 - makan
+prev_word: namad
+next_word: namaz
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

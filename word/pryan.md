@@ -23,4 +23,15 @@ neighbours:
 - prian
 anagrams:
 - pyran
+prev_word: pruta
+next_word: pryer
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

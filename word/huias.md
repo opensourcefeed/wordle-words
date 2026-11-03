@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A wattlebird, Heteralocha acutirostris, endemic to New Zealand's North Island
       but extinct since the early twentieth century.
+prev_word: huhus
+next_word: huies
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

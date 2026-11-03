@@ -36,4 +36,15 @@ definitions:
   - text: The plant from which this is obtained.
   - text: The turnip.
   - text: The head.
+prev_word: sweat
+next_word: sweed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

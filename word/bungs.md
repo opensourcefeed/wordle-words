@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(thieves' cant) A purse."
+prev_word: bundy
+next_word: bungy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

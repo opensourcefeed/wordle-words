@@ -25,4 +25,15 @@ neighbours:
 - globe
 - globs
 - globy
+prev_word: globe
+next_word: globs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

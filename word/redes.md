@@ -52,4 +52,15 @@ definitions:
   - text: To discuss, deliberate.
   - text: To advise.
   - text: To interpret (a riddle or dream); explain.
+prev_word: reded
+next_word: redia
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

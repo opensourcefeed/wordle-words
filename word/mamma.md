@@ -38,4 +38,15 @@ definitions:
       the mammary gland and the nipple or teat; a breast; an udder. (plural: mammae)'
   - text: An accessory cloud like a mammary in appearance, which can form on the underside
       of most cloud genera
+prev_word: mamil
+next_word: mammy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

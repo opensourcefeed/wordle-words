@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: An unspecified part of the anatomy, usually used in the phrase "you bet
       your (sweet) bippy"
+prev_word: bipod
+next_word: birch
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

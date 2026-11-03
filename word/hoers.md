@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _OERS
   count: 6
+prev_word: hodja
+next_word: hogan
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

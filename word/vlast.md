@@ -24,4 +24,13 @@ neighbours:
 - blast
 - clast
 - plast
+prev_word: vizor
+next_word: vleis
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

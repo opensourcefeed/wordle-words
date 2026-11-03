@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: QUA_S
   count: 8
+prev_word: quair
+next_word: quake
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: Having wanes, i.e. rounded corners caused by lack of wood, often showing
       bark.
+prev_word: wands
+next_word: wanes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

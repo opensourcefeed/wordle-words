@@ -25,4 +25,15 @@ stats:
 neighbours:
 - fouet
 - fount
+prev_word: fosse
+next_word: fouds
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

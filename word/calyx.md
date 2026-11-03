@@ -30,4 +30,13 @@ definitions:
   - text: The outermost whorl of flower parts, comprising the sepals, which covers
       and protects the petals as they develop.
   - text: Any of various cup-like structures.
+prev_word: calve
+next_word: caman
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

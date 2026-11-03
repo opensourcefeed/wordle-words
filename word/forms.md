@@ -81,4 +81,15 @@ definitions:
       charging current, but later the plates or grids were coated or filled, one with
       a paste of red lead and the other with litharge, introduced into the cell, and
       formed by a direct charging current.
+prev_word: forme
+next_word: forte
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

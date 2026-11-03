@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - borel
 - roble
+prev_word: bloop
+next_word: blots
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

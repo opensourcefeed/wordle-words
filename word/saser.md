@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: SA_ER
   count: 10
+prev_word: sarvo
+next_word: sasin
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

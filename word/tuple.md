@@ -43,4 +43,15 @@ definitions:
       by data type. (Note: this definition may overlap with the previous one.)'
     example: Both Python and Haskell have a tuple data type as well as a list data
       type.
+prev_word: tupik
+next_word: tuque
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

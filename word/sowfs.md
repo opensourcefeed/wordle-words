@@ -28,4 +28,15 @@ neighbours:
 - sowls
 - sowms
 - sowps
+prev_word: sowff
+next_word: sowle
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

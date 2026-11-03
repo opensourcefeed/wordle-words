@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A small compact diving duck, Mergus albellus, that breeds in the northern
       taiga of Europe and Asia and winters on sheltered coasts or inland lakes.
+prev_word: smerk
+next_word: smick
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

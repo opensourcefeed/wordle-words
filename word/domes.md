@@ -56,4 +56,15 @@ definitions:
   - text: A prism formed by planes parallel to a lateral axis which meet above in
       a horizontal edge, like the roof of a house; also, one of the planes of such
       a form
+prev_word: domed
+next_word: domic
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

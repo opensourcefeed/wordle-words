@@ -27,4 +27,15 @@ neighbours:
 - hosen
 - hoven
 - moten
+prev_word: hotel
+next_word: hotis
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

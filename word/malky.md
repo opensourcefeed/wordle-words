@@ -27,4 +27,15 @@ neighbours:
 - manky
 - mawky
 - talky
+prev_word: malis
+next_word: malls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

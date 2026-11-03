@@ -26,4 +26,13 @@ stats:
 neighbours:
 - tenia
 - xenic
+prev_word: xebec
+next_word: xenic
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

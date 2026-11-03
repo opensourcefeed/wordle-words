@@ -34,4 +34,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Behaving or looking like a sexual pervert.
+prev_word: pervs
+next_word: pesch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

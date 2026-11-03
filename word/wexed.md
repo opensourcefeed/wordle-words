@@ -28,4 +28,15 @@ neighbours:
 - waxed
 - wexes
 - yexed
+prev_word: wetly
+next_word: wexes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

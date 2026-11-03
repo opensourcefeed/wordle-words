@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _URLS
   count: 8
+prev_word: gurks
+next_word: gurly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

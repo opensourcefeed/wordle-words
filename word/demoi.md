@@ -27,4 +27,15 @@ neighbours:
 - demob
 - demos
 - demot
+prev_word: demob
+next_word: demon
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

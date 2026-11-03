@@ -50,4 +50,15 @@ definitions:
       nasal projection, and with large, sharp, opercular spines.
   - text: A sea urchin (Goniocidaris hystrix) with very long spines, native to the
       American and European coasts.
+prev_word: piped
+next_word: pipes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

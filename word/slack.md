@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: Slackly.
     example: slack dried hops
+prev_word: slabs
+next_word: slade
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: A building.
+prev_word: warez
+next_word: warms
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

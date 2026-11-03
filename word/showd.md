@@ -26,4 +26,13 @@ neighbours:
 - shows
 anagrams:
 - dhows
+prev_word: shove
+next_word: shown
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

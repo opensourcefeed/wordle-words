@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(usually used in the passive) To offend slightly."
   - text: To become slightly offended.
+prev_word: mieve
+next_word: miffy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

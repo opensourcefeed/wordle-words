@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: "(chiefly in the superlative) Characteristic of a mother; motherly."
     example: She is the mommiest of mommies.
+prev_word: momme
+next_word: momos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

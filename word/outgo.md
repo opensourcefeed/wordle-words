@@ -39,4 +39,15 @@ definitions:
   - text: To overtake; to travel faster than.
   - text: To outdo; exceed; surpass.
   - text: To come to an end.
+prev_word: outer
+next_word: outie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

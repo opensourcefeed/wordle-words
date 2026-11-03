@@ -34,4 +34,15 @@ definitions:
   - text: Clothing made from such materials, especially with reference to cycling
       shorts.
   - text: A tight-fitting garment made of Lycra.
+prev_word: lycee
+next_word: lying
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Any of several small, slow-moving primates, of the family Lorisidae, found
       in India and southeast Asia.
+prev_word: loric
+next_word: lorry
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

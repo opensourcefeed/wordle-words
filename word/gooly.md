@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pebble, a small rock.
+prev_word: gools
+next_word: goomy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

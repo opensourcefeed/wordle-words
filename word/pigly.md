@@ -25,4 +25,15 @@ neighbours:
 - pigmy
 anagrams:
 - gilpy
+prev_word: pight
+next_word: pigmy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

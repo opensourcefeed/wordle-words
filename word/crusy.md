@@ -24,4 +24,15 @@ neighbours:
 - crudy
 - cruse
 - drusy
+prev_word: crust
+next_word: cruve
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

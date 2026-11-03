@@ -28,4 +28,15 @@ neighbours:
 - talpa
 anagrams:
 - tamal
+prev_word: tally
+next_word: talon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -54,4 +54,15 @@ definitions:
       life of others.
     example: If I had not snooped on her, I wouldn't have found out that she lied
       about her degree.
+prev_word: snool
+next_word: snoot
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

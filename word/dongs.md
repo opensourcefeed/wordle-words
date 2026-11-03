@@ -51,4 +51,15 @@ definitions:
 - pos: noun
   defs:
   - text: A submunicipal administrative unit of a city in North or South Korea.
+prev_word: donga
+next_word: donko
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A parenthesis (bracket used to enclose parenthetical material in text).
+prev_word: pared
+next_word: pareo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

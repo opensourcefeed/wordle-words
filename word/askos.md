@@ -27,4 +27,15 @@ neighbours:
 - askoi
 anagrams:
 - soaks
+prev_word: askoi
+next_word: aspen
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

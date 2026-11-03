@@ -28,4 +28,15 @@ neighbours:
 - rayle
 anagrams:
 - belay
+prev_word: bayes
+next_word: bayou
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

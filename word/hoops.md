@@ -75,4 +75,15 @@ definitions:
   - text: To utter a loud cry, or a sound imitative of the word, by way of call or
       pursuit; to shout.
   - text: To whoop, as in whooping cough.
+prev_word: hoons
+next_word: hoord
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

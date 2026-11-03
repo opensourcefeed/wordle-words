@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Sorrow, grief, misery or anguish.
   - text: A unit of pain used to theoretically weigh people's outcomes.
+prev_word: dolma
+next_word: dolos
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: The tenth letter of the Greek alphabet.
   - text: A measurement of the sensitivity of the value of an option to changes in
       the implied volatility of the price of the underlying asset.
+prev_word: kapow
+next_word: kapur
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

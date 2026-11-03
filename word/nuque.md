@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 88
 neighbours:
 - tuque
+prev_word: nunus
+next_word: nurds
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

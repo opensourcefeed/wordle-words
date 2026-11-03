@@ -40,4 +40,15 @@ definitions:
   - text: Containing the vinyl radical.
   - text: Made of polyvinyl chloride.
   - text: Pertaining to a phonograph record.
+prev_word: vints
+next_word: viola
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

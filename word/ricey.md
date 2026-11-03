@@ -29,4 +29,15 @@ neighbours:
 - ricer
 - rices
 - riley
+prev_word: rices
+next_word: riche
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

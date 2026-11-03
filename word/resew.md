@@ -31,4 +31,15 @@ anagrams:
 - sewer
 - ewers
 - sweer
+prev_word: reset
+next_word: resid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

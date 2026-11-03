@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _OPPY
   count: 8
+prev_word: copha
+next_word: copra
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

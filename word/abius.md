@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 40
 neighbours:
 - abies
+prev_word: abies
+next_word: abjad
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

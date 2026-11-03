@@ -31,4 +31,15 @@ definitions:
   - text: A stupid person.
   - text: Nonsense; rubbish.
     example: What twonk you are talking!
+prev_word: twoer
+next_word: twyer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

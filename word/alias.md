@@ -55,4 +55,15 @@ definitions:
   - text: Used to connect the different names of a person who has gone by two or more,
       and whose true name is for any cause doubtful
     example: Smith, alias Simpson.
+prev_word: algum
+next_word: alibi
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

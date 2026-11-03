@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 41
 neighbours:
 - kutas
+prev_word: kusti
+next_word: kutas
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

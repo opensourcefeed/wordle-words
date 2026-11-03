@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: Familiar, known; well-known, renowned.
   - text: Variant of couthie.
+prev_word: couta
+next_word: coved
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

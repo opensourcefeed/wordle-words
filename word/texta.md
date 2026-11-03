@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A felt-tip pen, often coloured and usually wide-tipped for use by children.
+prev_word: texes
+next_word: texts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

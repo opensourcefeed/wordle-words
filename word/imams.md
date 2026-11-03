@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: "(usually capitalized) A Shi'ite Muslim leader."
   - text: One who leads the salat prayers in a mosque.
+prev_word: imagy
+next_word: imari
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of the genus Coriaria of shrubs and trees found in New Zealand.
+prev_word: tutty
+next_word: tuxes
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

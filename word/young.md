@@ -55,4 +55,15 @@ definitions:
   - text: Of or belonging to the early part of life.
     example: The cynical world soon shattered my young dreams.
   - text: Having little experience; inexperienced; unpracticed; ignorant; weak.
+prev_word: youks
+next_word: yourn
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

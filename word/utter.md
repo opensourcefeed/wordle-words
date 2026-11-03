@@ -39,4 +39,13 @@ definitions:
   - text: Outward.
   - text: Absolute, unconditional, total, complete.
     example: utter ruin; utter darkness
+prev_word: utile
+next_word: uveal
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

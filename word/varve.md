@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An annual layer of sediment or sedimentary rock.
+prev_word: varus
+next_word: vasal
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

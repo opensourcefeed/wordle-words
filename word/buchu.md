@@ -27,4 +27,13 @@ definitions:
   - text: A South African shrub in the genus Agathosma.
   - text: Medicinal leaves from the shrub that are often used in brandy; this is an
       old Dutch medicine.
+prev_word: bubus
+next_word: bucko
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

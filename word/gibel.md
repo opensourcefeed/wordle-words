@@ -29,4 +29,15 @@ neighbours:
 - gimel
 anagrams:
 - bilge
+prev_word: gibed
+next_word: giber
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -58,4 +58,15 @@ definitions:
   - text: To avoid or ignore (something); to manage to avoid (something or a problem);
       to skate by (something).
     example: He skirted the issue of which parties to attend by staying at home instead.
+prev_word: skirr
+next_word: skite
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To say amen.
   - text: To say amen to; to ratify solemnly.
+prev_word: amene
+next_word: ament
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

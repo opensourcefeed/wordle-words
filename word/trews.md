@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Trousers, especially if close fitting and tartan.
+prev_word: trets
+next_word: treyf
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

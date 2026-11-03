@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: S_EDS
   count: 7
+prev_word: sycon
+next_word: syens
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

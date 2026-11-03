@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To produce a bassy grunting or thudding sound.
+prev_word: oojah
+next_word: oonts
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: The complete exon content of an organism or individual.
+prev_word: exode
+next_word: exons
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

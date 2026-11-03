@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: The time (number of days) by which a solar year exceeds twelve lunar months;
       it is used in the calculation of the date of Easter
+prev_word: eosin
+next_word: epees
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

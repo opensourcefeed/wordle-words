@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _YKES
   count: 7
+prev_word: syker
+next_word: sylis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

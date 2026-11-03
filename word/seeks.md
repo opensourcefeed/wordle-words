@@ -57,4 +57,15 @@ definitions:
     example: Our company does not seek to limit its employees from using the internet
       or engaging in social networking.
   - text: To navigate through a stream.
+prev_word: seedy
+next_word: seeld
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

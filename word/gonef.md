@@ -25,4 +25,13 @@ neighbours:
 - ganef
 - gonif
 - gonof
+prev_word: gonch
+next_word: goner
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

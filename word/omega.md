@@ -40,4 +40,15 @@ definitions:
   - text: In omegaverse fiction, a person of a sexually-submissive (and sometimes
       secondary) gender/sex that is driven by biology, magic, or other means to bond
       with an alpha, with males of this type often being able to get pregnant.
+prev_word: omees
+next_word: omens
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

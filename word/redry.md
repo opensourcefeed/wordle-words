@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - dryer
 - derry
+prev_word: redox
+next_word: redub
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

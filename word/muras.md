@@ -41,4 +41,15 @@ anagrams:
 - ramus
 - rusma
 - umras
+prev_word: mural
+next_word: mured
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

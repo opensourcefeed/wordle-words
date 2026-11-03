@@ -32,4 +32,15 @@ definitions:
   - text: Any of several leguminous plants, of the genus Vicia, often grown as green
       manure and for their edible seeds
   - text: Any of several similar plants within the subfamily Faboideae
+prev_word: vests
+next_word: veuve
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

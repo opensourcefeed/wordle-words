@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: PEL_S
   count: 6
+prev_word: peles
+next_word: pells
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

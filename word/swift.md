@@ -44,4 +44,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Swiftly.
+prev_word: swies
+next_word: swigs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: Any non-woody flowering plant that is not a graminoid (a grass, sedge, or
       rush).
+prev_word: foray
+next_word: forby
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

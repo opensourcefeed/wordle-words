@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A deformity in which the foot is turned inward.
   - text: Acne.
+prev_word: varna
+next_word: varve
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

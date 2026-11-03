@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To cause to gush out suddenly or violently in a stream or jet.
   - text: To rush from a confined place in a small stream or jet.
+prev_word: spurs
+next_word: sputa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EILS
   count: 8
+prev_word: heigh
+next_word: heirs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

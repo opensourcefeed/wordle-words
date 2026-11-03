@@ -27,4 +27,15 @@ neighbours:
 - pense
 anagrams:
 - pynes
+prev_word: pense
+next_word: pents
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

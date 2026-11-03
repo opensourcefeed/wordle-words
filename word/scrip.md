@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A small medieval bag used to carry food, money, utensils etc.
   - text: Small change.
+prev_word: scrim
+next_word: scrob
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ip/"
+  label: Ending in IP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

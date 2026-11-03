@@ -56,4 +56,15 @@ definitions:
   - text: To practice prostitution
   - text: To practice promiscuous sex
   - text: To dress garishly, ostentatiously, whorishly, or sluttily
+prev_word: tarte
+next_word: tarty
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

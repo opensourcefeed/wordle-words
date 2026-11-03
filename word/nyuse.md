@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 27
 neighbours:
 - nyuze
+prev_word: nyung
+next_word: nyuze
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ny/"
+  label: Starting with NY
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

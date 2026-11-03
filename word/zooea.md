@@ -27,4 +27,15 @@ stats:
 neighbours:
 - zoaea
 - zooey
+prev_word: zonks
+next_word: zooey
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zo/"
+  label: Starting with ZO
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

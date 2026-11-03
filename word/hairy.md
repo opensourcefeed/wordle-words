@@ -46,4 +46,15 @@ definitions:
   - text: Difficult, complex, intricate, or intimidating.
     example: It’s a hairy problem, and will probably take several weeks to sort out.
   - text: Causing anxiety or fright; terrifying, scary.
+prev_word: hairs
+next_word: haith
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

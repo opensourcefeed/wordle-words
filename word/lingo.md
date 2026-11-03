@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: Language, especially language peculiar to a particular group, field, or
       region; jargon or a dialect.
+prev_word: linga
+next_word: lings
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: The main part of the (human) body that extends from the neck to the groin,
       excluding the head and limbs.
+prev_word: torsk
+next_word: torta
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

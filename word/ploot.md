@@ -31,4 +31,15 @@ neighbours:
 - pluot
 - proot
 - sloot
+prev_word: plook
+next_word: plops
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

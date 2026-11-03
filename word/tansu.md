@@ -34,4 +34,13 @@ definitions:
 - pos: noun
   defs:
   - text: A traditional portable chest from Japan.
+prev_word: tanna
+next_word: tansy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

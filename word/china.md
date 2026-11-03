@@ -109,4 +109,15 @@ definitions:
       as money and jewelry by certain Native American peoples.
   - text: A string of such beads.
   - text: Money.
+prev_word: chimp
+next_word: chine
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

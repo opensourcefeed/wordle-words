@@ -76,4 +76,15 @@ definitions:
   - text: To reflect; to mirror.
   - text: To make glassy.
   - text: To become glassy.
+prev_word: glary
+next_word: glatt
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

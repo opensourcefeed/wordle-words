@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: Any of various agricultural pest rodents of genus Meriones and rodents of
       certain species in the genera Sekeetamys, Brachiones, and sometimes Pachyuromys.
+prev_word: jinns
+next_word: jirga
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

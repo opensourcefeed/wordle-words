@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _ICHT
   count: 6
+prev_word: sices
+next_word: sicko
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

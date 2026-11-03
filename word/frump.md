@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To insult; to flout; to mock; to snub.
+prev_word: fruit
+next_word: frush
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

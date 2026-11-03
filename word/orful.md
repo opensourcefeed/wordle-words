@@ -25,4 +25,15 @@ anagrams:
 - flour
 - fluor
 - furol
+prev_word: orfes
+next_word: organ
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ul/"
+  label: Ending in UL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

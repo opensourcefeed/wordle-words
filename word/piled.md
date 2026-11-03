@@ -67,4 +67,15 @@ definitions:
     example: piled iron
   - text: Having a pile or point; pointed.
   - text: Having a pile or nap.
+prev_word: pilea
+next_word: pilei
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

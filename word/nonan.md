@@ -26,4 +26,15 @@ neighbours:
 - nonas
 anagrams:
 - nonna
+prev_word: nomos
+next_word: nonas
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

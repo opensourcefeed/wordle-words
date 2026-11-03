@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A female prostitute or harlot.
+prev_word: trugs
+next_word: truly
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

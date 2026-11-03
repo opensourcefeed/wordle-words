@@ -33,4 +33,15 @@ definitions:
   - text: A human embryo after the eighth week of gestation.
     example: 'The sequence is: molecules in reproductive systems, then gametes, zygotes,
       morulas, blastocysts, and then fetuses.'
+prev_word: fetts
+next_word: fetwa
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

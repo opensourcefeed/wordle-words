@@ -27,4 +27,15 @@ neighbours:
 - tofts
 - tolus
 - tonus
+prev_word: tofts
+next_word: togae
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

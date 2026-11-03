@@ -38,4 +38,15 @@ anagrams:
 - blaes
 - blase
 - sable
+prev_word: abler
+next_word: ablet
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

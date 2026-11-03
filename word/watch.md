@@ -55,4 +55,15 @@ definitions:
   - text: A period of time on duty, usually four hours in length; the officers and
       crew who tend the working of a vessel during the same watch. (FM 55–501).
   - text: The act of seeing, or viewing, for a period of time.
+prev_word: watap
+next_word: water
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

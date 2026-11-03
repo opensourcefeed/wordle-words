@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The source word, or words, of a given word or expression.
+prev_word: etwee
+next_word: eughs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

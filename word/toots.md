@@ -70,4 +70,15 @@ definitions:
 - pos: noun
   defs:
   - text: A toilet.
+prev_word: tooth
+next_word: topaz
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

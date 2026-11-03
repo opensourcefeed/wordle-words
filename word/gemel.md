@@ -23,4 +23,15 @@ stats:
 neighbours:
 - gimel
 - lemel
+prev_word: gelts
+next_word: gemma
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

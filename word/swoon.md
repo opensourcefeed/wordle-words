@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A faint.
   - text: An infatuation.
+prev_word: swoln
+next_word: swoop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

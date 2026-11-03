@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A shrub, Catha edulis, whose leaves are used as a mild stimulant when chewed
       or brewed as tea; also a drug produced from this plant.
+prev_word: khaph
+next_word: khaya
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

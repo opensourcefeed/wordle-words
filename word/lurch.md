@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make such a sudden, unsteady movement.
+prev_word: lupus
+next_word: lured
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

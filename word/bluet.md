@@ -37,4 +37,15 @@ definitions:
   - text: Any of several different plants having blue flowers from several genera.
   - text: Common name for several small damselfly species, including the genera Coenagrion
       and Enallagma.
+prev_word: blues
+next_word: bluey
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

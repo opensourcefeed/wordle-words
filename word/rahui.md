@@ -27,4 +27,13 @@ definitions:
 - pos: noun
   defs:
   - text: In Māori culture, restriction of access to a place, as a form of taboo.
+prev_word: rahed
+next_word: raiah
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

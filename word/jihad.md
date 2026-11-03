@@ -36,4 +36,15 @@ definitions:
 - pos: verb
   defs:
   - text: To participate in a jihad.
+prev_word: jigot
+next_word: jills
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

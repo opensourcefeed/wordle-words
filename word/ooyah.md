@@ -25,4 +25,15 @@ neighbours:
 - oojah
 anagrams:
 - yahoo
+prev_word: ootid
+next_word: oozed
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _OWIE
   count: 8
+prev_word: dowfs
+next_word: dowle
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

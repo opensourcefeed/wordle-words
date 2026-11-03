@@ -52,4 +52,15 @@ definitions:
       such as the mutton hamlet, graysby, Cuban coney, and rooster hind.
   - text: The burbot.
   - text: A woman; a sweetheart.
+prev_word: cunit
+next_word: cupel
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

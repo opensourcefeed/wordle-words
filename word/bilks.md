@@ -39,4 +39,15 @@ definitions:
   - text: To spoil the score of (someone) in cribbage.
   - text: To do someone out of their due; to deceive or defraud, to cheat (someone).
   - text: To evade, elude.
+prev_word: bilgy
+next_word: bills
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

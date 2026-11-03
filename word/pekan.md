@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: The fisher cat, the fisher (Martes pennanti), or the marten (Martes americana).
+prev_word: peize
+next_word: pekau
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

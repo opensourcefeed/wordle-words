@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A person of Italian birth or descent.
+prev_word: ginny
+next_word: gipon
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

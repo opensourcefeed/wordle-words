@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A plastic slip-on shoe.
+prev_word: crock
+next_word: croft
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

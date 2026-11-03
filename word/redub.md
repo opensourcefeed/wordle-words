@@ -26,4 +26,13 @@ neighbours:
 anagrams:
 - debur
 - rebud
+prev_word: redry
+next_word: redug
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

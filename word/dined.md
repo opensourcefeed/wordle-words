@@ -48,4 +48,15 @@ definitions:
   - text: To eat; to eat dinner or supper.
   - text: To give a dinner to; to furnish with the chief meal; to feed.
   - text: To dine upon; to have to eat.
+prev_word: dinar
+next_word: diner
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

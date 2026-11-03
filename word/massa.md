@@ -64,4 +64,15 @@ definitions:
     example: a master database
   - text: A person holding an office of authority, especially the presiding officer.
   - text: "(by extension) A person holding a similar office in other civic societies."
+prev_word: mason
+next_word: masse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

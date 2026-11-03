@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Dyspepsia
   - text: Mental aggravation; annoyance
+prev_word: agist
+next_word: aglee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

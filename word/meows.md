@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: Of a cat, to make its cry.
+prev_word: meous
+next_word: merch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

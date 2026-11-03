@@ -107,4 +107,15 @@ definitions:
   - text: To place an object at a location indicated by a spot. Notably in billiards
       or snooker.
     example: The referee had to spot the pink on the blue spot.
+prev_word: sposo
+next_word: spout
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

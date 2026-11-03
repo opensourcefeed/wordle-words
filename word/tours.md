@@ -75,4 +75,15 @@ definitions:
 - pos: verb
   defs:
   - text: To toot a horn.
+prev_word: touns
+next_word: touse
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

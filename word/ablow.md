@@ -25,4 +25,15 @@ neighbours:
 - aglow
 - allow
 - aflow
+prev_word: ablet
+next_word: abmho
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

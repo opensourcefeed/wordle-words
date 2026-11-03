@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Something cast away; a waif.
+prev_word: wefte
+next_word: weids
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

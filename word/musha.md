@@ -27,4 +27,15 @@ neighbours:
 - mutha
 anagrams:
 - humas
+prev_word: muset
+next_word: mushy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -28,4 +28,15 @@ neighbours:
 - spews
 anagrams:
 - skeps
+prev_word: speir
+next_word: speld
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

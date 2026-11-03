@@ -37,4 +37,15 @@ definitions:
   - text: A traditional Māori method of cooking food using heated rocks buried in
       a pit oven.
   - text: Food cooked in this way.
+prev_word: handy
+next_word: hangs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/gi/"
+  label: Ending in GI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

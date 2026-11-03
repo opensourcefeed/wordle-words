@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: An old English measure of corn (e.g., wheat), equal to half a quarter or
       4 bushels.
+prev_word: cooly
+next_word: cooms
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/mb/"
+  label: Ending in MB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

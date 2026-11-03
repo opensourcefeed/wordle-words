@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Madly; extremely or obsessively.
   - text: In a crazy manner.
+prev_word: nuses
+next_word: nutsy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

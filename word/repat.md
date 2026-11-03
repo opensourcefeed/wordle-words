@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: A repatriate.
+prev_word: repas
+next_word: repay
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

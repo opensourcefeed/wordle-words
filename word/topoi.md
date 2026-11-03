@@ -33,4 +33,15 @@ definitions:
   - text: A literary theme or motif; a rhetorical convention or formula.
   - text: An elementary topos
   - text: A Grothendieck topos
+prev_word: topis
+next_word: topos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

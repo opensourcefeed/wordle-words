@@ -65,4 +65,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perch.
+prev_word: peris
+next_word: perky
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

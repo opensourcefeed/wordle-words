@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: CHA_E
   count: 6
+prev_word: chaat
+next_word: chack
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

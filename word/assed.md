@@ -32,4 +32,15 @@ neighbours:
 - assez
 anagrams:
 - sades
+prev_word: assay
+next_word: asses
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

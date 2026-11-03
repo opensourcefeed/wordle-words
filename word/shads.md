@@ -43,4 +43,15 @@ definitions:
   - text: Any one of several species of food fishes that make up the genus Alosa in
       the family Clupeidae, to which the herrings also belong; river herring.
   - text: The bluefish (Pomatomus saltatrix).
+prev_word: shade
+next_word: shady
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

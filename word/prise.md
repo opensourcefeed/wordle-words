@@ -73,4 +73,15 @@ definitions:
   - text: Anything worth striving for; a valuable possession held or in prospect.
   - text: A contest for a reward; competition.
   - text: A lever; a pry; also, the hold of a lever.
+prev_word: prior
+next_word: prism
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

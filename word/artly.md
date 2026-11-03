@@ -26,4 +26,15 @@ neighbours:
 - artsy
 anagrams:
 - lyart
+prev_word: artis
+next_word: artsy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

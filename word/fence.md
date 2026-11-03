@@ -47,4 +47,15 @@ definitions:
   - text: To engage in the sport of fencing.
   - text: To jump over a fence.
   - text: To conceal the truth by giving equivocal answers; to hedge; to be evasive.
+prev_word: femur
+next_word: fends
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

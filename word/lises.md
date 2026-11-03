@@ -43,4 +43,15 @@ anagrams:
 trap:
   pattern: _ISES
   count: 8
+prev_word: lirot
+next_word: lisks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

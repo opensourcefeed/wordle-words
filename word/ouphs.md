@@ -23,4 +23,15 @@ stats:
 neighbours:
 - oupas
 - ouphe
+prev_word: ouphe
+next_word: ourey
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

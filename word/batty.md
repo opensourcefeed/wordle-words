@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Mad, crazy, silly.
   - text: Belonging to, or resembling, a bat (mammal).
+prev_word: battu
+next_word: bauds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

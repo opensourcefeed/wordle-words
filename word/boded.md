@@ -47,4 +47,15 @@ definitions:
       foretell.
   - text: (followed by "well", "ill", "no good", etc.) To betoken or augur something
       good or bad that will happen in the future.
+prev_word: bocks
+next_word: bodes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

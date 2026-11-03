@@ -49,4 +49,15 @@ definitions:
   - text: To define a one-to-one function from (one set) to another so that certain
       properties of the domain are preserved when considering the image as a subset
       of the codomain.
+prev_word: embay
+next_word: ember
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

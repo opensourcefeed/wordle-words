@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A chamber used for baking or heating.
+prev_word: ovels
+next_word: overs
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ov/"
+  label: Starting with OV
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

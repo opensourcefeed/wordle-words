@@ -25,4 +25,15 @@ neighbours:
 - gnarl
 - knars
 - knurl
+prev_word: knaps
+next_word: knars
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: "(interior decorating) Either of the vertical components that form the side
       of an opening in a wall, such as that of a door frame, window frame, or fireplace."
   - text: Any thick mass of rock that prevents miners from following the lode or vein.
+prev_word: jambo
+next_word: jambu
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

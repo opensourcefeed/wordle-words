@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: To adorn with a mitre.
   - text: To unite at an angle of 45°.
+prev_word: mitis
+next_word: mitry
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

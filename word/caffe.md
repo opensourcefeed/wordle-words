@@ -24,4 +24,15 @@ stats:
 neighbours:
 - gaffe
 - caffs
+prev_word: cafes
+next_word: caffs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

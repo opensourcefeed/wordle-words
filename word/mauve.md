@@ -40,4 +40,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having a pale purple colour.
+prev_word: mauts
+next_word: mauvy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

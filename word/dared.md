@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: To stare stupidly or vacantly; to gaze as though amazed or terrified.
   - text: To lie or crouch down in fear.
+prev_word: darcy
+next_word: darer
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -44,4 +44,15 @@ definitions:
   - text: A flowering tree of the family Meliaceae, especially of the genera Cedrela
       or Toona.
   - text: The aromatic wood from a Cedrus tree, or from any of several unrelated trees.
+prev_word: cecum
+next_word: ceded
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

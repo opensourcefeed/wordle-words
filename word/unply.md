@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 72
 neighbours:
 - unpay
+prev_word: unpin
+next_word: unpot
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

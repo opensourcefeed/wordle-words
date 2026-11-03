@@ -48,4 +48,15 @@ definitions:
       to modern or regional developments.
   - text: Any of various paths or courses seen as leading to enlightenment.
   - text: The noble eightfold path.
+prev_word: mares
+next_word: marge
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

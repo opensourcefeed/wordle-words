@@ -90,4 +90,15 @@ definitions:
 - pos: noun
   defs:
   - text: Abbreviation of cock-boat, a type of small boat.
+prev_word: cocco
+next_word: cocky
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

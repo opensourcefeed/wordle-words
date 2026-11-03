@@ -25,4 +25,15 @@ neighbours:
 - tavas
 anagrams:
 - vatha
+prev_word: tauty
+next_word: tavas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

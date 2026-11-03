@@ -46,4 +46,15 @@ definitions:
       lacking common sense.
     example: It shouldn't be hard to put one over on that chump.
   - text: The thick end, especially of a piece of wood or of a joint of meat.
+prev_word: chugs
+next_word: chums
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

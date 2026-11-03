@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _OGOS
   count: 6
+prev_word: fogle
+next_word: fogou
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

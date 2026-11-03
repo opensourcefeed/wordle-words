@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To mummify.
+prev_word: mumms
+next_word: mumph
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -53,4 +53,15 @@ definitions:
   - text: To accelerate forwards, particularly suddenly.
     example: A ship surges forwards, sways sideways and heaves up.
   - text: To slack off a line.
+prev_word: surfy
+next_word: surgy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

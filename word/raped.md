@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: RA_ED
   count: 13
+prev_word: ranty
+next_word: rapee
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

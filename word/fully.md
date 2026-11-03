@@ -48,4 +48,15 @@ definitions:
   - text: In a full degree; to a full extent.
     example: He is fully capable of meeting his responsibilities.
   - text: As a minimum; at least.
+prev_word: fulls
+next_word: fulth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

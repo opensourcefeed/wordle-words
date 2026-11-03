@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: LO_ED
   count: 10
+prev_word: lowts
+next_word: loxes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

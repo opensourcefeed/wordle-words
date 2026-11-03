@@ -35,4 +35,15 @@ anagrams:
 - fines
 - neifs
 - niefs
+prev_word: nieve
+next_word: niffs
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

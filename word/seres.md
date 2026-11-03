@@ -52,4 +52,15 @@ definitions:
 - pos: noun
   defs:
   - text: A claw, a talon.
+prev_word: serer
+next_word: serfs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: Alternative spelling of gybe
   - text: Alternative spelling of jibe
+prev_word: giber
+next_word: gibli
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

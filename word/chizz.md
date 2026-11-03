@@ -23,4 +23,15 @@ stats:
 neighbours:
 - phizz
 - whizz
+prev_word: chivy
+next_word: chock
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

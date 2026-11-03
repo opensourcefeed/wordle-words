@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Out of order; not working.
     example: Her marriage went kaput.
+prev_word: kapus
+next_word: karai
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

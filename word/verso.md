@@ -37,4 +37,15 @@ definitions:
       reading, such as a sheet, leaf, coin or medal;
   - text: The left-hand page of a book of a script which reads from left to right,
       usually having an even page number.
+prev_word: verse
+next_word: verst
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/so/"
+  label: Ending in SO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

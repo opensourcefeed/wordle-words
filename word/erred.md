@@ -37,4 +37,15 @@ definitions:
     example: He erred in his calculations, and made many mistakes.
   - text: To sin.
   - text: To stray.
+prev_word: erose
+next_word: error
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

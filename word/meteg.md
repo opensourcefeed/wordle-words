@@ -25,4 +25,13 @@ neighbours:
 - meted
 - metel
 - metes
+prev_word: meted
+next_word: metel
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

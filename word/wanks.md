@@ -59,4 +59,13 @@ definitions:
     example: She wanked me in the morning.
   - text: To argue in an inappropriate manner or about pretentious or insubstantial
       matters; to engage in wank.
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

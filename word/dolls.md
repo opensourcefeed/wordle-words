@@ -47,4 +47,15 @@ definitions:
   - text: A dollar.
   - text: "(now possibly offensive) A good-natured, cooperative or helpful girl."
   - text: The smallest or pet pig in a litter.
+prev_word: dolie
+next_word: dolly
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -42,4 +42,15 @@ definitions:
 - pos: noun
   defs:
   - text: The outer rim of a wheel, supported by the spokes.
+prev_word: fells
+next_word: felon
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

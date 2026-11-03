@@ -27,4 +27,15 @@ neighbours:
 - haled
 anagrams:
 - haldi
+prev_word: halfs
+next_word: hallo
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

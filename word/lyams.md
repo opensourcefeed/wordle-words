@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - amyls
 - myals
+prev_word: lweis
+next_word: lyard
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/ly/"
+  label: Starting with LY
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

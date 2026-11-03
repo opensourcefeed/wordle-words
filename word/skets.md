@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: SKE_S
   count: 9
+prev_word: skers
+next_word: skews
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: A nightcap (hat worn to bed).
   - text: A linen or muslin hat, especially one of a type once commonly worn by elderly
       women and young children.
+prev_word: mutas
+next_word: muted
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -29,4 +29,15 @@ neighbours:
 - wakas
 - wawes
 - wawls
+prev_word: wavey
+next_word: wawes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

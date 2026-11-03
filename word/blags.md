@@ -50,4 +50,15 @@ definitions:
   - text: "(1960s) To inveigle by persuasion."
     example: He's blagged his way into many a party.
   - text: "(1940s) To deceive; to perpetrate a hoax on."
+prev_word: blaff
+next_word: blahs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

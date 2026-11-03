@@ -31,4 +31,15 @@ anagrams:
 - feart
 - frate
 - trefa
+prev_word: afoul
+next_word: afrit
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

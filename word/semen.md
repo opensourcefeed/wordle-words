@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A sticky, milky fluid produced in male reproductive organs that contains
       the reproductive cells.
+prev_word: semee
+next_word: semes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - ample
 - maple
+prev_word: pells
+next_word: pelog
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

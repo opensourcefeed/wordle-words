@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: "(sometimes figurative) glowing; radiant"
+prev_word: agloo
+next_word: aglus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

@@ -77,4 +77,15 @@ definitions:
 - pos: noun
   defs:
   - text: An inlet on the coast; a small tidal pool or bay.
+prev_word: pilis
+next_word: pilon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

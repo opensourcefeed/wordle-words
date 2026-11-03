@@ -40,4 +40,15 @@ definitions:
   - text: To suffer pain; to be the source of, or be in, pain, especially continued
       dull pain; to be distressed.
   - text: To cause someone or something to suffer pain.
+prev_word: achar
+next_word: acher
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

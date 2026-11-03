@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: Canis lupus dingo, a wild dog native to Australia.
+prev_word: dinge
+next_word: dings
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

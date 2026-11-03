@@ -33,4 +33,15 @@ definitions:
   - text: An underground vault, especially one beneath a church that is used as a
       burial place.
   - text: A small pit or cavity in the surface of an organ or other structure.
+prev_word: cryne
+next_word: ctene
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

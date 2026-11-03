@@ -24,4 +24,15 @@ stats:
 neighbours:
 - semee
 - semis
+prev_word: semes
+next_word: semis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

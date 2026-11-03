@@ -30,4 +30,15 @@ neighbours:
 trap:
   pattern: STO_S
   count: 7
+prev_word: story
+next_word: stots
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

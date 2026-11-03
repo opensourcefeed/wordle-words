@@ -38,4 +38,15 @@ anagrams:
 - metis
 - mites
 - times
+prev_word: stilt
+next_word: stims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

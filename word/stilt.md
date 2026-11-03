@@ -48,4 +48,15 @@ definitions:
 - pos: verb
   defs:
   - text: To raise on stilts, or as if on stilts
+prev_word: still
+next_word: stime
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

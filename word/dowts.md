@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: DO_TS
   count: 6
+prev_word: dowse
+next_word: doxed
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

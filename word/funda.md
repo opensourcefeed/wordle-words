@@ -32,4 +32,15 @@ definitions:
   - text: Basics or fundamentals, considered as a unit.
     example: Get your funda correct before you submit the paper.
   - text: Understanding.
+prev_word: fumet
+next_word: fundi
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

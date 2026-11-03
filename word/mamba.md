@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Any of various venomous snakes of the genus Dendroaspis, native to Africa,
       that live in trees.
+prev_word: mamas
+next_word: mambo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

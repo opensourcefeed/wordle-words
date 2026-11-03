@@ -54,4 +54,15 @@ definitions:
   - text: One who hates.
   - text: One who expresses unfounded or inappropriate hatred or dislike, particularly
       if motivated by envy.
+prev_word: hated
+next_word: hates
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

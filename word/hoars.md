@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _OARS
   count: 6
+prev_word: hoard
+next_word: hoary
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ definitions:
       socially acceptable or proper."
   - text: Superior or of high quality; first-class.
   - text: Excellent, fantastic, great.
+prev_word: puces
+next_word: pucks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

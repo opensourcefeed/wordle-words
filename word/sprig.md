@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To decorate with sprigs, or with representations of sprigs, as in embroidery
       or pottery.
+prev_word: sprew
+next_word: sprit
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ig/"
+  label: Ending in IG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

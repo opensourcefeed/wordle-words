@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A prosperous peasant in the Russian Empire or the Soviet Union, who owned
       land and could hire workers.
+prev_word: kukus
+next_word: kulan
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

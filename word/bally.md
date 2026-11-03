@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Very.
     example: That was a bally foolish thing to do, old chap!
+prev_word: balls
+next_word: balms
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

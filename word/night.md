@@ -71,4 +71,15 @@ definitions:
   defs:
   - text: Ellipsis of good night
     example: Night, y'all! Thanks for a great evening!
+prev_word: nighs
+next_word: nigre
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

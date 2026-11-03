@@ -65,4 +65,15 @@ definitions:
     example: They tubed down the Colorado River.
   - text: To intubate.
     example: The patient was tubed.
+prev_word: tuber
+next_word: tucks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

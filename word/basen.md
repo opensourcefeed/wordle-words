@@ -32,4 +32,15 @@ anagrams:
 - banes
 - beans
 - nabes
+prev_word: based
+next_word: baser
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

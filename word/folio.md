@@ -53,4 +53,15 @@ definitions:
 - pos: verb
   defs:
   - text: To put a serial number on each folio or page of (a book); to page
+prev_word: folie
+next_word: folks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -31,4 +31,15 @@ neighbours:
 - peepy
 - peery
 - reeky
+prev_word: peeks
+next_word: peels
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -85,4 +85,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Worthy of being a model; exemplary.
+prev_word: modal
+next_word: modem
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

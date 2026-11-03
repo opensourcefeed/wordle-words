@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Merrily.
   - text: Showily.
+prev_word: gaids
+next_word: gains
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

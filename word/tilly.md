@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ILLY
   count: 10
+prev_word: tills
+next_word: tilth
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

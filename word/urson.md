@@ -24,4 +24,15 @@ neighbours:
 - arson
 anagrams:
 - runos
+prev_word: ursid
+next_word: urubu
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -39,4 +39,15 @@ definitions:
     example: to abase the eye
   - text: To lower in value, in particular by altering the content of alloys in coins;
       to debase.
+prev_word: aband
+next_word: abash
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

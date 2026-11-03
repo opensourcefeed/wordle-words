@@ -29,4 +29,15 @@ neighbours:
 - salse
 - salud
 - salut
+prev_word: salud
+next_word: salut
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

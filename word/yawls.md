@@ -38,4 +38,15 @@ definitions:
   - text: A small ship's boat, usually rowed by four or six oars.
   - text: A fore-and-aft rigged sailing vessel with two masts, main and mizzen, the
       mizzen stepped abaft the rudder post.
+prev_word: yawey
+next_word: yawns
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

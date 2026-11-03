@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A nostril
+prev_word: nards
+next_word: naric
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

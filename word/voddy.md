@@ -28,4 +28,15 @@ neighbours:
 trap:
   pattern: _ODDY
   count: 6
+prev_word: voces
+next_word: vodka
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

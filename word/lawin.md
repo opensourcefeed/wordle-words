@@ -26,4 +26,15 @@ neighbours:
 - lapin
 - layin
 - rawin
+prev_word: lawer
+next_word: lawks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

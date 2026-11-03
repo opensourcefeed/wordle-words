@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 97
 neighbours:
 - ajuga
+prev_word: ajuga
+next_word: ajwan
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

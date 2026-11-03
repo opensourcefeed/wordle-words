@@ -49,4 +49,15 @@ definitions:
   - text: To cover with stone, concrete, blacktop or other solid covering, especially
       to aid travel.
   - text: To pave the way for; to make easy and smooth.
+prev_word: paver
+next_word: pavid
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _APPY
   count: 10
+prev_word: gapos
+next_word: garam
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -30,4 +30,15 @@ anagrams:
 - namer
 - neram
 - reman
+prev_word: enact
+next_word: enate
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/rm/"
+  label: Ending in RM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

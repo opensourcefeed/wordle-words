@@ -56,4 +56,15 @@ definitions:
     example: Though they did not know the reason for the dispute, they did not hesitate
       to leap into the fray.
   - text: Fright.
+prev_word: fraus
+next_word: freak
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

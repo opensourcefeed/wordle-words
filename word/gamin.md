@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A homeless boy; a male street urchin; also (more generally), a cheeky, street-smart
       boy.
+prev_word: gamic
+next_word: gamma
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

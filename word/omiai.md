@@ -23,4 +23,15 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 66
+prev_word: omers
+next_word: omits
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

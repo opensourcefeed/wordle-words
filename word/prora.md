@@ -25,4 +25,15 @@ stats:
 neighbours:
 - prore
 - psora
+prev_word: props
+next_word: prore
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

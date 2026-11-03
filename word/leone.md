@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A unit of currency of Sierra Leone, divided into 100 cents.
+prev_word: lento
+next_word: lepak
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

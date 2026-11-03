@@ -57,4 +57,15 @@ definitions:
       group of automorphisms (of)."
     example: This group acts on the circle, so it can't be left-orderable!
   - text: To move to action; to actuate; to animate.
+prev_word: actas
+next_word: actin
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -33,4 +33,15 @@ definitions:
   - text: Containing perceptible moisture (usually describing air or atmosphere);
       damp; moist; somewhat wet or watery.
     example: humid earth
+prev_word: humic
+next_word: humor
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ictal
 - tical
+prev_word: cists
+next_word: cited
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

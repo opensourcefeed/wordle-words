@@ -32,4 +32,15 @@ anagrams:
 - chore
 - ocher
 - ochre
+prev_word: robur
+next_word: rocks
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

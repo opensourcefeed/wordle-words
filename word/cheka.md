@@ -25,4 +25,15 @@ neighbours:
 - chela
 anagrams:
 - hacek
+prev_word: chefs
+next_word: chela
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

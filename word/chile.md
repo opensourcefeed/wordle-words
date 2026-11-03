@@ -49,4 +49,15 @@ definitions:
   - text: A dish made with chili peppers and other ingredients, such as beans and
       beef.
   - text: "(Cincinnati) Cincinnati chili."
+prev_word: child
+next_word: chili
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

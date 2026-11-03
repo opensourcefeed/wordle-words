@@ -54,4 +54,15 @@ definitions:
     example: On summer days Grandma used to take us berrying, whether we wanted to
       go or not.
   - text: To bear or produce berries.
+prev_word: berob
+next_word: berth
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

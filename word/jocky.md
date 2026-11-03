@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _OCKY
   count: 7
+prev_word: jocks
+next_word: jocos
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

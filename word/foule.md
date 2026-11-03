@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OULE
   count: 7
+prev_word: fouet
+next_word: fouls
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

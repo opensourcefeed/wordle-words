@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: Tuna.
+prev_word: tunic
+next_word: tupek
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

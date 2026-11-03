@@ -34,4 +34,15 @@ definitions:
   - text: The premium or percentage on a better sort of money when it is given in
       exchange for an inferior sort. The premium or discount on foreign bills of exchange
       is sometimes called agio.
+prev_word: aging
+next_word: agism
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

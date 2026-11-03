@@ -27,4 +27,15 @@ anagrams:
 - aspic
 - picas
 - spica
+prev_word: scape
+next_word: scare
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

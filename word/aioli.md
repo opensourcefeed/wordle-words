@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A type of sauce, similar to mayonnaise, made from garlic, egg, lemon juice
       and olive oil.
+prev_word: ainga
+next_word: aired
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

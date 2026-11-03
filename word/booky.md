@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _OOKY
   count: 10
+prev_word: books
+next_word: bools
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

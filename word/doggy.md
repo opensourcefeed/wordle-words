@@ -46,4 +46,15 @@ definitions:
     example: Her favourite position is doggy.
   - text: "(armed services) A junior temporarily assigned to do minor duties for a
       senior; a gofer."
+prev_word: doggo
+next_word: dogie
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ORIS
   count: 7
+prev_word: horde
+next_word: horks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

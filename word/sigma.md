@@ -36,4 +36,15 @@ definitions:
   - text: The symbol Σ, used to indicate summation of a set or series.
   - text: The symbol σ, used to indicate one standard deviation from the mean, particularly
       in a normal distribution.
+prev_word: sigla
+next_word: signa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

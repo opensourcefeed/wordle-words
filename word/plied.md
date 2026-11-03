@@ -55,4 +55,15 @@ definitions:
   - text: To work diligently.
   - text: To manoeuvre a sailing vessel so that the direction of the wind changes
       from one side of the vessel to the other; to work to windward, to beat, to tack.
+prev_word: plica
+next_word: plier
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: Having romantic feelings for; excited or enthusiastic about.
   - text: 'Of an egg: cooked so that the yolk remains runny and can be used for dipping.'
   - text: Involving or suited to dipping.
+prev_word: diota
+next_word: dipso
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

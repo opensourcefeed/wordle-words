@@ -49,4 +49,15 @@ definitions:
   defs:
   - text: Of the color of the raven; jet-black
     example: She was a tall, sophisticated, raven-haired beauty.
+prev_word: ravel
+next_word: raver
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

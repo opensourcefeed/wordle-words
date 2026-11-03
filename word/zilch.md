@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: No, zero, non-existent.
+prev_word: zilas
+next_word: zilla
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

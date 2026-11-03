@@ -41,4 +41,15 @@ definitions:
   - text: A beat or throb.
   - text: The beat or tactus of a piece of music.
   - text: An autosoliton
+prev_word: pulpy
+next_word: pulus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

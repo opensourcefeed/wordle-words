@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: To drink alcohol.
     example: We were out all night boozing until we dragged ourselves home hung over.
+prev_word: booty
+next_word: boozy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

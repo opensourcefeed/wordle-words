@@ -42,4 +42,15 @@ definitions:
   - text: "(by extension) The son of a Freemason, envisaged as assisting his father
       in heavy work or in old age."
   - text: A kind of shears used in cropping woollen cloth.
+prev_word: levis
+next_word: lexes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

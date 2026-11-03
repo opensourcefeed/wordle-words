@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 41
 neighbours:
 - lazes
+prev_word: lazes
+next_word: lazzi
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

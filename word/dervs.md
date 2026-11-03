@@ -27,4 +27,15 @@ neighbours:
 - derns
 - deros
 - pervs
+prev_word: derth
+next_word: desex
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

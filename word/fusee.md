@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A light musket or firelock.
+prev_word: fused
+next_word: fusel
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

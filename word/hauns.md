@@ -29,4 +29,15 @@ neighbours:
 - haufs
 - hauls
 - rauns
+prev_word: hault
+next_word: haunt
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

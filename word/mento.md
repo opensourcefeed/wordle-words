@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A folk music genre of Jamaica, featuring acoustic instruments and voices
   - text: An individual mento song
+prev_word: menta
+next_word: ments
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -46,4 +46,13 @@ definitions:
   defs:
   - text: "(usually derogatory) A lesbian, particularly one with masculine or butch
       traits or behavior."
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

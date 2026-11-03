@@ -63,4 +63,15 @@ definitions:
   - text: To miskick (a ball) by hitting it with the wrong part of the foot.
   - text: To screw back.
   - text: To examine (a student) rigidly; to subject to a severe examination.
+prev_word: scree
+next_word: scrim
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ew/"
+  label: Ending in EW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

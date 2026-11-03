@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 85
 neighbours:
 - sulci
+prev_word: subha
+next_word: sucks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

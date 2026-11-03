@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANTY
   count: 9
+prev_word: janny
+next_word: japan
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

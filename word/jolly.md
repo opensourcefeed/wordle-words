@@ -58,4 +58,15 @@ definitions:
 - pos: adverb
   defs:
   - text: Very, extremely
+prev_word: jolls
+next_word: jolts
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

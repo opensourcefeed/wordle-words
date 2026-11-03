@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: The official or principal currency of São Tomé and Príncipe, divided into
       100 cêntimos.
+prev_word: doble
+next_word: dobro
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

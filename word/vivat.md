@@ -33,4 +33,15 @@ definitions:
 - pos: interjection
   defs:
   - text: A cry wishing someone long life and prosperity.
+prev_word: vivas
+next_word: vivda
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

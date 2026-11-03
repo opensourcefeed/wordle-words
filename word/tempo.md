@@ -53,4 +53,15 @@ definitions:
       Sohn Tempo-Werke GmbH.'
   - text: A rapid rate of play by the offense resulting from reducing the amount of
       time which elapses after one play ends and the next starts.
+prev_word: tempi
+next_word: temps
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -69,4 +69,15 @@ definitions:
   - text: To hit or kick with a lot of power.
   - text: To hit someone with a pitch, especially in an intentional context.
   - text: To have sexual intercourse with; to penetrate.
+prev_word: drift
+next_word: drily
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

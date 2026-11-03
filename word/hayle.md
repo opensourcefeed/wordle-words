@@ -29,4 +29,15 @@ neighbours:
 - hoyle
 - kayle
 - rayle
+prev_word: hayey
+next_word: hazan
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

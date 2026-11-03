@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: A person who dresses in a showy but tasteless manner and behaves in a vulgar
       and conceited way; a show-off.
+prev_word: laird
+next_word: lairy
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

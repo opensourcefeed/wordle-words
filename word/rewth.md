@@ -24,4 +24,15 @@ neighbours:
 - rowth
 anagrams:
 - threw
+prev_word: rewon
+next_word: rexes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

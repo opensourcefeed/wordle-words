@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small handleless cup in which saké is served.
+prev_word: choke
+next_word: choky
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

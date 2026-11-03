@@ -25,4 +25,13 @@ neighbours:
 - knowe
 anagrams:
 - waken
+prev_word: knave
+next_word: knead
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

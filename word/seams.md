@@ -75,4 +75,15 @@ definitions:
 - pos: noun
   defs:
   - text: Grease; tallow; lard
+prev_word: seame
+next_word: seamy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Lapis lazuli.
+prev_word: lapin
+next_word: lapje
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

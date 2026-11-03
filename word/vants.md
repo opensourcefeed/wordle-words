@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: vangs
+next_word: vaped
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

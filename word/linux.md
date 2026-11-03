@@ -28,4 +28,13 @@ definitions:
 - pos: noun
   defs:
   - text: Any unix-like operating system distro that uses the Linux kernel.
+prev_word: linum
+next_word: lions
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

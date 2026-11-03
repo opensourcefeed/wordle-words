@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: WA_ER
   count: 8
+prev_word: waxen
+next_word: waxes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

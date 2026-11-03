@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A daughter-in-law, especially one who lives with her husband's family when
       married.
+prev_word: bahts
+next_word: bahut
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

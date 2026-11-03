@@ -27,4 +27,15 @@ neighbours:
 - quawk
 - quink
 - quonk
+prev_word: qualy
+next_word: quant
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

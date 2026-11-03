@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: WA_ES
   count: 11
+prev_word: wawas
+next_word: wawls
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

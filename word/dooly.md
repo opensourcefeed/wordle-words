@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OOLY
   count: 7
+prev_word: dools
+next_word: dooms
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

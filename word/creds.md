@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: CRE_S
   count: 6
+prev_word: credo
+next_word: creed
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

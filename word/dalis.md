@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ALIS
   count: 8
+prev_word: dales
+next_word: dalle
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

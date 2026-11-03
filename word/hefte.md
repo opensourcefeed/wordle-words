@@ -25,4 +25,15 @@ neighbours:
 - hefts
 - lefte
 - wefte
+prev_word: heeze
+next_word: hefts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

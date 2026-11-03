@@ -25,4 +25,15 @@ stats:
 neighbours:
 - aglow
 - igloo
+prev_word: agley
+next_word: aglow
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

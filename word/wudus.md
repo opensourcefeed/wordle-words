@@ -22,4 +22,15 @@ stats:
 neighbours:
 - kudus
 - pudus
+prev_word: wuddy
+next_word: wuffs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wu/"
+  label: Starting with WU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -26,4 +26,15 @@ neighbours:
 - dowar
 anagrams:
 - doura
+prev_word: dotty
+next_word: doubt
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

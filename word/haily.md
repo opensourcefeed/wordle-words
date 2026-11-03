@@ -28,4 +28,15 @@ neighbours:
 - hails
 - haply
 - naily
+prev_word: hails
+next_word: hains
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

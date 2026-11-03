@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Extremely ugly.
+prev_word: fugle
+next_word: fugue
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

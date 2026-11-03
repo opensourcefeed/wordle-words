@@ -52,4 +52,15 @@ definitions:
   - text: Of or relating to process of taking money from an account
   - text: Of or relating to the debit card function of a debit card rather than its
       often available credit card function
+prev_word: debes
+next_word: debts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

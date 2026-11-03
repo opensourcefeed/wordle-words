@@ -57,4 +57,15 @@ definitions:
   - text: To enjoin upon; to command.
   - text: To accept, or engage in, as a contest.
     example: to join encounter, battle, or issue
+prev_word: johns
+next_word: joint
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

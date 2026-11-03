@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The synagogue.
+prev_word: shuln
+next_word: shuns
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

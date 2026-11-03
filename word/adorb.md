@@ -37,4 +37,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Adorable.
+prev_word: adopt
+next_word: adore
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

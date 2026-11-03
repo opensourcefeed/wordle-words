@@ -27,4 +27,15 @@ neighbours:
 - pinga
 anagrams:
 - again
+prev_word: ainee
+next_word: aioli
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

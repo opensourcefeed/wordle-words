@@ -29,4 +29,15 @@ neighbours:
 - allee
 anagrams:
 - eagle
+prev_word: agita
+next_word: aglet
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

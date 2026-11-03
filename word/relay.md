@@ -58,4 +58,15 @@ definitions:
   - text: To take on a new relay of horses; to change horses.
   - text: To pass on or transfer (information).
     example: Can you relay this message to John?
+prev_word: relax
+next_word: relet
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

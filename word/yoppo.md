@@ -24,4 +24,15 @@ neighbours:
 - zoppo
 anagrams:
 - poopy
+prev_word: yopos
+next_word: yores
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/po/"
+  label: Ending in PO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

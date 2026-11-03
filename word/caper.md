@@ -61,4 +61,15 @@ definitions:
   - text: To leap or jump about in a sprightly or playful manner.
   - text: To jump as part of a dance.
   - text: To engage in playful behaviour.
+prev_word: caped
+next_word: capes
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -23,4 +23,15 @@ neighbours:
 - baccy
 - bicky
 - piccy
+prev_word: bible
+next_word: bicep
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

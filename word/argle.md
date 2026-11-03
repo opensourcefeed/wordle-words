@@ -30,4 +30,15 @@ anagrams:
 - lager
 - large
 - regal
+prev_word: argil
+next_word: argol
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

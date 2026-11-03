@@ -47,4 +47,15 @@ definitions:
     example: a penal colony
   - text: Exorbitant.
     example: a penal rate of interest.
+prev_word: pelus
+next_word: pence
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

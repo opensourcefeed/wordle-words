@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: To expel (a user) permanently from a MUD or similar system, so that their
       account is deleted.
+prev_word: tizzy
+next_word: toady
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

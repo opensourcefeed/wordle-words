@@ -20,4 +20,15 @@ stats:
   starter_top_percent: 66
 neighbours:
 - crith
+prev_word: cruve
+next_word: cryer
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

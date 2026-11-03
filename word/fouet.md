@@ -27,4 +27,15 @@ neighbours:
 - fouer
 - fount
 - rouet
+prev_word: fouer
+next_word: foule
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

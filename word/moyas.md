@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: MO_AS
   count: 7
+prev_word: moxie
+next_word: moyle
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

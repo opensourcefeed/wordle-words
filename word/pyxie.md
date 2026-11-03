@@ -24,4 +24,15 @@ stats:
 neighbours:
 - pixie
 - pyxis
+prev_word: pyxes
+next_word: pyxis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

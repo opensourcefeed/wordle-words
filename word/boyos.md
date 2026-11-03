@@ -41,4 +41,15 @@ definitions:
   - text: A boy or lad.
   - text: "(sometimes derogatory) A stereotypically Welsh form of address for a man,
       usually younger than the speaker."
+prev_word: boyly
+next_word: boysy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

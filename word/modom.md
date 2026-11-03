@@ -24,4 +24,15 @@ neighbours:
 - modem
 - modoc
 - sodom
+prev_word: modoc
+next_word: modus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

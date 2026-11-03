@@ -41,4 +41,15 @@ definitions:
   - text: A group or molecule that donates either a radical, electrons or a moiety
       in a chemical reaction. Compare acceptor.
     example: a carbonyl donor molecule
+prev_word: donny
+next_word: donsy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

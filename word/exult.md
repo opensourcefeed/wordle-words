@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To rejoice; to be very happy, especially in triumph.
+prev_word: exuls
+next_word: exurb
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: To shed or lose a covering of hair or fur, feathers, skin, horns, etc, and
       replace it with a fresh one.
   - text: To shed in such a manner.
+prev_word: molto
+next_word: molue
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,13 @@ definitions:
   - text: To identify with or match the behaviour, thoughts, etc of another person.
   - text: To organize a linear arrangement of DNA, RNA or protein sequences which
       have regions of similarity.
+prev_word: alifs
+next_word: alike
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

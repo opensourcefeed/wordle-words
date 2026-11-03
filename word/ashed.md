@@ -35,4 +35,15 @@ anagrams:
 - hades
 - heads
 - sadhe
+prev_word: asdic
+next_word: ashen
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/as/"
+  label: Starting with AS
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

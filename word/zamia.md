@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various cycads of the genera Zamia and Macrozamia
+prev_word: zambo
+next_word: zamis
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

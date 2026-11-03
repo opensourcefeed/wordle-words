@@ -84,4 +84,15 @@ definitions:
   - text: Being three of a kind as the first three cards in seven card stud.
     example: I was dealt three of a kind, wired.
   - text: "(of people or communities) Connected to the Internet; online."
+prev_word: wipes
+next_word: wirer
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -38,4 +38,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Not met; unfulfilled; not achieved
+prev_word: unman
+next_word: unmew
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: Representing the dull sound of the impact of a heavy object striking another
       and coming to an immediate standstill, with neither object being broken by the
       impact.
+prev_word: thump
+next_word: thurl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

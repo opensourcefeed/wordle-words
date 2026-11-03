@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - bhais
 - sahib
+prev_word: hiant
+next_word: hicks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

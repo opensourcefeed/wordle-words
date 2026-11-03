@@ -47,4 +47,15 @@ definitions:
   - text: A man who foolishly overvalues and defers to a woman, putting her on a pedestal.
   - text: "(by extension) Someone who foolishly overvalues someone else and defers
       to them, putting them on a pedestal."
+prev_word: simis
+next_word: simul
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -49,4 +49,15 @@ definitions:
       a hand-held device.
   - text: To spray a similar noxious chemical in defense or attack using an available
       hand-held device such as an aerosol spray can.
+prev_word: macca
+next_word: macer
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

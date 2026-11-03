@@ -55,4 +55,15 @@ definitions:
   - text: To engage in contradiction; to be in opposition.
   - text: To leave or make balks in.
   - text: To leave heaped up; to heap up in piles.
+prev_word: bauks
+next_word: baurs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/lk/"
+  label: Ending in LK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -28,4 +28,15 @@ neighbours:
 - hotch
 - loach
 - poach
+prev_word: hizen
+next_word: hoaed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -26,4 +26,13 @@ neighbours:
 anagrams:
 - bacco
 - bocca
+prev_word: cabob
+next_word: cabre
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -34,4 +34,15 @@ neighbours:
 - areas
 - aredd
 - oread
+prev_word: ardri
+next_word: areae
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -21,4 +21,15 @@ stats:
 neighbours:
 - mulch
 - mulse
+prev_word: mulse
+next_word: mumbo
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

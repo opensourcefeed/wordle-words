@@ -49,4 +49,15 @@ definitions:
   - text: A thief.
   - text: A peddler of petty things.
   - text: A workman who dresses things up.
+prev_word: faked
+next_word: fakes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

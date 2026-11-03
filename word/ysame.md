@@ -23,4 +23,13 @@ stats:
 anagrams:
 - samey
 - seamy
+prev_word: yrneh
+next_word: ytost
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

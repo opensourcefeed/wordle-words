@@ -48,4 +48,15 @@ definitions:
   - text: Supply; provision.
   - text: "(ropemaking) A given size of rope, common grist being a rope three inches
       in circumference, with twenty yarns in each of the three strands."
+prev_word: grise
+next_word: grisy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

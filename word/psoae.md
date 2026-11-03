@@ -27,4 +27,15 @@ neighbours:
 - psoas
 anagrams:
 - paseo
+prev_word: psion
+next_word: psoai
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - keema
 - makee
+prev_word: meads
+next_word: meaks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

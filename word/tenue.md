@@ -26,4 +26,15 @@ neighbours:
 - venue
 - tenge
 - tenne
+prev_word: tenty
+next_word: tepal
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

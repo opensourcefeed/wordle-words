@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: A nose piercing that goes through the nasal septum.
+prev_word: seppo
+next_word: septs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

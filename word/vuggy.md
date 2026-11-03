@@ -30,4 +30,13 @@ neighbours:
 trap:
   pattern: _UGGY
   count: 7
+prev_word: vuggs
+next_word: vughs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

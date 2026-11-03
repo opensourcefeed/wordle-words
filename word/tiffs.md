@@ -55,4 +55,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(British India) To have lunch."
+prev_word: tiers
+next_word: tifos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

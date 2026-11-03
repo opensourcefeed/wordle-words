@@ -37,4 +37,15 @@ definitions:
   - text: "(Jungian psychology) The inner self (not the external persona) of a person
       that is in touch with the unconscious as opposed to the persona."
   - text: "(Jungian psychology) The unconscious feminine aspect of a person."
+prev_word: anils
+next_word: anime
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

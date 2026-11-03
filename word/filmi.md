@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Music written especially for Bollywood films.
+prev_word: filly
+next_word: films
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/mi/"
+  label: Ending in MI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

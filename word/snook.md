@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fish for snook.
+prev_word: snood
+next_word: snool
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

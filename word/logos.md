@@ -47,4 +47,15 @@ definitions:
   - text: A form of rhetoric in which the writer or speaker uses logic as the main
       argument.
   - text: Alternative letter-case form of Logos
+prev_word: logon
+next_word: lohan
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

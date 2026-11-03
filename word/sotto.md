@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ottos
 - toots
+prev_word: sotol
+next_word: souce
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

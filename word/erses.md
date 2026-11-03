@@ -31,4 +31,15 @@ anagrams:
 - reses
 - seers
 - seres
+prev_word: error
+next_word: eruct
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/er/"
+  label: Starting with ER
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

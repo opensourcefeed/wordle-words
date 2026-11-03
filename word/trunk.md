@@ -52,4 +52,15 @@ definitions:
   - text: To lop off; to curtail; to truncate.
   - text: To extract (ores) from the slimes in which they are contained, by means
       of a trunk.
+prev_word: trump
+next_word: truss
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

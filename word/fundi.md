@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(Zimbabwe) expert, guru, maven"
+prev_word: funda
+next_word: fundo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/di/"
+  label: Ending in DI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

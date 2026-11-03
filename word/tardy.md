@@ -62,4 +62,15 @@ definitions:
     example: His tardy performance bordered on incompetence.
   - text: Unwary; unready (especially in the phrase take (someone) tardy).
   - text: Criminal; guilty.
+prev_word: tardo
+next_word: tared
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

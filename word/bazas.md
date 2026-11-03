@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of three species of small, crested hawks in the genus Aviceda.
+prev_word: bazar
+next_word: bazoo
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

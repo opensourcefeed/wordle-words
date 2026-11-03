@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A poker machine. Mostly used in the plural (pokies). Poker machine is the
       standard term used in the singular.
+prev_word: pokey
+next_word: pokit
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

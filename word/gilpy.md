@@ -26,4 +26,15 @@ neighbours:
 - gulpy
 anagrams:
 - pigly
+prev_word: gilly
+next_word: gilts
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

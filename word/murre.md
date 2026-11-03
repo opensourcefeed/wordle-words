@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any seabird of the genus Uria in the family Alcidae (the auks).
+prev_word: murra
+next_word: murri
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

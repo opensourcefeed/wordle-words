@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of Ghana, divided into 100 pesewas and represented by ₵.
+prev_word: cedes
+next_word: ceiba
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

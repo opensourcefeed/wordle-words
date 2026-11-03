@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To put or keep in, or as in, a phial.
+prev_word: phese
+next_word: phies
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

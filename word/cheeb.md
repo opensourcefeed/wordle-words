@@ -26,4 +26,13 @@ neighbours:
 - cheet
 anagrams:
 - beech
+prev_word: chedi
+next_word: cheek
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

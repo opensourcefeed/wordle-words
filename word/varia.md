@@ -27,4 +27,15 @@ neighbours:
 - varda
 - varix
 - varna
+prev_word: vares
+next_word: varix
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

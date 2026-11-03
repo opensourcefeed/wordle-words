@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ASES
   count: 12
+prev_word: maser
+next_word: masha
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

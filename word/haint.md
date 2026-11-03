@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _AINT
   count: 6
+prev_word: hains
+next_word: hairs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

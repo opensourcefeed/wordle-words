@@ -29,4 +29,15 @@ anagrams:
 - atoms
 - moats
 - stoma
+prev_word: atmas
+next_word: atocs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

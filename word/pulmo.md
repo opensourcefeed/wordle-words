@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 72
 neighbours:
 - pulao
+prev_word: pully
+next_word: pulps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

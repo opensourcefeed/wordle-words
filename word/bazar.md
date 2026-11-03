@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - braza
 - zabra
+prev_word: bayts
+next_word: bazas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

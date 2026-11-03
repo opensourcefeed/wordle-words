@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _ACKY
   count: 8
+prev_word: packs
+next_word: pacos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

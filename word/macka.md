@@ -26,4 +26,15 @@ neighbours:
 - marka
 - mauka
 - yacka
+prev_word: machs
+next_word: macks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -34,4 +34,15 @@ anagrams:
 - kyles
 - selky
 - ylkes
+prev_word: yeggs
+next_word: yells
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
     example: In this street, the shops always close during lunchtime.
   - text: In any event.
     example: I thought I could always go back to work.
+prev_word: alvar
+next_word: amahs
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

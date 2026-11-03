@@ -38,4 +38,13 @@ definitions:
   - text: The sound of an engine revving up.
     example: I never saw my uncle’s Ferrari, but I could always hear it going vroom
       as it flew past by my house.
+prev_word: vrils
+next_word: vrous
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

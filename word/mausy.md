@@ -26,4 +26,15 @@ neighbours:
 - mauvy
 - mauzy
 - mousy
+prev_word: mauri
+next_word: mauts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

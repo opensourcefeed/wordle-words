@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: A periodic payment, such as is made of a rent or annuity.
     example: Gale day - the day on which rent or interest is due.
+prev_word: galed
+next_word: galia
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

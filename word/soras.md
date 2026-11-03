@@ -49,4 +49,15 @@ definitions:
 - pos: noun
   defs:
   - text: A rail (Porzana carolina) of North, Central, and northern South America.
+prev_word: soral
+next_word: sorbi
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

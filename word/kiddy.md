@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Alternative spelling of kiddie
+prev_word: kiddo
+next_word: kidel
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

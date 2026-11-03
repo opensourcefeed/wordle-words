@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - apols
 - opals
+prev_word: salon
+next_word: salpa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/op/"
+  label: Ending in OP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

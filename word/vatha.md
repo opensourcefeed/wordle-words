@@ -26,4 +26,15 @@ neighbours:
 - ratha
 anagrams:
 - tavah
+prev_word: vatas
+next_word: vatic
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

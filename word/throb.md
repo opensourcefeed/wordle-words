@@ -40,4 +40,15 @@ definitions:
   - text: To vibrate or pulsate with a steady rhythm.
   - text: "(of a body part) To pulse (often painfully) in time with the circulation
       of blood."
+prev_word: thrip
+next_word: throe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ob/"
+  label: Ending in OB
+- url: "/ending-with/b/"
+  label: Ending in B
 ---

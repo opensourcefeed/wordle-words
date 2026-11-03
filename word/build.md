@@ -53,4 +53,15 @@ definitions:
   - text: "(of source code) To be converted into software by compilation, usually
       with minimal human intervention."
     example: This code won't build any more. Have you made any changes?
+prev_word: buiks
+next_word: built
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

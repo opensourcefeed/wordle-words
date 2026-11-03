@@ -31,4 +31,15 @@ anagrams:
 - abler
 - belar
 - blear
+prev_word: blady
+next_word: blaes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

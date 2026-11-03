@@ -23,4 +23,15 @@ neighbours:
 - imshy
 anagrams:
 - mihis
+prev_word: impro
+next_word: imshy
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

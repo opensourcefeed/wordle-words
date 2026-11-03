@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To add vowel points to a consonantal script (e.g. niqqud in Hebrew or harakat
       in Arabic)
+prev_word: vowed
+next_word: vower
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

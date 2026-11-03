@@ -33,4 +33,15 @@ anagrams:
 - rendu
 - unred
 - urned
+prev_word: runds
+next_word: runer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

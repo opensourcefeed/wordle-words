@@ -36,4 +36,15 @@ definitions:
   - text: A surplice, in England and America usually one shorter and less full than
       the ordinary surplice and with short sleeves, or sometimes none.
   - text: A kind of coarse woollen blanket.
+prev_word: coths
+next_word: cotts
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

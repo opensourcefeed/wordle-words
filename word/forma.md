@@ -31,4 +31,15 @@ neighbours:
 - qorma
 anagrams:
 - foram
+prev_word: forky
+next_word: forme
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

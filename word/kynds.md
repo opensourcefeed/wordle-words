@@ -24,4 +24,15 @@ neighbours:
 - rynds
 - synds
 - wynds
+prev_word: kynde
+next_word: kypes
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ky/"
+  label: Starting with KY
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

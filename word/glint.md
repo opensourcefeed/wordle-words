@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: "(of a blade) Not sharp; dull."
     example: The knife is glint.
+prev_word: glims
+next_word: glisk
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: "(Indian mythology) A member of a class of semi-divine creatures, often
       taking the form of a very large snake and associated with water."
+prev_word: nagar
+next_word: nages
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

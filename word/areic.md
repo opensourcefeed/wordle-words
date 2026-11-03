@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - ceria
 - erica
+prev_word: arefy
+next_word: arena
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

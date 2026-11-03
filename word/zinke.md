@@ -24,4 +24,15 @@ stats:
 neighbours:
 - minke
 - zinky
+prev_word: zingy
+next_word: zinky
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

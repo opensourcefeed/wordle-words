@@ -53,4 +53,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fish, the torsk (Brosme brosme).
+prev_word: tushy
+next_word: tusky
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

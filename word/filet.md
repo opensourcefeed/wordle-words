@@ -63,4 +63,15 @@ definitions:
   defs:
   - text: To slice, bone or make into fillets.
   - text: To apply, create, or specify a rounded or filled corner to.
+prev_word: files
+next_word: filii
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

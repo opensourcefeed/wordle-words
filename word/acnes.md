@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - canes
 - scena
+prev_word: acned
+next_word: acock
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Crazy.
   - text: Uninhibited.
+prev_word: wigan
+next_word: wight
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

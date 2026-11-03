@@ -29,4 +29,15 @@ neighbours:
 - faute
 - hause
 - vaute
+prev_word: hause
+next_word: havan
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

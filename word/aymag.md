@@ -24,4 +24,13 @@ neighbours:
 anagrams:
 - agamy
 - gamay
+prev_word: ayins
+next_word: ayont
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ag/"
+  label: Ending in AG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

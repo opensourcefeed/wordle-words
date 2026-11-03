@@ -66,4 +66,15 @@ definitions:
   defs:
   - text: To demolish; to level to the ground.
   - text: To scrape as if with a razor.
+prev_word: rabis
+next_word: racer
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

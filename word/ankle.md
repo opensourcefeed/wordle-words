@@ -46,4 +46,15 @@ definitions:
   - text: To walk.
   - text: To cyclically angle the foot at the ankle while pedaling, to maximize the
       amount of work applied to the pedal during each revolution.
+prev_word: ankhs
+next_word: ankus
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

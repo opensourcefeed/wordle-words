@@ -35,4 +35,15 @@ anagrams:
 - gaurs
 - guars
 - ragus
+prev_word: rugal
+next_word: rugby
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To apply a preparation of sumac to (an object), for example, to a piece
       of leather to tan it.
+prev_word: sulus
+next_word: sumis
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ac/"
+  label: Ending in AC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

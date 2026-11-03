@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A landing-place in a river; a harbour or small port.
+prev_word: hyson
+next_word: iambi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hy/"
+  label: Starting with HY
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To put (troops) onto a bus
   - text: To board a bus
+prev_word: embox
+next_word: emcee
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

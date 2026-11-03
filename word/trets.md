@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: TRE_S
   count: 7
+prev_word: trest
+next_word: trews
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

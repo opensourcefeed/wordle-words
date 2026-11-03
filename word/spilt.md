@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: That has been spilt.
     example: Don't cry over spilt milk; tears won't put it back in the glass.
+prev_word: spill
+next_word: spims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

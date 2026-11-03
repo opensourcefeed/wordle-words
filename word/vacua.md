@@ -35,4 +35,15 @@ definitions:
       exhausted of air or steam, etc.
     example: a vacuum of 26 inches of mercury, or 13 pounds per square inch
   - text: A spacetime having tensors of zero magnitude
+prev_word: vacay
+next_word: vacui
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

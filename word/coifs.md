@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To style or arrange hair.
+prev_word: cohos
+next_word: coign
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

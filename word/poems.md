@@ -37,4 +37,15 @@ definitions:
   - text: A piece of writing in the tradition of poetry, an instance of poetry.
   - text: A piece of poetic writing, that is with an intensity or depth of expression
       or inspiration greater than is usual in prose.
+prev_word: podus
+next_word: poena
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
       networks (especially the Internet) or removable storage such as disks, often
       causing damage to systems and data; also computer virus.
   - text: Any type of malware.
+prev_word: virtu
+next_word: visas
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a halal manner; in accordance with Muslim religious customs.
+prev_word: hakus
+next_word: haldi
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -67,4 +67,15 @@ definitions:
     example: As I spoke too loudly during the solemn church service, my husband shot
       me a glance that emotionally tasered me to the point of silence until we returned
       home 2 hours later.
+prev_word: tased
+next_word: tases
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

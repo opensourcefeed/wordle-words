@@ -43,4 +43,15 @@ definitions:
       an axletree.
   - text: An axis.
     example: the Sun's axle
+prev_word: axled
+next_word: axman
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

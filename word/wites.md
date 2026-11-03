@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _ITES
   count: 12
+prev_word: wited
+next_word: withe
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -40,4 +40,13 @@ definitions:
   - text: To anticipate with dread or fear; to apprehend.
   - text: To fill with fear; to affright.
   - text: To dread, to fear.
+prev_word: douar
+next_word: douce
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

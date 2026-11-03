@@ -54,4 +54,15 @@ definitions:
   - text: To open the mouth, or to gape, through surprise or bewilderment.
   - text: To be eager; to desire to swallow anything; to express desire by yawning.
     example: to yawn for fat livings
+prev_word: yawls
+next_word: yawny
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

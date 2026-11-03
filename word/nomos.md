@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: _OMOS
   count: 6
+prev_word: nomoi
+next_word: nonan
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

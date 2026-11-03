@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who frees.
+prev_word: freed
+next_word: frees
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

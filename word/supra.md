@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Used to indicate that the current citation is from the same source as the
       previous one.
+prev_word: supes
+next_word: surah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

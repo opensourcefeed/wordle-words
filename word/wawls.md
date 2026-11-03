@@ -30,4 +30,15 @@ neighbours:
 - wawas
 - wawes
 - yawls
+prev_word: wawes
+next_word: waxed
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

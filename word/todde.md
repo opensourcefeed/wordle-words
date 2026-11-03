@@ -26,4 +26,15 @@ neighbours:
 - toddy
 anagrams:
 - doted
+prev_word: today
+next_word: toddy
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: Elongated form of grr.
   - text: A riot grrrl.
+prev_word: grows
+next_word: grrrl
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

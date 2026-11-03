@@ -24,4 +24,13 @@ stats:
 neighbours:
 - amins
 - pyins
+prev_word: aygre
+next_word: aymag
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

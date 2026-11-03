@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - pelon
 - pleon
+prev_word: plene
+next_word: pleon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/no/"
+  label: Ending in NO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

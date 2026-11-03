@@ -37,4 +37,15 @@ definitions:
   - text: Any bird of the family Vireonidae, which includes vireos, shrike-vireo,
       greenlets and peppershrikes.
   - text: "(in plural) The family Vireonidae."
+prev_word: vired
+next_word: vires
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

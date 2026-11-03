@@ -34,4 +34,15 @@ anagrams:
 - fines
 - neifs
 - nifes
+prev_word: niece
+next_word: niess
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

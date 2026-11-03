@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: To provide with fuel.
   - text: To exacerbate, to cause to grow or become greater.
+prev_word: fudgy
+next_word: fuero
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

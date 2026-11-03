@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Very cold; icy or frosty.
+prev_word: gelee
+next_word: gelly
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

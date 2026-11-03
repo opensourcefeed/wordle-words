@@ -24,4 +24,15 @@ neighbours:
 - souce
 anagrams:
 - scout
+prev_word: souce
+next_word: sough
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ct/"
+  label: Ending in CT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

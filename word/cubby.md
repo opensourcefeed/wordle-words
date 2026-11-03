@@ -41,4 +41,15 @@ definitions:
   - text: A small, confined space.
   - text: In a school classroom, a cell of a shelf for students to place belongings
       in.
+prev_word: ctene
+next_word: cubeb
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -36,4 +36,15 @@ definitions:
   - text: The dried leaves or pods of these plants (especially of Senna alexandrina,
       syn. Cassia angustifolia or Cassia acutifolia), used medicinally.
   - text: Senna glycoside, a laxative.
+prev_word: sengi
+next_word: senor
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

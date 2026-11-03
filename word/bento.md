@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A Japanese takeaway lunch served in a box, often with the food arranged
       into an elaborate design.
+prev_word: benny
+next_word: bents
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

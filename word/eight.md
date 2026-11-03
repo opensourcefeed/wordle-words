@@ -60,4 +60,13 @@ definitions:
 - pos: adjective
   defs:
   - text: The ordinal form of the number eight.
+prev_word: eidos
+next_word: eigne
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -28,4 +28,15 @@ neighbours:
 - wedgy
 anagrams:
 - gyeld
+prev_word: ledge
+next_word: ledum
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

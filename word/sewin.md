@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The brown trout.
+prev_word: sewer
+next_word: sexed
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

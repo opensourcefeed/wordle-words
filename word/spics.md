@@ -43,4 +43,13 @@ definitions:
 - pos: noun
   defs:
   - text: A Spanish-speaking person, someone with a Central American or Latino accent.
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

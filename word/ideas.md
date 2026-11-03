@@ -52,4 +52,15 @@ definitions:
     example: He had the wild idea that if he leant forward a little, he might be able
       to touch the mountain-top.
   - text: A musical theme or melodic subject.
+prev_word: ideal
+next_word: idees
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/id/"
+  label: Starting with ID
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

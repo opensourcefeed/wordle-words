@@ -37,4 +37,15 @@ definitions:
 - pos: adverb
   defs:
   - text: On fire (often metaphorically).
+prev_word: afion
+next_word: afizz
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

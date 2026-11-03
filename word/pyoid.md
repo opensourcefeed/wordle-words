@@ -23,4 +23,15 @@ stats:
 neighbours:
 - hyoid
 - myoid
+prev_word: pynes
+next_word: pyots
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/py/"
+  label: Starting with PY
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -34,4 +34,15 @@ definitions:
       popped off and surprised them both.
   - text: To destroy, invalidate, overthrow, or defeat.
     example: The scientific evidence upended the popular myth.
+prev_word: updry
+next_word: upful
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

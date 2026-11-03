@@ -33,4 +33,15 @@ neighbours:
 - allen
 - iller
 - oller
+prev_word: allen
+next_word: alley
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

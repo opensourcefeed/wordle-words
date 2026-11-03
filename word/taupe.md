@@ -36,4 +36,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of a dark brownish-grey colour.
+prev_word: tauon
+next_word: tauts
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

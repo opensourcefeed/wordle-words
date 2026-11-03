@@ -27,4 +27,15 @@ neighbours:
 - goner
 - gofer
 - gomer
+prev_word: gogos
+next_word: going
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -126,4 +126,15 @@ definitions:
   - text: To misfire.
     example: The gun snapped.
   - text: To catch out sharply (a batsman who has just snicked a bowled ball).
+prev_word: snaky
+next_word: snare
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

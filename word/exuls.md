@@ -26,4 +26,15 @@ neighbours:
 - exult
 anagrams:
 - luxes
+prev_word: exude
+next_word: exult
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

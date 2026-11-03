@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: The currency of the North Macedonia, divided into 100 deni
+prev_word: demur
+next_word: denay
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

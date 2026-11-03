@@ -44,4 +44,15 @@ definitions:
       an arrangement on a common intake manifold)."
   - text: "(restaurants) A table seating two diners."
   - text: A piece of excrement.
+prev_word: detox
+next_word: devas
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

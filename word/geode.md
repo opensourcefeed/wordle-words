@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A nodule of stone having a cavity lined with mineral or crystal matter on
       the inside wall.
+prev_word: genus
+next_word: geoid
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

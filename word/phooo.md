@@ -23,4 +23,15 @@ neighbours:
 - photo
 - phono
 - phooh
+prev_word: phooh
+next_word: phota
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

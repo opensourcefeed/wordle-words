@@ -31,4 +31,15 @@ neighbours:
 - vined
 - vired
 - vised
+prev_word: vicar
+next_word: vices
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

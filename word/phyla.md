@@ -38,4 +38,15 @@ definitions:
     example: Mammals belong to the phylum Chordata.
   - text: A large division of possibly related languages, or a major language family
       which is not subordinate to another.
+prev_word: phwat
+next_word: phyle
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

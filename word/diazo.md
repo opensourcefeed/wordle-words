@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: Containing a pair of double bonded nitrogen atoms, typically directly attached
       to an aryl group.
+prev_word: diary
+next_word: dibbs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

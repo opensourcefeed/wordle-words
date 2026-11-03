@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A binary chemical compound of oxygen with another chemical element.
+prev_word: oxeye
+next_word: oxids
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ox/"
+  label: Starting with OX
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

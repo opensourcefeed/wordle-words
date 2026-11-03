@@ -71,4 +71,15 @@ definitions:
   - text: "(of timber) To dress; to make smooth."
   - text: To rebuke; to reprove.
   - text: To beat or thrash.
+prev_word: trill
+next_word: trine
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

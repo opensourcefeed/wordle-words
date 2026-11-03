@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 30
 neighbours:
 - dynes
+prev_word: dykon
+next_word: dynes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

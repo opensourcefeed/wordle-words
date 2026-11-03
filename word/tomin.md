@@ -29,4 +29,15 @@ neighbours:
 - tomia
 anagrams:
 - timon
+prev_word: tomia
+next_word: tomme
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

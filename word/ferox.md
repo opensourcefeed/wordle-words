@@ -26,4 +26,13 @@ neighbours:
 - xerox
 anagrams:
 - forex
+prev_word: ferny
+next_word: ferry
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

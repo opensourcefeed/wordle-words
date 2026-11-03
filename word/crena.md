@@ -32,4 +32,15 @@ anagrams:
 - carne
 - nacre
 - rance
+prev_word: crems
+next_word: crepe
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

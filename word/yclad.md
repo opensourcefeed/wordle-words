@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 47
 neighbours:
 - ycled
+prev_word: ybore
+next_word: ycled
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

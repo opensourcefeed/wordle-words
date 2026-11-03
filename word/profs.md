@@ -54,4 +54,15 @@ definitions:
   - text: In property law, a nonpossessory interest in land whereby a party is entitled
       to enter the land of another for the purpose of taking the soil or the substance
       of the soil (coal, oil, minerals, and in some jurisdictions timber and game).
+prev_word: proem
+next_word: progs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: Wimpy; spineless; feeble.
   - text: Of a deep purple colour, like that of the pansy.
+prev_word: panny
+next_word: panto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

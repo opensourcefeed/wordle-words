@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _EXES
   count: 11
+prev_word: yexed
+next_word: yfere
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

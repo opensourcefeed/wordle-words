@@ -23,4 +23,15 @@ stats:
 neighbours:
 - topek
 - tupik
+prev_word: tunny
+next_word: tupik
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

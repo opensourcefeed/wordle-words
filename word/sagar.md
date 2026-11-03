@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - agars
 - ragas
+prev_word: safes
+next_word: sagas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

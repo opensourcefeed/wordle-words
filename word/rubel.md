@@ -28,4 +28,15 @@ anagrams:
 - bluer
 - brule
 - ruble
+prev_word: rubby
+next_word: rubes
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

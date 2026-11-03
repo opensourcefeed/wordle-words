@@ -31,4 +31,15 @@ anagrams:
 - tates
 - teats
 - testa
+prev_word: etape
+next_word: etens
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

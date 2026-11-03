@@ -38,4 +38,15 @@ definitions:
   - text: Of or relating to the citizen, or of good citizenship and its rights and
       duties.
     example: civic duty
+prev_word: civet
+next_word: civie
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

@@ -62,4 +62,15 @@ definitions:
   - text: To be thirsty.
   - text: To exhaust; to cause to run dry.
   - text: For an actor to forget his or her lines while performing.
+prev_word: drier
+next_word: drift
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

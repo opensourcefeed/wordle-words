@@ -26,4 +26,13 @@ anagrams:
 - dooms
 - moods
 - sodom
+prev_word: dsobo
+next_word: duads
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

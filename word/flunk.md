@@ -41,4 +41,15 @@ definitions:
   - text: To back out through fear. (Commonly in the phrase 'flunk it', the 'it' referring
       to a specific task avoided; sometimes without specific reference describing
       a person's attitude to life in general.)
+prev_word: flung
+next_word: fluor
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

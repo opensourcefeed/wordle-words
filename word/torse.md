@@ -53,4 +53,15 @@ definitions:
   - text: A twist of cloth or wreath underneath and forming part of a crest; an orle,
       a wreath. It is customarily shown with six twists, the first tincture being
       the tincture of the field, the second the tincture of the metal, and so on.
+prev_word: torrs
+next_word: torsi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

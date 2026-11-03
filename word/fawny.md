@@ -24,4 +24,15 @@ neighbours:
 - fawns
 - lawny
 - yawny
+prev_word: fawns
+next_word: faxed
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

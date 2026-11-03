@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _INED
   count: 9
+prev_word: tinea
+next_word: tines
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

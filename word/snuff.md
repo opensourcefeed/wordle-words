@@ -44,4 +44,15 @@ definitions:
   - text: To inhale through the nose.
   - text: To turn up the nose and inhale air, as an expression of contempt; hence,
       to take offence.
+prev_word: snuck
+next_word: snugs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -26,4 +26,15 @@ neighbours:
 - orgia
 anagrams:
 - corgi
+prev_word: orgia
+next_word: orgue
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

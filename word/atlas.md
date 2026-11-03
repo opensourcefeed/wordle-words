@@ -54,4 +54,15 @@ definitions:
   - text: One who supports a heavy burden; mainstay.
   - text: A figure of a man used as a column; telamon.
   - text: A sheet of paper measuring 26 inches by 34 inches.
+prev_word: atimy
+next_word: atman
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

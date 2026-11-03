@@ -67,4 +67,15 @@ definitions:
   defs:
   - text: To defile
   - text: To corrupt
+prev_word: filch
+next_word: filer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

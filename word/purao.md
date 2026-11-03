@@ -27,4 +27,13 @@ neighbours:
 - purau
 anagrams:
 - raupo
+prev_word: pupus
+next_word: purau
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

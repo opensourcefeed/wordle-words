@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Any of several four-player card games, similar to bridge.
   - text: A session of playing this card game.
+prev_word: whiss
+next_word: white
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

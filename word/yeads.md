@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _EADS
   count: 8
+prev_word: ydred
+next_word: yeahs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

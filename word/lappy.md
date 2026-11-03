@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: A laptop computer.
   - text: The lapwing.
+prev_word: lappa
+next_word: lapse
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

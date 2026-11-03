@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _IGHT
   count: 15
+prev_word: tiges
+next_word: tigon
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ht/"
+  label: Ending in HT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

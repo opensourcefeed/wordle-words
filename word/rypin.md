@@ -22,4 +22,15 @@ stats:
 neighbours:
 - rapin
 - repin
+prev_word: ryper
+next_word: rythe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

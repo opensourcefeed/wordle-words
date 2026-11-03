@@ -43,4 +43,15 @@ definitions:
   - text: To shine; to glitter; to glisten.
   - text: To be briefly but strongly apparent.
   - text: To disgorge filth, as a hawk.
+prev_word: glazy
+next_word: glean
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

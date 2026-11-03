@@ -33,4 +33,15 @@ anagrams:
 - efits
 - feist
 - fiest
+prev_word: tides
+next_word: tiers
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

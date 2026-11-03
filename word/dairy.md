@@ -51,4 +51,15 @@ definitions:
   - text: Referring to the milk production and processing industries.
   - text: On food labelling, containing fats only from dairy sources (e.g. dairy ice
       cream).
+prev_word: daint
+next_word: daisy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

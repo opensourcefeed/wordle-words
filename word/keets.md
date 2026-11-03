@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EETS
   count: 7
+prev_word: keeps
+next_word: keeve
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

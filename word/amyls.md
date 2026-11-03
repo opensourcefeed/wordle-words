@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - lyams
 - myals
+prev_word: amuse
+next_word: anana
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

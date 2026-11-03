@@ -24,4 +24,15 @@ neighbours:
 - ducts
 anagrams:
 - dictu
+prev_word: ducky
+next_word: ducts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

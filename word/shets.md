@@ -36,4 +36,15 @@ neighbours:
 anagrams:
 - hests
 - seths
+prev_word: shero
+next_word: sheva
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

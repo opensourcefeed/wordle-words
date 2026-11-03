@@ -26,4 +26,15 @@ neighbours:
 - jager
 anagrams:
 - jirga
+prev_word: jaggy
+next_word: jagra
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

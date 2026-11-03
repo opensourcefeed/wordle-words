@@ -72,4 +72,15 @@ definitions:
     example: to be pinched for money
   - text: To move, as a railroad car, by prying the wheels with a pinch.
   - text: To complain or find fault.
+prev_word: pince
+next_word: pinda
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

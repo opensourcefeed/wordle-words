@@ -41,4 +41,15 @@ definitions:
 - pos: verb
   defs:
   - text: To paralyse, either completely or partially.
+prev_word: palsa
+next_word: palus
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

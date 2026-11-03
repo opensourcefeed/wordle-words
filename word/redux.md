@@ -33,4 +33,13 @@ definitions:
   - text: "(of a topic) Redone, restored, brought back, or revisited."
     example: After an unusually cold August, September felt like summer redux as a
       heatwave sent temperatures soaring.
+prev_word: redug
+next_word: redye
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

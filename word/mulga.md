@@ -38,4 +38,15 @@ definitions:
   - text: "(in combination) The outback."
   - text: Something made from the wood of a mulga tree.
   - text: A mulga wire.
+prev_word: muley
+next_word: mulie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

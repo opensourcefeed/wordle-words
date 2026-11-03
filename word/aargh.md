@@ -26,4 +26,13 @@ definitions:
   defs:
   - text: Expressing annoyance, dismay, embarrassment or frustration.
     example: Argh! Itʼs already 7:15! Weʼre never gonna make it!
+prev_word: aapas
+next_word: aarti
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

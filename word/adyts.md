@@ -25,4 +25,15 @@ neighbours:
 - adits
 - advts
 - adyta
+prev_word: adyta
+next_word: adzed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ad/"
+  label: Starting with AD
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -63,4 +63,15 @@ definitions:
   - text: To force or pile into a mound or mounds.
     example: He mounded up his mashed potatoes so they left more space on the plate
       for the meat.
+prev_word: mouly
+next_word: mount
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

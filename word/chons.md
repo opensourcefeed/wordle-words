@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: CHO_S
   count: 6
+prev_word: chomp
+next_word: choof
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

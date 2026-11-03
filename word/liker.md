@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: LI_ER
   count: 7
+prev_word: liken
+next_word: likes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -88,4 +88,15 @@ definitions:
       the left.
   - text: To strike (the cue ball) below the center so as to give it a backward rotation
       which causes it to take a backward direction on striking another ball.
+prev_word: drawn
+next_word: drays
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _IVES
   count: 10
+prev_word: viver
+next_word: vivid
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

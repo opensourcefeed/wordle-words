@@ -45,4 +45,15 @@ definitions:
   - text: To go to (a shrine, temple etc.) for worship. (Now generally merged into
       later senses, below.)
   - text: To go to (a place) for pleasure, on an errand, etc.
+prev_word: visie
+next_word: visna
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

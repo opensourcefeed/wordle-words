@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: "(sometimes humorous) To sculpture; to carve or engrave."
   - text: To flay.
+prev_word: scull
+next_word: sculs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

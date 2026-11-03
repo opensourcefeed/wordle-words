@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A species of freshwater game fish, Tinca tinca.
+prev_word: temse
+next_word: tends
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

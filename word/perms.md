@@ -53,4 +53,15 @@ definitions:
   - text: A permutation.
   - text: A combination of outcomes (not a permutation) that a gambler bets on in
       the football pools.
+prev_word: perls
+next_word: permy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

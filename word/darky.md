@@ -39,4 +39,13 @@ definitions:
   defs:
   - text: A person with dark skin.
   - text: A dark lantern.
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

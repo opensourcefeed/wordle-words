@@ -43,4 +43,13 @@ definitions:
   - text: Any of the species of the genera Polysticta or Somateria, in the seaduck
       subfamily Merginae, which line their nests with fine down (taken from their
       own bodies).
+prev_word: ehing
+next_word: eidos
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

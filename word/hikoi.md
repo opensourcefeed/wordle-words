@@ -32,4 +32,15 @@ definitions:
 - pos: verb
   defs:
   - text: To participate in a hikoi.
+prev_word: hikes
+next_word: hilar
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

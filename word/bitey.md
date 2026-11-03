@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Inclined to bite.
+prev_word: bites
+next_word: bitos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

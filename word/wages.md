@@ -56,4 +56,15 @@ definitions:
   - text: To conduct or carry out (a war or other contest).
   - text: To adventure, or lay out, for hire or reward; to hire out.
   - text: To give security for the performance of.
+prev_word: wager
+next_word: wagga
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

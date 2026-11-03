@@ -62,4 +62,15 @@ definitions:
   - text: To surreptitiously scan a payment card in order to obtain its information
       for fraudulent purposes.
   - text: To become coated over.
+prev_word: skimp
+next_word: skink
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

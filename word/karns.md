@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _ARNS
   count: 10
+prev_word: karma
+next_word: karoo
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

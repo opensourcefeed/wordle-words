@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: A kind of script in which the heavy strokes are nearly upright, giving the
       characters when taken together a round look.
+prev_word: rompy
+next_word: rondo
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

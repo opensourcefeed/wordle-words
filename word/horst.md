@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: An area of the earth's surface which is raised relative to surrounding land.
+prev_word: horse
+next_word: horsy
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

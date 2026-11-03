@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - swash
 - shaws
+prev_word: shuts
+next_word: shyer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

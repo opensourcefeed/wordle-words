@@ -54,4 +54,15 @@ definitions:
   - text: Any trail or trace that can be followed to find something or someone, such
       as the paper left behind in a paperchase.
   - text: Sense, perception.
+prev_word: senti
+next_word: senvy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

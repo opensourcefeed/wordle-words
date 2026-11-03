@@ -24,4 +24,15 @@ neighbours:
 - prang
 - thang
 - whang
+prev_word: phage
+next_word: phare
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ph/"
+  label: Starting with PH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

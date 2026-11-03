@@ -45,4 +45,15 @@ definitions:
     example: We wended our weary way westward.
   - text: To turn; make a turn; go round; veer.
   - text: To pass away; disappear; depart; vanish.
+prev_word: wench
+next_word: wenge
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

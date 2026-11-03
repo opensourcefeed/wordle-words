@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: S_AWS
   count: 7
+prev_word: skatt
+next_word: skean
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Wizened; withered; lean and wrinkled by shrinkage as from age or illness.
+prev_word: wives
+next_word: wizes
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

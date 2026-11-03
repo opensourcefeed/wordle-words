@@ -26,4 +26,15 @@ anagrams:
 - helps
 - plesh
 - shlep
+prev_word: pelon
+next_word: pelta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

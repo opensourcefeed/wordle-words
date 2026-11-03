@@ -26,4 +26,15 @@ stats:
 neighbours:
 - obits
 - ohias
+prev_word: obeys
+next_word: obied
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ob/"
+  label: Starting with OB
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

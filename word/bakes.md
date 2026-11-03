@@ -70,4 +70,15 @@ definitions:
   - text: To fix (lighting, reflections, etc.) as part of the texture of an object
       to improve rendering performance.
   - text: (with "in" or "into") To incorporate into something greater.
+prev_word: baker
+next_word: bakra
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

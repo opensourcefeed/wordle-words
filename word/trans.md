@@ -52,4 +52,15 @@ definitions:
   - text: In (or constituting, forming, or describing) a double bond in which the
       greater radical on both ends is on the opposite side of the bond.
   - text: Of the side of the Golgi apparatus farther from the endoplasmic reticulum.
+prev_word: tranq
+next_word: trant
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,13 @@ stats:
 anagrams:
 - feare
 - rafee
+prev_word: redye
+next_word: reech
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -38,4 +38,15 @@ definitions:
       plants suited to a hot, semi-desert climate.
   - text: Any succulent plant with a thick fleshy stem bearing spines but no leaves,
       such as euphorbs.
+prev_word: cacky
+next_word: caddy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

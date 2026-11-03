@@ -57,4 +57,15 @@ definitions:
   - text: To ask for earnestly; to beg; to claim.
     example: I humbly crave your indulgence to read this letter until the end.
   - text: To call for; to require as a course of action.
+prev_word: crate
+next_word: crawl
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

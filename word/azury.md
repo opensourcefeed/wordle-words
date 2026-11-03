@@ -24,4 +24,15 @@ stats:
 neighbours:
 - azure
 - azurn
+prev_word: azurn
+next_word: azygy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/az/"
+  label: Starting with AZ
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -32,4 +32,15 @@ anagrams:
 trap:
   pattern: S_ACK
   count: 7
+prev_word: swabs
+next_word: swads
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

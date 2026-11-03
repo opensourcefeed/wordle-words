@@ -44,4 +44,15 @@ definitions:
   - text: (with "up") To beat up.
     example: I heard Nick got duffed up behind the shopping centre at the weekend.
   - text: To hit the ground behind the ball.
+prev_word: duett
+next_word: dufus
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/du/"
+  label: Starting with DU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

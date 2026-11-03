@@ -52,4 +52,15 @@ definitions:
   - text: A person who creates bales, either by operating or feeding such a machine,
       or by creating the bales by hand.
     example: Hank worked as a baler for Farmer Jones part time, to make ends meet.
+prev_word: baled
+next_word: bales
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

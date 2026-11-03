@@ -46,4 +46,15 @@ definitions:
       in Alces alces), of which the male has very large, palmate antlers.
     example: We saw a moose at the edge of the woods.
   - text: An ugly person.
+prev_word: moory
+next_word: mooth
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

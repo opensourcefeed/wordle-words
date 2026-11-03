@@ -30,4 +30,15 @@ definitions:
   - text: "(sometimes derogatory) A newbie; someone who is new to a game, or has a
       new character."
     example: That guy must be a newb at this game. He has no idea how to play.
+prev_word: nevvy
+next_word: newed
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

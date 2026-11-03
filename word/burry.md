@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _URRY
   count: 9
+prev_word: burrs
+next_word: bursa
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -23,4 +23,15 @@ neighbours:
 - reney
 anagrams:
 - yeven
+prev_word: vendu
+next_word: venge
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - badly
 - baldy
+prev_word: blads
+next_word: blaer
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

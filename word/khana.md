@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Food, a meal
+prev_word: khaki
+next_word: khans
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kh/"
+  label: Starting with KH
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

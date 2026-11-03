@@ -58,4 +58,15 @@ definitions:
       mostly occurring in childhood, which causes swelling of glands in the face and
       neck.
   - text: A gloomy or sullen silence.
+prev_word: mumph
+next_word: mumsy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

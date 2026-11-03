@@ -56,4 +56,15 @@ definitions:
     example: The team notched a pair of shutout wins on Sunday.
   - text: To fit (an arrow) to a bow by means of the notch cut at the end of the arrow;
       to nock.
+prev_word: notam
+next_word: noted
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

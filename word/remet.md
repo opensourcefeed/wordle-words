@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: RE_ET
   count: 6
+prev_word: remen
+next_word: remex
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

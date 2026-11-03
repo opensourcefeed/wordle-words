@@ -32,4 +32,15 @@ neighbours:
 - lauch
 - linch
 - panch
+prev_word: lance
+next_word: lande
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

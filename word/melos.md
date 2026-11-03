@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: MEL_S
   count: 6
+prev_word: melon
+next_word: melts
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

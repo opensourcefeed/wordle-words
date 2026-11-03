@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To add flair.
+prev_word: flail
+next_word: flake
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -57,4 +57,15 @@ definitions:
   - text: To hold a kiln at a particular temperature for a given period of time.
     example: We should soak the kiln at cone 9 for half an hour.
   - text: To absorb; to drain.
+prev_word: snyes
+next_word: soaps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

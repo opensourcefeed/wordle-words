@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _UNGS
   count: 8
+prev_word: pungo
+next_word: pungy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

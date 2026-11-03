@@ -26,4 +26,15 @@ neighbours:
 - gasps
 - paspy
 - waspy
+prev_word: gasps
+next_word: gassy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

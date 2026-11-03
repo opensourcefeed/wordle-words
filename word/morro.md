@@ -27,4 +27,15 @@ neighbours:
 - zorro
 anagrams:
 - moror
+prev_word: morra
+next_word: morse
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

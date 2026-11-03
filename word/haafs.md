@@ -26,4 +26,15 @@ neighbours:
 - haffs
 - halfs
 - haufs
+prev_word: gyves
+next_word: haars
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

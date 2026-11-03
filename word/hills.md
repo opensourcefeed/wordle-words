@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: To form into a heap or mound.
   - text: To heap or draw earth around plants.
+prev_word: hillo
+next_word: hilly
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

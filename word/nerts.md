@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: NE_TS
   count: 6
+prev_word: nerol
+next_word: nertz
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

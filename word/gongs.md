@@ -54,4 +54,15 @@ definitions:
   defs:
   - text: 'An outhouse: an outbuilding used as a lavatory.'
   - text: 'The contents of an outhouse pit: shit.'
+prev_word: goner
+next_word: gonia
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

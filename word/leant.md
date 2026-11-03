@@ -47,4 +47,15 @@ definitions:
       etc.'
   - text: To hang outwards.
   - text: To press against.
+prev_word: leans
+next_word: leany
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

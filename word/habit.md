@@ -44,4 +44,15 @@ definitions:
       crystal.
   - text: An addiction.
     example: He has a 10-cigar habit.
+prev_word: haats
+next_word: hable
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of various mosquitoes of the genus Culex, some of which carry disease.
+prev_word: culet
+next_word: culls
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

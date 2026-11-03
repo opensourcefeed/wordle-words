@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To tell tales; to gossip without reserve or discretion.
+prev_word: bizzy
+next_word: black
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

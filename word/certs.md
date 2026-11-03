@@ -41,4 +41,15 @@ definitions:
   - text: Certificate.
     example: I bought some gift certs for my family for Christmas.
   - text: A certainty; something guaranteed to happen.
+prev_word: ceros
+next_word: certy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

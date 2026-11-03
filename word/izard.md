@@ -31,4 +31,13 @@ definitions:
 - pos: noun
   defs:
   - text: The Pyrenean chamois, Rupicapra rupicapra.
+prev_word: ixtle
+next_word: izars
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

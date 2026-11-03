@@ -62,4 +62,15 @@ definitions:
   defs:
   - text: A cubicle, especially one of those found in offices.
     example: My co-worker annoys me by throwing things over the walls of my cube.
+prev_word: cuber
+next_word: cubic
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

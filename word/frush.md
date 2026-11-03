@@ -25,4 +25,15 @@ neighbours:
 - fresh
 - frosh
 - frust
+prev_word: frump
+next_word: frust
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

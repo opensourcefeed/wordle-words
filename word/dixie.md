@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A large iron pot, used in the army.
+prev_word: diwan
+next_word: dixit
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

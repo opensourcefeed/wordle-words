@@ -29,4 +29,15 @@ neighbours:
 - lanch
 - larch
 - lauch
+prev_word: lahar
+next_word: laics
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

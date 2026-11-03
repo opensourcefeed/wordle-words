@@ -20,4 +20,13 @@ stats:
   rare: []
   starter_tier: Weak
   starter_top_percent: 75
+prev_word: ysame
+next_word: yuans
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

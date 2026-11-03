@@ -33,4 +33,15 @@ definitions:
   - text: One of the five annually-elected senior magistrates in various Dorian states,
       especially in ancient Sparta, where they oversaw the actions of Spartan kings.
   - text: "(in modern Greece) A superintendent or curator."
+prev_word: ephod
+next_word: epics
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ep/"
+  label: Starting with EP
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

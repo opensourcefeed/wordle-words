@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: _AWNS
   count: 10
+prev_word: zatis
+next_word: zaxes
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/za/"
+  label: Starting with ZA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

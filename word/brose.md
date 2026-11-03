@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: Oatmeal mixed with boiling water or milk.
+prev_word: broos
+next_word: brosy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

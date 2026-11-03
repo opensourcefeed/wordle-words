@@ -36,4 +36,15 @@ neighbours:
 - misty
 - monty
 - tinty
+prev_word: mints
+next_word: minus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

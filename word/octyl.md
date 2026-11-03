@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Any of very many isomeric univalent hydrocarbon radicals, C8H17, formally
       derived from octane by the loss of a hydrogen atom
+prev_word: octli
+next_word: oculi
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oc/"
+  label: Starting with OC
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

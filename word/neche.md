@@ -25,4 +25,15 @@ neighbours:
 - nache
 anagrams:
 - hence
+prev_word: nebel
+next_word: necks
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

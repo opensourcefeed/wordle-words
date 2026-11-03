@@ -33,4 +33,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Containing a dyke (ditch)
+prev_word: dying
+next_word: dykey
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dy/"
+  label: Starting with DY
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

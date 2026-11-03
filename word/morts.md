@@ -58,4 +58,15 @@ definitions:
 - pos: noun
   defs:
   - text: A woman; a female.
+prev_word: morse
+next_word: moruk
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

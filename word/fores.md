@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ORES
   count: 13
+prev_word: forel
+next_word: forex
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

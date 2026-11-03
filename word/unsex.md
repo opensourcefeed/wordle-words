@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: To deprive of sexual attributes or characteristics.
   - text: To sterilize (deprive of the ability to procreate); to castrate.
+prev_word: unsew
+next_word: unsod
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

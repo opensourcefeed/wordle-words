@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: An item of food eaten with rice.
+prev_word: vials
+next_word: vibed
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

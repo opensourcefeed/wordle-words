@@ -34,4 +34,15 @@ definitions:
   - text: 'The saltbush: any of several plants, of the genus Atriplex, especially
       Atriplex hortensis or Atriplex patula, found in dry habitats, that have edible
       leaves resembling spinach.'
+prev_word: opzit
+next_word: oracy
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - arpas
 - paras
+prev_word: pasag
+next_word: pasch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

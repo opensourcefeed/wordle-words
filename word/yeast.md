@@ -49,4 +49,15 @@ definitions:
   - text: To ferment.
   - text: "(of something prepared with a yeasted dough) To rise."
   - text: To exaggerate
+prev_word: years
+next_word: yecch
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

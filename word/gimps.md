@@ -68,4 +68,15 @@ definitions:
   defs:
   - text: To limp; to hobble.
   - text: To make underpowered; to limit or restrict the useful effects of.
+prev_word: gimme
+next_word: gimpy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

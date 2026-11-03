@@ -69,4 +69,15 @@ definitions:
       (usu. sinister) designs; a stalking horse.
   - text: A prostitute of the lowest sort; any wanton woman.
   - text: Any decoy, either stuffed or manufactured.
+prev_word: stela
+next_word: stell
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who skis.
+prev_word: skied
+next_word: skies
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

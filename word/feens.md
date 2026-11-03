@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _EENS
   count: 7
+prev_word: feely
+next_word: feers
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

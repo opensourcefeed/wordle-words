@@ -45,4 +45,15 @@ definitions:
   - text: Given to experiencing lust; enjoying physical sensations; lustful.
   - text: Beautiful; handsome; pleasant.
   - text: Of large size; big.
+prev_word: lusts
+next_word: lusus
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -47,4 +47,15 @@ definitions:
       a decision has been reached. In order to achieve unity, everyone who does not
       agree with the decision must explicitly stand aside, possibly being recorded
       in the minutes as doing so.
+prev_word: units
+next_word: unjam
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

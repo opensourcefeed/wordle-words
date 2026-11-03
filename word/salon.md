@@ -42,4 +42,15 @@ definitions:
   - text: A gathering of people for a social or intellectual meeting.
   - text: An art gallery or exhibition; especially the Paris salon or autumn salon.
   - text: A beauty salon or similar establishment.
+prev_word: salol
+next_word: salop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

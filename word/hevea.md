@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Any of the genus Hevea of flowering plants in the spurge family, including
       the economically important rubber tree Hevea brasiliensis.
+prev_word: heugh
+next_word: hevel
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ea/"
+  label: Ending in EA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

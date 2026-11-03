@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To smile with one's eyes.
+prev_word: smits
+next_word: smock
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - riven
 - viner
+prev_word: invar
+next_word: inwit
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

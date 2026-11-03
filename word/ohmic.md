@@ -26,4 +26,13 @@ neighbours:
 anagrams:
 - chimo
 - mochi
+prev_word: ohing
+next_word: ohone
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

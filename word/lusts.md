@@ -44,4 +44,15 @@ definitions:
   - text: (usually in the phrase "lust after") To look at or watch with a strong desire,
       especially of a sexual nature.
     example: He was lusting after the woman in the tight leather miniskirt.
+prev_word: lusks
+next_word: lusty
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

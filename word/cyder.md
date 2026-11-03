@@ -40,4 +40,15 @@ definitions:
   - text: "(in Korea) A non-alcoholic drink, normally carbonated; equivalent to soft
       drink."
   - text: A cup, glass or serving of any of these beverages.
+prev_word: cyclo
+next_word: cylix
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cy/"
+  label: Starting with CY
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

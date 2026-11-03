@@ -40,4 +40,15 @@ definitions:
       or habitation.
     example: We went up to the attic to look for the boxes containing our childhood
       keepsakes.
+prev_word: atter
+next_word: atuas
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

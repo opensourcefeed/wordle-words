@@ -44,4 +44,15 @@ definitions:
   - text: Aside; away.
   - text: In or into two or more parts.
     example: We took the computer apart and put it back together.
+prev_word: apaid
+next_word: apayd
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ap/"
+  label: Starting with AP
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: To turn on an exact spot.
   - text: To make a sudden or swift change in strategy, policy, etc.
+prev_word: pivos
+next_word: pixel
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ot/"
+  label: Ending in OT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

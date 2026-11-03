@@ -45,4 +45,15 @@ definitions:
   - text: The middle portion of the hull of a ship or the fuselage of an aircraft.
   - text: That part of the upper deck of a ship between the quarterdeck and the forecastle.
   - text: The middle part of anything.
+prev_word: wairs
+next_word: waite
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

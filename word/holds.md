@@ -98,4 +98,15 @@ definitions:
   defs:
   - text: The cargo area of a ship or aircraft (often holds or cargo hold).
     example: Put that in the hold.
+prev_word: hokum
+next_word: holed
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

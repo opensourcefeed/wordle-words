@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - wides
 - wised
+prev_word: wefts
+next_word: weigh
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

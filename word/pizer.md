@@ -32,4 +32,15 @@ neighbours:
 - sizer
 anagrams:
 - prize
+prev_word: pized
+next_word: pizes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

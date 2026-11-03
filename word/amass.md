@@ -44,4 +44,15 @@ definitions:
   - text: To collect into a mass or heap.
   - text: To gather a great quantity of; to accumulate.
     example: to amass a treasure or a fortune
+prev_word: amaro
+next_word: amate
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ss/"
+  label: Ending in SS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

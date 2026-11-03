@@ -63,4 +63,15 @@ definitions:
     example: I've received a summons for jury duty. It says I serve one day or one
       trial.
   - text: To provide crack cocaine (to), usually by selling, dealing, or distributing.
+prev_word: serum
+next_word: servo
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

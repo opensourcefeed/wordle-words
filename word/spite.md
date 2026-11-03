@@ -60,4 +60,15 @@ definitions:
     example: She soon married again, to spite her ex-husband.
   - text: To be angry at; to hate.
   - text: To fill with spite; to offend; to vex.
+prev_word: spiry
+next_word: spits
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

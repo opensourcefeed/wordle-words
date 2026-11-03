@@ -28,4 +28,15 @@ neighbours:
 - entre
 anagrams:
 - earnt
+prev_word: antra
+next_word: antsy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

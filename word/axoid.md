@@ -26,4 +26,15 @@ stats:
 neighbours:
 - avoid
 - aroid
+prev_word: axmen
+next_word: axone
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ax/"
+  label: Starting with AX
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

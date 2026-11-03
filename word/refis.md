@@ -34,4 +34,15 @@ anagrams:
 - fries
 - frise
 - reifs
+prev_word: reffo
+next_word: refit
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

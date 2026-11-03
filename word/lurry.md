@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _URRY
   count: 9
+prev_word: lurks
+next_word: lurve
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

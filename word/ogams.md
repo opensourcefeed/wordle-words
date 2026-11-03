@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A single character in this alphabet.
+prev_word: ofuro
+next_word: ogeed
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/og/"
+  label: Starting with OG
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -30,4 +30,15 @@ neighbours:
 - plums
 anagrams:
 - pulps
+prev_word: pluot
+next_word: plush
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

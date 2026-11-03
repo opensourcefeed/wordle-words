@@ -30,4 +30,15 @@ anagrams:
 - widen
 - indew
 - wined
+prev_word: dwile
+next_word: dyads
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dw/"
+  label: Starting with DW
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

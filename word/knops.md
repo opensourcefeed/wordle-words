@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: A knob, usually ornamental
+prev_word: knoop
+next_word: knosp
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kn/"
+  label: Starting with KN
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

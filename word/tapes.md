@@ -80,4 +80,15 @@ definitions:
     example: You shouldn’t have said that. The microphone was on and we were taping.
   - text: "(passive) To understand, figure out."
     example: I've finally got this thing taped.
+prev_word: taper
+next_word: tapet
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

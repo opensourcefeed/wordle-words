@@ -62,4 +62,15 @@ definitions:
   - text: To perform fellatio.
   - text: 'To be inferior or objectionable: a general term of disparagement, sometimes
       used with at to indicate a particular area of deficiency.'
+prev_word: succi
+next_word: sucky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -60,4 +60,15 @@ definitions:
       when performing a seemingly benign activity."
     example: He was detained for four hours at the store yesterday. His crime? Shopping
       while black.
+prev_word: whigs
+next_word: whilk
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - pyots
 - typos
+prev_word: potro
+next_word: potto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

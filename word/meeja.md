@@ -28,4 +28,15 @@ definitions:
   defs:
   - text: Media (communications industry)
     example: That's the life of the busy meeja type, I suppose.
+prev_word: meeds
+next_word: meeps
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

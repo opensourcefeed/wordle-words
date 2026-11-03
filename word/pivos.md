@@ -29,4 +29,15 @@ neighbours:
 - vivos
 anagrams:
 - voips
+prev_word: piums
+next_word: pivot
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

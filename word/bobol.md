@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: Organized fraud; corruption
+prev_word: bobby
+next_word: bobos
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

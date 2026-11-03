@@ -49,4 +49,15 @@ definitions:
     example: to sit splay-legged
   - text: Flat and ungainly.
     example: splay shoulders
+prev_word: splat
+next_word: split
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -43,4 +43,13 @@ definitions:
   - text: Like a wanker; foolish or objectionable.
   - text: Pretentious.
   - text: Involving or relating to fanwank.
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

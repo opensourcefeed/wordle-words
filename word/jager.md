@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AGER
   count: 10
+prev_word: jagas
+next_word: jaggs
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

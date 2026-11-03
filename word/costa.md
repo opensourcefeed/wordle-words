@@ -42,4 +42,15 @@ definitions:
   - text: A rib.
   - text: A riblike part of a plant or animal, such as a middle rib of a leaf or a
       thickened vein or the margin of an insect wing.
+prev_word: cosie
+next_word: coste
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

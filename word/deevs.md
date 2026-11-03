@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: DEE_S
   count: 7
+prev_word: deeve
+next_word: defat
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/vs/"
+  label: Ending in VS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

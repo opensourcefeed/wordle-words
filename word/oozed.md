@@ -37,4 +37,15 @@ definitions:
   defs:
   - text: To be secreted or slowly leak.
   - text: To give off a strong sense of (something); to exude.
+prev_word: ooyah
+next_word: oozes
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oo/"
+  label: Starting with OO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

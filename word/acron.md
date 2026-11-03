@@ -30,4 +30,15 @@ anagrams:
 - caron
 - narco
 - racon
+prev_word: acrid
+next_word: acros
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

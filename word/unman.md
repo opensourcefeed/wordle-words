@@ -35,4 +35,15 @@ definitions:
       to deal with a situation.
     example: His fear unmanned him.
   - text: To deprive of men.
+prev_word: unmad
+next_word: unmet
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

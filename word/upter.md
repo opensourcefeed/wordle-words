@@ -31,4 +31,15 @@ anagrams:
 - erupt
 - puter
 - reput
+prev_word: uptak
+next_word: uptie
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/up/"
+  label: Starting with UP
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

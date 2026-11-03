@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 90
 neighbours:
 - abjad
+prev_word: abjad
+next_word: abled
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

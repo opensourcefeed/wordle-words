@@ -26,4 +26,15 @@ neighbours:
 - rabis
 anagrams:
 - baric
+prev_word: rabbi
+next_word: rabid
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ic/"
+  label: Ending in IC
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

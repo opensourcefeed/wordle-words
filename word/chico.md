@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: CHI_O
   count: 6
+prev_word: chick
+next_word: chics
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -23,4 +23,13 @@ neighbours:
 - sughs
 - vuggs
 - vughy
+prev_word: vuggy
+next_word: vughy
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

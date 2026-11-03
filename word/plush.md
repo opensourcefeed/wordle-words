@@ -42,4 +42,15 @@ definitions:
     example: They lived in a plush apartment complex.
   - text: "(of a man-made object) Having a soft, fluffy exterior."
     example: This plush toy is so cute and soft - I want it!
+prev_word: plups
+next_word: plute
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

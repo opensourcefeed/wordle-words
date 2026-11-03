@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OONS
   count: 12
+prev_word: wooly
+next_word: woops
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

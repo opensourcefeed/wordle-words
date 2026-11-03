@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: ROU_S
   count: 7
+prev_word: rouet
+next_word: rouge
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

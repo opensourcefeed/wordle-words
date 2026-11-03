@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _AIKS
   count: 9
+prev_word: laika
+next_word: laird
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

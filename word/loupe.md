@@ -40,4 +40,15 @@ definitions:
   - text: A magnifying glass, usually mounted in an eyepiece, often used by jewellers
       and watchmakers.
   - text: A type of short-range binoculars used by surgeons and dentists.
+prev_word: louns
+next_word: loups
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

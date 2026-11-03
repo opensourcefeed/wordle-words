@@ -53,4 +53,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Of, pertaining to, or resembling putty.
+prev_word: puttu
+next_word: putza
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

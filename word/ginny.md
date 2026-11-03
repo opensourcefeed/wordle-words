@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _INNY
   count: 9
+prev_word: ginks
+next_word: ginzo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

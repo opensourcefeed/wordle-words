@@ -37,4 +37,15 @@ definitions:
   - text: A woodland creature with pointed ears, legs, and short horns of a goat and
       a fondness for unrestrained revelry.
   - text: Any of various nymphalid butterflies of the genus Faunis.
+prev_word: fauna
+next_word: faurd
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

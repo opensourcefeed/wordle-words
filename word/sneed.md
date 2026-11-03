@@ -35,4 +35,15 @@ anagrams:
 - deens
 - denes
 - needs
+prev_word: sneds
+next_word: sneer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

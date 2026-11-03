@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Cord that is fastened around the kaffiyeh
+prev_word: again
+next_word: agama
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ag/"
+  label: Starting with AG
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

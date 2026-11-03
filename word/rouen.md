@@ -27,4 +27,15 @@ neighbours:
 - rouet
 - roven
 - rowen
+prev_word: rotty
+next_word: roues
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

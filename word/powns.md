@@ -34,4 +34,15 @@ neighbours:
 trap:
   pattern: _OWNS
   count: 6
+prev_word: pownd
+next_word: powny
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

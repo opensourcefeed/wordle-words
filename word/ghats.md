@@ -41,4 +41,15 @@ definitions:
   - text: A mountain pass.
   - text: A steep ravine leading to the sea.
   - text: A burning-ghat.
+prev_word: ghast
+next_word: ghaut
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

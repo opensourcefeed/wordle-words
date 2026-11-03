@@ -27,4 +27,15 @@ neighbours:
 - arith
 anagrams:
 - hairs
+prev_word: arise
+next_word: arith
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

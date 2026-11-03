@@ -46,4 +46,15 @@ definitions:
   - text: To gather in dense groups.
   - text: To walk with heavy footfalls.
   - text: To strike; to beat.
+prev_word: cluey
+next_word: clung
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

@@ -26,4 +26,15 @@ neighbours:
 - hoove
 - noove
 - poove
+prev_word: moots
+next_word: moped
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

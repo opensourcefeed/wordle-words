@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 71
 neighbours:
 - bemad
+prev_word: bemix
+next_word: bench
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ud/"
+  label: Ending in UD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

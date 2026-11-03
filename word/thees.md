@@ -33,4 +33,15 @@ anagrams:
 - sheet
 - these
 - hetes
+prev_word: theek
+next_word: theft
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

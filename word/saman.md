@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A fine; a monetary penalty imposed for breaking the law.
+prev_word: salvo
+next_word: samas
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

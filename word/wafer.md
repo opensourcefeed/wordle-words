@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: To seal or fasten with a wafer.
+prev_word: wadts
+next_word: waffs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -58,4 +58,15 @@ definitions:
   defs:
   - text: A pair of fours.
   - text: The cells located on the third floor.
+prev_word: fount
+next_word: fouth
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

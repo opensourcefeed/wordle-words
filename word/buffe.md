@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: BUFF_
   count: 6
+prev_word: buffa
+next_word: buffi
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/fe/"
+  label: Ending in FE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

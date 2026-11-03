@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To make a breathy sound like a whoosh.
+prev_word: woose
+next_word: wootz
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: PATE_
   count: 6
+prev_word: pated
+next_word: patel
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -32,4 +32,15 @@ definitions:
       in the Ottoman Empire.
   - text: Vicegerent, viceroy
   - text: A fairy chess piece that can only be moved one space up, down, left or right.
+prev_word: wayed
+next_word: wazoo
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

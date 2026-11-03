@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The group of bones that make up the wrist.
+prev_word: carpe
+next_word: carps
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/pi/"
+  label: Ending in PI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

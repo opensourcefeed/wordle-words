@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cabdriver; someone who drives a taxi.
+prev_word: cabas
+next_word: caber
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

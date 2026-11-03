@@ -29,4 +29,15 @@ neighbours:
 - pouke
 - poule
 - poupt
+prev_word: pound
+next_word: poupt
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

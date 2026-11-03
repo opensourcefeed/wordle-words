@@ -30,4 +30,15 @@ neighbours:
 - waken
 anagrams:
 - ebank
+prev_word: baked
+next_word: baker
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

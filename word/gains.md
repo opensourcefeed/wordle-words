@@ -69,4 +69,15 @@ definitions:
   defs:
   - text: A square or bevelled notch cut out of a girder, binding joist, or other
       timber which supports a floor beam, so as to receive the end of the floor beam.
+prev_word: gaily
+next_word: gairs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

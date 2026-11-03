@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: CHI_S
   count: 8
+prev_word: chiko
+next_word: child
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

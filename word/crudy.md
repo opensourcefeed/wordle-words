@@ -25,4 +25,15 @@ neighbours:
 - crusy
 anagrams:
 - curdy
+prev_word: cruds
+next_word: cruel
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Concise and meaningful.
   - text: Of, like, or abounding in pith.
+prev_word: piths
+next_word: piton
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/hy/"
+  label: Ending in HY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

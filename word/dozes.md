@@ -50,4 +50,15 @@ definitions:
     example: I didn’t sleep very well, but I think I may have dozed a bit.
   - text: To make dull; to stupefy.
   - text: To bulldoze.
+prev_word: dozer
+next_word: drabs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

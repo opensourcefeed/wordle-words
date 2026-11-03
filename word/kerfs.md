@@ -43,4 +43,15 @@ definitions:
   - text: The flattened, cut-off end of a branch or tree; a stump or sawn-off cross-section.
   - text: The portion or quantity (e.g. of hay, turf, wool, etc.) cut off in a given
       stroke.
+prev_word: kerel
+next_word: kerky
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

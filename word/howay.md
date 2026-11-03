@@ -23,4 +23,15 @@ stats:
 neighbours:
 - howdy
 - noway
+prev_word: hoves
+next_word: howbe
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

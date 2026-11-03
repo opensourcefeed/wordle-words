@@ -36,4 +36,15 @@ anagrams:
 - meals
 - melas
 - mesal
+prev_word: samek
+next_word: samen
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

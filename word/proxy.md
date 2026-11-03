@@ -48,4 +48,13 @@ definitions:
   defs:
   - text: Used as a proxy or acting as a proxy.
     example: a proxy indicator
+prev_word: prows
+next_word: proyn
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

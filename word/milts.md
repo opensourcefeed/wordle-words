@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: The spleen, especially of an animal bred for food.
   - text: The semen of a male fish.
+prev_word: milpa
+next_word: milty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

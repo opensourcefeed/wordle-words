@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A minor hajj, a lesser pilgrimage to Mecca, other than at the time of the
       hajj.
+prev_word: umpty
+next_word: umras
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

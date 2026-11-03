@@ -39,4 +39,15 @@ anagrams:
 - lanes
 - leans
 - neals
+prev_word: slams
+next_word: slang
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

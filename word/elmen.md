@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 64
 neighbours:
 - elven
+prev_word: elite
+next_word: eloge
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

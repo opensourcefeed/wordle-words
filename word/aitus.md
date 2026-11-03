@@ -26,4 +26,15 @@ stats:
 neighbours:
 - actus
 - situs
+prev_word: aitch
+next_word: aiver
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

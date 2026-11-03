@@ -64,4 +64,15 @@ definitions:
   - text: To use, operate or move (something) like a lever (physically).
   - text: To use (something) like a lever (in an abstract sense).
   - text: To increase the share of debt in the capitalization of a business.
+prev_word: level
+next_word: leves
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

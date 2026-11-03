@@ -26,4 +26,15 @@ neighbours:
 - gyans
 - myals
 - ryals
+prev_word: gwine
+next_word: gyans
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gy/"
+  label: Starting with GY
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

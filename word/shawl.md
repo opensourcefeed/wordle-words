@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To wrap in a shawl.
+prev_word: shave
+next_word: shawm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/wl/"
+  label: Ending in WL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

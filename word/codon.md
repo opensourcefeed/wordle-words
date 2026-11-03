@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A handbell used for summoning monks.
   - text: The "bell" or flaring mouth of a trumpet.
+prev_word: codex
+next_word: coeds
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

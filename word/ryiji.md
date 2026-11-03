@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 93
 neighbours:
 - ryijy
+prev_word: rybat
+next_word: ryijy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/ji/"
+  label: Ending in JI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

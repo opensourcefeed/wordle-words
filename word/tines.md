@@ -54,4 +54,15 @@ definitions:
       a tooth of a comb.
   - text: A small branch, especially on an antler or horn.
   - text: A wild vetch or tare.
+prev_word: tined
+next_word: tinge
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ anagrams:
 - tarte
 - tater
 - tetra
+prev_word: arets
+next_word: argal
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/tt/"
+  label: Ending in TT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -40,4 +40,15 @@ definitions:
       something.
   - text: Authority, power to enforce compliance.
   - text: That which is written; writing.
+prev_word: write
+next_word: wroke
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

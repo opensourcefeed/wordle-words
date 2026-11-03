@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: To shut up, as in a desk; to treasure.
   - text: To equip with a desk or desks.
+prev_word: desis
+next_word: desse
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

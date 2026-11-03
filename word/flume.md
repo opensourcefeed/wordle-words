@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To transport (logs of wood) by floating them along a water-filled channel
       or trough.
+prev_word: fluky
+next_word: flump
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

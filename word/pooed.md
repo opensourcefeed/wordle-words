@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: To say "pooh".
   - text: To say "pooh" to.
+prev_word: poods
+next_word: pooey
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

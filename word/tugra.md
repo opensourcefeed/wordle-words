@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 22
 anagrams:
 - tragu
+prev_word: tufty
+next_word: tuile
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

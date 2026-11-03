@@ -28,4 +28,15 @@ neighbours:
 - avine
 - aviso
 - avize
+prev_word: avion
+next_word: aviso
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/av/"
+  label: Starting with AV
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

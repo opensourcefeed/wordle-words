@@ -31,4 +31,13 @@ definitions:
 - pos: interjection
   defs:
   - text: A mild exclamation of surprise, contempt, outrage, etc.
+prev_word: efits
+next_word: egers
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

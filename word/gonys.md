@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - gynos
 - songy
+prev_word: gonof
+next_word: gonzo
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

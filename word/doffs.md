@@ -44,4 +44,15 @@ definitions:
   - text: To get rid of, to throw off.
     example: 'Doff that stupid idea: it would never work.'
   - text: To strip; to divest; to undress.
+prev_word: doeth
+next_word: dogal
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ anagrams:
 - mouls
 - omuls
 - solum
+prev_word: ulmin
+next_word: ulnad
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

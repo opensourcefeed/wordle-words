@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: An electronic device for connecting a balanced transmission line to an unbalanced
       one.
+prev_word: balti
+next_word: balus
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

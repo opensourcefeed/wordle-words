@@ -27,4 +27,15 @@ neighbours:
 - rudis
 anagrams:
 - ureid
+prev_word: rudes
+next_word: rudis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

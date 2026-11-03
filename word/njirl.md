@@ -21,4 +21,13 @@ stats:
   - J
   starter_tier: Weak
   starter_top_percent: 53
+prev_word: nizam
+next_word: nkosi
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

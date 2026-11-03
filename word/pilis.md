@@ -33,4 +33,15 @@ neighbours:
 - polis
 - pulis
 - wilis
+prev_word: pilin
+next_word: pills
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

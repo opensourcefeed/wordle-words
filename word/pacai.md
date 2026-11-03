@@ -24,4 +24,15 @@ stats:
 neighbours:
 - pacas
 - pacay
+prev_word: paans
+next_word: pacas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

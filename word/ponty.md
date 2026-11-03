@@ -34,4 +34,15 @@ neighbours:
 - porty
 anagrams:
 - poynt
+prev_word: ponts
+next_word: ponzu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

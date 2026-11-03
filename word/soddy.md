@@ -29,4 +29,15 @@ neighbours:
 trap:
   pattern: _ODDY
   count: 6
+prev_word: sodas
+next_word: sodic
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

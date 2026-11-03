@@ -29,4 +29,15 @@ anagrams:
 - buran
 - ruban
 - unbar
+prev_word: abura
+next_word: abuse
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

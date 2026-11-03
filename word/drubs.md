@@ -36,4 +36,15 @@ definitions:
   - text: To defeat someone soundly; to annihilate or crush.
   - text: To forcefully teach something.
   - text: To criticize harshly; to excoriate.
+prev_word: drows
+next_word: drugs
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dr/"
+  label: Starting with DR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

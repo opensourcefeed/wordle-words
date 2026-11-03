@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 65
 neighbours:
 - ouzel
+prev_word: puyas
+next_word: puzta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

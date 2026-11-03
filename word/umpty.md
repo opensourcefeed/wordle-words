@@ -22,4 +22,15 @@ neighbours:
 - empty
 anagrams:
 - tumpy
+prev_word: umpie
+next_word: umrah
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/um/"
+  label: Starting with UM
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

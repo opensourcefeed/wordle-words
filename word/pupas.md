@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: PU_AS
   count: 9
+prev_word: pupal
+next_word: pupil
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

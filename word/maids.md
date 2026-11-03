@@ -47,4 +47,15 @@ definitions:
   - text: A girl or an unmarried young woman; maiden.
   - text: A female servant or cleaner (short for maidservant).
   - text: A virgin, now female but originally one of either gender.
+prev_word: mahwa
+next_word: maiko
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

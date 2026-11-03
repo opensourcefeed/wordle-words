@@ -51,4 +51,15 @@ definitions:
   - text: To put out, as fire; to weaken, restrain, or make dull.
   - text: To suppress vibrations (mechanical) or oscillations (electrical) by converting
       energy to heat (or some other form of energy).
+prev_word: damns
+next_word: dampy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

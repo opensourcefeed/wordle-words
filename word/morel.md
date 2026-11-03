@@ -44,4 +44,15 @@ definitions:
   - text: Any of several edible mushrooms, especially the common morel or yellow morel.
   - text: Any of several fungi in the genus Morchella, the upper part of which is
       covered with a reticulated and pitted hymenium.
+prev_word: moree
+next_word: mores
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

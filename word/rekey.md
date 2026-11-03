@@ -37,4 +37,15 @@ definitions:
     example: She had to rekey the security code.
   - text: To modify (a lock or its cylinder) to change which keys will open it.
   - text: To change the key or tenor of; to reframe.
+prev_word: rekes
+next_word: relax
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

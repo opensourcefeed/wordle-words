@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: MARA_
   count: 6
+prev_word: marah
+next_word: maran
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

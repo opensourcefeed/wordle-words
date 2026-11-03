@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 93
 anagrams:
 - weete
+prev_word: etuis
+next_word: etyma
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

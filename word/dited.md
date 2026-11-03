@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ITED
   count: 6
+prev_word: ditch
+next_word: dites
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

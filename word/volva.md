@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cup-shaped mass at the base of various fungi.
+prev_word: volts
+next_word: volve
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/va/"
+  label: Ending in VA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

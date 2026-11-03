@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: The vulva or vagina, or a symbol of them, especially as an object of veneration
       within certain types of Hinduism, Buddhism, and other cultures.
+prev_word: yonic
+next_word: yonks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

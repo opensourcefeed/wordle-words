@@ -24,4 +24,15 @@ neighbours:
 - jerky
 - perky
 - kerry
+prev_word: kerfs
+next_word: kerma
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

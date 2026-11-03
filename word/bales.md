@@ -64,4 +64,15 @@ definitions:
 - pos: verb
   defs:
   - text: To remove water from a boat with buckets etc.
+prev_word: baler
+next_word: balks
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

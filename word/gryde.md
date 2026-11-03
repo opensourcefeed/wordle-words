@@ -27,4 +27,15 @@ neighbours:
 - grype
 anagrams:
 - gyred
+prev_word: gryce
+next_word: gryke
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

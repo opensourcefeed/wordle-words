@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: An umbrella.
+prev_word: gammy
+next_word: gamut
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

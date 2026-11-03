@@ -26,4 +26,15 @@ neighbours:
 - darls
 anagrams:
 - dhals
+prev_word: dahis
+next_word: daiko
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -24,4 +24,15 @@ neighbours:
 - fauld
 anagrams:
 - fraud
+prev_word: fauns
+next_word: faute
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -39,4 +39,15 @@ definitions:
   - text: A large vesicle or bulla, usually containing a serous fluid.
   - text: An irregular bulge in the plasma membrane of a cell undergoing apoptosis.
   - text: A bubble-like inclusion of one mineral within another.
+prev_word: bleat
+next_word: blech
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

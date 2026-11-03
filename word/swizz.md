@@ -29,4 +29,15 @@ definitions:
 - pos: verb
   defs:
   - text: To swindle.
+prev_word: swive
+next_word: swobs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/zz/"
+  label: Ending in ZZ
+- url: "/ending-with/z/"
+  label: Ending in Z
 ---

@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _EEZE
   count: 6
+prev_word: neese
+next_word: nefie
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

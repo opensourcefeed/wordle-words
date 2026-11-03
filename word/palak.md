@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: Spinach or similar greens (including Amaranthus species and Chenopodium
       album).
+prev_word: pakul
+next_word: palar
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

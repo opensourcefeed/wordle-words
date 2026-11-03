@@ -44,4 +44,15 @@ definitions:
   defs:
   - text: To form or emit foam.
   - text: To spew saliva as foam, to foam at the mouth.
+prev_word: foals
+next_word: foamy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

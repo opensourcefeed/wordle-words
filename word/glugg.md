@@ -24,4 +24,13 @@ neighbours:
 - glugs
 anagrams:
 - guggl
+prev_word: gluey
+next_word: glugs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

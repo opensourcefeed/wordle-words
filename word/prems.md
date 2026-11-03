@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A prematurely born infant.
+prev_word: preke
+next_word: premy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

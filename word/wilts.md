@@ -49,4 +49,15 @@ definitions:
   - text: To fatigue; to lose strength.
   - text: To cause to droop or become limp and flaccid (as a flower).
   - text: To cause to fatigue; to exhaust.
+prev_word: willy
+next_word: wimps
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

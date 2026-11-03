@@ -25,4 +25,15 @@ neighbours:
 - sprag
 - sprog
 - sprue
+prev_word: sprue
+next_word: spuds
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -28,4 +28,15 @@ neighbours:
 - mailo
 - meiko
 - taiko
+prev_word: maids
+next_word: maiks
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

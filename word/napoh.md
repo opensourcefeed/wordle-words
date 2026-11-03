@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 43
 neighbours:
 - napoo
+prev_word: napes
+next_word: napoo
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

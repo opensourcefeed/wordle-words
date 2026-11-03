@@ -33,4 +33,15 @@ definitions:
   defs:
   - text: A one-room Navajo dwelling or ceremonial lodge, constructed of wood and
       earth and covered with mud.
+prev_word: hoers
+next_word: hogen
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

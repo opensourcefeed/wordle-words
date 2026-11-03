@@ -31,4 +31,15 @@ neighbours:
 - sorel
 anagrams:
 - flore
+prev_word: fords
+next_word: fores
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

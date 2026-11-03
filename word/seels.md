@@ -50,4 +50,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(of a ship) To roll on the waves in a storm."
+prev_word: seeld
+next_word: seely
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

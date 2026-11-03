@@ -23,4 +23,15 @@ stats:
 neighbours:
 - besat
 - resaw
+prev_word: besat
+next_word: besee
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

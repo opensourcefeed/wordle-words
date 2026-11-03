@@ -54,4 +54,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In an unusual manner; strangely.
+prev_word: funky
+next_word: funsy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

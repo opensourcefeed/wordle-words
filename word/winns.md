@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: WIN_S
   count: 6
+prev_word: winna
+next_word: winos
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

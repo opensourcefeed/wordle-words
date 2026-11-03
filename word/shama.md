@@ -34,4 +34,15 @@ definitions:
   - text: Copsychus malabaricus (white-rumped shama), a saxicoline songbird of India,
       glossy black with a white rump and brown underparts, and six other species in
       genus Copsychus.
+prev_word: shaly
+next_word: shame
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ma/"
+  label: Ending in MA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

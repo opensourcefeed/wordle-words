@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ASTY
   count: 6
+prev_word: masts
+next_word: masur
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

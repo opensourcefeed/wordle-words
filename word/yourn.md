@@ -30,4 +30,15 @@ definitions:
 - pos: pronoun
   defs:
   - text: "(obsolete outside Britain and United States dialectal) Yours."
+prev_word: young
+next_word: yours
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

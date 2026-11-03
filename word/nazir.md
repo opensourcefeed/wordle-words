@@ -27,4 +27,15 @@ neighbours:
 - nazar
 - nazis
 - wazir
+prev_word: nazes
+next_word: nazis
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

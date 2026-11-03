@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To loiter; to sneak.
+prev_word: hakea
+next_word: hakim
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

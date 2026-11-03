@@ -107,4 +107,15 @@ definitions:
     example: crown prince
   - text: Of, related to, pertaining to the top of a tree or trees.
     example: a crown fire
+prev_word: crowl
+next_word: crows
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/wn/"
+  label: Ending in WN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

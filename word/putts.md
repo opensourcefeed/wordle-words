@@ -72,4 +72,15 @@ definitions:
   - text: To make a putting sound.
   - text: To ride one's motorcycle, to go for a motorcycle ride.
   - text: To move along slowly.
+prev_word: putto
+next_word: puttu
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

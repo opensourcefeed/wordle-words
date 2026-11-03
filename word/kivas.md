@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ceremonial underground chamber in a Pueblo village.
+prev_word: kitul
+next_word: kiwis
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

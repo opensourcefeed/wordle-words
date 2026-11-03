@@ -33,4 +33,13 @@ anagrams:
 - slive
 - veils
 - vleis
+prev_word: vleis
+next_word: vlogs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

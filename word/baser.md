@@ -67,4 +67,15 @@ definitions:
   defs:
   - text: Of sound, a voice or an instrument, low in pitch or frequency.
     example: The giant spoke in a deep, bass, rumbling voice that shook me to my boots.
+prev_word: basen
+next_word: bases
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

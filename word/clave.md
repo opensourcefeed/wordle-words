@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cling, adhere or stick fast to something; used with to or unto.
+prev_word: claut
+next_word: clavi
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

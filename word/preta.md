@@ -37,4 +37,15 @@ anagrams:
 - prate
 - repat
 - trape
+prev_word: prest
+next_word: preux
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - enrol
 - loner
+prev_word: nerks
+next_word: nerts
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

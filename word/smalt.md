@@ -35,4 +35,15 @@ definitions:
 - pos: noun
   defs:
   - text: A deep blue pigment made from powdered glass mixed with cobalt oxide
+prev_word: smalm
+next_word: smarm
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sm/"
+  label: Starting with SM
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -21,4 +21,15 @@ stats:
   starter_top_percent: 70
 neighbours:
 - yoghs
+prev_word: yodel
+next_word: yodle
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

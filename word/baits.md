@@ -73,4 +73,15 @@ definitions:
   defs:
   - text: To flap the wings; to flutter as if to fly; or to hover, as a hawk when
       she stoops to her prey.
+prev_word: baith
+next_word: baiza
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

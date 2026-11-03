@@ -46,4 +46,15 @@ definitions:
   - text: A BIRO brand ballpoint pen.
   - text: "(by extension) Any ballpoint pen."
   - text: "(by extension) Ink from a ballpoint pen."
+prev_word: birls
+next_word: birrs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

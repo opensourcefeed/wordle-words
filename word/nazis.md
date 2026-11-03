@@ -45,4 +45,15 @@ definitions:
     example: She’s a total grammar Nazi.
   - text: A German, a person of German descent, or a person perceived to be of German
       descent.
+prev_word: nazir
+next_word: nazzy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

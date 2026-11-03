@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: Urination; urine.
+prev_word: cisco
+next_word: cists
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ci/"
+  label: Starting with CI
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

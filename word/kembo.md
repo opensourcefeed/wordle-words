@@ -23,4 +23,15 @@ stats:
 neighbours:
 - kembs
 - kimbo
+prev_word: kelty
+next_word: kembs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

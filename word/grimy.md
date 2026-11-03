@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Stained or covered with grime.
   - text: From the urban musical genre called grime.
+prev_word: grime
+next_word: grind
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

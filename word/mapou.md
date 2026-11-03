@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 55
 neighbours:
 - mapau
+prev_word: maple
+next_word: mappy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ou/"
+  label: Ending in OU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

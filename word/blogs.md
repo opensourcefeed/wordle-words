@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To look sullen or sulky
+prev_word: blocs
+next_word: bloke
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

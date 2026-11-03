@@ -29,4 +29,13 @@ definitions:
   defs:
   - text: Are you serious? Really?
     example: 'A: My mum just broke her leg...'
+prev_word: squiz
+next_word: stabs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

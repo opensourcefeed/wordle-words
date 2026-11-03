@@ -59,4 +59,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tiny computer for remote sensing; a component element of smartdust.
+prev_word: moten
+next_word: motet
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

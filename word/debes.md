@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: DE_ES
   count: 7
+prev_word: debel
+next_word: debit
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

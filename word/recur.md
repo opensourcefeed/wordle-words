@@ -39,4 +39,15 @@ definitions:
   - text: To happen again.
     example: The theme of the prodigal son recurs later in the third act.
   - text: To recurse.
+prev_word: recue
+next_word: recut
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - peens
 - prent
+prev_word: peens
+next_word: peeoy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/nt/"
+  label: Ending in NT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

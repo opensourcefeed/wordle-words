@@ -29,4 +29,15 @@ neighbours:
 - saree
 anagrams:
 - rakee
+prev_word: karat
+next_word: karez
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/ee/"
+  label: Ending in EE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

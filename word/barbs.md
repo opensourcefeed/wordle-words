@@ -81,4 +81,15 @@ definitions:
 - pos: noun
   defs:
   - text: A barbiturate.
+prev_word: barbe
+next_word: barby
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

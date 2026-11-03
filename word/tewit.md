@@ -26,4 +26,15 @@ neighbours:
 - pewit
 anagrams:
 - twite
+prev_word: tewel
+next_word: texas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -32,4 +32,15 @@ definitions:
   - text: A serving of the above beverage.
   - text: Neutral spirits distilled (or treated after distillation) so as to have
       no distinctive character, aroma, taste or color.
+prev_word: voddy
+next_word: vodou
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/ka/"
+  label: Ending in KA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

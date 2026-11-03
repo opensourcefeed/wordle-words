@@ -39,4 +39,15 @@ definitions:
   - text: To whack or beat.
     example: I ought to have whanged him one in the eye.
   - text: To slice, especially into large pieces; to chop.
+prev_word: whams
+next_word: whaps
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

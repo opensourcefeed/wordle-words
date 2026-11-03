@@ -30,4 +30,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Neat and tidy; especially used of hair
+prev_word: kemps
+next_word: kempy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

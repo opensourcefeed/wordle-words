@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A dish made by browning grain, typically rice, in oil and then cooking it
       with a seasoned broth, to which meat and/or vegetables may be added.
+prev_word: pilar
+next_word: pilaw
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

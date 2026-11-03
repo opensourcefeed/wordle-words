@@ -48,4 +48,15 @@ definitions:
   - text: To make a slow or arduous journey.
   - text: To journey on foot, especially to hike through mountainous areas.
   - text: To travel by ox wagon.
+prev_word: treif
+next_word: trema
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

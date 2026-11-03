@@ -43,4 +43,15 @@ definitions:
 - pos: verb
   defs:
   - text: To laugh, especially loudly or uproariously
+prev_word: yobby
+next_word: yodel
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yo/"
+  label: Starting with YO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

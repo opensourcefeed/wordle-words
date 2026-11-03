@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: An ambulance driver.
   - text: An ambulance.
+prev_word: amble
+next_word: ambry
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

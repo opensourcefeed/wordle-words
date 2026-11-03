@@ -82,4 +82,15 @@ definitions:
   - text: To cause to assume the value zero.
   - text: "(IRC) To disconnect (a user) involuntarily from the network."
   - text: To deadmelt.
+prev_word: keeks
+next_word: keema
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

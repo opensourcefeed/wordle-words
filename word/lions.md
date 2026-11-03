@@ -49,4 +49,15 @@ definitions:
   - text: A famous person regarded with interest and curiosity.
   - text: A light brown color that resembles the fur of a lion.
   - text: An old Scottish coin, with a lion on the obverse, worth 74 shillings.
+prev_word: linux
+next_word: lipas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

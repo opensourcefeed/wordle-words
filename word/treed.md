@@ -54,4 +54,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Planted or covered with trees.
+prev_word: treck
+next_word: treen
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

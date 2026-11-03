@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ORAS
   count: 8
+prev_word: moran
+next_word: morat
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

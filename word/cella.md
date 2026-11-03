@@ -41,4 +41,15 @@ definitions:
   defs:
   - text: The central, enclosed part of an ancient temple, as distinguished from the
       open porticos.
+prev_word: celeb
+next_word: celli
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ce/"
+  label: Starting with CE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

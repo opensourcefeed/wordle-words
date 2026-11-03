@@ -35,4 +35,15 @@ definitions:
   - text: To enlist oneself (in something) or become a member (of something)
     example: Have you enrolled in classes yet for this term?
   - text: To envelop; to enwrap.
+prev_word: enows
+next_word: ensew
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/en/"
+  label: Starting with EN
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

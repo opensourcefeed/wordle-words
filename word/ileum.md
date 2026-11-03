@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: The last, and usually the longest, division of the small intestine; the
       part between the jejunum and large intestine.
+prev_word: ileal
+next_word: ileus
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/il/"
+  label: Starting with IL
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

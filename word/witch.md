@@ -58,4 +58,15 @@ definitions:
   - text: To practise witchcraft.
   - text: To bewitch.
   - text: To dowse for water.
+prev_word: witan
+next_word: wited
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

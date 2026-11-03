@@ -54,4 +54,15 @@ definitions:
 - pos: noun
   defs:
   - text: A pagoda, a type of gold coin.
+prev_word: hooly
+next_word: hoops
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

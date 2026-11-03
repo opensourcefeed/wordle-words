@@ -72,4 +72,15 @@ definitions:
   defs:
   - text: Used to indicate lack of sympathy
     example: If you don't like it, tough!
+prev_word: touch
+next_word: touks
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/gh/"
+  label: Ending in GH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

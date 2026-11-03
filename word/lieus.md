@@ -29,4 +29,15 @@ neighbours:
 - liers
 anagrams:
 - ileus
+prev_word: liers
+next_word: lieve
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

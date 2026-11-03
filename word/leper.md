@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A person who has leprosy.
   - text: A person who is shunned; a pariah.
+prev_word: lepak
+next_word: lepid
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

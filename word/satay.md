@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: A dish made from small pieces of meat or fish grilled on a skewer and served
       with a spicy peanut sauce, originating from Indonesia and Malaysia.
+prev_word: satai
+next_word: sated
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

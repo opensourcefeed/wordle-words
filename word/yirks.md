@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _IRKS
   count: 8
+prev_word: yirds
+next_word: yirrs
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

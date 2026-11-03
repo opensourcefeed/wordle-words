@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - chose
 - oches
+prev_word: eches
+next_word: ecigs
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ec/"
+  label: Starting with EC
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

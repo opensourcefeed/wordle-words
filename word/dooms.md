@@ -64,4 +64,15 @@ definitions:
   - text: To judge; to estimate or determine as a judge.
   - text: To ordain as a penalty; hence, to mulct or fine.
   - text: To assess a tax upon, by estimate or at discretion.
+prev_word: dooly
+next_word: doomy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

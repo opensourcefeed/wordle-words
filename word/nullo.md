@@ -26,4 +26,15 @@ neighbours:
 - nulla
 - nulls
 - nully
+prev_word: nulla
+next_word: nulls
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

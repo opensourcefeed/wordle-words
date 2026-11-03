@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Hesitant, frightened; daunted, disconcerted; perturbed, put off (usually
       used in the negative).
+prev_word: fayre
+next_word: fazes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

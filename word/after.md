@@ -81,4 +81,15 @@ definitions:
   - text: Signifies that the action of the clause it starts takes place before the
       action of the other clause.
     example: I went home after we had decided to call it a day.
+prev_word: afros
+next_word: aftos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/af/"
+  label: Starting with AF
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

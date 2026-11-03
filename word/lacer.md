@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: LA_ER
   count: 11
+prev_word: laced
+next_word: laces
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

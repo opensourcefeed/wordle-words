@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _OGUE
   count: 7
+prev_word: bogle
+next_word: bogus
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

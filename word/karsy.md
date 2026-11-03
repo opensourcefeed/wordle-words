@@ -27,4 +27,15 @@ anagrams:
 - kyars
 - sarky
 - yarks
+prev_word: karst
+next_word: karts
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

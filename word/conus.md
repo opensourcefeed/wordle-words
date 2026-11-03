@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cone.
+prev_word: conto
+next_word: convo
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -44,4 +44,15 @@ definitions:
       units of kg⋅m2⋅s−1. Symbol: kg'
   - text: The unit of weight such that a one-kilogram mass is also a one-kilogram
       weight.
+prev_word: kilns
+next_word: kilps
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

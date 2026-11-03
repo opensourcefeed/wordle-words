@@ -49,4 +49,13 @@ definitions:
 - pos: adjective
   defs:
   - text: Extremely angry; wrathful; enraged.
+prev_word: irade
+next_word: irids
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

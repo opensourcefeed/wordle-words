@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: _REES
   count: 7
+prev_word: preen
+next_word: preif
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

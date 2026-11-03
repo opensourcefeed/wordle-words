@@ -51,4 +51,13 @@ definitions:
   - text: A sudden outburst of emotion.
     example: He had a laughing fit which lasted more than ten minutes.
   - text: A sudden burst (of an activity).
+prev_word: fyrds
+next_word: gabba
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

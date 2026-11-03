@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A preservative, made from catechu gum boiled in water, used to prolong the
       life of a sail or net
+prev_word: cusum
+next_word: cuter
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

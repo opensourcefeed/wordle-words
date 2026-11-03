@@ -45,4 +45,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Archaic spelling of cursed.
+prev_word: cursi
+next_word: curve
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

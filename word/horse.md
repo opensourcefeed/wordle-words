@@ -67,4 +67,15 @@ definitions:
       HORSE, H-O-R-S-E or H.O.R.S.E. (see Variations of basketball#H-O-R-S-E).
   - text: "(among students) A translation or other illegitimate aid in study or examination."
   - text: "(among students) horseplay; tomfoolery"
+prev_word: horny
+next_word: horst
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

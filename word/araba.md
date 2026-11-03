@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 90
 neighbours:
 - aroba
+prev_word: aquas
+next_word: araks
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

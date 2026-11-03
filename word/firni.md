@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A sweet rice pudding from South Asia.
+prev_word: firms
+next_word: firns
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ni/"
+  label: Ending in NI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

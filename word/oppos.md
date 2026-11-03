@@ -31,4 +31,15 @@ definitions:
   - text: A friend, associate or colleague.
   - text: Research into one's opponent's family, friends and past, which aims to uncover
       activities or interests which embarrass or discredit them (short for oppo research).
+prev_word: opium
+next_word: opsat
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

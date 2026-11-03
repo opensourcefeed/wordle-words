@@ -28,4 +28,15 @@ neighbours:
 - bocca
 - macca
 - yacca
+prev_word: babus
+next_word: bacco
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

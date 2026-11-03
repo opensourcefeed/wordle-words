@@ -26,4 +26,15 @@ neighbours:
 - poufs
 - poufy
 - pyuff
+prev_word: pouch
+next_word: poufs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ff/"
+  label: Ending in FF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

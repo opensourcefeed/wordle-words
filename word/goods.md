@@ -57,4 +57,15 @@ definitions:
   - text: "(often preceded by the) Something authentic, important, or revealing."
   - text: Freight (not passengers)
   - text: Short for goods train.
+prev_word: goodo
+next_word: goody
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

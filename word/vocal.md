@@ -53,4 +53,15 @@ definitions:
     example: a vocal sound
   - text: Loud; getting oneself heard.
     example: The protesters were very vocal in their message to the mayor.
+prev_word: vocab
+next_word: voces
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vo/"
+  label: Starting with VO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

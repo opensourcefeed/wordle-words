@@ -23,4 +23,15 @@ stats:
 neighbours:
 - flame
 - flume
+prev_word: flegs
+next_word: flesh
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

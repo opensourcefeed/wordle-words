@@ -24,4 +24,15 @@ neighbours:
 - awols
 anagrams:
 - walds
+prev_word: aways
+next_word: aweel
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

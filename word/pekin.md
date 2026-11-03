@@ -23,4 +23,15 @@ stats:
 neighbours:
 - pekan
 - pekid
+prev_word: pekid
+next_word: pekoe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

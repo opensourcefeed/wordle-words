@@ -64,4 +64,15 @@ definitions:
   - text: A promotional message sent to an entire mailing list.
     example: an e-mail blast; a fax blast
   - text: A flatulent disease of sheep.
+prev_word: blash
+next_word: blate
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

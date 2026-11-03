@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _INOS
   count: 8
+prev_word: zinky
+next_word: zippo
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

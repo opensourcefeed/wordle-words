@@ -27,4 +27,15 @@ neighbours:
 - pownd
 - rownd
 - sownd
+prev_word: lowly
+next_word: lowne
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

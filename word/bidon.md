@@ -28,4 +28,15 @@ definitions:
 - pos: noun
   defs:
   - text: A water bottle.
+prev_word: bidis
+next_word: bidri
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

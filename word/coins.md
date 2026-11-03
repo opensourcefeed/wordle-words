@@ -63,4 +63,15 @@ definitions:
     example: Over the last century the advance in science has led to many new words
       being coined.
   - text: To acquire rapidly, as money; to make.
+prev_word: coils
+next_word: coirs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

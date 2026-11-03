@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - beins
 - bines
+prev_word: benga
+next_word: benji
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

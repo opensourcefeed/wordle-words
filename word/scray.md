@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: SCRA_
   count: 9
+prev_word: scraw
+next_word: scree
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/ay/"
+  label: Ending in AY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

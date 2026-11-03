@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: SWEE_
   count: 6
+prev_word: sweed
+next_word: sweep
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

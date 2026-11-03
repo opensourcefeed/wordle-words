@@ -65,4 +65,15 @@ definitions:
 - pos: noun
   defs:
   - text: One of the upper side pieces of the frame of a wagon body or a sleigh.
+prev_word: raver
+next_word: ravey
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

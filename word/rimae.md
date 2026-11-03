@@ -27,4 +27,15 @@ anagrams:
 - aimer
 - maire
 - ramie
+prev_word: rilly
+next_word: rimed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ae/"
+  label: Ending in AE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

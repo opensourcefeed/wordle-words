@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ATHS
   count: 8
+prev_word: tates
+next_word: tatie
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

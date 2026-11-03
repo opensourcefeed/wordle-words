@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A member of a race of giants who usually stand in opposition to the Æsir
       and especially to Thor.
+prev_word: jotty
+next_word: joual
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/un/"
+  label: Ending in UN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

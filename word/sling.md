@@ -64,4 +64,15 @@ definitions:
   - text: To pass a rope around (a cask, gun, etc.) preparatory to attaching a hoisting
       or lowering tackle.
   - text: To sell, peddle, or distribute illicitly (e.g. drugs, sex, etc.).
+prev_word: slimy
+next_word: slink
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

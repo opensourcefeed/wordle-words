@@ -26,4 +26,15 @@ neighbours:
 - runds
 - synds
 - wynds
+prev_word: rymme
+next_word: ryoti
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ry/"
+  label: Starting with RY
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -34,4 +34,15 @@ definitions:
   - text: A formal test involving answering written or oral questions under a time
       constraint and usually without access to textbooks.
   - text: Interrogation.
+prev_word: exalt
+next_word: excel
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ex/"
+  label: Starting with EX
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

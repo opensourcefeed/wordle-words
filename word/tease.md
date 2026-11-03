@@ -62,4 +62,15 @@ definitions:
       of irritation.
   - text: To entice, tempt.
   - text: To show as forthcoming, in the manner of a teaser.
+prev_word: teary
+next_word: teats
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

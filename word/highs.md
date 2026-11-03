@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: Thought; intention; determination; purpose.
+prev_word: hifis
+next_word: hight
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

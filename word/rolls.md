@@ -162,4 +162,15 @@ definitions:
   - text: "(paddlesport) An instance of the act of righting a canoe or kayak which
       has capsized, without exiting the watercraft, or being assisted."
     example: That was a good roll.
+prev_word: rolfs
+next_word: rolly
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -32,4 +32,15 @@ neighbours:
 - mutis
 anagrams:
 - kusti
+prev_word: kutch
+next_word: kutus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

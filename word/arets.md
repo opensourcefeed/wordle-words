@@ -43,4 +43,15 @@ anagrams:
 - tares
 - tarse
 - taser
+prev_word: arete
+next_word: arett
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

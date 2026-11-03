@@ -28,4 +28,15 @@ neighbours:
 - vasal
 anagrams:
 - saola
+prev_word: oarer
+next_word: oases
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

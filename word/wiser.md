@@ -50,4 +50,15 @@ definitions:
     example: Don't get wise with me!
   - text: Aware, informed.
     example: Be careful, the boss is wise.
+prev_word: wised
+next_word: wises
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

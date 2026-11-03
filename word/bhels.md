@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 35
 neighbours:
 - baels
+prev_word: bhava
+next_word: bhoot
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

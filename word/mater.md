@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: Mother.
   - text: A meninx; the dura mater, arachnoid mater, or pia mater of the brain.
+prev_word: mated
+next_word: mates
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

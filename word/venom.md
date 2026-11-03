@@ -39,4 +39,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Poisonous, poisoned; (figuratively) pernicious.
+prev_word: venin
+next_word: venti
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/om/"
+  label: Ending in OM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

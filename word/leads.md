@@ -144,4 +144,15 @@ definitions:
   - text: To produce (with to).
     example: The shock led to a change in his behaviour.
   - text: "(transitive) To live or experience (a particular way of life)."
+prev_word: leach
+next_word: leady
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

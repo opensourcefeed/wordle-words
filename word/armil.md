@@ -27,4 +27,15 @@ neighbours:
 - aumil
 anagrams:
 - maril
+prev_word: armet
+next_word: armor
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

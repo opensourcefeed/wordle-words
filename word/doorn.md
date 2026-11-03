@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - donor
 - rondo
+prev_word: doona
+next_word: doors
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/rn/"
+  label: Ending in RN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

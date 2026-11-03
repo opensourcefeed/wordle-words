@@ -54,4 +54,15 @@ definitions:
     example: They accepted the blame, but it was an accident.
   - text: A source control feature that can show which user was responsible for a
       particular portion of the source code.
+prev_word: blain
+next_word: blams
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

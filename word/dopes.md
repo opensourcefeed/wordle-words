@@ -66,4 +66,15 @@ definitions:
   - text: To use drugs; especially, to use prohibited performance-enhancing drugs
       in sporting competitions.
   - text: To judge or guess; to predict the result of.
+prev_word: doper
+next_word: dopey
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

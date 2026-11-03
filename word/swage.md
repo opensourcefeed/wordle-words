@@ -37,4 +37,15 @@ definitions:
 - pos: verb
   defs:
   - text: To bend or shape through use of a swage.
+prev_word: swads
+next_word: swags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -23,4 +23,11 @@ stats:
   - Q
   starter_tier: Weak
   starter_top_percent: 60
+prev_word: qilas
+next_word: qophs
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

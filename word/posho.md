@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Posh.
+prev_word: posey
+next_word: posit
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ho/"
+  label: Ending in HO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

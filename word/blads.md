@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BLA_S
   count: 9
+prev_word: blade
+next_word: blady
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

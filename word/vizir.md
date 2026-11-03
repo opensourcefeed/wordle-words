@@ -24,4 +24,15 @@ stats:
 neighbours:
 - vezir
 - vizor
+prev_word: vixen
+next_word: vizor
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ir/"
+  label: Ending in IR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

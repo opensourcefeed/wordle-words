@@ -46,4 +46,15 @@ definitions:
 - pos: verb
   defs:
   - text: To twitch; to pull; to tweak.
+prev_word: twier
+next_word: twill
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

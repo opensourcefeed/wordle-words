@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A young female pig, at or nearing the age of first breeding.
+prev_word: gilpy
+next_word: gimel
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: SOR_S
   count: 7
+prev_word: sorgo
+next_word: sorra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

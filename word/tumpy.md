@@ -33,4 +33,15 @@ anagrams:
 trap:
   pattern: _UMPY
   count: 8
+prev_word: tumps
+next_word: tunas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tu/"
+  label: Starting with TU
+- url: "/ending-with/py/"
+  label: Ending in PY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

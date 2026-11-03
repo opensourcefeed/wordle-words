@@ -55,4 +55,15 @@ definitions:
   - text: A person who assists foreign journalists in volatile countries, often providing
       interpretation, personal connections, and transportation services.
   - text: A fixer-upper.
+prev_word: fixed
+next_word: fixes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

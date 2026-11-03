@@ -29,4 +29,15 @@ anagrams:
 - argal
 - lagar
 - larga
+prev_word: goyle
+next_word: grabs
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Filipino sword akin to the kris.
+prev_word: kalif
+next_word: kalpa
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

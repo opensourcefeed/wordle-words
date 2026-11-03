@@ -23,4 +23,15 @@ stats:
 neighbours:
 - fifis
 - hiois
+prev_word: hiems
+next_word: highs
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

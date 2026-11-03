@@ -36,4 +36,15 @@ definitions:
     example: a donkey derby
   - text: A bowler hat.
   - text: A local derby.
+prev_word: deray
+next_word: dered
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

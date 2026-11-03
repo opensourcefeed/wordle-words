@@ -35,4 +35,13 @@ definitions:
 - pos: noun
   defs:
   - text: One who gathers eggs.
+prev_word: egged
+next_word: egmas
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

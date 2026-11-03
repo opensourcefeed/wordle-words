@@ -52,4 +52,15 @@ definitions:
       spell or an incantation.
   - text: A roun (secret or mystery).
   - text: In the Go programming language, a Unicode code point.
+prev_word: runer
+next_word: rungs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

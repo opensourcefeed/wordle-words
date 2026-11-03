@@ -64,4 +64,15 @@ definitions:
     example: Do not tax my patience.
   - text: To accuse.
   - text: To examine accounts in order to allow or disallow items.
+prev_word: taxer
+next_word: taxis
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

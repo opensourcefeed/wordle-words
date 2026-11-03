@@ -52,4 +52,15 @@ definitions:
       issues.
   - text: To outweigh; be stronger, greater, bigger than or in other way superior
       to.
+prev_word: truly
+next_word: trunk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/mp/"
+  label: Ending in MP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

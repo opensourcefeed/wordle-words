@@ -31,4 +31,13 @@ definitions:
   defs:
   - text: Any animal of the taxonomic family Equidae, including any equine (horse,
       zebra, ass, mule, etc.)
+prev_word: eques
+next_word: equip
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

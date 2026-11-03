@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: BRE_S
   count: 7
+prev_word: brews
+next_word: briar
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

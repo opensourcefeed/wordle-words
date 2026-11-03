@@ -33,4 +33,15 @@ neighbours:
 - masur
 - masut
 - nasus
+prev_word: masur
+next_word: masut
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

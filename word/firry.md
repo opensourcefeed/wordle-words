@@ -24,4 +24,15 @@ neighbours:
 - ferry
 - fiery
 - furry
+prev_word: firns
+next_word: first
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

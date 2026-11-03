@@ -27,4 +27,15 @@ definitions:
   defs:
   - text: A dark-skinned variety of grape, used to produce red wines.
   - text: A wine produced from this variety of grape.
+prev_word: syphs
+next_word: syren
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sy/"
+  label: Starting with SY
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

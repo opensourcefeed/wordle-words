@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Cub Scout who leads a group of six.
+prev_word: siver
+next_word: sixes
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

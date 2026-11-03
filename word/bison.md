@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: A wild ox, Bison bonasus.
   - text: A similar North American animal, Bison bison.
+prev_word: bisom
+next_word: biter
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

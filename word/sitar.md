@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: A Hindustani/Indian classical stringed instrument, typically having a gourd
       as its resonating chamber.
+prev_word: sists
+next_word: sitch
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

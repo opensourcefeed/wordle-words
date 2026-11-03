@@ -62,4 +62,15 @@ definitions:
       map that may be traversed by enemy characters.
   - text: The homestretch.
     example: And it's Uncle Mo in front by two as they come to the top of the lane.
+prev_word: laned
+next_word: lanks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

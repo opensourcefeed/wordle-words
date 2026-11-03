@@ -50,4 +50,13 @@ definitions:
 - pos: noun
   defs:
   - text: A (small) island, compare with islet.
+prev_word: isled
+next_word: islet
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

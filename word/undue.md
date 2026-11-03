@@ -38,4 +38,15 @@ definitions:
       punishment.
   - text: That which ought not to be done; illegal; unjustified.
   - text: "(of a payment etc) Not owing or payable."
+prev_word: undos
+next_word: undug
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/un/"
+  label: Starting with UN
+- url: "/ending-with/ue/"
+  label: Ending in UE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

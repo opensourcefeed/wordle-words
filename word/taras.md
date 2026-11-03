@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: TA_AS
   count: 9
+prev_word: tapus
+next_word: tardo
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

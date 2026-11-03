@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To provide missing data points by using a mathematical model to extrapolate
       values that are outside the range of a measuring device.
+prev_word: datto
+next_word: daube
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

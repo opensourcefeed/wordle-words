@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _ESTY
   count: 7
+prev_word: rests
+next_word: resue
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

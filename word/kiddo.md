@@ -32,4 +32,15 @@ definitions:
   - text: A close friend; especially used as a form of address.
     example: Okay, kiddo, I gotta run.
   - text: A child.
+prev_word: kicky
+next_word: kiddy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

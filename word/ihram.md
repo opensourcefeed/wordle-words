@@ -24,4 +24,13 @@ stats:
 anagrams:
 - harim
 - mirah
+prev_word: ignis
+next_word: iiwis
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/am/"
+  label: Ending in AM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

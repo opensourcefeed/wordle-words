@@ -24,4 +24,15 @@ neighbours:
 - flowy
 - frory
 - frows
+prev_word: frows
+next_word: froyo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

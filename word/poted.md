@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _OTED
   count: 8
+prev_word: potch
+next_word: potes
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -25,4 +25,15 @@ neighbours:
 anagrams:
 - dahis
 - dashi
+prev_word: sidey
+next_word: sidhe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ha/"
+  label: Ending in HA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

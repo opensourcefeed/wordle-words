@@ -55,4 +55,15 @@ definitions:
   defs:
   - text: To breathe during sleep with harsh, snorting noises caused by vibration
       of the soft palate.
+prev_word: snoot
+next_word: snort
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

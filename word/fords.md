@@ -47,4 +47,15 @@ definitions:
 - pos: verb
   defs:
   - text: To cross a stream using a ford.
+prev_word: fordo
+next_word: forel
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

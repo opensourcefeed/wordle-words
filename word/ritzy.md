@@ -32,4 +32,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Elegant and luxurious.
+prev_word: ritts
+next_word: rival
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/zy/"
+  label: Ending in ZY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

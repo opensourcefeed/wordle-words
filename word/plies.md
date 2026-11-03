@@ -77,4 +77,15 @@ definitions:
   - text: To work diligently.
   - text: To manoeuvre a sailing vessel so that the direction of the wind changes
       from one side of the vessel to the other; to work to windward, to beat, to tack.
+prev_word: plier
+next_word: pligs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

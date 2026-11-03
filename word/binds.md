@@ -87,4 +87,15 @@ definitions:
   - text: To associate an identifier with a value; to associate a variable name, method
       name, etc. with the content of a storage location.
   - text: To complain; to whine about something.
+prev_word: bindi
+next_word: biner
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

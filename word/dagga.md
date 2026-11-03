@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: "(Zimbabwe) Indian hemp, Cannabis sativa indica, or a similar plant of the
       genus Leonotis."
+prev_word: daffy
+next_word: daggy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

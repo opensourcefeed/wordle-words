@@ -56,4 +56,15 @@ definitions:
   - text: To give a theme to.
     example: We themed the birthday party around superheroes.
   - text: To apply a theme to; to change the visual appearance and/or layout of (software).
+prev_word: thema
+next_word: thens
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

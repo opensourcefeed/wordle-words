@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: LEA_Y
   count: 6
+prev_word: leads
+next_word: leafs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: CRE_S
   count: 6
+prev_word: crepe
+next_word: crept
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 76
 neighbours:
 - pugil
+prev_word: mugho
+next_word: mugos
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

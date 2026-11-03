@@ -23,4 +23,15 @@ neighbours:
 - clype
 - flype
 - slype
+prev_word: blush
+next_word: boabs
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bl/"
+  label: Starting with BL
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

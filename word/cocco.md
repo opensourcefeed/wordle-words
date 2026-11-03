@@ -23,4 +23,15 @@ stats:
 neighbours:
 - cocci
 - zocco
+prev_word: cocci
+next_word: cocks
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/co/"
+  label: Ending in CO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

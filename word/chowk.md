@@ -31,4 +31,13 @@ definitions:
       place names).
   - text: A marketplace or open area in a city or village.
   - text: A courtyard.
+prev_word: choux
+next_word: chows
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

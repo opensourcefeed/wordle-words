@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 91
 neighbours:
 - vigil
+prev_word: vigas
+next_word: vigil
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

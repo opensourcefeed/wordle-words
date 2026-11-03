@@ -27,4 +27,15 @@ neighbours:
 - cleek
 anagrams:
 - ickle
+prev_word: clegs
+next_word: clems
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ik/"
+  label: Ending in IK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

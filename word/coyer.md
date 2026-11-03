@@ -48,4 +48,15 @@ definitions:
   - text: Pretending shyness or modesty, especially in an insincere or flirtatious
       way.
   - text: Soft, gentle, hesitating.
+prev_word: coyed
+next_word: coyly
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

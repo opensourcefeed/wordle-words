@@ -49,4 +49,15 @@ definitions:
       by alchemists).
   - text: Of or pertaining to travel through space between the Earth and the Moon,
       or exploration and scientific investigation of the Moon.
+prev_word: lumpy
+next_word: lunas
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

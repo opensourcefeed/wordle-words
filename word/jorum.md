@@ -32,4 +32,15 @@ definitions:
   - text: A large vessel for drinking (usually alcoholic beverages).
   - text: A large quantity.
   - text: The contents, or quantity of the contents, of such a vessel.
+prev_word: jorts
+next_word: jotas
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

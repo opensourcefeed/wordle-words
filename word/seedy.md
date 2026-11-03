@@ -55,4 +55,15 @@ definitions:
   - text: Having the flavour of seeds.
   - text: Having a peculiar flavour supposed to be derived from the weeds growing
       among the vines; said of certain kinds of French brandy.
+prev_word: seeds
+next_word: seeks
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

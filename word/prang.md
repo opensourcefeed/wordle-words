@@ -43,4 +43,15 @@ definitions:
   - text: To crash; to have an accident while controlling a vehicle.
   - text: To damage (the vehicle one is driving) in an accident; to have a minor collision
       with (another motor vehicle).
+prev_word: prana
+next_word: prank
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: Resembling or made of a thin film; gauzy
   - text: Covered by (or as if by) a film; hazy
+prev_word: films
+next_word: filon
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

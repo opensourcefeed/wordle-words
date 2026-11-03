@@ -57,4 +57,15 @@ definitions:
       tremulous vibrations of sound; to have a trembling sound; to quaver.
   - text: To impart the quality of a trill to; to utter as, or with, a trill.
     example: to trill a note, or the letter r
+prev_word: trild
+next_word: trims
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

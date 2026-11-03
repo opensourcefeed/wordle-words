@@ -55,4 +55,15 @@ definitions:
 - pos: noun
   defs:
   - text: A boundary or other limit; a boundary-marker; mere.
+prev_word: meter
+next_word: methi
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

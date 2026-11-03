@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: CAR_E
   count: 6
+prev_word: carls
+next_word: carns
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

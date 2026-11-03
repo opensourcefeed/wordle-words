@@ -43,4 +43,15 @@ definitions:
   - text: Any component of the perianth (outermost whorls of flower parts, not involved
       in reproduction), especially when the components are not distinguished into
       sepals and petals.
+prev_word: tenue
+next_word: tepas
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

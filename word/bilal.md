@@ -25,4 +25,15 @@ stats:
 neighbours:
 - bilat
 - binal
+prev_word: bikky
+next_word: bilat
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bi/"
+  label: Starting with BI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

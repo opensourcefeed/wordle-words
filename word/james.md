@@ -38,4 +38,15 @@ neighbours:
 trap:
   pattern: _AMES
   count: 13
+prev_word: jambu
+next_word: jammy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ja/"
+  label: Starting with JA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

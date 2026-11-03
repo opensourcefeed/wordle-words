@@ -75,4 +75,15 @@ definitions:
   - text: To intoxicate; to stupefy with drink.
   - text: To repair (boots) with new front upper leather, or to piece the upper fronts
       of.
+prev_word: foxed
+next_word: foxie
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

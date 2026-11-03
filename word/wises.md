@@ -45,4 +45,15 @@ definitions:
 - pos: noun
   defs:
   - text: Way, manner, method.
+prev_word: wiser
+next_word: wisha
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wi/"
+  label: Starting with WI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -36,4 +36,15 @@ definitions:
   defs:
   - text: Asian street food consisting of a developing duck embryo boiled alive and
       eaten in the shell
+prev_word: balus
+next_word: bamas
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

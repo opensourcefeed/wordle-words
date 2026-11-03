@@ -26,4 +26,15 @@ definitions:
 - pos: verb
   defs:
   - text: To vomit.
+prev_word: rally
+next_word: ramal
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A Japanese breed of fighting dog
+prev_word: torus
+next_word: tosed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

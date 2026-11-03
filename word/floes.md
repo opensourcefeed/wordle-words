@@ -43,4 +43,15 @@ definitions:
 - pos: noun
   defs:
   - text: A low, flat mass of floating ice.
+prev_word: flocs
+next_word: flogs
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

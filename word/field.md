@@ -61,4 +61,15 @@ definitions:
     example: He fielded the marketing survey about the upcoming product.
   - text: To deploy in the field.
     example: to field a new land-mine detector
+prev_word: fiefs
+next_word: fiend
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fi/"
+  label: Starting with FI
+- url: "/ending-with/ld/"
+  label: Ending in LD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

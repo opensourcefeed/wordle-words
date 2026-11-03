@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - burro
 - rubor
+prev_word: robug
+next_word: roche
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ur/"
+  label: Ending in UR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

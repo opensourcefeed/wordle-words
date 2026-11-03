@@ -76,4 +76,15 @@ definitions:
     example: There, there. Everything is going to turn out all right.
   - text: Used to express victory or completion.
     example: There! That knot should hold.
+prev_word: theow
+next_word: therm
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

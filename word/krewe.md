@@ -28,4 +28,13 @@ definitions:
   defs:
   - text: A private organization in New Orleans or elsewhere that exists to stage
       a Mardi Gras Ball, Mardi Gras Parade, or both.
+prev_word: kreng
+next_word: krill
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

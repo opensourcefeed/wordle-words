@@ -41,4 +41,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Charming, confident and elegant.
+prev_word: styte
+next_word: subah
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

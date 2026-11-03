@@ -29,4 +29,15 @@ neighbours:
 - tubas
 anagrams:
 - bajus
+prev_word: joyed
+next_word: jubes
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ju/"
+  label: Starting with JU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

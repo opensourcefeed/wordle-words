@@ -26,4 +26,13 @@ neighbours:
 - chuts
 - phuts
 - shuts
+prev_word: bhuna
+next_word: biach
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

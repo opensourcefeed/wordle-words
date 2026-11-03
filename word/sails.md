@@ -78,4 +78,15 @@ definitions:
   - text: To move briskly and gracefully through the air.
   - text: To move briskly.
     example: The duchess sailed haughtily out of the room.
+prev_word: saiga
+next_word: saims
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

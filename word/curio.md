@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: A strange and interesting object; something that evokes curiosity.
+prev_word: curie
+next_word: curli
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/io/"
+  label: Ending in IO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

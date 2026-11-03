@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - askar
 - karas
+prev_word: araba
+next_word: arame
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

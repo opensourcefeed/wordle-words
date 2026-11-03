@@ -24,4 +24,15 @@ neighbours:
 - endow
 - indew
 - indol
+prev_word: indol
+next_word: indri
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

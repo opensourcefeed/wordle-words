@@ -111,4 +111,15 @@ definitions:
     example: He fucked the dirty cloth out the window.
   - text: To scold
     example: The sergeant fucked me upside down.
+prev_word: forgo
+next_word: forky
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

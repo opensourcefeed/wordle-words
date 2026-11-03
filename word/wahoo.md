@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: Acanthocybium solandri, a tropical and subtropical game fish.
+prev_word: wahey
+next_word: waide
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/oo/"
+  label: Ending in OO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

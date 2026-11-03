@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: A cleaving tool with handle at right angles to the blade, for splitting
       cask staves and shingles from the block; a frower.
+prev_word: frown
+next_word: frowy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

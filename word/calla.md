@@ -36,4 +36,15 @@ definitions:
   - text: A marsh plant native to cooler areas throughout the northern hemisphere,
       Calla palustris, having pale green flowers in a white spathe.
   - text: The calla lily, Zantedeschia aethiopica.
+prev_word: calks
+next_word: calle
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

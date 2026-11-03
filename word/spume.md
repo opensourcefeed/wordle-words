@@ -31,4 +31,15 @@ definitions:
 - pos: verb
   defs:
   - text: To froth.
+prev_word: spule
+next_word: spumy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

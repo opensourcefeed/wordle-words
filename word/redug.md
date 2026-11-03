@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - grued
 - urged
+prev_word: redub
+next_word: redux
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ug/"
+  label: Ending in UG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

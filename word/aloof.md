@@ -43,4 +43,13 @@ definitions:
 - pos: preposition
   defs:
   - text: Away from; clear of.
+prev_word: along
+next_word: aloos
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

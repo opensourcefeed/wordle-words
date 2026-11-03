@@ -27,4 +27,15 @@ neighbours:
 - keeve
 - kerne
 - perve
+prev_word: kerry
+next_word: kesar
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

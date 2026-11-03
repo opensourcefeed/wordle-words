@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Mezzo-soprano
+prev_word: mezze
+next_word: mgals
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/zo/"
+  label: Ending in ZO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

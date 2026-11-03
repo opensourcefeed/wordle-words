@@ -35,4 +35,15 @@ definitions:
   - text: A floating mote or speck of dust.
   - text: An indivisible particle.
   - text: A tiny being; a very small person.
+prev_word: atoms
+next_word: atone
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/at/"
+  label: Starting with AT
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

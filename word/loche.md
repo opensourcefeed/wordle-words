@@ -29,4 +29,15 @@ neighbours:
 - locie
 - poche
 - roche
+prev_word: local
+next_word: lochs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

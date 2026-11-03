@@ -24,4 +24,15 @@ anagrams:
 - deism
 - dimes
 - meids
+prev_word: disks
+next_word: dital
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

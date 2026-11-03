@@ -40,4 +40,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An expression of sorrow or mourning.
+prev_word: alaap
+next_word: alala
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

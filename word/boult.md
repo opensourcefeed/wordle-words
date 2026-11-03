@@ -84,4 +84,15 @@ definitions:
     example: Graham flour is unbolted flour.
   - text: To separate, assort, refine, or purify by other means.
   - text: To discuss or argue privately, and for practice, as cases at law.
+prev_word: boule
+next_word: bound
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/lt/"
+  label: Ending in LT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

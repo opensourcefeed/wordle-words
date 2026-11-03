@@ -25,4 +25,15 @@ neighbours:
 - emits
 anagrams:
 - temps
+prev_word: emove
+next_word: empty
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

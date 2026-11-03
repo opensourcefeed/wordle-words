@@ -47,4 +47,15 @@ definitions:
   - text: To stick out from (a surface).
     example: He stood six feet tall, with muscular arms bulging out of his black T-shirt.
   - text: To bilge, as a ship; to founder.
+prev_word: bulbs
+next_word: bulgy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

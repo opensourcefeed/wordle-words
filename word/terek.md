@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 49
 neighbours:
 - teres
+prev_word: terce
+next_word: teres
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/ek/"
+  label: Ending in EK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

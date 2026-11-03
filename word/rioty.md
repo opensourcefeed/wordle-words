@@ -28,4 +28,15 @@ neighbours:
 - rooty
 anagrams:
 - ryoti
+prev_word: riots
+next_word: riped
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

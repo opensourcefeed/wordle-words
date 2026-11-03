@@ -26,4 +26,15 @@ neighbours:
 - fumet
 anagrams:
 - femur
+prev_word: fumed
+next_word: fumes
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fu/"
+  label: Starting with FU
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -69,4 +69,15 @@ definitions:
   - text: To be very conspicuous on account of size, prominence, colour, or brilliancy.
     example: staring windows or colours
   - text: To stand out; to project; to bristle.
+prev_word: staps
+next_word: stark
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

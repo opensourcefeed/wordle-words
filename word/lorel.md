@@ -34,4 +34,15 @@ neighbours:
 anagrams:
 - oller
 - rello
+prev_word: lordy
+next_word: lores
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

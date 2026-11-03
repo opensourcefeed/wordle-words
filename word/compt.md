@@ -25,4 +25,15 @@ neighbours:
 - compo
 - comps
 - coopt
+prev_word: comps
+next_word: comte
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

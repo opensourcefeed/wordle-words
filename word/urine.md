@@ -39,4 +39,15 @@ definitions:
 - pos: verb
   defs:
   - text: To urinate.
+prev_word: urial
+next_word: urite
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

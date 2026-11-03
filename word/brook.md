@@ -44,4 +44,15 @@ definitions:
       with an abstract noun as object).
     example: I will not brook any disobedience.   I will brook no refusal.   I will
       brook no impertinence.
+prev_word: brood
+next_word: brool
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - letup
 - tuple
+prev_word: plush
+next_word: pluto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

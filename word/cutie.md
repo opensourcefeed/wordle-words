@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: A cute person or animal.
+prev_word: cutey
+next_word: cutin
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

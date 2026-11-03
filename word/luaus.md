@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: An elaborate Hawaiian feast featuring traditional foods and entertainment.
+prev_word: luach
+next_word: lubed
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

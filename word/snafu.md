@@ -34,4 +34,13 @@ definitions:
 - pos: verb
   defs:
   - text: To screw up or foul up.
+prev_word: snack
+next_word: snags
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

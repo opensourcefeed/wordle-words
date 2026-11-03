@@ -30,4 +30,13 @@ definitions:
   defs:
   - text: A hero or champion, especially as a Muslim against non-Muslims; often used
       as a title.
+prev_word: ghaut
+next_word: ghees
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gh/"
+  label: Starting with GH
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -31,4 +31,15 @@ neighbours:
 anagrams:
 - enows
 - owsen
+prev_word: sownd
+next_word: sowps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

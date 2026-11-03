@@ -30,4 +30,15 @@ definitions:
   defs:
   - text: A dessert made originally from peach (now also other fruits), ice cream,
       and raspberry.
+prev_word: melas
+next_word: melch
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

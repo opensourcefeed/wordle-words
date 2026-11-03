@@ -37,4 +37,15 @@ definitions:
   - text: An addition or extension to a building.
   - text: An addition to the territory of a country or state, from a neighbouring
       country or state, normally by military force.
+prev_word: annat
+next_word: annoy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/ex/"
+  label: Ending in EX
+- url: "/ending-with/x/"
+  label: Ending in X
 ---

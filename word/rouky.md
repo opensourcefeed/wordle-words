@@ -27,4 +27,15 @@ neighbours:
 - rougy
 - rouks
 - roupy
+prev_word: rouks
+next_word: roule
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/ky/"
+  label: Ending in KY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

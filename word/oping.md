@@ -34,4 +34,15 @@ definitions:
 - pos: verb
   defs:
   - text: To open.
+prev_word: opine
+next_word: opium
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/op/"
+  label: Starting with OP
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

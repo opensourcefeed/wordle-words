@@ -32,4 +32,15 @@ definitions:
   - text: To elect as a fellow member of a group, such as a committee.
   - text: To commandeer, appropriate or take over.
   - text: To absorb or assimilate into an established group.
+prev_word: coops
+next_word: coost
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: A representation, especially in Renaissance or Baroque art, of a small,
       naked, often winged (usually male) child; a cherub.
+prev_word: putos
+next_word: putto
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

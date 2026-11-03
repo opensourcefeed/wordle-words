@@ -34,4 +34,15 @@ definitions:
       gens.
   - text: The birth name of a pharaoh, the fifth of the five names of the royal titulary,
       traditionally encircled by a cartouche and preceded by the title zꜣ-rꜥ.
+prev_word: nomas
+next_word: nomes
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

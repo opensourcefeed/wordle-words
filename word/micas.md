@@ -32,4 +32,15 @@ neighbours:
 - picas
 anagrams:
 - camis
+prev_word: miaul
+next_word: miche
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

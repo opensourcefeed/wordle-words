@@ -43,4 +43,15 @@ definitions:
     example: The warm sun ripened the corn.
   - text: To mature; to fit or prepare; to bring to perfection
     example: ripen the judgment
+prev_word: riped
+next_word: riper
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ri/"
+  label: Starting with RI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

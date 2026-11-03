@@ -98,4 +98,15 @@ definitions:
       of scoring a touchdown, or to stop expiring time on the game clock after snapping
       the ball as to save time for the losing team to attempt to score the tying or
       winning points."
+prev_word: spifs
+next_word: spiky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

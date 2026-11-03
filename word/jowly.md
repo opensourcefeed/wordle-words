@@ -25,4 +25,15 @@ neighbours:
 - lowly
 - dowly
 - jowls
+prev_word: jowls
+next_word: joyed
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/jo/"
+  label: Starting with JO
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

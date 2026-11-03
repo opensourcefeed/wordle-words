@@ -40,4 +40,13 @@ anagrams:
 trap:
   pattern: _EROS
   count: 7
+prev_word: aerie
+next_word: aesir
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A tough paper used in traditional Japanese art forms.
+prev_word: wases
+next_word: washy
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/hi/"
+  label: Ending in HI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

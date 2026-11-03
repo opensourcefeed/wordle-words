@@ -55,4 +55,15 @@ definitions:
     example: a mural quadrant
   - text: Resembling a wall; perpendicular or steep.
     example: a mural precipice
+prev_word: muons
+next_word: muras
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

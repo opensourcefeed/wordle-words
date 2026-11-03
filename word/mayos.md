@@ -45,4 +45,15 @@ definitions:
   - text: Any cream, for example for moisturizing the face or conditioning the hair,
       for which the base is egg yolks and oil.
     example: hair mayonnaise, facial mayonnaise
+prev_word: mayor
+next_word: mayst
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

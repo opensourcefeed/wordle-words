@@ -28,4 +28,15 @@ anagrams:
 - flour
 - furol
 - orful
+prev_word: flunk
+next_word: flurr
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: The Manx shearwater.
+prev_word: crewe
+next_word: crias
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

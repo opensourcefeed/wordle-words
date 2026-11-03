@@ -35,4 +35,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Grown.
+prev_word: waxed
+next_word: waxer
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wa/"
+  label: Starting with WA
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -95,4 +95,15 @@ definitions:
   - text: To displace something, or take precedence over something.
   - text: To secure (land, etc.) by the right of preemption.
   - text: To make a preemptive bid at bridge.
+prev_word: nines
+next_word: ninny
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ni/"
+  label: Starting with NI
+- url: "/ending-with/ja/"
+  label: Ending in JA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

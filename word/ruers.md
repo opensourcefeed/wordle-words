@@ -29,4 +29,15 @@ neighbours:
 - suers
 anagrams:
 - surer
+prev_word: rueda
+next_word: ruffe
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

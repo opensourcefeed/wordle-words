@@ -28,4 +28,15 @@ neighbours:
 - trier
 - triol
 - trios
+prev_word: triol
+next_word: trios
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

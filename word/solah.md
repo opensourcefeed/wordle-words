@@ -31,4 +31,15 @@ anagrams:
 - shoal
 - halos
 - shola
+prev_word: sokol
+next_word: solan
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

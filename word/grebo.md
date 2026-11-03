@@ -33,4 +33,15 @@ definitions:
   - text: A member of a United Kingdom subculture of the late 1980s and early 1990s,
       musically affiliated with garage rock and electronica, typically wearing baggy
       clothes and hair in high ponytails.
+prev_word: grebe
+next_word: grece
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

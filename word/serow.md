@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several species of Asian ungulates of the genus Capricornis.
+prev_word: seron
+next_word: serra
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: One who is alone, lacking or avoiding the company of others.
     example: I actually enjoy being a loner.
+prev_word: lomes
+next_word: longa
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

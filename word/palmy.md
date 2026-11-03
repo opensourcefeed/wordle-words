@@ -37,4 +37,15 @@ definitions:
   - text: Made out of palm leaves or palm sap.
   - text: Of, related to, or abounding in palm trees.
   - text: Prosperous, flourishing, booming or thriving.
+prev_word: palms
+next_word: palpi
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/my/"
+  label: Ending in MY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

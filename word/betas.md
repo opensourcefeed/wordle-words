@@ -76,4 +76,15 @@ definitions:
   defs:
   - text: Any fish of the genus Betta, especially Betta splendens (the Siamese fighting
       fish).
+prev_word: bests
+next_word: beted
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

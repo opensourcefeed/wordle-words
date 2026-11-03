@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: A taqiyah (skullcap worn by Muslims etc.)
+prev_word: topic
+next_word: topoi
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

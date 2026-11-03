@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - shawm
 - whams
+prev_word: hawks
+next_word: hawse
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of Italian herbal liqueur
+prev_word: amari
+next_word: amass
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

@@ -31,4 +31,15 @@ neighbours:
 - molly
 - molto
 - pollo
+prev_word: molle
+next_word: molls
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/lo/"
+  label: Ending in LO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

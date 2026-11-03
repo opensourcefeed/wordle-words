@@ -38,4 +38,15 @@ definitions:
       in supernatural phenomena or specific religious doctrines.
   - text: Belief in a god who ceased to intervene with existence after acting as the
       cause of the cosmos.
+prev_word: deink
+next_word: deist
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/sm/"
+  label: Ending in SM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

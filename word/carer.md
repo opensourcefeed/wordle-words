@@ -48,4 +48,15 @@ definitions:
   - text: Someone who regularly looks after another person, either as a job or often
       through family responsibilities.
     example: Have you thought of a job as a carer for disabled people?
+prev_word: cared
+next_word: cares
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

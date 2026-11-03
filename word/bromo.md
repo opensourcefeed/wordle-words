@@ -31,4 +31,15 @@ definitions:
 - pos: noun
   defs:
   - text: A dose of a proprietary sedative containing bromide (a bromo-seltzer)
+prev_word: brome
+next_word: bronc
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

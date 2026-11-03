@@ -53,4 +53,15 @@ definitions:
   - text: A small, usually perforated, wave- and beach-polished shell fragment formed
       from the spire of a cone, found along beaches of Pacific islands, and used especially
       to make necklaces.
+prev_word: pujas
+next_word: puked
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

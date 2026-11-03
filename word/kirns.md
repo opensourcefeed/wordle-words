@@ -31,4 +31,15 @@ neighbours:
 - pirns
 anagrams:
 - rinks
+prev_word: kirks
+next_word: kirri
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

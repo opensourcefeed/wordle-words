@@ -44,4 +44,15 @@ definitions:
 - pos: noun
   defs:
   - text: One engaged in sport; a player; an actor.
+prev_word: laked
+next_word: lakes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

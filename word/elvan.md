@@ -37,4 +37,15 @@ definitions:
   - text: Of or relating to certain veins of feldspathic or porphyritic rock crossing
       metalliferous veins in the mining districts of Cornwall.
     example: an elvan course
+prev_word: elute
+next_word: elven
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/el/"
+  label: Starting with EL
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

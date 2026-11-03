@@ -26,4 +26,15 @@ neighbours:
 - chica
 - chico
 - chics
+prev_word: chica
+next_word: chick
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

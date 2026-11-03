@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ADIS
   count: 8
+prev_word: sadic
+next_word: sadly
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

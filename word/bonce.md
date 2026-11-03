@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(British slang) the human head"
+prev_word: bomor
+next_word: bonds
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

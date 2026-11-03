@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _EROS
   count: 7
+prev_word: werfs
+next_word: wersh
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

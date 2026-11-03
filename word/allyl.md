@@ -29,4 +29,15 @@ definitions:
   defs:
   - text: "(especially in combination) The univalent radical, CH2=CH-CH2-, existing
       especially in oils of garlic and mustard."
+prev_word: allus
+next_word: almah
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/yl/"
+  label: Ending in YL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -23,4 +23,15 @@ stats:
 neighbours:
 - image
 - imago
+prev_word: imago
+next_word: imams
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/im/"
+  label: Starting with IM
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

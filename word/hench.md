@@ -47,4 +47,15 @@ definitions:
   defs:
   - text: Big, strong, and muscular.
     example: He's well hench.
+prev_word: hence
+next_word: hends
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

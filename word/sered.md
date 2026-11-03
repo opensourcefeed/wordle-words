@@ -44,4 +44,15 @@ anagrams:
 trap:
   pattern: S_RED
   count: 7
+prev_word: seral
+next_word: serer
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -72,4 +72,15 @@ definitions:
   defs:
   - text: Much; a lot (used to emphasise a comparative)
     example: Her new paintings are miles better than her older ones.
+prev_word: miler
+next_word: milfs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

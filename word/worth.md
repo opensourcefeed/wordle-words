@@ -49,4 +49,15 @@ definitions:
   - text: "(except in Scots) Valuable, worth while."
   - text: Making a fair equivalent of, repaying or compensating.
     example: This job is hardly worth the effort.
+prev_word: worst
+next_word: worts
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Having fame; famous or noted.
+prev_word: falsy
+next_word: fames
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

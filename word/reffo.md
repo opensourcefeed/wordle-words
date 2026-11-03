@@ -31,4 +31,13 @@ definitions:
 - pos: noun
   defs:
   - text: A refugee who has settled in Australia.
+prev_word: refer
+next_word: refis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

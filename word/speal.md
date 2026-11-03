@@ -44,4 +44,15 @@ anagrams:
 - salep
 - sepal
 - spale
+prev_word: speak
+next_word: spean
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

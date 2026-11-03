@@ -40,4 +40,15 @@ definitions:
 - pos: noun
   defs:
   - text: A ditch or moat.
+prev_word: fossa
+next_word: fouat
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: Fuck.
+prev_word: fecit
+next_word: fedai
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

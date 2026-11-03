@@ -39,4 +39,15 @@ definitions:
 - pos: noun
   defs:
   - text: A landing-place on a river; a harbour or small port.
+prev_word: hitch
+next_word: hived
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hi/"
+  label: Starting with HI
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

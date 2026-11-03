@@ -25,4 +25,15 @@ stats:
 neighbours:
 - neral
 - noxal
+prev_word: newts
+next_word: nexin
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

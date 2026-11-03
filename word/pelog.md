@@ -26,4 +26,15 @@ neighbours:
 - perog
 anagrams:
 - golpe
+prev_word: pelma
+next_word: pelon
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

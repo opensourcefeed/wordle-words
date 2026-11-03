@@ -40,4 +40,13 @@ definitions:
     example: a shelf of videos
   - text: A projecting ledge that resembles such an object.
   - text: A reef, shoal or sandbar.
+prev_word: sheik
+next_word: shell
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -82,4 +82,15 @@ definitions:
   - text: To grow to maturity.
   - text: To ejaculate inside the penetratee during intercourse, especially in the
       rectum.
+prev_word: sedum
+next_word: seedy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

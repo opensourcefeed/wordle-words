@@ -53,4 +53,15 @@ definitions:
   - text: To deceive or cheat.
   - text: To mislead.
   - text: To trick and defraud.
+prev_word: gulfy
+next_word: gully
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

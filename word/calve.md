@@ -48,4 +48,15 @@ definitions:
       to shed (a large piece, e.g. an iceberg); to set loose (a mass of ice), e.g.
       a block of ice (coming off an iceberg)"
     example: The glacier was starting to calve an iceberg even as we watched.
+prev_word: calps
+next_word: calyx
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

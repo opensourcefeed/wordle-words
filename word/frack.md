@@ -38,4 +38,15 @@ definitions:
 - pos: verb
   defs:
   - text: To employ hydraulic fracturing (fracking)
+prev_word: frabs
+next_word: fract
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fr/"
+  label: Starting with FR
+- url: "/ending-with/ck/"
+  label: Ending in CK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -31,4 +31,15 @@ anagrams:
 - saros
 - soars
 - soras
+prev_word: orzos
+next_word: oscar
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/os/"
+  label: Starting with OS
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

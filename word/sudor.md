@@ -25,4 +25,15 @@ neighbours:
 - sutor
 anagrams:
 - duros
+prev_word: sudds
+next_word: sudsy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/su/"
+  label: Starting with SU
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

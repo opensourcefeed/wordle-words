@@ -27,4 +27,15 @@ neighbours:
 - boets
 anagrams:
 - boite
+prev_word: boers
+next_word: boets
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

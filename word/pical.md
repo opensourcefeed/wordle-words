@@ -29,4 +29,15 @@ neighbours:
 - tical
 anagrams:
 - plica
+prev_word: pibal
+next_word: picas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: The bend of the wing of a bird.
   - text: A neume, in the form of a tail at the end of a ligature, indicating an additional
       note.
+prev_word: plexi
+next_word: plied
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

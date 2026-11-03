@@ -76,4 +76,15 @@ definitions:
 - pos: noun
   defs:
   - text: (with "the") Gonorrhea.
+prev_word: clans
+next_word: clapt
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

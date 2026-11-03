@@ -29,4 +29,15 @@ neighbours:
 - evert
 anagrams:
 - veery
+prev_word: evert
+next_word: evets
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ev/"
+  label: Starting with EV
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

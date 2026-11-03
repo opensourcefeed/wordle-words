@@ -41,4 +41,15 @@ definitions:
   - text: A form or sample of the element.
   - text: Neon signs or lights, collectively.
   - text: A neon tetra fish.
+prev_word: nenta
+next_word: neosa
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

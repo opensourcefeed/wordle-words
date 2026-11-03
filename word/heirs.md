@@ -45,4 +45,15 @@ definitions:
   - text: One who inherits, or has been designated to inherit, a hereditary title
       or office.
   - text: A successor in a role, representing continuity with the predecessor.
+prev_word: heils
+next_word: heist
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

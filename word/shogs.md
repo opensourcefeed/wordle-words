@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: S_OGS
   count: 7
+prev_word: shogi
+next_word: shoji
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

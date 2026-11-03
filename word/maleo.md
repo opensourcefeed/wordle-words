@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: Macrocephalon maleo, a species of turkey-like bird in the megapode family,
       endemic to Sulawesi.
+prev_word: malax
+next_word: males
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/eo/"
+  label: Ending in EO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

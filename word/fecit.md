@@ -24,4 +24,15 @@ stats:
 neighbours:
 - fecht
 - recit
+prev_word: fecht
+next_word: fecks
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -41,4 +41,15 @@ definitions:
   - text: To prevent something from happening.
   - text: To persuade someone not to do something; to discourage.
   - text: To distract someone from something.
+prev_word: detag
+next_word: detox
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

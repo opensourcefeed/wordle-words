@@ -24,4 +24,15 @@ neighbours:
 - clove
 - clave
 - clepe
+prev_word: clerk
+next_word: clews
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

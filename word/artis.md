@@ -38,4 +38,15 @@ anagrams:
 - stria
 - tarsi
 - tiars
+prev_word: artic
+next_word: artly
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

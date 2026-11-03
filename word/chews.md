@@ -61,4 +61,15 @@ definitions:
   - text: To think about something; to ponder; to chew over.
     example: The professor stood at the blackboard, chalk in hand, and chewed the
       question the student had asked.
+prev_word: chevy
+next_word: chewy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/ws/"
+  label: Ending in WS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

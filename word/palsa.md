@@ -34,4 +34,15 @@ anagrams:
 - palas
 - plaas
 - salpa
+prev_word: palps
+next_word: palsy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/sa/"
+  label: Ending in SA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

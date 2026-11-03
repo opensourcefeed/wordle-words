@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _ADDY
   count: 10
+prev_word: saddo
+next_word: sades
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: _ORAL
   count: 9
+prev_word: loppy
+next_word: loran
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

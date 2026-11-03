@@ -45,4 +45,15 @@ definitions:
   - text: An eccentric, strange or crazy person.
   - text: "(kiteboarding, wakeboarding) A boardsport participant who lacks style or
       skill; a newbie who acts as if they are better at the sport than they are."
+prev_word: konks
+next_word: kooky
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

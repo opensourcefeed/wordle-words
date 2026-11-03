@@ -113,4 +113,15 @@ definitions:
   defs:
   - text: "(British, New Zealand, or Australian) Taxes, usually on property, levied
       by local government."
+prev_word: rater
+next_word: ratha
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

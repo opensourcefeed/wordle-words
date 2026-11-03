@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ANKS
   count: 12
+prev_word: danio
+next_word: danny
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

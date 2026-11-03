@@ -30,4 +30,15 @@ neighbours:
 - fayne
 - raine
 - saine
+prev_word: fails
+next_word: fains
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

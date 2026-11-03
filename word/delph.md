@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A delf; a mine, quarry, pit or ditch.
+prev_word: delos
+next_word: delta
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/de/"
+  label: Starting with DE
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

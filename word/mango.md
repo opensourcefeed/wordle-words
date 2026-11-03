@@ -57,4 +57,15 @@ definitions:
 - pos: verb
   defs:
   - text: To stuff and pickle (a fruit).
+prev_word: mangi
+next_word: mangs
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/go/"
+  label: Ending in GO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

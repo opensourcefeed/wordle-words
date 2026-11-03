@@ -30,4 +30,15 @@ neighbours:
 anagrams:
 - dashi
 - sidha
+prev_word: daggy
+next_word: dahls
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

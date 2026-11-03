@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _LANS
   count: 7
+prev_word: ulama
+next_word: ulcer
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

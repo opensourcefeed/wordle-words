@@ -28,4 +28,15 @@ neighbours:
 - pirre
 - pirrs
 - wirri
+prev_word: pirre
+next_word: pirrs
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

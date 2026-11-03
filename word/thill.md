@@ -40,4 +40,15 @@ definitions:
       which a horse is hitched; a shaft.
   - text: The shallow stratum of underclay that lies under a seam of coal; the bottom
       of a coal-seam.
+prev_word: thilk
+next_word: thine
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/th/"
+  label: Starting with TH
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

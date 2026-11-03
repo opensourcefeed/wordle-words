@@ -57,4 +57,15 @@ definitions:
   - text: Having the slant of a bevel; slanting.
     example: a bevel angle
   - text: Morally distorted; not upright.
+prev_word: bevan
+next_word: bever
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

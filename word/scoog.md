@@ -24,4 +24,15 @@ neighbours:
 - scoot
 - scoug
 - scrog
+prev_word: scone
+next_word: scoop
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sc/"
+  label: Starting with SC
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

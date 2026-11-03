@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _IRRS
   count: 6
+prev_word: giros
+next_word: girsh
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

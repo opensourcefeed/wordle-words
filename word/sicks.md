@@ -48,4 +48,15 @@ definitions:
   - text: To vomit.
     example: I woke up at 4 am and sicked on the floor.
   - text: To fall sick; to sicken.
+prev_word: sicko
+next_word: sicky
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/ks/"
+  label: Ending in KS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

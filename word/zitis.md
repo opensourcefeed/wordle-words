@@ -27,4 +27,15 @@ neighbours:
 - mitis
 - titis
 - zatis
+prev_word: ziram
+next_word: zitty
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/starting-with/zi/"
+  label: Starting with ZI
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

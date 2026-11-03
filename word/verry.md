@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ERRY
   count: 11
+prev_word: verre
+next_word: versa
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

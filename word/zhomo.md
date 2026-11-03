@@ -20,4 +20,13 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 100
+prev_word: zezes
+next_word: zhush
+hubs:
+- url: "/starting-with/z/"
+  label: Starting with Z
+- url: "/ending-with/mo/"
+  label: Ending in MO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

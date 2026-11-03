@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: "(now racially offensive) A female Aboriginal Australian."
+prev_word: lubes
+next_word: luces
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ra/"
+  label: Ending in RA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

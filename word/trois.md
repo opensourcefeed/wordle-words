@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: TRO_S
   count: 7
+prev_word: trogs
+next_word: troke
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

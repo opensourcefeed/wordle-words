@@ -31,4 +31,15 @@ definitions:
   - text: The sphere or area of control and influence of something.
   - text: A circuit, or a boundary around a property.
   - text: The extent of actions, thoughts, or the meaning of words, etc.
+prev_word: amber
+next_word: amble
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

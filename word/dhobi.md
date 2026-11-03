@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: A laundryman or washerman, or laundrywoman or washerwoman, in India and
       Pakistan.
+prev_word: dhikr
+next_word: dhole
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/dh/"
+  label: Starting with DH
+- url: "/ending-with/bi/"
+  label: Ending in BI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

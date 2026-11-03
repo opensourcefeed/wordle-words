@@ -37,4 +37,15 @@ definitions:
   - text: A groove at the ends of the staves of a barrel into which the edge of the
       head is fitted.
   - text: A cooper's tool for making these grooves.
+prev_word: crows
+next_word: cruck
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

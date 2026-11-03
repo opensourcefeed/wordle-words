@@ -55,4 +55,15 @@ definitions:
   - text: To nullify; to annul.
   - text: To form nulls, or into nulls, as in a lathe.
   - text: To crack; to remove restrictions or limitations in (software).
+prev_word: nullo
+next_word: nully
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

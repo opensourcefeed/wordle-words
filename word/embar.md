@@ -29,4 +29,15 @@ anagrams:
 - amber
 - brame
 - bream
+prev_word: email
+next_word: embay
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

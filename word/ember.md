@@ -42,4 +42,15 @@ definitions:
   defs:
   - text: A glowing piece of coal or wood.
   - text: Smoldering ash.
+prev_word: embed
+next_word: embog
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/em/"
+  label: Starting with EM
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

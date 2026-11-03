@@ -66,4 +66,15 @@ definitions:
   - text: To restore or replace.
   - text: To postpone.
   - text: To refer (someone to something), direct someone's attention to something.
+prev_word: remex
+next_word: remix
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

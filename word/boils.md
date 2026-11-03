@@ -69,4 +69,15 @@ definitions:
     example: the boiling waves of the sea
   - text: To be moved or excited with passion; to be hot or fervid.
     example: His blood boils with anger.
+prev_word: bohos
+next_word: boing
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

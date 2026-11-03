@@ -45,4 +45,15 @@ definitions:
     example: to have one's name bandied about (or around)
   - text: To throw or strike reciprocally, like balls in sports.
   - text: To fight (with or against someone).
+prev_word: bands
+next_word: baned
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

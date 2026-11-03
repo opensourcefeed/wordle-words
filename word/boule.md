@@ -51,4 +51,15 @@ definitions:
 - pos: verb
   defs:
   - text: To shape (a piece of dough) into a ball.
+prev_word: bouks
+next_word: boult
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

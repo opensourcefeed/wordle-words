@@ -31,4 +31,13 @@ neighbours:
 anagrams:
 - hoing
 - hongi
+prev_word: ohias
+next_word: ohmic
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

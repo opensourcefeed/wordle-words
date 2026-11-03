@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - rayls
 - ryals
+prev_word: arvos
+next_word: asada
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

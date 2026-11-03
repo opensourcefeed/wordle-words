@@ -29,4 +29,15 @@ neighbours:
 - mitry
 - mivey
 - motey
+prev_word: mites
+next_word: mitie
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

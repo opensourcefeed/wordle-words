@@ -27,4 +27,15 @@ neighbours:
 - zonda
 anagrams:
 - donah
+prev_word: honan
+next_word: honds
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/da/"
+  label: Ending in DA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

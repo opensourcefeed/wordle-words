@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _ANGS
   count: 15
+prev_word: kanga
+next_word: kanji
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

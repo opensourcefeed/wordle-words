@@ -38,4 +38,15 @@ definitions:
 - pos: noun
   defs:
   - text: A liminal point; the threshold of a physiological or psychological response.
+prev_word: limed
+next_word: limes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

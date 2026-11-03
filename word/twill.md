@@ -39,4 +39,15 @@ definitions:
   defs:
   - text: To weave (cloth, etc.) so as to produce the appearance of diagonal lines
       or ribs on the surface.
+prev_word: twigs
+next_word: twilt
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

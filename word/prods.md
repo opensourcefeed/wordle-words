@@ -47,4 +47,15 @@ definitions:
   - text: To poke, to push, to touch.
   - text: To encourage, to prompt.
   - text: To prick with a goad.
+prev_word: prodd
+next_word: proem
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

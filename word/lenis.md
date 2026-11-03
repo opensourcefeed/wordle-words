@@ -50,4 +50,15 @@ definitions:
   defs:
   - text: Weakly articulated (of a consonant), hence voiced; especially as compared
       to the others of a group of homorganic consonants.
+prev_word: lengs
+next_word: lenos
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

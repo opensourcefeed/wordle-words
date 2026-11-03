@@ -61,4 +61,15 @@ definitions:
 - pos: noun
   defs:
   - text: A type of callus, usually on the feet or hands.
+prev_word: corno
+next_word: cornu
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

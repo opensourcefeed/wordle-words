@@ -26,4 +26,15 @@ anagrams:
 - almug
 - glaum
 - mulga
+prev_word: algos
+next_word: alias
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

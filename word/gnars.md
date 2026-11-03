@@ -32,4 +32,15 @@ neighbours:
 anagrams:
 - grans
 - rangs
+prev_word: gnarr
+next_word: gnash
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gn/"
+  label: Starting with GN
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

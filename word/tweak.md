@@ -53,4 +53,15 @@ definitions:
   - text: To exhibit extreme nervousness, evasiveness when confronted by law enforcement
       or other authority (e.g., customs agents, border patrol, teacher, etc.), mimicking
       methamphetamine abuse symptoms.
+prev_word: tways
+next_word: tweed
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

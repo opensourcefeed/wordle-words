@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _INGS
   count: 14
+prev_word: mingi
+next_word: mingy
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

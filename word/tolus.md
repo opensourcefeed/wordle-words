@@ -36,4 +36,15 @@ neighbours:
 anagrams:
 - lotus
 - louts
+prev_word: tolts
+next_word: tolyl
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

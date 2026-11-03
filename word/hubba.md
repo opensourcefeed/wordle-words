@@ -24,4 +24,15 @@ neighbours:
 - bubba
 - gubba
 - hubby
+prev_word: hoyle
+next_word: hubby
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/hu/"
+  label: Starting with HU
+- url: "/ending-with/ba/"
+  label: Ending in BA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

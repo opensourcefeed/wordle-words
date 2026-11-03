@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: TI_ED
   count: 6
+prev_word: ticca
+next_word: tices
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ti/"
+  label: Starting with TI
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

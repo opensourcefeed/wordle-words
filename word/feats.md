@@ -54,4 +54,15 @@ definitions:
 - pos: verb
   defs:
   - text: To feature. I
+prev_word: feast
+next_word: feaze
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

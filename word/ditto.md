@@ -53,4 +53,15 @@ definitions:
   defs:
   - text: Used as an expression of agreement with what another person has said, or
       to indicate that what they have said equally applies to the person being addressed.
+prev_word: ditsy
+next_word: ditts
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

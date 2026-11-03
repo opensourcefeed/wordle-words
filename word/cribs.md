@@ -89,4 +89,15 @@ definitions:
   - text: To crowd together, or to be confined, as if in a crib or in narrow accommodations.
   - text: "(of a horse) To seize the manger or other solid object with the teeth and
       draw in wind."
+prev_word: cribo
+next_word: crick
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

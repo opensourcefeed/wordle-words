@@ -25,4 +25,15 @@ stats:
   starter_top_percent: 63
 neighbours:
 - pirre
+prev_word: jirga
+next_word: jisms
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/ji/"
+  label: Starting with JI
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

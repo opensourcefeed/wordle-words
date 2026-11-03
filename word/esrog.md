@@ -31,4 +31,15 @@ anagrams:
 - ogres
 - regos
 - soger
+prev_word: esnes
+next_word: essay
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/es/"
+  label: Starting with ES
+- url: "/ending-with/og/"
+  label: Ending in OG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

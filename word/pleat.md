@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: To form one or more pleats in a piece of fabric or a garment.
   - text: To plait.
+prev_word: pleas
+next_word: plebe
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pl/"
+  label: Starting with PL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

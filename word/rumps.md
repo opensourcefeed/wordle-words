@@ -43,4 +43,15 @@ definitions:
   - text: A cut of meat from the rump of an animal.
   - text: The buttocks.
   - text: Remnant, as in Rump Parliament.
+prev_word: rumpo
+next_word: rumpy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

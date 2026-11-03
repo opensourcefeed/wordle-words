@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several species of hummingbirds in the genus Coeligena
+prev_word: inbye
+next_word: incel
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/starting-with/in/"
+  label: Starting with IN
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: To eat lunch.
     example: I like to lunch in Italian restaurants.
   - text: To treat to lunch.
+prev_word: lunas
+next_word: lunes
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lu/"
+  label: Starting with LU
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

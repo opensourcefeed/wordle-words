@@ -25,4 +25,15 @@ neighbours:
 - pilon
 anagrams:
 - lipin
+prev_word: piley
+next_word: pilis
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

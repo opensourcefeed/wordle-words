@@ -45,4 +45,15 @@ anagrams:
 trap:
   pattern: _IDER
   count: 8
+prev_word: aided
+next_word: aides
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

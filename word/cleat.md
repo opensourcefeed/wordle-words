@@ -48,4 +48,15 @@ definitions:
   defs:
   - text: To strengthen with a cleat.
   - text: To tie off, affix, stopper a line or rope, especially to a cleat.
+prev_word: clear
+next_word: cleck
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cl/"
+  label: Starting with CL
+- url: "/ending-with/at/"
+  label: Ending in AT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

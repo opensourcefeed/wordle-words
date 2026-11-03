@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 66
 neighbours:
 - pompa
+prev_word: gomer
+next_word: gonad
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

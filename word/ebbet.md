@@ -23,4 +23,13 @@ stats:
   starter_top_percent: 91
 neighbours:
 - ebbed
+prev_word: ebbed
+next_word: ebena
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

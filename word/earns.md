@@ -70,4 +70,15 @@ definitions:
   defs:
   - text: To long; to yearn.
   - text: To grieve.
+prev_word: early
+next_word: earnt
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/ea/"
+  label: Starting with EA
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

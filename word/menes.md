@@ -41,4 +41,15 @@ anagrams:
 trap:
   pattern: _ENES
   count: 9
+prev_word: mened
+next_word: menge
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

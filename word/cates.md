@@ -48,4 +48,15 @@ definitions:
 - pos: noun
   defs:
   - text: Provisions; food; viands; especially, luxurious food; delicacies; dainties.
+prev_word: cater
+next_word: catty
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -31,4 +31,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Overly inquiring; nosey.
+prev_word: neats
+next_word: nebek
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ne/"
+  label: Starting with NE
+- url: "/ending-with/by/"
+  label: Ending in BY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

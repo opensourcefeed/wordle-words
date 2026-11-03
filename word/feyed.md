@@ -27,4 +27,15 @@ neighbours:
 - feyer
 - heyed
 - keyed
+prev_word: fewer
+next_word: feyer
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ anagrams:
 trap:
   pattern: KAI_S
   count: 7
+prev_word: kaies
+next_word: kaika
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ka/"
+  label: Starting with KA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

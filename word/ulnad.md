@@ -26,4 +26,15 @@ neighbours:
 - ulnas
 anagrams:
 - laund
+prev_word: ulmos
+next_word: ulnae
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/ad/"
+  label: Ending in AD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

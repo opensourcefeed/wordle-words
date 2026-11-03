@@ -29,4 +29,15 @@ neighbours:
 - titar
 anagrams:
 - attar
+prev_word: tasty
+next_word: tater
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

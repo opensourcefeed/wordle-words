@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 76
 neighbours:
 - aiyoh
+prev_word: aixes
+next_word: aiyee
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

@@ -51,4 +51,15 @@ definitions:
   - text: Anything worth striving for; a valuable possession held or in prospect.
   - text: A contest for a reward; competition.
   - text: A lever; a pry; also, the hold of a lever.
+prev_word: privy
+next_word: proal
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ze/"
+  label: Ending in ZE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

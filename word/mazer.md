@@ -45,4 +45,15 @@ definitions:
   defs:
   - text: The maple tree, or maple wood.
   - text: A large drinking bowl made from such wood; a mazer bowl.
+prev_word: mazel
+next_word: mazes
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

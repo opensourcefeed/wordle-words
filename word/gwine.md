@@ -26,4 +26,13 @@ neighbours:
 - dwine
 anagrams:
 - winge
+prev_word: guyse
+next_word: gyals
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

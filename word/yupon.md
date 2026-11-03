@@ -22,4 +22,15 @@ stats:
 neighbours:
 - jupon
 - yapon
+prev_word: yumps
+next_word: yuppy
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: verb
   defs:
   - text: To daub or cover with gum.
+prev_word: begot
+next_word: begun
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/um/"
+  label: Ending in UM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

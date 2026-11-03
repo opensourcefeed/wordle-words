@@ -25,4 +25,13 @@ stats:
 neighbours:
 - iodic
 - iodin
+prev_word: iodic
+next_word: iodin
+hubs:
+- url: "/starting-with/i/"
+  label: Starting with I
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -32,4 +32,15 @@ definitions:
 - pos: noun
   defs:
   - text: Small island, islet.
+prev_word: holly
+next_word: holms
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/me/"
+  label: Ending in ME
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

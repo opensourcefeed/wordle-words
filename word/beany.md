@@ -30,4 +30,15 @@ neighbours:
 - benny
 - leany
 - meany
+prev_word: beans
+next_word: beard
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

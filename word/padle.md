@@ -30,4 +30,15 @@ anagrams:
 - pedal
 - plead
 - paled
+prev_word: padis
+next_word: padma
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

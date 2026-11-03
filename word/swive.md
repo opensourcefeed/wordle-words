@@ -43,4 +43,15 @@ definitions:
   defs:
   - text: To copulate with (a woman).
   - text: To cut a crop in a sweeping or rambling manner, hence to reap; cut for harvest.
+prev_word: swits
+next_word: swizz
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

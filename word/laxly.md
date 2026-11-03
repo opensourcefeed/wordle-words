@@ -21,4 +21,15 @@ stats:
   - X
   starter_tier: Weak
   starter_top_percent: 90
+prev_word: laxes
+next_word: layby
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

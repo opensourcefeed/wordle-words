@@ -70,4 +70,15 @@ definitions:
     example: The piano teacher's bored look indicated he wasn't paying much attention
       to his pupil's lackluster rendition of Mozart's Requiem
   - text: Perforated by a hole or holes (through bioerosion or other)
+prev_word: bords
+next_word: boree
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bo/"
+  label: Starting with BO
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

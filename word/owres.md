@@ -33,4 +33,15 @@ anagrams:
 - resow
 - serow
 - weros
+prev_word: ownio
+next_word: owrie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ow/"
+  label: Starting with OW
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

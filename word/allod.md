@@ -33,4 +33,15 @@ definitions:
 - pos: noun
   defs:
   - text: Allodium
+prev_word: allis
+next_word: allot
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/od/"
+  label: Ending in OD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

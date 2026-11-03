@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _ONGS
   count: 11
+prev_word: hongi
+next_word: honks
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/gs/"
+  label: Ending in GS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ definitions:
   - text: Emitting light.
   - text: Excellent; remarkable.
   - text: Bright; luminous; clear; unclouded.
+prev_word: shins
+next_word: shiok
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

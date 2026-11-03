@@ -39,4 +39,15 @@ anagrams:
 - boats
 - botas
 - sabot
+prev_word: tabor
+next_word: tabun
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

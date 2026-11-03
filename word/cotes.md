@@ -51,4 +51,15 @@ definitions:
   - text: A cottage or hut.
   - text: A small structure built to contain domesticated animals such as sheep, pigs
       or pigeons.
+prev_word: coted
+next_word: coths
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/co/"
+  label: Starting with CO
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -38,4 +38,15 @@ anagrams:
 - outre
 - ruote
 - utero
+prev_word: roues
+next_word: roufs
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

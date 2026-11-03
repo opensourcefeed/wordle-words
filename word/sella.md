@@ -32,4 +32,15 @@ neighbours:
 - selva
 anagrams:
 - salle
+prev_word: selky
+next_word: selle
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/la/"
+  label: Ending in LA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -43,4 +43,15 @@ definitions:
   - text: Coming or exhaling in puffs.
     example: A puffy fat man in a tracksuit came jogging around the corner.
   - text: Speaking or writing in an exaggeratedly eloquent and self-important manner.
+prev_word: puffs
+next_word: puggy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/fy/"
+  label: Ending in FY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

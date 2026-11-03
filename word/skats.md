@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: S_ATS
   count: 7
+prev_word: skate
+next_word: skatt
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

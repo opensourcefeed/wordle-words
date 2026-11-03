@@ -45,4 +45,15 @@ definitions:
   - text: The trunk of a tree.
   - text: The caudicle within the pollinarium of an orchid flower
   - text: The petiole of the frond of a fern or palm
+prev_word: stipa
+next_word: stire
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/pe/"
+  label: Ending in PE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

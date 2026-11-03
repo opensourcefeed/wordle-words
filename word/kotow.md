@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 97
 neighbours:
 - kotos
+prev_word: kotos
+next_word: koura
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ko/"
+  label: Starting with KO
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

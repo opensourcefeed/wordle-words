@@ -39,4 +39,15 @@ definitions:
   - text: A vat or tub in which the mash is made; a mash tub.
   - text: "(bleaching) A bleaching vat; a kier."
   - text: A large vat used in dressing ores.
+prev_word: kiers
+next_word: kievs
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

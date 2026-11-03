@@ -26,4 +26,15 @@ neighbours:
 - hizen
 - mizen
 - wizen
+prev_word: diyas
+next_word: dizzy
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

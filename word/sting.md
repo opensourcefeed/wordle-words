@@ -56,4 +56,15 @@ definitions:
   - text: The harmful or painful part of something.
   - text: A goad; incitement.
   - text: The concluding point of an epigram or other sarcastic saying.
+prev_word: stimy
+next_word: stink
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

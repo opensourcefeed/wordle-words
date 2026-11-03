@@ -81,4 +81,15 @@ definitions:
 - pos: noun
   defs:
   - text: Any of several types of true yam (Dioscorea) used in Caribbean Spanish cooking.
+prev_word: namer
+next_word: namma
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

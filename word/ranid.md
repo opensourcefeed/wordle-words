@@ -31,4 +31,15 @@ anagrams:
 - drain
 - nadir
 - dinar
+prev_word: rangy
+next_word: ranis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -56,4 +56,15 @@ definitions:
       of witches, witchcraft, or unearthliness; wild; uncanny.
   - text: Having supernatural or preternatural power.
     example: There was a weird light shining above the hill.
+prev_word: weils
+next_word: weirs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/we/"
+  label: Starting with WE
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

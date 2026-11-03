@@ -50,4 +50,15 @@ definitions:
 - pos: noun
   defs:
   - text: A male homosexual, especially one who is effeminate.
+prev_word: pomps
+next_word: poncy
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ce/"
+  label: Ending in CE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

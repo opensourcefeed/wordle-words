@@ -26,4 +26,15 @@ neighbours:
 - darcy
 anagrams:
 - candy
+prev_word: dance
+next_word: danda
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/da/"
+  label: Starting with DA
+- url: "/ending-with/cy/"
+  label: Ending in CY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

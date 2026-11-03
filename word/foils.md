@@ -85,4 +85,15 @@ definitions:
 - pos: verb
   defs:
   - text: To defile; to soil.
+prev_word: foids
+next_word: foins
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fo/"
+  label: Starting with FO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

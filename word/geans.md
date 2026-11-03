@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: A wild cherry tree, Prunus avium, native to Europe and western Asia or its
       small, dark fruit.
+prev_word: geals
+next_word: geare
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A small civilian settlement outside a Roman fort.
+prev_word: vichy
+next_word: video
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

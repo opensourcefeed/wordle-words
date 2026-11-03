@@ -47,4 +47,15 @@ definitions:
   - text: To drag in deep water with creepers, as for recovering a submarine cable.
   - text: To covertly have sex (with a person other than one's primary partner); to
       cheat with.
+prev_word: creps
+next_word: crepy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -30,4 +30,15 @@ definitions:
 - pos: adverb
   defs:
   - text: In a dim manner.
+prev_word: dimes
+next_word: dimps
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

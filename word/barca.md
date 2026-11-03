@@ -23,4 +23,15 @@ stats:
 neighbours:
 - bacca
 - barra
+prev_word: barby
+next_word: barde
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ca/"
+  label: Ending in CA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

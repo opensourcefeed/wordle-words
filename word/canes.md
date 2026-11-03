@@ -64,4 +64,15 @@ definitions:
   defs:
   - text: The genus Arundinaria, the sole temperate genus of bamboo native to the
       New World.
+prev_word: caner
+next_word: cangs
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

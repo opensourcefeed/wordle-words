@@ -25,4 +25,15 @@ definitions:
 - pos: verb
   defs:
   - text: To steal (especially a car).
+prev_word: twixt
+next_word: twoer
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

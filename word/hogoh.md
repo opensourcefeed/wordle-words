@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 100
 neighbours:
 - hogos
+prev_word: hoghs
+next_word: hogos
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

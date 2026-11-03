@@ -52,4 +52,15 @@ definitions:
   defs:
   - text: A commandment from Allah that a Muslim has to fulfil; a religious duty or
       obligation.
+prev_word: farcy
+next_word: fared
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

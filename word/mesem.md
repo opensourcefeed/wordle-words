@@ -25,4 +25,15 @@ neighbours:
 - meses
 anagrams:
 - memes
+prev_word: mesel
+next_word: meses
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

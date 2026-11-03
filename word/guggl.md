@@ -21,4 +21,13 @@ stats:
   starter_top_percent: 100
 anagrams:
 - glugg
+prev_word: gugas
+next_word: guide
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

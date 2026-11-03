@@ -34,4 +34,15 @@ definitions:
   - text: A pointed end, often sharp, abruptly terminating an organ, such as a projection
       at the tip of a leaf; the posterior tip of a cuttlebone; or the distal part
       of the furcula in Collembola.
+prev_word: mucor
+next_word: mucus
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

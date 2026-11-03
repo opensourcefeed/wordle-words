@@ -30,4 +30,15 @@ anagrams:
 - rotte
 - torte
 - toter
+prev_word: orris
+next_word: ortho
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/or/"
+  label: Starting with OR
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -34,4 +34,15 @@ definitions:
 - pos: noun
   defs:
   - text: The aim or goal.
+prev_word: telly
+next_word: telos
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/oi/"
+  label: Ending in OI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -72,4 +72,15 @@ definitions:
 - pos: noun
   defs:
   - text: Someone who pees, someone who urinates.
+prev_word: peepy
+next_word: peery
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

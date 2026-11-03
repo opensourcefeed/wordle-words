@@ -25,4 +25,13 @@ neighbours:
 - ligne
 anagrams:
 - genie
+prev_word: eight
+next_word: eiked
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

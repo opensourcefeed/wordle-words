@@ -28,4 +28,15 @@ neighbours:
 - cadis
 - cadre
 - cavie
+prev_word: cadgy
+next_word: cadis
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

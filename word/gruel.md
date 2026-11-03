@@ -37,4 +37,15 @@ definitions:
 - pos: noun
   defs:
   - text: A thin, watery porridge, formerly eaten primarily by the poor and the ill.
+prev_word: grued
+next_word: grues
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gr/"
+  label: Starting with GR
+- url: "/ending-with/el/"
+  label: Ending in EL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

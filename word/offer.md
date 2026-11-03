@@ -44,4 +44,13 @@ definitions:
       which contains terms sufficiently definite to create an enforceable contract
       if the other party accepts the invitation.
     example: His first letter was not a real offer, but an attempt to determine interest.
+prev_word: offed
+next_word: offie
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

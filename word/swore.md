@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: To take an oath, to promise.
   - text: To use offensive, profane, or obscene language.
+prev_word: sword
+next_word: sworn
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

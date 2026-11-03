@@ -38,4 +38,15 @@ definitions:
   - text: To run (a previously broadcast television program) again.
   - text: To run (a race) again.
   - text: To run (a computer program) again.
+prev_word: reput
+next_word: rerig
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

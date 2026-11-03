@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: "(defective, modal, auxiliary) to say"
+prev_word: quote
+next_word: quouk
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/th/"
+  label: Ending in TH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

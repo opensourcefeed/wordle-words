@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: To serve as a caddy, carrying golf clubs etc.
     example: I was honored to caddy for Tiger Woods at a charity golf game.
+prev_word: cacti
+next_word: cadee
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ca/"
+  label: Starting with CA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

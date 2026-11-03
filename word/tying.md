@@ -56,4 +56,15 @@ definitions:
   defs:
   - text: Action of the verb to tie; ligature.
   - text: The act or process of washing ores in a buddle.
+prev_word: tyers
+next_word: tyiyn
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

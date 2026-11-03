@@ -59,4 +59,15 @@ definitions:
   - text: To become frightened (by something startling).
     example: The deer spooked at the sound of the dogs.
   - text: To haunt.
+prev_word: spoof
+next_word: spool
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ok/"
+  label: Ending in OK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

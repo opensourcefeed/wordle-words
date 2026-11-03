@@ -32,4 +32,15 @@ neighbours:
 - zaire
 anagrams:
 - aiver
+prev_word: vails
+next_word: vairs
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

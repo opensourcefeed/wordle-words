@@ -68,4 +68,15 @@ definitions:
   defs:
   - text: Bent without angles; crooked; curved.
     example: a curve line
+prev_word: curst
+next_word: curvy
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/ve/"
+  label: Ending in VE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

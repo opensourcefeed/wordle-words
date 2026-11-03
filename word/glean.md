@@ -45,4 +45,15 @@ definitions:
   - text: To gather information in small amounts, with implied difficulty, bit by
       bit.
   - text: To frugally accumulate resources from low-yield contexts.
+prev_word: gleam
+next_word: gleba
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

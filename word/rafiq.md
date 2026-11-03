@@ -26,4 +26,13 @@ neighbours:
 - rafik
 anagrams:
 - faqir
+prev_word: rafik
+next_word: rafts
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/q/"
+  label: Ending in Q
 ---

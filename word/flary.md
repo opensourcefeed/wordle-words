@@ -30,4 +30,15 @@ neighbours:
 - flaxy
 - flory
 - glary
+prev_word: flare
+next_word: flash
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

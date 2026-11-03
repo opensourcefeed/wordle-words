@@ -43,4 +43,15 @@ definitions:
       the fulfilment of a stipulation.
   - text: In a nucleotide or amino-acid sequence, pattern that is widespread and has,
       or is conjectured to have, a biological significance.
+prev_word: mothy
+next_word: motis
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/if/"
+  label: Ending in IF
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

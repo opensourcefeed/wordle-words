@@ -32,4 +32,15 @@ neighbours:
 trap:
   pattern: _ANGA
   count: 8
+prev_word: fanes
+next_word: fango
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

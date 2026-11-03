@@ -22,4 +22,15 @@ neighbours:
 - prune
 - pruno
 - prunt
+prev_word: prunt
+next_word: pruta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pr/"
+  label: Starting with PR
+- url: "/ending-with/ny/"
+  label: Ending in NY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

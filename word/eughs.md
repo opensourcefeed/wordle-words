@@ -23,4 +23,13 @@ stats:
 neighbours:
 - sughs
 - vughs
+prev_word: etyma
+next_word: euked
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

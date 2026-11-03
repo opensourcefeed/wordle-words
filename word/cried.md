@@ -55,4 +55,15 @@ definitions:
       especially things lost or found, goods to be sold, etc.
     example: to cry goods
   - text: Hence, to publish the banns of, as for marriage.
+prev_word: crick
+next_word: crier
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -35,4 +35,15 @@ definitions:
   - text: A stupid person; an idiot; a fool.
   - text: A person of mild mental subnormality in the former classification of mental
       retardation, having an intelligence quotient of 50–70.
+prev_word: morns
+next_word: moror
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mo/"
+  label: Starting with MO
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

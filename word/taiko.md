@@ -34,4 +34,15 @@ definitions:
       and at the end of each day
   - text: A Japanese drum or a performance of several drummers in an ensemble (also
       called kumi-daiko).
+prev_word: taigs
+next_word: tails
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ko/"
+  label: Ending in KO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

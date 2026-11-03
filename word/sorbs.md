@@ -44,4 +44,15 @@ definitions:
   - text: Any of various related trees, including the wild service tree, S. torminalis,
       and the rowan, S. aucuparia.
   - text: The fruit of any of these trees, especially of the service tree.
+prev_word: sorbo
+next_word: sorda
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/bs/"
+  label: Ending in BS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

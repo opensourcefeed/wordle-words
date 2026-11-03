@@ -32,4 +32,15 @@ anagrams:
 - bardo
 - dobra
 - dorba
+prev_word: aboon
+next_word: abore
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/rd/"
+  label: Ending in RD
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

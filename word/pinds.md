@@ -35,4 +35,15 @@ neighbours:
 trap:
   pattern: _INDS
   count: 11
+prev_word: pinda
+next_word: pined
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ds/"
+  label: Ending in DS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

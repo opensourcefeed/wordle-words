@@ -41,4 +41,15 @@ definitions:
   - text: A plant (Ocimum basilicum).
   - text: The leaves of this plant used as a herb.
   - text: Any other species in the genus Ocimum.
+prev_word: basij
+next_word: basin
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

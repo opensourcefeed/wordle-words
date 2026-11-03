@@ -28,4 +28,15 @@ neighbours:
 - patte
 - pittu
 - puttu
+prev_word: patte
+next_word: patty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/tu/"
+  label: Ending in TU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

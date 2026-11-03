@@ -27,4 +27,15 @@ neighbours:
 - vexed
 - wexed
 - yexes
+prev_word: yewen
+next_word: yexes
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ye/"
+  label: Starting with YE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -46,4 +46,15 @@ definitions:
   - text: 'A numerical value equal to 7; the number following six and preceding eight.
       This many dots: (•••••••).'
   - text: Describing a group or set with seven elements.
+prev_word: sevak
+next_word: sever
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

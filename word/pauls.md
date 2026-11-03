@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: _AULS
   count: 6
+prev_word: pauas
+next_word: pause
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

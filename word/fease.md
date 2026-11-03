@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _EASE
   count: 7
+prev_word: feart
+next_word: feast
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fe/"
+  label: Starting with FE
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

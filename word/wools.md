@@ -50,4 +50,15 @@ definitions:
   - text: Yarn (including that which is made from synthetic fibers.)
   - text: Derogatory term for residents of the satellite towns outside Liverpool,
       such as St Helens or Warrington. See also Yonner.
+prev_word: woold
+next_word: wooly
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wo/"
+  label: Starting with WO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

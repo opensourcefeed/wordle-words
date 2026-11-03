@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - grata
 - traga
+prev_word: tares
+next_word: targe
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/ga/"
+  label: Ending in GA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

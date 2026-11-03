@@ -44,4 +44,15 @@ definitions:
 - pos: verb
   defs:
   - text: To separate or part the threads of, and arrange them in a reed.
+prev_word: slews
+next_word: slice
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ys/"
+  label: Ending in YS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

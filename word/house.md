@@ -77,4 +77,15 @@ definitions:
   - text: A small stand of trees in a swamp.
   - text: "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit
       exactly once, such as a row, column, or 3×3 box in classic Sudoku."
+prev_word: hours
+next_word: houts
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

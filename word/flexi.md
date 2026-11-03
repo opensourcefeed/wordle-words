@@ -28,4 +28,13 @@ neighbours:
 anagrams:
 - exfil
 - felix
+prev_word: flews
+next_word: flexo
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

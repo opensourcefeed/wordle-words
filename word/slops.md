@@ -63,4 +63,15 @@ definitions:
   - text: Sailors’ breeches ending just below the knees or above the ankles, worn
       mainly in XVIII century.
   - text: Clothing and bedding issued to sailors.
+prev_word: slope
+next_word: slopy
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sl/"
+  label: Starting with SL
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

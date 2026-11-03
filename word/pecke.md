@@ -24,4 +24,15 @@ neighbours:
 - peake
 - pecks
 - pecky
+prev_word: pecia
+next_word: pecks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

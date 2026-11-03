@@ -43,4 +43,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Smart and fashionable.
+prev_word: natto
+next_word: natya
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/ty/"
+  label: Ending in TY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

@@ -61,4 +61,15 @@ definitions:
   - text: To treat as trash, or worthless matter; hence, to spurn, humiliate, or crush.
   - text: To hold back by a trash or leash, as a dog in pursuing game; hence, to retard,
       encumber, or restrain; to clog; to hinder vexatiously.
+prev_word: trapt
+next_word: trass
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

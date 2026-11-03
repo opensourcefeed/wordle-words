@@ -42,4 +42,15 @@ definitions:
 - pos: verb
   defs:
   - text: To fashion on an anvil (often used figuratively).
+prev_word: anura
+next_word: anyon
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/an/"
+  label: Starting with AN
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

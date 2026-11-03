@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: The former currency of Estonia, divided into 100 senti
+prev_word: krone
+next_word: krubi
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

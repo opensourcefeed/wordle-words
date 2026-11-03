@@ -38,4 +38,15 @@ anagrams:
 trap:
   pattern: _OAST
   count: 6
+prev_word: loans
+next_word: loath
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/lo/"
+  label: Starting with LO
+- url: "/ending-with/st/"
+  label: Ending in ST
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

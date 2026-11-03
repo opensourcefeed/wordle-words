@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: PILA_
   count: 6
+prev_word: pilau
+next_word: pilch
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/aw/"
+  label: Ending in AW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

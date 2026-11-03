@@ -31,4 +31,15 @@ neighbours:
 - crost
 anagrams:
 - court
+prev_word: croup
+next_word: crowd
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

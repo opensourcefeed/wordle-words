@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _OULE
   count: 7
+prev_word: nould
+next_word: nouls
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/le/"
+  label: Ending in LE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

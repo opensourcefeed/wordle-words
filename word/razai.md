@@ -23,4 +23,15 @@ stats:
   - Z
   starter_tier: Weak
   starter_top_percent: 72
+prev_word: rayon
+next_word: razed
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

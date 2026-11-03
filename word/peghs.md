@@ -22,4 +22,15 @@ stats:
 neighbours:
 - pechs
 - pegos
+prev_word: peggy
+next_word: pegma
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/hs/"
+  label: Ending in HS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

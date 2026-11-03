@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 9
 neighbours:
 - kehua
+prev_word: lehrs
+next_word: leirs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/ua/"
+  label: Ending in UA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

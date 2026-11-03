@@ -46,4 +46,15 @@ definitions:
 - pos: noun
   defs:
   - text: Man, bloke
+prev_word: homes
+next_word: homie
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ho/"
+  label: Starting with HO
+- url: "/ending-with/ey/"
+  label: Ending in EY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

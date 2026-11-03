@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Show of magnificence; parade; display; power.
   - text: A procession distinguished by ostentation and splendor; a pageant.
+prev_word: pompa
+next_word: ponce
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

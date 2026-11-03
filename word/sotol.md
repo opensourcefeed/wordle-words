@@ -38,4 +38,15 @@ definitions:
       of the asparagus family.
   - text: A distilled spirit made from the sap of some of these plants, especially
       Dasylirion wheeleri.
+prev_word: soths
+next_word: sotto
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

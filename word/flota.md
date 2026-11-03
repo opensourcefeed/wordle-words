@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - aloft
 - float
+prev_word: floss
+next_word: flote
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fl/"
+  label: Starting with FL
+- url: "/ending-with/ta/"
+  label: Ending in TA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -29,4 +29,15 @@ definitions:
 - pos: noun
   defs:
   - text: A temple in traditional Hawaiian society.
+prev_word: hefty
+next_word: heids
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/au/"
+  label: Ending in AU
+- url: "/ending-with/u/"
+  label: Ending in U
 ---

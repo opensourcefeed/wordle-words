@@ -42,4 +42,15 @@ definitions:
 - pos: adjective
   defs:
   - text: 'Of a wine: aged in oak so that it acquires flavor from tannins in the wood.'
+prev_word: oafos
+next_word: oaken
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/oa/"
+  label: Starting with OA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

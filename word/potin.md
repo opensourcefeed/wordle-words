@@ -31,4 +31,15 @@ anagrams:
 - point
 - pinot
 - piton
+prev_word: potes
+next_word: potoo
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

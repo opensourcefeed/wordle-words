@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - mohar
 - morah
+prev_word: omovs
+next_word: omuls
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

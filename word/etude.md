@@ -35,4 +35,15 @@ definitions:
   defs:
   - text: A short piece of music, designed to give a performer practice in a particular
       area or skill.
+prev_word: ettle
+next_word: etuis
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/starting-with/et/"
+  label: Starting with ET
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

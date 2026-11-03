@@ -25,4 +25,15 @@ neighbours:
 - aimag
 anagrams:
 - makai
+prev_word: aimag
+next_word: aimed
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ai/"
+  label: Starting with AI
+- url: "/ending-with/ak/"
+  label: Ending in AK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

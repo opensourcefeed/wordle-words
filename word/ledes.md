@@ -46,4 +46,15 @@ definitions:
   defs:
   - text: "(chiefly US) The introductory paragraph(s) of a newspaper or other news
       article."
+prev_word: leche
+next_word: ledge
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/le/"
+  label: Starting with LE
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

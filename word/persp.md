@@ -27,4 +27,13 @@ anagrams:
 - perps
 - preps
 - repps
+prev_word: perse
+next_word: perst
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

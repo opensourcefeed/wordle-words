@@ -39,4 +39,15 @@ anagrams:
 trap:
   pattern: S_ARE
   count: 8
+prev_word: soapy
+next_word: soars
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/so/"
+  label: Starting with SO
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

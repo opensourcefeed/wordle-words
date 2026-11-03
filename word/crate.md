@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: To put into a crate.
   - text: To keep in a crate.
+prev_word: crass
+next_word: crave
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/te/"
+  label: Ending in TE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

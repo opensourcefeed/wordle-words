@@ -30,4 +30,15 @@ neighbours:
 - twink
 anagrams:
 - winks
+prev_word: swing
+next_word: swipe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

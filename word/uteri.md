@@ -34,4 +34,13 @@ definitions:
   defs:
   - text: The womb, an organ of the female reproductive system in which the young
       are conceived and develop until birth.
+prev_word: usury
+next_word: utero
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

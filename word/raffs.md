@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AFFS
   count: 10
+prev_word: rafee
+next_word: raffy
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ neighbours:
 - spiny
 - spire
 - spirt
+prev_word: spirt
+next_word: spite
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

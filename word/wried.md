@@ -37,4 +37,15 @@ anagrams:
 trap:
   pattern: _RIED
   count: 6
+prev_word: wrick
+next_word: wrier
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wr/"
+  label: Starting with WR
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

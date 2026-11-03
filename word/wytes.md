@@ -34,4 +34,13 @@ anagrams:
 trap:
   pattern: _YTES
   count: 6
+prev_word: wyted
+next_word: wythe
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

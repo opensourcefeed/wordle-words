@@ -33,4 +33,13 @@ definitions:
   defs:
   - text: "(originally leet) To own, to defeat or dominate (someone or something,
       especially a game or someone playing a game)."
+prev_word: puzta
+next_word: pyats
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

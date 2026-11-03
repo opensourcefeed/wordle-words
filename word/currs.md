@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _URRS
   count: 8
+prev_word: curny
+next_word: curry
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/rs/"
+  label: Ending in RS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

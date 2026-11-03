@@ -26,4 +26,15 @@ neighbours:
 anagrams:
 - giant
 - tangi
+prev_word: ngapi
+next_word: ngege
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/ng/"
+  label: Starting with NG
+- url: "/ending-with/ti/"
+  label: Ending in TI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

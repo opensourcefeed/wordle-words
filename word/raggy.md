@@ -45,4 +45,15 @@ definitions:
   - text: Raglike; like a rag.
   - text: Scruffy; tending to dress in rags.
   - text: Similar in style to ragtime music.
+prev_word: raggs
+next_word: ragis
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/gy/"
+  label: Ending in GY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

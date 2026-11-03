@@ -69,4 +69,15 @@ definitions:
   - text: Of a process, operating for a defined set of conditions, and then halting.
     example: The plant had two batch assembly lines for packaging, as well as a continuous
       feed production line.
+prev_word: basts
+next_word: bated
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ch/"
+  label: Ending in CH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

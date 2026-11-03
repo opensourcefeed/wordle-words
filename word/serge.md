@@ -45,4 +45,15 @@ definitions:
 - pos: verb
   defs:
   - text: To overlock.
+prev_word: serfs
+next_word: seria
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

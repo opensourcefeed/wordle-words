@@ -31,4 +31,15 @@ neighbours:
 - uveal
 anagrams:
 - alure
+prev_word: urdee
+next_word: ureas
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ur/"
+  label: Starting with UR
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

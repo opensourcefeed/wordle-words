@@ -24,4 +24,15 @@ neighbours:
 - yurts
 anagrams:
 - fusty
+prev_word: yucky
+next_word: yugas
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yu/"
+  label: Starting with YU
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

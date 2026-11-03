@@ -40,4 +40,15 @@ definitions:
 - pos: verb
   defs:
   - text: To lean against on one end; to end on, of a part of a building or wall.
+prev_word: abuse
+next_word: abuzz
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

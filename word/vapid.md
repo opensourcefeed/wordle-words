@@ -38,4 +38,15 @@ definitions:
   - text: Offering nothing that is stimulating or challenging.
   - text: Lifeless, dull, or banal.
   - text: Tasteless, bland, or insipid.
+prev_word: vapes
+next_word: vapor
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

@@ -37,4 +37,15 @@ anagrams:
 - meals
 - melas
 - samel
+prev_word: mesad
+next_word: mesas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/me/"
+  label: Starting with ME
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -33,4 +33,15 @@ anagrams:
 - palas
 - palsa
 - plaas
+prev_word: salop
+next_word: salps
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/pa/"
+  label: Ending in PA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

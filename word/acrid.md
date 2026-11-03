@@ -41,4 +41,15 @@ definitions:
     example: The bombardier beetle sprays acrid secretions to defend itself.
   - text: Caustic; bitter; bitterly irritating.
     example: That man has an acrid temper.
+prev_word: acres
+next_word: acron
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/id/"
+  label: Ending in ID
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

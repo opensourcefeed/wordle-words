@@ -57,4 +57,15 @@ definitions:
   defs:
   - text: To drain the water from.
   - text: Of a ship, to be grounded.
+prev_word: sewar
+next_word: sewel
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/se/"
+  label: Starting with SE
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

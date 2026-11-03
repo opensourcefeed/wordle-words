@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: S_ART
   count: 8
+prev_word: skarn
+next_word: skate
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

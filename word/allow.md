@@ -58,4 +58,15 @@ definitions:
   - text: To praise; to approve of; hence, to sanction.
   - text: To sanction; to invest; to entrust.
   - text: To like; to be suited or pleased with.
+prev_word: allot
+next_word: alloy
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/al/"
+  label: Starting with AL
+- url: "/ending-with/ow/"
+  label: Ending in OW
+- url: "/ending-with/w/"
+  label: Ending in W
 ---

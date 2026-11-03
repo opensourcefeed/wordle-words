@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - ident
 - tined
+prev_word: teils
+next_word: teins
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/nd/"
+  label: Ending in ND
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

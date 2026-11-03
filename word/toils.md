@@ -53,4 +53,15 @@ definitions:
   - text: To struggle.
   - text: To work (something); often with out.
   - text: To weary through excessive labour.
+prev_word: toile
+next_word: toing
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/to/"
+  label: Starting with TO
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

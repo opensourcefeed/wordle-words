@@ -30,4 +30,15 @@ neighbours:
 - noons
 - noops
 - noris
+prev_word: noobs
+next_word: nooit
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

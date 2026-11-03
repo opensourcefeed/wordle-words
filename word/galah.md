@@ -30,4 +30,15 @@ definitions:
   - text: A pink and grey species of cockatoo, Eolophus roseicapilla, native to Australia.
   - text: A fool, an idiot.
     example: That galah nearly drove me off the road.
+prev_word: gajos
+next_word: galas
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

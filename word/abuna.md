@@ -30,4 +30,15 @@ definitions:
 - pos: noun
   defs:
   - text: The Patriarch, or head of the Abyssinian Church.
+prev_word: absit
+next_word: abune
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

@@ -27,4 +27,15 @@ neighbours:
 - quirl
 - quoll
 - quork
+prev_word: quork
+next_word: quota
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/rl/"
+  label: Ending in RL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -25,4 +25,13 @@ neighbours:
 - skell
 - skelm
 - skelp
+prev_word: skein
+next_word: skell
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sk/"
+  label: Starting with SK
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -36,4 +36,15 @@ definitions:
       abrasion and generally maintained by an inflammation and/or an infection.
   - text: Peptic ulcer
   - text: Anything that festers and corrupts like an open sore; a vice in character.
+prev_word: ulans
+next_word: ulema
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/starting-with/ul/"
+  label: Starting with UL
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

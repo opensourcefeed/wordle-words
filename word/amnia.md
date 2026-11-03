@@ -34,4 +34,15 @@ definitions:
   defs:
   - text: The innermost membrane of the fetal membranes of reptiles, birds, and mammals;
       the sac in which the embryo is suspended.
+prev_word: ammos
+next_word: amnic
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/am/"
+  label: Starting with AM
+- url: "/ending-with/ia/"
+  label: Ending in IA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

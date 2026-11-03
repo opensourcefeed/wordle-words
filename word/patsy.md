@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: A person who is taken advantage of, especially by being cheated or blamed
       for something.
+prev_word: patly
+next_word: patta
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/sy/"
+  label: Ending in SY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

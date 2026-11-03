@@ -88,4 +88,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Bad.
+prev_word: shand
+next_word: shans
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/nk/"
+  label: Ending in NK
+- url: "/ending-with/k/"
+  label: Ending in K
 ---

@@ -32,4 +32,13 @@ definitions:
   defs:
   - text: Fuck (the taboo swear word, but not in the sense "to copulate")
     example: And he kept saying, "Effing this, effing that."
+prev_word: eevns
+next_word: effer
+hubs:
+- url: "/starting-with/e/"
+  label: Starting with E
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

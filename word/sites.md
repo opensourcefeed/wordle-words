@@ -64,4 +64,15 @@ definitions:
 - pos: verb
   defs:
   - text: To situate or place a building.
+prev_word: sited
+next_word: sithe
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/si/"
+  label: Starting with SI
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

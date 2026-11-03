@@ -26,4 +26,15 @@ neighbours:
 - siris
 anagrams:
 - shirs
+prev_word: shrew
+next_word: shrow
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

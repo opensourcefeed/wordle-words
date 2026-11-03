@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _AYER
   count: 7
+prev_word: hayed
+next_word: hayey
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/ha/"
+  label: Starting with HA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

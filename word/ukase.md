@@ -31,4 +31,13 @@ definitions:
   - text: An authoritative proclamation; an edict, especially decreed by a Russian
       czar or (later) emperor.
   - text: Any absolutist order or arrogant proclamation
+prev_word: uhuru
+next_word: ulama
+hubs:
+- url: "/starting-with/u/"
+  label: Starting with U
+- url: "/ending-with/se/"
+  label: Ending in SE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

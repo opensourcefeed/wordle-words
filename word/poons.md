@@ -51,4 +51,15 @@ definitions:
   - text: Poontang, the vagina, or, intercourse with a woman.
     example: I'm gonna get me some poon at this party.
   - text: A wimp; a pussy.
+prev_word: pooly
+next_word: poopa
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/po/"
+  label: Starting with PO
+- url: "/ending-with/ns/"
+  label: Ending in NS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

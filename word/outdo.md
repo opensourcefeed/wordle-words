@@ -33,4 +33,15 @@ definitions:
 - pos: verb
   defs:
   - text: To excel; go beyond in performance; surpass.
+prev_word: outby
+next_word: outed
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ou/"
+  label: Starting with OU
+- url: "/ending-with/do/"
+  label: Ending in DO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

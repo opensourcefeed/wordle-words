@@ -29,4 +29,15 @@ neighbours:
 anagrams:
 - docus
 - scudo
+prev_word: douce
+next_word: dough
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/cs/"
+  label: Ending in CS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

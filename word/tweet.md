@@ -48,4 +48,15 @@ definitions:
 - pos: interjection
   defs:
   - text: An onomatopoeic of bird singing.
+prev_word: tweer
+next_word: twerk
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

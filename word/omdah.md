@@ -25,4 +25,15 @@ neighbours:
 - omdeh
 - omlah
 - omrah
+prev_word: ombus
+next_word: omdas
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/om/"
+  label: Starting with OM
+- url: "/ending-with/ah/"
+  label: Ending in AH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

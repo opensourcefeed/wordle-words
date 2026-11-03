@@ -40,4 +40,15 @@ definitions:
   defs:
   - text: Word of mouth.
   - text: Verbal, oral, informal.
+prev_word: parms
+next_word: parps
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ol/"
+  label: Ending in OL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

@@ -25,4 +25,15 @@ neighbours:
 - farce
 - farcy
 - fasci
+prev_word: farce
+next_word: farcy
+hubs:
+- url: "/starting-with/f/"
+  label: Starting with F
+- url: "/starting-with/fa/"
+  label: Starting with FA
+- url: "/ending-with/ci/"
+  label: Ending in CI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

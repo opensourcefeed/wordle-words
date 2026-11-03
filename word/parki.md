@@ -29,4 +29,15 @@ neighbours:
 - parks
 - parky
 - parti
+prev_word: parka
+next_word: parks
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pa/"
+  label: Starting with PA
+- url: "/ending-with/ki/"
+  label: Ending in KI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Not forbidden by formal or informal rules.
   - text: Explicitly established or constituted by law.
+prev_word: licht
+next_word: licks
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

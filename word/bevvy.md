@@ -31,4 +31,15 @@ definitions:
 - pos: verb
   defs:
   - text: To get drunk
+prev_word: bevue
+next_word: bewdy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/vy/"
+  label: Ending in VY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

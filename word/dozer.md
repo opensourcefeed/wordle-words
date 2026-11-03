@@ -41,4 +41,15 @@ definitions:
 - pos: noun
   defs:
   - text: One who dozes.
+prev_word: dozen
+next_word: dozes
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/do/"
+  label: Starting with DO
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

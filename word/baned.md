@@ -37,4 +37,15 @@ neighbours:
 trap:
   pattern: _ANED
   count: 10
+prev_word: bandy
+next_word: banes
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/ed/"
+  label: Ending in ED
+- url: "/ending-with/d/"
+  label: Ending in D
 ---

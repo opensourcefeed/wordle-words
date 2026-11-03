@@ -85,4 +85,15 @@ definitions:
   - text: To assume suddenly a new and different character from the rest of the plant
       or from the type of the species; said of a bud, shoot, plant, or animal.
   - text: To close (a door).
+prev_word: spork
+next_word: sposa
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sp/"
+  label: Starting with SP
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

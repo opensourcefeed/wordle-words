@@ -32,4 +32,15 @@ anagrams:
 - latus
 - sault
 - talus
+prev_word: salue
+next_word: salve
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sa/"
+  label: Starting with SA
+- url: "/ending-with/ut/"
+  label: Ending in UT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -49,4 +49,15 @@ definitions:
   - text: "(by extension, since the 16th century) Any in-between place, state or condition
       of neglect or oblivion which results in an unresolved status, delay or deadlock."
     example: My application has been stuck in bureaucratic limbo for two weeks.
+prev_word: limbi
+next_word: limbs
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/bo/"
+  label: Ending in BO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

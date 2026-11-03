@@ -28,4 +28,15 @@ neighbours:
 anagrams:
 - aryls
 - ryals
+prev_word: rayle
+next_word: rayne
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

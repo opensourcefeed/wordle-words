@@ -30,4 +30,15 @@ neighbours:
 - tsade
 anagrams:
 - teaed
+prev_word: teach
+next_word: teads
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/te/"
+  label: Starting with TE
+- url: "/ending-with/de/"
+  label: Ending in DE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

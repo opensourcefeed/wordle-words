@@ -65,4 +65,15 @@ definitions:
   - text: To beat; to lash; to make stripes on.
   - text: To adorn with narrow strips or braids of some decorative material.
     example: cloth laced with silver
+prev_word: lacer
+next_word: lacet
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

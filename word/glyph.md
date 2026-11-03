@@ -31,4 +31,15 @@ definitions:
   - text: A visual representation of a letter, character, or symbol, in a specific
       font and style.
   - text: A vertical groove.
+prev_word: gluts
+next_word: gnapi
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gl/"
+  label: Starting with GL
+- url: "/ending-with/ph/"
+  label: Ending in PH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

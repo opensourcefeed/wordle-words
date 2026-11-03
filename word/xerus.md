@@ -22,4 +22,13 @@ stats:
   - X
   starter_tier: Average
   starter_top_percent: 32
+prev_word: xerox
+next_word: xoana
+hubs:
+- url: "/starting-with/x/"
+  label: Starting with X
+- url: "/ending-with/us/"
+  label: Ending in US
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

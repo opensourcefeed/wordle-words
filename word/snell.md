@@ -39,4 +39,15 @@ definitions:
   - text: Quick, smart; sharp, active, brisk or nimble; lively.
   - text: Quick-witted; witty.
   - text: Harsh; severe.
+prev_word: snees
+next_word: snibs
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sn/"
+  label: Starting with SN
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

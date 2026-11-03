@@ -40,4 +40,15 @@ definitions:
   - text: Two
     example: Bring me these twain cups of wine and water, and let us drink from the
       one we feel more befitting of this day.
+prev_word: twaes
+next_word: twals
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tw/"
+  label: Starting with TW
+- url: "/ending-with/in/"
+  label: Ending in IN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

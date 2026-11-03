@@ -24,4 +24,15 @@ stats:
 neighbours:
 - rubai
 - ruble
+prev_word: ruble
+next_word: rubor
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ru/"
+  label: Starting with RU
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

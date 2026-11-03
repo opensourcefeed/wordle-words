@@ -66,4 +66,15 @@ definitions:
 - pos: noun
   defs:
   - text: A volunteer firefighter.
+prev_word: valve
+next_word: vampy
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/va/"
+  label: Starting with VA
+- url: "/ending-with/ps/"
+  label: Ending in PS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

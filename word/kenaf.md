@@ -27,4 +27,13 @@ definitions:
   - text: Hibiscus cannabinus, an annual or biennial herbaceous plant found mainly
       in Asia.
   - text: The fibre obtained from this plant, similar to jute.
+prev_word: kempy
+next_word: kench
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

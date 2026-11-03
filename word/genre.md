@@ -39,4 +39,15 @@ definitions:
   - text: A kind; a stylistic category or sort, especially of literature or other
       artworks.
     example: The computer game Half-Life redefined the first-person shooter genre.
+prev_word: genom
+next_word: genro
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ge/"
+  label: Starting with GE
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

@@ -25,4 +25,15 @@ definitions:
 - pos: noun
   defs:
   - text: A case of confusion.
+prev_word: mixte
+next_word: miyas
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mi/"
+  label: Starting with MI
+- url: "/ending-with/up/"
+  label: Ending in UP
+- url: "/ending-with/p/"
+  label: Ending in P
 ---

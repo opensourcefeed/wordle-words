@@ -27,4 +27,15 @@ neighbours:
 - curfs
 anagrams:
 - ficus
+prev_word: cuffs
+next_word: cuing
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cu/"
+  label: Starting with CU
+- url: "/ending-with/fs/"
+  label: Ending in FS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

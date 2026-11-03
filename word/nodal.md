@@ -36,4 +36,15 @@ definitions:
   - text: Of the nature of, or relating to, a node.
     example: a nodal point
   - text: Of or relating to the nodus.
+prev_word: nocks
+next_word: noddy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/no/"
+  label: Starting with NO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

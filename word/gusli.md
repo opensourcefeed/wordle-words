@@ -25,4 +25,15 @@ neighbours:
 - gusle
 anagrams:
 - iglus
+prev_word: gusle
+next_word: gussy
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gu/"
+  label: Starting with GU
+- url: "/ending-with/li/"
+  label: Ending in LI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

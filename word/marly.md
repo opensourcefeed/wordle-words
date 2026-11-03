@@ -35,4 +35,15 @@ neighbours:
 - parly
 anagrams:
 - mylar
+prev_word: marls
+next_word: marma
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ly/"
+  label: Ending in LY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

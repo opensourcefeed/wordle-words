@@ -27,4 +27,15 @@ definitions:
 - pos: noun
   defs:
   - text: A curved Nepalese knife used especially by Gurkha fighters.
+prev_word: kuias
+next_word: kukus
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ku/"
+  label: Starting with KU
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

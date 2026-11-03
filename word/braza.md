@@ -27,4 +27,15 @@ neighbours:
 anagrams:
 - bazar
 - zabra
+prev_word: brays
+next_word: braze
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/br/"
+  label: Starting with BR
+- url: "/ending-with/za/"
+  label: Ending in ZA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

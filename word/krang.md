@@ -29,4 +29,15 @@ neighbours:
 - orang
 - prang
 - wrang
+prev_word: krait
+next_word: krans
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/kr/"
+  label: Starting with KR
+- url: "/ending-with/ng/"
+  label: Ending in NG
+- url: "/ending-with/g/"
+  label: Ending in G
 ---

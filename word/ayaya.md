@@ -22,4 +22,13 @@ stats:
   starter_top_percent: 100
 neighbours:
 - abaya
+prev_word: ayahs
+next_word: ayelp
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/ending-with/ya/"
+  label: Ending in YA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

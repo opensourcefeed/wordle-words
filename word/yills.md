@@ -40,4 +40,15 @@ anagrams:
 trap:
   pattern: _ILLS
   count: 19
+prev_word: yikes
+next_word: yince
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/yi/"
+  label: Starting with YI
+- url: "/ending-with/ls/"
+  label: Ending in LS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

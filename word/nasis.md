@@ -33,4 +33,15 @@ neighbours:
 anagrams:
 - sains
 - sasin
+prev_word: nasho
+next_word: nason
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/na/"
+  label: Starting with NA
+- url: "/ending-with/is/"
+  label: Ending in IS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

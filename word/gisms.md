@@ -24,4 +24,15 @@ neighbours:
 - gismo
 - gists
 - jisms
+prev_word: gismo
+next_word: gists
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/gi/"
+  label: Starting with GI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

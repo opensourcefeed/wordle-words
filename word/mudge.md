@@ -34,4 +34,15 @@ anagrams:
 trap:
   pattern: _UDGE
   count: 6
+prev_word: muddy
+next_word: mudif
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/mu/"
+  label: Starting with MU
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

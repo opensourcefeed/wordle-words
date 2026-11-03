@@ -57,4 +57,15 @@ definitions:
   - text: To decorate with quillwork.
   - text: To subject (a woman who is giving birth) to the practice of quilling (blowing
       pepper into her nose to induce or hasten labor).
+prev_word: quila
+next_word: quilt
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/ll/"
+  label: Ending in LL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

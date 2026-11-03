@@ -31,4 +31,15 @@ neighbours:
 - swopt
 anagrams:
 - potts
+prev_word: stops
+next_word: store
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/st/"
+  label: Starting with ST
+- url: "/ending-with/pt/"
+  label: Ending in PT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ERRY
   count: 11
+prev_word: herps
+next_word: herse
+hubs:
+- url: "/starting-with/h/"
+  label: Starting with H
+- url: "/starting-with/he/"
+  label: Starting with HE
+- url: "/ending-with/ry/"
+  label: Ending in RY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

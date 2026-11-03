@@ -38,4 +38,15 @@ definitions:
   - text: To warp (a vessel) by carrying out a kedge in a boat, dropping it overboard,
       and hauling the vessel up to it.
   - text: "(of a vessel) To move with the help of a kedge, as described above."
+prev_word: kecks
+next_word: kedgy
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ke/"
+  label: Starting with KE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

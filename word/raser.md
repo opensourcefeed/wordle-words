@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: RA_ER
   count: 10
+prev_word: rased
+next_word: rases
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ra/"
+  label: Starting with RA
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

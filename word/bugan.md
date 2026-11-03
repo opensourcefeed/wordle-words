@@ -26,4 +26,15 @@ neighbours:
 - sugan
 anagrams:
 - unbag
+prev_word: bufty
+next_word: buggy
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/bu/"
+  label: Starting with BU
+- url: "/ending-with/an/"
+  label: Ending in AN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

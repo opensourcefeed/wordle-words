@@ -26,4 +26,15 @@ neighbours:
 - wheft
 - whipt
 - whist
+prev_word: whiff
+next_word: whigs
+hubs:
+- url: "/starting-with/w/"
+  label: Starting with W
+- url: "/starting-with/wh/"
+  label: Starting with WH
+- url: "/ending-with/ft/"
+  label: Ending in FT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

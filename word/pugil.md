@@ -23,4 +23,15 @@ stats:
 neighbours:
 - pupil
 - mugil
+prev_word: puggy
+next_word: puhas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pu/"
+  label: Starting with PU
+- url: "/ending-with/il/"
+  label: Ending in IL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

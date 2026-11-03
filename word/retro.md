@@ -47,4 +47,15 @@ definitions:
 - pos: noun
   defs:
   - text: An exhibition of works from an extended period of an artist's activity.
+prev_word: retox
+next_word: retry
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

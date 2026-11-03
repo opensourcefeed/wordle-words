@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{%- assign home = '/' | relative_url -%}
+<nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ home }}">All Wordle Words</a>
+    {% for c in page.crumbs %}<span aria-hidden="true">›</span> <a href="{{ c.url | relative_url }}">{{ c.name }}</a>
+    {% endfor %}<span aria-hidden="true">›</span> <span aria-current="page">{{ page.short }}</span>
+</nav>
+
+<article class="hub">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    <div class="text-center back-link">
+        <a class="btn btn-primary" href="{{ '/browse/' | relative_url }}">Browse all word lists</a>
+    </div>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "All Wordle Words", "item": {{ '/' | absolute_url | jsonify }}}
+    {%- for c in page.crumbs %},
+    {"@type": "ListItem", "position": {{ forloop.index | plus: 1 }}, "name": {{ c.name | jsonify }}, "item": {{ c.url | absolute_url | jsonify }}}
+    {%- endfor %},
+    {"@type": "ListItem", "position": {{ page.crumbs.size | plus: 2 }}, "name": {{ page.short | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+  ]
+}
+</script>

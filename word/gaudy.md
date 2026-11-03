@@ -38,4 +38,15 @@ definitions:
   - text: Very showy or ornamented, now especially when excessive, or in a tasteless
       or vulgar manner
   - text: Fun; merry; festive
+prev_word: gauds
+next_word: gauge
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/ga/"
+  label: Starting with GA
+- url: "/ending-with/dy/"
+  label: Ending in DY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

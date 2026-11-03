@@ -50,4 +50,15 @@ definitions:
   - text: To study with effort or determination (object of study indicated by "up
       on").
     example: You should swot up on your French before travelling to Paris.
+prev_word: sworn
+next_word: swoun
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sw/"
+  label: Starting with SW
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

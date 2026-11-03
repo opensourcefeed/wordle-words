@@ -60,4 +60,15 @@ definitions:
   defs:
   - text: To (re)constitute as one or more shires or counties.
     example: County Longford was shired in 1586
+prev_word: ships
+next_word: shirk
+hubs:
+- url: "/starting-with/s/"
+  label: Starting with S
+- url: "/starting-with/sh/"
+  label: Starting with SH
+- url: "/ending-with/re/"
+  label: Ending in RE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

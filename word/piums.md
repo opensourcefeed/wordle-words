@@ -23,4 +23,15 @@ stats:
 neighbours:
 - piuma
 - plums
+prev_word: piuma
+next_word: pivos
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/ms/"
+  label: Ending in MS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

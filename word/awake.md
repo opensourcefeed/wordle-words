@@ -40,4 +40,15 @@ definitions:
   - text: Not asleep; conscious.
   - text: "(by extension) Alert, aware."
     example: They were awake to the possibility of a decline in sales.
+prev_word: await
+next_word: award
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/aw/"
+  label: Starting with AW
+- url: "/ending-with/ke/"
+  label: Ending in KE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

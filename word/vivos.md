@@ -28,4 +28,15 @@ neighbours:
 - vinos
 - vivas
 - vives
+prev_word: vivid
+next_word: vivre
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/vi/"
+  label: Starting with VI
+- url: "/ending-with/os/"
+  label: Ending in OS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

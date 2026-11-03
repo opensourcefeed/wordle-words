@@ -33,4 +33,15 @@ neighbours:
 trap:
   pattern: PEA_E
   count: 6
+prev_word: peach
+next_word: peags
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/ge/"
+  label: Ending in GE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

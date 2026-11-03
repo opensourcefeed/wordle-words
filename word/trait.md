@@ -49,4 +49,15 @@ definitions:
   - text: An uninstantiable collection of methods that provides functionality to a
       class by using the class’s own interface.
     example: Traits are somewhat between an interface and a mixin.
+prev_word: train
+next_word: tramp
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/tr/"
+  label: Starting with TR
+- url: "/ending-with/it/"
+  label: Ending in IT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

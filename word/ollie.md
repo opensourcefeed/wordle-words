@@ -35,4 +35,15 @@ definitions:
 - pos: verb
   defs:
   - text: To perform an ollie.
+prev_word: oller
+next_word: ology
+hubs:
+- url: "/starting-with/o/"
+  label: Starting with O
+- url: "/starting-with/ol/"
+  label: Starting with OL
+- url: "/ending-with/ie/"
+  label: Ending in IE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

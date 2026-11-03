@@ -23,4 +23,15 @@ stats:
   starter_top_percent: 9
 neighbours:
 - ablet
+prev_word: abmho
+next_word: abode
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ab/"
+  label: Starting with AB
+- url: "/ending-with/et/"
+  label: Ending in ET
+- url: "/ending-with/t/"
+  label: Ending in T
 ---

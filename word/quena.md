@@ -27,4 +27,15 @@ neighbours:
 - quina
 anagrams:
 - quean
+prev_word: queme
+next_word: quern
+hubs:
+- url: "/starting-with/q/"
+  label: Starting with Q
+- url: "/starting-with/qu/"
+  label: Starting with QU
+- url: "/ending-with/na/"
+  label: Ending in NA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

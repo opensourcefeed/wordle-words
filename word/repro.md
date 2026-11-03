@@ -51,4 +51,15 @@ definitions:
   defs:
   - text: The reproduction, reprinting and copying of graphics, especially using electromechanical
       or photographic methods
+prev_word: repps
+next_word: repun
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/re/"
+  label: Starting with RE
+- url: "/ending-with/ro/"
+  label: Ending in RO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

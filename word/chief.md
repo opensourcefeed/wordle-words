@@ -49,4 +49,13 @@ definitions:
   - text: Primary; principal.
     example: Negligence was the chief cause of the disaster.
   - text: Intimate, friendly.
+prev_word: chide
+next_word: chiel
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/f/"
+  label: Ending in F
 ---

@@ -22,4 +22,15 @@ stats:
   starter_top_percent: 98
 neighbours:
 - jambe
+prev_word: jelly
+next_word: jemmy
+hubs:
+- url: "/starting-with/j/"
+  label: Starting with J
+- url: "/starting-with/je/"
+  label: Starting with JE
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

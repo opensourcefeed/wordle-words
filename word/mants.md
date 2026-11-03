@@ -36,4 +36,15 @@ neighbours:
 trap:
   pattern: _ANTS
   count: 14
+prev_word: manto
+next_word: manty
+hubs:
+- url: "/starting-with/m/"
+  label: Starting with M
+- url: "/starting-with/ma/"
+  label: Starting with MA
+- url: "/ending-with/ts/"
+  label: Ending in TS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

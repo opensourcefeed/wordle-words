@@ -32,4 +32,15 @@ definitions:
   defs:
   - text: Having a pliable or springy texture when chewed.
     example: I must have spent an hour gnawing on the chewy taffy.
+prev_word: chews
+next_word: chiao
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/ch/"
+  label: Starting with CH
+- url: "/ending-with/wy/"
+  label: Ending in WY
+- url: "/ending-with/y/"
+  label: Ending in Y
 ---

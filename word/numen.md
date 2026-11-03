@@ -31,4 +31,15 @@ definitions:
   defs:
   - text: A divinity, especially a local or presiding god.
   - text: An influence or phenomenon at once mystical and transcendant.
+prev_word: numbs
+next_word: nummy
+hubs:
+- url: "/starting-with/n/"
+  label: Starting with N
+- url: "/starting-with/nu/"
+  label: Starting with NU
+- url: "/ending-with/en/"
+  label: Ending in EN
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

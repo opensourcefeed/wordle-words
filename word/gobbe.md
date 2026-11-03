@@ -27,4 +27,15 @@ neighbours:
 - gobby
 anagrams:
 - begob
+prev_word: gobar
+next_word: gobbi
+hubs:
+- url: "/starting-with/g/"
+  label: Starting with G
+- url: "/starting-with/go/"
+  label: Starting with GO
+- url: "/ending-with/be/"
+  label: Ending in BE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

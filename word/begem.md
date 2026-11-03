@@ -22,4 +22,15 @@ stats:
 neighbours:
 - beget
 - begum
+prev_word: begat
+next_word: beget
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/be/"
+  label: Starting with BE
+- url: "/ending-with/em/"
+  label: Ending in EM
+- url: "/ending-with/m/"
+  label: Ending in M
 ---

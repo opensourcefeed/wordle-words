@@ -24,4 +24,15 @@ stats:
   starter_top_percent: 49
 anagrams:
 - raird
+prev_word: ardor
+next_word: aread
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ar/"
+  label: Starting with AR
+- url: "/ending-with/ri/"
+  label: Ending in RI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

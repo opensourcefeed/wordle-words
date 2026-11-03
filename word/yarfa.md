@@ -23,4 +23,15 @@ stats:
 neighbours:
 - yarra
 - yarta
+prev_word: yarer
+next_word: yarks
+hubs:
+- url: "/starting-with/y/"
+  label: Starting with Y
+- url: "/starting-with/ya/"
+  label: Starting with YA
+- url: "/ending-with/fa/"
+  label: Ending in FA
+- url: "/ending-with/a/"
+  label: Ending in A
 ---

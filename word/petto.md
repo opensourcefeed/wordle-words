@@ -28,4 +28,15 @@ neighbours:
 - petti
 - potto
 - putto
+prev_word: petti
+next_word: petty
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/to/"
+  label: Ending in TO
+- url: "/ending-with/o/"
+  label: Ending in O
 ---

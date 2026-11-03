@@ -39,4 +39,15 @@ neighbours:
 trap:
   pattern: _ORAL
   count: 9
+prev_word: roque
+next_word: rores
+hubs:
+- url: "/starting-with/r/"
+  label: Starting with R
+- url: "/starting-with/ro/"
+  label: Starting with RO
+- url: "/ending-with/al/"
+  label: Ending in AL
+- url: "/ending-with/l/"
+  label: Ending in L
 ---

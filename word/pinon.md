@@ -36,4 +36,15 @@ definitions:
       that bear edible seeds (pine nuts), especially Pinus edulis; the nut pine.
     example: The hills were covered with clusters of piñon.
   - text: A pine nut.
+prev_word: pinol
+next_word: pinot
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pi/"
+  label: Starting with PI
+- url: "/ending-with/on/"
+  label: Ending in ON
+- url: "/ending-with/n/"
+  label: Ending in N
 ---

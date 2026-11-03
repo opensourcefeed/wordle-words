@@ -31,4 +31,15 @@ neighbours:
 trap:
   pattern: _YTHE
   count: 7
+prev_word: tyros
+next_word: tzars
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ty/"
+  label: Starting with TY
+- url: "/ending-with/he/"
+  label: Ending in HE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

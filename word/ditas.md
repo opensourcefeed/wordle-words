@@ -42,4 +42,15 @@ anagrams:
 trap:
   pattern: _ITAS
   count: 6
+prev_word: dital
+next_word: ditch
+hubs:
+- url: "/starting-with/d/"
+  label: Starting with D
+- url: "/starting-with/di/"
+  label: Starting with DI
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -25,4 +25,15 @@ stats:
 neighbours:
 - psoae
 - psoas
+prev_word: psoae
+next_word: psoas
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/ps/"
+  label: Starting with PS
+- url: "/ending-with/ai/"
+  label: Ending in AI
+- url: "/ending-with/i/"
+  label: Ending in I
 ---

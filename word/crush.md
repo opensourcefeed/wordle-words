@@ -66,4 +66,15 @@ definitions:
   - text: To feel infatuation or unrequited love.
     example: She's crushing on him.
   - text: To give a compressed or foreshortened appearance to.
+prev_word: cruse
+next_word: crust
+hubs:
+- url: "/starting-with/c/"
+  label: Starting with C
+- url: "/starting-with/cr/"
+  label: Starting with CR
+- url: "/ending-with/sh/"
+  label: Ending in SH
+- url: "/ending-with/h/"
+  label: Ending in H
 ---

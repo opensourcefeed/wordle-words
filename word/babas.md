@@ -51,4 +51,15 @@ definitions:
   - text: A baby, child.
   - text: In baby talk, often used for a variety of words beginning with b, such as
       bottle or blanket.
+prev_word: baaps
+next_word: babby
+hubs:
+- url: "/starting-with/b/"
+  label: Starting with B
+- url: "/starting-with/ba/"
+  label: Starting with BA
+- url: "/ending-with/as/"
+  label: Ending in AS
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

@@ -55,4 +55,15 @@ definitions:
   - text: To transfer (molten glass) from the pot to the forming table, in making
       plate glass.
   - text: To admit water by leakage.
+prev_word: lader
+next_word: ladle
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/la/"
+  label: Starting with LA
+- url: "/ending-with/es/"
+  label: Ending in ES
+- url: "/ending-with/s/"
+  label: Ending in S
 ---

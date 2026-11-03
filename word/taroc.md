@@ -28,4 +28,13 @@ neighbours:
 - taros
 anagrams:
 - actor
+prev_word: tarns
+next_word: tarok
+hubs:
+- url: "/starting-with/t/"
+  label: Starting with T
+- url: "/starting-with/ta/"
+  label: Starting with TA
+- url: "/ending-with/c/"
+  label: Ending in C
 ---

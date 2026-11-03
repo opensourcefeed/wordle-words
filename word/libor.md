@@ -28,4 +28,15 @@ neighbours:
 - livor
 anagrams:
 - broil
+prev_word: liber
+next_word: libra
+hubs:
+- url: "/starting-with/l/"
+  label: Starting with L
+- url: "/starting-with/li/"
+  label: Starting with LI
+- url: "/ending-with/or/"
+  label: Ending in OR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

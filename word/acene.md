@@ -28,4 +28,15 @@ neighbours:
 - akene
 - amene
 - arene
+prev_word: acedy
+next_word: acerb
+hubs:
+- url: "/starting-with/a/"
+  label: Starting with A
+- url: "/starting-with/ac/"
+  label: Starting with AC
+- url: "/ending-with/ne/"
+  label: Ending in NE
+- url: "/ending-with/e/"
+  label: Ending in E
 ---

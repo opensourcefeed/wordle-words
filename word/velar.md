@@ -38,4 +38,15 @@ definitions:
   defs:
   - text: Articulated at the velum or soft palate.
   - text: Referring to a veil or velum.
+prev_word: veiny
+next_word: velds
+hubs:
+- url: "/starting-with/v/"
+  label: Starting with V
+- url: "/starting-with/ve/"
+  label: Starting with VE
+- url: "/ending-with/ar/"
+  label: Ending in AR
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

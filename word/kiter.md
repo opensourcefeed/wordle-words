@@ -36,4 +36,15 @@ anagrams:
 trap:
   pattern: _ITER
   count: 7
+prev_word: kited
+next_word: kites
+hubs:
+- url: "/starting-with/k/"
+  label: Starting with K
+- url: "/starting-with/ki/"
+  label: Starting with KI
+- url: "/ending-with/er/"
+  label: Ending in ER
+- url: "/ending-with/r/"
+  label: Ending in R
 ---

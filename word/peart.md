@@ -44,4 +44,15 @@ definitions:
 - pos: adjective
   defs:
   - text: Lively; active.
+prev_word: pears
+next_word: pease
+hubs:
+- url: "/starting-with/p/"
+  label: Starting with P
+- url: "/starting-with/pe/"
+  label: Starting with PE
+- url: "/ending-with/rt/"
+  label: Ending in RT
+- url: "/ending-with/t/"
+  label: Ending in T
 ---
