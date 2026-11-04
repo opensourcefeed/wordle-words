@@ -125,6 +125,7 @@ Users judge a site's trust and quality in the first few seconds. A polished desi
   - [ ] Move to a **GitHub Actions** Pages build with Jekyll 4.3 (`actions/jekyll-build-pages` is Jekyll 3; use `ruby/setup-ruby` + `bundle exec jekyll build` + `actions/deploy-pages`). This enables Jekyll 4, any plugin (e.g. data-page generation instead of 15k `.md` files), and a scheduled job that runs `update_past_answers.rb` + `build_pages.rb`. Requires switching the repo's Pages source to "GitHub Actions". (H, M)
 - [x] Word list verified against the current NYT accepted list on 2026-11-03: exactly 14,855 words, all with a page. Re-check periodically with `ruby scripts/validate_words.rb <reference-list.txt>`. (M, S)
 - [ ] Replace or complement Ahrefs analytics with an analytics tool that records in-page events (checker use and puzzle click-through). (M, S)
+- [x] **Google Analytics 4 alongside Ahrefs**: load GA4 (`G-KD5NJYRYD3`, the same property as the puzzles hub and the Wordle Solver) in `_includes/tracking.html`, production builds only, so visits from Wordle Words to the puzzles are tracked in one property. (H, S)
 
 ---
 

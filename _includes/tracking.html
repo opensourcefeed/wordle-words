@@ -1,5 +1,13 @@
 <!-- Tracking tags -->
 {% if jekyll.environment == "production" %}
+<!-- Google tag (gtag.js): the same GA4 property as the puzzles hub and the Wordle Solver -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KD5NJYRYD3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-KD5NJYRYD3');
+</script>
 <script src="https://analytics.ahrefs.com/analytics.js" data-key="CtE+TXWgN05s3ROalk1xUg" async></script>
 {% endif %}
 <!-- End of tracking tags-->
